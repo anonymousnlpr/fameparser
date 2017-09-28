@@ -5,7 +5,7 @@ Features are extracted from distributional semantics-based sense inventories and
 Since Framester is a frame-based knowledge graph, which enables full-fledged OWL querying and reasoning, our resource paves the way for the development of novel, deeper semantic-aware applications 
 that could benefit from the combination of knowledge from text and complex symbolic representations of events and participants.
 
-We evaluated the resource in the task of WordFrameDisambiguation (WF)D and in this repository we share the source code and the datasets we produced for the evaluation.
+We evaluated the resource in the task of WordFrameDisambiguation (WFD) and in this repository we share the source code and the datasets we produced for the evaluation.
 
 Prerequirements<br>
 In order to correctly execute the WFD:<br> 
