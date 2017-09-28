@@ -1,0 +1,593 @@
+SILVER:205	23703	1	2	0	4101337	AMMAN , Jordan ( AP ) U.S. Representative Tony Hall arrived in Jordan on Saturday en route to Iraq , where he is expected to look into the plight of Iraqis after nearly 10 years of U.N. trade sanctions .	940	arrive.v	54	Arriving	MANUAL	6544785	52	58	RLG	arrived
+LINKED:[10	10	52	58	bn:00082790v		http://babelnet.org/rdf/s00082790v	1.0	0.04	2.437241E-4	BABELFY]
+RANK:=== COUNTER  Counter 4531 ===
+	Change_position_on_a_scale: 0.15333333333333332
+	Path_shape: 0.11333333333333333
+	Contacting: 0.06
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	2	0	4101337	AMMAN , Jordan ( AP ) U.S. Representative Tony Hall arrived in Jordan on Saturday en route to Iraq , where he is expected to look into the plight of Iraqis after nearly 10 years of U.N. trade sanctions .	4000	Saturday.n	229	Calendric_unit	MANUAL	6544847	73	80	KmG	Saturday
+LINKED:[14	14	73	80	bn:00068696n	http://dbpedia.org/resource/Saturday	http://babelnet.org/rdf/s00068696n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4532 ===
+	Calendric_unit: 0.07605633802816901
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23703	1	2	0	4101337	AMMAN , Jordan ( AP ) U.S. Representative Tony Hall arrived in Jordan on Saturday en route to Iraq , where he is expected to look into the plight of Iraqis after nearly 10 years of U.N. trade sanctions .	255	expect.v	26	Expectation	MANUAL	6544849	113	120	KmG	expected
+LINKED:[23	23	113	120	bn:00082665v		http://babelnet.org/rdf/s00082665v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4533 ===
+	Opinion: 0.12222222222222222
+	Expectation: 0.12222222222222222
+
+SELECTED:[Expectation]
+MATCH!
+SILVER:205	23703	1	2	0	4101337	AMMAN , Jordan ( AP ) U.S. Representative Tony Hall arrived in Jordan on Saturday en route to Iraq , where he is expected to look into the plight of Iraqis after nearly 10 years of U.N. trade sanctions .	7354	plight.n	300	Predicament	MANUAL	6544850	139	144	KmG	plight
+LINKED:[28	28	139	144	bn:00063036n		http://babelnet.org/rdf/s00063036n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4534 ===
+	Predicament: 0.02962962962962963
+
+SELECTED:[Predicament]
+MATCH!
+SILVER:205	23703	1	2	0	4101337	AMMAN , Jordan ( AP ) U.S. Representative Tony Hall arrived in Jordan on Saturday en route to Iraq , where he is expected to look into the plight of Iraqis after nearly 10 years of U.N. trade sanctions .	14283	nearly.adv	1923	Proportional_quantity	MANUAL	6544853	162	167	KmG	nearly
+LINKED:[32	32	162	167	bn:00114079r		http://babelnet.org/rdf/s00114079r	1.0	0.04	2.437241E-4	BABELFY]
+RANK:=== COUNTER  Counter 4535 ===
+	Relational_quantity: 0.018333333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	2	0	4101337	AMMAN , Jordan ( AP ) U.S. Representative Tony Hall arrived in Jordan on Saturday en route to Iraq , where he is expected to look into the plight of Iraqis after nearly 10 years of U.N. trade sanctions .	3878	year.n	224	Measure_duration	MANUAL	6544855	172	176	KmG	years
+LINKED:[34	34	172	176	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4536 ===
+	Calendric_unit: 0.08181818181818182
+	Measure_duration: 0.021212121212121213
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:205	23703	1	2	0	4101337	AMMAN , Jordan ( AP ) U.S. Representative Tony Hall arrived in Jordan on Saturday en route to Iraq , where he is expected to look into the plight of Iraqis after nearly 10 years of U.N. trade sanctions .	10676	sanction.n	347	Revenge	MANUAL	6551517	192	200	KmG	sanctions
+LINKED:[38	38	192	200	bn:01390975n	http://dbpedia.org/resource/Sanctions_(law)	http://babelnet.org/rdf/s01390975n	0.90909094	0.2	0.007311723	BABELFY]
+RANK:=== COUNTER  Counter 4537 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	3	0	4101338	Hall , an Ohio Democrat and one of very few U.S. congressmen to visit Iraq since the 1991 Gulf War over Kuwait , is scheduled to embark Sunday the 12-hour overland trip to the Iraqi capital , Baghdad .	1939	war.n	93	Hostile_encounter	MANUAL	6544867	95	97	KmG	War
+LINKED:[19	19	95	97	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.893401	0.44444445	0.05328489	BABELFY]
+RANK:=== COUNTER  Counter 4538 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	3	0	4101338	Hall , an Ohio Democrat and one of very few U.S. congressmen to visit Iraq since the 1991 Gulf War over Kuwait , is scheduled to embark Sunday the 12-hour overland trip to the Iraqi capital , Baghdad .	4655	Sunday.n	229	Calendric_unit	MANUAL	6544868	136	141	KmG	Sunday
+LINKED:[27	27	136	141	bn:14431293n	http://dbpedia.org/resource/Sunday_(2002_film)	http://babelnet.org/rdf/s14431293n	1.0	0.11111111	0.0012110203	BABELFY]
+RANK:=== COUNTER  Counter 4539 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	3	0	4101338	Hall , an Ohio Democrat and one of very few U.S. congressmen to visit Iraq since the 1991 Gulf War over Kuwait , is scheduled to embark Sunday the 12-hour overland trip to the Iraqi capital , Baghdad .	6064	trip.n	343	Travel	MANUAL	6544869	164	167	KmG	trip
+LINKED:[31	31	164	167	bn:00078318n		http://babelnet.org/rdf/s00078318n	1.0	0.11111111	0.0018165305	BABELFY]
+RANK:=== COUNTER  Counter 4540 ===
+	Travel: 0.13846153846153847
+
+SELECTED:[Travel]
+MATCH!
+SILVER:205	23703	1	3	0	4101338	Hall , an Ohio Democrat and one of very few U.S. congressmen to visit Iraq since the 1991 Gulf War over Kuwait , is scheduled to embark Sunday the 12-hour overland trip to the Iraqi capital , Baghdad .	12171	iraqi.a	1103	Origin	MANUAL	6544871	176	180	KmG	Iraqi
+LINKED:[34	34	176	180	bn:00047446n	http://dbpedia.org/resource/Iraqi_people	http://babelnet.org/rdf/s00047446n	1.0	0.33333334	0.014532244	BABELFY]
+RANK:=== COUNTER  Counter 4541 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	3	0	4101338	Hall , an Ohio Democrat and one of very few U.S. congressmen to visit Iraq since the 1991 Gulf War over Kuwait , is scheduled to embark Sunday the 12-hour overland trip to the Iraqi capital , Baghdad .	13938	capital.n	1883	Relational_political_locales	MANUAL	6544872	182	188	KmG	capital
+LINKED:[35	35	182	188	bn:00064917n	http://dbpedia.org/resource/Capital_city	http://babelnet.org/rdf/s00064917n	0.802974	0.6666667	0.065395094	BABELFY]
+RANK:=== COUNTER  Counter 4542 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	3	0	4101338	Hall , an Ohio Democrat and one of very few U.S. congressmen to visit Iraq since the 1991 Gulf War over Kuwait , is scheduled to embark Sunday the 12-hour overland trip to the Iraqi capital , Baghdad .	947	visit.v	54	Arriving	MANUAL	6544967	64	68	KmG	visit
+LINKED:[13	13	64	68	bn:00095130v		http://babelnet.org/rdf/s00095130v	0.85714287	0.11111111	0.0018165305	BABELFY]
+RANK:=== COUNTER  Counter 4543 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	3	0	4101338	Hall , an Ohio Democrat and one of very few U.S. congressmen to visit Iraq since the 1991 Gulf War over Kuwait , is scheduled to embark Sunday the 12-hour overland trip to the Iraqi capital , Baghdad .	14529	congressman.n	73	Leadership	MANUAL	6548811	49	59	JKs	congressmen
+LINKED:[11	11	49	59	bn:00021852n	http://dbpedia.org/resource/Member_of_Congress	http://babelnet.org/rdf/s00021852n	1.0	0.2777778	0.009082652	BABELFY]
+RANK:=== COUNTER  Counter 4544 ===
+	Leadership: 0.1622222222222222
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:205	23703	1	3	0	4101338	Hall , an Ohio Democrat and one of very few U.S. congressmen to visit Iraq since the 1991 Gulf War over Kuwait , is scheduled to embark Sunday the 12-hour overland trip to the Iraqi capital , Baghdad .	14535	gulf.n	191	Natural_features	MANUAL	6548909	90	93	JKs	Gulf
+LINKED:[18	18	90	93	bn:00042160n		http://babelnet.org/rdf/s00042160n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4545 ===
+	Natural_features: 0.5222222222222223
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:205	23703	1	3	0	4101338	Hall , an Ohio Democrat and one of very few U.S. congressmen to visit Iraq since the 1991 Gulf War over Kuwait , is scheduled to embark Sunday the 12-hour overland trip to the Iraqi capital , Baghdad .	12809	embark.v	1633	Board_vehicle	MANUAL	6548911	129	134	JKs	embark
+LINKED:[26	26	129	134	bn:00087549v		http://babelnet.org/rdf/s00087549v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4546 ===
+	Board_vehicle: 0.06923076923076923
+
+SELECTED:[Board_vehicle]
+MATCH!
+SILVER:205	23703	1	4	0	4101339	He did not speak to reporters in Jordan , but he told The Associated Press before leaving the United States that he hopes to `` separate the humanitarian work from the political issues . ''	9978	speak.v	910	Chatting	MANUAL	6544873	11	15	KmG	speak
+LINKED:[3	3	11	15	bn:00090943v		http://babelnet.org/rdf/s00090943v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4547 ===
+	Statement: 0.25
+	Communication_manner: 0.06538461538461539
+	Text_creation: 0.05384615384615385
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	4	0	4101339	He did not speak to reporters in Jordan , but he told The Associated Press before leaving the United States that he hopes to `` separate the humanitarian work from the political issues . ''	9177	tell.v	750	Telling	MANUAL	6544874	49	52	KmG	told
+LINKED:[11	11	49	52	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4548 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Becoming_aware: 0.05
+	Communication: 0.04583333333333333
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	4	0	4101339	He did not speak to reporters in Jordan , but he told The Associated Press before leaving the United States that he hopes to `` separate the humanitarian work from the political issues . ''	8622	leave.v	57	Departing	MANUAL	6544876	82	88	KmG	leaving
+LINKED:[16	16	82	88	bn:00088939v		http://babelnet.org/rdf/s00088939v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4549 ===
+	Path_shape: 0.13076923076923078
+	Departing: 0.057692307692307696
+	Forming_relationships: 0.05384615384615385
+	Quitting: 0.026923076923076925
+	Abandonment: 0.019230769230769232
+
+SELECTED:[Departing]
+MATCH!
+SILVER:205	23703	1	4	0	4101339	He did not speak to reporters in Jordan , but he told The Associated Press before leaving the United States that he hopes to `` separate the humanitarian work from the political issues . ''	6604	hope.v	366	Desiring	MANUAL	6544877	116	120	KmG	hopes
+LINKED:[22	22	116	120	bn:00089472v		http://babelnet.org/rdf/s00089472v	1.0	0.05882353	1.6262807E-4	BABELFY]
+RANK:=== COUNTER  Counter 4550 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	4	0	4101339	He did not speak to reporters in Jordan , but he told The Associated Press before leaving the United States that he hopes to `` separate the humanitarian work from the political issues . ''	14001	work.n	1892	Work	MANUAL	6544879	154	157	KmG	work
+LINKED:[28	28	154	157	bn:00081568n		http://babelnet.org/rdf/s00081568n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4551 ===
+	Being_employed: 0.0875
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	4	0	4101339	He did not speak to reporters in Jordan , but he told The Associated Press before leaving the United States that he hopes to `` separate the humanitarian work from the political issues . ''	12630	issue.n	1608	Point_of_dispute	MANUAL	6544880	178	183	KmG	issues
+LINKED:[32	32	178	183	bn:00047688n		http://babelnet.org/rdf/s00047688n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4552 ===
+	Point_of_dispute: 0.012903225806451613
+
+SELECTED:[Point_of_dispute]
+MATCH!
+SILVER:205	23703	1	4	0	4101339	He did not speak to reporters in Jordan , but he told The Associated Press before leaving the United States that he hopes to `` separate the humanitarian work from the political issues . ''	14532	separate.v	24	Differentiation	MANUAL	6548814	128	135	JKs	separate
+LINKED:[25	25	128	135	bn:00087099v		http://babelnet.org/rdf/s00087099v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4553 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	5	0	4101340	During his four days in Iraq , Hall said he wanted to investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition .	3875	day.n	224	Measure_duration	MANUAL	6544881	16	19	KmG	days
+LINKED:[3	3	16	19	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.8648649	0.2857143	0.101265825	BABELFY]
+RANK:=== COUNTER  Counter 4554 ===
+	Calendric_unit: 0.03375
+	Measure_duration: 0.0175
+	Timespan: 0.003125
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:205	23703	1	5	0	4101340	During his four days in Iraq , Hall said he wanted to investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition .	751	say.v	43	Statement	MANUAL	6544883	36	39	KmG	said
+LINKED:[8	8	36	39	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.8	0.14285715	0.012658228	BABELFY]
+RANK:=== COUNTER  Counter 4555 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Becoming_aware: 0.05
+	Communication: 0.04583333333333333
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23703	1	5	0	4101340	During his four days in Iraq , Hall said he wanted to investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition .	6412	want.v	366	Desiring	MANUAL	6544884	44	49	KmG	wanted
+LINKED:[10	10	44	49	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4556 ===
+	Desiring: 0.2076923076923077
+	Possession: 0.11538461538461539
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:205	23703	1	5	0	4101340	During his four days in Iraq , Hall said he wanted to investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition .	11277	investigate.v	1152	Research	MANUAL	6544885	54	64	KmG	investigate
+LINKED:[12	12	54	64	bn:00089885v		http://babelnet.org/rdf/s00089885v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4557 ===
+	Scrutiny: 0.4875
+	Research: 0.05
+
+SELECTED:[Research]
+MATCH!
+SILVER:205	23703	1	5	0	4101340	During his four days in Iraq , Hall said he wanted to investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition .	747	report.n	43	Statement	MANUAL	6544886	66	72	KmG	reports
+LINKED:[13	13	66	72	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4558 ===
+	Statement: 0.10317460317460317
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23703	1	5	0	4101340	During his four days in Iraq , Hall said he wanted to investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition .	14023	agency.n	1371	Organization	MANUAL	6544887	86	93	KmG	agencies
+LINKED:[16	16	86	93	bn:00001961n	http://dbpedia.org/resource/Government_agency	http://babelnet.org/rdf/s00001961n	0.7692308	0.14285715	0.03164557	BABELFY]
+RANK:=== COUNTER  Counter 4559 ===
+	Hiring: 0.006369426751592357
+	Being_obligated: 0.005732484076433121
+	Employing: 0.005732484076433121
+	Board_vehicle: 0.005732484076433121
+	Organization: 0.0044585987261146496
+	Judicial_body: 0.001910828025477707
+	Enforcing: 0.001910828025477707
+	Public_services: 0.001910828025477707
+
+SELECTED:[Organization]
+MATCH!
+SILVER:205	23703	1	5	0	4101340	During his four days in Iraq , Hall said he wanted to investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition .	10307	quarter.n	140	Part_whole	MANUAL	6544888	102	108	KmG	quarter
+LINKED:[19	19	102	108	bn:00036111n		http://babelnet.org/rdf/s00036111n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4560 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	5	0	4101340	During his four days in Iraq , Hall said he wanted to investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition .	12171	iraqi.a	1103	Origin	MANUAL	6544889	113	117	KmG	Iraqi
+LINKED:[21	21	113	117	bn:00047446n	http://dbpedia.org/resource/Iraqi_people	http://babelnet.org/rdf/s00047446n	1.0	0.071428575	0.006329114	BABELFY]
+RANK:=== COUNTER  Counter 4561 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	5	0	4101340	During his four days in Iraq , Hall said he wanted to investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition .	2306	suffer.v	115	Catastrophe	MANUAL	6544890	135	143	KmG	suffering
+LINKED:[25	25	135	143	bn:00087618v		http://babelnet.org/rdf/s00087618v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4562 ===
+	Catastrophe: 0.08333333333333333
+
+SELECTED:[Catastrophe]
+MATCH!
+SILVER:205	23703	1	5	0	4101340	During his four days in Iraq , Hall said he wanted to investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition .	1713	chronic.a	79	Duration_description	MANUAL	6544891	150	156	KmG	chronic
+LINKED:[27	27	150	156	bn:00099668a		http://babelnet.org/rdf/s00099668a	1.0	0.071428575	0.003164557	BABELFY]
+RANK:=== COUNTER  Counter 4563 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	5	0	4101340	During his four days in Iraq , Hall said he wanted to investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition .	10083	child.n	973	People_by_age	MANUAL	6548914	119	126	JKs	children
+LINKED:[22	22	119	126	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.9166667	0.5714286	0.278481	BABELFY]
+RANK:=== COUNTER  Counter 4564 ===
+	Kinship: 0.23809523809523808
+	People_by_age: 0.05238095238095238
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:205	23703	1	5	0	4101340	During his four days in Iraq , Hall said he wanted to investigate reports from relief agencies that a quarter of Iraqi children may be suffering from chronic malnutrition .	14555	malnutrition.n	239	Medical_conditions	MANUAL	6548916	158	169	JKs	malnutrition
+LINKED:[28	28	158	169	bn:00053028n	http://dbpedia.org/resource/Malnutrition	http://babelnet.org/rdf/s00053028n	1.0	0.14285715	0.01898734	BABELFY]
+RANK:=== COUNTER  Counter 4565 ===
+	Medical_conditions: 0.07040816326530612
+
+SELECTED:[Medical_conditions]
+MATCH!
+SILVER:205	23703	1	6	0	4101341	He said he would pay particular attention to what happens to food and medicine entering the country under the U.N. oil-for-food program .	751	say.v	43	Statement	MANUAL	6544892	3	6	KmG	said
+LINKED:[1	1	3	6	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.9230769	0.27272728	0.016194332	BABELFY]
+RANK:=== COUNTER  Counter 4566 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Becoming_aware: 0.05
+	Communication: 0.04583333333333333
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23703	1	6	0	4101341	He said he would pay particular attention to what happens to food and medicine entering the country under the U.N. oil-for-food program .	9728	attention.n	791	Attention	MANUAL	6544899	32	40	KmG	attention
+LINKED:[6	6	32	40	bn:00007020n	http://dbpedia.org/resource/Attention	http://babelnet.org/rdf/s00007020n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4567 ===
+	Attention: 0.06
+
+SELECTED:[Attention]
+MATCH!
+SILVER:205	23703	1	6	0	4101341	He said he would pay particular attention to what happens to food and medicine entering the country under the U.N. oil-for-food program .	2500	happen.v	88	Eventive_affecting	MANUAL	6544921	50	56	KmG	happens
+LINKED:[9	9	50	56	bn:00089199v		http://babelnet.org/rdf/s00089199v	1.0	0.18181819	0.0053981105	BABELFY]
+RANK:=== COUNTER  Counter 4568 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	6	0	4101341	He said he would pay particular attention to what happens to food and medicine entering the country under the U.N. oil-for-food program .	13129	food.n	277	Food	MANUAL	6544922	61	64	KmG	food
+LINKED:[11	11	61	64	bn:00035650n	http://dbpedia.org/resource/Food	http://babelnet.org/rdf/s00035650n	0.92105263	0.45454547	0.04723347	BABELFY]
+RANK:=== COUNTER  Counter 4569 ===
+	Food: 0.11964285714285715
+
+SELECTED:[Food]
+MATCH!
+SILVER:205	23703	1	6	0	4101341	He said he would pay particular attention to what happens to food and medicine entering the country under the U.N. oil-for-food program .	942	enter.v	54	Arriving	MANUAL	6544924	79	86	KmG	entering
+LINKED:[14	14	79	86	bn:00085363v		http://babelnet.org/rdf/s00085363v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4570 ===
+	Path_shape: 0.18888888888888888
+	Arriving: 0.1111111111111111
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:205	23703	1	6	0	4101341	He said he would pay particular attention to what happens to food and medicine entering the country under the U.N. oil-for-food program .	10724	program.n	1158	Project	MANUAL	6544926	128	134	KmG	program
+LINKED:[21	21	128	134	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4571 ===
+	Purpose: 0.014285714285714285
+	Project: 0.007142857142857143
+
+SELECTED:[Project]
+MATCH!
+SILVER:205	23703	1	6	0	4101341	He said he would pay particular attention to what happens to food and medicine entering the country under the U.N. oil-for-food program .	3683	country.n	195	Political_locales	MANUAL	6545212	92	98	RLG	country
+LINKED:[16	16	92	98	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.9166667	1.0	0.3859649	BABELFY]
+RANK:=== COUNTER  Counter 4572 ===
+	Political_locales: 0.034736842105263156
+	Foreign_or_domestic_country: 0.007368421052631579
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:205	23703	1	6	0	4101341	He said he would pay particular attention to what happens to food and medicine entering the country under the U.N. oil-for-food program .	4622	medicine.n	256	Medical_specialties	MANUAL	6548918	70	77	JKs	medicine
+LINKED:[13	13	70	77	bn:00054133n	http://dbpedia.org/resource/Medicine	http://babelnet.org/rdf/s00054133n	0.8120301	0.8181818	0.14574899	BABELFY]
+RANK:=== COUNTER  Counter 4573 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	2	6	0	4101342	If supplies are not reaching the people who need them , Hall said , he wanted to find out whether the United Nations or relief agencies needed to handle things differently , or whether `` Iraq needs to get out of the way and let us do the job . ''	4883	reach.v	54	Arriving	MANUAL	6544928	20	27	KmG	reaching
+LINKED:[4	4	20	27	bn:00082790v		http://babelnet.org/rdf/s00082790v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4574 ===
+	Change_position_on_a_scale: 0.15333333333333332
+	Path_shape: 0.11333333333333333
+	Contacting: 0.06
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	2	6	0	4101342	If supplies are not reaching the people who need them , Hall said , he wanted to find out whether the United Nations or relief agencies needed to handle things differently , or whether `` Iraq needs to get out of the way and let us do the job . ''	5511	people.n	304	People	MANUAL	6544929	33	38	KmG	people
+LINKED:[6	6	33	38	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.73770493	0.2173913	0.02010724	BABELFY]
+RANK:=== COUNTER  Counter 4575 ===
+	Education_teaching: 0.04716981132075472
+	Subordinates_and_superiors: 0.024528301886792454
+	Secrecy_status: 0.016981132075471698
+	Colonization: 0.013207547169811321
+	People: 0.013207547169811321
+	People_by_jurisdiction: 0.009433962264150943
+	Attention_getting: 0.009433962264150943
+	Indigenous_origin: 0.007547169811320755
+	People_by_residence: 0.007547169811320755
+	Dying: 0.0037735849056603774
+
+SELECTED:[People]
+MATCH!
+SILVER:205	23703	2	6	0	4101342	If supplies are not reaching the people who need them , Hall said , he wanted to find out whether the United Nations or relief agencies needed to handle things differently , or whether `` Iraq needs to get out of the way and let us do the job . ''	751	say.v	43	Statement	MANUAL	6544931	61	64	KmG	said
+LINKED:[12	12	61	64	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4576 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Becoming_aware: 0.05
+	Communication: 0.04583333333333333
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23703	2	6	0	4101342	If supplies are not reaching the people who need them , Hall said , he wanted to find out whether the United Nations or relief agencies needed to handle things differently , or whether `` Iraq needs to get out of the way and let us do the job . ''	6412	want.v	366	Desiring	MANUAL	6544933	71	76	KmG	wanted
+LINKED:[15	15	71	76	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4577 ===
+	Desiring: 0.2076923076923077
+	Possession: 0.11538461538461539
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:205	23703	2	6	0	4101342	If supplies are not reaching the people who need them , Hall said , he wanted to find out whether the United Nations or relief agencies needed to handle things differently , or whether `` Iraq needs to get out of the way and let us do the job . ''	11949	find	20	Becoming_aware	MANUAL	6544935	81	84	EGp	find
+LINKED:[17	17	81	84	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4578 ===
+	Becoming_aware: 0.044444444444444446
+	Locating: 0.011111111111111112
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:205	23703	2	6	0	4101342	If supplies are not reaching the people who need them , Hall said , he wanted to find out whether the United Nations or relief agencies needed to handle things differently , or whether `` Iraq needs to get out of the way and let us do the job . ''	14023	agency.n	1371	Organization	MANUAL	6544942	127	134	KmG	agencies
+LINKED:[25	25	127	134	bn:00001961n	http://dbpedia.org/resource/Government_agency	http://babelnet.org/rdf/s00001961n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4579 ===
+	Hiring: 0.006369426751592357
+	Being_obligated: 0.005732484076433121
+	Employing: 0.005732484076433121
+	Board_vehicle: 0.005732484076433121
+	Organization: 0.0044585987261146496
+	Judicial_body: 0.001910828025477707
+	Enforcing: 0.001910828025477707
+	Public_services: 0.001910828025477707
+
+SELECTED:[Organization]
+MATCH!
+SILVER:205	23703	2	6	0	4101342	If supplies are not reaching the people who need them , Hall said , he wanted to find out whether the United Nations or relief agencies needed to handle things differently , or whether `` Iraq needs to get out of the way and let us do the job . ''	11817	need.v	1381	Required_event	MANUAL	6544947	193	197	KmG	needs
+LINKED:[36	36	193	197	bn:00082822v		http://babelnet.org/rdf/s00082822v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4580 ===
+	Imposing_obligation: 0.0175
+	Needing: 0.0075
+	Have_as_requirement: 0.005
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	2	6	0	4101342	If supplies are not reaching the people who need them , Hall said , he wanted to find out whether the United Nations or relief agencies needed to handle things differently , or whether `` Iraq needs to get out of the way and let us do the job . ''	11817	need.v	1381	Required_event	MANUAL	6544952	136	141	KmG	needed
+LINKED:[26	26	136	141	bn:00082822v		http://babelnet.org/rdf/s00082822v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4581 ===
+	Imposing_obligation: 0.0175
+	Needing: 0.0075
+	Have_as_requirement: 0.005
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	2	6	0	4101342	If supplies are not reaching the people who need them , Hall said , he wanted to find out whether the United Nations or relief agencies needed to handle things differently , or whether `` Iraq needs to get out of the way and let us do the job . ''	7117	job.n	392	Being_obligated	MANUAL	6544956	239	241	KmG	job
+LINKED:[48	48	239	241	bn:00014138n	http://dbpedia.org/resource/Job	http://babelnet.org/rdf/s00014138n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4582 ===
+	Being_employed: 0.027450980392156862
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	2	6	0	4101342	If supplies are not reaching the people who need them , Hall said , he wanted to find out whether the United Nations or relief agencies needed to handle things differently , or whether `` Iraq needs to get out of the way and let us do the job . ''	11791	need.v	1375	Needing	MANUAL	6545213	44	47	RLG	need
+LINKED:[8	8	44	47	bn:00082822v		http://babelnet.org/rdf/s00082822v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4583 ===
+	Imposing_obligation: 0.0175
+	Needing: 0.0075
+	Have_as_requirement: 0.005
+
+SELECTED:[Needing]
+MATCH!
+SILVER:205	23703	2	6	0	4101342	If supplies are not reaching the people who need them , Hall said , he wanted to find out whether the United Nations or relief agencies needed to handle things differently , or whether `` Iraq needs to get out of the way and let us do the job . ''	18787	let.v	516	Preventing_or_letting	MANUAL	6548920	225	227	JKs	let
+LINKED:[44	44	225	227	bn:00082536v		http://babelnet.org/rdf/s00082536v	0.9375	0.2173913	0.013404826	BABELFY]
+RANK:=== COUNTER  Counter 4584 ===
+	Make_possible_to_do: 2.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	7	0	4101343	The Iraqi government blames the embargo for the malnutrition , infant mortality and other hardships .	292	blame.v	28	Judgment	MANUAL	6548574	21	26	JKs	blames
+LINKED:[3	3	21	26	bn:00083545v		http://babelnet.org/rdf/s00083545v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4585 ===
+	Judgment_communication: 1.4
+	Judgment: 0.875
+
+SELECTED:[Judgment]
+MATCH!
+SILVER:205	23703	1	7	0	4101343	The Iraqi government blames the embargo for the malnutrition , infant mortality and other hardships .	12171	iraqi.a	1103	Origin	MANUAL	6548921	4	8	JKs	Iraqi
+LINKED:[1	1	4	8	bn:00047446n	http://dbpedia.org/resource/Iraqi_people	http://babelnet.org/rdf/s00047446n	1.0	0.14285715	0.011235955	BABELFY]
+RANK:=== COUNTER  Counter 4586 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	7	0	4101343	The Iraqi government blames the embargo for the malnutrition , infant mortality and other hardships .	12182	government.n	73	Leadership	MANUAL	6548922	10	19	JKs	government
+LINKED:[2	2	10	19	bn:00001426n	http://dbpedia.org/resource/Administration_(government)	http://babelnet.org/rdf/s00001426n	0.85714287	0.42857143	0.13483146	BABELFY]
+RANK:=== COUNTER  Counter 4587 ===
+	Leadership: 0.1697674418604651
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:205	23703	1	7	0	4101343	The Iraqi government blames the embargo for the malnutrition , infant mortality and other hardships .	14555	malnutrition.n	239	Medical_conditions	MANUAL	6548923	48	59	JKs	malnutrition
+LINKED:[8	8	48	59	bn:00053028n	http://dbpedia.org/resource/Malnutrition	http://babelnet.org/rdf/s00053028n	1.0	0.5714286	0.2247191	BABELFY]
+RANK:=== COUNTER  Counter 4588 ===
+	Medical_conditions: 0.07040816326530612
+
+SELECTED:[Medical_conditions]
+MATCH!
+SILVER:205	23703	1	7	0	4101343	The Iraqi government blames the embargo for the malnutrition , infant mortality and other hardships .	10084	infant.n	973	People_by_age	MANUAL	6548924	63	68	JKs	infant
+LINKED:[10	10	63	68	bn:00007630n	http://dbpedia.org/resource/Infant	http://babelnet.org/rdf/s00007630n	0.9230769	0.42857143	0.13483146	BABELFY]
+RANK:=== COUNTER  Counter 4589 ===
+	People_by_age: 0.011956521739130435
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:205	23703	1	8	0	4101344	The sanctions can not be lifted until U.N. inspectors certify that Iraq has eliminated its weapons of mass destruction and the means to produce them .	10676	sanction.n	347	Revenge	MANUAL	6548576	4	12	JKs	sanctions
+LINKED:[1	1	4	12	bn:00023152n	http://dbpedia.org/resource/Imprimatur	http://babelnet.org/rdf/s00023152n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4590 ===
+	Revenge: 0.016129032258064516
+
+SELECTED:[Revenge]
+MATCH!
+SILVER:205	23703	1	8	0	4101344	The sanctions can not be lifted until U.N. inspectors certify that Iraq has eliminated its weapons of mass destruction and the means to produce them .	10679	lift.v	1149	Cause_to_end	MANUAL	6548577	25	30	JKs	lifted
+LINKED:[5	5	25	30	bn:00084110v		http://babelnet.org/rdf/s00084110v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4591 ===
+	Body_movement: 0.07164179104477612
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	8	0	4101344	The sanctions can not be lifted until U.N. inspectors certify that Iraq has eliminated its weapons of mass destruction and the means to produce them .	4291	inspector.n	31	Scrutiny	MANUAL	6548579	43	52	JKs	inspectors
+LINKED:[8	8	43	52	bn:00046922n	http://dbpedia.org/resource/Inspector	http://babelnet.org/rdf/s00046922n	0.8	0.16666667	0.011494253	BABELFY]
+RANK:=== COUNTER  Counter 4592 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	8	0	4101344	The sanctions can not be lifted until U.N. inspectors certify that Iraq has eliminated its weapons of mass destruction and the means to produce them .	1126	eliminate.v	63	Removing	MANUAL	6548580	76	85	JKs	eliminated
+LINKED:[13	13	76	85	bn:00087115v		http://babelnet.org/rdf/s00087115v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4593 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	8	0	4101344	The sanctions can not be lifted until U.N. inspectors certify that Iraq has eliminated its weapons of mass destruction and the means to produce them .	10707	weapon	426	Weapon	MANUAL	6548581	91	97	EGp	weapons
+LINKED:[15	15	91	97	bn:00005704n	http://dbpedia.org/resource/Weapon	http://babelnet.org/rdf/s00005704n	0.9302326	0.41666666	0.11494253	BABELFY]
+RANK:=== COUNTER  Counter 4594 ===
+	Weapon: 0.06142857142857143
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:205	23703	1	8	0	4101344	The sanctions can not be lifted until U.N. inspectors certify that Iraq has eliminated its weapons of mass destruction and the means to produce them .	10707	weapon	426	Weapon	MANUAL	6548581	102	105	EGp	mass
+LINKED:[17	17	102	105	bn:00053662n	http://dbpedia.org/resource/Mass	http://babelnet.org/rdf/s00053662n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4595 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	8	0	4101344	The sanctions can not be lifted until U.N. inspectors certify that Iraq has eliminated its weapons of mass destruction and the means to produce them .	10707	weapon	426	Weapon	MANUAL	6548581	107	117	EGp	destruction
+LINKED:[18	18	107	117	bn:00026610n		http://babelnet.org/rdf/s00026610n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4596 ===
+	Destroying: 0.12727272727272726
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	8	0	4101344	The sanctions can not be lifted until U.N. inspectors certify that Iraq has eliminated its weapons of mass destruction and the means to produce them .	13556	means.n	1790	Means	MANUAL	6548582	127	131	JKs	means
+LINKED:[21	21	127	131	bn:00001965n	http://dbpedia.org/resource/Agency_(LDS_Church)	http://babelnet.org/rdf/s00001965n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4597 ===
+	Means: 0.034782608695652174
+
+SELECTED:[Means]
+MATCH!
+SILVER:205	23703	1	8	0	4101344	The sanctions can not be lifted until U.N. inspectors certify that Iraq has eliminated its weapons of mass destruction and the means to produce them .	7523	produce.v	408	Manufacturing	MANUAL	6548583	136	142	JKs	produce
+LINKED:[23	23	136	142	bn:00084198v		http://babelnet.org/rdf/s00084198v	0.8	0.16666667	0.011494253	BABELFY]
+RANK:=== COUNTER  Counter 4598 ===
+	Building: 0.02564102564102564
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	8	0	4101344	The sanctions can not be lifted until U.N. inspectors certify that Iraq has eliminated its weapons of mass destruction and the means to produce them .	14651	certify.v	1230	Verification	MANUAL	6551535	54	60	KmG	certify
+LINKED:[9	9	54	60	bn:00082913v		http://babelnet.org/rdf/s00082913v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4599 ===
+	Evidence: 0.06896551724137931
+	Verification: 0.027586206896551724
+
+SELECTED:[Verification]
+MATCH!
+SILVER:205	23703	2	8	0	4101345	Iraq says it has done so and has barred inspectors since late 1998 .	751	say.v	43	Statement	MANUAL	6548584	5	8	JKs	says
+LINKED:[1	1	5	8	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4600 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Becoming_aware: 0.05
+	Communication: 0.04583333333333333
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23703	2	8	0	4101345	Iraq says it has done so and has barred inspectors since late 1998 .	4291	inspector.n	31	Scrutiny	MANUAL	6548586	40	49	JKs	inspectors
+LINKED:[9	9	40	49	bn:00046922n	http://dbpedia.org/resource/Inspector	http://babelnet.org/rdf/s00046922n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4601 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	2	8	0	4101345	Iraq says it has done so and has barred inspectors since late 1998 .	12152	late.a	1470	Temporal_subregion	MANUAL	6548588	57	60	JKs	late
+LINKED:[11	11	57	60	bn:00105751a		http://babelnet.org/rdf/s00105751a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4602 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23703	1	9	0	4101346	At least one other congressman has visited Iraq .	14529	congressman.n	73	Leadership	MANUAL	6548590	19	29	JKs	congressman
+LINKED:[4	4	19	29	bn:00021852n	http://dbpedia.org/resource/Member_of_Congress	http://babelnet.org/rdf/s00021852n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 4603 ===
+	Leadership: 0.1622222222222222
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:205	23703	1	9	0	4101346	At least one other congressman has visited Iraq .	947	visit.v	54	Arriving	MANUAL	6548979	35	41	JKs	visited
+LINKED:[6	6	35	41	bn:00093433v		http://babelnet.org/rdf/s00093433v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4604 ===
+	Arriving: 0.11764705882352941
+
+SELECTED:[Arriving]
+MATCH!
+filename	LUCorpus-v0.3__20000415_apw_eng-NEW.xml
+docAnnotations	123
+docManual	109
+docUnannotated	14
+sentences	12
+paragraphs	9
+Overlapping	74
+Disambiguated	55
+TP	42
+TN	14
+FP	0
+FN	54
+P	1.0
+R	0.4375
+F	0.6086956521739131
+A	0.509090909090909

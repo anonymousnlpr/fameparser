@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__wsj_2465.xml
+docAnnotations	293
+docManual	248
+docUnannotated	45
+sentences	36
+paragraphs	11
+Overlapping	176
+Disambiguated	127
+TP	87
+TN	45
+FP	0
+FN	121
+P	1.0
+R	0.4182692307692308
+F	0.5898305084745763
+A	0.5217391304347826

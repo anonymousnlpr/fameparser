@@ -1,0 +1,809 @@
+SILVER:135	23561	1	1	0	4097608	Nuclear Capabilities	12170	nuclear.a	426	Weapon	MANUAL	6536703	0	6	KmG	Nuclear
+LINKED:[0	0	0	6	bn:02412572n	http://dbpedia.org/resource/Nuclear_(Ryan_Adams_song)	http://babelnet.org/rdf/s02412572n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13920 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	3	0	4097610	Countries developing clandestine nuclear weapons programs usually go to great lengths to conceal information about these programs from the outside world .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6528776	10	19	RLG	developing
+LINKED:[1	1	10	19	bn:00086744v		http://babelnet.org/rdf/s00086744v	1.0	0.21428572	0.009063444	BABELFY]
+RANK:=== COUNTER  Counter 13924 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	3	0	4097610	Countries developing clandestine nuclear weapons programs usually go to great lengths to conceal information about these programs from the outside world .	10641	clandestine.a	1145	Secrecy_status	MANUAL	6528777	21	31	RLG	clandestine
+LINKED:[2	2	21	31	bn:00099743a		http://babelnet.org/rdf/s00099743a	1.0	0.14285715	0.003021148	BABELFY]
+RANK:=== COUNTER  Counter 13926 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	3	0	4097610	Countries developing clandestine nuclear weapons programs usually go to great lengths to conceal information about these programs from the outside world .	10652	nuclear	426	Weapon	MANUAL	6528778	33	39	EGp	nuclear
+LINKED:[3	3	33	39	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13928 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23561	1	3	0	4097610	Countries developing clandestine nuclear weapons programs usually go to great lengths to conceal information about these programs from the outside world .	10724	program.n	1158	Project	MANUAL	6528779	49	56	RLG	programs
+LINKED:[5	5	49	56	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13932 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23561	1	3	0	4097610	Countries developing clandestine nuclear weapons programs usually go to great lengths to conceal information about these programs from the outside world .	5827	outside.a	327	Part_inner_outer	MANUAL	6528783	139	145	RLG	outside
+LINKED:[19	19	139	145	bn:00108059a		http://babelnet.org/rdf/s00108059a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13938 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	3	0	4097611	Therefore , obtaining reliable open source information on such programs is very challenging .	12537	information.n	1591	Information	MANUAL	6528785	43	53	RLG	information
+LINKED:[6	6	43	53	bn:00046705n	http://dbpedia.org/resource/Information	http://babelnet.org/rdf/s00046705n	0.7894737	0.85714287	0.32786885	BABELFY]
+RANK:=== COUNTER  Counter 13942 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	3	0	4097611	Therefore , obtaining reliable open source information on such programs is very challenging .	6573	challenging.a	375	Difficulty	MANUAL	6528787	80	90	RLG	challenging
+LINKED:[12	12	80	90	bn:00084758v		http://babelnet.org/rdf/s00084758v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13944 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	3	3	0	4097612	The lack of reliable information typically results in substantial uncertainty about the size and capabilities of these clandestine programs .	2757	uncertainty.n	141	Certainty	MANUAL	6528790	66	76	RLG	uncertainty
+LINKED:[9	9	66	76	bn:00064069n	http://dbpedia.org/resource/Uncertainty	http://babelnet.org/rdf/s00064069n	0.85714287	0.22222222	0.02166065	BABELFY]
+RANK:=== COUNTER  Counter 13954 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	3	3	0	4097612	The lack of reliable information typically results in substantial uncertainty about the size and capabilities of these clandestine programs .	10641	clandestine.a	1145	Secrecy_status	MANUAL	6528792	119	129	RLG	clandestine
+LINKED:[17	17	119	129	bn:00099743a		http://babelnet.org/rdf/s00099743a	1.0	0.11111111	0.0036101083	BABELFY]
+RANK:=== COUNTER  Counter 13958 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	3	3	0	4097612	The lack of reliable information typically results in substantial uncertainty about the size and capabilities of these clandestine programs .	10724	program.n	1158	Project	MANUAL	6528793	131	138	RLG	programs
+LINKED:[18	18	131	138	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13960 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23561	1	4	0	4097613	Nonetheless , countries suspected of having clandestine nuclear weapons programs are the subject of intense scrutiny by nonproliferation analysts , intelligence agencies , and other observers .	10641	clandestine.a	1145	Secrecy_status	MANUAL	6528807	44	54	RLG	clandestine
+LINKED:[6	6	44	54	bn:00099743a		http://babelnet.org/rdf/s00099743a	1.0	0.071428575	0.001321004	BABELFY]
+RANK:=== COUNTER  Counter 13968 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	4	0	4097613	Nonetheless , countries suspected of having clandestine nuclear weapons programs are the subject of intense scrutiny by nonproliferation analysts , intelligence agencies , and other observers .	10652	nuclear	426	Weapon	MANUAL	6528809	56	62	EGp	nuclear
+LINKED:[7	7	56	62	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13970 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23561	1	4	0	4097613	Nonetheless , countries suspected of having clandestine nuclear weapons programs are the subject of intense scrutiny by nonproliferation analysts , intelligence agencies , and other observers .	10724	program.n	1158	Project	MANUAL	6528812	72	79	RLG	programs
+LINKED:[9	9	72	79	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13974 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23561	1	4	0	4097613	Nonetheless , countries suspected of having clandestine nuclear weapons programs are the subject of intense scrutiny by nonproliferation analysts , intelligence agencies , and other observers .	452	scrutiny.n	31	Scrutiny	MANUAL	6528813	108	115	RLG	scrutiny
+LINKED:[15	15	108	115	bn:00032093n		http://babelnet.org/rdf/s00032093n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13976 ===
+	Scrutiny: -6.925207756232686E-4
+	Inspecting: -0.015625
+
+SELECTED:[Scrutiny]
+MATCH!
+SILVER:135	23561	1	4	0	4097613	Nonetheless , countries suspected of having clandestine nuclear weapons programs are the subject of intense scrutiny by nonproliferation analysts , intelligence agencies , and other observers .	4281	analyst.n	31	Scrutiny	MANUAL	6528815	137	144	RLG	analysts
+LINKED:[18	18	137	144	bn:00003801n		http://babelnet.org/rdf/s00003801n	0.8	0.2857143	0.02642008	BABELFY]
+RANK:=== COUNTER  Counter 13978 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	4	0	4097613	Nonetheless , countries suspected of having clandestine nuclear weapons programs are the subject of intense scrutiny by nonproliferation analysts , intelligence agencies , and other observers .	12538	intelligence.n	1591	Information	MANUAL	6528816	148	159	RLG	intelligence
+LINKED:[20	20	148	159	bn:00047025n	http://dbpedia.org/resource/Intelligence	http://babelnet.org/rdf/s00047025n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13980 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	4	0	4097614	Gradually , a fuzzy picture emerges from the analysis , albeit with some gaps in understanding .	5753	emerge.v	316	Coming_to_be	MANUAL	6528817	28	34	RLG	emerges
+LINKED:[5	5	28	34	bn:00087561v		http://babelnet.org/rdf/s00087561v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13982 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	4	0	4097614	Gradually , a fuzzy picture emerges from the analysis , albeit with some gaps in understanding .	172	understanding.n	19	Awareness	MANUAL	6528819	81	93	RLG	understanding
+LINKED:[15	15	81	93	bn:00095375v		http://babelnet.org/rdf/s00095375v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13986 ===
+	Awareness: -0.002066115702479339
+	Categorization: -0.0025000000000000005
+	Grasp: -0.02040816326530612
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:135	23561	3	4	0	4097615	The resulting analysis can set bounds on the uncertainties , while producing a range of estimates of the country 's capabilities .	2757	uncertainty.n	141	Certainty	MANUAL	6528821	45	57	RLG	uncertainties
+LINKED:[8	8	45	57	bn:00064069n	http://dbpedia.org/resource/Uncertainty	http://babelnet.org/rdf/s00064069n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13988 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	3	4	0	4097615	The resulting analysis can set bounds on the uncertainties , while producing a range of estimates of the country 's capabilities .	11686	produce.v	319	Creating	MANUAL	6528822	67	75	RLG	producing
+LINKED:[11	11	67	75	bn:00084069v		http://babelnet.org/rdf/s00084069v	0.7058824	0.33333334	0.057692308	BABELFY]
+RANK:=== COUNTER  Counter 13990 ===
+	Causation: -0.0025000000000000005
+	Cause_to_start: -0.006944444444444444
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	3	4	0	4097615	The resulting analysis can set bounds on the uncertainties , while producing a range of estimates of the country 's capabilities .	12291	estimate.n	1516	Estimated_value	MANUAL	6528823	88	96	RLG	estimates
+LINKED:[15	15	88	96	bn:00005164n	http://dbpedia.org/resource/Estimation	http://babelnet.org/rdf/s00005164n	1.0	0.22222222	0.01923077	BABELFY]
+RANK:=== COUNTER  Counter 13992 ===
+	Estimating: -0.1111111111111111
+	Estimated_value: -1.0
+
+SELECTED:[Estimated_value]
+MATCH!
+SILVER:135	23561	4	4	0	4097616	Analytic tools include examining statements and articles in the news media , government reports including unclassified intelligence estimates , interviewing insiders who have had access to information about the clandestine program , reviewing secondary sources such as reports by analysts , and making scientific calculations based on the best available information about a country 's nuclear infrastructure .	10687	include.v	1153	Inclusion	MANUAL	6528827	15	21	RLG	include
+LINKED:[2	2	15	21	bn:00082370v		http://babelnet.org/rdf/s00082370v	0.72	0.11764706	0.0028678405	BABELFY]
+RANK:=== COUNTER  Counter 14002 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	4	4	0	4097616	Analytic tools include examining statements and articles in the news media , government reports including unclassified intelligence estimates , interviewing insiders who have had access to information about the clandestine program , reviewing secondary sources such as reports by analysts , and making scientific calculations based on the best available information about a country 's nuclear infrastructure .	5460	article.n	298	Text	MANUAL	6528831	48	55	RLG	articles
+LINKED:[6	6	48	55	bn:00057551n	http://dbpedia.org/resource/Article_(publishing)	http://babelnet.org/rdf/s00057551n	0.8	0.29411766	0.011152713	BABELFY]
+RANK:=== COUNTER  Counter 14006 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	4	4	0	4097616	Analytic tools include examining statements and articles in the news media , government reports including unclassified intelligence estimates , interviewing insiders who have had access to information about the clandestine program , reviewing secondary sources such as reports by analysts , and making scientific calculations based on the best available information about a country 's nuclear infrastructure .	10687	include.v	1153	Inclusion	MANUAL	6528834	96	104	RLG	including
+LINKED:[14	14	96	104	bn:00082370v		http://babelnet.org/rdf/s00082370v	0.72	0.11764706	0.0028678405	BABELFY]
+RANK:=== COUNTER  Counter 14012 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	4	4	0	4097616	Analytic tools include examining statements and articles in the news media , government reports including unclassified intelligence estimates , interviewing insiders who have had access to information about the clandestine program , reviewing secondary sources such as reports by analysts , and making scientific calculations based on the best available information about a country 's nuclear infrastructure .	12538	intelligence.n	1591	Information	MANUAL	6528835	119	130	RLG	intelligence
+LINKED:[16	16	119	130	bn:00047025n	http://dbpedia.org/resource/Intelligence	http://babelnet.org/rdf/s00047025n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14014 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	4	4	0	4097616	Analytic tools include examining statements and articles in the news media , government reports including unclassified intelligence estimates , interviewing insiders who have had access to information about the clandestine program , reviewing secondary sources such as reports by analysts , and making scientific calculations based on the best available information about a country 's nuclear infrastructure .	12291	estimate.n	1516	Estimated_value	MANUAL	6528836	132	140	RLG	estimates
+LINKED:[17	17	132	140	bn:00005164n	http://dbpedia.org/resource/Estimation	http://babelnet.org/rdf/s00005164n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14016 ===
+	Estimating: -0.1111111111111111
+	Estimated_value: -1.0
+
+SELECTED:[Estimated_value]
+MATCH!
+SILVER:135	23561	4	4	0	4097616	Analytic tools include examining statements and articles in the news media , government reports including unclassified intelligence estimates , interviewing insiders who have had access to information about the clandestine program , reviewing secondary sources such as reports by analysts , and making scientific calculations based on the best available information about a country 's nuclear infrastructure .	12537	information.n	1591	Information	MANUAL	6528838	189	199	RLG	information
+LINKED:[26	26	189	199	bn:00046705n	http://dbpedia.org/resource/Information	http://babelnet.org/rdf/s00046705n	0.713051	0.7352941	0.13144268	BABELFY]
+RANK:=== COUNTER  Counter 14018 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	4	4	0	4097616	Analytic tools include examining statements and articles in the news media , government reports including unclassified intelligence estimates , interviewing insiders who have had access to information about the clandestine program , reviewing secondary sources such as reports by analysts , and making scientific calculations based on the best available information about a country 's nuclear infrastructure .	10641	clandestine.a	1145	Secrecy_status	MANUAL	6528839	211	221	RLG	clandestine
+LINKED:[29	29	211	221	bn:00099743a		http://babelnet.org/rdf/s00099743a	1.0	0.029411765	7.966223E-5	BABELFY]
+RANK:=== COUNTER  Counter 14020 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	4	4	0	4097616	Analytic tools include examining statements and articles in the news media , government reports including unclassified intelligence estimates , interviewing insiders who have had access to information about the clandestine program , reviewing secondary sources such as reports by analysts , and making scientific calculations based on the best available information about a country 's nuclear infrastructure .	11681	source.n	1347	Source_of_getting	MANUAL	6528841	253	259	RLG	sources
+LINKED:[34	34	253	259	bn:00009635n		http://babelnet.org/rdf/s00009635n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14022 ===
+	Relational_natural_features: -0.008264462809917356
+	Origin: -0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	4	4	0	4097616	Analytic tools include examining statements and articles in the news media , government reports including unclassified intelligence estimates , interviewing insiders who have had access to information about the clandestine program , reviewing secondary sources such as reports by analysts , and making scientific calculations based on the best available information about a country 's nuclear infrastructure .	6287	good.a	354	Desirability	MANUAL	6528843	339	342	RLG	best
+LINKED:[48	48	339	342	bn:00098274a		http://babelnet.org/rdf/s00098274a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14026 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	4	4	0	4097616	Analytic tools include examining statements and articles in the news media , government reports including unclassified intelligence estimates , interviewing insiders who have had access to information about the clandestine program , reviewing secondary sources such as reports by analysts , and making scientific calculations based on the best available information about a country 's nuclear infrastructure .	12537	information.n	1591	Information	MANUAL	6528844	354	364	RLG	information
+LINKED:[50	50	354	364	bn:00046705n	http://dbpedia.org/resource/Information	http://babelnet.org/rdf/s00046705n	0.713051	0.7352941	0.13144268	BABELFY]
+RANK:=== COUNTER  Counter 14028 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	4	4	0	4097616	Analytic tools include examining statements and articles in the news media , government reports including unclassified intelligence estimates , interviewing insiders who have had access to information about the clandestine program , reviewing secondary sources such as reports by analysts , and making scientific calculations based on the best available information about a country 's nuclear infrastructure .	4281	analyst.n	31	Scrutiny	MANUAL	6530565	280	287	MiL	analysts
+LINKED:[39	39	280	287	bn:00003801n		http://babelnet.org/rdf/s00003801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14034 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	4	4	0	4097616	Analytic tools include examining statements and articles in the news media , government reports including unclassified intelligence estimates , interviewing insiders who have had access to information about the clandestine program , reviewing secondary sources such as reports by analysts , and making scientific calculations based on the best available information about a country 's nuclear infrastructure .	12680	analytic.a	31	Scrutiny	MANUAL	6536816	0	7	RLG	Analytic
+LINKED:[0	0	0	7	bn:00858881n	http://dbpedia.org/resource/Isolating_language	http://babelnet.org/rdf/s00858881n	1.0	0.05882353	3.1864893E-4	BABELFY]
+RANK:=== COUNTER  Counter 14038 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	4	4	0	4097616	Analytic tools include examining statements and articles in the news media , government reports including unclassified intelligence estimates , interviewing insiders who have had access to information about the clandestine program , reviewing secondary sources such as reports by analysts , and making scientific calculations based on the best available information about a country 's nuclear infrastructure .	11271	examine.v	1262	Inspecting	MANUAL	6639526	23	31	CVa	examining
+LINKED:[3	3	23	31	bn:00082596v		http://babelnet.org/rdf/s00082596v	0.85714287	0.11764706	0.0028678405	BABELFY]
+RANK:=== COUNTER  Counter 14040 ===
+	Scrutiny: -6.925207756232686E-4
+	Inspecting: -0.015625
+	Studying: -1.0
+
+SELECTED:[Inspecting]
+MATCH!
+SILVER:135	23561	1	5	0	4097617	Technical analysis of clandestine programs is based on the widely known physical and engineering aspects of nuclear materials and weapons , which enable estimates of capabilities based on fragmentary and uncertain information , as follows .	10641	clandestine.a	1145	Secrecy_status	MANUAL	6528848	22	32	RLG	clandestine
+LINKED:[3	3	22	32	bn:00099743a		http://babelnet.org/rdf/s00099743a	1.0	0.05	0.0016	BABELFY]
+RANK:=== COUNTER  Counter 14044 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	5	0	4097617	Technical analysis of clandestine programs is based on the widely known physical and engineering aspects of nuclear materials and weapons , which enable estimates of capabilities based on fragmentary and uncertain information , as follows .	10724	program.n	1158	Project	MANUAL	6528849	34	41	RLG	programs
+LINKED:[4	4	34	41	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14046 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23561	1	5	0	4097617	Technical analysis of clandestine programs is based on the widely known physical and engineering aspects of nuclear materials and weapons , which enable estimates of capabilities based on fragmentary and uncertain information , as follows .	11726	material.n	1321	Substance	MANUAL	6528851	116	124	RLG	materials
+LINKED:[17	17	116	124	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14050 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Substance]
+MATCH!
+SILVER:135	23561	1	5	0	4097617	Technical analysis of clandestine programs is based on the widely known physical and engineering aspects of nuclear materials and weapons , which enable estimates of capabilities based on fragmentary and uncertain information , as follows .	12291	estimate.n	1516	Estimated_value	MANUAL	6528854	153	161	RLG	estimates
+LINKED:[23	23	153	161	bn:00005164n	http://dbpedia.org/resource/Estimation	http://babelnet.org/rdf/s00005164n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14054 ===
+	Estimating: -0.1111111111111111
+	Estimated_value: -1.0
+
+SELECTED:[Estimated_value]
+MATCH!
+SILVER:135	23561	1	5	0	4097617	Technical analysis of clandestine programs is based on the widely known physical and engineering aspects of nuclear materials and weapons , which enable estimates of capabilities based on fragmentary and uncertain information , as follows .	12537	information.n	1591	Information	MANUAL	6528856	214	224	RLG	information
+LINKED:[31	31	214	224	bn:00046705n	http://dbpedia.org/resource/Information	http://babelnet.org/rdf/s00046705n	0.7695167	0.45	0.3312	BABELFY]
+RANK:=== COUNTER  Counter 14058 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	6	0	4097618	Nuclear weapons programs require specialized materials , facilities , equipment , and training in order to produce the raw material for weapons -- either highly enriched uranium ( HEU ) or plutonium -- and then to fabricate explosive devices using this fissile material .	10724	program.n	1158	Project	MANUAL	6528858	16	23	RLG	programs
+LINKED:[2	2	16	23	bn:00021497n	http://dbpedia.org/resource/Software	http://babelnet.org/rdf/s00021497n	0.86419755	0.29166666	0.029106028	BABELFY]
+RANK:=== COUNTER  Counter 14064 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	6	0	4097618	Nuclear weapons programs require specialized materials , facilities , equipment , and training in order to produce the raw material for weapons -- either highly enriched uranium ( HEU ) or plutonium -- and then to fabricate explosive devices using this fissile material .	11684	material.n	1348	Ingredients	MANUAL	6528860	45	53	RLG	materials
+LINKED:[5	5	45	53	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14068 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Ingredients]
+MATCH!
+SILVER:135	23561	1	6	0	4097618	Nuclear weapons programs require specialized materials , facilities , equipment , and training in order to produce the raw material for weapons -- either highly enriched uranium ( HEU ) or plutonium -- and then to fabricate explosive devices using this fissile material .	7523	produce.v	408	Manufacturing	MANUAL	6528864	107	113	RLG	produce
+LINKED:[16	16	107	113	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14074 ===
+	Behind_the_scenes: -0.008264462809917356
+	Manufacturing: -0.015625
+
+SELECTED:[Manufacturing]
+MATCH!
+SILVER:135	23561	1	6	0	4097618	Nuclear weapons programs require specialized materials , facilities , equipment , and training in order to produce the raw material for weapons -- either highly enriched uranium ( HEU ) or plutonium -- and then to fabricate explosive devices using this fissile material .	11684	material.n	1348	Ingredients	MANUAL	6528865	123	130	RLG	material
+LINKED:[19	19	123	130	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14076 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Ingredients]
+MATCH!
+SILVER:135	23561	1	6	0	4097618	Nuclear weapons programs require specialized materials , facilities , equipment , and training in order to produce the raw material for weapons -- either highly enriched uranium ( HEU ) or plutonium -- and then to fabricate explosive devices using this fissile material .	11726	material.n	1321	Substance	MANUAL	6528871	261	268	RLG	material
+LINKED:[42	42	261	268	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14086 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Substance]
+MATCH!
+SILVER:135	23561	1	6	0	4097618	Nuclear weapons programs require specialized materials , facilities , equipment , and training in order to produce the raw material for weapons -- either highly enriched uranium ( HEU ) or plutonium -- and then to fabricate explosive devices using this fissile material .	10720	raw.a	1159	Degree_of_processing	MANUAL	6530295	119	121	RLG	raw
+LINKED:[18	18	119	121	bn:00107156a		http://babelnet.org/rdf/s00107156a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14088 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	6	0	4097618	Nuclear weapons programs require specialized materials , facilities , equipment , and training in order to produce the raw material for weapons -- either highly enriched uranium ( HEU ) or plutonium -- and then to fabricate explosive devices using this fissile material .	11415	explosive.a	426	Weapon	MANUAL	6530569	224	232	MiL	explosive
+LINKED:[37	37	224	232	bn:00102595a		http://babelnet.org/rdf/s00102595a	0.96153843	0.20833333	0.01039501	BABELFY]
+RANK:=== COUNTER  Counter 14092 ===
+	Weapon: -5.668934240362811E-4
+	Expansion: -0.006944444444444444
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23561	1	6	0	4097618	Nuclear weapons programs require specialized materials , facilities , equipment , and training in order to produce the raw material for weapons -- either highly enriched uranium ( HEU ) or plutonium -- and then to fabricate explosive devices using this fissile material .	12278	in	513	Purpose	MANUAL	6530576	98	102	MiL	order
+LINKED:[14	14	98	102	bn:00059303n		http://babelnet.org/rdf/s00059303n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14094 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	6	0	4097619	Weapons programs can be based on indigenous ( i.e. , domestic ) production capabilities , or they can rely on foreign supplies and technologies .	10724	program.n	1158	Project	MANUAL	6528873	8	15	RLG	programs
+LINKED:[1	1	8	15	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14098 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23561	2	6	0	4097619	Weapons programs can be based on indigenous ( i.e. , domestic ) production capabilities , or they can rely on foreign supplies and technologies .	12429	indigenous.a	1552	Indigenous_origin	MANUAL	6528875	33	42	RLG	indigenous
+LINKED:[6	6	33	42	bn:00097805a		http://babelnet.org/rdf/s00097805a	1.0	0.25	0.040609136	BABELFY]
+RANK:=== COUNTER  Counter 14100 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	6	0	4097619	Weapons programs can be based on indigenous ( i.e. , domestic ) production capabilities , or they can rely on foreign supplies and technologies .	10702	capability.n	990	Capability	MANUAL	6528878	75	86	RLG	capabilities
+LINKED:[13	13	75	86	bn:03336818n	http://dbpedia.org/resource/Capability-based_security	http://babelnet.org/rdf/s03336818n	0.75	0.25	0.030456852	BABELFY]
+RANK:=== COUNTER  Counter 14104 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	6	0	4097619	Weapons programs can be based on indigenous ( i.e. , domestic ) production capabilities , or they can rely on foreign supplies and technologies .	9940	rely.v	901	Reliance	MANUAL	6528880	102	105	RLG	rely
+LINKED:[18	18	102	105	bn:00083095v		http://babelnet.org/rdf/s00083095v	1.0	0.125	0.005076142	BABELFY]
+RANK:=== COUNTER  Counter 14106 ===
+	Certainty: -0.008264462809917356
+	Trust: -0.015625
+	Reliance: -0.04000000000000001
+
+SELECTED:[Reliance]
+MATCH!
+SILVER:135	23561	2	6	0	4097619	Weapons programs can be based on indigenous ( i.e. , domestic ) production capabilities , or they can rely on foreign supplies and technologies .	12180	foreign.a	1483	Foreign_or_domestic_country	MANUAL	6528881	110	116	RLG	foreign
+LINKED:[20	20	110	116	bn:00103206a		http://babelnet.org/rdf/s00103206a	0.8	0.25	0.040609136	BABELFY]
+RANK:=== COUNTER  Counter 14108 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	3	6	0	4097620	Virtually all weapons programs use some foreign inputs , if only technical information culled from scientific and engineering sources .	10724	program.n	1158	Project	MANUAL	6528885	22	29	RLG	programs
+LINKED:[3	3	22	29	bn:00021497n	http://dbpedia.org/resource/Software	http://babelnet.org/rdf/s00021497n	0.72727275	0.5	0.17142858	BABELFY]
+RANK:=== COUNTER  Counter 14114 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	3	6	0	4097620	Virtually all weapons programs use some foreign inputs , if only technical information culled from scientific and engineering sources .	12537	information.n	1591	Information	MANUAL	6528887	75	85	RLG	information
+LINKED:[12	12	75	85	bn:00046705n	http://dbpedia.org/resource/Information	http://babelnet.org/rdf/s00046705n	0.8181818	0.75	0.45	BABELFY]
+RANK:=== COUNTER  Counter 14118 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	3	6	0	4097620	Virtually all weapons programs use some foreign inputs , if only technical information culled from scientific and engineering sources .	11681	source.n	1347	Source_of_getting	MANUAL	6528888	126	132	RLG	sources
+LINKED:[18	18	126	132	bn:00009635n		http://babelnet.org/rdf/s00009635n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14120 ===
+	Relational_natural_features: -0.008264462809917356
+	Origin: -0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	4	6	0	4097621	However , all countries known to have successfully acquired nuclear weapons have done so primarily on the basis of indigenously produced fissile material .	160	know.v	19	Awareness	MANUAL	6528890	24	28	RLG	known
+LINKED:[4	4	24	28	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14124 ===
+	Awareness: -0.002066115702479339
+	Certainty: -0.008264462809917356
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:135	23561	4	6	0	4097621	However , all countries known to have successfully acquired nuclear weapons have done so primarily on the basis of indigenously produced fissile material .	10652	nuclear	426	Weapon	MANUAL	6528892	60	66	EGp	nuclear
+LINKED:[9	9	60	66	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14128 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23561	4	6	0	4097621	However , all countries known to have successfully acquired nuclear weapons have done so primarily on the basis of indigenously produced fissile material .	7523	produce.v	408	Manufacturing	MANUAL	6528894	128	135	RLG	produced
+LINKED:[20	20	128	135	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14132 ===
+	Behind_the_scenes: -0.008264462809917356
+	Manufacturing: -0.015625
+
+SELECTED:[Manufacturing]
+MATCH!
+SILVER:135	23561	4	6	0	4097621	However , all countries known to have successfully acquired nuclear weapons have done so primarily on the basis of indigenously produced fissile material .	11726	material.n	1321	Substance	MANUAL	6528895	145	152	RLG	material
+LINKED:[22	22	145	152	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14134 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Substance]
+MATCH!
+SILVER:135	23561	1	7	0	4097622	A plutonium - based bomb program requires capabilities to mine and mill uranium , process it into reactor fuel , transform the isotopic content of the fuel by `` burning '' it in a reactor , extract plutonium from the spent fuel , form the plutonium into the core of a fission - implosion weapon , and develop and test high explosives used to initiate fission .	10724	program.n	1158	Project	MANUAL	6528898	25	31	RLG	program
+LINKED:[5	5	25	31	bn:00021497n	http://dbpedia.org/resource/Software	http://babelnet.org/rdf/s00021497n	0.7090909	0.27272728	0.010547192	BABELFY]
+RANK:=== COUNTER  Counter 14140 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	7	0	4097622	A plutonium - based bomb program requires capabilities to mine and mill uranium , process it into reactor fuel , transform the isotopic content of the fuel by `` burning '' it in a reactor , extract plutonium from the spent fuel , form the plutonium into the core of a fission - implosion weapon , and develop and test high explosives used to initiate fission .	12202	require.v	1491	Have_as_requirement	MANUAL	6528899	33	40	RLG	requires
+LINKED:[6	6	33	40	bn:00082822v		http://babelnet.org/rdf/s00082822v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14142 ===
+	Imposing_obligation: -0.027777777777777776
+	Needing: -0.25
+	Have_as_requirement: -1.0
+
+SELECTED:[Have_as_requirement]
+MATCH!
+SILVER:135	23561	1	7	0	4097622	A plutonium - based bomb program requires capabilities to mine and mill uranium , process it into reactor fuel , transform the isotopic content of the fuel by `` burning '' it in a reactor , extract plutonium from the spent fuel , form the plutonium into the core of a fission - implosion weapon , and develop and test high explosives used to initiate fission .	1137	extract.v	63	Removing	MANUAL	6528907	191	197	RLG	extract
+LINKED:[35	35	191	197	bn:00032469n	http://dbpedia.org/resource/Extract	http://babelnet.org/rdf/s00032469n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14156 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	7	0	4097622	A plutonium - based bomb program requires capabilities to mine and mill uranium , process it into reactor fuel , transform the isotopic content of the fuel by `` burning '' it in a reactor , extract plutonium from the spent fuel , form the plutonium into the core of a fission - implosion weapon , and develop and test high explosives used to initiate fission .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6528911	302	308	RLG	develop
+LINKED:[56	56	302	308	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14164 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	7	0	4097622	A plutonium - based bomb program requires capabilities to mine and mill uranium , process it into reactor fuel , transform the isotopic content of the fuel by `` burning '' it in a reactor , extract plutonium from the spent fuel , form the plutonium into the core of a fission - implosion weapon , and develop and test high explosives used to initiate fission .	11462	test.v	1301	Operational_testing	MANUAL	6528912	314	317	RLG	test
+LINKED:[58	58	314	317	bn:00087731v		http://babelnet.org/rdf/s00087731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14166 ===
+	Examination: -0.0625
+	Operational_testing: -0.1111111111111111
+	Trying_out: -0.25
+
+SELECTED:[Operational_testing]
+MATCH!
+SILVER:135	23561	1	7	0	4097622	A plutonium - based bomb program requires capabilities to mine and mill uranium , process it into reactor fuel , transform the isotopic content of the fuel by `` burning '' it in a reactor , extract plutonium from the spent fuel , form the plutonium into the core of a fission - implosion weapon , and develop and test high explosives used to initiate fission .	10619	use.v	1141	Using	MANUAL	6528913	335	338	RLG	used
+LINKED:[61	61	335	338	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14168 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	7	0	4097623	Although technically sub - optimal , even reactor - grade plutonium can be used as fissile material in nuclear weapons .	10619	use.v	1141	Using	MANUAL	6528917	75	78	RLG	used
+LINKED:[13	13	75	78	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14180 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	7	0	4097623	Although technically sub - optimal , even reactor - grade plutonium can be used as fissile material in nuclear weapons .	11726	material.n	1321	Substance	MANUAL	6528918	91	98	RLG	material
+LINKED:[16	16	91	98	bn:03351961n	http://dbpedia.org/resource/Leæther_Strip	http://babelnet.org/rdf/s03351961n	1.0	0.11111111	0.004854369	BABELFY]
+RANK:=== COUNTER  Counter 14182 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	7	0	4097623	Although technically sub - optimal , even reactor - grade plutonium can be used as fissile material in nuclear weapons .	10652	nuclear	426	Weapon	MANUAL	6528919	103	109	EGp	nuclear
+LINKED:[18	18	103	109	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14184 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23561	1	8	0	4097624	A uranium - based bomb program requires capabilities to mine and mill uranium , and to enrich it to weapons - grade or near - weapons - grade ( the Hiroshima bomb used less - than - weapons - grade uranium ) .	10724	program.n	1158	Project	MANUAL	6528922	23	29	RLG	program
+LINKED:[5	5	23	29	bn:00021497n	http://dbpedia.org/resource/Software	http://babelnet.org/rdf/s00021497n	0.8448276	0.46666667	0.0200409	BABELFY]
+RANK:=== COUNTER  Counter 14192 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	8	0	4097624	A uranium - based bomb program requires capabilities to mine and mill uranium , and to enrich it to weapons - grade or near - weapons - grade ( the Hiroshima bomb used less - than - weapons - grade uranium ) .	12202	require.v	1491	Have_as_requirement	MANUAL	6528923	31	38	RLG	requires
+LINKED:[6	6	31	38	bn:00082822v		http://babelnet.org/rdf/s00082822v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14194 ===
+	Imposing_obligation: -0.027777777777777776
+	Needing: -0.25
+	Have_as_requirement: -1.0
+
+SELECTED:[Have_as_requirement]
+MATCH!
+SILVER:135	23561	1	9	0	4097625	An advanced weapons program would require the capability to manufacture tritium , a radioactive gas that can be used to enhance the explosive power of nuclear weapons , for fabrication of boosted - yield weapons .	11650	advanced.a	1341	Stage_of_progress	MANUAL	6528943	3	10	RLG	advanced
+LINKED:[1	1	3	10	bn:00096530a		http://babelnet.org/rdf/s00096530a	0.9	0.16666667	0.009193054	BABELFY]
+RANK:=== COUNTER  Counter 14212 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	9	0	4097625	An advanced weapons program would require the capability to manufacture tritium , a radioactive gas that can be used to enhance the explosive power of nuclear weapons , for fabrication of boosted - yield weapons .	10724	program.n	1158	Project	MANUAL	6528945	20	26	RLG	program
+LINKED:[3	3	20	26	bn:00021497n	http://dbpedia.org/resource/Software	http://babelnet.org/rdf/s00021497n	0.72727275	0.22222222	0.016343208	BABELFY]
+RANK:=== COUNTER  Counter 14216 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	9	0	4097625	An advanced weapons program would require the capability to manufacture tritium , a radioactive gas that can be used to enhance the explosive power of nuclear weapons , for fabrication of boosted - yield weapons .	12202	require.v	1491	Have_as_requirement	MANUAL	6528946	34	40	RLG	require
+LINKED:[5	5	34	40	bn:00082822v		http://babelnet.org/rdf/s00082822v	1.0	0.11111111	0.004085802	BABELFY]
+RANK:=== COUNTER  Counter 14218 ===
+	Imposing_obligation: -0.027777777777777776
+	Needing: -0.25
+	Have_as_requirement: -1.0
+
+SELECTED:[Have_as_requirement]
+MATCH!
+SILVER:135	23561	1	9	0	4097625	An advanced weapons program would require the capability to manufacture tritium , a radioactive gas that can be used to enhance the explosive power of nuclear weapons , for fabrication of boosted - yield weapons .	11601	gas.n	1321	Substance	MANUAL	6528949	96	98	RLG	gas
+LINKED:[14	14	96	98	bn:00037382n	http://dbpedia.org/resource/Gas	http://babelnet.org/rdf/s00037382n	0.71428573	0.5	0.09193054	BABELFY]
+RANK:=== COUNTER  Counter 14224 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	9	0	4097625	An advanced weapons program would require the capability to manufacture tritium , a radioactive gas that can be used to enhance the explosive power of nuclear weapons , for fabrication of boosted - yield weapons .	10619	use.v	1141	Using	MANUAL	6528951	112	115	RLG	used
+LINKED:[18	18	112	115	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14226 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	10	0	4097626	While countries may seek to develop all of these capabilities on an independent , indigenous basis , they can and often do seek some inputs from foreign sources .	12161	seek.v	1480	Seeking_to_achieve	MANUAL	6528956	20	23	RLG	seek
+LINKED:[3	3	20	23	bn:00093452v		http://babelnet.org/rdf/s00093452v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14238 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	10	0	4097626	While countries may seek to develop all of these capabilities on an independent , indigenous basis , they can and often do seek some inputs from foreign sources .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6528957	28	34	RLG	develop
+LINKED:[5	5	28	34	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14240 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	10	0	4097626	While countries may seek to develop all of these capabilities on an independent , indigenous basis , they can and often do seek some inputs from foreign sources .	10702	capability.n	990	Capability	MANUAL	6528958	49	60	RLG	capabilities
+LINKED:[9	9	49	60	bn:01670049n	http://dbpedia.org/resource/Capability_(systems_engineering)	http://babelnet.org/rdf/s01670049n	1.0	0.1	0.003649635	BABELFY]
+RANK:=== COUNTER  Counter 14242 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	10	0	4097626	While countries may seek to develop all of these capabilities on an independent , indigenous basis , they can and often do seek some inputs from foreign sources .	12429	indigenous.a	1552	Indigenous_origin	MANUAL	6528959	82	91	RLG	indigenous
+LINKED:[14	14	82	91	bn:00097805a		http://babelnet.org/rdf/s00097805a	0.7894737	0.3	0.054744527	BABELFY]
+RANK:=== COUNTER  Counter 14244 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	10	0	4097626	While countries may seek to develop all of these capabilities on an independent , indigenous basis , they can and often do seek some inputs from foreign sources .	12180	foreign.a	1483	Foreign_or_domestic_country	MANUAL	6528961	145	151	RLG	foreign
+LINKED:[26	26	145	151	bn:00103206a		http://babelnet.org/rdf/s00103206a	0.8333333	0.3	0.054744527	BABELFY]
+RANK:=== COUNTER  Counter 14246 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	10	0	4097626	While countries may seek to develop all of these capabilities on an independent , indigenous basis , they can and often do seek some inputs from foreign sources .	11681	source.n	1347	Source_of_getting	MANUAL	6528962	153	159	RLG	sources
+LINKED:[27	27	153	159	bn:00009635n		http://babelnet.org/rdf/s00009635n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14248 ===
+	Relational_natural_features: -0.008264462809917356
+	Origin: -0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	10	0	4097626	While countries may seek to develop all of these capabilities on an independent , indigenous basis , they can and often do seek some inputs from foreign sources .	12161	seek.v	1480	Seeking_to_achieve	MANUAL	6529339	123	126	JKR	seek
+LINKED:[22	22	123	126	bn:00093452v		http://babelnet.org/rdf/s00093452v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14250 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	10	0	4097627	For example , they may purchase raw or milled uranium ore from abroad , and then use indigenous facilities to enrich it to weapons - grade material .	6199	milled.a	357	Ground_up	MANUAL	6528964	39	44	RLG	milled
+LINKED:[8	8	39	44	bn:00106731a		http://babelnet.org/rdf/s00106731a	1.0	0.11111111	0.01369863	BABELFY]
+RANK:=== COUNTER  Counter 14254 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	10	0	4097627	For example , they may purchase raw or milled uranium ore from abroad , and then use indigenous facilities to enrich it to weapons - grade material .	12429	indigenous.a	1552	Indigenous_origin	MANUAL	6528967	85	94	RLG	indigenous
+LINKED:[17	17	85	94	bn:00097805a		http://babelnet.org/rdf/s00097805a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14258 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	10	0	4097627	For example , they may purchase raw or milled uranium ore from abroad , and then use indigenous facilities to enrich it to weapons - grade material .	11684	material.n	1348	Ingredients	MANUAL	6528972	139	146	RLG	material
+LINKED:[26	26	139	146	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14266 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Ingredients]
+MATCH!
+SILVER:135	23561	2	10	0	4097627	For example , they may purchase raw or milled uranium ore from abroad , and then use indigenous facilities to enrich it to weapons - grade material .	10720	raw.a	1159	Degree_of_processing	MANUAL	6530296	32	34	RLG	raw
+LINKED:[6	6	32	34	bn:00107156a		http://babelnet.org/rdf/s00107156a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14268 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	11	0	4097628	Determining how many nuclear weapons a country can produce with a given amount of fissile material requires knowing the technological sophistication of the country and the explosive yield of the weapons .	10652	nuclear	426	Weapon	MANUAL	6528973	21	27	EGp	nuclear
+LINKED:[3	3	21	27	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14270 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23561	1	11	0	4097628	Determining how many nuclear weapons a country can produce with a given amount of fissile material requires knowing the technological sophistication of the country and the explosive yield of the weapons .	7523	produce.v	408	Manufacturing	MANUAL	6528975	51	57	RLG	produce
+LINKED:[8	8	51	57	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14276 ===
+	Behind_the_scenes: -0.008264462809917356
+	Manufacturing: -0.015625
+
+SELECTED:[Manufacturing]
+MATCH!
+SILVER:135	23561	1	11	0	4097628	Determining how many nuclear weapons a country can produce with a given amount of fissile material requires knowing the technological sophistication of the country and the explosive yield of the weapons .	11726	material.n	1321	Substance	MANUAL	6528977	90	97	RLG	material
+LINKED:[15	15	90	97	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14278 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Substance]
+MATCH!
+SILVER:135	23561	1	11	0	4097628	Determining how many nuclear weapons a country can produce with a given amount of fissile material requires knowing the technological sophistication of the country and the explosive yield of the weapons .	12202	require.v	1491	Have_as_requirement	MANUAL	6528978	99	106	RLG	requires
+LINKED:[16	16	99	106	bn:00082822v		http://babelnet.org/rdf/s00082822v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14280 ===
+	Imposing_obligation: -0.027777777777777776
+	Needing: -0.25
+	Have_as_requirement: -1.0
+
+SELECTED:[Have_as_requirement]
+MATCH!
+SILVER:135	23561	1	11	0	4097628	Determining how many nuclear weapons a country can produce with a given amount of fissile material requires knowing the technological sophistication of the country and the explosive yield of the weapons .	160	know.v	19	Awareness	MANUAL	6528979	108	114	RLG	knowing
+LINKED:[17	17	108	114	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14282 ===
+	Awareness: -0.002066115702479339
+	Certainty: -0.008264462809917356
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:135	23561	4	11	0	4097631	However , sophisticated nuclear weapons reportedly use as little as 3 - 4kg of plutonium and/or 15 - 20kg of HEU .	10652	nuclear	426	Weapon	MANUAL	6528987	24	30	EGp	nuclear
+LINKED:[3	3	24	30	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14302 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23561	4	11	0	4097631	However , sophisticated nuclear weapons reportedly use as little as 3 - 4kg of plutonium and/or 15 - 20kg of HEU .	13149	sophisticated.a	1341	Stage_of_progress	MANUAL	6534439	10	22	RLG	sophisticated
+LINKED:[2	2	10	22	bn:00110922a		http://babelnet.org/rdf/s00110922a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14310 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	5	11	0	4097632	The Natural Resources Defense Council has estimated that a country with a `` high technical capability '' could require as little as 1kg of weapons - grade plutonium or 2.5kg HEU to produce a one kiloton bomb .	1980	high.a	95	Position_on_a_scale	MANUAL	6528993	77	80	RLG	high
+LINKED:[13	13	77	80	bn:00104162a		http://babelnet.org/rdf/s00104162a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14316 ===
+	Dimension: -8.650519031141869E-4
+	Measurable_attributes: -0.04000000000000001
+	Position_on_a_scale: -0.04000000000000001
+
+SELECTED:[Position_on_a_scale]
+MATCH!
+SILVER:135	23561	5	11	0	4097632	The Natural Resources Defense Council has estimated that a country with a `` high technical capability '' could require as little as 1kg of weapons - grade plutonium or 2.5kg HEU to produce a one kiloton bomb .	7523	produce.v	408	Manufacturing	MANUAL	6528998	182	188	RLG	produce
+LINKED:[32	32	182	188	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14326 ===
+	Behind_the_scenes: -0.008264462809917356
+	Manufacturing: -0.015625
+
+SELECTED:[Manufacturing]
+MATCH!
+SILVER:135	23561	6	11	0	4097633	The atomic bombs dropped on Hiroshima and Nagasaki used low - level nuclear weapons technology .	10652	nuclear	426	Weapon	MANUAL	6529002	68	74	EGp	nuclear
+LINKED:[12	12	68	74	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14330 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23561	6	11	0	4097633	The atomic bombs dropped on Hiroshima and Nagasaki used low - level nuclear weapons technology .	11801	level.n	1377	Rank	MANUAL	6530573	62	66	MiL	level
+LINKED:[11	11	62	66	bn:00041239n		http://babelnet.org/rdf/s00041239n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14338 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	12	0	4097635	In the case of North Korea , determining the status of its nuclear weapons program is especially difficult .	6567	difficult.a	375	Difficulty	MANUAL	6528794	97	105	JKR	difficult
+LINKED:[17	17	97	105	bn:00101359a		http://babelnet.org/rdf/s00101359a	1.0	0.09090909	0.0025641026	BABELFY]
+RANK:=== COUNTER  Counter 14346 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	12	0	4097635	In the case of North Korea , determining the status of its nuclear weapons program is especially difficult .	10724	program.n	1158	Project	MANUAL	6528795	75	81	JKR	program
+LINKED:[14	14	75	81	bn:00064646n		http://babelnet.org/rdf/s00064646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14348 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	1	12	0	4097635	In the case of North Korea , determining the status of its nuclear weapons program is especially difficult .	10652	nuclear	426	Weapon	MANUAL	6528796	59	65	EGp	nuclear
+LINKED:[12	12	59	65	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14350 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23561	2	12	0	4097636	As an extremely isolated and secretive state , North Korea provides few signals of the existence -- let alone the extent -- of its nuclear weapons program .	470	secretive.a	32	Candidness	MANUAL	6528797	29	37	JKR	secretive
+LINKED:[5	5	29	37	bn:00099869a		http://babelnet.org/rdf/s00099869a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14356 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	2	12	0	4097636	As an extremely isolated and secretive state , North Korea provides few signals of the existence -- let alone the extent -- of its nuclear weapons program .	10724	program.n	1158	Project	MANUAL	6528799	147	153	JKR	program
+LINKED:[26	26	147	153	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14360 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23561	3	12	0	4097637	Key data sources for DPRK include defector testimony , which may be unreliable given possibility of deliberate disinformation by double agents and defectors exaggerating what they know , and unclassified estimates by US intelligence agencies , which may have certain biases based on national interest , worst - case expectations , domestic politics , etc. Also , most estimates do not rely on original texts in Korean , which may introduce some errors due to translation issues .	10687	include.v	1153	Inclusion	MANUAL	6528808	26	32	JKR	include
+LINKED:[5	5	26	32	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14372 ===
+	Inclusion: -0.027777777777777776
+	Cause_to_be_included: -0.25
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:135	23561	3	12	0	4097637	Key data sources for DPRK include defector testimony , which may be unreliable given possibility of deliberate disinformation by double agents and defectors exaggerating what they know , and unclassified estimates by US intelligence agencies , which may have certain biases based on national interest , worst - case expectations , domestic politics , etc. Also , most estimates do not rely on original texts in Korean , which may introduce some errors due to translation issues .	12291	estimate.n	1516	Estimated_value	MANUAL	6528811	204	212	JKR	estimates
+LINKED:[30	30	204	212	bn:00005164n	http://dbpedia.org/resource/Estimation	http://babelnet.org/rdf/s00005164n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14376 ===
+	Estimating: -0.1111111111111111
+	Estimated_value: -1.0
+
+SELECTED:[Estimated_value]
+MATCH!
+SILVER:135	23561	3	12	0	4097637	Key data sources for DPRK include defector testimony , which may be unreliable given possibility of deliberate disinformation by double agents and defectors exaggerating what they know , and unclassified estimates by US intelligence agencies , which may have certain biases based on national interest , worst - case expectations , domestic politics , etc. Also , most estimates do not rely on original texts in Korean , which may introduce some errors due to translation issues .	160	know.v	19	Awareness	MANUAL	6529340	180	183	JKR	know
+LINKED:[26	26	180	183	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14380 ===
+	Awareness: -0.002066115702479339
+	Certainty: -0.008264462809917356
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:135	23561	3	12	0	4097637	Key data sources for DPRK include defector testimony , which may be unreliable given possibility of deliberate disinformation by double agents and defectors exaggerating what they know , and unclassified estimates by US intelligence agencies , which may have certain biases based on national interest , worst - case expectations , domestic politics , etc. Also , most estimates do not rely on original texts in Korean , which may introduce some errors due to translation issues .	12538	intelligence.n	1591	Information	MANUAL	6529341	220	231	JKR	intelligence
+LINKED:[33	33	220	231	bn:00047025n	http://dbpedia.org/resource/Intelligence	http://babelnet.org/rdf/s00047025n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14382 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	3	12	0	4097637	Key data sources for DPRK include defector testimony , which may be unreliable given possibility of deliberate disinformation by double agents and defectors exaggerating what they know , and unclassified estimates by US intelligence agencies , which may have certain biases based on national interest , worst - case expectations , domestic politics , etc. Also , most estimates do not rely on original texts in Korean , which may introduce some errors due to translation issues .	12291	estimate.n	1516	Estimated_value	MANUAL	6529342	368	376	JKR	estimates
+LINKED:[59	59	368	376	bn:00005164n	http://dbpedia.org/resource/Estimation	http://babelnet.org/rdf/s00005164n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14384 ===
+	Estimating: -0.1111111111111111
+	Estimated_value: -1.0
+
+SELECTED:[Estimated_value]
+MATCH!
+SILVER:135	23561	3	12	0	4097637	Key data sources for DPRK include defector testimony , which may be unreliable given possibility of deliberate disinformation by double agents and defectors exaggerating what they know , and unclassified estimates by US intelligence agencies , which may have certain biases based on national interest , worst - case expectations , domestic politics , etc. Also , most estimates do not rely on original texts in Korean , which may introduce some errors due to translation issues .	7508	key.a	407	Importance	MANUAL	6530302	0	2	RLG	Key
+LINKED:[0	0	0	2	bn:00048985n	http://dbpedia.org/resource/Key_(lock)	http://babelnet.org/rdf/s00048985n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14388 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	3	12	0	4097637	Key data sources for DPRK include defector testimony , which may be unreliable given possibility of deliberate disinformation by double agents and defectors exaggerating what they know , and unclassified estimates by US intelligence agencies , which may have certain biases based on national interest , worst - case expectations , domestic politics , etc. Also , most estimates do not rely on original texts in Korean , which may introduce some errors due to translation issues .	10243	national.a	195	Political_locales	MANUAL	6530458	283	290	RLG	national
+LINKED:[43	43	283	290	bn:00107136a		http://babelnet.org/rdf/s00107136a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14392 ===
+	Political_locales: -9.765625E-4
+	Origin: -0.0625
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:135	23561	3	12	0	4097637	Key data sources for DPRK include defector testimony , which may be unreliable given possibility of deliberate disinformation by double agents and defectors exaggerating what they know , and unclassified estimates by US intelligence agencies , which may have certain biases based on national interest , worst - case expectations , domestic politics , etc. Also , most estimates do not rely on original texts in Korean , which may introduce some errors due to translation issues .	6288	bad.a	354	Desirability	MANUAL	6530604	303	307	MiL	worst
+LINKED:[46	46	303	307	bn:00113944a		http://babelnet.org/rdf/s00113944a	1.0	0.024390243	1.690617E-4	BABELFY]
+RANK:=== COUNTER  Counter 14394 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	3	12	0	4097637	Key data sources for DPRK include defector testimony , which may be unreliable given possibility of deliberate disinformation by double agents and defectors exaggerating what they know , and unclassified estimates by US intelligence agencies , which may have certain biases based on national interest , worst - case expectations , domestic politics , etc. Also , most estimates do not rely on original texts in Korean , which may introduce some errors due to translation issues .	12923	translation.n	1645	Translating	MANUAL	6534396	459	469	RLG	translation
+LINKED:[76	76	459	469	bn:00047114n	http://dbpedia.org/resource/Translation	http://babelnet.org/rdf/s00047114n	0.85714287	0.14634146	0.008114962	BABELFY]
+RANK:=== COUNTER  Counter 14396 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	3	12	0	4097637	Key data sources for DPRK include defector testimony , which may be unreliable given possibility of deliberate disinformation by double agents and defectors exaggerating what they know , and unclassified estimates by US intelligence agencies , which may have certain biases based on national interest , worst - case expectations , domestic politics , etc. Also , most estimates do not rely on original texts in Korean , which may introduce some errors due to translation issues .	12648	double	1071	People_by_vocation	MANUAL	6534424	129	134	EGp	double
+LINKED:[19	19	129	134	bn:00101728a		http://babelnet.org/rdf/s00101728a	1.0	0.024390243	1.690617E-4	BABELFY]
+RANK:=== COUNTER  Counter 14400 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23561	3	12	0	4097637	Key data sources for DPRK include defector testimony , which may be unreliable given possibility of deliberate disinformation by double agents and defectors exaggerating what they know , and unclassified estimates by US intelligence agencies , which may have certain biases based on national interest , worst - case expectations , domestic politics , etc. Also , most estimates do not rely on original texts in Korean , which may introduce some errors due to translation issues .	12648	double	1071	People_by_vocation	MANUAL	6534424	136	141	EGp	agents
+LINKED:[20	20	136	141	bn:00001972n		http://babelnet.org/rdf/s00001972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14402 ===
+
+SELECTED:[]
+WRONG!
+filename	NTI__NorthKorea_NuclearCapabilities.xml
+docAnnotations	301
+docManual	263
+docUnannotated	38
+sentences	30
+paragraphs	12
+Overlapping	242
+Disambiguated	50
+TP	46
+TN	38
+FP	0
+FN	213
+P	1.0
+R	0.1776061776061776
+F	0.30163934426229505
+A	0.2828282828282828

@@ -1,0 +1,3140 @@
+SILVER:115	23009	1	1	0	2824197	The art of change-ringing is peculiar to the English , and , like most English peculiarities , unintelligible to the rest of the world .	10110	art.n	981	Craft	MANUAL	4528532	4	6	MJE	art
+LINKED:[1	1	4	6	bn:00005927n	http://dbpedia.org/resource/Art	http://babelnet.org/rdf/s00005927n	1.0	0.75	0.089976326	BABELFY]
+RANK:=== COUNTER  Counter 17455 ===
+	Fields: 0.011578947368421053
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	1	0	2824197	The art of change-ringing is peculiar to the English , and , like most English peculiarities , unintelligible to the rest of the world .	10131	peculiar.a	982	Idiosyncrasy	MANUAL	4528533	29	36	MJE	peculiar
+LINKED:[5	5	29	36	bn:00100783a		http://babelnet.org/rdf/s00100783a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17456 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	1	0	2824197	The art of change-ringing is peculiar to the English , and , like most English peculiarities , unintelligible to the rest of the world .	10092	English.n	974	People_by_origin	MANUAL	4528534	45	51	MJE	English
+LINKED:[8	8	45	51	bn:00030862n	http://dbpedia.org/resource/English_language	http://babelnet.org/rdf/s00030862n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17457 ===
+	People_by_origin: 0.02043010752688172
+
+SELECTED:[People_by_origin]
+MATCH!
+SILVER:115	23009	1	1	0	2824197	The art of change-ringing is peculiar to the English , and , like most English peculiarities , unintelligible to the rest of the world .	10132	peculiarity.n	982	Idiosyncrasy	MANUAL	4528536	79	91	MJE	peculiarities
+LINKED:[15	15	79	91	bn:00027768n		http://babelnet.org/rdf/s00027768n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17458 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	1	0	2824197	The art of change-ringing is peculiar to the English , and , like most English peculiarities , unintelligible to the rest of the world .	10161	unintelligible.a	979	Grasp	MANUAL	4528537	95	108	MJE	unintelligible
+LINKED:[17	17	95	108	bn:00112881a		http://babelnet.org/rdf/s00112881a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17459 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	1	0	2824197	The art of change-ringing is peculiar to the English , and , like most English peculiarities , unintelligible to the rest of the world .	10172	rest.n	1000	Rest	MANUAL	4528538	117	120	MJE	rest
+LINKED:[20	20	117	120	bn:00008047n		http://babelnet.org/rdf/s00008047n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17460 ===
+	Rest: 0.011428571428571429
+
+SELECTED:[Rest]
+MATCH!
+SILVER:115	23009	1	1	0	2824197	The art of change-ringing is peculiar to the English , and , like most English peculiarities , unintelligible to the rest of the world .	10179	world.n	195	Political_locales	MANUAL	4528539	129	133	MJE	world
+LINKED:[23	23	129	133	bn:00029424n	http://dbpedia.org/resource/Earth	http://babelnet.org/rdf/s00029424n	0.8	0.625	0.06314128	BABELFY]
+RANK:=== COUNTER  Counter 17461 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	3	0	2824199	ASLACTON , England -- Of all scenes that evoke rural England , this is one of the loveliest : An ancient stone church stands amid the fields , the sound of bells cascading from its tower , calling the faithful to evensong .	10027	stand.v	960	Being_located	MANUAL	4528522	118	123	CFB	stands
+LINKED:[23	23	118	123	bn:00094275v		http://babelnet.org/rdf/s00094275v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17462 ===
+	Change_posture: 0.2571428571428571
+	Posture: 0.24285714285714285
+	Occupy_rank: 0.05714285714285714
+	Tolerating: 0.05714285714285714
+	Being_located: 0.05714285714285714
+
+SELECTED:[Being_located]
+MATCH!
+SILVER:115	23009	1	3	0	2824199	ASLACTON , England -- Of all scenes that evoke rural England , this is one of the loveliest : An ancient stone church stands amid the fields , the sound of bells cascading from its tower , calling the faithful to evensong .	10189	scene.n	71	Sensation	MANUAL	4528540	29	34	MJE	scenes
+LINKED:[6	6	29	34	bn:15143040n	http://dbpedia.org/resource/2000s_in_fashion	http://babelnet.org/rdf/s15143040n	1.0	0.21428572	0.009345794	BABELFY]
+RANK:=== COUNTER  Counter 17463 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	3	0	2824199	ASLACTON , England -- Of all scenes that evoke rural England , this is one of the loveliest : An ancient stone church stands amid the fields , the sound of bells cascading from its tower , calling the faithful to evensong .	10072	ancient.a	972	Age	MANUAL	4528544	97	103	MJE	ancient
+LINKED:[20	20	97	103	bn:00097066a		http://babelnet.org/rdf/s00097066a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17464 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	3	0	2824199	ASLACTON , England -- Of all scenes that evoke rural England , this is one of the loveliest : An ancient stone church stands amid the fields , the sound of bells cascading from its tower , calling the faithful to evensong .	1557	sound.n	71	Sensation	MANUAL	4528546	147	151	MJE	sound
+LINKED:[29	29	147	151	bn:00000986n	http://dbpedia.org/resource/Acoustic_wave	http://babelnet.org/rdf/s00000986n	1.0	0.21428572	0.021806853	BABELFY]
+RANK:=== COUNTER  Counter 17465 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	3	0	2824199	ASLACTON , England -- Of all scenes that evoke rural England , this is one of the loveliest : An ancient stone church stands amid the fields , the sound of bells cascading from its tower , calling the faithful to evensong .	6020	cascade.v	345	Fluidic_motion	MANUAL	4528547	162	170	MJE	cascading
+LINKED:[32	32	162	170	bn:00084612v		http://babelnet.org/rdf/s00084612v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17466 ===
+	Fluidic_motion: 0.3333333333333333
+
+SELECTED:[Fluidic_motion]
+MATCH!
+SILVER:115	23009	1	3	0	2824199	ASLACTON , England -- Of all scenes that evoke rural England , this is one of the loveliest : An ancient stone church stands amid the fields , the sound of bells cascading from its tower , calling the faithful to evensong .	10219	call.v	41	Request	MANUAL	4528548	189	195	MJE	calling
+LINKED:[37	37	189	195	bn:00084385v		http://babelnet.org/rdf/s00084385v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17467 ===
+	Being_named: 0.12941176470588237
+	Deserving: 0.041176470588235294
+	Name_conferral: 0.03529411764705882
+	Referring_by_name: 0.029411764705882353
+	Labeling: 0.029411764705882353
+	Claim_ownership: 0.029411764705882353
+	Simple_naming: 0.01764705882352941
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	3	0	2824199	ASLACTON , England -- Of all scenes that evoke rural England , this is one of the loveliest : An ancient stone church stands amid the fields , the sound of bells cascading from its tower , calling the faithful to evensong .	10224	faithful.n	1021	People_by_religion	MANUAL	4528549	201	208	MJE	faithful
+LINKED:[39	39	201	208	bn:03239815n	http://dbpedia.org/resource/Hillsong_Church	http://babelnet.org/rdf/s03239815n	1.0	0.21428572	0.009345794	BABELFY]
+RANK:=== COUNTER  Counter 17468 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	3	0	2824199	ASLACTON , England -- Of all scenes that evoke rural England , this is one of the loveliest : An ancient stone church stands amid the fields , the sound of bells cascading from its tower , calling the faithful to evensong .	10194	evoke.v	1012	Evoking	MANUAL	4528551	41	45	MJE	evoke
+LINKED:[8	8	41	45	bn:00082768v		http://babelnet.org/rdf/s00082768v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17469 ===
+	Experiencer_obj: 0.39090909090909093
+	Cause_to_start: 0.05454545454545454
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	3	0	2824199	ASLACTON , England -- Of all scenes that evoke rural England , this is one of the loveliest : An ancient stone church stands amid the fields , the sound of bells cascading from its tower , calling the faithful to evensong .	10200	rural.a	196	Locale_by_use	MANUAL	4528552	47	51	MJE	rural
+LINKED:[9	9	47	51	bn:00109998a		http://babelnet.org/rdf/s00109998a	0.9	0.21428572	0.009345794	BABELFY]
+RANK:=== COUNTER  Counter 17470 ===
+	Locale_by_use: 0.5
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:115	23009	1	3	0	2824199	ASLACTON , England -- Of all scenes that evoke rural England , this is one of the loveliest : An ancient stone church stands amid the fields , the sound of bells cascading from its tower , calling the faithful to evensong .	3001	church.n	173	Buildings	MANUAL	4528553	111	116	MJE	church
+LINKED:[22	22	111	116	bn:00018995n	http://dbpedia.org/resource/Church_(building)	http://babelnet.org/rdf/s00018995n	0.896	0.5714286	0.11630322	BABELFY]
+RANK:=== COUNTER  Counter 17471 ===
+	Buildings: 0.1829787234042553
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:115	23009	1	3	0	2824199	ASLACTON , England -- Of all scenes that evoke rural England , this is one of the loveliest : An ancient stone church stands amid the fields , the sound of bells cascading from its tower , calling the faithful to evensong .	8709	field.n	196	Locale_by_use	MANUAL	4528554	134	139	MJE	fields
+LINKED:[26	26	134	139	bn:00034265n	http://dbpedia.org/resource/Field_(agriculture)	http://babelnet.org/rdf/s00034265n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17472 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	3	0	2824199	ASLACTON , England -- Of all scenes that evoke rural England , this is one of the loveliest : An ancient stone church stands amid the fields , the sound of bells cascading from its tower , calling the faithful to evensong .	10114	tower.n	188	Building_subparts	MANUAL	4528555	181	185	MJE	tower
+LINKED:[35	35	181	185	bn:00077766n	http://dbpedia.org/resource/Tower	http://babelnet.org/rdf/s00077766n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17473 ===
+	Buildings: 0.2205128205128205
+	Building_subparts: 0.14358974358974358
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:115	23009	1	3	0	2824199	ASLACTON , England -- Of all scenes that evoke rural England , this is one of the loveliest : An ancient stone church stands amid the fields , the sound of bells cascading from its tower , calling the faithful to evensong .	10211	bell.n	1017	Noise_makers	MANUAL	4530552	156	160	RLG	bells
+LINKED:[31	31	156	160	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17474 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	1	4	0	2824200	The parishioners of St. Michael and All Angels stop to chat at the church door , as members here always have .	10246	parishioner.n	1023	People_by_jurisdiction	MANUAL	4528556	4	15	MJE	parishioners
+LINKED:[1	1	4	15	bn:00060681n	http://dbpedia.org/resource/Parish	http://babelnet.org/rdf/s00060681n	0.94285715	0.375	0.069767445	BABELFY]
+RANK:=== COUNTER  Counter 17475 ===
+	Political_locales: 0.06808510638297872
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	4	0	2824200	The parishioners of St. Michael and All Angels stop to chat at the church door , as members here always have .	10264	stop.v	1024	Halt	MANUAL	4528557	47	50	MJE	stop
+LINKED:[8	8	47	50	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17476 ===
+	Preventing: 10.0
+	Halt: 0.010526315789473684
+
+SELECTED:[Halt]
+MATCH!
+SILVER:115	23009	1	4	0	2824200	The parishioners of St. Michael and All Angels stop to chat at the church door , as members here always have .	10268	door.n	1025	Connecting_architecture	MANUAL	4528558	74	77	MJE	door
+LINKED:[14	14	74	77	bn:00028247n	http://dbpedia.org/resource/Door	http://babelnet.org/rdf/s00028247n	0.8	0.25	0.016913319	BABELFY]
+RANK:=== COUNTER  Counter 17477 ===
+	Connecting_architecture: 0.01818181818181818
+
+SELECTED:[Connecting_architecture]
+MATCH!
+SILVER:115	23009	1	4	0	2824200	The parishioners of St. Michael and All Angels stop to chat at the church door , as members here always have .	10279	member.n	1026	Membership	MANUAL	4528559	84	90	MJE	members
+LINKED:[17	17	84	90	bn:02477511n	http://dbpedia.org/resource/Local_church	http://babelnet.org/rdf/s02477511n	1.0	0.25	0.016913319	BABELFY]
+RANK:=== COUNTER  Counter 17478 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	4	0	2824200	The parishioners of St. Michael and All Angels stop to chat at the church door , as members here always have .	9950	chat.v	910	Chatting	MANUAL	4528560	55	58	MJE	chat
+LINKED:[10	10	55	58	bn:00084747v		http://babelnet.org/rdf/s00084747v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17479 ===
+	Communication_manner: 0.06538461538461539
+	Chatting: 0.046153846153846156
+
+SELECTED:[Chatting]
+MATCH!
+SILVER:115	23009	1	4	0	2824200	The parishioners of St. Michael and All Angels stop to chat at the church door , as members here always have .	3001	church.n	173	Buildings	MANUAL	4530692	67	72	KmG	church
+LINKED:[13	13	67	72	bn:00018995n	http://dbpedia.org/resource/Church_(building)	http://babelnet.org/rdf/s00018995n	0.875	0.875	0.26638478	BABELFY]
+RANK:=== COUNTER  Counter 17480 ===
+	Buildings: 0.1829787234042553
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:115	23009	2	4	0	2824201	In the tower , five men and women pull rhythmically on ropes attached to the same five bells that first sounded here in 1614 .	10114	tower.n	188	Building_subparts	MANUAL	4528561	7	11	MJE	tower
+LINKED:[2	2	7	11	bn:00077766n	http://dbpedia.org/resource/Tower	http://babelnet.org/rdf/s00077766n	0.8181818	0.42857143	0.054545455	BABELFY]
+RANK:=== COUNTER  Counter 17481 ===
+	Buildings: 0.2205128205128205
+	Building_subparts: 0.14358974358974358
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:115	23009	2	4	0	2824201	In the tower , five men and women pull rhythmically on ropes attached to the same five bells that first sounded here in 1614 .	5526	man.n	304	People	MANUAL	4528562	20	22	MJE	men
+LINKED:[5	5	20	22	bn:00044576n	http://dbpedia.org/resource/Human	http://babelnet.org/rdf/s00044576n	0.75449103	0.85714287	0.38181818	BABELFY]
+RANK:=== COUNTER  Counter 17482 ===
+	People: 0.00916030534351145
+
+SELECTED:[People]
+MATCH!
+SILVER:115	23009	2	4	0	2824201	In the tower , five men and women pull rhythmically on ropes attached to the same five bells that first sounded here in 1614 .	5527	woman.n	304	People	MANUAL	4528563	28	32	MJE	women
+LINKED:[7	7	28	32	bn:00001530n	http://dbpedia.org/resource/Woman	http://babelnet.org/rdf/s00001530n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17483 ===
+	People: 0.02181818181818182
+
+SELECTED:[People]
+MATCH!
+SILVER:115	23009	2	4	0	2824201	In the tower , five men and women pull rhythmically on ropes attached to the same five bells that first sounded here in 1614 .	122	pull.v	17	Manipulation	MANUAL	4528564	34	37	MJE	pull
+LINKED:[8	8	34	37	bn:00087234v		http://babelnet.org/rdf/s00087234v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17484 ===
+	Manipulation: 0.06666666666666667
+	Cause_motion: 0.054901960784313725
+	Ingest_substance: 0.029411764705882353
+
+SELECTED:[Manipulation]
+MATCH!
+SILVER:115	23009	2	4	0	2824201	In the tower , five men and women pull rhythmically on ropes attached to the same five bells that first sounded here in 1614 .	10331	rhythmically.adv	1040	Temporal_pattern	MANUAL	4528565	39	50	MJE	rhythmically
+LINKED:[9	9	39	50	bn:00116859r		http://babelnet.org/rdf/s00116859r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17485 ===
+	Temporal_pattern: 0.07142857142857142
+
+SELECTED:[Temporal_pattern]
+MATCH!
+SILVER:115	23009	2	4	0	2824201	In the tower , five men and women pull rhythmically on ropes attached to the same five bells that first sounded here in 1614 .	7669	rope.n	419	Connectors	MANUAL	4528566	55	59	MJE	ropes
+LINKED:[11	11	55	59	bn:00068266n	http://dbpedia.org/resource/Rope	http://babelnet.org/rdf/s00068266n	0.9230769	0.5714286	0.07272727	BABELFY]
+RANK:=== COUNTER  Counter 17486 ===
+	Connectors: 0.053061224489795916
+
+SELECTED:[Connectors]
+MATCH!
+SILVER:115	23009	2	4	0	2824201	In the tower , five men and women pull rhythmically on ropes attached to the same five bells that first sounded here in 1614 .	5554	attached.a	307	Being_attached	MANUAL	4528567	61	68	MJE	attached
+LINKED:[12	12	61	68	bn:00082893v		http://babelnet.org/rdf/s00082893v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17487 ===
+	Attaching: 0.6571428571428571
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	4	0	2824201	In the tower , five men and women pull rhythmically on ropes attached to the same five bells that first sounded here in 1614 .	10211	bell.n	1017	Noise_makers	MANUAL	4528568	87	91	MJE	bells
+LINKED:[17	17	87	91	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17488 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	2	4	0	2824201	In the tower , five men and women pull rhythmically on ropes attached to the same five bells that first sounded here in 1614 .	15357	sound.v	69	Make_noise	MANUAL	4530923	104	110	AlK	sounded
+LINKED:[20	20	104	110	bn:00094053v		http://babelnet.org/rdf/s00094053v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17489 ===
+	Appearance: 6.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	5	0	2824202	But there is also a discordant , modern note in Aslacton , though it ca n't be heard by the church-goers enjoying the peal of bells this cool autumn evening .	1532	hear.v	70	Perception_experience	MANUAL	4528574	79	83	MJE	heard
+LINKED:[18	18	79	83	bn:00089279v		http://babelnet.org/rdf/s00089279v	1.0	0.11111111	0.012987013	BABELFY]
+RANK:=== COUNTER  Counter 17490 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	5	0	2824202	But there is also a discordant , modern note in Aslacton , though it ca n't be heard by the church-goers enjoying the peal of bells this cool autumn evening .	869	enjoy.v	48	Experiencer_focus	MANUAL	4528575	105	112	MJE	enjoying
+LINKED:[22	22	105	112	bn:00087647v		http://babelnet.org/rdf/s00087647v	1.0	0.11111111	0.012987013	BABELFY]
+RANK:=== COUNTER  Counter 17491 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	5	0	2824202	But there is also a discordant , modern note in Aslacton , though it ca n't be heard by the church-goers enjoying the peal of bells this cool autumn evening .	9673	peal.n	850	Sounds	MANUAL	4529682	118	121	MJE	peal
+LINKED:[24	24	118	121	bn:15921436n	http://dbpedia.org/resource/Peal	http://babelnet.org/rdf/s15921436n	0.8	0.22222222	0.103896104	BABELFY]
+RANK:=== COUNTER  Counter 17492 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	5	0	2824202	But there is also a discordant , modern note in Aslacton , though it ca n't be heard by the church-goers enjoying the peal of bells this cool autumn evening .	10369	cool.a	1052	Ambient_temperature	MANUAL	4529683	137	140	MJE	cool
+LINKED:[28	28	137	140	bn:00100441a		http://babelnet.org/rdf/s00100441a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17493 ===
+	Desirability: 0.04411764705882353
+	Ambient_temperature: 0.023529411764705882
+	Temperature: 0.01764705882352941
+	Subjective_temperature: 0.01764705882352941
+	Popularity: 0.008823529411764706
+
+SELECTED:[Ambient_temperature]
+MATCH!
+SILVER:115	23009	1	5	0	2824202	But there is also a discordant , modern note in Aslacton , though it ca n't be heard by the church-goers enjoying the peal of bells this cool autumn evening .	5185	autumn.n	229	Calendric_unit	MANUAL	4530313	142	147	RLG	autumn
+LINKED:[29	29	142	147	bn:00007406n	http://dbpedia.org/resource/Autumn	http://babelnet.org/rdf/s00007406n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17494 ===
+	Calendric_unit: 0.08852459016393442
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:115	23009	1	5	0	2824202	But there is also a discordant , modern note in Aslacton , though it ca n't be heard by the church-goers enjoying the peal of bells this cool autumn evening .	10211	bell.n	1017	Noise_makers	MANUAL	4530553	126	130	RLG	bells
+LINKED:[26	26	126	130	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17495 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	1	5	0	2824202	But there is also a discordant , modern note in Aslacton , though it ca n't be heard by the church-goers enjoying the peal of bells this cool autumn evening .	14198	modern.a	1895	Temporal_collocation	MANUAL	4530985	33	38	AlK	modern
+LINKED:[7	7	33	38	bn:00106822a		http://babelnet.org/rdf/s00106822a	1.0	0.11111111	0.025974026	BABELFY]
+RANK:=== COUNTER  Counter 17496 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	6	0	2824203	Like most of the other 6,000 churches in Britain with sets of bells , St. Michael once had its own `` band '' of ringers , who would herald every Sunday morning and evening service .	8995	like.prep	481	Similarity	MANUAL	4529684	0	3	MJE	Like
+LINKED:[0	0	0	3	bn:02651280n	http://dbpedia.org/resource/Like_button	http://babelnet.org/rdf/s02651280n	1.0	0.09090909	0.0010235414	BABELFY]
+RANK:=== COUNTER  Counter 17497 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	6	0	2824203	Like most of the other 6,000 churches in Britain with sets of bells , St. Michael once had its own `` band '' of ringers , who would herald every Sunday morning and evening service .	2525	band.n	103	Aggregate	MANUAL	4529687	102	105	MJE	band
+LINKED:[21	21	102	105	bn:00068051n	http://dbpedia.org/resource/Musical_ensemble	http://babelnet.org/rdf/s00068051n	0.82978725	0.54545456	0.079836234	BABELFY]
+RANK:=== COUNTER  Counter 17498 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	6	0	2824203	Like most of the other 6,000 churches in Britain with sets of bells , St. Michael once had its own `` band '' of ringers , who would herald every Sunday morning and evening service .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529688	113	119	MJE	ringers
+LINKED:[23	23	113	119	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.75	0.27272728	0.018423745	BABELFY]
+RANK:=== COUNTER  Counter 17499 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	1	6	0	2824203	Like most of the other 6,000 churches in Britain with sets of bells , St. Michael once had its own `` band '' of ringers , who would herald every Sunday morning and evening service .	10374	herald.v	1054	Heralding	MANUAL	4529689	133	138	MJE	herald
+LINKED:[27	27	133	138	bn:00082640v		http://babelnet.org/rdf/s00082640v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17500 ===
+	Omen: 0.1
+	Heralding: 0.02
+
+SELECTED:[Heralding]
+MATCH!
+SILVER:115	23009	1	6	0	2824203	Like most of the other 6,000 churches in Britain with sets of bells , St. Michael once had its own `` band '' of ringers , who would herald every Sunday morning and evening service .	5502	service.n	301	Rite	MANUAL	4529690	173	179	MJE	service
+LINKED:[33	33	173	179	bn:00070651n	http://dbpedia.org/resource/Service_(economics)	http://babelnet.org/rdf/s00070651n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17501 ===
+	Public_services: 0.00909090909090909
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	6	0	2824203	Like most of the other 6,000 churches in Britain with sets of bells , St. Michael once had its own `` band '' of ringers , who would herald every Sunday morning and evening service .	3001	church.n	173	Buildings	MANUAL	4529854	29	36	MJE	churches
+LINKED:[6	6	29	36	bn:00018995n	http://dbpedia.org/resource/Church_(building)	http://babelnet.org/rdf/s00018995n	0.7794872	0.72727275	0.1555783	BABELFY]
+RANK:=== COUNTER  Counter 17502 ===
+	Buildings: 0.1829787234042553
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:115	23009	1	6	0	2824203	Like most of the other 6,000 churches in Britain with sets of bells , St. Michael once had its own `` band '' of ringers , who would herald every Sunday morning and evening service .	2666	set.n	103	Aggregate	MANUAL	4529855	54	57	MJE	sets
+LINKED:[10	10	54	57	bn:00070696n		http://babelnet.org/rdf/s00070696n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17503 ===
+	Aggregate: 0.20833333333333334
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:115	23009	1	6	0	2824203	Like most of the other 6,000 churches in Britain with sets of bells , St. Michael once had its own `` band '' of ringers , who would herald every Sunday morning and evening service .	10211	bell.n	1017	Noise_makers	MANUAL	4529856	62	66	MJE	bells
+LINKED:[12	12	62	66	bn:00009731n	http://dbpedia.org/resource/Bell_(instrument)	http://babelnet.org/rdf/s00009731n	0.81632656	0.36363637	0.04094166	BABELFY]
+RANK:=== COUNTER  Counter 17504 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	6	0	2824204	Now , only one local ringer remains : 64-year-old Derek Hammond .	10322	remain.v	1030	Remainder	MANUAL	4528583	28	34	JKR	remains
+LINKED:[6	6	28	34	bn:00092757v		http://babelnet.org/rdf/s00092757v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17505 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	6	0	2824204	Now , only one local ringer remains : 64-year-old Derek Hammond .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529691	21	26	MJE	ringer
+LINKED:[5	5	21	26	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17506 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	1	7	0	2824205	The others here today live elsewhere .	2220	live.v	110	Residence	MANUAL	4528582	22	25	JKR	live
+LINKED:[4	4	22	25	bn:00090408v		http://babelnet.org/rdf/s00090408v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17507 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	7	0	2824205	The others here today live elsewhere .	14201	today.n	1895	Temporal_collocation	MANUAL	4530990	16	20	AlK	today
+LINKED:[3	3	16	20	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17508 ===
+	Temporal_collocation: 0.175
+
+SELECTED:[Temporal_collocation]
+MATCH!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	10280	belong.v	1026	Membership	MANUAL	4528585	5	10	JKR	belong
+LINKED:[1	1	5	10	bn:00083391v		http://babelnet.org/rdf/s00083391v	0.8	0.1	0.0038131555	BABELFY]
+RANK:=== COUNTER  Counter 17509 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	8863	drive.v	65	Operate_vehicle	MANUAL	4528586	107	111	JKR	drive
+LINKED:[19	19	107	111	bn:00087332v		http://babelnet.org/rdf/s00087332v	1.0	0.15	0.011439466	BABELFY]
+RANK:=== COUNTER  Counter 17510 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	10187	effort.n	116	Attempt	MANUAL	4528587	174	179	JKR	effort
+LINKED:[29	29	174	179	bn:00007011n		http://babelnet.org/rdf/s00007011n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17511 ===
+	Attempt: 0.016666666666666666
+
+SELECTED:[Attempt]
+MATCH!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	2112	group.n	103	Aggregate	MANUAL	4529692	17	21	MJE	group
+LINKED:[4	4	17	21	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17512 ===
+	Aggregate: 0.16129032258064516
+	Organization: 0.04516129032258064
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529693	29	35	MJE	ringers
+LINKED:[7	7	29	35	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.9868421	0.25	0.071496665	BABELFY]
+RANK:=== COUNTER  Counter 17513 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	10840	youngster.n	973	People_by_age	MANUAL	4529694	77	86	MJE	youngsters
+LINKED:[14	14	77	86	bn:00018345n	http://dbpedia.org/resource/Minor_(law)	http://babelnet.org/rdf/s00018345n	1.0	0.15	0.011439466	BABELFY]
+RANK:=== COUNTER  Counter 17514 ===
+	People_by_age: 0.004545454545454545
+	Attention_getting: 0.00371900826446281
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	3001	church.n	173	Buildings	MANUAL	4529695	131	136	MJE	church
+LINKED:[23	23	131	136	bn:00018995n	http://dbpedia.org/resource/Church_(building)	http://babelnet.org/rdf/s00018995n	0.70886075	0.35	0.16015252	BABELFY]
+RANK:=== COUNTER  Counter 17515 ===
+	Buildings: 0.1829787234042553
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	3001	church.n	173	Buildings	MANUAL	4529696	141	146	MJE	church
+LINKED:[25	25	141	146	bn:00018995n	http://dbpedia.org/resource/Church_(building)	http://babelnet.org/rdf/s00018995n	0.70886075	0.35	0.16015252	BABELFY]
+RANK:=== COUNTER  Counter 17516 ===
+	Buildings: 0.1829787234042553
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	10380	keep.v	1060	Cause_to_continue	MANUAL	4529697	184	187	MJE	keep
+LINKED:[31	31	184	187	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17517 ===
+	Defend: 6.0
+	Compliance: 0.041935483870967745
+	Inhibit_movement: 0.016129032258064516
+	Activity_ongoing: 0.012903225806451613
+	Storing: 0.01129032258064516
+	Detaining: 0.01129032258064516
+	Cause_to_continue: 0.0032258064516129032
+
+SELECTED:[Cause_to_continue]
+MATCH!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	10113	belfry.n	188	Building_subparts	MANUAL	4529699	220	227	MJE	belfries
+LINKED:[38	38	220	227	bn:00009702n		http://babelnet.org/rdf/s00009702n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17518 ===
+	Buildings: 0.33076923076923076
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	10312	training.n	111	Education_teaching	MANUAL	4530314	91	98	RLG	training
+LINKED:[16	16	91	98	bn:00086736v		http://babelnet.org/rdf/s00086736v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17519 ===
+	Education_teaching: 0.11904761904761904
+
+SELECTED:[Education_teaching]
+MATCH!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	10211	bell.n	1017	Noise_makers	MANUAL	4530554	193	197	RLG	bells
+LINKED:[33	33	193	197	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17520 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	13340	including.prep	1153	Inclusion	MANUAL	4530743	40	48	RLG	including
+LINKED:[9	9	40	48	bn:00082370v		http://babelnet.org/rdf/s00082370v	0.8	0.1	0.007626311	BABELFY]
+RANK:=== COUNTER  Counter 17521 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	15357	sound.v	69	Make_noise	MANUAL	4530924	199	206	AlK	sounding
+LINKED:[34	34	199	206	bn:00094053v		http://babelnet.org/rdf/s00094053v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17522 ===
+	Appearance: 6.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	7	0	2824206	They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia .	4655	Sunday.n	229	Calendric_unit	MANUAL	4530997	119	124	AlK	Sunday
+LINKED:[21	21	119	124	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	1.0	0.15	0.03145853	BABELFY]
+RANK:=== COUNTER  Counter 17523 ===
+	Calendric_unit: 0.07105263157894737
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:115	23009	1	8	0	2824207	`` To ring for even one service at this tower , we have to scrape , '' says Mr. Hammond , a retired water-authority worker .	5502	service.n	301	Rite	MANUAL	4529700	24	30	MJE	service
+LINKED:[6	6	24	30	bn:00070651n	http://dbpedia.org/resource/Service_(economics)	http://babelnet.org/rdf/s00070651n	1.0	0.4	0.46153846	BABELFY]
+RANK:=== COUNTER  Counter 17524 ===
+	Public_services: 0.00909090909090909
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	8	0	2824207	`` To ring for even one service at this tower , we have to scrape , '' says Mr. Hammond , a retired water-authority worker .	751	say.v	43	Statement	MANUAL	4529701	71	74	MJE	says
+LINKED:[16	16	71	74	bn:00087644v		http://babelnet.org/rdf/s00087644v	1.0	0.2	0.07692308	BABELFY]
+RANK:=== COUNTER  Counter 17525 ===
+	Request: 0.0875
+	Sentencing: 0.0125
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	8	0	2824207	`` To ring for even one service at this tower , we have to scrape , '' says Mr. Hammond , a retired water-authority worker .	10114	tower.n	188	Building_subparts	MANUAL	4529853	40	44	MJE	tower
+LINKED:[9	9	40	44	bn:00077766n	http://dbpedia.org/resource/Tower	http://babelnet.org/rdf/s00077766n	1.0	0.2	0.07692308	BABELFY]
+RANK:=== COUNTER  Counter 17526 ===
+	Buildings: 0.2205128205128205
+	Building_subparts: 0.14358974358974358
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:115	23009	1	8	0	2824207	`` To ring for even one service at this tower , we have to scrape , '' says Mr. Hammond , a retired water-authority worker .	10885	ring.v	801	Cause_to_make_noise	MANUAL	4529857	6	9	MJE	ring
+LINKED:[2	2	6	9	bn:00090125v		http://babelnet.org/rdf/s00090125v	1.0	0.2	0.07692308	BABELFY]
+RANK:=== COUNTER  Counter 17527 ===
+	Make_noise: 0.4666666666666667
+	Cause_to_make_noise: 0.05555555555555555
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	1	8	0	2824207	`` To ring for even one service at this tower , we have to scrape , '' says Mr. Hammond , a retired water-authority worker .	13351	worker.n	323	Employing	MANUAL	4531004	116	121	AlK	worker
+LINKED:[23	23	116	121	bn:00081593n		http://babelnet.org/rdf/s00081593n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17528 ===
+	Employing: 0.05
+
+SELECTED:[Employing]
+MATCH!
+SILVER:115	23009	2	8	0	2824208	`` We 've tried to train the youngsters , but they have their discos and their dances , and they just drift away .	2465	try.v	116	Attempt	MANUAL	4529702	10	14	MJE	tried
+LINKED:[3	3	10	14	bn:00082844v		http://babelnet.org/rdf/s00082844v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17529 ===
+	Attempt: 0.020512820512820513
+	Trying_out: 0.007692307692307693
+	Tasting: 0.007692307692307693
+	Try_defendant: 0.005128205128205128
+	Attempt_means: 0.005128205128205128
+
+SELECTED:[Attempt]
+MATCH!
+SILVER:115	23009	2	8	0	2824208	`` We 've tried to train the youngsters , but they have their discos and their dances , and they just drift away .	10840	youngster.n	973	People_by_age	MANUAL	4529703	29	38	MJE	youngsters
+LINKED:[7	7	29	38	bn:00018345n	http://dbpedia.org/resource/Minor_(law)	http://babelnet.org/rdf/s00018345n	1.0	0.6666667	0.08163265	BABELFY]
+RANK:=== COUNTER  Counter 17530 ===
+	People_by_age: 0.004545454545454545
+	Attention_getting: 0.00371900826446281
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:115	23009	2	8	0	2824208	`` We 've tried to train the youngsters , but they have their discos and their dances , and they just drift away .	3247	dance.n	125	Social_event	MANUAL	4529704	79	84	MJE	dances
+LINKED:[16	16	79	84	bn:00025142n		http://babelnet.org/rdf/s00025142n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17531 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	8	0	2824208	`` We 've tried to train the youngsters , but they have their discos and their dances , and they just drift away .	6164	drift.v	7	Motion	MANUAL	4529706	102	106	MJE	drift
+LINKED:[21	21	102	106	bn:00083195v		http://babelnet.org/rdf/s00083195v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17532 ===
+	Motion: 0.034
+
+SELECTED:[Motion]
+MATCH!
+SILVER:115	23009	2	8	0	2824208	`` We 've tried to train the youngsters , but they have their discos and their dances , and they just drift away .	10149	train.v	111	Education_teaching	MANUAL	4530315	19	23	RLG	train
+LINKED:[5	5	19	23	bn:00086736v		http://babelnet.org/rdf/s00086736v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17533 ===
+	Education_teaching: 0.11904761904761904
+
+SELECTED:[Education_teaching]
+MATCH!
+SILVER:115	23009	1	9	0	2824210	Mr. Hammond worries that old age and the flightiness of youth will diminish the ranks of the East Anglian group that keeps the Aslacton bells pealing .	768	worry.v	45	Emotion_active	MANUAL	4528584	12	18	JKR	worries
+LINKED:[2	2	12	18	bn:00095829v		http://babelnet.org/rdf/s00095829v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17534 ===
+	Emotion_active: 0.075
+
+SELECTED:[Emotion_active]
+MATCH!
+SILVER:115	23009	1	9	0	2824210	Mr. Hammond worries that old age and the flightiness of youth will diminish the ranks of the East Anglian group that keeps the Aslacton bells pealing .	10071	old.a	972	Age	MANUAL	4529707	25	27	MJE	old
+LINKED:[4	4	25	27	bn:00107786a		http://babelnet.org/rdf/s00107786a	0.8	0.30769232	0.11347517	BABELFY]
+RANK:=== COUNTER  Counter 17535 ===
+	Age: 0.019444444444444445
+
+SELECTED:[Age]
+MATCH!
+SILVER:115	23009	1	9	0	2824210	Mr. Hammond worries that old age and the flightiness of youth will diminish the ranks of the East Anglian group that keeps the Aslacton bells pealing .	10119	diminish.v	96	Cause_change_of_position_on_a_scale	MANUAL	4529708	67	74	MJE	diminish
+LINKED:[12	12	67	74	bn:00086417v		http://babelnet.org/rdf/s00086417v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17536 ===
+	Change_position_on_a_scale: 0.20454545454545456
+	Cause_change_of_position_on_a_scale: 0.09090909090909091
+
+SELECTED:[Cause_change_of_position_on_a_scale]
+MATCH!
+SILVER:115	23009	1	9	0	2824210	Mr. Hammond worries that old age and the flightiness of youth will diminish the ranks of the East Anglian group that keeps the Aslacton bells pealing .	1435	peal.v	69	Make_noise	MANUAL	4529709	142	148	MJE	pealing
+LINKED:[25	25	142	148	bn:00091505v		http://babelnet.org/rdf/s00091505v	0.75	0.07692308	0.010638298	BABELFY]
+RANK:=== COUNTER  Counter 17537 ===
+	Make_noise: 0.7636363636363637
+
+SELECTED:[Make_noise]
+MATCH!
+SILVER:115	23009	1	9	0	2824210	Mr. Hammond worries that old age and the flightiness of youth will diminish the ranks of the East Anglian group that keeps the Aslacton bells pealing .	10380	keep.v	1060	Cause_to_continue	MANUAL	4529710	117	121	MJE	keeps
+LINKED:[21	21	117	121	bn:00090039v		http://babelnet.org/rdf/s00090039v	1.0	0.07692308	0.0035460992	BABELFY]
+RANK:=== COUNTER  Counter 17538 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	9	0	2824210	Mr. Hammond worries that old age and the flightiness of youth will diminish the ranks of the East Anglian group that keeps the Aslacton bells pealing .	2112	group.n	103	Aggregate	MANUAL	4529711	106	110	MJE	group
+LINKED:[19	19	106	110	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17539 ===
+	Aggregate: 0.16129032258064516
+	Organization: 0.04516129032258064
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:115	23009	1	9	0	2824210	Mr. Hammond worries that old age and the flightiness of youth will diminish the ranks of the East Anglian group that keeps the Aslacton bells pealing .	10211	bell.n	1017	Noise_makers	MANUAL	4530555	136	140	RLG	bells
+LINKED:[24	24	136	140	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17540 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	1	9	0	2824210	Mr. Hammond worries that old age and the flightiness of youth will diminish the ranks of the East Anglian group that keeps the Aslacton bells pealing .	11300	age.n	972	Age	MANUAL	4531005	29	31	AlK	age
+LINKED:[5	5	29	31	bn:00001936n	http://dbpedia.org/resource/Aging_of_wine	http://babelnet.org/rdf/s00001936n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17541 ===
+	Age: 0.06363636363636363
+
+SELECTED:[Age]
+MATCH!
+SILVER:115	23009	1	9	0	2824210	Mr. Hammond worries that old age and the flightiness of youth will diminish the ranks of the East Anglian group that keeps the Aslacton bells pealing .	10088	youth.n	973	People_by_age	MANUAL	4531006	56	60	AlK	youth
+LINKED:[10	10	56	60	bn:00073643n	http://dbpedia.org/resource/Youth	http://babelnet.org/rdf/s00073643n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17542 ===
+	People_by_age: 0.028205128205128206
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:115	23009	2	9	0	2824211	History , after all , is not on his side .	11503	side.n	1306	Taking_sides	MANUAL	4531007	36	39	AlK	side
+LINKED:[9	9	36	39	bn:00071431n		http://babelnet.org/rdf/s00071431n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17543 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	9	0	2824212	According to a nationwide survey taken a year ago , nearly a third of England 's church bells are no longer rung on Sundays because there is no one to ring them .	10677	according	1148	Attributed_information	MANUAL	4529712	0	8	MJE	According
+LINKED:[0	0	0	8	bn:00082227v		http://babelnet.org/rdf/s00082227v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17544 ===
+	Compatibility: 0.06333333333333334
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	9	0	2824212	According to a nationwide survey taken a year ago , nearly a third of England 's church bells are no longer rung on Sundays because there is no one to ring them .	10211	bell.n	1017	Noise_makers	MANUAL	4529714	88	92	MJE	bells
+LINKED:[17	17	88	92	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17545 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	3	9	0	2824212	According to a nationwide survey taken a year ago , nearly a third of England 's church bells are no longer rung on Sundays because there is no one to ring them .	10885	ring.v	801	Cause_to_make_noise	MANUAL	4529858	108	111	MJE	rung
+LINKED:[21	21	108	111	bn:00091505v		http://babelnet.org/rdf/s00091505v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17546 ===
+	Make_noise: 0.7636363636363637
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	9	0	2824212	According to a nationwide survey taken a year ago , nearly a third of England 's church bells are no longer rung on Sundays because there is no one to ring them .	10885	ring.v	801	Cause_to_make_noise	MANUAL	4529859	151	154	MJE	ring
+LINKED:[30	30	151	154	bn:00091505v		http://babelnet.org/rdf/s00091505v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17547 ===
+	Make_noise: 0.7636363636363637
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	9	0	2824212	According to a nationwide survey taken a year ago , nearly a third of England 's church bells are no longer rung on Sundays because there is no one to ring them .	3001	church.n	173	Buildings	MANUAL	4530693	81	86	KmG	church
+LINKED:[16	16	81	86	bn:00018819n		http://babelnet.org/rdf/s00018819n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17548 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	9	0	2824212	According to a nationwide survey taken a year ago , nearly a third of England 's church bells are no longer rung on Sundays because there is no one to ring them .	3878	year.n	224	Measure_duration	MANUAL	4531008	41	44	AlK	year
+LINKED:[7	7	41	44	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17549 ===
+	Calendric_unit: 0.08181818181818182
+	Measure_duration: 0.019696969696969695
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:115	23009	3	9	0	2824212	According to a nationwide survey taken a year ago , nearly a third of England 's church bells are no longer rung on Sundays because there is no one to ring them .	14283	nearly.adv	1923	Proportional_quantity	MANUAL	4531010	52	57	AlK	nearly
+LINKED:[10	10	52	57	bn:00114079r		http://babelnet.org/rdf/s00114079r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17550 ===
+	Relational_quantity: 0.018333333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	9	0	2824212	According to a nationwide survey taken a year ago , nearly a third of England 's church bells are no longer rung on Sundays because there is no one to ring them .	14368	no	1895	Temporal_collocation	MANUAL	4531012	101	106	EGp	longer
+LINKED:[20	20	101	106	bn:00116156r		http://babelnet.org/rdf/s00116156r	1.0	0.1	0.0015948963	BABELFY]
+RANK:=== COUNTER  Counter 17551 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	10	0	2824213	It is easy to see why the ancient art is on the ropes .	6568	easy.a	375	Difficulty	MANUAL	4529715	6	9	MJE	easy
+LINKED:[2	2	6	9	bn:00101974a		http://babelnet.org/rdf/s00101974a	1.0	0.2	0.02	BABELFY]
+RANK:=== COUNTER  Counter 17552 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	10	0	2824213	It is easy to see why the ancient art is on the ropes .	10107	see.v	979	Grasp	MANUAL	4529716	14	16	MJE	see
+LINKED:[4	4	14	16	bn:00093430v		http://babelnet.org/rdf/s00093430v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17553 ===
+	Categorization: 0.1
+	Causation: 0.1
+	Perception_experience: 0.05909090909090909
+	Grasp: 0.04090909090909091
+	Touring: 0.031818181818181815
+	Reference_text: 0.00909090909090909
+
+SELECTED:[Grasp]
+MATCH!
+SILVER:115	23009	1	10	0	2824213	It is easy to see why the ancient art is on the ropes .	10072	ancient.a	972	Age	MANUAL	4529717	26	32	MJE	ancient
+LINKED:[7	7	26	32	bn:00097066a		http://babelnet.org/rdf/s00097066a	1.0	0.2	0.02	BABELFY]
+RANK:=== COUNTER  Counter 17554 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	10	0	2824213	It is easy to see why the ancient art is on the ropes .	10110	art.n	981	Craft	MANUAL	4529718	34	36	MJE	art
+LINKED:[8	8	34	36	bn:00005927n	http://dbpedia.org/resource/Art	http://babelnet.org/rdf/s00005927n	0.9756098	1.0	0.8	BABELFY]
+RANK:=== COUNTER  Counter 17555 ===
+	Fields: 0.011578947368421053
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	10	0	2824214	The less complicated version of playing tunes on bells , as do the carillons of continental Europe , is considered by the English to be childish , fit only for foreigners .	10121	version.n	128	Type	MANUAL	4529719	21	27	MJE	version
+LINKED:[3	3	21	27	bn:00079827n		http://babelnet.org/rdf/s00079827n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17556 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	10	0	2824214	The less complicated version of playing tunes on bells , as do the carillons of continental Europe , is considered by the English to be childish , fit only for foreigners .	10211	bell.n	1017	Noise_makers	MANUAL	4529721	49	53	MJE	bells
+LINKED:[8	8	49	53	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17557 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	2	10	0	2824214	The less complicated version of playing tunes on bells , as do the carillons of continental Europe , is considered by the English to be childish , fit only for foreigners .	10819	consider.v	21	Categorization	MANUAL	4529723	104	113	MJE	considered
+LINKED:[19	19	104	113	bn:00085647v		http://babelnet.org/rdf/s00085647v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17558 ===
+	Categorization: 0.14666666666666667
+	Regard: 0.04
+
+SELECTED:[Categorization]
+MATCH!
+SILVER:115	23009	2	10	0	2824214	The less complicated version of playing tunes on bells , as do the carillons of continental Europe , is considered by the English to be childish , fit only for foreigners .	6500	fit.a	368	Suitability	MANUAL	4529724	147	149	MJE	fit
+LINKED:[27	27	147	149	bn:00103023a		http://babelnet.org/rdf/s00103023a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17559 ===
+	Suitability: 0.044444444444444446
+
+SELECTED:[Suitability]
+MATCH!
+SILVER:115	23009	2	10	0	2824214	The less complicated version of playing tunes on bells , as do the carillons of continental Europe , is considered by the English to be childish , fit only for foreigners .	10093	foreigner.n	974	People_by_origin	MANUAL	4529725	160	169	MJE	foreigners
+LINKED:[30	30	160	169	bn:00002725n	http://dbpedia.org/resource/Alien_(law)	http://babelnet.org/rdf/s00002725n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17560 ===
+	People_by_origin: 0.035849056603773584
+
+SELECTED:[People_by_origin]
+MATCH!
+SILVER:115	23009	2	10	0	2824214	The less complicated version of playing tunes on bells , as do the carillons of continental Europe , is considered by the English to be childish , fit only for foreigners .	10355	continental.a	191	Natural_features	MANUAL	4531014	80	90	AlK	continental
+LINKED:[15	15	80	90	bn:00100373a		http://babelnet.org/rdf/s00100373a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17561 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	10	0	2824215	Change-ringing , a mind-boggling exercise the English invented 380 years ago , requires physical dexterity -- some bells weigh more than a ton -- combined with intense mental concentration .	7440	invent.v	403	Achieving_first	MANUAL	4529727	54	61	MJE	invented
+LINKED:[7	7	54	61	bn:00085743v		http://babelnet.org/rdf/s00085743v	1.0	0.18181819	0.021052632	BABELFY]
+RANK:=== COUNTER  Counter 17562 ===
+	Achieving_first: 0.032432432432432434
+	Coming_up_with: 0.032432432432432434
+
+SELECTED:[Achieving_first]
+MATCH!
+SILVER:115	23009	3	10	0	2824215	Change-ringing , a mind-boggling exercise the English invented 380 years ago , requires physical dexterity -- some bells weigh more than a ton -- combined with intense mental concentration .	2201	weigh.v	108	Dimension	MANUAL	4529728	121	125	MJE	weigh
+LINKED:[18	18	121	125	bn:00090319v		http://babelnet.org/rdf/s00090319v	1.0	0.09090909	0.005263158	BABELFY]
+RANK:=== COUNTER  Counter 17563 ===
+	Assessing: 0.06666666666666667
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	10	0	2824215	Change-ringing , a mind-boggling exercise the English invented 380 years ago , requires physical dexterity -- some bells weigh more than a ton -- combined with intense mental concentration .	10092	English.n	974	People_by_origin	MANUAL	4529729	46	52	MJE	English
+LINKED:[6	6	46	52	bn:00030862n	http://dbpedia.org/resource/English_language	http://babelnet.org/rdf/s00030862n	0.9596774	0.6363636	0.6263158	BABELFY]
+RANK:=== COUNTER  Counter 17564 ===
+	People_by_origin: 0.02043010752688172
+
+SELECTED:[People_by_origin]
+MATCH!
+SILVER:115	23009	3	10	0	2824215	Change-ringing , a mind-boggling exercise the English invented 380 years ago , requires physical dexterity -- some bells weigh more than a ton -- combined with intense mental concentration .	2807	ton.n	147	Measure_mass	MANUAL	4530316	139	141	RLG	ton
+LINKED:[22	22	139	141	bn:00057373n	http://dbpedia.org/resource/Net_tonnage	http://babelnet.org/rdf/s00057373n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17565 ===
+	Quantity: 0.09090909090909091
+	Measure_mass: 0.021212121212121213
+
+SELECTED:[Measure_mass]
+MATCH!
+SILVER:115	23009	3	10	0	2824215	Change-ringing , a mind-boggling exercise the English invented 380 years ago , requires physical dexterity -- some bells weigh more than a ton -- combined with intense mental concentration .	10211	bell.n	1017	Noise_makers	MANUAL	4530556	115	119	RLG	bells
+LINKED:[17	17	115	119	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17566 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	3	10	0	2824215	Change-ringing , a mind-boggling exercise the English invented 380 years ago , requires physical dexterity -- some bells weigh more than a ton -- combined with intense mental concentration .	12202	require.v	1491	Have_as_requirement	MANUAL	4530577	79	86	RLG	requires
+LINKED:[12	12	79	86	bn:00082822v		http://babelnet.org/rdf/s00082822v	1.0	0.09090909	0.005263158	BABELFY]
+RANK:=== COUNTER  Counter 17567 ===
+	Imposing_obligation: 0.0175
+	Needing: 0.0075
+	Have_as_requirement: 0.005
+
+SELECTED:[Have_as_requirement]
+MATCH!
+SILVER:115	23009	3	10	0	2824215	Change-ringing , a mind-boggling exercise the English invented 380 years ago , requires physical dexterity -- some bells weigh more than a ton -- combined with intense mental concentration .	3878	year.n	224	Measure_duration	MANUAL	4531016	67	71	AlK	years
+LINKED:[9	9	67	71	bn:00081857n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00081857n	1.0	0.18181819	0.031578947	BABELFY]
+RANK:=== COUNTER  Counter 17568 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	11	0	2824216	Proper English bells are started off in `` rounds , '' from the highest-pitched bell to the lowest -- a simple descending scale using , in larger churches , as many as 12 bells .	10211	bell.n	1017	Noise_makers	MANUAL	4529731	15	19	MJE	bells
+LINKED:[2	2	15	19	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17569 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	1	11	0	2824216	Proper English bells are started off in `` rounds , '' from the highest-pitched bell to the lowest -- a simple descending scale using , in larger churches , as many as 12 bells .	10211	bell.n	1017	Noise_makers	MANUAL	4529732	80	83	MJE	bell
+LINKED:[13	13	80	83	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17570 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	1	11	0	2824216	Proper English bells are started off in `` rounds , '' from the highest-pitched bell to the lowest -- a simple descending scale using , in larger churches , as many as 12 bells .	1981	low.a	95	Position_on_a_scale	MANUAL	4529733	92	97	MJE	lowest
+LINKED:[16	16	92	97	bn:00105744a		http://babelnet.org/rdf/s00105744a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17571 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	11	0	2824216	Proper English bells are started off in `` rounds , '' from the highest-pitched bell to the lowest -- a simple descending scale using , in larger churches , as many as 12 bells .	3001	church.n	173	Buildings	MANUAL	4529860	146	153	MJE	churches
+LINKED:[26	26	146	153	bn:00018995n	http://dbpedia.org/resource/Church_(building)	http://babelnet.org/rdf/s00018995n	0.71428573	0.5	0.04813137	BABELFY]
+RANK:=== COUNTER  Counter 17572 ===
+	Buildings: 0.1829787234042553
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:115	23009	1	11	0	2824216	Proper English bells are started off in `` rounds , '' from the highest-pitched bell to the lowest -- a simple descending scale using , in larger churches , as many as 12 bells .	10211	bell.n	1017	Noise_makers	MANUAL	4529861	171	175	MJE	bells
+LINKED:[32	32	171	175	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17573 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	1	11	0	2824216	Proper English bells are started off in `` rounds , '' from the highest-pitched bell to the lowest -- a simple descending scale using , in larger churches , as many as 12 bells .	15769	large.a	2282	Size	MANUAL	4530590	139	144	RLG	larger
+LINKED:[25	25	139	144	bn:00098361a		http://babelnet.org/rdf/s00098361a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17574 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	11	0	2824217	Then , at a signal , the ringers begin varying the order in which the bells sound without altering the steady rhythm of the striking .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529735	25	31	MJE	ringers
+LINKED:[7	7	25	31	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	1.0	0.2	0.05106383	BABELFY]
+RANK:=== COUNTER  Counter 17575 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	2	11	0	2824217	Then , at a signal , the ringers begin varying the order in which the bells sound without altering the steady rhythm of the striking .	4448	begin.v	146	Activity_start	MANUAL	4529736	33	37	MJE	begin
+LINKED:[8	8	33	37	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17576 ===
+	Activity_start: 0.014516129032258065
+	Process_start: 0.01129032258064516
+	Setting_out: 0.0064516129032258064
+
+SELECTED:[Activity_start]
+MATCH!
+SILVER:115	23009	2	11	0	2824217	Then , at a signal , the ringers begin varying the order in which the bells sound without altering the steady rhythm of the striking .	10886	signal.n	36	Gesture	MANUAL	4529862	12	17	MJE	signal
+LINKED:[4	4	12	17	bn:00071538n	http://dbpedia.org/resource/Signal_(electrical_engineering)	http://babelnet.org/rdf/s00071538n	0.90909094	0.2	0.04255319	BABELFY]
+RANK:=== COUNTER  Counter 17577 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	11	0	2824217	Then , at a signal , the ringers begin varying the order in which the bells sound without altering the steady rhythm of the striking .	10806	alter.v	683	Cause_change	MANUAL	4529864	90	97	MJE	altering
+LINKED:[18	18	90	97	bn:00082553v		http://babelnet.org/rdf/s00082553v	0.8	0.3	0.10212766	BABELFY]
+RANK:=== COUNTER  Counter 17578 ===
+	Cause_change: 0.046153846153846156
+	Replacing: 0.026923076923076925
+	Exchange_currency: 0.011538461538461539
+
+SELECTED:[Cause_change]
+MATCH!
+SILVER:115	23009	2	11	0	2824217	Then , at a signal , the ringers begin varying the order in which the bells sound without altering the steady rhythm of the striking .	10330	rhythm.n	1040	Temporal_pattern	MANUAL	4530317	110	115	RLG	rhythm
+LINKED:[21	21	110	115	bn:00009396n	http://dbpedia.org/resource/Rhythm	http://babelnet.org/rdf/s00009396n	0.7894737	0.3	0.06382979	BABELFY]
+RANK:=== COUNTER  Counter 17579 ===
+	Temporal_pattern: 0.005952380952380952
+
+SELECTED:[Temporal_pattern]
+MATCH!
+SILVER:115	23009	2	11	0	2824217	Then , at a signal , the ringers begin varying the order in which the bells sound without altering the steady rhythm of the striking .	10211	bell.n	1017	Noise_makers	MANUAL	4530557	70	74	RLG	bells
+LINKED:[15	15	70	74	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17580 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	2	11	0	2824217	Then , at a signal , the ringers begin varying the order in which the bells sound without altering the steady rhythm of the striking .	15357	sound.v	69	Make_noise	MANUAL	4530925	76	80	AlK	sound
+LINKED:[16	16	76	80	bn:00094053v		http://babelnet.org/rdf/s00094053v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17581 ===
+	Appearance: 6.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	11	0	2824217	Then , at a signal , the ringers begin varying the order in which the bells sound without altering the steady rhythm of the striking .	13324	vary.v	683	Cause_change	MANUAL	4531030	39	45	AlK	varying
+LINKED:[9	9	39	45	bn:00082554v		http://babelnet.org/rdf/s00082554v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17582 ===
+	Cause_change: 0.05454545454545454
+
+SELECTED:[Cause_change]
+MATCH!
+SILVER:115	23009	2	11	0	2824217	Then , at a signal , the ringers begin varying the order in which the bells sound without altering the steady rhythm of the striking .	15364	order.n	2135	Sequence	MANUAL	4531031	51	55	AlK	order
+LINKED:[11	11	51	55	bn:00059303n		http://babelnet.org/rdf/s00059303n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17583 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	11	0	2824218	Each variation , or change , can occur only once , the rules state .	753	state.v	43	Statement	MANUAL	4529866	61	65	MJE	state
+LINKED:[13	13	61	65	bn:00074009n		http://babelnet.org/rdf/s00074009n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17584 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	11	0	2824218	Each variation , or change , can occur only once , the rules state .	4887	occur.v	187	Event	MANUAL	4529972	33	37	MJE	occur
+LINKED:[7	7	33	37	bn:00085332v		http://babelnet.org/rdf/s00085332v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17585 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	4	11	0	2824219	Ringers memorize patterns of changes , known as `` methods , '' which have odd-sounding names like Kent Treble Bob Major or Grandsire Caters .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529867	0	6	JKR	Ringers
+LINKED:[0	0	0	6	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17586 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	4	11	0	2824219	Ringers memorize patterns of changes , known as `` methods , '' which have odd-sounding names like Kent Treble Bob Major or Grandsire Caters .	10590	memorise.v	1132	Memorization	MANUAL	4529869	8	15	MJE	memorize
+LINKED:[1	1	8	15	bn:00085506v		http://babelnet.org/rdf/s00085506v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17587 ===
+	Memorization: 0.01764705882352941
+
+SELECTED:[Memorization]
+MATCH!
+SILVER:115	23009	4	11	0	2824219	Ringers memorize patterns of changes , known as `` methods , '' which have odd-sounding names like Kent Treble Bob Major or Grandsire Caters .	3931	name.n	228	Being_named	MANUAL	4529870	88	92	MJE	names
+LINKED:[14	14	88	92	bn:00056758n	http://dbpedia.org/resource/Name	http://babelnet.org/rdf/s00056758n	1.0	0.25	0.031746034	BABELFY]
+RANK:=== COUNTER  Counter 17588 ===
+	Being_named: 0.04583333333333333
+	Referring_by_name: 0.010416666666666666
+
+SELECTED:[Being_named]
+MATCH!
+SILVER:115	23009	4	11	0	2824219	Ringers memorize patterns of changes , known as `` methods , '' which have odd-sounding names like Kent Treble Bob Major or Grandsire Caters .	11461	known.a	228	Being_named	MANUAL	4530318	39	43	RLG	known
+LINKED:[6	6	39	43	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17589 ===
+	Awareness: 0.06285714285714286
+	Certainty: 0.03428571428571429
+	Differentiation: 0.02
+	Familiarity: 0.017142857142857144
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	4	11	0	2824219	Ringers memorize patterns of changes , known as `` methods , '' which have odd-sounding names like Kent Treble Bob Major or Grandsire Caters .	15335	pattern.n	2133	Pattern	MANUAL	4531034	17	24	AlK	patterns
+LINKED:[2	2	17	24	bn:00035908n	http://dbpedia.org/resource/Pattern_(architecture)	http://babelnet.org/rdf/s00035908n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17590 ===
+	Pattern: 0.007692307692307693
+
+SELECTED:[Pattern]
+MATCH!
+SILVER:115	23009	5	11	0	2824220	A series of 5,000 or so changes is a `` peal '' and takes about three hours .	5142	hour.n	229	Calendric_unit	MANUAL	4530605	70	74	RLG	hours
+LINKED:[15	15	70	74	bn:00044984n		http://babelnet.org/rdf/s00044984n	1.0	0.33333334	0.035714287	BABELFY]
+RANK:=== COUNTER  Counter 17591 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	5	11	0	2824220	A series of 5,000 or so changes is a `` peal '' and takes about three hours .	15361	series.n	2135	Sequence	MANUAL	4531037	2	7	AlK	series
+LINKED:[1	1	2	7	bn:00070609n		http://babelnet.org/rdf/s00070609n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17592 ===
+	Sequence: 0.03571428571428571
+
+SELECTED:[Sequence]
+MATCH!
+SILVER:115	23009	1	12	0	2824221	A look at a Thursday night practice at St. Mary Abbot church in the Kensington district of London gives an idea of the work involved .	1301	look.n	66	Perception_active	MANUAL	4529874	2	5	MJE	look
+LINKED:[1	1	2	5	bn:00006386n	http://dbpedia.org/resource/Facial_expression	http://babelnet.org/rdf/s00006386n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17593 ===
+	Facial_expression: 0.041666666666666664
+	Expressing_publicly: 0.029166666666666667
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	12	0	2824221	A look at a Thursday night practice at St. Mary Abbot church in the Kensington district of London gives an idea of the work involved .	10030	practice.n	962	Practice	MANUAL	4529875	27	34	MJE	practice
+LINKED:[6	6	27	34	bn:00061054n		http://babelnet.org/rdf/s00061054n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17594 ===
+	Businesses: 0.038461538461538464
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	12	0	2824221	A look at a Thursday night practice at St. Mary Abbot church in the Kensington district of London gives an idea of the work involved .	4064	night.n	229	Calendric_unit	MANUAL	4530094	21	25	JKR	night
+LINKED:[5	5	21	25	bn:00025236n	http://dbpedia.org/resource/Night	http://babelnet.org/rdf/s00025236n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17595 ===
+	Calendric_unit: 0.1
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:115	23009	1	12	0	2824221	A look at a Thursday night practice at St. Mary Abbot church in the Kensington district of London gives an idea of the work involved .	3997	Thursday.n	229	Calendric_unit	MANUAL	4531039	12	19	AlK	Thursday
+LINKED:[4	4	12	19	bn:00076744n	http://dbpedia.org/resource/Thursday	http://babelnet.org/rdf/s00076744n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17596 ===
+	Calendric_unit: 0.1
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:115	23009	1	12	0	2824221	A look at a Thursday night practice at St. Mary Abbot church in the Kensington district of London gives an idea of the work involved .	3001	church.n	173	Buildings	MANUAL	4531040	54	59	AlK	church
+LINKED:[11	11	54	59	bn:00018819n		http://babelnet.org/rdf/s00018819n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17597 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	12	0	2824221	A look at a Thursday night practice at St. Mary Abbot church in the Kensington district of London gives an idea of the work involved .	14551	district.n	195	Political_locales	MANUAL	4531041	79	86	AlK	district
+LINKED:[15	15	79	86	bn:00027810n	http://dbpedia.org/resource/District	http://babelnet.org/rdf/s00027810n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17598 ===
+	Political_locales: 0.09142857142857143
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23009	1	12	0	2824221	A look at a Thursday night practice at St. Mary Abbot church in the Kensington district of London gives an idea of the work involved .	14001	work.n	1892	Work	MANUAL	4531042	119	122	AlK	work
+LINKED:[23	23	119	122	bn:00081568n		http://babelnet.org/rdf/s00081568n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17599 ===
+	Being_employed: 0.0875
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	12	0	2824222	Ten shirt-sleeved ringers stand in a circle , one foot ahead of the other in a prize-fighter 's stance , each pulling a rope that disappears through a small hole in the high ceiling of the ringing chamber .	141	stand.v	18	Posture	MANUAL	4529876	26	30	MJE	stand
+LINKED:[3	3	26	30	bn:00094275v		http://babelnet.org/rdf/s00094275v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17600 ===
+	Change_posture: 0.2571428571428571
+	Posture: 0.24285714285714285
+	Occupy_rank: 0.05714285714285714
+	Tolerating: 0.05714285714285714
+	Being_located: 0.05714285714285714
+
+SELECTED:[Posture]
+MATCH!
+SILVER:115	23009	2	12	0	2824222	Ten shirt-sleeved ringers stand in a circle , one foot ahead of the other in a prize-fighter 's stance , each pulling a rope that disappears through a small hole in the high ceiling of the ringing chamber .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529877	18	24	MJE	ringers
+LINKED:[2	2	18	24	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17601 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	2	12	0	2824222	Ten shirt-sleeved ringers stand in a circle , one foot ahead of the other in a prize-fighter 's stance , each pulling a rope that disappears through a small hole in the high ceiling of the ringing chamber .	10357	stance.n	18	Posture	MANUAL	4529878	96	101	MJE	stance
+LINKED:[18	18	96	101	bn:00073902n	http://dbpedia.org/resource/Stance_(linguistics)	http://babelnet.org/rdf/s00073902n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17602 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	12	0	2824222	Ten shirt-sleeved ringers stand in a circle , one foot ahead of the other in a prize-fighter 's stance , each pulling a rope that disappears through a small hole in the high ceiling of the ringing chamber .	2404	foot.n	119	Body_parts	MANUAL	4529879	50	53	MJE	foot
+LINKED:[9	9	50	53	bn:00035679n	http://dbpedia.org/resource/Pes_(anatomy)	http://babelnet.org/rdf/s00035679n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17603 ===
+	Observable_body_parts: 82.0
+	Part_orientational: 0.04576271186440678
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	12	0	2824222	Ten shirt-sleeved ringers stand in a circle , one foot ahead of the other in a prize-fighter 's stance , each pulling a rope that disappears through a small hole in the high ceiling of the ringing chamber .	122	pull.v	17	Manipulation	MANUAL	4529880	110	116	MJE	pulling
+LINKED:[21	21	110	116	bn:00092144v		http://babelnet.org/rdf/s00092144v	1.0	0.15384616	0.036809817	BABELFY]
+RANK:=== COUNTER  Counter 17604 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	12	0	2824222	Ten shirt-sleeved ringers stand in a circle , one foot ahead of the other in a prize-fighter 's stance , each pulling a rope that disappears through a small hole in the high ceiling of the ringing chamber .	7669	rope.n	419	Connectors	MANUAL	4529881	120	123	MJE	rope
+LINKED:[23	23	120	123	bn:00068266n	http://dbpedia.org/resource/Rope	http://babelnet.org/rdf/s00068266n	0.7777778	0.23076923	0.12883435	BABELFY]
+RANK:=== COUNTER  Counter 17605 ===
+	Connectors: 0.053061224489795916
+
+SELECTED:[Connectors]
+MATCH!
+SILVER:115	23009	2	12	0	2824222	Ten shirt-sleeved ringers stand in a circle , one foot ahead of the other in a prize-fighter 's stance , each pulling a rope that disappears through a small hole in the high ceiling of the ringing chamber .	10066	ceiling.n	971	Architectural_part	MANUAL	4529882	174	180	MJE	ceiling
+LINKED:[33	33	174	180	bn:13653461v		http://babelnet.org/rdf/s13653461v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17606 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	12	0	2824222	Ten shirt-sleeved ringers stand in a circle , one foot ahead of the other in a prize-fighter 's stance , each pulling a rope that disappears through a small hole in the high ceiling of the ringing chamber .	3176	chamber.n	188	Building_subparts	MANUAL	4529883	197	203	MJE	chamber
+LINKED:[37	37	197	203	bn:00017582n		http://babelnet.org/rdf/s00017582n	0.8	0.15384616	0.024539877	BABELFY]
+RANK:=== COUNTER  Counter 17607 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	12	0	2824222	Ten shirt-sleeved ringers stand in a circle , one foot ahead of the other in a prize-fighter 's stance , each pulling a rope that disappears through a small hole in the high ceiling of the ringing chamber .	10885	ring.v	801	Cause_to_make_noise	MANUAL	4529886	189	195	MJE	ringing
+LINKED:[36	36	189	195	bn:00091505v		http://babelnet.org/rdf/s00091505v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17608 ===
+	Make_noise: 0.7636363636363637
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	12	0	2824222	Ten shirt-sleeved ringers stand in a circle , one foot ahead of the other in a prize-fighter 's stance , each pulling a rope that disappears through a small hole in the high ceiling of the ringing chamber .	14505	ten.num	218	Cardinal_numbers	MANUAL	4531043	0	2	AlK	Ten
+LINKED:[0	0	0	2	bn:00000008n	http://dbpedia.org/resource/10_(number)	http://babelnet.org/rdf/s00000008n	0.8	0.15384616	0.024539877	BABELFY]
+RANK:=== COUNTER  Counter 17609 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	12	0	2824222	Ten shirt-sleeved ringers stand in a circle , one foot ahead of the other in a prize-fighter 's stance , each pulling a rope that disappears through a small hole in the high ceiling of the ringing chamber .	5847	circle.n	328	Shapes	MANUAL	4531044	37	42	AlK	circle
+LINKED:[6	6	37	42	bn:00019169n	http://dbpedia.org/resource/Circle	http://babelnet.org/rdf/s00019169n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17610 ===
+	Shapes: 0.02727272727272727
+
+SELECTED:[Shapes]
+MATCH!
+SILVER:115	23009	2	12	0	2824222	Ten shirt-sleeved ringers stand in a circle , one foot ahead of the other in a prize-fighter 's stance , each pulling a rope that disappears through a small hole in the high ceiling of the ringing chamber .	15537	high.a	965	Measurable_attributes	MANUAL	4531046	169	172	AlK	high
+LINKED:[32	32	169	172	bn:00104163a		http://babelnet.org/rdf/s00104163a	0.8	0.15384616	0.024539877	BABELFY]
+RANK:=== COUNTER  Counter 17611 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	12	0	2824223	No one speaks , and the snaking of the ropes seems to make as much sound as the bells themselves , muffled by the ceiling .	752	speak.v	43	Statement	MANUAL	4529887	7	12	MJE	speaks
+LINKED:[2	2	7	12	bn:00090943v		http://babelnet.org/rdf/s00090943v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17612 ===
+	Statement: 0.25384615384615383
+	Communication_manner: 0.06538461538461539
+	Text_creation: 0.05384615384615385
+
+SELECTED:[Statement]
+MATCH!
+SILVER:115	23009	3	12	0	2824223	No one speaks , and the snaking of the ropes seems to make as much sound as the bells themselves , muffled by the ceiling .	1325	seem.v	67	Give_impression	MANUAL	4529889	45	49	MJE	seems
+LINKED:[10	10	45	49	bn:00082690v		http://babelnet.org/rdf/s00082690v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17613 ===
+	Appearance: 6.0
+	Coming_to_be: 0.027586206896551724
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	12	0	2824223	No one speaks , and the snaking of the ropes seems to make as much sound as the bells themselves , muffled by the ceiling .	7669	rope.n	419	Connectors	MANUAL	4529899	39	43	MJE	ropes
+LINKED:[9	9	39	43	bn:00068266n	http://dbpedia.org/resource/Rope	http://babelnet.org/rdf/s00068266n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17614 ===
+	Connectors: 0.053061224489795916
+
+SELECTED:[Connectors]
+MATCH!
+SILVER:115	23009	3	12	0	2824223	No one speaks , and the snaking of the ropes seems to make as much sound as the bells themselves , muffled by the ceiling .	10211	bell.n	1017	Noise_makers	MANUAL	4529901	80	84	MJE	bells
+LINKED:[18	18	80	84	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17615 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	3	12	0	2824223	No one speaks , and the snaking of the ropes seems to make as much sound as the bells themselves , muffled by the ceiling .	10906	sound.n	850	Sounds	MANUAL	4530320	67	71	RLG	sound
+LINKED:[15	15	67	71	bn:00072892n		http://babelnet.org/rdf/s00072892n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17616 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	4	12	0	2824224	Totally absorbed , the ringers stare straight ahead , using peripheral vision ( they call it `` rope-sight '' ) to watch the other ropes and thus time their pulls .	1316	stare.v	66	Perception_active	MANUAL	4529906	31	35	MJE	stare
+LINKED:[5	5	31	35	bn:00088705v		http://babelnet.org/rdf/s00088705v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17617 ===
+	Perception_active: 0.1875
+
+SELECTED:[Perception_active]
+MATCH!
+SILVER:115	23009	4	12	0	2824224	Totally absorbed , the ringers stare straight ahead , using peripheral vision ( they call it `` rope-sight '' ) to watch the other ropes and thus time their pulls .	1320	watch.v	66	Perception_active	MANUAL	4529909	115	119	MJE	watch
+LINKED:[20	20	115	119	bn:00095665v		http://babelnet.org/rdf/s00095665v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17618 ===
+	Perception_active: 0.2727272727272727
+	Seeking: 0.14545454545454545
+	Being_awake: 0.03636363636363636
+
+SELECTED:[Perception_active]
+MATCH!
+SILVER:115	23009	4	12	0	2824224	Totally absorbed , the ringers stare straight ahead , using peripheral vision ( they call it `` rope-sight '' ) to watch the other ropes and thus time their pulls .	11232	call.v	1261	Simple_naming	MANUAL	4530568	85	88	RLG	call
+LINKED:[14	14	85	88	bn:00084392v		http://babelnet.org/rdf/s00084392v	1.0	0.09090909	0.008928572	BABELFY]
+RANK:=== COUNTER  Counter 17619 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	4	12	0	2824224	Totally absorbed , the ringers stare straight ahead , using peripheral vision ( they call it `` rope-sight '' ) to watch the other ropes and thus time their pulls .	14905	absorbed.a	2044	Mental_stimulus_exp_focus	MANUAL	4530902	8	15	CFB	absorbed
+LINKED:[1	1	8	15	bn:00082169v		http://babelnet.org/rdf/s00082169v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17620 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	4	12	0	2824224	Totally absorbed , the ringers stare straight ahead , using peripheral vision ( they call it `` rope-sight '' ) to watch the other ropes and thus time their pulls .	10910	pull.n	17	Manipulation	MANUAL	4531054	157	161	AlK	pulls
+LINKED:[28	28	157	161	bn:00065158n		http://babelnet.org/rdf/s00065158n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17621 ===
+	Manipulation: 0.12142857142857143
+
+SELECTED:[Manipulation]
+MATCH!
+SILVER:115	23009	1	13	0	2824225	Far above in the belfry , the huge bronze bells , mounted on wheels , swing madly through a full 360 degrees , starting and ending , surprisingly , in the inverted , or mouth-up position .	10142	swing.v	670	Moving_in_place	MANUAL	4529912	70	74	MJE	swing
+LINKED:[15	15	70	74	bn:00094678v		http://babelnet.org/rdf/s00094678v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17622 ===
+	Body_movement: 0.32
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	13	0	2824225	Far above in the belfry , the huge bronze bells , mounted on wheels , swing madly through a full 360 degrees , starting and ending , surprisingly , in the inverted , or mouth-up position .	2655	start.v	133	Process_start	MANUAL	4529915	111	118	MJE	starting
+LINKED:[23	23	111	118	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17623 ===
+	Activity_start: 0.014516129032258065
+	Process_start: 0.01129032258064516
+	Setting_out: 0.0064516129032258064
+
+SELECTED:[Process_start]
+MATCH!
+SILVER:115	23009	1	13	0	2824225	Far above in the belfry , the huge bronze bells , mounted on wheels , swing madly through a full 360 degrees , starting and ending , surprisingly , in the inverted , or mouth-up position .	4426	end.v	232	Process_end	MANUAL	4529916	124	129	MJE	ending
+LINKED:[25	25	124	129	bn:00084711v		http://babelnet.org/rdf/s00084711v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17624 ===
+	Process_end: 0.012
+
+SELECTED:[Process_end]
+MATCH!
+SILVER:115	23009	1	13	0	2824225	Far above in the belfry , the huge bronze bells , mounted on wheels , swing madly through a full 360 degrees , starting and ending , surprisingly , in the inverted , or mouth-up position .	10350	wheel.n	421	Artifact	MANUAL	4529917	61	66	MJE	wheels
+LINKED:[13	13	61	66	bn:00080972n	http://dbpedia.org/resource/Wheel	http://babelnet.org/rdf/s00080972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17625 ===
+	Artifact: 0.007407407407407408
+
+SELECTED:[Artifact]
+MATCH!
+SILVER:115	23009	1	13	0	2824225	Far above in the belfry , the huge bronze bells , mounted on wheels , swing madly through a full 360 degrees , starting and ending , surprisingly , in the inverted , or mouth-up position .	10113	belfry.n	188	Building_subparts	MANUAL	4530106	17	22	JKR	belfry
+LINKED:[4	4	17	22	bn:00009702n		http://babelnet.org/rdf/s00009702n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17626 ===
+	Buildings: 0.33076923076923076
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	13	0	2824225	Far above in the belfry , the huge bronze bells , mounted on wheels , swing madly through a full 360 degrees , starting and ending , surprisingly , in the inverted , or mouth-up position .	10211	bell.n	1017	Noise_makers	MANUAL	4530107	42	46	JKR	bells
+LINKED:[9	9	42	46	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17627 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	1	13	0	2824225	Far above in the belfry , the huge bronze bells , mounted on wheels , swing madly through a full 360 degrees , starting and ending , surprisingly , in the inverted , or mouth-up position .	15772	huge.a	2282	Size	MANUAL	4531055	30	33	AlK	huge
+LINKED:[7	7	30	33	bn:00098905a		http://babelnet.org/rdf/s00098905a	1.0	0.13333334	0.024	BABELFY]
+RANK:=== COUNTER  Counter 17628 ===
+	Measurable_attributes: 0.010169491525423728
+	Abundance: 0.006779661016949152
+	Size: 0.005084745762711864
+	Actually_occurring_entity: 0.003389830508474576
+
+SELECTED:[Size]
+MATCH!
+SILVER:115	23009	1	13	0	2824225	Far above in the belfry , the huge bronze bells , mounted on wheels , swing madly through a full 360 degrees , starting and ending , surprisingly , in the inverted , or mouth-up position .	13150	mount.v	197	Attaching	MANUAL	4531056	50	56	AlK	mounted
+LINKED:[11	11	50	56	bn:00090934v		http://babelnet.org/rdf/s00090934v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17629 ===
+	Attaching: 0.7666666666666667
+
+SELECTED:[Attaching]
+MATCH!
+SILVER:115	23009	1	13	0	2824225	Far above in the belfry , the huge bronze bells , mounted on wheels , swing madly through a full 360 degrees , starting and ending , surprisingly , in the inverted , or mouth-up position .	13754	full.a	1534	Completeness	MANUAL	4531057	92	95	AlK	full
+LINKED:[19	19	92	95	bn:00103391a		http://babelnet.org/rdf/s00103391a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17630 ===
+	Abounding_with: 0.05
+	Feeling: 0.025
+	Fullness: 0.020833333333333332
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	13	0	2824226	Skilled ringers use their wrists to advance or retard the next swing , so that one bell can swap places with another in the following change .	2710	skilled.a	136	Expertise	MANUAL	4529918	0	6	MJE	Skilled
+LINKED:[0	0	0	6	bn:00000725n	http://dbpedia.org/resource/Skill	http://babelnet.org/rdf/s00000725n	1.0	0.1	0.006756757	BABELFY]
+RANK:=== COUNTER  Counter 17631 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	13	0	2824226	Skilled ringers use their wrists to advance or retard the next swing , so that one bell can swap places with another in the following change .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529919	8	14	MJE	ringers
+LINKED:[1	1	8	14	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.8333333	0.1	0.033783782	BABELFY]
+RANK:=== COUNTER  Counter 17632 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	2	13	0	2824226	Skilled ringers use their wrists to advance or retard the next swing , so that one bell can swap places with another in the following change .	10115	advance.v	691	Change_event_time	MANUAL	4529921	36	42	MJE	advance
+LINKED:[6	6	36	42	bn:00001548n		http://babelnet.org/rdf/s00001548n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17633 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	13	0	2824226	Skilled ringers use their wrists to advance or retard the next swing , so that one bell can swap places with another in the following change .	1749	following.a	81	Relative_time	MANUAL	4529925	124	132	MJE	following
+LINKED:[24	24	124	132	bn:00088421v		http://babelnet.org/rdf/s00088421v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17634 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	13	0	2824226	Skilled ringers use their wrists to advance or retard the next swing , so that one bell can swap places with another in the following change .	10211	bell.n	1017	Noise_makers	MANUAL	4530323	83	86	RLG	bell
+LINKED:[16	16	83	86	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17635 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	1	14	0	2824227	In a well-known detective-story involving church bells , English novelist Dorothy L. Sayers described ringing as a `` passion { that } finds its satisfaction in mathematical completeness and mechanical perfection .	10211	bell.n	1017	Noise_makers	MANUAL	4528627	49	53	MiL	bells
+LINKED:[6	6	49	53	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17636 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	1	14	0	2824227	In a well-known detective-story involving church bells , English novelist Dorothy L. Sayers described ringing as a `` passion { that } finds its satisfaction in mathematical completeness and mechanical perfection .	9803	describe.v	796	Communicate_categorization	MANUAL	4528628	92	100	MiL	described
+LINKED:[13	13	92	100	bn:00086663v		http://babelnet.org/rdf/s00086663v	0.9	0.1764706	0.011042945	BABELFY]
+RANK:=== COUNTER  Counter 17637 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	14	0	2824227	In a well-known detective-story involving church bells , English novelist Dorothy L. Sayers described ringing as a `` passion { that } finds its satisfaction in mathematical completeness and mechanical perfection .	10885	ring.v	801	Cause_to_make_noise	MANUAL	4529926	102	108	MJE	ringing
+LINKED:[14	14	102	108	bn:00090125v		http://babelnet.org/rdf/s00090125v	0.7777778	0.1764706	0.025766872	BABELFY]
+RANK:=== COUNTER  Counter 17638 ===
+	Make_noise: 0.4666666666666667
+	Cause_to_make_noise: 0.05555555555555555
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	1	14	0	2824227	In a well-known detective-story involving church bells , English novelist Dorothy L. Sayers described ringing as a `` passion { that } finds its satisfaction in mathematical completeness and mechanical perfection .	3001	church.n	173	Buildings	MANUAL	4530694	42	47	KmG	church
+LINKED:[5	5	42	47	bn:00018995n	http://dbpedia.org/resource/Church_(building)	http://babelnet.org/rdf/s00018995n	0.75	0.3529412	0.073619634	BABELFY]
+RANK:=== COUNTER  Counter 17639 ===
+	Buildings: 0.1829787234042553
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:115	23009	1	14	0	2824227	In a well-known detective-story involving church bells , English novelist Dorothy L. Sayers described ringing as a `` passion { that } finds its satisfaction in mathematical completeness and mechanical perfection .	10260	satisfaction.n	48	Experiencer_focus	MANUAL	4531061	145	156	AlK	satisfaction
+LINKED:[24	24	145	156	bn:00069327n		http://babelnet.org/rdf/s00069327n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17640 ===
+	Experiencer_focus: 0.275
+
+SELECTED:[Experiencer_focus]
+MATCH!
+SILVER:115	23009	1	14	0	2824227	In a well-known detective-story involving church bells , English novelist Dorothy L. Sayers described ringing as a `` passion { that } finds its satisfaction in mathematical completeness and mechanical perfection .	11227	find.v	792	Locating	MANUAL	4531062	135	139	AlK	finds
+LINKED:[22	22	135	139	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17641 ===
+	Becoming_aware: 0.05925925925925926
+	Verdict: 0.040740740740740744
+	Locating: 0.011111111111111112
+
+SELECTED:[Locating]
+MATCH!
+SILVER:115	23009	2	14	0	2824228	`` Ringers , she added , are `` filled with the solemn intoxication that comes of intricate ritual faultlessly performed .	7009	filled.a	262	Abounding_with	MANUAL	4528638	32	37	MiL	filled
+LINKED:[8	8	32	37	bn:00088175v		http://babelnet.org/rdf/s00088175v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17642 ===
+	Adorning: 17.0
+	Filling: 0.32666666666666666
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	14	0	2824228	`` Ringers , she added , are `` filled with the solemn intoxication that comes of intricate ritual faultlessly performed .	10353	solemn.a	364	Stimulus_focus	MANUAL	4528639	48	53	MiL	solemn
+LINKED:[11	11	48	53	bn:00103758a		http://babelnet.org/rdf/s00103758a	1.0	0.16666667	0.022727273	BABELFY]
+RANK:=== COUNTER  Counter 17643 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	14	0	2824228	`` Ringers , she added , are `` filled with the solemn intoxication that comes of intricate ritual faultlessly performed .	673	add.v	43	Statement	MANUAL	4528641	17	21	MiL	added
+LINKED:[4	4	17	21	bn:00082317v		http://babelnet.org/rdf/s00082317v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17644 ===
+	Cause_change_of_position_on_a_scale: 0.03636363636363636
+	Commutative_process: 0.00909090909090909
+	Cause_to_be_included: 0.005454545454545455
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	14	0	2824228	`` Ringers , she added , are `` filled with the solemn intoxication that comes of intricate ritual faultlessly performed .	6720	ritual.n	380	Custom	MANUAL	4528642	92	97	MiL	ritual
+LINKED:[17	17	92	97	bn:00067050n	http://dbpedia.org/resource/Rite	http://babelnet.org/rdf/s00067050n	0.9	0.5	0.20454545	BABELFY]
+RANK:=== COUNTER  Counter 17645 ===
+	Rite: 0.0330188679245283
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	14	0	2824228	`` Ringers , she added , are `` filled with the solemn intoxication that comes of intricate ritual faultlessly performed .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529928	3	9	MJE	Ringers
+LINKED:[1	1	3	9	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17646 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	2	14	0	2824228	`` Ringers , she added , are `` filled with the solemn intoxication that comes of intricate ritual faultlessly performed .	10912	perform.v	198	Intentionally_act	MANUAL	4530744	111	119	RLG	performed
+LINKED:[19	19	111	119	bn:00087107v		http://babelnet.org/rdf/s00087107v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17647 ===
+	Intentionally_act: 0.041176470588235294
+
+SELECTED:[Intentionally_act]
+MATCH!
+SILVER:115	23009	1	15	0	2824230	`` Ringing does become a bit of an obsession , '' admits Stephanie Pattenden , master of the band at St. Mary Abbot and one of England 's best female ringers .	10382	obsession.n	45	Emotion_active	MANUAL	4528645	35	43	MiL	obsession
+LINKED:[8	8	35	43	bn:00021457n		http://babelnet.org/rdf/s00021457n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17648 ===
+	Emotion_active: 0.05
+
+SELECTED:[Emotion_active]
+MATCH!
+SILVER:115	23009	1	15	0	2824230	`` Ringing does become a bit of an obsession , '' admits Stephanie Pattenden , master of the band at St. Mary Abbot and one of England 's best female ringers .	13224	admit.v	1146	Reveal_secret	MANUAL	4528646	50	55	MiL	admits
+LINKED:[10	10	50	55	bn:00082267v		http://babelnet.org/rdf/s00082267v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17649 ===
+	Statement: 0.16923076923076924
+	Reveal_secret: 0.028205128205128206
+
+SELECTED:[Reveal_secret]
+MATCH!
+SILVER:115	23009	1	15	0	2824230	`` Ringing does become a bit of an obsession , '' admits Stephanie Pattenden , master of the band at St. Mary Abbot and one of England 's best female ringers .	10885	ring.v	801	Cause_to_make_noise	MANUAL	4529932	3	9	MJE	Ringing
+LINKED:[1	1	3	9	bn:00091505v		http://babelnet.org/rdf/s00091505v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17650 ===
+	Make_noise: 0.7636363636363637
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	15	0	2824230	`` Ringing does become a bit of an obsession , '' admits Stephanie Pattenden , master of the band at St. Mary Abbot and one of England 's best female ringers .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529933	150	156	MJE	ringers
+LINKED:[29	29	150	156	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.82758623	0.4	0.04195804	BABELFY]
+RANK:=== COUNTER  Counter 17651 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	1	15	0	2824230	`` Ringing does become a bit of an obsession , '' admits Stephanie Pattenden , master of the band at St. Mary Abbot and one of England 's best female ringers .	9259	good.a	136	Expertise	MANUAL	4529934	138	141	MJE	best
+LINKED:[27	27	138	141	bn:00098274a		http://babelnet.org/rdf/s00098274a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17652 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	15	0	2824230	`` Ringing does become a bit of an obsession , '' admits Stephanie Pattenden , master of the band at St. Mary Abbot and one of England 's best female ringers .	2525	band.n	103	Aggregate	MANUAL	4530403	93	96	RLG	band
+LINKED:[17	17	93	96	bn:00068051n	http://dbpedia.org/resource/Musical_ensemble	http://babelnet.org/rdf/s00068051n	0.7128713	0.6	0.12587413	BABELFY]
+RANK:=== COUNTER  Counter 17653 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	15	0	2824230	`` Ringing does become a bit of an obsession , '' admits Stephanie Pattenden , master of the band at St. Mary Abbot and one of England 's best female ringers .	8216	master.n	530	Subordinates_and_superiors	MANUAL	4530587	79	84	RLG	master
+LINKED:[14	14	79	84	bn:00052664n	http://dbpedia.org/resource/Maestro	http://babelnet.org/rdf/s00052664n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17654 ===
+	Expertise: 0.11333333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	16	0	2824231	It is a passion that usually stays in the tower , however .	10114	tower.n	188	Building_subparts	MANUAL	4529936	42	46	MJE	tower
+LINKED:[9	9	42	46	bn:00077766n	http://dbpedia.org/resource/Tower	http://babelnet.org/rdf/s00077766n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17655 ===
+	Buildings: 0.2205128205128205
+	Building_subparts: 0.14358974358974358
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:115	23009	1	16	0	2824231	It is a passion that usually stays in the tower , however .	2216	stay.v	110	Residence	MANUAL	4531065	29	33	AlK	stays
+LINKED:[6	6	29	33	bn:00094308v		http://babelnet.org/rdf/s00094308v	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 17656 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	16	0	2824232	More often than not , ringers think of the church as something stuck on the bottom of the belfry .	169	think.v	19	Awareness	MANUAL	4528648	30	34	MiL	think
+LINKED:[6	6	30	34	bn:00083370v		http://babelnet.org/rdf/s00083370v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17657 ===
+	Categorization: 0.044
+	Awareness: 0.044
+	Opinion: 0.022
+	Regard: 0.012
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:115	23009	2	16	0	2824232	More often than not , ringers think of the church as something stuck on the bottom of the belfry .	3001	church.n	173	Buildings	MANUAL	4528649	43	48	MiL	church
+LINKED:[9	9	43	48	bn:00018819n		http://babelnet.org/rdf/s00018819n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17658 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	16	0	2824232	More often than not , ringers think of the church as something stuck on the bottom of the belfry .	5759	stick.v	307	Being_attached	MANUAL	4528650	63	67	MiL	stuck
+LINKED:[12	12	63	67	bn:00086626v		http://babelnet.org/rdf/s00086626v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17659 ===
+	Placing: 0.34705882352941175
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	16	0	2824232	More often than not , ringers think of the church as something stuck on the bottom of the belfry .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529937	22	28	MJE	ringers
+LINKED:[5	5	22	28	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	1.0	0.33333334	0.17021276	BABELFY]
+RANK:=== COUNTER  Counter 17660 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	2	16	0	2824232	More often than not , ringers think of the church as something stuck on the bottom of the belfry .	10113	belfry.n	188	Building_subparts	MANUAL	4529938	90	95	MJE	belfry
+LINKED:[18	18	90	95	bn:00009702n		http://babelnet.org/rdf/s00009702n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17661 ===
+	Buildings: 0.33076923076923076
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	16	0	2824233	When their changes are completed , and after they have worked up a sweat , ringers often skip off to the local pub , leaving worship for others below .	1219	skip.v	64	Self_motion	MANUAL	4529939	89	92	MJE	skip
+LINKED:[17	17	89	92	bn:00086356v		http://babelnet.org/rdf/s00086356v	0.9	0.14285715	0.09677419	BABELFY]
+RANK:=== COUNTER  Counter 17662 ===
+	Quitting_a_place: 0.12
+	Departing: 0.1
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	16	0	2824233	When their changes are completed , and after they have worked up a sweat , ringers often skip off to the local pub , leaving worship for others below .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529940	75	81	MJE	ringers
+LINKED:[15	15	75	81	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17663 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	3	16	0	2824233	When their changes are completed , and after they have worked up a sweat , ringers often skip off to the local pub , leaving worship for others below .	10360	sweat.n	270	Excreting	MANUAL	4529943	67	71	MJE	sweat
+LINKED:[13	13	67	71	bn:00029899n	http://dbpedia.org/resource/Exertion	http://babelnet.org/rdf/s00029899n	1.0	0.5714286	0.17204301	BABELFY]
+RANK:=== COUNTER  Counter 17664 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	16	0	2824233	When their changes are completed , and after they have worked up a sweat , ringers often skip off to the local pub , leaving worship for others below .	11352	complete.v	165	Activity_finish	MANUAL	4531067	23	31	AlK	completed
+LINKED:[4	4	23	31	bn:00085475v		http://babelnet.org/rdf/s00085475v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17665 ===
+	Activity_finish: 0.011904761904761904
+
+SELECTED:[Activity_finish]
+MATCH!
+SILVER:115	23009	2	17	0	2824235	With membership of the Church of England steadily dwindling , strong-willed vicars are pressing equally strong-willed and often non-religious ringers to attend services .	10284	membership.n	1026	Membership	MANUAL	4528688	5	14	MiL	membership
+LINKED:[1	1	5	14	bn:00054281n		http://babelnet.org/rdf/s00054281n	1.0	0.14285715	0.0024937657	BABELFY]
+RANK:=== COUNTER  Counter 17666 ===
+	Membership: 0.025
+
+SELECTED:[Membership]
+MATCH!
+SILVER:115	23009	2	17	0	2824235	With membership of the Church of England steadily dwindling , strong-willed vicars are pressing equally strong-willed and often non-religious ringers to attend services .	1994	dwindle.v	91	Change_position_on_a_scale	MANUAL	4528689	50	58	MiL	dwindling
+LINKED:[8	8	50	58	bn:00087445v		http://babelnet.org/rdf/s00087445v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17667 ===
+	Change_position_on_a_scale: 0.5625
+	Proliferating_in_number: 0.075
+
+SELECTED:[Change_position_on_a_scale]
+MATCH!
+SILVER:115	23009	2	17	0	2824235	With membership of the Church of England steadily dwindling , strong-willed vicars are pressing equally strong-willed and often non-religious ringers to attend services .	10117	press.v	87	Attempt_suasion	MANUAL	4528691	87	94	MiL	pressing
+LINKED:[13	13	87	94	bn:00091986v		http://babelnet.org/rdf/s00091986v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17668 ===
+	Cause_motion: 0.16470588235294117
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	17	0	2824235	With membership of the Church of England steadily dwindling , strong-willed vicars are pressing equally strong-willed and often non-religious ringers to attend services .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529944	142	148	MJE	ringers
+LINKED:[19	19	142	148	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.75	0.2857143	0.014962593	BABELFY]
+RANK:=== COUNTER  Counter 17669 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	2	17	0	2824235	With membership of the Church of England steadily dwindling , strong-willed vicars are pressing equally strong-willed and often non-religious ringers to attend services .	5502	service.n	301	Rite	MANUAL	4529945	160	167	MJE	services
+LINKED:[22	22	160	167	bn:00070651n	http://dbpedia.org/resource/Service_(economics)	http://babelnet.org/rdf/s00070651n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17670 ===
+	Public_services: 0.00909090909090909
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	17	0	2824235	With membership of the Church of England steadily dwindling , strong-willed vicars are pressing equally strong-willed and often non-religious ringers to attend services .	14821	attend.v	2030	Attending	MANUAL	4531078	153	158	AlK	attend
+LINKED:[21	21	153	158	bn:00082907v		http://babelnet.org/rdf/s00082907v	1.0	0.42857143	0.037406486	BABELFY]
+RANK:=== COUNTER  Counter 17671 ===
+	Perception_active: 0.1
+	Attention: 0.02
+	Attending: 0.013333333333333334
+
+SELECTED:[Attending]
+MATCH!
+SILVER:115	23009	3	17	0	2824236	Two years ago , the Rev. Jeremy Hummerstone , vicar of Great Torrington , Devon , got so fed up with ringers who did n't attend service he sacked the entire band ; the ringers promptly set up a picket line in protest .	10393	get.v	1070	Transition_to_state	MANUAL	4528697	82	84	MiL	got
+LINKED:[16	16	82	84	bn:13677110v		http://babelnet.org/rdf/s13677110v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17672 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	17	0	2824236	Two years ago , the Rev. Jeremy Hummerstone , vicar of Great Torrington , Devon , got so fed up with ringers who did n't attend service he sacked the entire band ; the ringers promptly set up a picket line in protest .	5800	sack.v	326	Firing	MANUAL	4528698	139	144	MiL	sacked
+LINKED:[29	29	139	144	bn:00093218v		http://babelnet.org/rdf/s00093218v	0.8	0.09090909	0.0048019206	BABELFY]
+RANK:=== COUNTER  Counter 17673 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	17	0	2824236	Two years ago , the Rev. Jeremy Hummerstone , vicar of Great Torrington , Devon , got so fed up with ringers who did n't attend service he sacked the entire band ; the ringers promptly set up a picket line in protest .	1105	set.v	62	Placing	MANUAL	4528699	185	187	MiL	set
+LINKED:[37	37	185	187	bn:00090224v		http://babelnet.org/rdf/s00090224v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17674 ===
+	Placing: 0.10172413793103448
+	Attack: 0.04827586206896552
+	Causation: 0.03793103448275862
+
+SELECTED:[Placing]
+MATCH!
+SILVER:115	23009	3	17	0	2824236	Two years ago , the Rev. Jeremy Hummerstone , vicar of Great Torrington , Devon , got so fed up with ringers who did n't attend service he sacked the entire band ; the ringers promptly set up a picket line in protest .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529948	101	107	MJE	ringers
+LINKED:[21	21	101	107	bn:00903013n	http://dbpedia.org/resource/Ringer_(EP)	http://babelnet.org/rdf/s00903013n	1.0	0.045454547	0.0012004802	BABELFY]
+RANK:=== COUNTER  Counter 17675 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	17	0	2824236	Two years ago , the Rev. Jeremy Hummerstone , vicar of Great Torrington , Devon , got so fed up with ringers who did n't attend service he sacked the entire band ; the ringers promptly set up a picket line in protest .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529949	168	174	MJE	ringers
+LINKED:[35	35	168	174	bn:00903013n	http://dbpedia.org/resource/Ringer_(EP)	http://babelnet.org/rdf/s00903013n	1.0	0.045454547	0.0012004802	BABELFY]
+RANK:=== COUNTER  Counter 17676 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	17	0	2824236	Two years ago , the Rev. Jeremy Hummerstone , vicar of Great Torrington , Devon , got so fed up with ringers who did n't attend service he sacked the entire band ; the ringers promptly set up a picket line in protest .	10915	fed	46	Emotion_directed	MANUAL	4530326	89	91	EGp	fed
+LINKED:[18	18	89	91	bn:00088087v		http://babelnet.org/rdf/s00088087v	0.75	0.09090909	0.007202881	BABELFY]
+RANK:=== COUNTER  Counter 17677 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	17	0	2824236	Two years ago , the Rev. Jeremy Hummerstone , vicar of Great Torrington , Devon , got so fed up with ringers who did n't attend service he sacked the entire band ; the ringers promptly set up a picket line in protest .	2525	band.n	103	Aggregate	MANUAL	4530404	157	160	RLG	band
+LINKED:[32	32	157	160	bn:00008279n		http://babelnet.org/rdf/s00008279n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17678 ===
+	Aggregate: 0.16666666666666666
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:115	23009	3	17	0	2824236	Two years ago , the Rev. Jeremy Hummerstone , vicar of Great Torrington , Devon , got so fed up with ringers who did n't attend service he sacked the entire band ; the ringers promptly set up a picket line in protest .	3844	two.num	218	Cardinal_numbers	MANUAL	4531079	0	2	AlK	Two
+LINKED:[0	0	0	2	bn:00000075n	http://dbpedia.org/resource/2_(number)	http://babelnet.org/rdf/s00000075n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17679 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	17	0	2824236	Two years ago , the Rev. Jeremy Hummerstone , vicar of Great Torrington , Devon , got so fed up with ringers who did n't attend service he sacked the entire band ; the ringers promptly set up a picket line in protest .	3878	year.n	224	Measure_duration	MANUAL	4531080	4	8	AlK	years
+LINKED:[1	1	4	8	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17680 ===
+	Calendric_unit: 0.08181818181818182
+	Measure_duration: 0.019696969696969695
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:115	23009	3	17	0	2824236	Two years ago , the Rev. Jeremy Hummerstone , vicar of Great Torrington , Devon , got so fed up with ringers who did n't attend service he sacked the entire band ; the ringers promptly set up a picket line in protest .	14821	attend.v	2030	Attending	MANUAL	4531082	121	126	AlK	attend
+LINKED:[26	26	121	126	bn:00082907v		http://babelnet.org/rdf/s00082907v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17681 ===
+	Perception_active: 0.1
+	Attention: 0.02
+	Attending: 0.013333333333333334
+
+SELECTED:[Attending]
+MATCH!
+SILVER:115	23009	4	17	0	2824237	`` They were a self-perpetuating club that treated the tower as sort of a separate premises , '' the Vicar Hummerstone says .	9815	treat.v	796	Communicate_categorization	MANUAL	4528702	43	49	MiL	treated
+LINKED:[7	7	43	49	bn:00087116v		http://babelnet.org/rdf/s00087116v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17682 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	4	17	0	2824237	`` They were a self-perpetuating club that treated the tower as sort of a separate premises , '' the Vicar Hummerstone says .	751	say.v	43	Statement	MANUAL	4528703	119	122	MiL	says
+LINKED:[20	20	119	122	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17683 ===
+	Statement: 0.275
+	Prevarication: 0.0875
+	Becoming_aware: 0.06666666666666667
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.041666666666666664
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:115	23009	4	17	0	2824237	`` They were a self-perpetuating club that treated the tower as sort of a separate premises , '' the Vicar Hummerstone says .	10114	tower.n	188	Building_subparts	MANUAL	4529950	55	59	MJE	tower
+LINKED:[9	9	55	59	bn:00077766n	http://dbpedia.org/resource/Tower	http://babelnet.org/rdf/s00077766n	0.8181818	0.75	0.4090909	BABELFY]
+RANK:=== COUNTER  Counter 17684 ===
+	Buildings: 0.2205128205128205
+	Building_subparts: 0.14358974358974358
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:115	23009	4	17	0	2824237	`` They were a self-perpetuating club that treated the tower as sort of a separate premises , '' the Vicar Hummerstone says .	11787	club.n	1371	Organization	MANUAL	4531083	33	36	AlK	club
+LINKED:[5	5	33	36	bn:00008141n		http://babelnet.org/rdf/s00008141n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17685 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	18	0	2824238	An entirely new band rings today at Great Torrington , several of whom are members of the congregation .	10279	member.n	1026	Membership	MANUAL	4528730	75	81	MiL	members
+LINKED:[14	14	75	81	bn:00034004n		http://babelnet.org/rdf/s00034004n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17686 ===
+	Subordinates_and_superiors: 0.04814814814814815
+	Membership: 0.022222222222222223
+
+SELECTED:[Membership]
+MATCH!
+SILVER:115	23009	1	18	0	2824238	An entirely new band rings today at Great Torrington , several of whom are members of the congregation .	10885	ring.v	801	Cause_to_make_noise	MANUAL	4529951	21	25	MJE	rings
+LINKED:[4	4	21	25	bn:00067868n		http://babelnet.org/rdf/s00067868n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17687 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	18	0	2824238	An entirely new band rings today at Great Torrington , several of whom are members of the congregation .	12563	new.a	972	Age	MANUAL	4530558	12	14	RLG	new
+LINKED:[2	2	12	14	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17688 ===
+	Expertise: 0.136
+	Age: 0.028
+	Familiarity: 0.024
+
+SELECTED:[Age]
+MATCH!
+SILVER:115	23009	1	18	0	2824238	An entirely new band rings today at Great Torrington , several of whom are members of the congregation .	2525	band.n	103	Aggregate	MANUAL	4530652	16	19	Amy	band
+LINKED:[3	3	16	19	bn:00008280n	http://dbpedia.org/resource/Musical_ensemble	http://babelnet.org/rdf/s00008280n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17689 ===
+	Dying: 0.003125
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	18	0	2824238	An entirely new band rings today at Great Torrington , several of whom are members of the congregation .	14201	today.n	1895	Temporal_collocation	MANUAL	4531125	27	31	AlK	today
+LINKED:[5	5	27	31	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17690 ===
+	Temporal_collocation: 0.175
+
+SELECTED:[Temporal_collocation]
+MATCH!
+SILVER:115	23009	2	18	0	2824239	But there still are n't enough ringers to ring more than six of the eight bells .	10885	ring.v	801	Cause_to_make_noise	MANUAL	4529953	42	45	MJE	ring
+LINKED:[9	9	42	45	bn:00087475v		http://babelnet.org/rdf/s00087475v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17691 ===
+	Sound_movement: 0.02857142857142857
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	18	0	2824239	But there still are n't enough ringers to ring more than six of the eight bells .	10211	bell.n	1017	Noise_makers	MANUAL	4529954	74	78	MJE	bells
+LINKED:[16	16	74	78	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17692 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	2	18	0	2824239	But there still are n't enough ringers to ring more than six of the eight bells .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4531074	31	37	AlK	ringers
+LINKED:[7	7	31	37	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	1.0	1.0	0.26229507	BABELFY]
+RANK:=== COUNTER  Counter 17693 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	1	19	0	2824240	At St. Mary 's Church in Ilminster , Somerset , the bells have fallen silent following a dust-up over church attendance .	10211	bell.n	1017	Noise_makers	MANUAL	4528750	52	56	MiL	bells
+LINKED:[11	11	52	56	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17694 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	1	19	0	2824240	At St. Mary 's Church in Ilminster , Somerset , the bells have fallen silent following a dust-up over church attendance .	764	silent.a	44	Volubility	MANUAL	4528751	70	75	MiL	silent
+LINKED:[14	14	70	75	bn:00101887a		http://babelnet.org/rdf/s00101887a	1.0	0.083333336	8.9365506E-4	BABELFY]
+RANK:=== COUNTER  Counter 17695 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	19	0	2824240	At St. Mary 's Church in Ilminster , Somerset , the bells have fallen silent following a dust-up over church attendance .	1749	following.a	81	Relative_time	MANUAL	4528752	77	85	MiL	following
+LINKED:[15	15	77	85	bn:00088421v		http://babelnet.org/rdf/s00088421v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17696 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	19	0	2824240	At St. Mary 's Church in Ilminster , Somerset , the bells have fallen silent following a dust-up over church attendance .	3001	church.n	173	Buildings	MANUAL	4530695	102	107	KmG	church
+LINKED:[19	19	102	107	bn:00018819n		http://babelnet.org/rdf/s00018819n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17697 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	19	0	2824240	At St. Mary 's Church in Ilminster , Somerset , the bells have fallen silent following a dust-up over church attendance .	14824	attendance.n	2030	Attending	MANUAL	4531084	109	118	AlK	attendance
+LINKED:[20	20	109	118	bn:00007013n		http://babelnet.org/rdf/s00007013n	1.0	0.16666667	0.0071492405	BABELFY]
+RANK:=== COUNTER  Counter 17698 ===
+	Attending: 0.06666666666666667
+
+SELECTED:[Attending]
+MATCH!
+SILVER:115	23009	2	19	0	2824241	The vicar , W.D. Jones , refuses to talk about it , saying it would `` reopen the wound .	756	talk.v	43	Statement	MANUAL	4528754	36	39	MiL	talk
+LINKED:[8	8	36	39	bn:00090943v		http://babelnet.org/rdf/s00090943v	0.85714287	1.0	0.42857143	BABELFY]
+RANK:=== COUNTER  Counter 17699 ===
+	Statement: 0.25384615384615383
+	Communication_manner: 0.06538461538461539
+	Text_creation: 0.05384615384615385
+
+SELECTED:[Statement]
+MATCH!
+SILVER:115	23009	2	19	0	2824241	The vicar , W.D. Jones , refuses to talk about it , saying it would `` reopen the wound .	751	say.v	43	Statement	MANUAL	4529968	52	57	MJE	saying
+LINKED:[12	12	52	57	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17700 ===
+	Statement: 0.275
+	Prevarication: 0.0875
+	Becoming_aware: 0.06666666666666667
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.041666666666666664
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:115	23009	2	19	0	2824241	The vicar , W.D. Jones , refuses to talk about it , saying it would `` reopen the wound .	10362	wound.n	239	Medical_conditions	MANUAL	4529969	82	86	MJE	wound
+LINKED:[18	18	82	86	bn:00050776n	http://dbpedia.org/resource/Grievous_bodily_harm	http://babelnet.org/rdf/s00050776n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17701 ===
+	Medical_conditions: 0.14680851063829786
+
+SELECTED:[Medical_conditions]
+MATCH!
+SILVER:115	23009	2	19	0	2824241	The vicar , W.D. Jones , refuses to talk about it , saying it would `` reopen the wound .	12758	refuse.v	1625	Agree_or_refuse_to_act	MANUAL	4531085	25	31	AlK	refuses
+LINKED:[6	6	25	31	bn:00086391v		http://babelnet.org/rdf/s00086391v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17702 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	19	0	2824242	`` But C.J.B. Marshall , vicar of a nearby church , feels the fault is in the stairs from the bell tower that are located next to the altar .	10024	located.a	960	Being_located	MANUAL	4528757	114	120	MiL	located
+LINKED:[24	24	114	120	bn:00106113a		http://babelnet.org/rdf/s00106113a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17703 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	19	0	2824242	`` But C.J.B. Marshall , vicar of a nearby church , feels the fault is in the stairs from the bell tower that are located next to the altar .	10277	stairs.n	1025	Connecting_architecture	MANUAL	4529959	78	83	MJE	stairs
+LINKED:[17	17	78	83	bn:00073853n	http://dbpedia.org/resource/Steps_(group)	http://babelnet.org/rdf/s00073853n	0.75	0.42857143	0.027088037	BABELFY]
+RANK:=== COUNTER  Counter 17704 ===
+	Connecting_architecture: 0.16666666666666666
+
+SELECTED:[Connecting_architecture]
+MATCH!
+SILVER:115	23009	3	19	0	2824242	`` But C.J.B. Marshall , vicar of a nearby church , feels the fault is in the stairs from the bell tower that are located next to the altar .	10114	tower.n	188	Building_subparts	MANUAL	4529960	99	103	MJE	tower
+LINKED:[21	21	99	103	bn:00077766n	http://dbpedia.org/resource/Tower	http://babelnet.org/rdf/s00077766n	0.9756098	0.71428573	0.1805869	BABELFY]
+RANK:=== COUNTER  Counter 17705 ===
+	Buildings: 0.2205128205128205
+	Building_subparts: 0.14358974358974358
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:115	23009	3	19	0	2824242	`` But C.J.B. Marshall , vicar of a nearby church , feels the fault is in the stairs from the bell tower that are located next to the altar .	10211	bell.n	1017	Noise_makers	MANUAL	4529961	94	97	MJE	bell
+LINKED:[20	20	94	97	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17706 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	3	19	0	2824242	`` But C.J.B. Marshall , vicar of a nearby church , feels the fault is in the stairs from the bell tower that are located next to the altar .	339	fault.n	28	Judgment	MANUAL	4529962	62	66	MJE	fault
+LINKED:[13	13	62	66	bn:00031485n	http://dbpedia.org/resource/Error	http://babelnet.org/rdf/s00031485n	1.0	0.14285715	0.0022573364	BABELFY]
+RANK:=== COUNTER  Counter 17707 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	19	0	2824242	`` But C.J.B. Marshall , vicar of a nearby church , feels the fault is in the stairs from the bell tower that are located next to the altar .	3001	church.n	173	Buildings	MANUAL	4529963	43	48	MJE	church
+LINKED:[9	9	43	48	bn:00018995n	http://dbpedia.org/resource/Church_(building)	http://babelnet.org/rdf/s00018995n	0.8527919	1.0	0.3792325	BABELFY]
+RANK:=== COUNTER  Counter 17708 ===
+	Buildings: 0.1829787234042553
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:115	23009	3	19	0	2824242	`` But C.J.B. Marshall , vicar of a nearby church , feels the fault is in the stairs from the bell tower that are located next to the altar .	10918	altar.n	188	Building_subparts	MANUAL	4530327	134	138	RLG	altar
+LINKED:[28	28	134	138	bn:00003117n	http://dbpedia.org/resource/Communion_table	http://babelnet.org/rdf/s00003117n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17709 ===
+	Building_subparts: 0.09180327868852459
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:115	23009	4	19	0	2824243	`` So crunch , crunch , crunch , bang , bang , bang -- here come the ringers from above , making a very obvious exit while the congregation is at prayer , '' he says .	941	come.v	54	Arriving	MANUAL	4528758	60	63	MiL	come
+LINKED:[15	15	60	63	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17710 ===
+	Arriving: 0.08695652173913043
+	Becoming_aware: 0.06956521739130435
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:115	23009	4	19	0	2824243	`` So crunch , crunch , crunch , bang , bang , bang -- here come the ringers from above , making a very obvious exit while the congregation is at prayer , '' he says .	9650	crunch.n	850	Sounds	MANUAL	4528822	6	11	MiL	crunch
+LINKED:[2	2	6	11	bn:00024135n		http://babelnet.org/rdf/s00024135n	1.0	0.25	0.12676056	BABELFY]
+RANK:=== COUNTER  Counter 17711 ===
+	Sounds: 0.9625
+
+SELECTED:[Sounds]
+MATCH!
+SILVER:115	23009	4	19	0	2824243	`` So crunch , crunch , crunch , bang , bang , bang -- here come the ringers from above , making a very obvious exit while the congregation is at prayer , '' he says .	10125	exit.n	57	Departing	MANUAL	4528826	112	115	MiL	exit
+LINKED:[25	25	112	115	bn:00032242n	http://dbpedia.org/resource/Exit_(command)	http://babelnet.org/rdf/s00032242n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17712 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	4	19	0	2824243	`` So crunch , crunch , crunch , bang , bang , bang -- here come the ringers from above , making a very obvious exit while the congregation is at prayer , '' he says .	5489	prayer.n	301	Rite	MANUAL	4529966	146	151	MJE	prayer
+LINKED:[31	31	146	151	bn:00064038n		http://babelnet.org/rdf/s00064038n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17713 ===
+	Rite: 0.109375
+
+SELECTED:[Rite]
+MATCH!
+SILVER:115	23009	4	19	0	2824243	`` So crunch , crunch , crunch , bang , bang , bang -- here come the ringers from above , making a very obvious exit while the congregation is at prayer , '' he says .	751	say.v	43	Statement	MANUAL	4529967	161	164	MJE	says
+LINKED:[34	34	161	164	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17714 ===
+	Statement: 0.275
+	Prevarication: 0.0875
+	Becoming_aware: 0.06666666666666667
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.041666666666666664
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:115	23009	4	19	0	2824243	`` So crunch , crunch , crunch , bang , bang , bang -- here come the ringers from above , making a very obvious exit while the congregation is at prayer , '' he says .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4529970	69	75	MJE	ringers
+LINKED:[17	17	69	75	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	1.0	0.083333336	0.0070422534	BABELFY]
+RANK:=== COUNTER  Counter 17715 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	1	20	0	2824244	Vicar Marshall admits to mixed feelings about this issue , since he is both a vicar and an active bell-ringer himself .	13224	admit.v	1146	Reveal_secret	MANUAL	4528827	15	20	MiL	admits
+LINKED:[2	2	15	20	bn:00082267v		http://babelnet.org/rdf/s00082267v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17716 ===
+	Statement: 0.16923076923076924
+	Reveal_secret: 0.028205128205128206
+
+SELECTED:[Reveal_secret]
+MATCH!
+SILVER:115	23009	1	20	0	2824244	Vicar Marshall admits to mixed feelings about this issue , since he is both a vicar and an active bell-ringer himself .	10300	feelings.n	396	Feeling	MANUAL	4528828	31	38	MiL	feelings
+LINKED:[5	5	31	38	bn:00033963n	http://dbpedia.org/resource/Feeling	http://babelnet.org/rdf/s00033963n	0.75	0.4	0.13953489	BABELFY]
+RANK:=== COUNTER  Counter 17717 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	20	0	2824244	Vicar Marshall admits to mixed feelings about this issue , since he is both a vicar and an active bell-ringer himself .	12370	active.a	1540	Being_active	MANUAL	4530373	91	96	RLG	active
+LINKED:[18	18	91	96	bn:00096382a		http://babelnet.org/rdf/s00096382a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17718 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	20	0	2824244	Vicar Marshall admits to mixed feelings about this issue , since he is both a vicar and an active bell-ringer himself .	12630	issue.n	1608	Point_of_dispute	MANUAL	4531087	51	55	AlK	issue
+LINKED:[8	8	51	55	bn:00021961n	http://dbpedia.org/resource/Result	http://babelnet.org/rdf/s00021961n	1.0	0.2	0.023255814	BABELFY]
+RANK:=== COUNTER  Counter 17719 ===
+	Self_motion: 0.15352112676056337
+	Experiencer_obj: 0.12112676056338029
+	Sounds: 0.10845070422535211
+	Statement: 0.09295774647887324
+	Cause_harm: 0.08028169014084507
+	Judgment_communication: 0.07887323943661972
+	Killing: 0.06901408450704226
+	Body_movement: 0.0676056338028169
+	Change_position_on_a_scale: 0.06338028169014084
+	Experiencer_focus: 0.061971830985915494
+	Personal_relationship: 0.06056338028169014
+	Removing: 0.059154929577464786
+	Stimulus_focus: 0.04929577464788732
+	Judgment: 0.04929577464788732
+	Manipulation: 0.04788732394366197
+	Expertise: 0.04788732394366197
+	Path_shape: 0.04788732394366197
+	Impact: 0.04788732394366197
+	Hostile_encounter: 0.04366197183098591
+	Motion_noise: 0.04225352112676056
+	Quantity: 0.04225352112676056
+	Attack: 0.03943661971830986
+	Cause_motion: 0.03943661971830986
+	Desiring: 0.03943661971830986
+	Compliance: 0.036619718309859155
+	Similarity: 0.030985915492957747
+	Awareness: 0.030985915492957747
+	Categorization: 0.030985915492957747
+	Cause_impact: 0.029577464788732393
+	Evidence: 0.029577464788732393
+	Prevarication: 0.029577464788732393
+	Fluidic_motion: 0.028169014084507043
+	Cause_change_of_position_on_a_scale: 0.028169014084507043
+	Arriving: 0.028169014084507043
+	Frequency: 0.02676056338028169
+	Discussion: 0.02676056338028169
+	Morality_evaluation: 0.02676056338028169
+	Likelihood: 0.02676056338028169
+	Experience_bodily_harm: 0.02676056338028169
+	Compatibility: 0.02676056338028169
+	Cause_expansion: 0.02676056338028169
+	Giving: 0.02535211267605634
+	Sufficiency: 0.02535211267605634
+	Quitting_a_place: 0.02535211267605634
+	Judgment_direct_address: 0.02535211267605634
+	Cause_to_fragment: 0.02535211267605634
+	Coming_to_believe: 0.023943661971830985
+	Moving_in_place: 0.023943661971830985
+	Eclipse: 0.023943661971830985
+	Posture: 0.023943661971830985
+	Motion: 0.023943661971830985
+	Diversity: 0.023943661971830985
+	Cotheme: 0.022535211267605635
+	Becoming_aware: 0.022535211267605635
+	Seeking: 0.022535211267605635
+	Attempt_suasion: 0.022535211267605635
+	Destroying: 0.022535211267605635
+	Damaging: 0.02112676056338028
+	Communicate_categorization: 0.02112676056338028
+	Desirability: 0.02112676056338028
+	Departing: 0.02112676056338028
+	Ride_vehicle: 0.02112676056338028
+	Hindering: 0.02112676056338028
+	Ingest_substance: 0.02112676056338028
+	Intentionally_act: 0.01971830985915493
+	Manipulate_into_doing: 0.01971830985915493
+	Text_creation: 0.01971830985915493
+	Traversing: 0.01971830985915493
+	Forming_relationships: 0.01971830985915493
+	Speak_on_topic: 0.01971830985915493
+	Possession: 0.01971830985915493
+	Frugality: 0.018309859154929577
+	Importance: 0.018309859154929577
+	Breathing: 0.018309859154929577
+	Means: 0.018309859154929577
+	Avoiding: 0.018309859154929577
+	Cause_to_amalgamate: 0.018309859154929577
+	Perception_experience: 0.018309859154929577
+	Taking_sides: 0.018309859154929577
+	Wearing: 0.018309859154929577
+	Undergo_change: 0.018309859154929577
+	Sleep: 0.018309859154929577
+	Contingency: 0.018309859154929577
+	Chatting: 0.016901408450704224
+	Grinding: 0.016901408450704224
+	Mass_motion: 0.016901408450704224
+	Cause_to_start: 0.016901408450704224
+	Cause_change: 0.016901408450704224
+	Weather: 0.016901408450704224
+	Cogitation: 0.016901408450704224
+	Certainty: 0.016901408450704224
+	Behind_the_scenes: 0.016901408450704224
+	Reporting: 0.016901408450704224
+	Obviousness: 0.015492957746478873
+	Death: 0.015492957746478873
+	Catastrophe: 0.015492957746478873
+	Verdict: 0.015492957746478873
+	Protecting: 0.015492957746478873
+	Expectation: 0.015492957746478873
+	Linguistic_meaning: 0.015492957746478873
+	Execution: 0.015492957746478873
+	Causation: 0.015492957746478873
+	Opinion: 0.015492957746478873
+	Reveal_secret: 0.015492957746478873
+	Purpose: 0.014084507042253521
+	Dispersal: 0.014084507042253521
+	Separating: 0.014084507042253521
+	Questioning: 0.014084507042253521
+	Cause_to_make_noise: 0.014084507042253521
+	Omen: 0.014084507042253521
+	Cause_to_move_in_place: 0.014084507042253521
+	Success_or_failure: 0.014084507042253521
+	Assessing: 0.014084507042253521
+	Successful_action: 0.014084507042253521
+	Bungling: 0.014084507042253521
+	Being_at_risk: 0.014084507042253521
+	Usefulness: 0.014084507042253521
+	Volubility: 0.014084507042253521
+	Type: 0.014084507042253521
+	Beat_opponent: 0.01267605633802817
+	Grasp: 0.01267605633802817
+	Sign: 0.01267605633802817
+	Performers_and_roles: 0.01267605633802817
+	Rotting: 0.01267605633802817
+	Motion_directional: 0.01267605633802817
+	Trust: 0.01267605633802817
+	Emotions_of_mental_activity: 0.01267605633802817
+	Choosing: 0.01267605633802817
+	Capability: 0.01267605633802817
+	Predicament: 0.01267605633802817
+	Temporal_subregion: 0.01267605633802817
+	Activity_start: 0.01267605633802817
+	Reasoning: 0.01267605633802817
+	Thwarting: 0.011267605633802818
+	Risky_situation: 0.011267605633802818
+	Topic: 0.011267605633802818
+	Range: 0.011267605633802818
+	Legality: 0.011267605633802818
+	Justifying: 0.011267605633802818
+	Bragging: 0.011267605633802818
+	Change_operational_state: 0.011267605633802818
+	Coincidence: 0.011267605633802818
+	Criminal_investigation: 0.011267605633802818
+	Unattributed_information: 0.011267605633802818
+	Suitability: 0.011267605633802818
+	Telling: 0.011267605633802818
+	Scouring: 0.011267605633802818
+	Getting: 0.011267605633802818
+	Verification: 0.011267605633802818
+	Attempt: 0.011267605633802818
+	Coming_to_be: 0.011267605633802818
+	Change_direction: 0.011267605633802818
+	Resolve_problem: 0.011267605633802818
+	Thriving: 0.011267605633802818
+	Change_event_time: 0.009859154929577466
+	Daring: 0.009859154929577466
+	Respond_to_proposal: 0.009859154929577466
+	Capacity: 0.009859154929577466
+	Quitting: 0.009859154929577466
+	Revenge: 0.009859154929577466
+	Ceasing_to_be: 0.009859154929577466
+	Imposing_obligation: 0.009859154929577466
+	Forgoing: 0.009859154929577466
+	Social_connection: 0.009859154929577466
+	Gathering_up: 0.009859154929577466
+	Deserving: 0.009859154929577466
+	Distinctiveness: 0.009859154929577466
+	Getting_vehicle_underway: 0.009859154929577466
+	Talking_into: 0.009859154929577466
+	Terms_of_agreement: 0.009859154929577466
+	Predicting: 0.009859154929577466
+	Giving_in: 0.009859154929577466
+	Differentiation: 0.009859154929577466
+	Arrest: 0.009859154929577466
+	Becoming: 0.009859154929577466
+	Replacing: 0.009859154929577466
+	Come_together: 0.009859154929577466
+	Firing: 0.009859154929577466
+	Detaining: 0.009859154929577466
+	Process_start: 0.009859154929577466
+	Practice: 0.008450704225352112
+	Simultaneity: 0.008450704225352112
+	Setting_fire: 0.008450704225352112
+	Process_continue: 0.008450704225352112
+	Evading: 0.008450704225352112
+	Gesture: 0.008450704225352112
+	Encoding: 0.008450704225352112
+	Evoking: 0.008450704225352112
+	Subjective_influence: 0.008450704225352112
+	Cause_emotion: 0.008450704225352112
+	Emotion_active: 0.008450704225352112
+	Feigning: 0.008450704225352112
+	Process_stop: 0.008450704225352112
+	Surpassing: 0.008450704225352112
+	Regard: 0.008450704225352112
+	Inclusion: 0.008450704225352112
+	Others_situation_as_stimulus: 0.008450704225352112
+	Render_nonfunctional: 0.008450704225352112
+	Proliferating_in_number: 0.008450704225352112
+	Feeling: 0.008450704225352112
+	Fame: 0.008450704225352112
+	Process_end: 0.008450704225352112
+	Using: 0.008450704225352112
+	Earnings_and_losses: 0.007746478873239437
+	Withdraw_from_participation: 0.007042253521126761
+	Commutative_process: 0.007042253521126761
+	Surrendering_possession: 0.007042253521126761
+	Exclude_member: 0.007042253521126761
+	Fear: 0.007042253521126761
+	Losing_it: 0.007042253521126761
+	Change_event_duration: 0.007042253521126761
+	Shoot_projectiles: 0.007042253521126761
+	Extreme_point: 0.007042253521126761
+	Probability: 0.007042253521126761
+	Surviving: 0.007042253521126761
+	Aiming: 0.007042253521126761
+	Sequence: 0.007042253521126761
+	Court_examination: 0.007042253521126761
+	Smuggling: 0.007042253521126761
+	Recovery: 0.007042253521126761
+	Cause_to_perceive: 0.007042253521126761
+	Amounting_to: 0.007042253521126761
+	Activity_stop: 0.007042253521126761
+	Meet_specifications: 0.007042253521126761
+	Abandonment: 0.007042253521126761
+	Hit_or_miss: 0.007042253521126761
+	Commemorative: 0.007042253521126761
+	Event: 0.007042253521126761
+	Activity_pause: 0.007042253521126761
+	Activity_finish: 0.007042253521126761
+	Emanating: 0.007042253521126761
+	Institutionalization: 0.007042253521126761
+	Sign_agreement: 0.007042253521126761
+	Escaping: 0.007042253521126761
+	Cause_bodily_experience: 0.007042253521126761
+	Going_back_on_a_commitment: 0.005633802816901409
+	Tolerating: 0.005633802816901409
+	Adopt_selection: 0.005633802816901409
+	Interrupt_process: 0.005633802816901409
+	Being_in_category: 0.005633802816901409
+	Undergoing: 0.005633802816901409
+	Receiving: 0.005633802816901409
+	Seeking_to_achieve: 0.005633802816901409
+	Hit_target: 0.005633802816901409
+	Opportunity: 0.005633802816901409
+	Losing: 0.005633802816901409
+	Intoxication: 0.005633802816901409
+	Lively_place: 0.005633802816901409
+	Point_of_dispute: 0.005633802816901409
+	Assemble: 0.005633802816901409
+	Successfully_communicate_message: 0.005633802816901409
+	Dominate_situation: 0.005633802816901409
+	Agree_or_refuse_to_act: 0.005633802816901409
+	Being_awake: 0.005633802816901409
+	Cause_to_wake: 0.005633802816901409
+	Exemplar: 0.005633802816901409
+	Operating_a_system: 0.005633802816901409
+	Conquering: 0.005633802816901409
+	Explaining_the_facts: 0.005633802816901409
+	Adducing: 0.005633802816901409
+	Sound_movement: 0.005633802816901409
+	Fleeing: 0.005633802816901409
+	Instance: 0.005633802816901409
+	Waking_up: 0.005633802816901409
+	Setting_out: 0.005633802816901409
+	Breaking_off: 0.005633802816901409
+	Run_risk: 0.005633802816901409
+	Attending: 0.005633802816901409
+	Use_firearm: 0.004225352112676056
+	Deciding: 0.004225352112676056
+	Simple_naming: 0.004225352112676056
+	Meet_with_response: 0.004225352112676056
+	Duration_relation: 0.004225352112676056
+	Eventive_affecting: 0.004225352112676056
+	Cognitive_connection: 0.004225352112676056
+	Offering: 0.004225352112676056
+	Exchange_currency: 0.004225352112676056
+	Remembering_to_do: 0.004225352112676056
+	Trying_out: 0.004225352112676056
+	Pattern: 0.004225352112676056
+	Change_of_quantity_of_possession: 0.004225352112676056
+	Commerce_collect: 0.004225352112676056
+	Repel: 0.004225352112676056
+	Location_in_time: 0.004225352112676056
+	Non-commutative_statement: 0.004225352112676056
+	Wagering: 0.004225352112676056
+	Tasting: 0.004225352112676056
+	Hunting_success_or_failure: 0.004225352112676056
+	Jury_deliberation: 0.004225352112676056
+	Remembering_information: 0.004225352112676056
+	Preference: 0.004225352112676056
+	Elusive_goal: 0.004225352112676056
+	Locating: 0.004225352112676056
+	Ratification: 0.004225352112676056
+	Cause_to_be_included: 0.004225352112676056
+	Endangering: 0.004225352112676056
+	Encounter: 0.004225352112676056
+	Execute_plan: 0.0035211267605633804
+	Objective_influence: 0.0035211267605633804
+	Try_defendant: 0.0028169014084507044
+	Dunking: 0.0028169014084507044
+	Source_of_getting: 0.0028169014084507044
+	Being_operational: 0.0028169014084507044
+	Have_as_requirement: 0.0028169014084507044
+	Being_in_operation: 0.0028169014084507044
+	Losing_track_of_theme: 0.0028169014084507044
+	Scope: 0.0028169014084507044
+	Losing_track_of_perceiver: 0.0028169014084507044
+	Make_acquaintance: 0.0028169014084507044
+	Launch_process: 0.0028169014084507044
+	Mental_stimulus_exp_focus: 0.0028169014084507044
+	Commercial_transaction: 0.0028169014084507044
+	Attempt_means: 0.0028169014084507044
+	Process: 0.0028169014084507044
+	Adding_up: 0.0028169014084507044
+	Social_event_collective: 0.0028169014084507044
+	Losing_someone: 0.0028169014084507044
+	Ranked_expectation: 0.0028169014084507044
+	Relation: 0.0028169014084507044
+	Being_in_effect: 0.002112676056338028
+
+SELECTED:[Point_of_dispute]
+MATCH!
+SILVER:115	23009	2	20	0	2824245	`` The sound of bells is a net to draw people into the church , '' he says .	1557	sound.n	71	Sensation	MANUAL	4528830	7	11	MiL	sound
+LINKED:[2	2	7	11	bn:00000986n	http://dbpedia.org/resource/Acoustic_wave	http://babelnet.org/rdf/s00000986n	0.7924528	0.6	0.375	BABELFY]
+RANK:=== COUNTER  Counter 17720 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	20	0	2824245	`` The sound of bells is a net to draw people into the church , '' he says .	3001	church.n	173	Buildings	MANUAL	4528831	55	60	MiL	church
+LINKED:[13	13	55	60	bn:00018995n	http://dbpedia.org/resource/Church_(building)	http://babelnet.org/rdf/s00018995n	0.85714287	0.2	0.05357143	BABELFY]
+RANK:=== COUNTER  Counter 17721 ===
+	Buildings: 0.1829787234042553
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:115	23009	2	20	0	2824245	`` The sound of bells is a net to draw people into the church , '' he says .	751	say.v	43	Statement	MANUAL	4528832	70	73	MiL	says
+LINKED:[16	16	70	73	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.75	0.2	0.026785715	BABELFY]
+RANK:=== COUNTER  Counter 17722 ===
+	Statement: 0.275
+	Prevarication: 0.0875
+	Becoming_aware: 0.06666666666666667
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.041666666666666664
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:115	23009	2	20	0	2824245	`` The sound of bells is a net to draw people into the church , '' he says .	10211	bell.n	1017	Noise_makers	MANUAL	4529971	16	20	MJE	bells
+LINKED:[4	4	16	20	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17723 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	2	20	0	2824245	`` The sound of bells is a net to draw people into the church , '' he says .	10905	draw.v	55	Cause_motion	MANUAL	4530023	34	37	MJE	draw
+LINKED:[9	9	34	37	bn:00087234v		http://babelnet.org/rdf/s00087234v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17724 ===
+	Manipulation: 0.06666666666666667
+	Cause_motion: 0.054901960784313725
+	Ingest_substance: 0.029411764705882353
+
+SELECTED:[Cause_motion]
+MATCH!
+SILVER:115	23009	2	20	0	2824245	`` The sound of bells is a net to draw people into the church , '' he says .	5511	people.n	304	People	MANUAL	4530080	39	44	JKR	people
+LINKED:[10	10	39	44	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17725 ===
+	People: 0.022641509433962263
+	Wealthiness: 0.011320754716981131
+	Dead_or_alive: 0.011320754716981131
+	Stage_of_progress: 0.011320754716981131
+	Increment: 0.007547169811320755
+	Indigenous_origin: 0.007547169811320755
+	Used_up: 0.0037735849056603774
+
+SELECTED:[People]
+MATCH!
+SILVER:115	23009	3	20	0	2824246	`` I live in hopes that the ringers themselves will be drawn into that fuller life .	6605	hope.n	366	Desiring	MANUAL	4528852	13	17	MiL	hopes
+LINKED:[4	4	13	17	bn:00044736n		http://babelnet.org/rdf/s00044736n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17726 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	20	0	2824246	`` I live in hopes that the ringers themselves will be drawn into that fuller life .	10905	draw.v	55	Cause_motion	MANUAL	4530024	55	59	MJE	drawn
+LINKED:[11	11	55	59	bn:00087257v		http://babelnet.org/rdf/s00087257v	1.0	0.25	0.021276595	BABELFY]
+RANK:=== COUNTER  Counter 17727 ===
+	Finish_competition: 0.09090909090909091
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	20	0	2824246	`` I live in hopes that the ringers themselves will be drawn into that fuller life .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4531092	28	34	AlK	ringers
+LINKED:[7	7	28	34	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17728 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	1	21	0	2824248	The Central Council of Church Bell Ringers , a sort of parliament of ringing groups , aims to improve relations with vicars , says John C. Baldwin , president .	8236	aim.v	513	Purpose	MANUAL	4528855	86	89	MiL	aims
+LINKED:[16	16	86	89	bn:00082485v		http://babelnet.org/rdf/s00082485v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17729 ===
+	Aiming: 0.013513513513513514
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	21	0	2824248	The Central Council of Church Bell Ringers , a sort of parliament of ringing groups , aims to improve relations with vicars , says John C. Baldwin , president .	1599	president	73	Leadership	MANUAL	4528856	149	157	MiL	president
+LINKED:[28	28	149	157	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17730 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	21	0	2824248	The Central Council of Church Bell Ringers , a sort of parliament of ringing groups , aims to improve relations with vicars , says John C. Baldwin , president .	751	say.v	43	Statement	MANUAL	4528857	126	129	MiL	says
+LINKED:[23	23	126	129	bn:00093290v		http://babelnet.org/rdf/s00093290v	1.0	0.05	8.1967213E-4	BABELFY]
+RANK:=== COUNTER  Counter 17731 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	21	0	2824248	The Central Council of Church Bell Ringers , a sort of parliament of ringing groups , aims to improve relations with vicars , says John C. Baldwin , president .	2112	group.n	103	Aggregate	MANUAL	4530026	77	82	MJE	groups
+LINKED:[14	14	77	82	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17732 ===
+	Aggregate: 0.16129032258064516
+	Organization: 0.04516129032258064
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:115	23009	1	21	0	2824248	The Central Council of Church Bell Ringers , a sort of parliament of ringing groups , aims to improve relations with vicars , says John C. Baldwin , president .	10885	ring.v	801	Cause_to_make_noise	MANUAL	4530028	69	75	MJE	ringing
+LINKED:[13	13	69	75	bn:00090125v		http://babelnet.org/rdf/s00090125v	0.7777778	0.35	0.08032787	BABELFY]
+RANK:=== COUNTER  Counter 17733 ===
+	Make_noise: 0.4666666666666667
+	Cause_to_make_noise: 0.05555555555555555
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	1	21	0	2824248	The Central Council of Church Bell Ringers , a sort of parliament of ringing groups , aims to improve relations with vicars , says John C. Baldwin , president .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4530105	35	41	JKR	Ringers
+LINKED:[6	6	35	41	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.9836066	0.25	0.04918033	BABELFY]
+RANK:=== COUNTER  Counter 17734 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	1	21	0	2824248	The Central Council of Church Bell Ringers , a sort of parliament of ringing groups , aims to improve relations with vicars , says John C. Baldwin , president .	13870	improve.v	1349	Cause_to_make_progress	MANUAL	4531094	94	100	AlK	improve
+LINKED:[18	18	94	100	bn:00082573v		http://babelnet.org/rdf/s00082573v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17735 ===
+	Cause_to_make_progress: 0.058333333333333334
+
+SELECTED:[Cause_to_make_progress]
+MATCH!
+SILVER:115	23009	1	21	0	2824248	The Central Council of Church Bell Ringers , a sort of parliament of ringing groups , aims to improve relations with vicars , says John C. Baldwin , president .	7362	relation.n	248	Relation	MANUAL	4531095	102	110	AlK	relations
+LINKED:[19	19	102	110	bn:00066995n		http://babelnet.org/rdf/s00066995n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17736 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	21	0	2824249	It hopes to speak to students at theological colleges about the joys of bell ringing and will shortly publish a booklet for every vicar in the country entitled , `` The Bells in Your Care .	6604	hope.v	366	Desiring	MANUAL	4528858	3	7	MiL	hopes
+LINKED:[1	1	3	7	bn:00086683v		http://babelnet.org/rdf/s00086683v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17737 ===
+	Desiring: 0.16470588235294117
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:115	23009	2	21	0	2824249	It hopes to speak to students at theological colleges about the joys of bell ringing and will shortly publish a booklet for every vicar in the country entitled , `` The Bells in Your Care .	752	speak.v	43	Statement	MANUAL	4528861	12	16	MiL	speak
+LINKED:[3	3	12	16	bn:00094090v		http://babelnet.org/rdf/s00094090v	1.0	0.06666667	0.0012531328	BABELFY]
+RANK:=== COUNTER  Counter 17738 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	21	0	2824249	It hopes to speak to students at theological colleges about the joys of bell ringing and will shortly publish a booklet for every vicar in the country entitled , `` The Bells in Your Care .	10185	booklet.n	298	Text	MANUAL	4528862	112	118	MiL	booklet
+LINKED:[20	20	112	118	bn:00012133n	http://dbpedia.org/resource/Pamphlet	http://babelnet.org/rdf/s00012133n	1.0	0.2	0.015037594	BABELFY]
+RANK:=== COUNTER  Counter 17739 ===
+	Containers: 0.19074074074074074
+	Text: 0.1388888888888889
+
+SELECTED:[Text]
+MATCH!
+SILVER:115	23009	2	21	0	2824249	It hopes to speak to students at theological colleges about the joys of bell ringing and will shortly publish a booklet for every vicar in the country entitled , `` The Bells in Your Care .	5474	entitled.a	228	Being_named	MANUAL	4528863	151	158	MiL	entitled
+LINKED:[27	27	151	158	bn:00087690v		http://babelnet.org/rdf/s00087690v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17740 ===
+	Permitting: 5.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	21	0	2824249	It hopes to speak to students at theological colleges about the joys of bell ringing and will shortly publish a booklet for every vicar in the country entitled , `` The Bells in Your Care .	2243	student.n	111	Education_teaching	MANUAL	4530029	21	28	MJE	students
+LINKED:[5	5	21	28	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17741 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	21	0	2824249	It hopes to speak to students at theological colleges about the joys of bell ringing and will shortly publish a booklet for every vicar in the country entitled , `` The Bells in Your Care .	10211	bell.n	1017	Noise_makers	MANUAL	4530030	72	75	MJE	bell
+LINKED:[13	13	72	75	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17742 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	2	21	0	2824249	It hopes to speak to students at theological colleges about the joys of bell ringing and will shortly publish a booklet for every vicar in the country entitled , `` The Bells in Your Care .	10885	ring.v	801	Cause_to_make_noise	MANUAL	4530031	77	83	MJE	ringing
+LINKED:[14	14	77	83	bn:00091505v		http://babelnet.org/rdf/s00091505v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17743 ===
+	Make_noise: 0.7636363636363637
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	21	0	2824249	It hopes to speak to students at theological colleges about the joys of bell ringing and will shortly publish a booklet for every vicar in the country entitled , `` The Bells in Your Care .	3683	country.n	195	Political_locales	MANUAL	4530328	143	149	RLG	country
+LINKED:[26	26	143	149	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.9361702	0.73333335	0.3859649	BABELFY]
+RANK:=== COUNTER  Counter 17744 ===
+	Political_locales: 0.03368421052631579
+	Foreign_or_domestic_country: 0.00631578947368421
+	State_of_entity: 0.003157894736842105
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23009	2	21	0	2824249	It hopes to speak to students at theological colleges about the joys of bell ringing and will shortly publish a booklet for every vicar in the country entitled , `` The Bells in Your Care .	13953	college.n	196	Locale_by_use	MANUAL	4531096	45	52	AlK	colleges
+LINKED:[8	8	45	52	bn:00020642n	http://dbpedia.org/resource/College	http://babelnet.org/rdf/s00020642n	0.8	0.26666668	0.04010025	BABELFY]
+RANK:=== COUNTER  Counter 17745 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	21	0	2824250	`` Says Mr. Baldwin , `` We recognize that we may no longer have as high a priority in church life and experience .	751	say.v	43	Statement	MANUAL	4528865	3	6	MiL	Says
+LINKED:[1	1	3	6	bn:00069438n		http://babelnet.org/rdf/s00069438n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17746 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	21	0	2824250	`` Says Mr. Baldwin , `` We recognize that we may no longer have as high a priority in church life and experience .	1980	high.a	95	Position_on_a_scale	MANUAL	4530032	68	71	MJE	high
+LINKED:[15	15	68	71	bn:00104162a		http://babelnet.org/rdf/s00104162a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17747 ===
+	Dimension: 0.096
+	Measurable_attributes: 0.024
+	Position_on_a_scale: 0.016
+
+SELECTED:[Position_on_a_scale]
+MATCH!
+SILVER:115	23009	3	21	0	2824250	`` Says Mr. Baldwin , `` We recognize that we may no longer have as high a priority in church life and experience .	178	recognize.v	20	Becoming_aware	MANUAL	4530580	28	36	RLG	recognize
+LINKED:[7	7	28	36	bn:00082272v		http://babelnet.org/rdf/s00082272v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17748 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	21	0	2824250	`` Says Mr. Baldwin , `` We recognize that we may no longer have as high a priority in church life and experience .	3001	church.n	173	Buildings	MANUAL	4530696	87	92	KmG	church
+LINKED:[19	19	87	92	bn:16479555n	http://dbpedia.org/resource/Church_(programming_language)	http://babelnet.org/rdf/s16479555n	1.0	0.16666667	0.029411765	BABELFY]
+RANK:=== COUNTER  Counter 17749 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	21	0	2824250	`` Says Mr. Baldwin , `` We recognize that we may no longer have as high a priority in church life and experience .	14368	no	1895	Temporal_collocation	MANUAL	4531098	53	58	EGp	longer
+LINKED:[12	12	53	58	bn:00116156r		http://babelnet.org/rdf/s00116156r	1.0	0.16666667	0.029411765	BABELFY]
+RANK:=== COUNTER  Counter 17750 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	22	0	2824252	Mr. Baldwin is also attacking the greater problem : lack of ringers .	7742	attack.v	424	Attack	MANUAL	4528866	20	28	MiL	attacking
+LINKED:[4	4	20	28	bn:00082838v		http://babelnet.org/rdf/s00082838v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17751 ===
+	Attack: 0.08235294117647059
+
+SELECTED:[Attack]
+MATCH!
+SILVER:115	23009	1	22	0	2824252	Mr. Baldwin is also attacking the greater problem : lack of ringers .	2437	lack.n	118	Possession	MANUAL	4528867	52	55	MiL	lack
+LINKED:[9	9	52	55	bn:00025913n		http://babelnet.org/rdf/s00025913n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17752 ===
+	Possession: 0.035
+
+SELECTED:[Possession]
+MATCH!
+SILVER:115	23009	1	22	0	2824252	Mr. Baldwin is also attacking the greater problem : lack of ringers .	7356	problem.n	300	Predicament	MANUAL	4528869	42	48	MiL	problem
+LINKED:[7	7	42	48	bn:00048242n	http://dbpedia.org/resource/Problem	http://babelnet.org/rdf/s00048242n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17753 ===
+	Predicament: 0.03461538461538462
+
+SELECTED:[Predicament]
+MATCH!
+SILVER:115	23009	1	22	0	2824252	Mr. Baldwin is also attacking the greater problem : lack of ringers .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4530034	60	66	MJE	ringers
+LINKED:[11	11	60	66	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17754 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	2	22	0	2824253	One survey says that of the 100,000 trained bellringers in England today , only 40,000 of them still ring .	751	say.v	43	Statement	MANUAL	4528873	11	14	MiL	says
+LINKED:[2	2	11	14	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17755 ===
+	Statement: 0.275
+	Prevarication: 0.0875
+	Becoming_aware: 0.06666666666666667
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.041666666666666664
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:115	23009	2	22	0	2824253	One survey says that of the 100,000 trained bellringers in England today , only 40,000 of them still ring .	10885	ring.v	801	Cause_to_make_noise	MANUAL	4530036	101	104	MJE	ring
+LINKED:[18	18	101	104	bn:00091505v		http://babelnet.org/rdf/s00091505v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17756 ===
+	Make_noise: 0.7636363636363637
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	22	0	2824253	One survey says that of the 100,000 trained bellringers in England today , only 40,000 of them still ring .	3843	one.num	218	Cardinal_numbers	MANUAL	4531101	0	2	AlK	One
+LINKED:[0	0	0	2	bn:00000005n	http://dbpedia.org/resource/Tuple	http://babelnet.org/rdf/s00000005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17757 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	22	0	2824253	One survey says that of the 100,000 trained bellringers in England today , only 40,000 of them still ring .	14201	today.n	1895	Temporal_collocation	MANUAL	4531102	67	71	AlK	today
+LINKED:[11	11	67	71	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17758 ===
+	Temporal_collocation: 0.175
+
+SELECTED:[Temporal_collocation]
+MATCH!
+SILVER:115	23009	3	22	0	2824254	Also , ringers do n't always live where the bells need to be rung -- like in small , rural parishes and inner-city churches .	2220	live.v	110	Residence	MANUAL	4528900	29	32	MiL	live
+LINKED:[7	7	29	32	bn:00087441v		http://babelnet.org/rdf/s00087441v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17759 ===
+	Residence: 0.035897435897435895
+	Colonization: 0.017948717948717947
+
+SELECTED:[Residence]
+MATCH!
+SILVER:115	23009	3	22	0	2824254	Also , ringers do n't always live where the bells need to be rung -- like in small , rural parishes and inner-city churches .	10236	parish.n	195	Political_locales	MANUAL	4528902	91	98	MiL	parishes
+LINKED:[21	21	91	98	bn:00060680n	http://dbpedia.org/resource/Parish_(Church_of_England)	http://babelnet.org/rdf/s00060680n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17760 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	22	0	2824254	Also , ringers do n't always live where the bells need to be rung -- like in small , rural parishes and inner-city churches .	3001	church.n	173	Buildings	MANUAL	4528914	115	122	MiL	churches
+LINKED:[24	24	115	122	bn:00018995n	http://dbpedia.org/resource/Church_(building)	http://babelnet.org/rdf/s00018995n	0.75581396	1.0	0.2826087	BABELFY]
+RANK:=== COUNTER  Counter 17761 ===
+	Buildings: 0.1829787234042553
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:115	23009	3	22	0	2824254	Also , ringers do n't always live where the bells need to be rung -- like in small , rural parishes and inner-city churches .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4530037	7	13	MJE	ringers
+LINKED:[2	2	7	13	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	1.0	0.6	0.1173913	BABELFY]
+RANK:=== COUNTER  Counter 17762 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	3	22	0	2824254	Also , ringers do n't always live where the bells need to be rung -- like in small , rural parishes and inner-city churches .	10885	ring.v	801	Cause_to_make_noise	MANUAL	4530038	61	64	MJE	rung
+LINKED:[14	14	61	64	bn:00090125v		http://babelnet.org/rdf/s00090125v	0.75	0.6	0.104347825	BABELFY]
+RANK:=== COUNTER  Counter 17763 ===
+	Make_noise: 0.4666666666666667
+	Cause_to_make_noise: 0.05555555555555555
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	3	22	0	2824254	Also , ringers do n't always live where the bells need to be rung -- like in small , rural parishes and inner-city churches .	10211	bell.n	1017	Noise_makers	MANUAL	4530083	44	48	JKR	bells
+LINKED:[10	10	44	48	bn:00009727n	http://dbpedia.org/resource/Bell_(school)	http://babelnet.org/rdf/s00009727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17764 ===
+	Noise_makers: 0.021568627450980392
+
+SELECTED:[Noise_makers]
+MATCH!
+SILVER:115	23009	3	22	0	2824254	Also , ringers do n't always live where the bells need to be rung -- like in small , rural parishes and inner-city churches .	10200	rural.a	196	Locale_by_use	MANUAL	4530575	85	89	RLG	rural
+LINKED:[20	20	85	89	bn:00109997a		http://babelnet.org/rdf/s00109997a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17765 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	22	0	2824254	Also , ringers do n't always live where the bells need to be rung -- like in small , rural parishes and inner-city churches .	14504	need.v	1491	Have_as_requirement	MANUAL	4531107	50	53	AlK	need
+LINKED:[11	11	50	53	bn:00082822v		http://babelnet.org/rdf/s00082822v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17766 ===
+	Imposing_obligation: 0.0175
+	Needing: 0.0075
+	Have_as_requirement: 0.005
+
+SELECTED:[Have_as_requirement]
+MATCH!
+SILVER:115	23009	1	23	0	2824255	But the council 's program to attract and train ringers is only partly successful , says Mr. Baldwin .	10724	program.n	1158	Project	MANUAL	4528915	19	25	MiL	program
+LINKED:[4	4	19	25	bn:00064646n		http://babelnet.org/rdf/s00064646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17767 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	23	0	2824255	But the council 's program to attract and train ringers is only partly successful , says Mr. Baldwin .	10149	train.v	111	Education_teaching	MANUAL	4528916	42	46	MiL	train
+LINKED:[8	8	42	46	bn:00086736v		http://babelnet.org/rdf/s00086736v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17768 ===
+	Education_teaching: 0.11904761904761904
+
+SELECTED:[Education_teaching]
+MATCH!
+SILVER:115	23009	1	23	0	2824255	But the council 's program to attract and train ringers is only partly successful , says Mr. Baldwin .	751	say.v	43	Statement	MANUAL	4528920	84	87	MiL	says
+LINKED:[15	15	84	87	bn:00093287v		http://babelnet.org/rdf/s00093287v	1.0	0.33333334	0.2	BABELFY]
+RANK:=== COUNTER  Counter 17769 ===
+	Statement: 0.275
+	Prevarication: 0.0875
+	Becoming_aware: 0.06666666666666667
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.041666666666666664
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:115	23009	1	23	0	2824255	But the council 's program to attract and train ringers is only partly successful , says Mr. Baldwin .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4530039	48	54	MJE	ringers
+LINKED:[9	9	48	54	bn:00067881n		http://babelnet.org/rdf/s00067881n	1.0	0.33333334	0.1	BABELFY]
+RANK:=== COUNTER  Counter 17770 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	23	0	2824255	But the council 's program to attract and train ringers is only partly successful , says Mr. Baldwin .	11837	successful.a	1389	Successful_action	MANUAL	4531110	71	80	AlK	successful
+LINKED:[13	13	71	80	bn:00111409a		http://babelnet.org/rdf/s00111409a	1.0	0.6666667	0.4	BABELFY]
+RANK:=== COUNTER  Counter 17771 ===
+	Success_or_failure: 0.04
+	Successful_action: 0.04
+
+SELECTED:[Successful_action]
+MATCH!
+SILVER:115	23009	2	23	0	2824256	`` Right now , we 're lucky if after five years we keep one new ringer out of 10 , '' he adds .	3878	year.n	224	Measure_duration	MANUAL	4528927	42	46	MiL	years
+LINKED:[10	10	42	46	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17772 ===
+	Calendric_unit: 0.08181818181818182
+	Measure_duration: 0.019696969696969695
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:115	23009	2	23	0	2824256	`` Right now , we 're lucky if after five years we keep one new ringer out of 10 , '' he adds .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4530040	64	69	MJE	ringer
+LINKED:[15	15	64	69	bn:00019912n		http://babelnet.org/rdf/s00019912n	1.0	0.25	0.1	BABELFY]
+RANK:=== COUNTER  Counter 17773 ===
+	Similarity: 0.44
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	23	0	2824256	`` Right now , we 're lucky if after five years we keep one new ringer out of 10 , '' he adds .	673	add.v	43	Statement	MANUAL	4530041	89	92	MJE	adds
+LINKED:[21	21	89	92	bn:00082317v		http://babelnet.org/rdf/s00082317v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17774 ===
+	Cause_change_of_position_on_a_scale: 0.03636363636363636
+	Commutative_process: 0.00909090909090909
+	Cause_to_be_included: 0.005454545454545455
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	23	0	2824256	`` Right now , we 're lucky if after five years we keep one new ringer out of 10 , '' he adds .	13627	lucky.a	1811	Luck	MANUAL	4531111	22	26	AlK	lucky
+LINKED:[6	6	22	26	bn:00106251a		http://babelnet.org/rdf/s00106251a	1.0	0.25	0.1	BABELFY]
+RANK:=== COUNTER  Counter 17775 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	24	0	2824257	One bright sign is that a growing number of women have entered the once male-dominated field ; more than a third of the ringers today are women .	7801	sign.n	428	Sign	MANUAL	4528939	11	14	MiL	sign
+LINKED:[2	2	11	14	bn:00053450n		http://babelnet.org/rdf/s00053450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17776 ===
+	Sign: 0.008571428571428572
+
+SELECTED:[Sign]
+MATCH!
+SILVER:115	23009	1	24	0	2824257	One bright sign is that a growing number of women have entered the once male-dominated field ; more than a third of the ringers today are women .	1882	grow.v	91	Change_position_on_a_scale	MANUAL	4528940	26	32	MiL	growing
+LINKED:[6	6	26	32	bn:00089086v		http://babelnet.org/rdf/s00089086v	1.0	0.18181819	0.014084507	BABELFY]
+RANK:=== COUNTER  Counter 17777 ===
+	Progress: 9.0
+	Cause_to_make_progress: 0.05384615384615385
+	Bond_maturation: 0.03076923076923077
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	24	0	2824257	One bright sign is that a growing number of women have entered the once male-dominated field ; more than a third of the ringers today are women .	3338	number.n	189	Quantified_mass	MANUAL	4528941	34	39	MiL	number
+LINKED:[7	7	34	39	bn:00058285n	http://dbpedia.org/resource/Number	http://babelnet.org/rdf/s00058285n	0.8	0.36363637	0.14084508	BABELFY]
+RANK:=== COUNTER  Counter 17778 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	24	0	2824257	One bright sign is that a growing number of women have entered the once male-dominated field ; more than a third of the ringers today are women .	942	enter.v	54	Arriving	MANUAL	4528942	55	61	MiL	entered
+LINKED:[11	11	55	61	bn:00085363v		http://babelnet.org/rdf/s00085363v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17779 ===
+	Path_shape: 0.18888888888888888
+	Arriving: 0.1111111111111111
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:115	23009	1	24	0	2824257	One bright sign is that a growing number of women have entered the once male-dominated field ; more than a third of the ringers today are women .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4530042	120	126	MJE	ringers
+LINKED:[23	23	120	126	bn:00019912n		http://babelnet.org/rdf/s00019912n	1.0	0.18181819	0.014084507	BABELFY]
+RANK:=== COUNTER  Counter 17780 ===
+	Similarity: 0.44
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	24	0	2824257	One bright sign is that a growing number of women have entered the once male-dominated field ; more than a third of the ringers today are women .	5527	woman.n	304	People	MANUAL	4530043	138	142	MJE	women
+LINKED:[26	26	138	142	bn:00001530n	http://dbpedia.org/resource/Woman	http://babelnet.org/rdf/s00001530n	0.93333334	0.6363636	0.1971831	BABELFY]
+RANK:=== COUNTER  Counter 17781 ===
+	People: 0.02181818181818182
+
+SELECTED:[People]
+MATCH!
+SILVER:115	23009	1	24	0	2824257	One bright sign is that a growing number of women have entered the once male-dominated field ; more than a third of the ringers today are women .	5527	woman.n	304	People	MANUAL	4530133	44	48	JKR	women
+LINKED:[9	9	44	48	bn:00001530n	http://dbpedia.org/resource/Woman	http://babelnet.org/rdf/s00001530n	0.93333334	0.6363636	0.1971831	BABELFY]
+RANK:=== COUNTER  Counter 17782 ===
+	People: 0.02181818181818182
+
+SELECTED:[People]
+MATCH!
+SILVER:115	23009	1	24	0	2824257	One bright sign is that a growing number of women have entered the once male-dominated field ; more than a third of the ringers today are women .	3843	one.num	218	Cardinal_numbers	MANUAL	4531122	0	2	AlK	One
+LINKED:[0	0	0	2	bn:00000005n	http://dbpedia.org/resource/Tuple	http://babelnet.org/rdf/s00000005n	0.75	0.27272728	0.08450704	BABELFY]
+RANK:=== COUNTER  Counter 17783 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	24	0	2824257	One bright sign is that a growing number of women have entered the once male-dominated field ; more than a third of the ringers today are women .	11671	field.n	1345	Fields	MANUAL	4531123	87	91	AlK	field
+LINKED:[15	15	87	91	bn:00034265n	http://dbpedia.org/resource/Field_(agriculture)	http://babelnet.org/rdf/s00034265n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17784 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	24	0	2824257	One bright sign is that a growing number of women have entered the once male-dominated field ; more than a third of the ringers today are women .	14201	today.n	1895	Temporal_collocation	MANUAL	4531126	128	132	AlK	today
+LINKED:[24	24	128	132	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17785 ===
+	Temporal_collocation: 0.175
+
+SELECTED:[Temporal_collocation]
+MATCH!
+SILVER:115	23009	2	24	0	2824258	They are n't accepted everywhere , however .	7538	accept.v	411	Receiving	MANUAL	4530682	13	20	KmG	accepted
+LINKED:[4	4	13	20	bn:00082197v		http://babelnet.org/rdf/s00082197v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17786 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	24	0	2824259	The oldest bell-ringing group in the country , the Ancient Society of College Youths , founded in 1637 , remains male-only , a fact that 's particularly galling to women because the group is the sole source of ringers for Britain 's most prestigious churches , St. Paul 's Cathedral and Westminster Abbey .	2112	group.n	103	Aggregate	MANUAL	4528947	24	28	MiL	group
+LINKED:[3	3	24	28	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17787 ===
+	Aggregate: 0.16129032258064516
+	Organization: 0.04516129032258064
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:115	23009	3	24	0	2824259	The oldest bell-ringing group in the country , the Ancient Society of College Youths , founded in 1637 , remains male-only , a fact that 's particularly galling to women because the group is the sole source of ringers for Britain 's most prestigious churches , St. Paul 's Cathedral and Westminster Abbey .	3683	country.n	195	Political_locales	MANUAL	4528948	37	43	MiL	country
+LINKED:[6	6	37	43	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.8652531	0.8518519	0.17973857	BABELFY]
+RANK:=== COUNTER  Counter 17788 ===
+	Political_locales: 0.03368421052631579
+	Foreign_or_domestic_country: 0.00631578947368421
+	State_of_entity: 0.003157894736842105
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23009	3	24	0	2824259	The oldest bell-ringing group in the country , the Ancient Society of College Youths , founded in 1637 , remains male-only , a fact that 's particularly galling to women because the group is the sole source of ringers for Britain 's most prestigious churches , St. Paul 's Cathedral and Westminster Abbey .	10695	remain.v	1155	State_continue	MANUAL	4528949	105	111	MiL	remains
+LINKED:[19	19	105	111	bn:00085719v		http://babelnet.org/rdf/s00085719v	1.0	0.037037037	1.4208582E-4	BABELFY]
+RANK:=== COUNTER  Counter 17789 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	24	0	2824259	The oldest bell-ringing group in the country , the Ancient Society of College Youths , founded in 1637 , remains male-only , a fact that 's particularly galling to women because the group is the sole source of ringers for Britain 's most prestigious churches , St. Paul 's Cathedral and Westminster Abbey .	6376	galling.a	364	Stimulus_focus	MANUAL	4528950	153	159	MiL	galling
+LINKED:[27	27	153	159	bn:00084741v		http://babelnet.org/rdf/s00084741v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17790 ===
+	Emotion_heat: 0.06923076923076923
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	24	0	2824259	The oldest bell-ringing group in the country , the Ancient Society of College Youths , founded in 1637 , remains male-only , a fact that 's particularly galling to women because the group is the sole source of ringers for Britain 's most prestigious churches , St. Paul 's Cathedral and Westminster Abbey .	3001	church.n	173	Buildings	MANUAL	4528951	250	257	MiL	churches
+LINKED:[44	44	250	257	bn:00018819n		http://babelnet.org/rdf/s00018819n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17791 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	24	0	2824259	The oldest bell-ringing group in the country , the Ancient Society of College Youths , founded in 1637 , remains male-only , a fact that 's particularly galling to women because the group is the sole source of ringers for Britain 's most prestigious churches , St. Paul 's Cathedral and Westminster Abbey .	5527	woman.n	304	People	MANUAL	4530046	164	168	MJE	women
+LINKED:[29	29	164	168	bn:00001530n	http://dbpedia.org/resource/Woman	http://babelnet.org/rdf/s00001530n	0.9391635	0.4814815	0.035095196	BABELFY]
+RANK:=== COUNTER  Counter 17792 ===
+	People: 0.02181818181818182
+
+SELECTED:[People]
+MATCH!
+SILVER:115	23009	3	24	0	2824259	The oldest bell-ringing group in the country , the Ancient Society of College Youths , founded in 1637 , remains male-only , a fact that 's particularly galling to women because the group is the sole source of ringers for Britain 's most prestigious churches , St. Paul 's Cathedral and Westminster Abbey .	2112	group.n	103	Aggregate	MANUAL	4530047	182	186	MJE	group
+LINKED:[32	32	182	186	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17793 ===
+	Aggregate: 0.16129032258064516
+	Organization: 0.04516129032258064
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:115	23009	3	24	0	2824259	The oldest bell-ringing group in the country , the Ancient Society of College Youths , founded in 1637 , remains male-only , a fact that 's particularly galling to women because the group is the sole source of ringers for Britain 's most prestigious churches , St. Paul 's Cathedral and Westminster Abbey .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4530048	210	216	MJE	ringers
+LINKED:[38	38	210	216	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17794 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	3	24	0	2824259	The oldest bell-ringing group in the country , the Ancient Society of College Youths , founded in 1637 , remains male-only , a fact that 's particularly galling to women because the group is the sole source of ringers for Britain 's most prestigious churches , St. Paul 's Cathedral and Westminster Abbey .	6149	sole.a	355	Sole_instance	MANUAL	4530329	195	198	RLG	sole
+LINKED:[35	35	195	198	bn:00102511a		http://babelnet.org/rdf/s00102511a	1.0	0.074074075	5.6834327E-4	BABELFY]
+RANK:=== COUNTER  Counter 17795 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	24	0	2824259	The oldest bell-ringing group in the country , the Ancient Society of College Youths , founded in 1637 , remains male-only , a fact that 's particularly galling to women because the group is the sole source of ringers for Britain 's most prestigious churches , St. Paul 's Cathedral and Westminster Abbey .	11681	source.n	1347	Source_of_getting	MANUAL	4530572	200	205	RLG	source
+LINKED:[36	36	200	205	bn:00009635n		http://babelnet.org/rdf/s00009635n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17796 ===
+	Origin: 0.075
+	Relational_natural_features: 0.02727272727272727
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	24	0	2824259	The oldest bell-ringing group in the country , the Ancient Society of College Youths , founded in 1637 , remains male-only , a fact that 's particularly galling to women because the group is the sole source of ringers for Britain 's most prestigious churches , St. Paul 's Cathedral and Westminster Abbey .	11708	found.v	280	Intentionally_create	MANUAL	4531129	87	93	AlK	founded
+LINKED:[15	15	87	93	bn:00087732v		http://babelnet.org/rdf/s00087732v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17797 ===
+	Intentionally_create: 0.09285714285714286
+	Getting_vehicle_underway: 0.05
+	Shoot_projectiles: 0.03571428571428571
+
+SELECTED:[Intentionally_create]
+MATCH!
+SILVER:115	23009	1	25	0	2824260	This being Britain , no woman has filed an equal-opportunity suit , but the extent of the problem surfaced this summer in a series of letters to `` The Ringing World , '' a weekly newspaper for ringers .	5527	woman.n	304	People	MANUAL	4530049	24	28	MJE	woman
+LINKED:[5	5	24	28	bn:00001530n	http://dbpedia.org/resource/Woman	http://babelnet.org/rdf/s00001530n	0.8235294	0.4117647	0.055518836	BABELFY]
+RANK:=== COUNTER  Counter 17798 ===
+	People: 0.02181818181818182
+
+SELECTED:[People]
+MATCH!
+SILVER:115	23009	1	25	0	2824260	This being Britain , no woman has filed an equal-opportunity suit , but the extent of the problem surfaced this summer in a series of letters to `` The Ringing World , '' a weekly newspaper for ringers .	7356	problem.n	300	Predicament	MANUAL	4530050	90	96	MJE	problem
+LINKED:[17	17	90	96	bn:00048242n	http://dbpedia.org/resource/Problem	http://babelnet.org/rdf/s00048242n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17799 ===
+	Predicament: 0.03461538461538462
+
+SELECTED:[Predicament]
+MATCH!
+SILVER:115	23009	1	25	0	2824260	This being Britain , no woman has filed an equal-opportunity suit , but the extent of the problem surfaced this summer in a series of letters to `` The Ringing World , '' a weekly newspaper for ringers .	5399	letter.n	298	Text	MANUAL	4530051	134	140	MJE	letters
+LINKED:[25	25	134	140	bn:00050802n	http://dbpedia.org/resource/Letter_(message)	http://babelnet.org/rdf/s00050802n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17800 ===
+	Text: 0.15625
+
+SELECTED:[Text]
+MATCH!
+SILVER:115	23009	1	25	0	2824260	This being Britain , no woman has filed an equal-opportunity suit , but the extent of the problem surfaced this summer in a series of letters to `` The Ringing World , '' a weekly newspaper for ringers .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4530052	194	200	MJE	ringers
+LINKED:[36	36	194	200	bn:00009757n	http://dbpedia.org/resource/Bell-ringer	http://babelnet.org/rdf/s00009757n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17801 ===
+	Cause_to_make_noise: 0.025
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	1	25	0	2824260	This being Britain , no woman has filed an equal-opportunity suit , but the extent of the problem surfaced this summer in a series of letters to `` The Ringing World , '' a weekly newspaper for ringers .	1741	weekly.a	80	Frequency	MANUAL	4530567	173	178	RLG	weekly
+LINKED:[33	33	173	178	bn:00104076a		http://babelnet.org/rdf/s00104076a	1.0	0.05882353	6.6093856E-4	BABELFY]
+RANK:=== COUNTER  Counter 17802 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	25	0	2824260	This being Britain , no woman has filed an equal-opportunity suit , but the extent of the problem surfaced this summer in a series of letters to `` The Ringing World , '' a weekly newspaper for ringers .	5140	summer.n	229	Calendric_unit	MANUAL	4530570	112	117	RLG	summer
+LINKED:[20	20	112	117	bn:00075151n	http://dbpedia.org/resource/Summer	http://babelnet.org/rdf/s00075151n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17803 ===
+	Calendric_unit: 0.04864864864864865
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:115	23009	1	25	0	2824260	This being Britain , no woman has filed an equal-opportunity suit , but the extent of the problem surfaced this summer in a series of letters to `` The Ringing World , '' a weekly newspaper for ringers .	13231	file.v	1521	Submitting_documents	MANUAL	4531138	34	38	AlK	filed
+LINKED:[7	7	34	38	bn:00088164v		http://babelnet.org/rdf/s00088164v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17804 ===
+	Placing: 0.5363636363636364
+	Removing: 0.38181818181818183
+	Grooming: 0.2
+	Submitting_documents: 0.045454545454545456
+
+SELECTED:[Submitting_documents]
+MATCH!
+SILVER:115	23009	1	25	0	2824260	This being Britain , no woman has filed an equal-opportunity suit , but the extent of the problem surfaced this summer in a series of letters to `` The Ringing World , '' a weekly newspaper for ringers .	15361	series.n	2135	Sequence	MANUAL	4531139	124	129	AlK	series
+LINKED:[23	23	124	129	bn:00076429n	http://dbpedia.org/resource/Television_program	http://babelnet.org/rdf/s00076429n	0.7777778	0.4117647	0.03701256	BABELFY]
+RANK:=== COUNTER  Counter 17805 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	25	0	2824260	This being Britain , no woman has filed an equal-opportunity suit , but the extent of the problem surfaced this summer in a series of letters to `` The Ringing World , '' a weekly newspaper for ringers .	13591	newspaper.n	298	Text	MANUAL	4531140	180	188	AlK	newspaper
+LINKED:[34	34	180	188	bn:00057563n	http://dbpedia.org/resource/Newspaper	http://babelnet.org/rdf/s00057563n	0.83870965	0.3529412	0.051553205	BABELFY]
+RANK:=== COUNTER  Counter 17806 ===
+	Text: 0.11194029850746269
+	Recording: 0.007462686567164179
+	History: 0.0029850746268656717
+	Heralding: 0.0029850746268656717
+
+SELECTED:[Text]
+MATCH!
+SILVER:115	23009	2	25	0	2824261	One writer , signing his letter as `` Red-blooded , balanced male , '' remarked on the `` frequency of women fainting in peals , '' and suggested that they `` settle back into their traditional role of making tea at meetings .	5399	letter.n	298	Text	MANUAL	4528953	25	30	MiL	letter
+LINKED:[5	5	25	30	bn:00050802n	http://dbpedia.org/resource/Letter_(message)	http://babelnet.org/rdf/s00050802n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17807 ===
+	Text: 0.15625
+
+SELECTED:[Text]
+MATCH!
+SILVER:115	23009	2	25	0	2824261	One writer , signing his letter as `` Red-blooded , balanced male , '' remarked on the `` frequency of women fainting in peals , '' and suggested that they `` settle back into their traditional role of making tea at meetings .	6729	traditional.a	380	Custom	MANUAL	4528974	182	192	MiL	traditional
+LINKED:[33	33	182	192	bn:00112043a		http://babelnet.org/rdf/s00112043a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17808 ===
+	Custom: 0.03214285714285714
+
+SELECTED:[Custom]
+MATCH!
+SILVER:115	23009	2	25	0	2824261	One writer , signing his letter as `` Red-blooded , balanced male , '' remarked on the `` frequency of women fainting in peals , '' and suggested that they `` settle back into their traditional role of making tea at meetings .	10227	meeting.n	125	Social_event	MANUAL	4528975	216	223	MiL	meetings
+LINKED:[39	39	216	223	bn:00041948n	http://dbpedia.org/resource/Meeting	http://babelnet.org/rdf/s00041948n	1.0	0.15384616	0.0075046904	BABELFY]
+RANK:=== COUNTER  Counter 17809 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	25	0	2824261	One writer , signing his letter as `` Red-blooded , balanced male , '' remarked on the `` frequency of women fainting in peals , '' and suggested that they `` settle back into their traditional role of making tea at meetings .	746	remark.v	43	Statement	MANUAL	4530053	71	78	MJE	remarked
+LINKED:[13	13	71	78	bn:00090740v		http://babelnet.org/rdf/s00090740v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17810 ===
+	Statement: 0.36666666666666664
+	Becoming_aware: 0.08888888888888889
+
+SELECTED:[Statement]
+MATCH!
+SILVER:115	23009	2	25	0	2824261	One writer , signing his letter as `` Red-blooded , balanced male , '' remarked on the `` frequency of women fainting in peals , '' and suggested that they `` settle back into their traditional role of making tea at meetings .	5527	woman.n	304	People	MANUAL	4530055	103	107	MJE	women
+LINKED:[19	19	103	107	bn:00001530n	http://dbpedia.org/resource/Woman	http://babelnet.org/rdf/s00001530n	0.74418604	0.46153846	0.18011257	BABELFY]
+RANK:=== COUNTER  Counter 17811 ===
+	People: 0.02181818181818182
+
+SELECTED:[People]
+MATCH!
+SILVER:115	23009	2	25	0	2824261	One writer , signing his letter as `` Red-blooded , balanced male , '' remarked on the `` frequency of women fainting in peals , '' and suggested that they `` settle back into their traditional role of making tea at meetings .	12645	frequency.n	80	Frequency	MANUAL	4530606	90	98	RLG	frequency
+LINKED:[17	17	90	98	bn:00000986n	http://dbpedia.org/resource/Acoustic_wave	http://babelnet.org/rdf/s00000986n	0.9433962	0.3846154	0.09380863	BABELFY]
+RANK:=== COUNTER  Counter 17812 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	25	0	2824261	One writer , signing his letter as `` Red-blooded , balanced male , '' remarked on the `` frequency of women fainting in peals , '' and suggested that they `` settle back into their traditional role of making tea at meetings .	3843	one.num	218	Cardinal_numbers	MANUAL	4531141	0	2	AlK	One
+LINKED:[0	0	0	2	bn:00000005n	http://dbpedia.org/resource/Tuple	http://babelnet.org/rdf/s00000005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17813 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	25	0	2824261	One writer , signing his letter as `` Red-blooded , balanced male , '' remarked on the `` frequency of women fainting in peals , '' and suggested that they `` settle back into their traditional role of making tea at meetings .	13320	sign.v	278	Text_creation	MANUAL	4531142	13	19	AlK	signing
+LINKED:[3	3	13	19	bn:00093731v		http://babelnet.org/rdf/s00093731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17814 ===
+	Text_creation: 0.026415094339622643
+	Sign_agreement: 0.009433962264150943
+
+SELECTED:[Text_creation]
+MATCH!
+SILVER:115	23009	2	25	0	2824261	One writer , signing his letter as `` Red-blooded , balanced male , '' remarked on the `` frequency of women fainting in peals , '' and suggested that they `` settle back into their traditional role of making tea at meetings .	15499	faint.v	292	Fall_asleep	MANUAL	4531144	109	116	AlK	fainting
+LINKED:[20	20	109	116	bn:00085620v		http://babelnet.org/rdf/s00085620v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17815 ===
+	Fall_asleep: 0.014705882352941176
+
+SELECTED:[Fall_asleep]
+MATCH!
+SILVER:115	23009	2	25	0	2824261	One writer , signing his letter as `` Red-blooded , balanced male , '' remarked on the `` frequency of women fainting in peals , '' and suggested that they `` settle back into their traditional role of making tea at meetings .	13866	tea.n	277	Food	MANUAL	4531145	209	211	AlK	tea
+LINKED:[37	37	209	211	bn:00076264n		http://babelnet.org/rdf/s00076264n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17816 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	25	0	2824261	One writer , signing his letter as `` Red-blooded , balanced male , '' remarked on the `` frequency of women fainting in peals , '' and suggested that they `` settle back into their traditional role of making tea at meetings .	16340	suggest.v	87	Attempt_suasion	MANUAL	6563447	136	144	AlK	suggested
+LINKED:[25	25	136	144	bn:00082417v		http://babelnet.org/rdf/s00082417v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17817 ===
+	Statement: 0.3473684210526316
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	26	0	2824263	In the torrent of replies that followed , one woman ringer from Solihull observed that `` the average male ringer leaves quite a lot to be desired : badly dressed , decorated with acne and a large beer-belly , frequently unwashed and unbearably flatulent in peals .	3838	torrent.n	189	Quantified_mass	MANUAL	4528978	7	13	MiL	torrent
+LINKED:[2	2	7	13	bn:00026093n		http://babelnet.org/rdf/s00026093n	1.0	0.05882353	0.007968128	BABELFY]
+RANK:=== COUNTER  Counter 17818 ===
+	Quantity: 0.21428571428571427
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	26	0	2824263	In the torrent of replies that followed , one woman ringer from Solihull observed that `` the average male ringer leaves quite a lot to be desired : badly dressed , decorated with acne and a large beer-belly , frequently unwashed and unbearably flatulent in peals .	666	reply.n	42	Communication_response	MANUAL	4528980	18	24	MiL	replies
+LINKED:[4	4	18	24	bn:00004451n		http://babelnet.org/rdf/s00004451n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17819 ===
+	Response: 0.010869565217391304
+	Communication_response: 0.007608695652173913
+
+SELECTED:[Communication_response]
+MATCH!
+SILVER:115	23009	1	26	0	2824263	In the torrent of replies that followed , one woman ringer from Solihull observed that `` the average male ringer leaves quite a lot to be desired : badly dressed , decorated with acne and a large beer-belly , frequently unwashed and unbearably flatulent in peals .	1748	follow.v	81	Relative_time	MANUAL	4528984	31	38	MiL	followed
+LINKED:[6	6	31	38	bn:00088421v		http://babelnet.org/rdf/s00088421v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17820 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	26	0	2824263	In the torrent of replies that followed , one woman ringer from Solihull observed that `` the average male ringer leaves quite a lot to be desired : badly dressed , decorated with acne and a large beer-belly , frequently unwashed and unbearably flatulent in peals .	10608	average.a	1134	Typicality	MANUAL	4528995	94	100	MiL	average
+LINKED:[17	17	94	100	bn:00097854a		http://babelnet.org/rdf/s00097854a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17821 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	26	0	2824263	In the torrent of replies that followed , one woman ringer from Solihull observed that `` the average male ringer leaves quite a lot to be desired : badly dressed , decorated with acne and a large beer-belly , frequently unwashed and unbearably flatulent in peals .	3749	dressed.a	160	Wearing	MANUAL	4528997	155	161	MiL	dressed
+LINKED:[29	29	155	161	bn:00087291v		http://babelnet.org/rdf/s00087291v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17822 ===
+	Dressing: 0.023076923076923078
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	26	0	2824263	In the torrent of replies that followed , one woman ringer from Solihull observed that `` the average male ringer leaves quite a lot to be desired : badly dressed , decorated with acne and a large beer-belly , frequently unwashed and unbearably flatulent in peals .	10122	acne.n	393	Body_mark	MANUAL	4528998	180	183	MiL	acne
+LINKED:[33	33	180	183	bn:00000944n		http://babelnet.org/rdf/s00000944n	1.0	0.05882353	0.003984064	BABELFY]
+RANK:=== COUNTER  Counter 17823 ===
+	Body_mark: 0.04772727272727273
+
+SELECTED:[Body_mark]
+MATCH!
+SILVER:115	23009	1	26	0	2824263	In the torrent of replies that followed , one woman ringer from Solihull observed that `` the average male ringer leaves quite a lot to be desired : badly dressed , decorated with acne and a large beer-belly , frequently unwashed and unbearably flatulent in peals .	5527	woman.n	304	People	MANUAL	4530058	46	50	MJE	woman
+LINKED:[9	9	46	50	bn:00001530n	http://dbpedia.org/resource/Woman	http://babelnet.org/rdf/s00001530n	0.97744364	0.5882353	0.5179283	BABELFY]
+RANK:=== COUNTER  Counter 17824 ===
+	People: 0.02181818181818182
+
+SELECTED:[People]
+MATCH!
+SILVER:115	23009	1	26	0	2824263	In the torrent of replies that followed , one woman ringer from Solihull observed that `` the average male ringer leaves quite a lot to be desired : badly dressed , decorated with acne and a large beer-belly , frequently unwashed and unbearably flatulent in peals .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4530060	52	57	MJE	ringer
+LINKED:[10	10	52	57	bn:00019912n		http://babelnet.org/rdf/s00019912n	0.8	0.11764706	0.015936255	BABELFY]
+RANK:=== COUNTER  Counter 17825 ===
+	Similarity: 0.44
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	26	0	2824263	In the torrent of replies that followed , one woman ringer from Solihull observed that `` the average male ringer leaves quite a lot to be desired : badly dressed , decorated with acne and a large beer-belly , frequently unwashed and unbearably flatulent in peals .	10311	ringer.n	801	Cause_to_make_noise	MANUAL	4530061	107	112	MJE	ringer
+LINKED:[19	19	107	112	bn:00019912n		http://babelnet.org/rdf/s00019912n	0.8	0.11764706	0.015936255	BABELFY]
+RANK:=== COUNTER  Counter 17826 ===
+	Similarity: 0.44
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	26	0	2824263	In the torrent of replies that followed , one woman ringer from Solihull observed that `` the average male ringer leaves quite a lot to be desired : badly dressed , decorated with acne and a large beer-belly , frequently unwashed and unbearably flatulent in peals .	6413	desire.v	366	Desiring	MANUAL	4530330	139	145	RLG	desired
+LINKED:[26	26	139	145	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17827 ===
+	Desiring: 0.2153846153846154
+	Possession: 0.1076923076923077
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:115	23009	1	26	0	2824263	In the torrent of replies that followed , one woman ringer from Solihull observed that `` the average male ringer leaves quite a lot to be desired : badly dressed , decorated with acne and a large beer-belly , frequently unwashed and unbearably flatulent in peals .	7028	decorated.a	262	Abounding_with	MANUAL	4530372	165	173	RLG	decorated
+LINKED:[31	31	165	173	bn:00082386v		http://babelnet.org/rdf/s00082386v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17828 ===
+	Adorning: 17.0
+	Filling: 0.1814814814814815
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	26	0	2824263	In the torrent of replies that followed , one woman ringer from Solihull observed that `` the average male ringer leaves quite a lot to be desired : badly dressed , decorated with acne and a large beer-belly , frequently unwashed and unbearably flatulent in peals .	13289	observe.v	43	Statement	MANUAL	4531132	73	80	AlK	observed
+LINKED:[13	13	73	80	bn:00086708v		http://babelnet.org/rdf/s00086708v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17829 ===
+	Perception_active: 0.06818181818181818
+	Coming_to_believe: 0.038636363636363635
+	Becoming_aware: 0.03636363636363636
+	Perception_experience: 0.029545454545454545
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	1	26	0	2824263	In the torrent of replies that followed , one woman ringer from Solihull observed that `` the average male ringer leaves quite a lot to be desired : badly dressed , decorated with acne and a large beer-belly , frequently unwashed and unbearably flatulent in peals .	13232	a	189	Quantified_mass	MANUAL	4531133	129	131	EGp	lot
+LINKED:[23	23	129	131	bn:00008985n	http://dbpedia.org/resource/Slew_(spacecraft)	http://babelnet.org/rdf/s00008985n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17830 ===
+	Aggregate: 0.07246376811594203
+	Quantity: 0.043478260869565216
+	Sufficiency: 0.02608695652173913
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	26	0	2824264	`` Another women wrote from Sheffield to say that in her 60 years of ringing , `` I have never known a lady to faint in the belfry .	751	say.v	43	Statement	MANUAL	4529004	41	43	MiL	say
+LINKED:[7	7	41	43	bn:00093287v		http://babelnet.org/rdf/s00093287v	1.0	0.14285715	0.017857144	BABELFY]
+RANK:=== COUNTER  Counter 17831 ===
+	Statement: 0.275
+	Prevarication: 0.0875
+	Becoming_aware: 0.06666666666666667
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.041666666666666664
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:115	23009	2	26	0	2824264	`` Another women wrote from Sheffield to say that in her 60 years of ringing , `` I have never known a lady to faint in the belfry .	3878	year.n	224	Measure_duration	MANUAL	4529007	60	64	MiL	years
+LINKED:[12	12	60	64	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17832 ===
+	Calendric_unit: 0.08181818181818182
+	Measure_duration: 0.019696969696969695
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:115	23009	2	26	0	2824264	`` Another women wrote from Sheffield to say that in her 60 years of ringing , `` I have never known a lady to faint in the belfry .	160	know.v	19	Awareness	MANUAL	4529009	95	99	MiL	known
+LINKED:[20	20	95	99	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17833 ===
+	Awareness: 0.06285714285714286
+	Certainty: 0.03428571428571429
+	Differentiation: 0.02
+	Familiarity: 0.017142857142857144
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:115	23009	2	26	0	2824264	`` Another women wrote from Sheffield to say that in her 60 years of ringing , `` I have never known a lady to faint in the belfry .	10885	ring.v	801	Cause_to_make_noise	MANUAL	4530064	69	75	MJE	ringing
+LINKED:[14	14	69	75	bn:00090125v		http://babelnet.org/rdf/s00090125v	1.0	0.14285715	0.035714287	BABELFY]
+RANK:=== COUNTER  Counter 17834 ===
+	Make_noise: 0.4666666666666667
+	Cause_to_make_noise: 0.05555555555555555
+
+SELECTED:[Cause_to_make_noise]
+MATCH!
+SILVER:115	23009	2	26	0	2824264	`` Another women wrote from Sheffield to say that in her 60 years of ringing , `` I have never known a lady to faint in the belfry .	10113	belfry.n	188	Building_subparts	MANUAL	4530065	124	129	MJE	belfry
+LINKED:[27	27	124	129	bn:00009702n		http://babelnet.org/rdf/s00009702n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17835 ===
+	Buildings: 0.33076923076923076
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	2	26	0	2824264	`` Another women wrote from Sheffield to say that in her 60 years of ringing , `` I have never known a lady to faint in the belfry .	5525	lady.n	304	People	MANUAL	4530066	103	106	MJE	lady
+LINKED:[22	22	103	106	bn:00049666n		http://babelnet.org/rdf/s00049666n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17836 ===
+	People: 0.15
+
+SELECTED:[People]
+MATCH!
+SILVER:115	23009	2	26	0	2824264	`` Another women wrote from Sheffield to say that in her 60 years of ringing , `` I have never known a lady to faint in the belfry .	5527	woman.n	304	People	MANUAL	4530132	11	15	JKR	women
+LINKED:[2	2	11	15	bn:00001530n	http://dbpedia.org/resource/Woman	http://babelnet.org/rdf/s00001530n	1.0	0.42857143	0.58928573	BABELFY]
+RANK:=== COUNTER  Counter 17837 ===
+	People: 0.02181818181818182
+
+SELECTED:[People]
+MATCH!
+SILVER:115	23009	2	26	0	2824264	`` Another women wrote from Sheffield to say that in her 60 years of ringing , `` I have never known a lady to faint in the belfry .	15499	faint.v	292	Fall_asleep	MANUAL	4531137	111	115	AlK	faint
+LINKED:[24	24	111	115	bn:00085620v		http://babelnet.org/rdf/s00085620v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17838 ===
+	Fall_asleep: 0.014705882352941176
+
+SELECTED:[Fall_asleep]
+MATCH!
+SILVER:115	23009	3	26	0	2824265	I have seen one or two men die , bless them .	1535	see.v	70	Perception_experience	MANUAL	4529010	7	10	MiL	seen
+LINKED:[2	2	7	10	bn:00093430v		http://babelnet.org/rdf/s00093430v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17839 ===
+	Categorization: 0.1
+	Causation: 0.1
+	Perception_experience: 0.05909090909090909
+	Grasp: 0.04090909090909091
+	Touring: 0.031818181818181815
+	Reference_text: 0.00909090909090909
+
+SELECTED:[Perception_experience]
+MATCH!
+SILVER:115	23009	3	26	0	2824265	I have seen one or two men die , bless them .	924	die.v	53	Death	MANUAL	4529011	27	29	MiL	die
+LINKED:[7	7	27	29	bn:00086783v		http://babelnet.org/rdf/s00086783v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17840 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23009	3	26	0	2824265	I have seen one or two men die , bless them .	5526	man.n	304	People	MANUAL	4530067	23	25	MJE	men
+LINKED:[6	6	23	25	bn:00044576n	http://dbpedia.org/resource/Human	http://babelnet.org/rdf/s00044576n	0.875	1.0	0.5833333	BABELFY]
+RANK:=== COUNTER  Counter 17841 ===
+	People: 0.00916030534351145
+
+SELECTED:[People]
+MATCH!
+filename	PropBank__BellRinging.xml
+docAnnotations	594
+docManual	498
+docUnannotated	96
+sentences	70
+paragraphs	26
+Overlapping	387
+Disambiguated	276
+TP	216
+TN	96
+FP	0
+FN	222
+P	1.0
+R	0.4931506849315068
+F	0.6605504587155963
+A	0.5842696629213483

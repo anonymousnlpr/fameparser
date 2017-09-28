@@ -1,0 +1,521 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	tokenFragment	start	tokenFragment	end	charSegment	start	charSegment	end	babelSynsetID	DBpediaURL	BabelNetURL	score	coherenceScore	globalScore	source
+205	23724	1	1	0	4101621	Subject : City of Pasadena	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23724	1	1	0	4101621	Subject : City of Pasadena	2	2	10	13	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85714287	1.0	0.54545456	BABELFY
+205	23724	1	1	0	4101621	Subject : City of Pasadena	2	3	10	16	bn:01630389n	http://dbpedia.org/resource/City_Of	http://babelnet.org/rdf/s01630389n	0.0	0.0	0.0	MCS
+205	23724	1	1	0	4101621	Subject : City of Pasadena	4	4	18	25	bn:00060856n		http://babelnet.org/rdf/s00060856n	0.0	0.0	0.0	MCS
+205	23724	1	3	0	4101623	X-To : Ward , Kim S ( Houston ) MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN = Kward &gt;	2	2	7	10	bn:00080473n	http://dbpedia.org/resource/Ward_(electoral_subdivision)	http://babelnet.org/rdf/s00080473n	1.0	1.0	0.5	BABELFY
+205	23724	1	3	0	4101623	X-To : Ward , Kim S ( Houston ) MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN = Kward &gt;	7	7	22	28	bn:00158120n	http://dbpedia.org/resource/Houston,_Renfrewshire	http://babelnet.org/rdf/s00158120n	1.0	1.0	0.5	BABELFY
+205	23724	1	4	0	4101624	Wed , 28 Nov 2001 08:38:25 -0600	0	0	0	2	bn:00054897n	http://dbpedia.org/resource/Wednesday	http://babelnet.org/rdf/s00054897n	1.0	1.0	0.5	BABELFY
+205	23724	1	4	0	4101624	Wed , 28 Nov 2001 08:38:25 -0600	3	3	9	11	bn:00058192n	http://dbpedia.org/resource/November	http://babelnet.org/rdf/s00058192n	1.0	1.0	0.5	BABELFY
+205	23724	1	5	0	4101625	Kim :	0	0	0	2	bn:00204779n	http://dbpedia.org/resource/Kim,_Colorado	http://babelnet.org/rdf/s00204779n	0.0	0.0	0.0	MCS
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	2	2	7	15	bn:00085476v		http://babelnet.org/rdf/s00085476v	1.0	0.16666667	0.013157895	BABELFY
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	4	4	21	28	bn:02878224n	http://dbpedia.org/resource/Invoice_(company)	http://babelnet.org/rdf/s02878224n	1.0	0.16666667	0.013157895	BABELFY
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	6	6	34	38	bn:00005169n	http://dbpedia.org/resource/April	http://babelnet.org/rdf/s00005169n	0.85714287	0.33333334	0.15789473	BABELFY
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	10	10	49	52	bn:00048592n	http://dbpedia.org/resource/June	http://babelnet.org/rdf/s00048592n	0.9142857	0.6666667	0.42105263	BABELFY
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	13	13	61	63	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	14	14	65	72	bn:00562217n	http://dbpedia.org/resource/Pasadena,_Texas	http://babelnet.org/rdf/s00562217n	0.8	0.33333334	0.05263158	BABELFY
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	16	16	79	83	bn:00014710n	http://dbpedia.org/resource/Month	http://babelnet.org/rdf/s00014710n	0.7894737	0.5	0.19736843	BABELFY
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	19	19	91	95	bn:00002008n		http://babelnet.org/rdf/s00002008n	1.0	0.16666667	0.013157895	BABELFY
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	2	2	5	11	bn:00089401v		http://babelnet.org/rdf/s00089401v	1.0	1.0	0.5	BABELFY
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	4	4	16	19	bn:00089277v		http://babelnet.org/rdf/s00089277v	0.0	0.0	0.0	MCS
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	11	11	48	51	bn:00048592n	http://dbpedia.org/resource/June	http://babelnet.org/rdf/s00048592n	0.0	0.0	0.0	MCS
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	13	14	56	64	bn:00090585v		http://babelnet.org/rdf/s00090585v	1.0	1.0	0.5	BABELFY
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	14	14	61	64	bn:00099475a		http://babelnet.org/rdf/s00099475a	0.0	0.0	0.0	MCS
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	17	17	75	78	bn:00096817a		http://babelnet.org/rdf/s00096817a	0.0	0.0	0.0	MCS
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	2	2	7	10	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	5	5	18	20	bn:00091494v		http://babelnet.org/rdf/s00091494v	0.9	0.3	0.056962024	BABELFY
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	6	6	22	29	bn:00562217n	http://dbpedia.org/resource/Pasadena,_Texas	http://babelnet.org/rdf/s00562217n	0.8	0.2	0.025316456	BABELFY
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	8	8	34	39	bn:00036512n	http://dbpedia.org/resource/Friday	http://babelnet.org/rdf/s00036512n	1.0	0.1	0.01898734	BABELFY
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	11	11	51	56	bn:00014710n	http://dbpedia.org/resource/Month	http://babelnet.org/rdf/s00014710n	0.7804878	0.4	0.20253165	BABELFY
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	15	15	68	71	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	18	18	79	82	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	18	19	79	86	bn:00089401v		http://babelnet.org/rdf/s00089401v	1.0	0.2	0.025316456	BABELFY
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	22	22	96	101	bn:00085475v		http://babelnet.org/rdf/s00085475v	0.0	0.0	0.0	MCS
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	23	23	103	106	bn:00048548n	http://dbpedia.org/resource/July	http://babelnet.org/rdf/s00048548n	1.0	0.3	0.1329114	BABELFY
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	25	25	112	117	bn:00007140n	http://dbpedia.org/resource/August	http://babelnet.org/rdf/s00007140n	0.8181818	0.3	0.11392405	BABELFY
+205	23724	4	6	0	4101629	Again , I do not have all of the information for July and August , so I can not give you any numbers .	9	9	33	43	bn:00046698n		http://babelnet.org/rdf/s00046698n	0.0	0.0	0.0	MCS
+205	23724	4	6	0	4101629	Again , I do not have all of the information for July and August , so I can not give you any numbers .	11	11	49	52	bn:00048548n	http://dbpedia.org/resource/July	http://babelnet.org/rdf/s00048548n	1.0	0.6666667	0.30769232	BABELFY
+205	23724	4	6	0	4101629	Again , I do not have all of the information for July and August , so I can not give you any numbers .	13	13	58	63	bn:00007140n	http://dbpedia.org/resource/August	http://babelnet.org/rdf/s00007140n	0.0	0.0	0.0	MCS
+205	23724	4	6	0	4101629	Again , I do not have all of the information for July and August , so I can not give you any numbers .	22	22	93	99	bn:00034394n		http://babelnet.org/rdf/s00034394n	0.0	0.0	0.0	MCS
+205	23724	5	6	0	4101630	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	2	3	5	9	bn:00087513v		http://babelnet.org/rdf/s00087513v	0.0	0.0	0.0	MCS
+205	23724	5	6	0	4101630	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	6	6	19	27	bn:00114905r		http://babelnet.org/rdf/s00114905r	0.0	0.0	0.0	MCS
+205	23724	5	6	0	4101630	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	9	9	36	41	bn:03010775n	http://dbpedia.org/resource/System_programming	http://babelnet.org/rdf/s03010775n	1.0	1.0	0.5	BABELFY
+205	23724	5	6	0	4101630	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	12	12	48	52	bn:14490007n	http://dbpedia.org/resource/GUIDE_International	http://babelnet.org/rdf/s14490007n	1.0	1.0	0.5	BABELFY
+205	23724	5	6	0	4101630	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	16	16	71	73	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	5	6	0	4101630	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	23	23	98	100	bn:00054918n	http://dbpedia.org/resource/Mill_(currency)	http://babelnet.org/rdf/s00054918n	0.0	0.0	0.0	MCS
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	1	1	2	5	bn:00091028v		http://babelnet.org/rdf/s00091028v	0.8	0.6666667	0.26666668	BABELFY
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	3	3	10	17	bn:00084375v		http://babelnet.org/rdf/s00084375v	0.0	0.0	0.0	MCS
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	5	5	23	27	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	0.85714287	0.6666667	0.4	BABELFY
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	6	6	29	33	bn:01575963n	http://dbpedia.org/resource/Today_(U.S._TV_program)	http://babelnet.org/rdf/s01575963n	1.0	0.33333334	0.06666667	BABELFY
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	10	10	47	49	bn:00082536v		http://babelnet.org/rdf/s00082536v	0.0	0.0	0.0	MCS
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	12	12	54	57	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	16	16	74	77	bn:00084526v		http://babelnet.org/rdf/s00084526v	0.0	0.0	0.0	MCS
+205	23724	1	7	0	4101632	FYI-I will be out of the office all next week .	6	6	25	30	bn:00014169n		http://babelnet.org/rdf/s00014169n	0.0	0.0	0.0	MCS
+205	23724	1	7	0	4101632	FYI-I will be out of the office all next week .	9	9	41	44	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS
+205	23724	1	8	0	4101633	Megan	0	0	0	4	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	9	0	4101634	Subject : RE : City of Pasadena	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23724	1	9	0	4101634	Subject : RE : City of Pasadena	4	4	15	18	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85714287	1.0	0.54545456	BABELFY
+205	23724	1	10	0	4101635	X-From : Ward , Kim S ( Houston ) MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN = KWARD &gt;	2	2	9	12	bn:00080473n	http://dbpedia.org/resource/Ward_(electoral_subdivision)	http://babelnet.org/rdf/s00080473n	1.0	1.0	0.5	BABELFY
+205	23724	1	10	0	4101635	X-From : Ward , Kim S ( Houston ) MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN = KWARD &gt;	7	7	24	30	bn:00158120n	http://dbpedia.org/resource/Houston,_Renfrewshire	http://babelnet.org/rdf/s00158120n	1.0	1.0	0.5	BABELFY
+205	23724	1	12	0	4101637	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	0	0	0	5	bn:00076768n		http://babelnet.org/rdf/s00076768n	0.0	0.0	0.0	MCS
+205	23724	1	12	0	4101637	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	2	3	11	17	bn:13715558r		http://babelnet.org/rdf/s13715558r	0.0	0.0	0.0	MCS
+205	23724	1	12	0	4101637	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	5	5	23	29	bn:00095812v		http://babelnet.org/rdf/s00095812v	0.0	0.0	0.0	MCS
+205	23724	1	12	0	4101637	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	5	6	23	32	bn:00095823v		http://babelnet.org/rdf/s00095823v	0.0	0.0	0.0	MCS
+205	23724	1	12	0	4101637	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	9	9	43	46	bn:00102802a		http://babelnet.org/rdf/s00102802a	1.0	0.5	0.027777778	BABELFY
+205	23724	1	12	0	4101637	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	17	17	74	81	bn:00064072n		http://babelnet.org/rdf/s00064072n	0.0	0.0	0.0	MCS
+205	23724	2	12	0	4101638	However , as you know , the less cash outlay that we have right now the better .	4	4	17	20	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	2	12	0	4101638	However , as you know , the less cash outlay that we have right now the better .	8	8	33	36	bn:00016448n	http://dbpedia.org/resource/Cash	http://babelnet.org/rdf/s00016448n	0.0	0.0	0.0	MCS
+205	23724	2	12	0	4101638	However , as you know , the less cash outlay that we have right now the better .	9	9	38	43	bn:00032300n		http://babelnet.org/rdf/s00032300n	0.0	0.0	0.0	MCS
+205	23724	2	12	0	4101638	However , as you know , the less cash outlay that we have right now the better .	13	13	58	62	bn:00116860r		http://babelnet.org/rdf/s00116860r	0.0	0.0	0.0	MCS
+205	23724	2	12	0	4101638	However , as you know , the less cash outlay that we have right now the better .	13	14	58	66	bn:13763778r		http://babelnet.org/rdf/s13763778r	0.0	0.0	0.0	MCS
+205	23724	2	12	0	4101638	However , as you know , the less cash outlay that we have right now the better .	16	16	72	77	bn:00098282a		http://babelnet.org/rdf/s00098282a	0.0	0.0	0.0	MCS
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	1	1	5	8	bn:00026014n	http://dbpedia.org/resource/Wait_(system_call)	http://babelnet.org/rdf/s00026014n	0.0	0.0	0.0	MCS
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	3	3	14	16	bn:00082844v		http://babelnet.org/rdf/s00082844v	0.0	0.0	0.0	MCS
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	5	5	21	26	bn:00085889v		http://babelnet.org/rdf/s00085889v	0.0	0.0	0.0	MCS
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	9	9	42	44	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	14	14	66	68	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	19	19	80	82	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	20	20	84	87	bn:00095593v		http://babelnet.org/rdf/s00095593v	0.0	0.0	0.0	MCS
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	24	24	103	106	bn:00048548n	http://dbpedia.org/resource/July	http://babelnet.org/rdf/s00048548n	1.0	0.33333334	0.13636364	BABELFY
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	26	26	112	117	bn:00007140n	http://dbpedia.org/resource/August	http://babelnet.org/rdf/s00007140n	0.0	0.0	0.0	MCS
+205	23724	4	12	0	4101640	What do you think the time frame is on this ?	3	3	12	16	bn:00083370v		http://babelnet.org/rdf/s00083370v	0.0	0.0	0.0	MCS
+205	23724	4	12	0	4101640	What do you think the time frame is on this ?	5	5	22	25	bn:00077270n	http://dbpedia.org/resource/Time	http://babelnet.org/rdf/s00077270n	0.75	1.0	0.54545456	BABELFY
+205	23724	4	12	0	4101640	What do you think the time frame is on this ?	5	6	22	31	bn:00077287n		http://babelnet.org/rdf/s00077287n	1.0	0.33333334	0.06818182	BABELFY
+205	23724	4	12	0	4101640	What do you think the time frame is on this ?	6	6	27	31	bn:00036182n		http://babelnet.org/rdf/s00036182n	0.0	0.0	0.0	MCS
+205	23724	5	12	0	4101641	And when would be the earliest that we would make the payment ?	5	5	22	29	bn:00101934a		http://babelnet.org/rdf/s00101934a	0.0	0.0	0.0	MCS
+205	23724	5	12	0	4101641	And when would be the earliest that we would make the payment ?	11	11	54	60	bn:00061119n	http://dbpedia.org/resource/Payment	http://babelnet.org/rdf/s00061119n	0.0	0.0	0.0	MCS
+205	23724	1	13	0	4101642	Thanks,	0	0	0	5	bn:00076768n		http://babelnet.org/rdf/s00076768n	0.0	0.0	0.0	MCS
+205	23724	1	14	0	4101643	Kim	0	0	0	2	bn:00204779n	http://dbpedia.org/resource/Kim,_Colorado	http://babelnet.org/rdf/s00204779n	0.0	0.0	0.0	MCS
+205	23724	1	15	0	4101644	-----Original Message-----	1	1	5	12	bn:03654913n	http://dbpedia.org/resource/Original_(song)	http://babelnet.org/rdf/s03654913n	0.0	0.0	0.0	MCS
+205	23724	1	15	0	4101644	-----Original Message-----	2	2	14	20	bn:00054523n	http://dbpedia.org/resource/Message	http://babelnet.org/rdf/s00054523n	0.0	0.0	0.0	MCS
+205	23724	1	16	0	4101645	From : Parker , Megan	2	2	7	12	bn:00010640n	http://dbpedia.org/resource/Charlie_Parker	http://babelnet.org/rdf/s00010640n	0.0	0.0	0.0	MCS
+205	23724	1	16	0	4101645	From : Parker , Megan	4	4	16	20	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	17	0	4101646	Sent : Wednesday, November 28, 2001 8:38 AM	0	0	0	3	bn:00070526n		http://babelnet.org/rdf/s00070526n	0.0	0.0	0.0	MCS
+205	23724	1	17	0	4101646	Sent : Wednesday, November 28, 2001 8:38 AM	2	2	7	15	bn:00054897n	http://dbpedia.org/resource/Wednesday	http://babelnet.org/rdf/s00054897n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	17	0	4101646	Sent : Wednesday, November 28, 2001 8:38 AM	4	4	18	25	bn:00058192n	http://dbpedia.org/resource/November	http://babelnet.org/rdf/s00058192n	1.0	1.0	0.6666667	BABELFY
+205	23724	1	17	0	4101646	Sent : Wednesday, November 28, 2001 8:38 AM	4	5	18	28	bn:01443331n	http://dbpedia.org/resource/November_28	http://babelnet.org/rdf/s01443331n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	18	0	4101647	To : Ward , Kim S ( Houston )	2	2	5	8	bn:00080473n	http://dbpedia.org/resource/Ward_(electoral_subdivision)	http://babelnet.org/rdf/s00080473n	1.0	1.0	0.5	BABELFY
+205	23724	1	18	0	4101647	To : Ward , Kim S ( Houston )	7	7	20	26	bn:00158120n	http://dbpedia.org/resource/Houston,_Renfrewshire	http://babelnet.org/rdf/s00158120n	1.0	1.0	0.5	BABELFY
+205	23724	1	19	0	4101648	Subject : City of Pasadena	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23724	1	19	0	4101648	Subject : City of Pasadena	2	2	10	13	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85714287	1.0	0.54545456	BABELFY
+205	23724	1	19	0	4101648	Subject : City of Pasadena	2	3	10	16	bn:01630389n	http://dbpedia.org/resource/City_Of	http://babelnet.org/rdf/s01630389n	0.0	0.0	0.0	MCS
+205	23724	1	19	0	4101648	Subject : City of Pasadena	4	4	18	25	bn:00060856n		http://babelnet.org/rdf/s00060856n	0.0	0.0	0.0	MCS
+205	23724	1	20	0	4101649	Kim :	0	0	0	2	bn:00204779n	http://dbpedia.org/resource/Kim,_Colorado	http://babelnet.org/rdf/s00204779n	0.0	0.0	0.0	MCS
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	2	2	7	15	bn:00085476v		http://babelnet.org/rdf/s00085476v	1.0	0.16666667	0.013157895	BABELFY
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	4	4	21	28	bn:02878224n	http://dbpedia.org/resource/Invoice_(company)	http://babelnet.org/rdf/s02878224n	1.0	0.16666667	0.013157895	BABELFY
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	6	6	34	38	bn:00005169n	http://dbpedia.org/resource/April	http://babelnet.org/rdf/s00005169n	0.85714287	0.33333334	0.15789473	BABELFY
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	10	10	49	52	bn:00048592n	http://dbpedia.org/resource/June	http://babelnet.org/rdf/s00048592n	0.9142857	0.6666667	0.42105263	BABELFY
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	13	13	61	63	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	14	14	65	72	bn:00562217n	http://dbpedia.org/resource/Pasadena,_Texas	http://babelnet.org/rdf/s00562217n	0.8	0.33333334	0.05263158	BABELFY
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	16	16	79	83	bn:00014710n	http://dbpedia.org/resource/Month	http://babelnet.org/rdf/s00014710n	0.7894737	0.5	0.19736843	BABELFY
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	19	19	91	95	bn:00002008n		http://babelnet.org/rdf/s00002008n	1.0	0.16666667	0.013157895	BABELFY
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	2	2	5	11	bn:00089401v		http://babelnet.org/rdf/s00089401v	1.0	1.0	0.5	BABELFY
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	4	4	16	19	bn:00089277v		http://babelnet.org/rdf/s00089277v	0.0	0.0	0.0	MCS
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	11	11	48	51	bn:00048592n	http://dbpedia.org/resource/June	http://babelnet.org/rdf/s00048592n	0.0	0.0	0.0	MCS
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	13	14	56	64	bn:00090585v		http://babelnet.org/rdf/s00090585v	1.0	1.0	0.5	BABELFY
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	14	14	61	64	bn:00099475a		http://babelnet.org/rdf/s00099475a	0.0	0.0	0.0	MCS
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	17	17	75	78	bn:00096817a		http://babelnet.org/rdf/s00096817a	0.0	0.0	0.0	MCS
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	2	2	7	10	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	5	5	18	20	bn:00091494v		http://babelnet.org/rdf/s00091494v	0.9	0.3	0.056962024	BABELFY
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	6	6	22	29	bn:00562217n	http://dbpedia.org/resource/Pasadena,_Texas	http://babelnet.org/rdf/s00562217n	0.8	0.2	0.025316456	BABELFY
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	8	8	34	39	bn:00036512n	http://dbpedia.org/resource/Friday	http://babelnet.org/rdf/s00036512n	1.0	0.1	0.01898734	BABELFY
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	11	11	51	56	bn:00014710n	http://dbpedia.org/resource/Month	http://babelnet.org/rdf/s00014710n	0.7804878	0.4	0.20253165	BABELFY
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	15	15	68	71	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	18	18	79	82	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	18	19	79	86	bn:00089401v		http://babelnet.org/rdf/s00089401v	1.0	0.2	0.025316456	BABELFY
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	22	22	96	101	bn:00085475v		http://babelnet.org/rdf/s00085475v	0.0	0.0	0.0	MCS
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	23	23	103	106	bn:00048548n	http://dbpedia.org/resource/July	http://babelnet.org/rdf/s00048548n	1.0	0.3	0.1329114	BABELFY
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	25	25	112	117	bn:00007140n	http://dbpedia.org/resource/August	http://babelnet.org/rdf/s00007140n	0.8181818	0.3	0.11392405	BABELFY
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	9	9	33	43	bn:00046698n		http://babelnet.org/rdf/s00046698n	0.0	0.0	0.0	MCS
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	11	11	49	52	bn:00048548n	http://dbpedia.org/resource/July	http://babelnet.org/rdf/s00048548n	1.0	0.6666667	0.30769232	BABELFY
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	13	13	58	63	bn:00007140n	http://dbpedia.org/resource/August	http://babelnet.org/rdf/s00007140n	0.0	0.0	0.0	MCS
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	22	22	93	99	bn:00034394n		http://babelnet.org/rdf/s00034394n	0.0	0.0	0.0	MCS
+205	23724	5	21	0	4101654	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	2	3	5	9	bn:00087513v		http://babelnet.org/rdf/s00087513v	0.0	0.0	0.0	MCS
+205	23724	5	21	0	4101654	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	6	6	19	27	bn:00114905r		http://babelnet.org/rdf/s00114905r	0.0	0.0	0.0	MCS
+205	23724	5	21	0	4101654	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	9	9	36	41	bn:03010775n	http://dbpedia.org/resource/System_programming	http://babelnet.org/rdf/s03010775n	1.0	1.0	0.5	BABELFY
+205	23724	5	21	0	4101654	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	12	12	48	52	bn:14490007n	http://dbpedia.org/resource/GUIDE_International	http://babelnet.org/rdf/s14490007n	1.0	1.0	0.5	BABELFY
+205	23724	5	21	0	4101654	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	16	16	71	73	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	5	21	0	4101654	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	23	23	98	100	bn:00054918n	http://dbpedia.org/resource/Mill_(currency)	http://babelnet.org/rdf/s00054918n	0.0	0.0	0.0	MCS
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	1	1	2	5	bn:00091028v		http://babelnet.org/rdf/s00091028v	0.8	0.6666667	0.26666668	BABELFY
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	3	3	10	17	bn:00084375v		http://babelnet.org/rdf/s00084375v	0.0	0.0	0.0	MCS
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	5	5	23	27	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	0.85714287	0.6666667	0.4	BABELFY
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	6	6	29	33	bn:01575963n	http://dbpedia.org/resource/Today_(U.S._TV_program)	http://babelnet.org/rdf/s01575963n	1.0	0.33333334	0.06666667	BABELFY
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	10	10	47	49	bn:00082536v		http://babelnet.org/rdf/s00082536v	0.0	0.0	0.0	MCS
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	12	12	54	57	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	16	16	74	77	bn:00084526v		http://babelnet.org/rdf/s00084526v	0.0	0.0	0.0	MCS
+205	23724	1	22	0	4101656	FYI-I will be out of the office all next week .	6	6	25	30	bn:00014169n		http://babelnet.org/rdf/s00014169n	0.0	0.0	0.0	MCS
+205	23724	1	22	0	4101656	FYI-I will be out of the office all next week .	9	9	41	44	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS
+205	23724	1	23	0	4101657	Megan	0	0	0	4	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	24	0	4101658	Subject : RE : City of Pasadena	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23724	1	24	0	4101658	Subject : RE : City of Pasadena	4	4	15	18	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85714287	1.0	0.54545456	BABELFY
+205	23724	1	25	0	4101659	X-From : Ward , Kim S ( Houston ) MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN = KWARD &gt;	2	2	9	12	bn:00080473n	http://dbpedia.org/resource/Ward_(electoral_subdivision)	http://babelnet.org/rdf/s00080473n	1.0	1.0	0.5	BABELFY
+205	23724	1	25	0	4101659	X-From : Ward , Kim S ( Houston ) MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN = KWARD &gt;	7	7	24	30	bn:00158120n	http://dbpedia.org/resource/Houston,_Renfrewshire	http://babelnet.org/rdf/s00158120n	1.0	1.0	0.5	BABELFY
+205	23724	1	27	0	4101661	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	6	6	26	32	bn:00026623n		http://babelnet.org/rdf/s00026623n	1.0	1.0	0.5	BABELFY
+205	23724	1	27	0	4101661	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	10	10	41	44	bn:00114626r		http://babelnet.org/rdf/s00114626r	0.0	0.0	0.0	MCS
+205	23724	1	27	0	4101661	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	12	12	50	53	bn:00014152n		http://babelnet.org/rdf/s00014152n	0.0	0.0	0.0	MCS
+205	23724	1	27	0	4101661	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	13	13	55	59	bn:00052910n	http://dbpedia.org/resource/Bully_Records	http://babelnet.org/rdf/s00052910n	0.0	0.0	0.0	MCS
+205	23724	1	27	0	4101661	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	19	19	77	82	bn:00000661n		http://babelnet.org/rdf/s00000661n	0.0	0.0	0.0	MCS
+205	23724	1	27	0	4101661	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	24	24	98	104	bn:00075759n		http://babelnet.org/rdf/s00075759n	1.0	1.0	0.5	BABELFY
+205	23724	2	27	0	4101662	All I know is what fixed priced baseload deals we have .	2	2	6	9	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	2	27	0	4101662	All I know is what fixed priced baseload deals we have .	5	5	19	23	bn:00086468v		http://babelnet.org/rdf/s00086468v	1.0	1.0	0.5	BABELFY
+205	23724	2	27	0	4101662	All I know is what fixed priced baseload deals we have .	6	6	25	30	bn:00092009v		http://babelnet.org/rdf/s00092009v	0.0	0.0	0.0	MCS
+205	23724	2	27	0	4101662	All I know is what fixed priced baseload deals we have .	8	8	41	45	bn:00008568n		http://babelnet.org/rdf/s00008568n	1.0	1.0	0.5	BABELFY
+205	23724	3	27	0	4101663	I have no idea what flows .	3	3	10	13	bn:00045800n	http://dbpedia.org/resource/Idea	http://babelnet.org/rdf/s00045800n	0.0	0.0	0.0	MCS
+205	23724	3	27	0	4101663	I have no idea what flows .	5	5	20	24	bn:00035370n	http://dbpedia.org/resource/Fluid_dynamics	http://babelnet.org/rdf/s00035370n	0.0	0.0	0.0	MCS
+205	23724	4	27	0	4101664	I hope Patti can help you soon .	1	1	2	5	bn:00089472v		http://babelnet.org/rdf/s00089472v	0.0	0.0	0.0	MCS
+205	23724	4	27	0	4101664	I hope Patti can help you soon .	4	4	17	20	bn:00082481v		http://babelnet.org/rdf/s00082481v	0.0	0.0	0.0	MCS
+205	23724	4	27	0	4101664	I hope Patti can help you soon .	6	6	26	29	bn:00114513r		http://babelnet.org/rdf/s00114513r	0.0	0.0	0.0	MCS
+205	23724	5	27	0	4101665	Let me know if you do n't hear from her today .	2	2	7	10	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	5	27	0	4101665	Let me know if you do n't hear from her today .	8	8	26	29	bn:00089277v		http://babelnet.org/rdf/s00089277v	0.0	0.0	0.0	MCS
+205	23724	5	27	0	4101665	Let me know if you do n't hear from her today .	11	11	40	44	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS
+205	23724	1	28	0	4101666	Thanks,	0	0	0	5	bn:00076768n		http://babelnet.org/rdf/s00076768n	0.0	0.0	0.0	MCS
+205	23724	1	29	0	4101667	Kim	0	0	0	2	bn:00204779n	http://dbpedia.org/resource/Kim,_Colorado	http://babelnet.org/rdf/s00204779n	0.0	0.0	0.0	MCS
+205	23724	1	30	0	4101668	-----Original Message-----	1	1	5	12	bn:03654913n	http://dbpedia.org/resource/Original_(song)	http://babelnet.org/rdf/s03654913n	0.0	0.0	0.0	MCS
+205	23724	1	30	0	4101668	-----Original Message-----	2	2	14	20	bn:00054523n	http://dbpedia.org/resource/Message	http://babelnet.org/rdf/s00054523n	0.0	0.0	0.0	MCS
+205	23724	1	31	0	4101669	From : Parker , Megan	2	2	7	12	bn:00010640n	http://dbpedia.org/resource/Charlie_Parker	http://babelnet.org/rdf/s00010640n	0.0	0.0	0.0	MCS
+205	23724	1	31	0	4101669	From : Parker , Megan	4	4	16	20	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	32	0	4101670	Sent : Wednesday, November 28, 2001 8:56 AM	0	0	0	3	bn:00070526n		http://babelnet.org/rdf/s00070526n	0.0	0.0	0.0	MCS
+205	23724	1	32	0	4101670	Sent : Wednesday, November 28, 2001 8:56 AM	2	2	7	15	bn:00054897n	http://dbpedia.org/resource/Wednesday	http://babelnet.org/rdf/s00054897n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	32	0	4101670	Sent : Wednesday, November 28, 2001 8:56 AM	4	4	18	25	bn:00058192n	http://dbpedia.org/resource/November	http://babelnet.org/rdf/s00058192n	1.0	1.0	0.6666667	BABELFY
+205	23724	1	32	0	4101670	Sent : Wednesday, November 28, 2001 8:56 AM	4	5	18	28	bn:01443331n	http://dbpedia.org/resource/November_28	http://babelnet.org/rdf/s01443331n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	33	0	4101671	To : Ward , Kim S ( Houston )	2	2	5	8	bn:00080473n	http://dbpedia.org/resource/Ward_(electoral_subdivision)	http://babelnet.org/rdf/s00080473n	1.0	1.0	0.5	BABELFY
+205	23724	1	33	0	4101671	To : Ward , Kim S ( Houston )	7	7	20	26	bn:00158120n	http://dbpedia.org/resource/Houston,_Renfrewshire	http://babelnet.org/rdf/s00158120n	1.0	1.0	0.5	BABELFY
+205	23724	1	34	0	4101672	Subject : RE : City of Pasadena	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23724	1	34	0	4101672	Subject : RE : City of Pasadena	4	4	15	18	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85714287	1.0	0.54545456	BABELFY
+205	23724	1	35	0	4101673	If I can get all of the information today , I can tell you this afternoon .	7	7	24	34	bn:00046698n		http://babelnet.org/rdf/s00046698n	0.0	0.0	0.0	MCS
+205	23724	1	35	0	4101673	If I can get all of the information today , I can tell you this afternoon .	7	8	24	40	bn:01016418n	http://dbpedia.org/resource/Information_Today,_Inc.	http://babelnet.org/rdf/s01016418n	1.0	0.5	0.13333334	BABELFY
+205	23724	1	35	0	4101673	If I can get all of the information today , I can tell you this afternoon .	8	8	36	40	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS
+205	23724	1	35	0	4101673	If I can get all of the information today , I can tell you this afternoon .	12	12	50	53	bn:00094862v		http://babelnet.org/rdf/s00094862v	0.0	0.0	0.0	MCS
+205	23724	1	35	0	4101673	If I can get all of the information today , I can tell you this afternoon .	15	15	64	72	bn:00001875n	http://dbpedia.org/resource/Afternoon	http://babelnet.org/rdf/s00001875n	0.0	0.0	0.0	MCS
+205	23724	2	35	0	4101674	It does n't take long to create the calc sheets .	5	5	17	20	bn:00106124a		http://babelnet.org/rdf/s00106124a	0.0	0.0	0.0	MCS
+205	23724	2	35	0	4101674	It does n't take long to create the calc sheets .	7	7	25	30	bn:00086008v		http://babelnet.org/rdf/s00086008v	0.0	0.0	0.0	MCS
+205	23724	2	35	0	4101674	It does n't take long to create the calc sheets .	9	9	36	39	bn:00852222n	http://dbpedia.org/resource/Anglo-Saxon_runes	http://babelnet.org/rdf/s00852222n	0.0	0.0	0.0	MCS
+205	23724	2	35	0	4101674	It does n't take long to create the calc sheets .	10	10	41	46	bn:00070981n		http://babelnet.org/rdf/s00070981n	0.0	0.0	0.0	MCS
+205	23724	3	35	0	4101675	I understand from Janine that you or Patti can provide me with the detail that I need .	1	1	2	11	bn:00095375v		http://babelnet.org/rdf/s00095375v	0.0	0.0	0.0	MCS
+205	23724	3	35	0	4101675	I understand from Janine that you or Patti can provide me with the detail that I need .	9	9	47	53	bn:00084692v		http://babelnet.org/rdf/s00084692v	1.0	1.0	0.5	BABELFY
+205	23724	3	35	0	4101675	I understand from Janine that you or Patti can provide me with the detail that I need .	13	13	67	72	bn:00026623n		http://babelnet.org/rdf/s00026623n	0.0	0.0	0.0	MCS
+205	23724	3	35	0	4101675	I understand from Janine that you or Patti can provide me with the detail that I need .	16	16	81	84	bn:00091028v		http://babelnet.org/rdf/s00091028v	1.0	1.0	0.5	BABELFY
+205	23724	4	35	0	4101676	If necessary , I can come pick it up .	1	1	3	11	bn:00107182a		http://babelnet.org/rdf/s00107182a	0.0	0.0	0.0	MCS
+205	23724	4	35	0	4101676	If necessary , I can come pick it up .	5	5	21	24	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS
+205	23724	4	35	0	4101676	If necessary , I can come pick it up .	6	6	26	29	bn:00091590v		http://babelnet.org/rdf/s00091590v	0.0	0.0	0.0	MCS
+205	23724	5	35	0	4101677	I have sent Patti a list .	2	2	7	10	bn:00093485v		http://babelnet.org/rdf/s00093485v	0.0	0.0	0.0	MCS
+205	23724	5	35	0	4101677	I have sent Patti a list .	5	5	20	23	bn:00051508n	http://dbpedia.org/resource/Listing_(computer)	http://babelnet.org/rdf/s00051508n	0.0	0.0	0.0	MCS
+205	23724	1	36	0	4101678	For payment , we have to forecast the money two days out .	1	1	4	10	bn:00061119n	http://dbpedia.org/resource/Payment	http://babelnet.org/rdf/s00061119n	0.0	0.0	0.0	MCS
+205	23724	1	36	0	4101678	For payment , we have to forecast the money two days out .	4	5	17	23	bn:13601282v		http://babelnet.org/rdf/s13601282v	0.0	0.0	0.0	MCS
+205	23724	1	36	0	4101678	For payment , we have to forecast the money two days out .	6	6	25	32	bn:00082929v		http://babelnet.org/rdf/s00082929v	1.0	0.33333334	0.1	BABELFY
+205	23724	1	36	0	4101678	For payment , we have to forecast the money two days out .	8	8	38	42	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	1.0	0.33333334	0.4	BABELFY
+205	23724	1	36	0	4101678	For payment , we have to forecast the money two days out .	10	10	48	51	bn:00025424n		http://babelnet.org/rdf/s00025424n	1.0	0.33333334	0.1	BABELFY
+205	23724	1	36	0	4101678	For payment , we have to forecast the money two days out .	10	11	48	55	bn:13688692n		http://babelnet.org/rdf/s13688692n	0.0	0.0	0.0	MCS
+205	23724	2	36	0	4101679	So , if I know today , I can pay on Friday .	4	4	10	13	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	2	36	0	4101679	So , if I know today , I can pay on Friday .	5	5	15	19	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS
+205	23724	2	36	0	4101679	So , if I know today , I can pay on Friday .	9	9	29	31	bn:00091493v		http://babelnet.org/rdf/s00091493v	0.0	0.0	0.0	MCS
+205	23724	2	36	0	4101679	So , if I know today , I can pay on Friday .	11	11	36	41	bn:00036512n	http://dbpedia.org/resource/Friday	http://babelnet.org/rdf/s00036512n	1.0	1.0	0.5	BABELFY
+205	23724	1	37	0	4101680	Megan	0	0	0	4	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	38	0	4101681	-----Original Message-----	1	1	5	12	bn:03654913n	http://dbpedia.org/resource/Original_(song)	http://babelnet.org/rdf/s03654913n	0.0	0.0	0.0	MCS
+205	23724	1	38	0	4101681	-----Original Message-----	2	2	14	20	bn:00054523n	http://dbpedia.org/resource/Message	http://babelnet.org/rdf/s00054523n	0.0	0.0	0.0	MCS
+205	23724	1	39	0	4101682	From : Ward , Kim S ( Houston )	2	2	7	10	bn:00080473n	http://dbpedia.org/resource/Ward_(electoral_subdivision)	http://babelnet.org/rdf/s00080473n	1.0	1.0	0.5	BABELFY
+205	23724	1	39	0	4101682	From : Ward , Kim S ( Houston )	7	7	22	28	bn:00158120n	http://dbpedia.org/resource/Houston,_Renfrewshire	http://babelnet.org/rdf/s00158120n	1.0	1.0	0.5	BABELFY
+205	23724	1	40	0	4101683	Sent : Wednesday, November 28, 2001 8:42 AM	0	0	0	3	bn:00070526n		http://babelnet.org/rdf/s00070526n	0.0	0.0	0.0	MCS
+205	23724	1	40	0	4101683	Sent : Wednesday, November 28, 2001 8:42 AM	2	2	7	15	bn:00054897n	http://dbpedia.org/resource/Wednesday	http://babelnet.org/rdf/s00054897n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	40	0	4101683	Sent : Wednesday, November 28, 2001 8:42 AM	4	4	18	25	bn:00058192n	http://dbpedia.org/resource/November	http://babelnet.org/rdf/s00058192n	1.0	1.0	0.6666667	BABELFY
+205	23724	1	40	0	4101683	Sent : Wednesday, November 28, 2001 8:42 AM	4	5	18	28	bn:01443331n	http://dbpedia.org/resource/November_28	http://babelnet.org/rdf/s01443331n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	41	0	4101684	To : Parker , Megan	2	2	5	10	bn:00010640n	http://dbpedia.org/resource/Charlie_Parker	http://babelnet.org/rdf/s00010640n	0.0	0.0	0.0	MCS
+205	23724	1	41	0	4101684	To : Parker , Megan	4	4	14	18	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	42	0	4101685	Subject : RE : City of Pasadena	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23724	1	42	0	4101685	Subject : RE : City of Pasadena	4	4	15	18	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85714287	1.0	0.54545456	BABELFY
+205	23724	1	43	0	4101686	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	0	0	0	5	bn:00076768n		http://babelnet.org/rdf/s00076768n	0.0	0.0	0.0	MCS
+205	23724	1	43	0	4101686	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	2	3	11	17	bn:13715558r		http://babelnet.org/rdf/s13715558r	0.0	0.0	0.0	MCS
+205	23724	1	43	0	4101686	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	5	5	23	29	bn:00095812v		http://babelnet.org/rdf/s00095812v	0.0	0.0	0.0	MCS
+205	23724	1	43	0	4101686	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	5	6	23	32	bn:00095823v		http://babelnet.org/rdf/s00095823v	0.0	0.0	0.0	MCS
+205	23724	1	43	0	4101686	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	9	9	43	46	bn:00102802a		http://babelnet.org/rdf/s00102802a	1.0	0.5	0.027777778	BABELFY
+205	23724	1	43	0	4101686	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	17	17	74	81	bn:00064072n		http://babelnet.org/rdf/s00064072n	0.0	0.0	0.0	MCS
+205	23724	2	43	0	4101687	However , as you know , the less cash outlay that we have right now the better .	4	4	17	20	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	2	43	0	4101687	However , as you know , the less cash outlay that we have right now the better .	8	8	33	36	bn:00016448n	http://dbpedia.org/resource/Cash	http://babelnet.org/rdf/s00016448n	0.0	0.0	0.0	MCS
+205	23724	2	43	0	4101687	However , as you know , the less cash outlay that we have right now the better .	9	9	38	43	bn:00032300n		http://babelnet.org/rdf/s00032300n	0.0	0.0	0.0	MCS
+205	23724	2	43	0	4101687	However , as you know , the less cash outlay that we have right now the better .	13	13	58	62	bn:00116860r		http://babelnet.org/rdf/s00116860r	0.0	0.0	0.0	MCS
+205	23724	2	43	0	4101687	However , as you know , the less cash outlay that we have right now the better .	13	14	58	66	bn:13763778r		http://babelnet.org/rdf/s13763778r	0.0	0.0	0.0	MCS
+205	23724	2	43	0	4101687	However , as you know , the less cash outlay that we have right now the better .	16	16	72	77	bn:00098282a		http://babelnet.org/rdf/s00098282a	0.0	0.0	0.0	MCS
+205	23724	3	43	0	4101688	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	1	1	5	8	bn:00026014n	http://dbpedia.org/resource/Wait_(system_call)	http://babelnet.org/rdf/s00026014n	0.0	0.0	0.0	MCS
+205	23724	3	43	0	4101688	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	3	3	14	16	bn:00082844v		http://babelnet.org/rdf/s00082844v	0.0	0.0	0.0	MCS
+205	23724	3	43	0	4101688	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	5	5	21	26	bn:00085889v		http://babelnet.org/rdf/s00085889v	0.0	0.0	0.0	MCS
+205	23724	3	43	0	4101688	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	9	9	42	44	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	3	43	0	4101688	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	14	14	66	68	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	3	43	0	4101688	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	19	19	80	82	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS
+205	23724	3	43	0	4101688	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	20	20	84	87	bn:00095593v		http://babelnet.org/rdf/s00095593v	0.0	0.0	0.0	MCS
+205	23724	3	43	0	4101688	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	24	24	103	106	bn:00048548n	http://dbpedia.org/resource/July	http://babelnet.org/rdf/s00048548n	1.0	0.33333334	0.13636364	BABELFY
+205	23724	3	43	0	4101688	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	26	26	112	117	bn:00007140n	http://dbpedia.org/resource/August	http://babelnet.org/rdf/s00007140n	0.0	0.0	0.0	MCS
+205	23724	4	43	0	4101689	What do you think the time frame is on this ?	3	3	12	16	bn:00083370v		http://babelnet.org/rdf/s00083370v	0.0	0.0	0.0	MCS
+205	23724	4	43	0	4101689	What do you think the time frame is on this ?	5	5	22	25	bn:00077270n	http://dbpedia.org/resource/Time	http://babelnet.org/rdf/s00077270n	0.75	1.0	0.54545456	BABELFY
+205	23724	4	43	0	4101689	What do you think the time frame is on this ?	5	6	22	31	bn:00077287n		http://babelnet.org/rdf/s00077287n	1.0	0.33333334	0.06818182	BABELFY
+205	23724	4	43	0	4101689	What do you think the time frame is on this ?	6	6	27	31	bn:00036182n		http://babelnet.org/rdf/s00036182n	0.0	0.0	0.0	MCS
+205	23724	5	43	0	4101690	And when would be the earliest that we would make the payment ?	5	5	22	29	bn:00101934a		http://babelnet.org/rdf/s00101934a	0.0	0.0	0.0	MCS
+205	23724	5	43	0	4101690	And when would be the earliest that we would make the payment ?	11	11	54	60	bn:00061119n	http://dbpedia.org/resource/Payment	http://babelnet.org/rdf/s00061119n	0.0	0.0	0.0	MCS
+205	23724	1	44	0	4101691	Thanks,	0	0	0	5	bn:00076768n		http://babelnet.org/rdf/s00076768n	0.0	0.0	0.0	MCS
+205	23724	1	45	0	4101692	Kim	0	0	0	2	bn:00204779n	http://dbpedia.org/resource/Kim,_Colorado	http://babelnet.org/rdf/s00204779n	0.0	0.0	0.0	MCS
+205	23724	1	46	0	4101693	-----Original Message-----	1	1	5	12	bn:03654913n	http://dbpedia.org/resource/Original_(song)	http://babelnet.org/rdf/s03654913n	0.0	0.0	0.0	MCS
+205	23724	1	46	0	4101693	-----Original Message-----	2	2	14	20	bn:00054523n	http://dbpedia.org/resource/Message	http://babelnet.org/rdf/s00054523n	0.0	0.0	0.0	MCS
+205	23724	1	47	0	4101694	From : Parker , Megan	2	2	7	12	bn:00010640n	http://dbpedia.org/resource/Charlie_Parker	http://babelnet.org/rdf/s00010640n	0.0	0.0	0.0	MCS
+205	23724	1	47	0	4101694	From : Parker , Megan	4	4	16	20	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	48	0	4101695	Sent : Wednesday, November 28, 2001 8:38 AM	0	0	0	3	bn:00070526n		http://babelnet.org/rdf/s00070526n	0.0	0.0	0.0	MCS
+205	23724	1	48	0	4101695	Sent : Wednesday, November 28, 2001 8:38 AM	2	2	7	15	bn:00054897n	http://dbpedia.org/resource/Wednesday	http://babelnet.org/rdf/s00054897n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	48	0	4101695	Sent : Wednesday, November 28, 2001 8:38 AM	4	4	18	25	bn:00058192n	http://dbpedia.org/resource/November	http://babelnet.org/rdf/s00058192n	1.0	1.0	0.6666667	BABELFY
+205	23724	1	48	0	4101695	Sent : Wednesday, November 28, 2001 8:38 AM	4	5	18	28	bn:01443331n	http://dbpedia.org/resource/November_28	http://babelnet.org/rdf/s01443331n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	49	0	4101696	To : Ward , Kim S ( Houston )	2	2	5	8	bn:00080473n	http://dbpedia.org/resource/Ward_(electoral_subdivision)	http://babelnet.org/rdf/s00080473n	1.0	1.0	0.5	BABELFY
+205	23724	1	49	0	4101696	To : Ward , Kim S ( Houston )	7	7	20	26	bn:00158120n	http://dbpedia.org/resource/Houston,_Renfrewshire	http://babelnet.org/rdf/s00158120n	1.0	1.0	0.5	BABELFY
+205	23724	1	50	0	4101697	Subject : City of Pasadena	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23724	1	50	0	4101697	Subject : City of Pasadena	2	2	10	13	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85714287	1.0	0.54545456	BABELFY
+205	23724	1	50	0	4101697	Subject : City of Pasadena	2	3	10	16	bn:01630389n	http://dbpedia.org/resource/City_Of	http://babelnet.org/rdf/s01630389n	0.0	0.0	0.0	MCS
+205	23724	1	50	0	4101697	Subject : City of Pasadena	4	4	18	25	bn:00060856n		http://babelnet.org/rdf/s00060856n	0.0	0.0	0.0	MCS
+205	23724	1	51	0	4101698	Kim :	0	0	0	2	bn:00204779n	http://dbpedia.org/resource/Kim,_Colorado	http://babelnet.org/rdf/s00204779n	0.0	0.0	0.0	MCS
+205	23724	1	52	0	4101699	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	2	2	7	15	bn:00085476v		http://babelnet.org/rdf/s00085476v	1.0	0.16666667	0.013157895	BABELFY
+205	23724	1	52	0	4101699	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	4	4	21	28	bn:02878224n	http://dbpedia.org/resource/Invoice_(company)	http://babelnet.org/rdf/s02878224n	1.0	0.16666667	0.013157895	BABELFY
+205	23724	1	52	0	4101699	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	6	6	34	38	bn:00005169n	http://dbpedia.org/resource/April	http://babelnet.org/rdf/s00005169n	0.85714287	0.33333334	0.15789473	BABELFY
+205	23724	1	52	0	4101699	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	10	10	49	52	bn:00048592n	http://dbpedia.org/resource/June	http://babelnet.org/rdf/s00048592n	0.9142857	0.6666667	0.42105263	BABELFY
+205	23724	1	52	0	4101699	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	13	13	61	63	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	1	52	0	4101699	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	14	14	65	72	bn:00562217n	http://dbpedia.org/resource/Pasadena,_Texas	http://babelnet.org/rdf/s00562217n	0.8	0.33333334	0.05263158	BABELFY
+205	23724	1	52	0	4101699	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	16	16	79	83	bn:00014710n	http://dbpedia.org/resource/Month	http://babelnet.org/rdf/s00014710n	0.7894737	0.5	0.19736843	BABELFY
+205	23724	1	52	0	4101699	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	19	19	91	95	bn:00002008n		http://babelnet.org/rdf/s00002008n	1.0	0.16666667	0.013157895	BABELFY
+205	23724	2	52	0	4101700	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	2	2	5	11	bn:00089401v		http://babelnet.org/rdf/s00089401v	1.0	1.0	0.5	BABELFY
+205	23724	2	52	0	4101700	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	4	4	16	19	bn:00089277v		http://babelnet.org/rdf/s00089277v	0.0	0.0	0.0	MCS
+205	23724	2	52	0	4101700	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	11	11	48	51	bn:00048592n	http://dbpedia.org/resource/June	http://babelnet.org/rdf/s00048592n	0.0	0.0	0.0	MCS
+205	23724	2	52	0	4101700	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	13	14	56	64	bn:00090585v		http://babelnet.org/rdf/s00090585v	1.0	1.0	0.5	BABELFY
+205	23724	2	52	0	4101700	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	14	14	61	64	bn:00099475a		http://babelnet.org/rdf/s00099475a	0.0	0.0	0.0	MCS
+205	23724	2	52	0	4101700	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	17	17	75	78	bn:00096817a		http://babelnet.org/rdf/s00096817a	0.0	0.0	0.0	MCS
+205	23724	3	52	0	4101701	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	2	2	7	10	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS
+205	23724	3	52	0	4101701	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	5	5	18	20	bn:00091494v		http://babelnet.org/rdf/s00091494v	0.9	0.3	0.056962024	BABELFY
+205	23724	3	52	0	4101701	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	6	6	22	29	bn:00562217n	http://dbpedia.org/resource/Pasadena,_Texas	http://babelnet.org/rdf/s00562217n	0.8	0.2	0.025316456	BABELFY
+205	23724	3	52	0	4101701	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	8	8	34	39	bn:00036512n	http://dbpedia.org/resource/Friday	http://babelnet.org/rdf/s00036512n	1.0	0.1	0.01898734	BABELFY
+205	23724	3	52	0	4101701	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	11	11	51	56	bn:00014710n	http://dbpedia.org/resource/Month	http://babelnet.org/rdf/s00014710n	0.7804878	0.4	0.20253165	BABELFY
+205	23724	3	52	0	4101701	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	15	15	68	71	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS
+205	23724	3	52	0	4101701	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	18	18	79	82	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS
+205	23724	3	52	0	4101701	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	18	19	79	86	bn:00089401v		http://babelnet.org/rdf/s00089401v	1.0	0.2	0.025316456	BABELFY
+205	23724	3	52	0	4101701	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	22	22	96	101	bn:00085475v		http://babelnet.org/rdf/s00085475v	0.0	0.0	0.0	MCS
+205	23724	3	52	0	4101701	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	23	23	103	106	bn:00048548n	http://dbpedia.org/resource/July	http://babelnet.org/rdf/s00048548n	1.0	0.3	0.1329114	BABELFY
+205	23724	3	52	0	4101701	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	25	25	112	117	bn:00007140n	http://dbpedia.org/resource/August	http://babelnet.org/rdf/s00007140n	0.8181818	0.3	0.11392405	BABELFY
+205	23724	4	52	0	4101702	Again , I do not have all of the information for July and August , so I can not give you any numbers .	9	9	33	43	bn:00046698n		http://babelnet.org/rdf/s00046698n	0.0	0.0	0.0	MCS
+205	23724	4	52	0	4101702	Again , I do not have all of the information for July and August , so I can not give you any numbers .	11	11	49	52	bn:00048548n	http://dbpedia.org/resource/July	http://babelnet.org/rdf/s00048548n	1.0	0.6666667	0.30769232	BABELFY
+205	23724	4	52	0	4101702	Again , I do not have all of the information for July and August , so I can not give you any numbers .	13	13	58	63	bn:00007140n	http://dbpedia.org/resource/August	http://babelnet.org/rdf/s00007140n	0.0	0.0	0.0	MCS
+205	23724	4	52	0	4101702	Again , I do not have all of the information for July and August , so I can not give you any numbers .	22	22	93	99	bn:00034394n		http://babelnet.org/rdf/s00034394n	0.0	0.0	0.0	MCS
+205	23724	5	52	0	4101703	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	2	3	5	9	bn:00087513v		http://babelnet.org/rdf/s00087513v	0.0	0.0	0.0	MCS
+205	23724	5	52	0	4101703	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	6	6	19	27	bn:00114905r		http://babelnet.org/rdf/s00114905r	0.0	0.0	0.0	MCS
+205	23724	5	52	0	4101703	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	9	9	36	41	bn:03010775n	http://dbpedia.org/resource/System_programming	http://babelnet.org/rdf/s03010775n	1.0	1.0	0.5	BABELFY
+205	23724	5	52	0	4101703	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	12	12	48	52	bn:14490007n	http://dbpedia.org/resource/GUIDE_International	http://babelnet.org/rdf/s14490007n	1.0	1.0	0.5	BABELFY
+205	23724	5	52	0	4101703	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	16	16	71	73	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	5	52	0	4101703	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	23	23	98	100	bn:00054918n	http://dbpedia.org/resource/Mill_(currency)	http://babelnet.org/rdf/s00054918n	0.0	0.0	0.0	MCS
+205	23724	6	52	0	4101704	I need to forecast the money today , so please let me know what you would like to do .	1	1	2	5	bn:00091028v		http://babelnet.org/rdf/s00091028v	0.8	0.6666667	0.26666668	BABELFY
+205	23724	6	52	0	4101704	I need to forecast the money today , so please let me know what you would like to do .	3	3	10	17	bn:00084375v		http://babelnet.org/rdf/s00084375v	0.0	0.0	0.0	MCS
+205	23724	6	52	0	4101704	I need to forecast the money today , so please let me know what you would like to do .	5	5	23	27	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	0.85714287	0.6666667	0.4	BABELFY
+205	23724	6	52	0	4101704	I need to forecast the money today , so please let me know what you would like to do .	6	6	29	33	bn:01575963n	http://dbpedia.org/resource/Today_(U.S._TV_program)	http://babelnet.org/rdf/s01575963n	1.0	0.33333334	0.06666667	BABELFY
+205	23724	6	52	0	4101704	I need to forecast the money today , so please let me know what you would like to do .	10	10	47	49	bn:00082536v		http://babelnet.org/rdf/s00082536v	0.0	0.0	0.0	MCS
+205	23724	6	52	0	4101704	I need to forecast the money today , so please let me know what you would like to do .	12	12	54	57	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	6	52	0	4101704	I need to forecast the money today , so please let me know what you would like to do .	16	16	74	77	bn:00084526v		http://babelnet.org/rdf/s00084526v	0.0	0.0	0.0	MCS
+205	23724	1	53	0	4101705	FYI-I will be out of the office all next week .	6	6	25	30	bn:00014169n		http://babelnet.org/rdf/s00014169n	0.0	0.0	0.0	MCS
+205	23724	1	53	0	4101705	FYI-I will be out of the office all next week .	9	9	41	44	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS
+205	23724	1	54	0	4101706	Megan	0	0	0	4	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	55	0	4101707	Subject : RE : City of Pasadena	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23724	1	55	0	4101707	Subject : RE : City of Pasadena	4	4	15	18	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85714287	1.0	0.54545456	BABELFY
+205	23724	1	56	0	4101708	X-From : Ward , Kim S ( Houston ) MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN = KWARD &gt;	2	2	9	12	bn:00080473n	http://dbpedia.org/resource/Ward_(electoral_subdivision)	http://babelnet.org/rdf/s00080473n	1.0	1.0	0.5	BABELFY
+205	23724	1	56	0	4101708	X-From : Ward , Kim S ( Houston ) MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN = KWARD &gt;	7	7	24	30	bn:00158120n	http://dbpedia.org/resource/Houston,_Renfrewshire	http://babelnet.org/rdf/s00158120n	1.0	1.0	0.5	BABELFY
+205	23724	1	61	0	4101713	X- Time: 17:42:33 GMT	2	2	3	6	bn:00019848n		http://babelnet.org/rdf/s00019848n	0.0	0.0	0.0	MCS
+205	23724	1	61	0	4101713	X- Time: 17:42:33 GMT	5	5	18	20	bn:00040810n	http://dbpedia.org/resource/Universal_Time	http://babelnet.org/rdf/s00040810n	1.0	1.0	0.5	BABELFY
+205	23724	1	63	0	4101715	thats fine - we ca n't pay them anyway	1	1	6	9	bn:00102972a		http://babelnet.org/rdf/s00102972a	0.0	0.0	0.0	MCS
+205	23724	1	63	0	4101715	thats fine - we ca n't pay them anyway	7	7	23	25	bn:00091493v		http://babelnet.org/rdf/s00091493v	0.0	0.0	0.0	MCS
+205	23724	1	64	0	4101716	-----Original Message-----	1	1	5	12	bn:03654913n	http://dbpedia.org/resource/Original_(song)	http://babelnet.org/rdf/s03654913n	0.0	0.0	0.0	MCS
+205	23724	1	64	0	4101716	-----Original Message-----	2	2	14	20	bn:00054523n	http://dbpedia.org/resource/Message	http://babelnet.org/rdf/s00054523n	0.0	0.0	0.0	MCS
+205	23724	1	65	0	4101717	From : Parker , Megan	2	2	7	12	bn:00010640n	http://dbpedia.org/resource/Charlie_Parker	http://babelnet.org/rdf/s00010640n	0.0	0.0	0.0	MCS
+205	23724	1	65	0	4101717	From : Parker , Megan	4	4	16	20	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	66	0	4101718	Sent : Wednesday, November 28, 2001 11:38 AM	0	0	0	3	bn:00070526n		http://babelnet.org/rdf/s00070526n	0.0	0.0	0.0	MCS
+205	23724	1	66	0	4101718	Sent : Wednesday, November 28, 2001 11:38 AM	2	2	7	15	bn:00054897n	http://dbpedia.org/resource/Wednesday	http://babelnet.org/rdf/s00054897n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	66	0	4101718	Sent : Wednesday, November 28, 2001 11:38 AM	4	4	18	25	bn:00058192n	http://dbpedia.org/resource/November	http://babelnet.org/rdf/s00058192n	1.0	1.0	0.6666667	BABELFY
+205	23724	1	66	0	4101718	Sent : Wednesday, November 28, 2001 11:38 AM	4	5	18	28	bn:01443331n	http://dbpedia.org/resource/November_28	http://babelnet.org/rdf/s01443331n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	67	0	4101719	To : Ward , Kim S ( Houston )	2	2	5	8	bn:00080473n	http://dbpedia.org/resource/Ward_(electoral_subdivision)	http://babelnet.org/rdf/s00080473n	1.0	1.0	0.5	BABELFY
+205	23724	1	67	0	4101719	To : Ward , Kim S ( Houston )	7	7	20	26	bn:00158120n	http://dbpedia.org/resource/Houston,_Renfrewshire	http://babelnet.org/rdf/s00158120n	1.0	1.0	0.5	BABELFY
+205	23724	1	68	0	4101720	Subject : RE : City of Pasadena	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23724	1	68	0	4101720	Subject : RE : City of Pasadena	4	4	15	18	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85714287	1.0	0.54545456	BABELFY
+205	23724	1	69	0	4101721	I 'll check with Patti later today .	2	2	6	10	bn:00008378n	http://dbpedia.org/resource/Cheque	http://babelnet.org/rdf/s00008378n	0.0	0.0	0.0	MCS
+205	23724	1	69	0	4101721	I 'll check with Patti later today .	5	5	23	27	bn:00114633r		http://babelnet.org/rdf/s00114633r	0.0	0.0	0.0	MCS
+205	23724	1	69	0	4101721	I 'll check with Patti later today .	5	6	23	33	bn:01575963n	http://dbpedia.org/resource/Today_(U.S._TV_program)	http://babelnet.org/rdf/s01575963n	1.0	1.0	0.5	BABELFY
+205	23724	1	69	0	4101721	I 'll check with Patti later today .	6	6	29	33	bn:01194397n	http://dbpedia.org/resource/Today_(Australian_TV_program)	http://babelnet.org/rdf/s01194397n	1.0	1.0	0.5	BABELFY
+205	23724	1	70	0	4101722	On payment ... We are now having to forecast five days out .	1	1	3	9	bn:00061119n	http://dbpedia.org/resource/Payment	http://babelnet.org/rdf/s00061119n	0.0	0.0	0.0	MCS
+205	23724	1	70	0	4101722	On payment ... We are now having to forecast five days out .	8	8	36	43	bn:00082929v		http://babelnet.org/rdf/s00082929v	1.0	1.0	0.5	BABELFY
+205	23724	1	70	0	4101722	On payment ... We are now having to forecast five days out .	10	10	50	53	bn:00025424n		http://babelnet.org/rdf/s00025424n	1.0	1.0	0.5	BABELFY
+205	23724	1	70	0	4101722	On payment ... We are now having to forecast five days out .	10	11	50	57	bn:13688692n		http://babelnet.org/rdf/s13688692n	0.0	0.0	0.0	MCS
+205	23724	2	70	0	4101723	If I do n't know today , I can not pay Pasadena until next Thursday .	5	5	12	15	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	2	70	0	4101723	If I do n't know today , I can not pay Pasadena until next Thursday .	6	6	17	21	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS
+205	23724	2	70	0	4101723	If I do n't know today , I can not pay Pasadena until next Thursday .	11	11	35	37	bn:00091493v		http://babelnet.org/rdf/s00091493v	0.0	0.0	0.0	MCS
+205	23724	2	70	0	4101723	If I do n't know today , I can not pay Pasadena until next Thursday .	15	15	59	66	bn:00076744n	http://dbpedia.org/resource/Thursday	http://babelnet.org/rdf/s00076744n	1.0	1.0	0.5	BABELFY
+205	23724	1	71	0	4101724	Megan	0	0	0	4	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	72	0	4101725	-----Original Message-----	1	1	5	12	bn:03654913n	http://dbpedia.org/resource/Original_(song)	http://babelnet.org/rdf/s03654913n	0.0	0.0	0.0	MCS
+205	23724	1	72	0	4101725	-----Original Message-----	2	2	14	20	bn:00054523n	http://dbpedia.org/resource/Message	http://babelnet.org/rdf/s00054523n	0.0	0.0	0.0	MCS
+205	23724	1	73	0	4101726	From : Ward , Kim S ( Houston )	2	2	7	10	bn:00080473n	http://dbpedia.org/resource/Ward_(electoral_subdivision)	http://babelnet.org/rdf/s00080473n	1.0	1.0	0.5	BABELFY
+205	23724	1	73	0	4101726	From : Ward , Kim S ( Houston )	7	7	22	28	bn:00158120n	http://dbpedia.org/resource/Houston,_Renfrewshire	http://babelnet.org/rdf/s00158120n	1.0	1.0	0.5	BABELFY
+205	23724	1	74	0	4101727	Sent : Wednesday, November 28, 2001 9:03 AM	0	0	0	3	bn:00070526n		http://babelnet.org/rdf/s00070526n	0.0	0.0	0.0	MCS
+205	23724	1	74	0	4101727	Sent : Wednesday, November 28, 2001 9:03 AM	2	2	7	15	bn:00054897n	http://dbpedia.org/resource/Wednesday	http://babelnet.org/rdf/s00054897n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	74	0	4101727	Sent : Wednesday, November 28, 2001 9:03 AM	4	4	18	25	bn:00058192n	http://dbpedia.org/resource/November	http://babelnet.org/rdf/s00058192n	1.0	1.0	0.6666667	BABELFY
+205	23724	1	74	0	4101727	Sent : Wednesday, November 28, 2001 9:03 AM	4	5	18	28	bn:01443331n	http://dbpedia.org/resource/November_28	http://babelnet.org/rdf/s01443331n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	75	0	4101728	To : Parker , Megan	2	2	5	10	bn:00010640n	http://dbpedia.org/resource/Charlie_Parker	http://babelnet.org/rdf/s00010640n	0.0	0.0	0.0	MCS
+205	23724	1	75	0	4101728	To : Parker , Megan	4	4	14	18	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	76	0	4101729	Subject : RE : City of Pasadena	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23724	1	76	0	4101729	Subject : RE : City of Pasadena	4	4	15	18	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85714287	1.0	0.54545456	BABELFY
+205	23724	1	77	0	4101730	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	6	6	26	32	bn:00026623n		http://babelnet.org/rdf/s00026623n	1.0	1.0	0.5	BABELFY
+205	23724	1	77	0	4101730	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	10	10	41	44	bn:00114626r		http://babelnet.org/rdf/s00114626r	0.0	0.0	0.0	MCS
+205	23724	1	77	0	4101730	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	12	12	50	53	bn:00014152n		http://babelnet.org/rdf/s00014152n	0.0	0.0	0.0	MCS
+205	23724	1	77	0	4101730	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	13	13	55	59	bn:00052910n	http://dbpedia.org/resource/Bully_Records	http://babelnet.org/rdf/s00052910n	0.0	0.0	0.0	MCS
+205	23724	1	77	0	4101730	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	19	19	77	82	bn:00000661n		http://babelnet.org/rdf/s00000661n	0.0	0.0	0.0	MCS
+205	23724	1	77	0	4101730	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	24	24	98	104	bn:00075759n		http://babelnet.org/rdf/s00075759n	1.0	1.0	0.5	BABELFY
+205	23724	2	77	0	4101731	All I know is what fixed priced baseload deals we have .	2	2	6	9	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	2	77	0	4101731	All I know is what fixed priced baseload deals we have .	5	5	19	23	bn:00086468v		http://babelnet.org/rdf/s00086468v	1.0	1.0	0.5	BABELFY
+205	23724	2	77	0	4101731	All I know is what fixed priced baseload deals we have .	6	6	25	30	bn:00092009v		http://babelnet.org/rdf/s00092009v	0.0	0.0	0.0	MCS
+205	23724	2	77	0	4101731	All I know is what fixed priced baseload deals we have .	8	8	41	45	bn:00008568n		http://babelnet.org/rdf/s00008568n	1.0	1.0	0.5	BABELFY
+205	23724	3	77	0	4101732	I have no idea what flows .	3	3	10	13	bn:00045800n	http://dbpedia.org/resource/Idea	http://babelnet.org/rdf/s00045800n	0.0	0.0	0.0	MCS
+205	23724	3	77	0	4101732	I have no idea what flows .	5	5	20	24	bn:00035370n	http://dbpedia.org/resource/Fluid_dynamics	http://babelnet.org/rdf/s00035370n	0.0	0.0	0.0	MCS
+205	23724	4	77	0	4101733	I hope Patti can help you soon .	1	1	2	5	bn:00089472v		http://babelnet.org/rdf/s00089472v	0.0	0.0	0.0	MCS
+205	23724	4	77	0	4101733	I hope Patti can help you soon .	4	4	17	20	bn:00082481v		http://babelnet.org/rdf/s00082481v	0.0	0.0	0.0	MCS
+205	23724	4	77	0	4101733	I hope Patti can help you soon .	6	6	26	29	bn:00114513r		http://babelnet.org/rdf/s00114513r	0.0	0.0	0.0	MCS
+205	23724	5	77	0	4101734	Let me know if you do n't hear from her today .	2	2	7	10	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	5	77	0	4101734	Let me know if you do n't hear from her today .	8	8	26	29	bn:00089277v		http://babelnet.org/rdf/s00089277v	0.0	0.0	0.0	MCS
+205	23724	5	77	0	4101734	Let me know if you do n't hear from her today .	11	11	40	44	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS
+205	23724	1	78	0	4101735	Thanks,	0	0	0	5	bn:00076768n		http://babelnet.org/rdf/s00076768n	0.0	0.0	0.0	MCS
+205	23724	1	79	0	4101736	Kim	0	0	0	2	bn:00204779n	http://dbpedia.org/resource/Kim,_Colorado	http://babelnet.org/rdf/s00204779n	0.0	0.0	0.0	MCS
+205	23724	1	80	0	4101737	-----Original Message-----	1	1	5	12	bn:03654913n	http://dbpedia.org/resource/Original_(song)	http://babelnet.org/rdf/s03654913n	0.0	0.0	0.0	MCS
+205	23724	1	80	0	4101737	-----Original Message-----	2	2	14	20	bn:00054523n	http://dbpedia.org/resource/Message	http://babelnet.org/rdf/s00054523n	0.0	0.0	0.0	MCS
+205	23724	1	81	0	4101738	From : Parker , Megan	2	2	7	12	bn:00010640n	http://dbpedia.org/resource/Charlie_Parker	http://babelnet.org/rdf/s00010640n	0.0	0.0	0.0	MCS
+205	23724	1	81	0	4101738	From : Parker , Megan	4	4	16	20	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	82	0	4101739	Sent : Wednesday, November 28, 2001 8:56 AM	0	0	0	3	bn:00070526n		http://babelnet.org/rdf/s00070526n	0.0	0.0	0.0	MCS
+205	23724	1	82	0	4101739	Sent : Wednesday, November 28, 2001 8:56 AM	2	2	7	15	bn:00054897n	http://dbpedia.org/resource/Wednesday	http://babelnet.org/rdf/s00054897n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	82	0	4101739	Sent : Wednesday, November 28, 2001 8:56 AM	4	4	18	25	bn:00058192n	http://dbpedia.org/resource/November	http://babelnet.org/rdf/s00058192n	1.0	1.0	0.6666667	BABELFY
+205	23724	1	82	0	4101739	Sent : Wednesday, November 28, 2001 8:56 AM	4	5	18	28	bn:01443331n	http://dbpedia.org/resource/November_28	http://babelnet.org/rdf/s01443331n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	83	0	4101740	To : Ward , Kim S ( Houston )	2	2	5	8	bn:00080473n	http://dbpedia.org/resource/Ward_(electoral_subdivision)	http://babelnet.org/rdf/s00080473n	1.0	1.0	0.5	BABELFY
+205	23724	1	83	0	4101740	To : Ward , Kim S ( Houston )	7	7	20	26	bn:00158120n	http://dbpedia.org/resource/Houston,_Renfrewshire	http://babelnet.org/rdf/s00158120n	1.0	1.0	0.5	BABELFY
+205	23724	1	84	0	4101741	Subject : RE : City of Pasadena	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23724	1	84	0	4101741	Subject : RE : City of Pasadena	4	4	15	18	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85714287	1.0	0.54545456	BABELFY
+205	23724	1	85	0	4101742	If I can get all of the information today , I can tell you this afternoon .	7	7	24	34	bn:00046698n		http://babelnet.org/rdf/s00046698n	0.0	0.0	0.0	MCS
+205	23724	1	85	0	4101742	If I can get all of the information today , I can tell you this afternoon .	7	8	24	40	bn:01016418n	http://dbpedia.org/resource/Information_Today,_Inc.	http://babelnet.org/rdf/s01016418n	1.0	0.5	0.13333334	BABELFY
+205	23724	1	85	0	4101742	If I can get all of the information today , I can tell you this afternoon .	8	8	36	40	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS
+205	23724	1	85	0	4101742	If I can get all of the information today , I can tell you this afternoon .	12	12	50	53	bn:00094862v		http://babelnet.org/rdf/s00094862v	0.0	0.0	0.0	MCS
+205	23724	1	85	0	4101742	If I can get all of the information today , I can tell you this afternoon .	15	15	64	72	bn:00001875n	http://dbpedia.org/resource/Afternoon	http://babelnet.org/rdf/s00001875n	0.0	0.0	0.0	MCS
+205	23724	2	85	0	4101743	It does n't take long to create the calc sheets .	5	5	17	20	bn:00106124a		http://babelnet.org/rdf/s00106124a	0.0	0.0	0.0	MCS
+205	23724	2	85	0	4101743	It does n't take long to create the calc sheets .	7	7	25	30	bn:00086008v		http://babelnet.org/rdf/s00086008v	0.0	0.0	0.0	MCS
+205	23724	2	85	0	4101743	It does n't take long to create the calc sheets .	9	9	36	39	bn:00852222n	http://dbpedia.org/resource/Anglo-Saxon_runes	http://babelnet.org/rdf/s00852222n	0.0	0.0	0.0	MCS
+205	23724	2	85	0	4101743	It does n't take long to create the calc sheets .	10	10	41	46	bn:00070981n		http://babelnet.org/rdf/s00070981n	0.0	0.0	0.0	MCS
+205	23724	3	85	0	4101744	I understand from Janine that you or Patti can provide me with the detail that I need .	1	1	2	11	bn:00095375v		http://babelnet.org/rdf/s00095375v	0.0	0.0	0.0	MCS
+205	23724	3	85	0	4101744	I understand from Janine that you or Patti can provide me with the detail that I need .	9	9	47	53	bn:00084692v		http://babelnet.org/rdf/s00084692v	1.0	1.0	0.5	BABELFY
+205	23724	3	85	0	4101744	I understand from Janine that you or Patti can provide me with the detail that I need .	13	13	67	72	bn:00026623n		http://babelnet.org/rdf/s00026623n	0.0	0.0	0.0	MCS
+205	23724	3	85	0	4101744	I understand from Janine that you or Patti can provide me with the detail that I need .	16	16	81	84	bn:00091028v		http://babelnet.org/rdf/s00091028v	1.0	1.0	0.5	BABELFY
+205	23724	4	85	0	4101745	If necessary , I can come pick it up .	1	1	3	11	bn:00107182a		http://babelnet.org/rdf/s00107182a	0.0	0.0	0.0	MCS
+205	23724	4	85	0	4101745	If necessary , I can come pick it up .	5	5	21	24	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS
+205	23724	4	85	0	4101745	If necessary , I can come pick it up .	6	6	26	29	bn:00091590v		http://babelnet.org/rdf/s00091590v	0.0	0.0	0.0	MCS
+205	23724	5	85	0	4101746	I have sent Patti a list .	2	2	7	10	bn:00093485v		http://babelnet.org/rdf/s00093485v	0.0	0.0	0.0	MCS
+205	23724	5	85	0	4101746	I have sent Patti a list .	5	5	20	23	bn:00051508n	http://dbpedia.org/resource/Listing_(computer)	http://babelnet.org/rdf/s00051508n	0.0	0.0	0.0	MCS
+205	23724	1	86	0	4101747	For payment , we have to forecast the money two days out .	1	1	4	10	bn:00061119n	http://dbpedia.org/resource/Payment	http://babelnet.org/rdf/s00061119n	0.0	0.0	0.0	MCS
+205	23724	1	86	0	4101747	For payment , we have to forecast the money two days out .	4	5	17	23	bn:13601282v		http://babelnet.org/rdf/s13601282v	0.0	0.0	0.0	MCS
+205	23724	1	86	0	4101747	For payment , we have to forecast the money two days out .	6	6	25	32	bn:00082929v		http://babelnet.org/rdf/s00082929v	1.0	0.33333334	0.1	BABELFY
+205	23724	1	86	0	4101747	For payment , we have to forecast the money two days out .	8	8	38	42	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	1.0	0.33333334	0.4	BABELFY
+205	23724	1	86	0	4101747	For payment , we have to forecast the money two days out .	10	10	48	51	bn:00025424n		http://babelnet.org/rdf/s00025424n	1.0	0.33333334	0.1	BABELFY
+205	23724	1	86	0	4101747	For payment , we have to forecast the money two days out .	10	11	48	55	bn:13688692n		http://babelnet.org/rdf/s13688692n	0.0	0.0	0.0	MCS
+205	23724	2	86	0	4101748	So , if I know today , I can pay on Friday .	4	4	10	13	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	2	86	0	4101748	So , if I know today , I can pay on Friday .	5	5	15	19	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS
+205	23724	2	86	0	4101748	So , if I know today , I can pay on Friday .	9	9	29	31	bn:00091493v		http://babelnet.org/rdf/s00091493v	0.0	0.0	0.0	MCS
+205	23724	2	86	0	4101748	So , if I know today , I can pay on Friday .	11	11	36	41	bn:00036512n	http://dbpedia.org/resource/Friday	http://babelnet.org/rdf/s00036512n	1.0	1.0	0.5	BABELFY
+205	23724	1	87	0	4101749	Megan	0	0	0	4	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	88	0	4101750	-----Original Message-----	1	1	5	12	bn:03654913n	http://dbpedia.org/resource/Original_(song)	http://babelnet.org/rdf/s03654913n	0.0	0.0	0.0	MCS
+205	23724	1	88	0	4101750	-----Original Message-----	2	2	14	20	bn:00054523n	http://dbpedia.org/resource/Message	http://babelnet.org/rdf/s00054523n	0.0	0.0	0.0	MCS
+205	23724	1	89	0	4101751	From : Ward , Kim S ( Houston )	2	2	7	10	bn:00080473n	http://dbpedia.org/resource/Ward_(electoral_subdivision)	http://babelnet.org/rdf/s00080473n	1.0	1.0	0.5	BABELFY
+205	23724	1	89	0	4101751	From : Ward , Kim S ( Houston )	7	7	22	28	bn:00158120n	http://dbpedia.org/resource/Houston,_Renfrewshire	http://babelnet.org/rdf/s00158120n	1.0	1.0	0.5	BABELFY
+205	23724	1	90	0	4101752	Sent : Wednesday, November 28, 2001 8:42 AM	0	0	0	3	bn:00070526n		http://babelnet.org/rdf/s00070526n	0.0	0.0	0.0	MCS
+205	23724	1	90	0	4101752	Sent : Wednesday, November 28, 2001 8:42 AM	2	2	7	15	bn:00054897n	http://dbpedia.org/resource/Wednesday	http://babelnet.org/rdf/s00054897n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	90	0	4101752	Sent : Wednesday, November 28, 2001 8:42 AM	4	4	18	25	bn:00058192n	http://dbpedia.org/resource/November	http://babelnet.org/rdf/s00058192n	1.0	1.0	0.6666667	BABELFY
+205	23724	1	90	0	4101752	Sent : Wednesday, November 28, 2001 8:42 AM	4	5	18	28	bn:01443331n	http://dbpedia.org/resource/November_28	http://babelnet.org/rdf/s01443331n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	91	0	4101753	To : Parker , Megan	2	2	5	10	bn:00010640n	http://dbpedia.org/resource/Charlie_Parker	http://babelnet.org/rdf/s00010640n	0.0	0.0	0.0	MCS
+205	23724	1	91	0	4101753	To : Parker , Megan	4	4	14	18	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	92	0	4101754	Subject : RE : City of Pasadena	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23724	1	92	0	4101754	Subject : RE : City of Pasadena	4	4	15	18	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85714287	1.0	0.54545456	BABELFY
+205	23724	1	93	0	4101755	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	0	0	0	5	bn:00076768n		http://babelnet.org/rdf/s00076768n	0.0	0.0	0.0	MCS
+205	23724	1	93	0	4101755	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	2	3	11	17	bn:13715558r		http://babelnet.org/rdf/s13715558r	0.0	0.0	0.0	MCS
+205	23724	1	93	0	4101755	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	5	5	23	29	bn:00095812v		http://babelnet.org/rdf/s00095812v	0.0	0.0	0.0	MCS
+205	23724	1	93	0	4101755	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	5	6	23	32	bn:00095823v		http://babelnet.org/rdf/s00095823v	0.0	0.0	0.0	MCS
+205	23724	1	93	0	4101755	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	9	9	43	46	bn:00102802a		http://babelnet.org/rdf/s00102802a	1.0	0.5	0.027777778	BABELFY
+205	23724	1	93	0	4101755	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	17	17	74	81	bn:00064072n		http://babelnet.org/rdf/s00064072n	0.0	0.0	0.0	MCS
+205	23724	2	93	0	4101756	However , as you know , the less cash outlay that we have right now the better .	4	4	17	20	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	2	93	0	4101756	However , as you know , the less cash outlay that we have right now the better .	8	8	33	36	bn:00016448n	http://dbpedia.org/resource/Cash	http://babelnet.org/rdf/s00016448n	0.0	0.0	0.0	MCS
+205	23724	2	93	0	4101756	However , as you know , the less cash outlay that we have right now the better .	9	9	38	43	bn:00032300n		http://babelnet.org/rdf/s00032300n	0.0	0.0	0.0	MCS
+205	23724	2	93	0	4101756	However , as you know , the less cash outlay that we have right now the better .	13	13	58	62	bn:00116860r		http://babelnet.org/rdf/s00116860r	0.0	0.0	0.0	MCS
+205	23724	2	93	0	4101756	However , as you know , the less cash outlay that we have right now the better .	13	14	58	66	bn:13763778r		http://babelnet.org/rdf/s13763778r	0.0	0.0	0.0	MCS
+205	23724	2	93	0	4101756	However , as you know , the less cash outlay that we have right now the better .	16	16	72	77	bn:00098282a		http://babelnet.org/rdf/s00098282a	0.0	0.0	0.0	MCS
+205	23724	3	93	0	4101757	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	1	1	5	8	bn:00026014n	http://dbpedia.org/resource/Wait_(system_call)	http://babelnet.org/rdf/s00026014n	0.0	0.0	0.0	MCS
+205	23724	3	93	0	4101757	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	3	3	14	16	bn:00082844v		http://babelnet.org/rdf/s00082844v	0.0	0.0	0.0	MCS
+205	23724	3	93	0	4101757	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	5	5	21	26	bn:00085889v		http://babelnet.org/rdf/s00085889v	0.0	0.0	0.0	MCS
+205	23724	3	93	0	4101757	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	9	9	42	44	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	3	93	0	4101757	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	14	14	66	68	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	3	93	0	4101757	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	19	19	80	82	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS
+205	23724	3	93	0	4101757	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	20	20	84	87	bn:00095593v		http://babelnet.org/rdf/s00095593v	0.0	0.0	0.0	MCS
+205	23724	3	93	0	4101757	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	24	24	103	106	bn:00048548n	http://dbpedia.org/resource/July	http://babelnet.org/rdf/s00048548n	1.0	0.33333334	0.13636364	BABELFY
+205	23724	3	93	0	4101757	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	26	26	112	117	bn:00007140n	http://dbpedia.org/resource/August	http://babelnet.org/rdf/s00007140n	0.0	0.0	0.0	MCS
+205	23724	4	93	0	4101758	What do you think the time frame is on this ?	3	3	12	16	bn:00083370v		http://babelnet.org/rdf/s00083370v	0.0	0.0	0.0	MCS
+205	23724	4	93	0	4101758	What do you think the time frame is on this ?	5	5	22	25	bn:00077270n	http://dbpedia.org/resource/Time	http://babelnet.org/rdf/s00077270n	0.75	1.0	0.54545456	BABELFY
+205	23724	4	93	0	4101758	What do you think the time frame is on this ?	5	6	22	31	bn:00077287n		http://babelnet.org/rdf/s00077287n	1.0	0.33333334	0.06818182	BABELFY
+205	23724	4	93	0	4101758	What do you think the time frame is on this ?	6	6	27	31	bn:00036182n		http://babelnet.org/rdf/s00036182n	0.0	0.0	0.0	MCS
+205	23724	5	93	0	4101759	And when would be the earliest that we would make the payment ?	5	5	22	29	bn:00101934a		http://babelnet.org/rdf/s00101934a	0.0	0.0	0.0	MCS
+205	23724	5	93	0	4101759	And when would be the earliest that we would make the payment ?	11	11	54	60	bn:00061119n	http://dbpedia.org/resource/Payment	http://babelnet.org/rdf/s00061119n	0.0	0.0	0.0	MCS
+205	23724	1	94	0	4101760	Thanks,	0	0	0	5	bn:00076768n		http://babelnet.org/rdf/s00076768n	0.0	0.0	0.0	MCS
+205	23724	1	95	0	4101761	Kim	0	0	0	2	bn:00204779n	http://dbpedia.org/resource/Kim,_Colorado	http://babelnet.org/rdf/s00204779n	0.0	0.0	0.0	MCS
+205	23724	1	96	0	4101762	-----Original Message-----	1	1	5	12	bn:03654913n	http://dbpedia.org/resource/Original_(song)	http://babelnet.org/rdf/s03654913n	0.0	0.0	0.0	MCS
+205	23724	1	96	0	4101762	-----Original Message-----	2	2	14	20	bn:00054523n	http://dbpedia.org/resource/Message	http://babelnet.org/rdf/s00054523n	0.0	0.0	0.0	MCS
+205	23724	1	97	0	4101763	From : Parker , Megan	2	2	7	12	bn:00010640n	http://dbpedia.org/resource/Charlie_Parker	http://babelnet.org/rdf/s00010640n	0.0	0.0	0.0	MCS
+205	23724	1	97	0	4101763	From : Parker , Megan	4	4	16	20	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS
+205	23724	1	98	0	4101764	Sent : Wednesday, November 28, 2001 8:38 AM	0	0	0	3	bn:00070526n		http://babelnet.org/rdf/s00070526n	0.0	0.0	0.0	MCS
+205	23724	1	98	0	4101764	Sent : Wednesday, November 28, 2001 8:38 AM	2	2	7	15	bn:00054897n	http://dbpedia.org/resource/Wednesday	http://babelnet.org/rdf/s00054897n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	98	0	4101764	Sent : Wednesday, November 28, 2001 8:38 AM	4	4	18	25	bn:00058192n	http://dbpedia.org/resource/November	http://babelnet.org/rdf/s00058192n	1.0	1.0	0.6666667	BABELFY
+205	23724	1	98	0	4101764	Sent : Wednesday, November 28, 2001 8:38 AM	4	5	18	28	bn:01443331n	http://dbpedia.org/resource/November_28	http://babelnet.org/rdf/s01443331n	1.0	0.5	0.16666667	BABELFY
+205	23724	1	99	0	4101765	To : Ward , Kim S ( Houston )	2	2	5	8	bn:00080473n	http://dbpedia.org/resource/Ward_(electoral_subdivision)	http://babelnet.org/rdf/s00080473n	1.0	1.0	0.5	BABELFY
+205	23724	1	99	0	4101765	To : Ward , Kim S ( Houston )	7	7	20	26	bn:00158120n	http://dbpedia.org/resource/Houston,_Renfrewshire	http://babelnet.org/rdf/s00158120n	1.0	1.0	0.5	BABELFY
+205	23724	1	100	0	4101766	Subject : City of Pasadena	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23724	1	100	0	4101766	Subject : City of Pasadena	2	2	10	13	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85714287	1.0	0.54545456	BABELFY
+205	23724	1	100	0	4101766	Subject : City of Pasadena	2	3	10	16	bn:01630389n	http://dbpedia.org/resource/City_Of	http://babelnet.org/rdf/s01630389n	0.0	0.0	0.0	MCS
+205	23724	1	100	0	4101766	Subject : City of Pasadena	4	4	18	25	bn:00060856n		http://babelnet.org/rdf/s00060856n	0.0	0.0	0.0	MCS
+205	23724	1	101	0	4101767	Kim :	0	0	0	2	bn:00204779n	http://dbpedia.org/resource/Kim,_Colorado	http://babelnet.org/rdf/s00204779n	0.0	0.0	0.0	MCS
+205	23724	1	102	0	4101768	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	2	2	7	15	bn:00085476v		http://babelnet.org/rdf/s00085476v	1.0	0.16666667	0.013157895	BABELFY
+205	23724	1	102	0	4101768	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	4	4	21	28	bn:02878224n	http://dbpedia.org/resource/Invoice_(company)	http://babelnet.org/rdf/s02878224n	1.0	0.16666667	0.013157895	BABELFY
+205	23724	1	102	0	4101768	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	6	6	34	38	bn:00005169n	http://dbpedia.org/resource/April	http://babelnet.org/rdf/s00005169n	0.85714287	0.33333334	0.15789473	BABELFY
+205	23724	1	102	0	4101768	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	10	10	49	52	bn:00048592n	http://dbpedia.org/resource/June	http://babelnet.org/rdf/s00048592n	0.9142857	0.6666667	0.42105263	BABELFY
+205	23724	1	102	0	4101768	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	13	13	61	63	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	1	102	0	4101768	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	14	14	65	72	bn:00562217n	http://dbpedia.org/resource/Pasadena,_Texas	http://babelnet.org/rdf/s00562217n	0.8	0.33333334	0.05263158	BABELFY
+205	23724	1	102	0	4101768	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	16	16	79	83	bn:00014710n	http://dbpedia.org/resource/Month	http://babelnet.org/rdf/s00014710n	0.7894737	0.5	0.19736843	BABELFY
+205	23724	1	102	0	4101768	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	19	19	91	95	bn:00002008n		http://babelnet.org/rdf/s00002008n	1.0	0.16666667	0.013157895	BABELFY
+205	23724	2	102	0	4101769	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	2	2	5	11	bn:00089401v		http://babelnet.org/rdf/s00089401v	1.0	1.0	0.5	BABELFY
+205	23724	2	102	0	4101769	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	4	4	16	19	bn:00089277v		http://babelnet.org/rdf/s00089277v	0.0	0.0	0.0	MCS
+205	23724	2	102	0	4101769	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	11	11	48	51	bn:00048592n	http://dbpedia.org/resource/June	http://babelnet.org/rdf/s00048592n	0.0	0.0	0.0	MCS
+205	23724	2	102	0	4101769	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	13	14	56	64	bn:00090585v		http://babelnet.org/rdf/s00090585v	1.0	1.0	0.5	BABELFY
+205	23724	2	102	0	4101769	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	14	14	61	64	bn:00099475a		http://babelnet.org/rdf/s00099475a	0.0	0.0	0.0	MCS
+205	23724	2	102	0	4101769	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	17	17	75	78	bn:00096817a		http://babelnet.org/rdf/s00096817a	0.0	0.0	0.0	MCS
+205	23724	3	102	0	4101770	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	2	2	7	10	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS
+205	23724	3	102	0	4101770	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	5	5	18	20	bn:00091494v		http://babelnet.org/rdf/s00091494v	0.9	0.3	0.056962024	BABELFY
+205	23724	3	102	0	4101770	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	6	6	22	29	bn:00562217n	http://dbpedia.org/resource/Pasadena,_Texas	http://babelnet.org/rdf/s00562217n	0.8	0.2	0.025316456	BABELFY
+205	23724	3	102	0	4101770	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	8	8	34	39	bn:00036512n	http://dbpedia.org/resource/Friday	http://babelnet.org/rdf/s00036512n	1.0	0.1	0.01898734	BABELFY
+205	23724	3	102	0	4101770	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	11	11	51	56	bn:00014710n	http://dbpedia.org/resource/Month	http://babelnet.org/rdf/s00014710n	0.7804878	0.4	0.20253165	BABELFY
+205	23724	3	102	0	4101770	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	15	15	68	71	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS
+205	23724	3	102	0	4101770	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	18	18	79	82	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS
+205	23724	3	102	0	4101770	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	18	19	79	86	bn:00089401v		http://babelnet.org/rdf/s00089401v	1.0	0.2	0.025316456	BABELFY
+205	23724	3	102	0	4101770	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	22	22	96	101	bn:00085475v		http://babelnet.org/rdf/s00085475v	0.0	0.0	0.0	MCS
+205	23724	3	102	0	4101770	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	23	23	103	106	bn:00048548n	http://dbpedia.org/resource/July	http://babelnet.org/rdf/s00048548n	1.0	0.3	0.1329114	BABELFY
+205	23724	3	102	0	4101770	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	25	25	112	117	bn:00007140n	http://dbpedia.org/resource/August	http://babelnet.org/rdf/s00007140n	0.8181818	0.3	0.11392405	BABELFY
+205	23724	4	102	0	4101771	Again , I do not have all of the information for July and August , so I can not give you any numbers .	9	9	33	43	bn:00046698n		http://babelnet.org/rdf/s00046698n	0.0	0.0	0.0	MCS
+205	23724	4	102	0	4101771	Again , I do not have all of the information for July and August , so I can not give you any numbers .	11	11	49	52	bn:00048548n	http://dbpedia.org/resource/July	http://babelnet.org/rdf/s00048548n	1.0	0.6666667	0.30769232	BABELFY
+205	23724	4	102	0	4101771	Again , I do not have all of the information for July and August , so I can not give you any numbers .	13	13	58	63	bn:00007140n	http://dbpedia.org/resource/August	http://babelnet.org/rdf/s00007140n	0.0	0.0	0.0	MCS
+205	23724	4	102	0	4101771	Again , I do not have all of the information for July and August , so I can not give you any numbers .	22	22	93	99	bn:00034394n		http://babelnet.org/rdf/s00034394n	0.0	0.0	0.0	MCS
+205	23724	5	102	0	4101772	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	2	3	5	9	bn:00087513v		http://babelnet.org/rdf/s00087513v	0.0	0.0	0.0	MCS
+205	23724	5	102	0	4101772	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	6	6	19	27	bn:00114905r		http://babelnet.org/rdf/s00114905r	0.0	0.0	0.0	MCS
+205	23724	5	102	0	4101772	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	9	9	36	41	bn:03010775n	http://dbpedia.org/resource/System_programming	http://babelnet.org/rdf/s03010775n	1.0	1.0	0.5	BABELFY
+205	23724	5	102	0	4101772	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	12	12	48	52	bn:14490007n	http://dbpedia.org/resource/GUIDE_International	http://babelnet.org/rdf/s14490007n	1.0	1.0	0.5	BABELFY
+205	23724	5	102	0	4101772	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	16	16	71	73	bn:00091360v		http://babelnet.org/rdf/s00091360v	0.0	0.0	0.0	MCS
+205	23724	5	102	0	4101772	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	23	23	98	100	bn:00054918n	http://dbpedia.org/resource/Mill_(currency)	http://babelnet.org/rdf/s00054918n	0.0	0.0	0.0	MCS
+205	23724	6	102	0	4101773	I need to forecast the money today , so please let me know what you would like to do .	1	1	2	5	bn:00091028v		http://babelnet.org/rdf/s00091028v	0.8	0.6666667	0.26666668	BABELFY
+205	23724	6	102	0	4101773	I need to forecast the money today , so please let me know what you would like to do .	3	3	10	17	bn:00084375v		http://babelnet.org/rdf/s00084375v	0.0	0.0	0.0	MCS
+205	23724	6	102	0	4101773	I need to forecast the money today , so please let me know what you would like to do .	5	5	23	27	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	0.85714287	0.6666667	0.4	BABELFY
+205	23724	6	102	0	4101773	I need to forecast the money today , so please let me know what you would like to do .	6	6	29	33	bn:01575963n	http://dbpedia.org/resource/Today_(U.S._TV_program)	http://babelnet.org/rdf/s01575963n	1.0	0.33333334	0.06666667	BABELFY
+205	23724	6	102	0	4101773	I need to forecast the money today , so please let me know what you would like to do .	10	10	47	49	bn:00082536v		http://babelnet.org/rdf/s00082536v	0.0	0.0	0.0	MCS
+205	23724	6	102	0	4101773	I need to forecast the money today , so please let me know what you would like to do .	12	12	54	57	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23724	6	102	0	4101773	I need to forecast the money today , so please let me know what you would like to do .	16	16	74	77	bn:00084526v		http://babelnet.org/rdf/s00084526v	0.0	0.0	0.0	MCS
+205	23724	1	103	0	4101774	FYI-I will be out of the office all next week .	6	6	25	30	bn:00014169n		http://babelnet.org/rdf/s00014169n	0.0	0.0	0.0	MCS
+205	23724	1	103	0	4101774	FYI-I will be out of the office all next week .	9	9	41	44	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS
+205	23724	1	104	0	4101775	Megan	0	0	0	4	bn:03498787n	http://dbpedia.org/resource/Megan	http://babelnet.org/rdf/s03498787n	0.0	0.0	0.0	MCS

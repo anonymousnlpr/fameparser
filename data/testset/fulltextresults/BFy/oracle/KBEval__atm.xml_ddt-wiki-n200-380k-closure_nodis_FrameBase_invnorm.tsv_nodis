@@ -1,0 +1,16 @@
+filename	KBEval__atm.xml
+docAnnotations	353
+docManual	199
+docUnannotated	154
+sentences	152
+paragraphs	37
+Overlapping	126
+Disambiguated	88
+TP	86
+TN	154
+FP	0
+FN	111
+P	1.0
+R	0.4365482233502538
+F	0.607773851590106
+A	0.6837606837606838

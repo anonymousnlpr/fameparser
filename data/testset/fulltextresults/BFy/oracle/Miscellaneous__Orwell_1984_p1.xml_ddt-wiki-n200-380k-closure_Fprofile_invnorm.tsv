@@ -1,0 +1,16 @@
+filename	Miscellaneous__Orwell_1984_p1.xml
+docAnnotations	155
+docManual	130
+docUnannotated	25
+sentences	19
+paragraphs	3
+Overlapping	89
+Disambiguated	55
+TP	36
+TN	25
+FP	0
+FN	75
+P	1.0
+R	0.32432432432432434
+F	0.489795918367347
+A	0.4485294117647059

@@ -1,0 +1,16 @@
+filename	Miscellaneous__Examples4-5.xml
+docAnnotations	98
+docManual	85
+docUnannotated	13
+sentences	13
+paragraphs	9
+Overlapping	77
+Disambiguated	49
+TP	34
+TN	13
+FP	0
+FN	36
+P	1.0
+R	0.4857142857142857
+F	0.6538461538461539
+A	0.5662650602409639

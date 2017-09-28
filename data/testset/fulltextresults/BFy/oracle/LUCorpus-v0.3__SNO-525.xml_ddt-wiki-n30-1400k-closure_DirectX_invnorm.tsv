@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__SNO-525.xml
+docAnnotations	156
+docManual	79
+docUnannotated	77
+sentences	75
+paragraphs	59
+Overlapping	57
+Disambiguated	39
+TP	29
+TN	77
+FP	0
+FN	40
+P	1.0
+R	0.42028985507246375
+F	0.5918367346938774
+A	0.726027397260274

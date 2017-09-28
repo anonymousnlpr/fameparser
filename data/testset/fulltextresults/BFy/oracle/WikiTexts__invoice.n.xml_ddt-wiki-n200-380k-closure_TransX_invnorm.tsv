@@ -1,0 +1,16 @@
+filename	WikiTexts__invoice.n.xml
+docAnnotations	94
+docManual	2
+docUnannotated	92
+sentences	90
+paragraphs	9
+Overlapping	2
+Disambiguated	1
+TP	0
+TN	92
+FP	0
+FN	1
+P	0.0
+R	0.0
+F	0.0
+A	0.989247311827957

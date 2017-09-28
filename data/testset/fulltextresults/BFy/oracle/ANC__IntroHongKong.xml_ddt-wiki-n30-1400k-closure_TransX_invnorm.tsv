@@ -1,0 +1,16 @@
+filename	ANC__IntroHongKong.xml
+docAnnotations	306
+docManual	263
+docUnannotated	43
+sentences	39
+paragraphs	12
+Overlapping	189
+Disambiguated	161
+TP	109
+TN	43
+FP	0
+FN	102
+P	1.0
+R	0.5165876777251185
+F	0.6812499999999999
+A	0.5984251968503937

@@ -1,0 +1,16 @@
+filename	NTI__Russia_Introduction.xml
+docAnnotations	295
+docManual	248
+docUnannotated	47
+sentences	41
+paragraphs	10
+Overlapping	232
+Disambiguated	130
+TP	98
+TN	47
+FP	0
+FN	118
+P	1.0
+R	0.4537037037037037
+F	0.6242038216560509
+A	0.5513307984790875

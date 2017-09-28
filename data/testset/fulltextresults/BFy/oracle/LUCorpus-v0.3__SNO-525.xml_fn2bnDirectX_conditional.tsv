@@ -1,0 +1,457 @@
+SILVER:205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	5273	call.n	286	Contacting	MANUAL	6547885	46	49	KmG	call
+LINKED:[13	13	46	49	bn:00014791n	http://dbpedia.org/resource/Telephone_call	http://babelnet.org/rdf/s00014791n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20128 ===
+	Contacting: 0.01149425287356323
+
+SELECTED:[Contacting]
+MATCH!
+SILVER:205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	12630	issue.n	1608	Point_of_dispute	MANUAL	6547887	70	75	KmG	issues
+LINKED:[20	20	70	75	bn:00047688n		http://babelnet.org/rdf/s00047688n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20130 ===
+	Point_of_dispute: 0.06666666666666668
+
+SELECTED:[Point_of_dispute]
+MATCH!
+SILVER:205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	4056	tomorrow.n	229	Calendric_unit	MANUAL	6547888	81	88	KmG	tomorrow
+LINKED:[22	22	81	88	bn:00077549n		http://babelnet.org/rdf/s00077549n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20132 ===
+	Measure_duration: 0.012195121951219504
+	Calendric_unit: 0.007194244604316565
+	Timespan: 0.004566210045662128
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23728	1	12	0	4101881	12 Bill : You ready for some issues ?	12293	ready.a	169	Activity_ready_state	MANUAL	6547889	14	18	KmG	ready
+LINKED:[4	4	14	18	bn:00109485a		http://babelnet.org/rdf/s00109485a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20134 ===
+	Activity_ready_state: 0.5
+
+SELECTED:[Activity_ready_state]
+MATCH!
+SILVER:205	23728	1	12	0	4101881	12 Bill : You ready for some issues ?	12630	issue.n	1608	Point_of_dispute	MANUAL	6547891	29	34	KmG	issues
+LINKED:[7	7	29	34	bn:00047688n		http://babelnet.org/rdf/s00047688n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20136 ===
+	Point_of_dispute: 0.06666666666666668
+
+SELECTED:[Point_of_dispute]
+MATCH!
+SILVER:205	23728	1	13	0	4101883	13 RICH : Um , I got a couple more hours .	8078	couple.n	218	Cardinal_numbers	MANUAL	6547892	23	28	KmG	couple
+LINKED:[8	8	23	28	bn:00023270n		http://babelnet.org/rdf/s00023270n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20138 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	13	0	4101883	13 RICH : Um , I got a couple more hours .	3872	hour.n	224	Measure_duration	MANUAL	6547894	35	39	KmG	hours
+LINKED:[10	10	35	39	bn:00000127n	http://dbpedia.org/resource/Hour	http://babelnet.org/rdf/s00000127n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20140 ===
+	Measure_duration: 0.012195121951219504
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:205	23728	1	14	0	4101885	14 BILL : Good .	6287	good.a	354	Desirability	MANUAL	6547895	10	13	KmG	Good
+LINKED:[3	3	10	13	bn:00021045n	http://dbpedia.org/resource/Commodity	http://babelnet.org/rdf/s00021045n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 20142 ===
+	Commerce_scenario: 0.0158730158730159
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	2	15	0	4101887	I 've g - I 've got pen and paper .	11073	have	118	Possession	MANUAL	6547897	16	18	KmG	got
+LINKED:[6	6	16	18	bn:13677111v		http://babelnet.org/rdf/s13677111v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20144 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	2	16	0	4101889	I 'm n - this is gon na be a word of mouth kind of thing .	2684	mouth.n	119	Body_parts	MANUAL	6547898	37	41	KmG	mouth
+LINKED:[12	12	37	41	bn:00056135n	http://dbpedia.org/resource/Mouth	http://babelnet.org/rdf/s00056135n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20146 ===
+	Shaped_part: 0.02499999999999999
+	Relational_natural_features: 0.009009009009008997
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	2	16	0	4101889	I 'm n - this is gon na be a word of mouth kind of thing .	2557	kind.n	128	Type	MANUAL	6547900	43	46	KmG	kind
+LINKED:[13	13	43	46	bn:00035907n		http://babelnet.org/rdf/s00035907n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20148 ===
+	Type: 0.024390243902439015
+	Categorization: 0.007751937984496112
+	Differentiation: 0.004608294930875591
+
+SELECTED:[Type]
+MATCH!
+SILVER:205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	4483	finish.v	165	Activity_finish	MANUAL	6547902	39	44	KmG	finish
+LINKED:[11	11	39	44	bn:00085475v		http://babelnet.org/rdf/s00085475v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20150 ===
+	Activity_finish: 0.04999999999999999
+	Cause_to_end: 0.03703703703703706
+	Activity_stop: 0.027027027027027053
+
+SELECTED:[Activity_finish]
+MATCH!
+SILVER:205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	10604	normal.a	1134	Typicality	MANUAL	6547903	51	56	KmG	normal
+LINKED:[13	13	51	56	bn:00107587a		http://babelnet.org/rdf/s00107587a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20152 ===
+	Typicality: 0.01492537313432834
+
+SELECTED:[Typicality]
+MATCH!
+SILVER:205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	5142	hour.n	229	Calendric_unit	MANUAL	6547904	70	73	KmG	hour
+LINKED:[18	18	70	73	bn:00000127n	http://dbpedia.org/resource/Hour	http://babelnet.org/rdf/s00000127n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20154 ===
+	Measure_duration: 0.012195121951219504
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	19	0	4101892	19 RICH : Right .	12273	right.a	1512	Correctness	MANUAL	6547907	10	14	KmG	Right
+LINKED:[3	3	10	14	bn:00031712n	http://dbpedia.org/resource/Ethics	http://babelnet.org/rdf/s00031712n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 20156 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	20	0	4101893	20 BILL : - it 'll actually be tomorrow -	4056	tomorrow.n	229	Calendric_unit	MANUAL	6547908	31	38	KmG	tomorrow
+LINKED:[8	8	31	38	bn:00077549n		http://babelnet.org/rdf/s00077549n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20158 ===
+	Measure_duration: 0.012195121951219504
+	Calendric_unit: 0.007194244604316565
+	Timespan: 0.004566210045662128
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23728	1	21	0	4101894	21 RICH : Right .	12273	right.a	1512	Correctness	MANUAL	6547909	10	14	KmG	Right
+LINKED:[3	3	10	14	bn:00031712n	http://dbpedia.org/resource/Ethics	http://babelnet.org/rdf/s00031712n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 20160 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	22	0	4101895	22 BILL : - ah , we want you guys to get a little creative -	6412	want.v	366	Desiring	MANUAL	6547910	20	23	KmG	want
+LINKED:[7	7	20	23	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20162 ===
+	Desiring: 0.013513513513513533
+	Possession: 0.008695652173913066
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:205	23728	1	22	0	4101895	22 BILL : - ah , we want you guys to get a little creative -	5520	guy.n	304	People	MANUAL	6547911	29	32	KmG	guys
+LINKED:[9	9	29	32	bn:00001533n	http://dbpedia.org/resource/Man	http://babelnet.org/rdf/s00001533n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 20164 ===
+	People_by_age: 0.009803921568627465
+	People: 2.549069589599635E-4
+
+SELECTED:[People]
+MATCH!
+SILVER:205	23728	1	24	0	4101897	24 BILL : - and come up with a reason to go down .	8054	reason.n	514	Reason	MANUAL	6547913	31	36	KmG	reason
+LINKED:[9	9	31	36	bn:00016851n		http://babelnet.org/rdf/s00016851n	1.0	0.6666667	0.034188036	BABELFY]
+RANK:=== COUNTER  Counter 20166 ===
+	Talking_into: 0.02173913043478262
+	Transitive_action: 0.019607843137254888
+	Causation: 0.005617977528089876
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	24	0	4101897	24 BILL : - and come up with a reason to go down .	5186	come	27	Coming_up_with	MANUAL	6548935	16	19	KmG	come
+LINKED:[5	5	16	19	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20168 ===
+	Arriving: 0.01149425287356323
+	Motion: 0.00537634408602151
+	Travel: 0.004201680672268917
+	Cause_change_of_position_on_a_scale: 0.0028248587570621386
+	Change_position_on_a_scale: 0.002793296089385457
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	26	0	4101899	26 BILL : Anything you want to do over there ?	6412	want.v	366	Desiring	MANUAL	6547914	23	26	KmG	want
+LINKED:[5	5	23	26	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20170 ===
+	Desiring: 0.013513513513513533
+	Possession: 0.008695652173913066
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:205	23728	1	30	0	4101906	30 BILL : That 's good .	6287	good.a	354	Desirability	MANUAL	6547919	18	21	KmG	good
+LINKED:[5	5	18	21	bn:00103672a		http://babelnet.org/rdf/s00103672a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20172 ===
+	Usefulness: 0.028571428571428564
+	Desirability: 0.020408163265306107
+	Social_interaction_evaluation: 0.017857142857142835
+	Expertise: 0.006024096385542183
+
+SELECTED:[Desirability]
+MATCH!
+SILVER:205	23728	1	31	0	4101907	1 RICH : Right .	12273	right.a	1512	Correctness	MANUAL	6547920	9	13	KmG	Right
+LINKED:[3	3	9	13	bn:00031712n	http://dbpedia.org/resource/Ethics	http://babelnet.org/rdf/s00031712n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 20174 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	32	0	4101908	2 BILL : It 's supposed to be , ah , you know , kinda one of those things .	13546	be	1381	Required_event	MANUAL	6547921	15	22	KmG	supposed
+LINKED:[5	5	15	22	bn:00093288v		http://babelnet.org/rdf/s00093288v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20176 ===
+	Coming_to_believe: 0.01030927835051548
+	Statement: 0.002123142250530786
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	33	0	4101909	3 RICH : OK , so we 're just comin ' down for some maintenance , like a forced outage type thing ?	12166	maintenance.n	164	Activity_ongoing	MANUAL	6547923	51	61	KmG	maintenance
+LINKED:[13	13	51	61	bn:00016016n		http://babelnet.org/rdf/s00016016n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20178 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	33	0	4101909	3 RICH : OK , so we 're just comin ' down for some maintenance , like a forced outage type thing ?	2555	type.n	128	Type	MANUAL	6547924	86	89	KmG	type
+LINKED:[19	19	86	89	bn:00078798n		http://babelnet.org/rdf/s00078798n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20180 ===
+	Type: 0.024390243902439015
+
+SELECTED:[Type]
+MATCH!
+SILVER:205	23728	1	34	0	4101910	4 BILL : Right .	12273	right.a	1512	Correctness	MANUAL	6547925	9	13	KmG	Right
+LINKED:[3	3	9	13	bn:00050567n	http://dbpedia.org/resource/Natural_and_legal_rights	http://babelnet.org/rdf/s00050567n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 20182 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	37	0	4101913	7 [ they laugh ]	8720	laugh.v	69	Make_noise	MANUAL	6547926	9	13	KmG	laugh
+LINKED:[3	3	9	13	bn:00050198n	http://dbpedia.org/resource/Laughter	http://babelnet.org/rdf/s00050198n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20184 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	160	know.v	19	Awareness	MANUAL	6547928	69	72	KmG	know
+LINKED:[17	17	69	72	bn:00082272v		http://babelnet.org/rdf/s00082272v	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 20186 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	751	say.v	43	Statement	MANUAL	6547929	82	85	KmG	says
+LINKED:[20	20	82	85	bn:00093287v		http://babelnet.org/rdf/s00093287v	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 20188 ===
+	Speak_on_topic: 0.0169491525423729
+	Spelling_and_pronouncing: 0.013698630136986273
+	Becoming_aware: 0.01149425287356323
+	Text_creation: 0.006944444444444461
+	Communication: 0.00467289719626171
+	Statement: 0.002123142250530786
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	4343	get.v	179	Getting	MANUAL	6548774	42	44	JKs	got
+LINKED:[10	10	42	44	bn:13677111v		http://babelnet.org/rdf/s13677111v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20190 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	40	0	4101917	10 RICH : OK , it 's the new schedule .	12563	new.a	972	Age	MANUAL	6547930	25	27	KmG	new
+LINKED:[8	8	25	27	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20192 ===
+	Familiarity: 0.16666666666666669
+	Age: 0.07142857142857145
+
+SELECTED:[Age]
+MATCH!
+SILVER:205	23728	1	41	0	4101918	11 BILL : You just got a new one ?	12563	new.a	972	Age	MANUAL	6547931	25	27	KmG	new
+LINKED:[7	7	25	27	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20194 ===
+	Familiarity: 0.16666666666666669
+	Age: 0.07142857142857145
+
+SELECTED:[Age]
+MATCH!
+SILVER:205	23728	1	41	0	4101918	11 BILL : You just got a new one ?	4343	get.v	179	Getting	MANUAL	6547932	19	21	KmG	got
+LINKED:[5	5	19	21	bn:13677110v		http://babelnet.org/rdf/s13677110v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20196 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	2	42	0	4101920	It 's showin ' 52 all day .	3946	day.n	229	Calendric_unit	MANUAL	6547963	22	24	KmG	day
+LINKED:[5	5	22	24	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20198 ===
+	Measure_duration: 0.012195121951219504
+	Calendric_unit: 0.007194244604316565
+	Timespan: 0.004566210045662128
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23728	1	43	0	4101921	13 BILL : Oh , right .	12273	right.a	1512	Correctness	MANUAL	6547937	15	19	KmG	right
+LINKED:[5	5	15	19	bn:00116860r		http://babelnet.org/rdf/s00116860r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20200 ===
+	Direction: 0.04347826086956524
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	2	43	0	4101922	And so that 's the one you 're gon na want to ignore .	6412	want.v	366	Desiring	MANUAL	6547938	38	41	KmG	want
+LINKED:[10	10	38	41	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20202 ===
+	Desiring: 0.013513513513513533
+	Possession: 0.008695652173913066
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:205	23728	1	45	0	4101924	15 BILL : [ laughs ]	8720	laugh.v	69	Make_noise	MANUAL	6547939	12	17	KmG	laughs
+LINKED:[4	4	12	17	bn:00087901v		http://babelnet.org/rdf/s00087901v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20204 ===
+	Emotion_active: 0.05555555555555554
+	Emotion_directed: 0.004854368932038836
+	Make_noise: 0.004854368932038836
+
+SELECTED:[Make_noise]
+MATCH!
+SILVER:205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	11794	adjustment.n	1376	Adjusting	MANUAL	6547941	30	39	KmG	adjustment
+LINKED:[7	7	30	39	bn:00001411n		http://babelnet.org/rdf/s00001411n	0.75	0.16666667	0.125	BABELFY]
+RANK:=== COUNTER  Counter 20206 ===
+	Adjusting: 0.02564102564102563
+
+SELECTED:[Adjusting]
+MATCH!
+SILVER:205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	10854	probably.adv	114	Likelihood	MANUAL	6547942	61	68	KmG	probably
+LINKED:[13	13	61	68	bn:00114523r		http://babelnet.org/rdf/s00114523r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20208 ===
+	Likelihood: 0.01754385964912278
+
+SELECTED:[Likelihood]
+MATCH!
+SILVER:205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	10854	probably.adv	114	Likelihood	MANUAL	6547943	85	92	KmG	probably
+LINKED:[18	18	85	92	bn:00114523r		http://babelnet.org/rdf/s00114523r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20210 ===
+	Likelihood: 0.01754385964912278
+
+SELECTED:[Likelihood]
+MATCH!
+SILVER:205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	10854	probably.adv	114	Likelihood	MANUAL	6547944	122	129	KmG	probably
+LINKED:[27	27	122	129	bn:00114523r		http://babelnet.org/rdf/s00114523r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20212 ===
+	Likelihood: 0.01754385964912278
+
+SELECTED:[Likelihood]
+MATCH!
+SILVER:205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	11269	check.v	1262	Inspecting	MANUAL	6547945	146	150	KmG	check
+LINKED:[32	32	146	150	bn:00084848v		http://babelnet.org/rdf/s00084848v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20214 ===
+	Studying: 0.058823529411764705
+	Inspecting: 0.01851851851851854
+	Scrutiny: 0.006250000000000016
+
+SELECTED:[Inspecting]
+MATCH!
+SILVER:205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	4056	tomorrow.n	229	Calendric_unit	MANUAL	6547946	155	162	KmG	tomorrow
+LINKED:[34	34	155	162	bn:00077549n		http://babelnet.org/rdf/s00077549n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20216 ===
+	Measure_duration: 0.012195121951219504
+	Calendric_unit: 0.007194244604316565
+	Timespan: 0.004566210045662128
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	4060	afternoon.n	229	Calendric_unit	MANUAL	6547947	164	172	KmG	afternoon
+LINKED:[35	35	164	172	bn:00001875n	http://dbpedia.org/resource/Afternoon	http://babelnet.org/rdf/s00001875n	1.0	0.16666667	0.041666668	BABELFY]
+RANK:=== COUNTER  Counter 20218 ===
+	Calendric_unit: 0.007194244604316565
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23728	1	51	0	4101931	22 BILL : I think that 's a good plan , Rich .	11959	think.v	1412	Opinion	MANUAL	6547948	12	16	KmG	think
+LINKED:[4	4	12	16	bn:00084733v		http://babelnet.org/rdf/s00084733v	1.0	0.33333334	0.25	BABELFY]
+RANK:=== COUNTER  Counter 20220 ===
+	Cogitation: 0.01388888888888891
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	51	0	4101931	22 BILL : I think that 's a good plan , Rich .	6287	good.a	354	Desirability	MANUAL	6547949	28	31	KmG	good
+LINKED:[8	8	28	31	bn:00103672a		http://babelnet.org/rdf/s00103672a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20222 ===
+	Usefulness: 0.028571428571428564
+	Desirability: 0.020408163265306107
+	Social_interaction_evaluation: 0.017857142857142835
+	Expertise: 0.006024096385542183
+
+SELECTED:[Desirability]
+MATCH!
+SILVER:205	23728	1	51	0	4101931	22 BILL : I think that 's a good plan , Rich .	13294	plan.n	1158	Project	MANUAL	6547950	33	36	KmG	plan
+LINKED:[9	9	33	36	bn:00026536n		http://babelnet.org/rdf/s00026536n	1.0	0.33333334	0.25	BABELFY]
+RANK:=== COUNTER  Counter 20224 ===
+	Coming_up_with: 0.010638297872340443
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	53	0	4101933	24 BILL : I knew I could count on you .	160	know.v	19	Awareness	MANUAL	6547951	12	15	KmG	knew
+LINKED:[4	4	12	15	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20226 ===
+	Certainty: 0.02380952380952379
+	Awareness: 0.009090909090909116
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:205	23728	1	53	0	4101933	24 BILL : I knew I could count on you .	10005	count.v	901	Reliance	MANUAL	6547953	25	29	KmG	count
+LINKED:[7	7	25	29	bn:00085859v		http://babelnet.org/rdf/s00085859v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20228 ===
+	Control: 0.041666666666666685
+	Amounting_to: 0.02173913043478262
+	Contingency: 0.01250000000000002
+	Coming_to_believe: 0.01030927835051548
+	Quantity: 0.007936507936507957
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	54	0	4101934	25 RICH : No problem .	7356	problem.n	300	Predicament	MANUAL	6547954	13	19	KmG	problem
+LINKED:[4	4	13	19	bn:00048242n	http://dbpedia.org/resource/Problem	http://babelnet.org/rdf/s00048242n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20230 ===
+	Predicament: 0.03846153846153848
+	Hindering: 0.011235955056179754
+
+SELECTED:[Predicament]
+MATCH!
+SILVER:205	23728	1	56	0	4101936	27 RICH : I 'm sure you 'll have a good time .	2748	sure.a	141	Certainty	MANUAL	6547955	15	18	KmG	sure
+LINKED:[5	5	15	18	bn:00111505a		http://babelnet.org/rdf/s00111505a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20232 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23728	1	56	0	4101936	27 RICH : I 'm sure you 'll have a good time .	6287	good.a	354	Desirability	MANUAL	6547956	35	38	KmG	good
+LINKED:[10	10	35	38	bn:00103672a		http://babelnet.org/rdf/s00103672a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20234 ===
+	Usefulness: 0.028571428571428564
+	Desirability: 0.020408163265306107
+	Social_interaction_evaluation: 0.017857142857142835
+	Expertise: 0.006024096385542183
+
+SELECTED:[Desirability]
+MATCH!
+SILVER:205	23728	3	56	0	4101938	So , I gotcha covered for tomorrow .	4056	tomorrow.n	229	Calendric_unit	MANUAL	6547957	26	33	KmG	tomorrow
+LINKED:[6	6	26	33	bn:00077549n		http://babelnet.org/rdf/s00077549n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20236 ===
+	Measure_duration: 0.012195121951219504
+	Calendric_unit: 0.007194244604316565
+	Timespan: 0.004566210045662128
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23728	1	57	0	4101939	28 BILL : Thanks a lot , Rich .	8946	thanks.n	711	Judgment_direct_address	MANUAL	6547958	10	15	KmG	Thanks
+LINKED:[3	3	10	15	bn:00076768n		http://babelnet.org/rdf/s00076768n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20238 ===
+	Judgment_direct_address: 0.028571428571428564
+	Statement: 0.002123142250530786
+
+SELECTED:[Judgment_direct_address]
+MATCH!
+SILVER:205	23728	1	58	0	4101940	29 RICH : All right , I wo n't even put that in the book .	5453	book.n	298	Text	MANUAL	6547960	52	55	KmG	book
+LINKED:[15	15	52	55	bn:00012059n	http://dbpedia.org/resource/Book	http://babelnet.org/rdf/s00012059n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20240 ===
+	Part_ordered_segments: 0.039999999999999994
+	Text: 0.0020283975659229365
+
+SELECTED:[Text]
+MATCH!
+filename	LUCorpus-v0.3__SNO-525.xml
+docAnnotations	156
+docManual	79
+docUnannotated	77
+sentences	75
+paragraphs	59
+Overlapping	57
+Disambiguated	45
+TP	23
+TN	77
+FP	0
+FN	34
+P	1.0
+R	0.40350877192982454
+F	0.575
+A	0.746268656716418

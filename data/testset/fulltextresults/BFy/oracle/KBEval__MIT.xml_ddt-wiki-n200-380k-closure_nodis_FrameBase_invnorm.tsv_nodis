@@ -1,0 +1,16 @@
+filename	KBEval__MIT.xml
+docAnnotations	358
+docManual	260
+docUnannotated	98
+sentences	90
+paragraphs	30
+Overlapping	234
+Disambiguated	156
+TP	128
+TN	98
+FP	0
+FN	104
+P	1.0
+R	0.5517241379310345
+F	0.7111111111111111
+A	0.6848484848484848

@@ -1,0 +1,1338 @@
+SILVER:205	23722	1	1	0	4101562	We do n't know who is winning the drug war in Latin America , but we know who 's losing it -- the press .	160	know.v	19	Awareness	MANUAL	6549420	10	13	JKs	know
+LINKED:[4	4	10	13	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12223 ===
+	Awareness: 0.06285714285714286
+	Certainty: 0.03428571428571429
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:205	23722	1	1	0	4101562	We do n't know who is winning the drug war in Latin America , but we know who 's losing it -- the press .	1939	war.n	93	Hostile_encounter	MANUAL	6549422	39	41	JKs	war
+LINKED:[10	10	39	41	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12224 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	1	0	4101562	We do n't know who is winning the drug war in Latin America , but we know who 's losing it -- the press .	160	know.v	19	Awareness	MANUAL	6549424	69	72	JKs	know
+LINKED:[17	17	69	72	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12225 ===
+	Awareness: 0.06285714285714286
+	Certainty: 0.03428571428571429
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:205	23722	1	1	0	4101562	We do n't know who is winning the drug war in Latin America , but we know who 's losing it -- the press .	9832	lose.v	798	Finish_competition	MANUAL	6549425	81	86	JKs	losing
+LINKED:[20	20	81	86	bn:00090485v		http://babelnet.org/rdf/s00090485v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12226 ===
+	Finish_competition: 0.05263157894736842
+	Losing: 0.02631578947368421
+	Change_of_quantity_of_possession: 0.015789473684210527
+	Finish_game: 0.015789473684210527
+
+SELECTED:[Finish_competition]
+MATCH!
+SILVER:205	23722	2	1	0	4101563	Over the past six months , six journalists have been killed and 10 kidnapped by drug traffickers or leftist guerrillas -- who often are one and the same -- in Colombia .	13868	past.a	81	Relative_time	MANUAL	6549267	9	12	JKs	past
+LINKED:[2	2	9	12	bn:00108320a		http://babelnet.org/rdf/s00108320a	1.0	0.125	0.008196721	BABELFY]
+RANK:=== COUNTER  Counter 12227 ===
+	Relative_time: 0.14761904761904762
+
+SELECTED:[Relative_time]
+MATCH!
+SILVER:205	23722	2	1	0	4101563	Over the past six months , six journalists have been killed and 10 kidnapped by drug traffickers or leftist guerrillas -- who often are one and the same -- in Colombia .	4068	month.n	229	Calendric_unit	MANUAL	6549269	18	23	JKs	months
+LINKED:[4	4	18	23	bn:00014710n	http://dbpedia.org/resource/Month	http://babelnet.org/rdf/s00014710n	1.0	0.125	0.008196721	BABELFY]
+RANK:=== COUNTER  Counter 12228 ===
+	Calendric_unit: 0.675
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23722	2	1	0	4101563	Over the past six months , six journalists have been killed and 10 kidnapped by drug traffickers or leftist guerrillas -- who often are one and the same -- in Colombia .	8630	kill.v	590	Killing	MANUAL	6549271	53	58	JKs	killed
+LINKED:[10	10	53	58	bn:00090098v		http://babelnet.org/rdf/s00090098v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12229 ===
+	Killing: 0.18
+
+SELECTED:[Killing]
+MATCH!
+SILVER:205	23722	2	1	0	4101563	Over the past six months , six journalists have been killed and 10 kidnapped by drug traffickers or leftist guerrillas -- who often are one and the same -- in Colombia .	2456	kidnap.v	122	Kidnapping	MANUAL	6549273	67	75	JKs	kidnapped
+LINKED:[13	13	67	75	bn:00082131v		http://babelnet.org/rdf/s00082131v	1.0	0.375	0.07377049	BABELFY]
+RANK:=== COUNTER  Counter 12230 ===
+	Removing: 0.09333333333333334
+	Theft: 0.04888888888888889
+	Kidnapping: 0.013333333333333334
+
+SELECTED:[Kidnapping]
+MATCH!
+SILVER:205	23722	2	1	0	4101563	Over the past six months , six journalists have been killed and 10 kidnapped by drug traffickers or leftist guerrillas -- who often are one and the same -- in Colombia .	11783	trafficker.n	82	Commerce_scenario	MANUAL	6549274	85	95	JKs	traffickers
+LINKED:[16	16	85	95	bn:00053479n	http://dbpedia.org/resource/Sales	http://babelnet.org/rdf/s00053479n	1.0	0.125	0.008196721	BABELFY]
+RANK:=== COUNTER  Counter 12231 ===
+	Commerce_sell: 0.045
+	Commerce_scenario: 0.04
+
+SELECTED:[Commerce_scenario]
+MATCH!
+SILVER:205	23722	2	1	0	4101563	Over the past six months , six journalists have been killed and 10 kidnapped by drug traffickers or leftist guerrillas -- who often are one and the same -- in Colombia .	16700	guerrilla.n	2598	Irregular_combatants	MANUAL	6587554	108	117	RLG	guerrillas
+LINKED:[19	19	108	117	bn:00042081n	http://dbpedia.org/resource/Guerrilla_warfare	http://babelnet.org/rdf/s00042081n	0.85714287	0.25	0.04918033	BABELFY]
+RANK:=== COUNTER  Counter 12232 ===
+	People_by_vocation: 0.037606837606837605
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	3	1	0	4101564	Over the past 12 years , at least 40 journalists have died there .	13868	past.a	81	Relative_time	MANUAL	6549426	9	12	JKs	past
+LINKED:[2	2	9	12	bn:00108320a		http://babelnet.org/rdf/s00108320a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12233 ===
+	Relative_time: 0.14761904761904762
+
+SELECTED:[Relative_time]
+MATCH!
+SILVER:205	23722	3	1	0	4101564	Over the past 12 years , at least 40 journalists have died there .	4074	year.n	229	Calendric_unit	MANUAL	6549427	17	21	JKs	years
+LINKED:[4	4	17	21	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12234 ===
+	Calendric_unit: 0.08181818181818182
+	Measure_duration: 0.019696969696969695
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23722	3	1	0	4101564	Over the past 12 years , at least 40 journalists have died there .	924	die.v	53	Death	MANUAL	6549429	54	57	JKs	died
+LINKED:[11	11	54	57	bn:00086783v		http://babelnet.org/rdf/s00086783v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12235 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	4	1	0	4101565	The attacks have intensified since the Colombian government began cracking down on the traffickers in August , trying to prevent their takeover of the country .	7745	attack.n	424	Attack	MANUAL	6549432	4	10	JKs	attacks
+LINKED:[1	1	4	10	bn:00006994n		http://babelnet.org/rdf/s00006994n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12236 ===
+	Attack: 0.07352941176470588
+
+SELECTED:[Attack]
+MATCH!
+SILVER:205	23722	4	1	0	4101565	The attacks have intensified since the Colombian government began cracking down on the traffickers in August , trying to prevent their takeover of the country .	12182	government.n	73	Leadership	MANUAL	6549434	49	58	JKs	government
+LINKED:[7	7	49	58	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12237 ===
+	Leadership: 0.11587301587301588
+	Organization: 0.022222222222222223
+	Law: 0.014285714285714285
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:205	23722	4	1	0	4101565	The attacks have intensified since the Colombian government began cracking down on the traffickers in August , trying to prevent their takeover of the country .	4448	begin.v	146	Activity_start	MANUAL	6549435	60	64	JKs	began
+LINKED:[8	8	60	64	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12238 ===
+	Activity_start: 0.014516129032258065
+	Process_start: 0.00967741935483871
+	Setting_out: 0.0064516129032258064
+
+SELECTED:[Activity_start]
+MATCH!
+SILVER:205	23722	4	1	0	4101565	The attacks have intensified since the Colombian government began cracking down on the traffickers in August , trying to prevent their takeover of the country .	11783	trafficker.n	82	Commerce_scenario	MANUAL	6549436	87	97	JKs	traffickers
+LINKED:[13	13	87	97	bn:00053479n	http://dbpedia.org/resource/Sales	http://babelnet.org/rdf/s00053479n	0.9230769	0.3	0.034985423	BABELFY]
+RANK:=== COUNTER  Counter 12239 ===
+	Commerce_sell: 0.045
+	Commerce_scenario: 0.04
+
+SELECTED:[Commerce_scenario]
+MATCH!
+SILVER:205	23722	4	1	0	4101565	The attacks have intensified since the Colombian government began cracking down on the traffickers in August , trying to prevent their takeover of the country .	4650	August.n	229	Calendric_unit	MANUAL	6549438	102	107	JKs	August
+LINKED:[15	15	102	107	bn:00007140n	http://dbpedia.org/resource/August	http://babelnet.org/rdf/s00007140n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12240 ===
+	Calendric_unit: 0.1018867924528302
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23722	4	1	0	4101565	The attacks have intensified since the Colombian government began cracking down on the traffickers in August , trying to prevent their takeover of the country .	2465	try.v	116	Attempt	MANUAL	6549439	111	116	JKs	trying
+LINKED:[17	17	111	116	bn:00082844v		http://babelnet.org/rdf/s00082844v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12241 ===
+	Attempt: 0.017948717948717947
+	Trying_out: 0.007692307692307693
+	Tasting: 0.007692307692307693
+	Try_defendant: 0.005128205128205128
+	Attempt_means: 0.005128205128205128
+
+SELECTED:[Attempt]
+MATCH!
+SILVER:205	23722	4	1	0	4101565	The attacks have intensified since the Colombian government began cracking down on the traffickers in August , trying to prevent their takeover of the country .	8087	prevent.v	516	Preventing_or_letting	MANUAL	6549440	121	127	JKs	prevent
+LINKED:[19	19	121	127	bn:00088454v		http://babelnet.org/rdf/s00088454v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12242 ===
+	Preventing: 10.0
+	Thwarting: 0.02666666666666667
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	4	1	0	4101565	The attacks have intensified since the Colombian government began cracking down on the traffickers in August , trying to prevent their takeover of the country .	3683	country.n	195	Political_locales	MANUAL	6549441	151	157	JKs	country
+LINKED:[24	24	151	157	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.8979592	0.8	0.5131195	BABELFY]
+RANK:=== COUNTER  Counter 12243 ===
+	Political_locales: 0.034736842105263156
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:205	23722	1	2	0	4101566	The slaughter in Colombia was very much on the minds of 450 editors and publishers from Latin America , the United States , the Caribbean and Canada attending the 45th general assembly of the Inter-American Press Association in Monterrey , Mexico , this week .	9053	slaughter.n	590	Killing	MANUAL	6549442	4	12	JKs	slaughter
+LINKED:[1	1	4	12	bn:00072078n	http://dbpedia.org/resource/Animal_slaughter	http://babelnet.org/rdf/s00072078n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12244 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	2	0	4101566	The slaughter in Colombia was very much on the minds of 450 editors and publishers from Latin America , the United States , the Caribbean and Canada attending the 45th general assembly of the Inter-American Press Association in Monterrey , Mexico , this week .	2133	assembly.n	103	Aggregate	MANUAL	6549445	176	183	JKs	assembly
+LINKED:[31	31	176	183	bn:00006484n		http://babelnet.org/rdf/s00006484n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12245 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	2	0	4101566	The slaughter in Colombia was very much on the minds of 450 editors and publishers from Latin America , the United States , the Caribbean and Canada attending the 45th general assembly of the Inter-American Press Association in Monterrey , Mexico , this week .	3947	week.n	229	Calendric_unit	MANUAL	6549446	254	257	JKs	week
+LINKED:[43	43	254	257	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12246 ===
+	Calendric_unit: 0.15
+	Measure_duration: 0.03611111111111111
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23722	2	2	0	4101567	On Tuesday the conference got word of another atrocity , the assassination in Medellin of two employees of El Espectador , Colombia 's second-largest newspaper .	3995	Tuesday.n	229	Calendric_unit	MANUAL	6549449	3	9	JKs	Tuesday
+LINKED:[1	1	3	9	bn:00078546n	http://dbpedia.org/resource/Tuesday	http://babelnet.org/rdf/s00078546n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12247 ===
+	Calendric_unit: 0.09473684210526316
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23722	2	2	0	4101567	On Tuesday the conference got word of another atrocity , the assassination in Medellin of two employees of El Espectador , Colombia 's second-largest newspaper .	4007	conference.n	34	Discussion	MANUAL	6549450	15	24	JKs	conference
+LINKED:[3	3	15	24	bn:00021721n		http://babelnet.org/rdf/s00021721n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12248 ===
+	Discussion: 0.19
+
+SELECTED:[Discussion]
+MATCH!
+SILVER:205	23722	2	2	0	4101567	On Tuesday the conference got word of another atrocity , the assassination in Medellin of two employees of El Espectador , Colombia 's second-largest newspaper .	11231	word.n	1260	Simple_name	MANUAL	6549451	30	33	JKs	word
+LINKED:[5	5	30	33	bn:00010217n	http://dbpedia.org/resource/Authorship_of_the_Bible	http://babelnet.org/rdf/s00010217n	0.71428573	0.375	0.13636364	BABELFY]
+RANK:=== COUNTER  Counter 12249 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	2	0	4101567	On Tuesday the conference got word of another atrocity , the assassination in Medellin of two employees of El Espectador , Colombia 's second-largest newspaper .	9068	assassination.n	590	Killing	MANUAL	6549453	61	73	JKs	assassination
+LINKED:[11	11	61	73	bn:00006465n	http://dbpedia.org/resource/Assassination	http://babelnet.org/rdf/s00006465n	0.8	0.25	0.036363635	BABELFY]
+RANK:=== COUNTER  Counter 12250 ===
+	Killing: 0.0661764705882353
+
+SELECTED:[Killing]
+MATCH!
+SILVER:205	23722	2	2	0	4101567	On Tuesday the conference got word of another atrocity , the assassination in Medellin of two employees of El Espectador , Colombia 's second-largest newspaper .	13591	newspaper.n	298	Text	MANUAL	6549457	150	158	JKs	newspaper
+LINKED:[24	24	150	158	bn:00057563n	http://dbpedia.org/resource/Newspaper	http://babelnet.org/rdf/s00057563n	1.0	0.375	0.10909091	BABELFY]
+RANK:=== COUNTER  Counter 12251 ===
+	Text: 0.11044776119402985
+	Recording: 0.007462686567164179
+	Sound_movement: 0.005970149253731343
+	Out_of_existence: 0.004477611940298508
+	History: 0.0029850746268656717
+	Heralding: 0.0029850746268656717
+
+SELECTED:[Text]
+MATCH!
+SILVER:205	23722	3	2	0	4101568	The paper 's local administrator , Maria Luz Lopez , was shot dead , and her mother wounded , while her car was stopped for a red light .	10239	local.a	195	Political_locales	MANUAL	6549458	13	17	JKs	local
+LINKED:[3	3	13	17	bn:00106108a		http://babelnet.org/rdf/s00106108a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12252 ===
+	Political_locales: 0.14347826086956522
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:205	23722	3	2	0	4101568	The paper 's local administrator , Maria Luz Lopez , was shot dead , and her mother wounded , while her car was stopped for a red light .	5643	dead.a	310	Dead_or_alive	MANUAL	6549459	62	65	JKs	dead
+LINKED:[12	12	62	65	bn:00100948a		http://babelnet.org/rdf/s00100948a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12253 ===
+	Dead_or_alive: 0.03529411764705882
+
+SELECTED:[Dead_or_alive]
+MATCH!
+SILVER:205	23722	3	2	0	4101568	The paper 's local administrator , Maria Luz Lopez , was shot dead , and her mother wounded , while her car was stopped for a red light .	7951	shoot.v	485	Hit_target	MANUAL	6549460	57	60	JKs	shot
+LINKED:[11	11	57	60	bn:00089349v		http://babelnet.org/rdf/s00089349v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12254 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	3	2	0	4101568	The paper 's local administrator , Maria Luz Lopez , was shot dead , and her mother wounded , while her car was stopped for a red light .	2143	mother.n	104	Kinship	MANUAL	6549461	77	82	JKs	mother
+LINKED:[16	16	77	82	bn:00058313n	http://dbpedia.org/resource/Nun	http://babelnet.org/rdf/s00058313n	1.0	0.16666667	0.013888889	BABELFY]
+RANK:=== COUNTER  Counter 12255 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	3	2	0	4101568	The paper 's local administrator , Maria Luz Lopez , was shot dead , and her mother wounded , while her car was stopped for a red light .	7808	car.n	429	Vehicle	MANUAL	6549463	104	106	JKs	car
+LINKED:[21	21	104	106	bn:00007309n	http://dbpedia.org/resource/Car	http://babelnet.org/rdf/s00007309n	0.9917355	0.6666667	0.41666666	BABELFY]
+RANK:=== COUNTER  Counter 12256 ===
+	Bringing: 0.02336448598130841
+	Operate_vehicle: 0.020560747663551402
+	Vehicle: 0.016355140186915886
+	Dodging: 0.003738317757009346
+
+SELECTED:[Vehicle]
+MATCH!
+SILVER:205	23722	3	2	0	4101568	The paper 's local administrator , Maria Luz Lopez , was shot dead , and her mother wounded , while her car was stopped for a red light .	7721	red.a	423	Color	MANUAL	6549464	126	128	JKs	red
+LINKED:[26	26	126	128	bn:00100654a		http://babelnet.org/rdf/s00100654a	0.8	0.16666667	0.013888889	BABELFY]
+RANK:=== COUNTER  Counter 12257 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	3	2	0	4101568	The paper 's local administrator , Maria Luz Lopez , was shot dead , and her mother wounded , while her car was stopped for a red light .	14248	light.n	105	Location_of_light	MANUAL	6549465	130	134	JKs	light
+LINKED:[27	27	130	134	bn:00051108n	http://dbpedia.org/resource/Light	http://babelnet.org/rdf/s00051108n	0.7105263	0.5	0.1875	BABELFY]
+RANK:=== COUNTER  Counter 12258 ===
+	Location_of_light: 0.0359375
+
+SELECTED:[Location_of_light]
+MATCH!
+SILVER:205	23722	4	2	0	4101569	An hour later , the paper 's circulation manager , Miguel Soler , was shot and killed near his home .	3872	hour.n	224	Measure_duration	MANUAL	6549466	3	6	JKs	hour
+LINKED:[1	1	3	6	bn:00000127n	http://dbpedia.org/resource/Hour	http://babelnet.org/rdf/s00000127n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12259 ===
+	Measure_duration: 0.028888888888888888
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:205	23722	4	2	0	4101569	An hour later , the paper 's circulation manager , Miguel Soler , was shot and killed near his home .	11825	later.adv	379	Time_vector	MANUAL	6549467	8	12	JKs	later
+LINKED:[2	2	8	12	bn:00114165r		http://babelnet.org/rdf/s00114165r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12260 ===
+	Frequency: 0.06458333333333334
+	Temporal_collocation: 0.052083333333333336
+	Relative_time: 0.03229166666666667
+	Time_vector: 0.029166666666666667
+	Taking_time: 0.022916666666666665
+	Continued_state_of_affairs: 0.020833333333333332
+	Secrecy_status: 0.01875
+	Willingness: 0.014583333333333334
+	Ranked_expectation: 0.010416666666666666
+	Concessive: 0.008333333333333333
+
+SELECTED:[Time_vector]
+MATCH!
+SILVER:205	23722	4	2	0	4101569	An hour later , the paper 's circulation manager , Miguel Soler , was shot and killed near his home .	10414	manager.n	1071	People_by_vocation	MANUAL	6549468	41	47	JKs	manager
+LINKED:[8	8	41	47	bn:16519818n	http://dbpedia.org/resource/Talent_manager	http://babelnet.org/rdf/s16519818n	1.0	0.2857143	0.026845638	BABELFY]
+RANK:=== COUNTER  Counter 12261 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	4	2	0	4101569	An hour later , the paper 's circulation manager , Miguel Soler , was shot and killed near his home .	7951	shoot.v	485	Hit_target	MANUAL	6549469	70	73	JKs	shot
+LINKED:[14	14	70	73	bn:00089349v		http://babelnet.org/rdf/s00089349v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12262 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	4	2	0	4101569	An hour later , the paper 's circulation manager , Miguel Soler , was shot and killed near his home .	8630	kill.v	590	Killing	MANUAL	6549470	79	84	JKs	killed
+LINKED:[16	16	79	84	bn:00090098v		http://babelnet.org/rdf/s00090098v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12263 ===
+	Killing: 0.18
+
+SELECTED:[Killing]
+MATCH!
+SILVER:205	23722	4	2	0	4101569	An hour later , the paper 's circulation manager , Miguel Soler , was shot and killed near his home .	3012	home.n	173	Buildings	MANUAL	6549472	95	98	JKs	home
+LINKED:[19	19	95	98	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12264 ===
+	Buildings: 0.07304347826086957
+	Foreign_or_domestic_country: 0.0052173913043478265
+	Surpassing: 0.0052173913043478265
+	Left_to_do: 0.0026086956521739132
+	State_continue: 0.0017391304347826088
+	Expected_location_of_person: 4.347826086956522E-4
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:205	23722	1	3	0	4101570	The drug lords who claimed responsibility said they would blow up the Bogota newspaper 's offices if it continued to distribute in Medellin .	11805	drug	73	Leadership	MANUAL	6549473	4	7	EGp	drug
+LINKED:[1	1	4	7	bn:00028872n	http://dbpedia.org/resource/Drug	http://babelnet.org/rdf/s00028872n	1.0	0.07692308	0.01010101	BABELFY]
+RANK:=== COUNTER  Counter 12265 ===
+	Intoxicants: 0.05
+	Active_substance: 0.007142857142857143
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	3	0	4101570	The drug lords who claimed responsibility said they would blow up the Bogota newspaper 's offices if it continued to distribute in Medellin .	8265	claim.v	550	Claim_ownership	MANUAL	6549474	19	25	JKs	claimed
+LINKED:[4	4	19	25	bn:00085016v		http://babelnet.org/rdf/s00085016v	0.75	0.07692308	0.030303031	BABELFY]
+RANK:=== COUNTER  Counter 12266 ===
+	Statement: 0.65
+	Predicting: 0.06
+	Claim_ownership: 0.05
+
+SELECTED:[Claim_ownership]
+MATCH!
+SILVER:205	23722	1	3	0	4101570	The drug lords who claimed responsibility said they would blow up the Bogota newspaper 's offices if it continued to distribute in Medellin .	7120	responsibility.n	392	Being_obligated	MANUAL	6549475	27	40	JKs	responsibility
+LINKED:[5	5	27	40	bn:00029239n	http://dbpedia.org/resource/Obligation	http://babelnet.org/rdf/s00029239n	0.85714287	0.15384616	0.060606062	BABELFY]
+RANK:=== COUNTER  Counter 12267 ===
+	Being_obligated: 0.0044444444444444444
+
+SELECTED:[Being_obligated]
+MATCH!
+SILVER:205	23722	1	3	0	4101570	The drug lords who claimed responsibility said they would blow up the Bogota newspaper 's offices if it continued to distribute in Medellin .	751	say.v	43	Statement	MANUAL	6549476	42	45	JKs	said
+LINKED:[6	6	42	45	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12268 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.05
+	Becoming_aware: 0.05
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23722	1	3	0	4101570	The drug lords who claimed responsibility said they would blow up the Bogota newspaper 's offices if it continued to distribute in Medellin .	13591	newspaper.n	298	Text	MANUAL	6549477	77	85	JKs	newspaper
+LINKED:[13	13	77	85	bn:00057563n	http://dbpedia.org/resource/Newspaper	http://babelnet.org/rdf/s00057563n	1.0	0.30769232	0.28282827	BABELFY]
+RANK:=== COUNTER  Counter 12269 ===
+	Text: 0.11044776119402985
+	Recording: 0.007462686567164179
+	Sound_movement: 0.005970149253731343
+	Out_of_existence: 0.004477611940298508
+	History: 0.0029850746268656717
+	Heralding: 0.0029850746268656717
+
+SELECTED:[Text]
+MATCH!
+SILVER:205	23722	1	3	0	4101570	The drug lords who claimed responsibility said they would blow up the Bogota newspaper 's offices if it continued to distribute in Medellin .	3196	office.n	188	Building_subparts	MANUAL	6549478	90	96	JKs	offices
+LINKED:[15	15	90	96	bn:00014169n		http://babelnet.org/rdf/s00014169n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12270 ===
+	Building_subparts: 0.18333333333333332
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:205	23722	1	3	0	4101570	The drug lords who claimed responsibility said they would blow up the Bogota newspaper 's offices if it continued to distribute in Medellin .	5435	continue.v	164	Activity_ongoing	MANUAL	6549479	104	112	JKs	continued
+LINKED:[18	18	104	112	bn:00085714v		http://babelnet.org/rdf/s00085714v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12271 ===
+	Activity_ongoing: 0.02666666666666667
+	Process_continue: 0.02
+
+SELECTED:[Activity_ongoing]
+MATCH!
+SILVER:205	23722	1	3	0	4101570	The drug lords who claimed responsibility said they would blow up the Bogota newspaper 's offices if it continued to distribute in Medellin .	4844	distribute.v	267	Dispersal	MANUAL	6549480	117	126	JKs	distribute
+LINKED:[20	20	117	126	bn:00082364v		http://babelnet.org/rdf/s00082364v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12272 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	3	0	4101571	They bombed the Bogota offices last month , destroying its computer and causing $2.5 million in damage .	12379	bomb.v	424	Attack	MANUAL	6549482	5	10	JKs	bombed
+LINKED:[1	1	5	10	bn:00083756v		http://babelnet.org/rdf/s00083756v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12273 ===
+	Attack: 0.09615384615384616
+
+SELECTED:[Attack]
+MATCH!
+SILVER:205	23722	2	3	0	4101571	They bombed the Bogota offices last month , destroying its computer and causing $2.5 million in damage .	3196	office.n	188	Building_subparts	MANUAL	6549483	23	29	JKs	offices
+LINKED:[4	4	23	29	bn:00014169n		http://babelnet.org/rdf/s00014169n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12274 ===
+	Building_subparts: 0.18333333333333332
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:205	23722	2	3	0	4101571	They bombed the Bogota offices last month , destroying its computer and causing $2.5 million in damage .	4068	month.n	229	Calendric_unit	MANUAL	6549485	36	40	JKs	month
+LINKED:[6	6	36	40	bn:00014710n	http://dbpedia.org/resource/Month	http://babelnet.org/rdf/s00014710n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12275 ===
+	Calendric_unit: 0.675
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23722	2	3	0	4101571	They bombed the Bogota offices last month , destroying its computer and causing $2.5 million in damage .	7622	destroy.v	417	Destroying	MANUAL	6549486	44	53	JKs	destroying
+LINKED:[8	8	44	53	bn:00086698v		http://babelnet.org/rdf/s00086698v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12276 ===
+	Destroying: 0.08235294117647059
+
+SELECTED:[Destroying]
+MATCH!
+SILVER:205	23722	2	3	0	4101571	They bombed the Bogota offices last month , destroying its computer and causing $2.5 million in damage .	14650	damage.n	415	Damaging	MANUAL	6551515	96	101	KmG	damage
+LINKED:[17	17	96	101	bn:00025084n		http://babelnet.org/rdf/s00025084n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12277 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	4	0	4101572	El Espectador has been a special target because of the extraordinary courage of its publisher and his staff .	14114	target.n	1901	Aiming	MANUAL	6549535	33	38	JKs	target
+LINKED:[6	6	33	38	bn:00053445n		http://babelnet.org/rdf/s00053445n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12278 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	4	0	4101572	El Espectador has been a special target because of the extraordinary courage of its publisher and his staff .	14559	extraordinary.a	354	Desirability	MANUAL	6549537	55	67	JKs	extraordinary
+LINKED:[10	10	55	67	bn:00102649a		http://babelnet.org/rdf/s00102649a	1.0	0.5	0.4	BABELFY]
+RANK:=== COUNTER  Counter 12279 ===
+	Desirability: 0.04838709677419355
+
+SELECTED:[Desirability]
+MATCH!
+SILVER:205	23722	1	4	0	4101572	El Espectador has been a special target because of the extraordinary courage of its publisher and his staff .	11771	staff.n	323	Employing	MANUAL	6549538	102	106	JKs	staff
+LINKED:[17	17	102	106	bn:00073802n		http://babelnet.org/rdf/s00073802n	1.0	0.5	0.1	BABELFY]
+RANK:=== COUNTER  Counter 12280 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	4	0	4101573	At Monterrey , publisher Luis Gabriel Cano , although shaken by the murders , issued a statement saying : `` We will not cease our fight against drug trafficking .	9052	murder.n	590	Killing	MANUAL	6549540	68	74	JKs	murders
+LINKED:[12	12	68	74	bn:00032175n	http://dbpedia.org/resource/Murder	http://babelnet.org/rdf/s00032175n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12281 ===
+	Killing: 0.07758620689655173
+	Offenses: 0.041379310344827586
+
+SELECTED:[Killing]
+MATCH!
+SILVER:205	23722	2	4	0	4101573	At Monterrey , publisher Luis Gabriel Cano , although shaken by the murders , issued a statement saying : `` We will not cease our fight against drug trafficking .	14258	issue.v	319	Creating	MANUAL	6549541	78	83	JKs	issued
+LINKED:[14	14	78	83	bn:00084099v		http://babelnet.org/rdf/s00084099v	1.0	0.1	0.06122449	BABELFY]
+RANK:=== COUNTER  Counter 12282 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	4	0	4101573	At Monterrey , publisher Luis Gabriel Cano , although shaken by the murders , issued a statement saying : `` We will not cease our fight against drug trafficking .	754	statement.n	43	Statement	MANUAL	6549542	87	95	JKs	statement
+LINKED:[16	16	87	95	bn:00074033n		http://babelnet.org/rdf/s00074033n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12283 ===
+	Statement: 0.34210526315789475
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23722	2	4	0	4101573	At Monterrey , publisher Luis Gabriel Cano , although shaken by the murders , issued a statement saying : `` We will not cease our fight against drug trafficking .	751	say.v	43	Statement	MANUAL	6549543	97	102	JKs	saying
+LINKED:[17	17	97	102	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.7777778	0.2	0.14285715	BABELFY]
+RANK:=== COUNTER  Counter 12284 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.05
+	Becoming_aware: 0.05
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23722	2	4	0	4101573	At Monterrey , publisher Luis Gabriel Cano , although shaken by the murders , issued a statement saying : `` We will not cease our fight against drug trafficking .	11360	cease.v	166	Activity_stop	MANUAL	6549544	121	125	JKs	cease
+LINKED:[23	23	121	125	bn:00084710v		http://babelnet.org/rdf/s00084710v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12285 ===
+	Activity_stop: 0.01875
+	Process_stop: 0.01875
+
+SELECTED:[Activity_stop]
+MATCH!
+SILVER:205	23722	2	4	0	4101573	At Monterrey , publisher Luis Gabriel Cano , although shaken by the murders , issued a statement saying : `` We will not cease our fight against drug trafficking .	1930	fight.v	93	Hostile_encounter	MANUAL	6549545	131	135	JKs	fight
+LINKED:[25	25	131	135	bn:00009078n	http://dbpedia.org/resource/Engagement_(military)	http://babelnet.org/rdf/s00009078n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12286 ===
+	Hostile_encounter: 0.033707865168539325
+	Attack: 0.028089887640449437
+	Grasp: 0.008988764044943821
+	Fighting_activity: 0.0056179775280898875
+	Hit_target: 0.0044943820224719105
+	Locating: 0.0033707865168539327
+	Hunting_success_or_failure: 0.0033707865168539327
+	Besieging: 0.0033707865168539327
+
+SELECTED:[Hostile_encounter]
+MATCH!
+SILVER:205	23722	3	4	0	4101574	They want to terrify the press and in particular El Espectador because it has always been a torchbearer in this war . ''	6412	want.v	366	Desiring	MANUAL	6549548	5	8	JKs	want
+LINKED:[1	1	5	8	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12287 ===
+	Desiring: 0.2076923076923077
+	Possession: 0.1076923076923077
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:205	23722	3	4	0	4101574	They want to terrify the press and in particular El Espectador because it has always been a torchbearer in this war . ''	850	terrify.v	47	Experiencer_obj	MANUAL	6549549	13	19	JKs	terrify
+LINKED:[3	3	13	19	bn:00094881v		http://babelnet.org/rdf/s00094881v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12288 ===
+	Experiencer_obj: 0.4095238095238095
+	Cause_to_experience: 0.023809523809523808
+
+SELECTED:[Experiencer_obj]
+MATCH!
+SILVER:205	23722	4	4	0	4101575	This comes from a man whose brother , Guillermo , was murdered in 1986 .	941	come.v	54	Arriving	MANUAL	6549553	5	9	JKs	comes
+LINKED:[1	1	5	9	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12289 ===
+	Arriving: 0.08695652173913043
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:205	23722	4	4	0	4101575	This comes from a man whose brother , Guillermo , was murdered in 1986 .	5526	man.n	304	People	MANUAL	6549555	18	20	JKs	man
+LINKED:[4	4	18	20	bn:00001533n	http://dbpedia.org/resource/Man	http://babelnet.org/rdf/s00001533n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12290 ===
+	People: 0.03409090909090909
+
+SELECTED:[People]
+MATCH!
+SILVER:205	23722	4	4	0	4101575	This comes from a man whose brother , Guillermo , was murdered in 1986 .	2155	brother.n	104	Kinship	MANUAL	6549556	28	34	JKs	brother
+LINKED:[6	6	28	34	bn:00011357n		http://babelnet.org/rdf/s00011357n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12291 ===
+	Kinship: 0.29411764705882354
+
+SELECTED:[Kinship]
+MATCH!
+SILVER:205	23722	4	4	0	4101575	This comes from a man whose brother , Guillermo , was murdered in 1986 .	8639	murder.v	590	Killing	MANUAL	6549557	54	61	JKs	murdered
+LINKED:[11	11	54	61	bn:00084236v		http://babelnet.org/rdf/s00084236v	1.0	0.25	0.015151516	BABELFY]
+RANK:=== COUNTER  Counter 12292 ===
+	Killing: 0.10227272727272728
+
+SELECTED:[Killing]
+MATCH!
+SILVER:205	23722	1	5	0	4101576	The publishers in Monterrey command no battalions , but they agreed to express their outrage with editorials in today 's editions .	1580	command.v	73	Leadership	MANUAL	6549560	28	34	JKs	command
+LINKED:[4	4	28	34	bn:00010260n		http://babelnet.org/rdf/s00010260n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12293 ===
+	Request: 0.15
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	5	0	4101576	The publishers in Monterrey command no battalions , but they agreed to express their outrage with editorials in today 's editions .	12761	agree.v	1625	Agree_or_refuse_to_act	MANUAL	6549562	61	66	JKs	agreed
+LINKED:[10	10	61	66	bn:00082475v		http://babelnet.org/rdf/s00082475v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12294 ===
+	Be_in_agreement_on_assessment: 0.021052631578947368
+	Make_agreement_on_action: 0.021052631578947368
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	5	0	4101576	The publishers in Monterrey command no battalions , but they agreed to express their outrage with editorials in today 's editions .	12733	express.v	1622	Expressing_publicly	MANUAL	6549563	71	77	JKs	express
+LINKED:[12	12	71	77	bn:00087895v		http://babelnet.org/rdf/s00087895v	1.0	0.16666667	0.027027028	BABELFY]
+RANK:=== COUNTER  Counter 12295 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	5	0	4101576	The publishers in Monterrey command no battalions , but they agreed to express their outrage with editorials in today 's editions .	5865	editorial.n	298	Text	MANUAL	6549564	98	107	JKs	editorials
+LINKED:[16	16	98	107	bn:00020825n	http://dbpedia.org/resource/Editorial	http://babelnet.org/rdf/s00020825n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12296 ===
+	Text: 0.09367088607594937
+
+SELECTED:[Text]
+MATCH!
+SILVER:205	23722	1	5	0	4101576	The publishers in Monterrey command no battalions , but they agreed to express their outrage with editorials in today 's editions .	4054	today.n	229	Calendric_unit	MANUAL	6549566	112	116	JKs	today
+LINKED:[18	18	112	116	bn:01916848n	http://dbpedia.org/resource/Sandie_Shaw	http://babelnet.org/rdf/s01916848n	1.0	0.16666667	0.027027028	BABELFY]
+RANK:=== COUNTER  Counter 12297 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	5	0	4101576	The publishers in Monterrey command no battalions , but they agreed to express their outrage with editorials in today 's editions .	5608	edition.n	298	Text	MANUAL	6549567	121	128	JKs	editions
+LINKED:[20	20	121	128	bn:00029770n		http://babelnet.org/rdf/s00029770n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12298 ===
+	Text: 0.5285714285714286
+
+SELECTED:[Text]
+MATCH!
+SILVER:205	23722	2	5	0	4101577	Many will use a common editorial .	5865	editorial.n	298	Text	MANUAL	6549570	23	31	JKs	editorial
+LINKED:[5	5	23	31	bn:00020825n	http://dbpedia.org/resource/Editorial	http://babelnet.org/rdf/s00020825n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12299 ===
+	Text: 0.09367088607594937
+
+SELECTED:[Text]
+MATCH!
+SILVER:205	23722	3	5	0	4101578	A final statement yesterday said : `` While some advances are being made in nations throughout the hemisphere , the state of press freedom in the Americas still must be regarded as grim as long as journalists and their families are subject to the crudest form of censorship : death by assassination . ''	754	statement.n	43	Statement	MANUAL	6549571	8	16	JKs	statement
+LINKED:[2	2	8	16	bn:00074033n		http://babelnet.org/rdf/s00074033n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12300 ===
+	Statement: 0.34210526315789475
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23722	3	5	0	4101578	A final statement yesterday said : `` While some advances are being made in nations throughout the hemisphere , the state of press freedom in the Americas still must be regarded as grim as long as journalists and their families are subject to the crudest form of censorship : death by assassination . ''	4055	yesterday.n	229	Calendric_unit	MANUAL	6549572	18	26	JKs	yesterday
+LINKED:[3	3	18	26	bn:00081909n		http://babelnet.org/rdf/s00081909n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12301 ===
+	Calendric_unit: 0.38571428571428573
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23722	3	5	0	4101578	A final statement yesterday said : `` While some advances are being made in nations throughout the hemisphere , the state of press freedom in the Americas still must be regarded as grim as long as journalists and their families are subject to the crudest form of censorship : death by assassination . ''	751	say.v	43	Statement	MANUAL	6549573	28	31	JKs	said
+LINKED:[4	4	28	31	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12302 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.05
+	Becoming_aware: 0.05
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23722	3	5	0	4101578	A final statement yesterday said : `` While some advances are being made in nations throughout the hemisphere , the state of press freedom in the Americas still must be regarded as grim as long as journalists and their families are subject to the crudest form of censorship : death by assassination . ''	11645	advance.n	1340	Progression	MANUAL	6549575	49	56	JKs	advances
+LINKED:[9	9	49	56	bn:00001548n		http://babelnet.org/rdf/s00001548n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12303 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	3	5	0	4101578	A final statement yesterday said : `` While some advances are being made in nations throughout the hemisphere , the state of press freedom in the Americas still must be regarded as grim as long as journalists and their families are subject to the crudest form of censorship : death by assassination . ''	12775	nation.n	195	Political_locales	MANUAL	6549577	76	82	JKs	nations
+LINKED:[14	14	76	82	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.88391775	0.8095238	0.16438048	BABELFY]
+RANK:=== COUNTER  Counter 12304 ===
+	Political_locales: 0.034736842105263156
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:205	23722	3	5	0	4101578	A final statement yesterday said : `` While some advances are being made in nations throughout the hemisphere , the state of press freedom in the Americas still must be regarded as grim as long as journalists and their families are subject to the crudest form of censorship : death by assassination . ''	12596	state.n	1600	State_of_entity	MANUAL	6549578	116	120	JKs	state
+LINKED:[20	20	116	120	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.88391775	0.8095238	0.16438048	BABELFY]
+RANK:=== COUNTER  Counter 12305 ===
+	Political_locales: 0.034736842105263156
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	3	5	0	4101578	A final statement yesterday said : `` While some advances are being made in nations throughout the hemisphere , the state of press freedom in the Americas still must be regarded as grim as long as journalists and their families are subject to the crudest form of censorship : death by assassination . ''	11892	regard.v	1400	Regard	MANUAL	6549582	169	176	JKs	regarded
+LINKED:[30	30	169	176	bn:00085652v		http://babelnet.org/rdf/s00085652v	1.0	0.04761905	2.248707E-4	BABELFY]
+RANK:=== COUNTER  Counter 12306 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	3	5	0	4101578	A final statement yesterday said : `` While some advances are being made in nations throughout the hemisphere , the state of press freedom in the Americas still must be regarded as grim as long as journalists and their families are subject to the crudest form of censorship : death by assassination . ''	2307	family.n	104	Kinship	MANUAL	6549583	219	226	JKs	families
+LINKED:[39	39	219	226	bn:00032892n	http://dbpedia.org/resource/Household	http://babelnet.org/rdf/s00032892n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12307 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	3	5	0	4101578	A final statement yesterday said : `` While some advances are being made in nations throughout the hemisphere , the state of press freedom in the Americas still must be regarded as grim as long as journalists and their families are subject to the crudest form of censorship : death by assassination . ''	7718	form.n	128	Type	MANUAL	6549584	255	258	JKs	form
+LINKED:[45	45	255	258	bn:00026512n		http://babelnet.org/rdf/s00026512n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12308 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	3	5	0	4101578	A final statement yesterday said : `` While some advances are being made in nations throughout the hemisphere , the state of press freedom in the Americas still must be regarded as grim as long as journalists and their families are subject to the crudest form of censorship : death by assassination . ''	922	death.n	53	Death	MANUAL	6549585	276	280	JKs	death
+LINKED:[49	49	276	280	bn:00025582n	http://dbpedia.org/resource/Death	http://babelnet.org/rdf/s00025582n	0.86187845	0.61904764	0.07015966	BABELFY]
+RANK:=== COUNTER  Counter 12309 ===
+	Death: 0.014864864864864866
+
+SELECTED:[Death]
+MATCH!
+SILVER:205	23722	3	5	0	4101578	A final statement yesterday said : `` While some advances are being made in nations throughout the hemisphere , the state of press freedom in the Americas still must be regarded as grim as long as journalists and their families are subject to the crudest form of censorship : death by assassination . ''	9068	assassination.n	590	Killing	MANUAL	6549587	285	297	JKs	assassination
+LINKED:[51	51	285	297	bn:00006464n	http://dbpedia.org/resource/Character_assassination	http://babelnet.org/rdf/s00006464n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12310 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	6	0	4101579	The report charged that Panama 's Manuel Noriega is not only in league with the drug traffickers but also is bullying the press as never before .	747	report.n	43	Statement	MANUAL	6549588	4	9	JKs	report
+LINKED:[1	1	4	9	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12311 ===
+	Statement: 0.10317460317460317
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23722	1	6	0	4101579	The report charged that Panama 's Manuel Noriega is not only in league with the drug traffickers but also is bullying the press as never before .	7376	charge.v	219	Judgment_communication	MANUAL	6549589	11	17	JKs	charged
+LINKED:[2	2	11	17	bn:00083234v		http://babelnet.org/rdf/s00083234v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12312 ===
+	Attack: 0.25
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	6	0	4101579	The report charged that Panama 's Manuel Noriega is not only in league with the drug traffickers but also is bullying the press as never before .	11783	trafficker.n	82	Commerce_scenario	MANUAL	6549591	85	95	JKs	traffickers
+LINKED:[16	16	85	95	bn:00053479n	http://dbpedia.org/resource/Sales	http://babelnet.org/rdf/s00053479n	1.0	0.22222222	0.02970297	BABELFY]
+RANK:=== COUNTER  Counter 12313 ===
+	Commerce_sell: 0.045
+	Commerce_scenario: 0.04
+
+SELECTED:[Commerce_scenario]
+MATCH!
+SILVER:205	23722	1	6	0	4101579	The report charged that Panama 's Manuel Noriega is not only in league with the drug traffickers but also is bullying the press as never before .	1959	bully.v	92	Manipulate_into_doing	MANUAL	6549592	109	116	JKs	bullying
+LINKED:[20	20	109	116	bn:00083061v		http://babelnet.org/rdf/s00083061v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12314 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	6	0	4101580	`` Noriega has closed every independent newspaper , radio and television station and arrested , tortured or forced into exile a long list of reporters , '' the statement declared .	13591	newspaper.n	298	Text	MANUAL	6549596	40	48	JKs	newspaper
+LINKED:[6	6	40	48	bn:00057563n	http://dbpedia.org/resource/Newspaper	http://babelnet.org/rdf/s00057563n	0.86021507	0.35714287	0.09569378	BABELFY]
+RANK:=== COUNTER  Counter 12315 ===
+	Text: 0.11044776119402985
+	Recording: 0.007462686567164179
+	Sound_movement: 0.005970149253731343
+	Out_of_existence: 0.004477611940298508
+	History: 0.0029850746268656717
+	Heralding: 0.0029850746268656717
+
+SELECTED:[Text]
+MATCH!
+SILVER:205	23722	2	6	0	4101580	`` Noriega has closed every independent newspaper , radio and television station and arrested , tortured or forced into exile a long list of reporters , '' the statement declared .	4733	arrest.v	202	Arrest	MANUAL	6549597	85	92	JKs	arrested
+LINKED:[13	13	85	92	bn:00082728v		http://babelnet.org/rdf/s00082728v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12316 ===
+	Arrest: 0.027777777777777776
+
+SELECTED:[Arrest]
+MATCH!
+SILVER:205	23722	2	6	0	4101580	`` Noriega has closed every independent newspaper , radio and television station and arrested , tortured or forced into exile a long list of reporters , '' the statement declared .	10390	torture.v	112	Cause_harm	MANUAL	6549598	96	103	JKs	tortured
+LINKED:[15	15	96	103	bn:00097112a		http://babelnet.org/rdf/s00097112a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12317 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	6	0	4101580	`` Noriega has closed every independent newspaper , radio and television station and arrested , tortured or forced into exile a long list of reporters , '' the statement declared .	12057	force.v	55	Cause_motion	MANUAL	6549599	108	113	JKs	forced
+LINKED:[17	17	108	113	bn:00087234v		http://babelnet.org/rdf/s00087234v	1.0	0.071428575	0.0023923444	BABELFY]
+RANK:=== COUNTER  Counter 12318 ===
+	Manipulation: 0.06666666666666667
+	Cause_motion: 0.054901960784313725
+	Ingest_substance: 0.023529411764705882
+
+SELECTED:[Cause_motion]
+MATCH!
+SILVER:205	23722	2	6	0	4101580	`` Noriega has closed every independent newspaper , radio and television station and arrested , tortured or forced into exile a long list of reporters , '' the statement declared .	2193	long.a	108	Dimension	MANUAL	6549600	128	131	JKs	long
+LINKED:[21	21	128	131	bn:00106124a		http://babelnet.org/rdf/s00106124a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12319 ===
+	Duration_attribute: 4.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	6	0	4101580	`` Noriega has closed every independent newspaper , radio and television station and arrested , tortured or forced into exile a long list of reporters , '' the statement declared .	13756	list.n	298	Text	MANUAL	6549601	133	136	JKs	list
+LINKED:[22	22	133	136	bn:00051508n	http://dbpedia.org/resource/Listing_(computer)	http://babelnet.org/rdf/s00051508n	0.8	0.21428572	0.014354067	BABELFY]
+RANK:=== COUNTER  Counter 12320 ===
+	Text: 0.12333333333333334
+
+SELECTED:[Text]
+MATCH!
+SILVER:205	23722	2	6	0	4101580	`` Noriega has closed every independent newspaper , radio and television station and arrested , tortured or forced into exile a long list of reporters , '' the statement declared .	754	statement.n	43	Statement	MANUAL	6549602	160	168	JKs	statement
+LINKED:[27	27	160	168	bn:00074033n		http://babelnet.org/rdf/s00074033n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12321 ===
+	Statement: 0.34210526315789475
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23722	2	6	0	4101580	`` Noriega has closed every independent newspaper , radio and television station and arrested , tortured or forced into exile a long list of reporters , '' the statement declared .	714	declare.v	43	Statement	MANUAL	6549603	170	177	JKs	declared
+LINKED:[28	28	170	177	bn:00086380v		http://babelnet.org/rdf/s00086380v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12322 ===
+	Statement: 0.4642857142857143
+	Adopt_selection: 0.02857142857142857
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23722	1	7	0	4101581	It added : `` In Cuba , public enemy No. 1 of press freedoms in the hemisphere , repression of journalists both Cuban and foreign is worse than ever . ''	673	add.v	43	Statement	MANUAL	6549604	3	7	JKs	added
+LINKED:[1	1	3	7	bn:00082317v		http://babelnet.org/rdf/s00082317v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12323 ===
+	Cause_change_of_position_on_a_scale: 0.03636363636363636
+	Commutative_process: 0.007272727272727273
+	Cause_to_be_included: 0.005454545454545455
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	7	0	4101581	It added : `` In Cuba , public enemy No. 1 of press freedoms in the hemisphere , repression of journalists both Cuban and foreign is worse than ever . ''	12180	foreign.a	1483	Foreign_or_domestic_country	MANUAL	6549608	122	128	JKs	foreign
+LINKED:[24	24	122	128	bn:00102647a		http://babelnet.org/rdf/s00102647a	1.0	0.071428575	0.0056497175	BABELFY]
+RANK:=== COUNTER  Counter 12324 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	7	0	4101581	It added : `` In Cuba , public enemy No. 1 of press freedoms in the hemisphere , repression of journalists both Cuban and foreign is worse than ever . ''	6630	bad.a	370	Morality_evaluation	MANUAL	6549609	133	137	JKs	worse
+LINKED:[26	26	133	137	bn:00113940a		http://babelnet.org/rdf/s00113940a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12325 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	7	0	4101582	And in Nicaragua , promises of press freedom by the Sandinistas `` have not materialized . ''	480	promise.n	33	Commitment	MANUAL	6549611	19	26	JKs	promises
+LINKED:[4	4	19	26	bn:00092065v		http://babelnet.org/rdf/s00092065v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12326 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	7	0	4101582	And in Nicaragua , promises of press freedom by the Sandinistas `` have not materialized . ''	5818	materialize.v	316	Coming_to_be	MANUAL	6549612	76	87	JKs	materialized
+LINKED:[14	14	76	87	bn:00089200v		http://babelnet.org/rdf/s00089200v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12327 ===
+	Coming_to_be: 0.125
+
+SELECTED:[Coming_to_be]
+MATCH!
+SILVER:205	23722	1	8	0	4101583	As it happens , the four countries cited , Colombia , Cuba , Panama and Nicaragua , are not only where the press is under greatest attack but also are linked by the drug trade and left-wing politics .	4886	happen.v	187	Event	MANUAL	6549613	6	12	JKs	happens
+LINKED:[2	2	6	12	bn:00085337v		http://babelnet.org/rdf/s00085337v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12328 ===
+	Event: 0.06111111111111111
+	Coincidence: 0.022222222222222223
+	Take_place_of: 0.016666666666666666
+	Eventive_affecting: 0.008333333333333333
+
+SELECTED:[Event]
+MATCH!
+SILVER:205	23722	1	8	0	4101583	As it happens , the four countries cited , Colombia , Cuba , Panama and Nicaragua , are not only where the press is under greatest attack but also are linked by the drug trade and left-wing politics .	3683	country.n	195	Political_locales	MANUAL	6549615	25	33	JKs	countries
+LINKED:[6	6	25	33	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12329 ===
+	Political_locales: 0.034736842105263156
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:205	23722	1	8	0	4101583	As it happens , the four countries cited , Colombia , Cuba , Panama and Nicaragua , are not only where the press is under greatest attack but also are linked by the drug trade and left-wing politics .	8989	linked.a	720	Cognitive_connection	MANUAL	6549619	151	156	JKs	linked
+LINKED:[30	30	151	156	bn:00082868v		http://babelnet.org/rdf/s00082868v	1.0	0.06666667	9.823183E-4	BABELFY]
+RANK:=== COUNTER  Counter 12330 ===
+	Make_cognitive_connection: 0.010638297872340425
+	Relating_concepts: 0.00851063829787234
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	8	0	4101583	As it happens , the four countries cited , Colombia , Cuba , Panama and Nicaragua , are not only where the press is under greatest attack but also are linked by the drug trade and left-wing politics .	10789	trade.n	1170	Exchange	MANUAL	6549620	170	174	JKs	trade
+LINKED:[34	34	170	174	bn:00077860n	http://dbpedia.org/resource/Trade	http://babelnet.org/rdf/s00077860n	0.827957	0.46666667	0.037819255	BABELFY]
+RANK:=== COUNTER  Counter 12331 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	8	0	4101583	As it happens , the four countries cited , Colombia , Cuba , Panama and Nicaragua , are not only where the press is under greatest attack but also are linked by the drug trade and left-wing politics .	12600	cite.v	1601	Adducing	MANUAL	6549621	35	39	JKs	cited
+LINKED:[7	7	35	39	bn:00082412v		http://babelnet.org/rdf/s00082412v	1.0	0.06666667	9.823183E-4	BABELFY]
+RANK:=== COUNTER  Counter 12332 ===
+	Judgment_communication: 0.25
+	Adducing: 0.013636363636363636
+	Mention: 0.00909090909090909
+
+SELECTED:[Adducing]
+MATCH!
+SILVER:205	23722	2	8	0	4101584	Noriega is close to Castro and may once have been his agent .	7340	close.a	253	Social_connection	MANUAL	6549622	11	15	JKs	close
+LINKED:[2	2	11	15	bn:00099857a		http://babelnet.org/rdf/s00099857a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12333 ===
+	Clarity_of_resolution: 5.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	3	8	0	4101585	Sandinistas Thomas Borge and the Ortega brothers are Castro proteges ; he backed their takeover of Nicaragua .	2155	brother.n	104	Kinship	MANUAL	6549624	40	47	JKs	brothers
+LINKED:[6	6	40	47	bn:00011357n		http://babelnet.org/rdf/s00011357n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12334 ===
+	Kinship: 0.29411764705882354
+
+SELECTED:[Kinship]
+MATCH!
+SILVER:205	23722	4	8	0	4101586	In Colombia , the drug-financed guerrillas trying to seize the country and destroy democracy include M-19 , which Castro has clearly backed .	2465	try.v	116	Attempt	MANUAL	6549628	43	48	JKs	trying
+LINKED:[6	6	43	48	bn:00082353v		http://babelnet.org/rdf/s00082353v	0.8	0.22222222	0.010989011	BABELFY]
+RANK:=== COUNTER  Counter 12335 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	4	8	0	4101586	In Colombia , the drug-financed guerrillas trying to seize the country and destroy democracy include M-19 , which Castro has clearly backed .	7535	seize.v	410	Taking	MANUAL	6549629	53	57	JKs	seize
+LINKED:[8	8	53	57	bn:00085207v		http://babelnet.org/rdf/s00085207v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12336 ===
+	Manipulation: 0.11333333333333333
+	Taking: 0.016666666666666666
+
+SELECTED:[Taking]
+MATCH!
+SILVER:205	23722	4	8	0	4101586	In Colombia , the drug-financed guerrillas trying to seize the country and destroy democracy include M-19 , which Castro has clearly backed .	3683	country.n	195	Political_locales	MANUAL	6549630	63	69	JKs	country
+LINKED:[10	10	63	69	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.8622754	0.8888889	0.3956044	BABELFY]
+RANK:=== COUNTER  Counter 12337 ===
+	Political_locales: 0.034736842105263156
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:205	23722	4	8	0	4101586	In Colombia , the drug-financed guerrillas trying to seize the country and destroy democracy include M-19 , which Castro has clearly backed .	7622	destroy.v	417	Destroying	MANUAL	6549631	75	81	JKs	destroy
+LINKED:[12	12	75	81	bn:00086700v		http://babelnet.org/rdf/s00086700v	1.0	0.11111111	0.0027472528	BABELFY]
+RANK:=== COUNTER  Counter 12338 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	4	8	0	4101586	In Colombia , the drug-financed guerrillas trying to seize the country and destroy democracy include M-19 , which Castro has clearly backed .	10687	include.v	1153	Inclusion	MANUAL	6549632	93	99	JKs	include
+LINKED:[14	14	93	99	bn:00082370v		http://babelnet.org/rdf/s00082370v	0.8	0.22222222	0.010989011	BABELFY]
+RANK:=== COUNTER  Counter 12339 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	4	8	0	4101586	In Colombia , the drug-financed guerrillas trying to seize the country and destroy democracy include M-19 , which Castro has clearly backed .	13814	clearly.adv	1360	Obviousness	MANUAL	6549633	125	131	JKs	clearly
+LINKED:[20	20	125	131	bn:00114740r		http://babelnet.org/rdf/s00114740r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12340 ===
+	Obviousness: 0.13076923076923078
+
+SELECTED:[Obviousness]
+MATCH!
+SILVER:205	23722	4	8	0	4101586	In Colombia , the drug-financed guerrillas trying to seize the country and destroy democracy include M-19 , which Castro has clearly backed .	16700	guerrilla.n	2598	Irregular_combatants	MANUAL	6587555	32	41	RLG	guerrillas
+LINKED:[5	5	32	41	bn:00042081n	http://dbpedia.org/resource/Guerrilla_warfare	http://babelnet.org/rdf/s00042081n	0.75	0.33333334	0.041208792	BABELFY]
+RANK:=== COUNTER  Counter 12341 ===
+	People_by_vocation: 0.037606837606837605
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	9	0	4101587	Robert Merkel , a former U.S. attorney handling drug indictments in Florida , does n't think for a minute that Castro 's much publicized trials of high officials engaged in the drug trade mean he has broken off with the Medellin drug cartel .	7942	indictment.n	129	Notification_of_charges	MANUAL	6549636	53	63	JKs	indictments
+LINKED:[9	9	53	63	bn:00010411n	http://dbpedia.org/resource/Indictment	http://babelnet.org/rdf/s00010411n	0.95454544	0.11111111	0.0061728396	BABELFY]
+RANK:=== COUNTER  Counter 12342 ===
+	Notification_of_charges: 0.012195121951219513
+
+SELECTED:[Notification_of_charges]
+MATCH!
+SILVER:205	23722	1	9	0	4101587	Robert Merkel , a former U.S. attorney handling drug indictments in Florida , does n't think for a minute that Castro 's much publicized trials of high officials engaged in the drug trade mean he has broken off with the Medellin drug cartel .	11959	think.v	1412	Opinion	MANUAL	6549638	87	91	JKs	think
+LINKED:[16	16	87	91	bn:00083370v		http://babelnet.org/rdf/s00083370v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12343 ===
+	Awareness: 0.044
+	Categorization: 0.04
+	Opinion: 0.022
+	Regard: 0.012
+
+SELECTED:[Opinion]
+MATCH!
+SILVER:205	23722	1	9	0	4101587	Robert Merkel , a former U.S. attorney handling drug indictments in Florida , does n't think for a minute that Castro 's much publicized trials of high officials engaged in the drug trade mean he has broken off with the Medellin drug cartel .	3873	minute.n	224	Measure_duration	MANUAL	6549639	99	104	JKs	minute
+LINKED:[19	19	99	104	bn:00055094n	http://dbpedia.org/resource/Minute	http://babelnet.org/rdf/s00055094n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12344 ===
+	Calendric_unit: 0.13846153846153847
+	Measure_duration: 0.03333333333333333
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:205	23722	1	9	0	4101587	Robert Merkel , a former U.S. attorney handling drug indictments in Florida , does n't think for a minute that Castro 's much publicized trials of high officials engaged in the drug trade mean he has broken off with the Medellin drug cartel .	8820	trial.n	201	Trial	MANUAL	6549641	137	142	JKs	trials
+LINKED:[25	25	137	142	bn:00068548n		http://babelnet.org/rdf/s00068548n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12345 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	9	0	4101587	Robert Merkel , a former U.S. attorney handling drug indictments in Florida , does n't think for a minute that Castro 's much publicized trials of high officials engaged in the drug trade mean he has broken off with the Medellin drug cartel .	10625	official.n	73	Leadership	MANUAL	6549642	152	160	JKs	officials
+LINKED:[28	28	152	160	bn:00036837n	http://dbpedia.org/resource/Official	http://babelnet.org/rdf/s00036837n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12346 ===
+	Leadership: 0.1028169014084507
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:205	23722	1	9	0	4101587	Robert Merkel , a former U.S. attorney handling drug indictments in Florida , does n't think for a minute that Castro 's much publicized trials of high officials engaged in the drug trade mean he has broken off with the Medellin drug cartel .	12777	engage.v	198	Intentionally_act	MANUAL	6549643	162	168	JKs	engaged
+LINKED:[29	29	162	168	bn:00087628v		http://babelnet.org/rdf/s00087628v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12347 ===
+	Intentionally_act: 0.13636363636363635
+
+SELECTED:[Intentionally_act]
+MATCH!
+SILVER:205	23722	1	9	0	4101587	Robert Merkel , a former U.S. attorney handling drug indictments in Florida , does n't think for a minute that Castro 's much publicized trials of high officials engaged in the drug trade mean he has broken off with the Medellin drug cartel .	10789	trade.n	1170	Exchange	MANUAL	6549645	182	186	JKs	trade
+LINKED:[33	33	182	186	bn:00077860n	http://dbpedia.org/resource/Trade	http://babelnet.org/rdf/s00077860n	0.8608696	0.33333334	0.02910053	BABELFY]
+RANK:=== COUNTER  Counter 12348 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	9	0	4101587	Robert Merkel , a former U.S. attorney handling drug indictments in Florida , does n't think for a minute that Castro 's much publicized trials of high officials engaged in the drug trade mean he has broken off with the Medellin drug cartel .	14369	mean.v	5	Causation	MANUAL	6549646	188	191	JKs	mean
+LINKED:[34	34	188	191	bn:00086673v		http://babelnet.org/rdf/s00086673v	0.7058824	0.11111111	0.0035273368	BABELFY]
+RANK:=== COUNTER  Counter 12349 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	9	0	4101587	Robert Merkel , a former U.S. attorney handling drug indictments in Florida , does n't think for a minute that Castro 's much publicized trials of high officials engaged in the drug trade mean he has broken off with the Medellin drug cartel .	11786	cartel.n	1371	Organization	MANUAL	6549647	234	239	JKs	cartel
+LINKED:[43	43	234	239	bn:00016300n	http://dbpedia.org/resource/Trust_(electronics_company)	http://babelnet.org/rdf/s00016300n	1.0	0.25925925	0.018518519	BABELFY]
+RANK:=== COUNTER  Counter 12350 ===
+	Organization: 0.013725490196078431
+
+SELECTED:[Organization]
+MATCH!
+SILVER:205	23722	1	9	0	4101587	Robert Merkel , a former U.S. attorney handling drug indictments in Florida , does n't think for a minute that Castro 's much publicized trials of high officials engaged in the drug trade mean he has broken off with the Medellin drug cartel .	17193	engage.v	1144	Participation	MANUAL	6639252	162	168	PKe	engaged
+LINKED:[29	29	162	168	bn:00087628v		http://babelnet.org/rdf/s00087628v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12351 ===
+	Intentionally_act: 0.13636363636363635
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	9	0	4101588	`` If the cartel succeeds in blackmailing the Colombian authorities into negotiations , the cartel will be in control and Fidel can exploit his past relationships with them , '' he told the Journal 's David Asman recently .	11786	cartel.n	1371	Organization	MANUAL	6549779	10	15	JKs	cartel
+LINKED:[3	3	10	15	bn:00016300n	http://dbpedia.org/resource/Trust_(electronics_company)	http://babelnet.org/rdf/s00016300n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12352 ===
+	Organization: 0.013725490196078431
+
+SELECTED:[Organization]
+MATCH!
+SILVER:205	23722	2	9	0	4101588	`` If the cartel succeeds in blackmailing the Colombian authorities into negotiations , the cartel will be in control and Fidel can exploit his past relationships with them , '' he told the Journal 's David Asman recently .	11831	succeed.v	1388	Success_or_failure	MANUAL	6549780	17	24	JKs	succeeds
+LINKED:[4	4	17	24	bn:00084086v		http://babelnet.org/rdf/s00084086v	1.0	0.083333336	0.010416667	BABELFY]
+RANK:=== COUNTER  Counter 12353 ===
+	Success_or_failure: 0.03
+	Successful_action: 0.0275
+
+SELECTED:[Success_or_failure]
+MATCH!
+SILVER:205	23722	2	9	0	4101588	`` If the cartel succeeds in blackmailing the Colombian authorities into negotiations , the cartel will be in control and Fidel can exploit his past relationships with them , '' he told the Journal 's David Asman recently .	1957	blackmail.v	92	Manipulate_into_doing	MANUAL	6549781	29	40	JKs	blackmailing
+LINKED:[6	6	29	40	bn:00083537v		http://babelnet.org/rdf/s00083537v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12354 ===
+	Manipulate_into_doing: 0.04814814814814815
+
+SELECTED:[Manipulate_into_doing]
+MATCH!
+SILVER:205	23722	2	9	0	4101588	`` If the cartel succeeds in blackmailing the Colombian authorities into negotiations , the cartel will be in control and Fidel can exploit his past relationships with them , '' he told the Journal 's David Asman recently .	11420	authority.n	73	Leadership	MANUAL	6549782	56	66	JKs	authorities
+LINKED:[9	9	56	66	bn:00007293n	http://dbpedia.org/resource/Authorization	http://babelnet.org/rdf/s00007293n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12355 ===
+	Leadership: 0.15208333333333332
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:205	23722	2	9	0	4101588	`` If the cartel succeeds in blackmailing the Colombian authorities into negotiations , the cartel will be in control and Fidel can exploit his past relationships with them , '' he told the Journal 's David Asman recently .	10648	negotiation.n	34	Discussion	MANUAL	6549783	73	84	JKs	negotiations
+LINKED:[11	11	73	84	bn:00057210n		http://babelnet.org/rdf/s00057210n	1.0	0.083333336	0.010416667	BABELFY]
+RANK:=== COUNTER  Counter 12356 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	9	0	4101588	`` If the cartel succeeds in blackmailing the Colombian authorities into negotiations , the cartel will be in control and Fidel can exploit his past relationships with them , '' he told the Journal 's David Asman recently .	11786	cartel.n	1371	Organization	MANUAL	6549784	92	97	JKs	cartel
+LINKED:[14	14	92	97	bn:00016300n	http://dbpedia.org/resource/Trust_(electronics_company)	http://babelnet.org/rdf/s00016300n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12357 ===
+	Organization: 0.013725490196078431
+
+SELECTED:[Organization]
+MATCH!
+SILVER:205	23722	2	9	0	4101588	`` If the cartel succeeds in blackmailing the Colombian authorities into negotiations , the cartel will be in control and Fidel can exploit his past relationships with them , '' he told the Journal 's David Asman recently .	13613	control.n	1800	Being_in_control	MANUAL	6549785	110	116	JKs	control
+LINKED:[18	18	110	116	bn:00022283n		http://babelnet.org/rdf/s00022283n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12358 ===
+	Be_in_control: 1.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	9	0	4101588	`` If the cartel succeeds in blackmailing the Colombian authorities into negotiations , the cartel will be in control and Fidel can exploit his past relationships with them , '' he told the Journal 's David Asman recently .	14550	recently.adv	1895	Temporal_collocation	MANUAL	6549787	213	220	JKs	recently
+LINKED:[36	36	213	220	bn:00116085r		http://babelnet.org/rdf/s00116085r	1.0	0.083333336	0.020833334	BABELFY]
+RANK:=== COUNTER  Counter 12359 ===
+	Temporal_collocation: 0.06578947368421052
+
+SELECTED:[Temporal_collocation]
+MATCH!
+SILVER:205	23722	2	9	0	4101588	`` If the cartel succeeds in blackmailing the Colombian authorities into negotiations , the cartel will be in control and Fidel can exploit his past relationships with them , '' he told the Journal 's David Asman recently .	9177	tell.v	750	Telling	MANUAL	6549793	181	184	JKs	told
+LINKED:[30	30	181	184	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12360 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.05
+	Becoming_aware: 0.05
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	10	0	4101589	The struggle against the drug lords in Colombia will be a near thing .	1921	struggle.n	93	Hostile_encounter	MANUAL	6547513	4	11	RLG	struggle
+LINKED:[1	1	4	11	bn:15683246n	http://dbpedia.org/resource/New_(album)	http://babelnet.org/rdf/s15683246n	1.0	0.25	0.03125	BABELFY]
+RANK:=== COUNTER  Counter 12361 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	10	0	4101589	The struggle against the drug lords in Colombia will be a near thing .	11806	near	375	Difficulty	MANUAL	6547515	58	61	RLG	near
+LINKED:[11	11	58	61	bn:00099859a		http://babelnet.org/rdf/s00099859a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12362 ===
+	Attention: 0.02727272727272727
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	10	0	4101590	This week , the government arrested Jose Abello Silva , said to be the fourth-ranking cartel leader .	3947	week.n	229	Calendric_unit	MANUAL	6547516	5	8	RLG	week
+LINKED:[1	1	5	8	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12363 ===
+	Calendric_unit: 0.15
+	Measure_duration: 0.03611111111111111
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23722	2	10	0	4101590	This week , the government arrested Jose Abello Silva , said to be the fourth-ranking cartel leader .	12182	government.n	73	Leadership	MANUAL	6547517	16	25	RLG	government
+LINKED:[4	4	16	25	bn:00001426n	http://dbpedia.org/resource/Administration_(government)	http://babelnet.org/rdf/s00001426n	0.9230769	0.5	0.46153846	BABELFY]
+RANK:=== COUNTER  Counter 12364 ===
+	Leadership: 0.1697674418604651
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:205	23722	2	10	0	4101590	This week , the government arrested Jose Abello Silva , said to be the fourth-ranking cartel leader .	4733	arrest.v	202	Arrest	MANUAL	6547518	27	34	RLG	arrested
+LINKED:[5	5	27	34	bn:00082728v		http://babelnet.org/rdf/s00082728v	1.0	0.16666667	0.03846154	BABELFY]
+RANK:=== COUNTER  Counter 12365 ===
+	Arrest: 0.027777777777777776
+
+SELECTED:[Arrest]
+MATCH!
+SILVER:205	23722	2	10	0	4101590	This week , the government arrested Jose Abello Silva , said to be the fourth-ranking cartel leader .	751	say.v	43	Statement	MANUAL	6547519	56	59	RLG	said
+LINKED:[10	10	56	59	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12366 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.05
+	Becoming_aware: 0.05
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23722	2	10	0	4101590	This week , the government arrested Jose Abello Silva , said to be the fourth-ranking cartel leader .	1593	leader.n	73	Leadership	MANUAL	6547521	93	98	RLG	leader
+LINKED:[16	16	93	98	bn:00050371n		http://babelnet.org/rdf/s00050371n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12367 ===
+	Leadership: 0.38421052631578945
+	First_rank: 0.015789473684210527
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:205	23722	3	10	0	4101591	He will probably be extradited to the U.S. for trial under an extradition treaty President Virgilia Barco has revived .	10854	probably.adv	114	Likelihood	MANUAL	6547522	8	15	RLG	probably
+LINKED:[2	2	8	15	bn:00114523r		http://babelnet.org/rdf/s00114523r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12368 ===
+	Likelihood: 0.13333333333333333
+
+SELECTED:[Likelihood]
+MATCH!
+SILVER:205	23722	3	10	0	4101591	He will probably be extradited to the U.S. for trial under an extradition treaty President Virgilia Barco has revived .	11784	extradite.v	1370	Extradition	MANUAL	6547523	20	29	RLG	extradited
+LINKED:[4	4	20	29	bn:00086534v		http://babelnet.org/rdf/s00086534v	1.0	0.5	0.045845274	BABELFY]
+RANK:=== COUNTER  Counter 12369 ===
+	Extradition: 0.01764705882352941
+
+SELECTED:[Extradition]
+MATCH!
+SILVER:205	23722	3	10	0	4101591	He will probably be extradited to the U.S. for trial under an extradition treaty President Virgilia Barco has revived .	11785	extradition.n	1370	Extradition	MANUAL	6547525	62	72	RLG	extradition
+LINKED:[12	12	62	72	bn:00032474n	http://dbpedia.org/resource/Extradition	http://babelnet.org/rdf/s00032474n	1.0	0.625	0.071633235	BABELFY]
+RANK:=== COUNTER  Counter 12370 ===
+	Extradition: 0.005
+
+SELECTED:[Extradition]
+MATCH!
+SILVER:205	23722	3	10	0	4101591	He will probably be extradited to the U.S. for trial under an extradition treaty President Virgilia Barco has revived .	11815	treaty.n	1380	Be_in_agreement_on_action	MANUAL	6547526	74	79	RLG	treaty
+LINKED:[13	13	74	79	bn:00000728n	http://dbpedia.org/resource/Pact	http://babelnet.org/rdf/s00000728n	0.94736844	0.5	0.103151865	BABELFY]
+RANK:=== COUNTER  Counter 12371 ===
+	Commitment: 0.01834862385321101
+	Documents: 0.012385321100917432
+	Terms_of_agreement: 0.006422018348623854
+	Claim_ownership: 0.0045871559633027525
+	Be_in_agreement_on_assessment: 0.003669724770642202
+	Renting: 0.0027522935779816515
+	Ratification: 0.0027522935779816515
+	Make_agreement_on_action: 0.001834862385321101
+	Get_a_job: 0.001834862385321101
+	Be_in_agreement_on_action: 0.001834862385321101
+
+SELECTED:[Be_in_agreement_on_action]
+MATCH!
+SILVER:205	23722	3	10	0	4101591	He will probably be extradited to the U.S. for trial under an extradition treaty President Virgilia Barco has revived .	11788	revive.v	1372	Cause_to_resume	MANUAL	6547527	110	116	RLG	revived
+LINKED:[18	18	110	116	bn:00092923v		http://babelnet.org/rdf/s00092923v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12372 ===
+	Cure: 0.125
+	Rejuvenation: 0.075
+	Cause_to_resume: 0.025
+
+SELECTED:[Cause_to_resume]
+MATCH!
+SILVER:205	23722	4	10	0	4101592	Later , another high-ranking trafficker , Leonidas Vargas , was arrested and 1,000 pounds of dynamite seized .	11783	trafficker.n	82	Commerce_scenario	MANUAL	6547530	29	38	RLG	trafficker
+LINKED:[4	4	29	38	bn:00053479n	http://dbpedia.org/resource/Sales	http://babelnet.org/rdf/s00053479n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12373 ===
+	Commerce_sell: 0.045
+	Commerce_scenario: 0.04
+
+SELECTED:[Commerce_scenario]
+MATCH!
+SILVER:205	23722	4	10	0	4101592	Later , another high-ranking trafficker , Leonidas Vargas , was arrested and 1,000 pounds of dynamite seized .	4733	arrest.v	202	Arrest	MANUAL	6547531	64	71	RLG	arrested
+LINKED:[10	10	64	71	bn:00082728v		http://babelnet.org/rdf/s00082728v	0.75	0.33333334	0.3	BABELFY]
+RANK:=== COUNTER  Counter 12374 ===
+	Arrest: 0.027777777777777776
+
+SELECTED:[Arrest]
+MATCH!
+SILVER:205	23722	4	10	0	4101592	Later , another high-ranking trafficker , Leonidas Vargas , was arrested and 1,000 pounds of dynamite seized .	2808	pound.n	147	Measure_mass	MANUAL	6547533	83	88	RLG	pounds
+LINKED:[13	13	83	88	bn:00050327n	http://dbpedia.org/resource/Pound_(mass)	http://babelnet.org/rdf/s00050327n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12375 ===
+	Measure_mass: 0.013207547169811321
+
+SELECTED:[Measure_mass]
+MATCH!
+SILVER:205	23722	4	10	0	4101592	Later , another high-ranking trafficker , Leonidas Vargas , was arrested and 1,000 pounds of dynamite seized .	11790	dynamite.n	426	Weapon	MANUAL	6547534	93	100	RLG	dynamite
+LINKED:[15	15	93	100	bn:00029300n	http://dbpedia.org/resource/Dynamite	http://babelnet.org/rdf/s00029300n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12376 ===
+	Weapon: 0.08571428571428572
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:205	23722	4	10	0	4101592	Later , another high-ranking trafficker , Leonidas Vargas , was arrested and 1,000 pounds of dynamite seized .	7535	seize.v	410	Taking	MANUAL	6547535	102	107	RLG	seized
+LINKED:[16	16	102	107	bn:00093469v		http://babelnet.org/rdf/s00093469v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12377 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	5	10	0	4101593	Mr . Barco has refused U.S. troops or advisers but has accepted U.S. military aid .	12282	military.n	1514	Military	MANUAL	6547537	69	76	RLG	military
+LINKED:[13	13	69	76	bn:00106724a		http://babelnet.org/rdf/s00106724a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12378 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	5	10	0	4101593	Mr . Barco has refused U.S. troops or advisers but has accepted U.S. military aid .	13123	aid	391	Assistance	MANUAL	6547539	78	80	RLG	aid
+LINKED:[14	14	78	80	bn:00002156n	http://dbpedia.org/resource/Aid	http://babelnet.org/rdf/s00002156n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12379 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	5	10	0	4101593	Mr . Barco has refused U.S. troops or advisers but has accepted U.S. military aid .	12747	accept.v	1623	Respond_to_proposal	MANUAL	6547595	55	62	RLG	accepted
+LINKED:[11	11	55	62	bn:00082197v		http://babelnet.org/rdf/s00082197v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12380 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	11	0	4101594	President Bush has agreed to meet within 90 days with Mr . Barco , President Alan Garcia of Peru and President Jaime Paz Zamora of Bolivia to discuss the drug problem .	1599	president	73	Leadership	MANUAL	6547540	0	8	RLG	President
+LINKED:[0	0	0	8	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12381 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	11	0	4101594	President Bush has agreed to meet within 90 days with Mr . Barco , President Alan Garcia of Peru and President Jaime Paz Zamora of Bolivia to discuss the drug problem .	11656	agree.v	1342	Make_agreement_on_action	MANUAL	6547541	19	24	RLG	agreed
+LINKED:[3	3	19	24	bn:00082475v		http://babelnet.org/rdf/s00082475v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12382 ===
+	Be_in_agreement_on_assessment: 0.021052631578947368
+	Make_agreement_on_action: 0.021052631578947368
+
+SELECTED:[Make_agreement_on_action]
+MATCH!
+SILVER:205	23722	1	11	0	4101594	President Bush has agreed to meet within 90 days with Mr . Barco , President Alan Garcia of Peru and President Jaime Paz Zamora of Bolivia to discuss the drug problem .	11780	meet.v	730	Come_together	MANUAL	6547542	29	32	RLG	meet
+LINKED:[5	5	29	32	bn:00085339v		http://babelnet.org/rdf/s00085339v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12383 ===
+	Response: 0.02631578947368421
+	Encounter: 0.021052631578947368
+	Make_acquaintance: 0.015789473684210527
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	11	0	4101594	President Bush has agreed to meet within 90 days with Mr . Barco , President Alan Garcia of Peru and President Jaime Paz Zamora of Bolivia to discuss the drug problem .	3946	day.n	229	Calendric_unit	MANUAL	6547544	44	47	RLG	days
+LINKED:[8	8	44	47	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12384 ===
+	Calendric_unit: 0.03375
+	Measure_duration: 0.008125
+	Timespan: 0.003125
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23722	1	11	0	4101594	President Bush has agreed to meet within 90 days with Mr . Barco , President Alan Garcia of Peru and President Jaime Paz Zamora of Bolivia to discuss the drug problem .	1599	president	73	Leadership	MANUAL	6547545	67	75	RLG	President
+LINKED:[14	14	67	75	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12385 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	11	0	4101594	President Bush has agreed to meet within 90 days with Mr . Barco , President Alan Garcia of Peru and President Jaime Paz Zamora of Bolivia to discuss the drug problem .	1599	president	73	Leadership	MANUAL	6547546	101	109	RLG	President
+LINKED:[20	20	101	109	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12386 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	1	11	0	4101594	President Bush has agreed to meet within 90 days with Mr . Barco , President Alan Garcia of Peru and President Jaime Paz Zamora of Bolivia to discuss the drug problem .	506	discuss.v	34	Discussion	MANUAL	6547547	142	148	RLG	discuss
+LINKED:[27	27	142	148	bn:00086942v		http://babelnet.org/rdf/s00086942v	1.0	0.16666667	0.0037336652	BABELFY]
+RANK:=== COUNTER  Counter 12387 ===
+	Discussion: 0.1357142857142857
+
+SELECTED:[Discussion]
+MATCH!
+SILVER:205	23722	1	11	0	4101594	President Bush has agreed to meet within 90 days with Mr . Barco , President Alan Garcia of Peru and President Jaime Paz Zamora of Bolivia to discuss the drug problem .	7911	drug.n	390	Intoxicants	MANUAL	6547548	154	157	RLG	drug
+LINKED:[29	29	154	157	bn:00028872n	http://dbpedia.org/resource/Drug	http://babelnet.org/rdf/s00028872n	0.75	0.16666667	0.0024891102	BABELFY]
+RANK:=== COUNTER  Counter 12388 ===
+	Intoxicants: 0.05
+	Active_substance: 0.007142857142857143
+
+SELECTED:[Intoxicants]
+MATCH!
+SILVER:205	23722	1	11	0	4101594	President Bush has agreed to meet within 90 days with Mr . Barco , President Alan Garcia of Peru and President Jaime Paz Zamora of Bolivia to discuss the drug problem .	7356	problem.n	300	Predicament	MANUAL	6547549	159	165	RLG	problem
+LINKED:[30	30	159	165	bn:00048242n	http://dbpedia.org/resource/Problem	http://babelnet.org/rdf/s00048242n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12389 ===
+	Predicament: 0.03076923076923077
+
+SELECTED:[Predicament]
+MATCH!
+SILVER:205	23722	2	11	0	4101595	It might not be a bad idea to do that sooner , rather than later .	11822	bad	1383	Desirable_event	MANUAL	6547585	18	20	EGp	bad
+LINKED:[5	5	18	20	bn:00097966a		http://babelnet.org/rdf/s00097966a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12390 ===
+	Desirability: 0.036585365853658534
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	11	0	4101595	It might not be a bad idea to do that sooner , rather than later .	11822	bad	1383	Desirable_event	MANUAL	6547585	22	25	EGp	idea
+LINKED:[6	6	22	25	bn:00045800n	http://dbpedia.org/resource/Idea	http://babelnet.org/rdf/s00045800n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12391 ===
+	Awareness: 0.044
+	Cogitation: 0.011
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	11	0	4101595	It might not be a bad idea to do that sooner , rather than later .	11824	sooner	379	Time_vector	MANUAL	6547587	38	43	RLG	sooner
+LINKED:[10	10	38	43	bn:00115150r		http://babelnet.org/rdf/s00115150r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12392 ===
+	Relative_time: 0.2818181818181818
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	2	11	0	4101595	It might not be a bad idea to do that sooner , rather than later .	11824	sooner	379	Time_vector	MANUAL	6547587	59	63	RLG	later
+LINKED:[14	14	59	63	bn:00114633r		http://babelnet.org/rdf/s00114633r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12393 ===
+	Relative_time: 0.23846153846153847
+	Time_vector: 0.2153846153846154
+
+SELECTED:[Time_vector]
+MATCH!
+SILVER:205	23722	3	11	0	4101596	After the Panama fiasco , they will need some reassurance .	4848	fiasco.n	266	Bungling	MANUAL	6547589	17	22	RLG	fiasco
+LINKED:[3	3	17	22	bn:00562939n	http://dbpedia.org/resource/Fiasco_(bottle)	http://babelnet.org/rdf/s00562939n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12394 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	3	11	0	4101596	After the Panama fiasco , they will need some reassurance .	11791	need.v	1375	Needing	MANUAL	6547590	36	39	RLG	need
+LINKED:[7	7	36	39	bn:00091028v		http://babelnet.org/rdf/s00091028v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12395 ===
+	Required_event: 0.021052631578947368
+
+SELECTED:[]
+WRONG!
+SILVER:205	23722	3	11	0	4101596	After the Panama fiasco , they will need some reassurance .	11809	reassurance.n	1378	Reassuring	MANUAL	6547592	46	56	RLG	reassurance
+LINKED:[9	9	46	56	bn:00066451n		http://babelnet.org/rdf/s00066451n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12396 ===
+	Reassuring: 0.02727272727272727
+
+SELECTED:[Reassuring]
+MATCH!
+SILVER:205	23722	4	11	0	4101597	Certainly , the Colombian press is much in need of that .	13145	certainly.adv	114	Likelihood	MANUAL	6547593	0	8	RLG	Certainly
+LINKED:[0	0	0	8	bn:00017362n	http://dbpedia.org/resource/Certainty	http://babelnet.org/rdf/s00017362n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12397 ===
+	Likelihood: 0.07407407407407407
+	Certainty: 0.044444444444444446
+
+SELECTED:[Likelihood]
+MATCH!
+SILVER:205	23722	4	11	0	4101597	Certainly , the Colombian press is much in need of that .	13554	need.n	1375	Needing	MANUAL	6547594	43	46	RLG	need
+LINKED:[8	8	43	46	bn:00026107n	http://dbpedia.org/resource/Need	http://babelnet.org/rdf/s00026107n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12398 ===
+	Needing: 0.008823529411764706
+
+SELECTED:[Needing]
+MATCH!
+filename	LUCorpus-v0.3__wsj_2465.xml
+docAnnotations	293
+docManual	248
+docUnannotated	45
+sentences	36
+paragraphs	11
+Overlapping	176
+Disambiguated	132
+TP	111
+TN	45
+FP	0
+FN	116
+P	1.0
+R	0.4889867841409692
+F	0.6568047337278107
+A	0.5735294117647058

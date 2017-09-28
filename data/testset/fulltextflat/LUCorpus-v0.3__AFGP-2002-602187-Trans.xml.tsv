@@ -1,0 +1,150 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+205	23743	1	1	0	4103446	AFGP- 2002 -602187 ( full translation )	null	null	null	null	UNANN	6547269	null	null	null	null
+205	23743	1	2	0	4103447	[ The late Bin Baz was the grand Muslim scholar in Saudi Arabia .	null	null	null	null	UNANN	6547270	null	null	null	null
+205	23743	1	2	0	4103447	[ The late Bin Baz was the grand Muslim scholar in Saudi Arabia .	13831	grand.a	108	Dimension	MANUAL	6550791	27	31	JKs	grand
+205	23743	1	2	0	4103447	[ The late Bin Baz was the grand Muslim scholar in Saudi Arabia .	10222	muslim.n	1021	People_by_religion	MANUAL	6550792	33	38	JKs	Muslim
+205	23743	1	2	0	4103447	[ The late Bin Baz was the grand Muslim scholar in Saudi Arabia .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6550793	48	49	JKs	in
+205	23743	2	2	0	4103448	Al-Maqdasi , a Jordanian militant , is sympathetic to Al-Qaida .	null	null	null	null	UNANN	6547271	null	null	null	null
+205	23743	2	2	0	4103448	Al-Maqdasi , a Jordanian militant , is sympathetic to Al-Qaida .	8846	sympathetic.a	46	Emotion_directed	MANUAL	6550794	39	49	JKs	sympathetic
+205	23743	3	2	0	4103449	He was acquitted in Jordan of charges that he had ties to Al-Qaida .	null	null	null	null	UNANN	6547272	null	null	null	null
+205	23743	3	2	0	4103449	He was acquitted in Jordan of charges that he had ties to Al-Qaida .	6180	acquit.v	318	Verdict	MANUAL	6550795	7	15	JKs	acquitted
+205	23743	3	2	0	4103449	He was acquitted in Jordan of charges that he had ties to Al-Qaida .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6550796	17	18	JKs	in
+205	23743	3	2	0	4103449	He was acquitted in Jordan of charges that he had ties to Al-Qaida .	3647	charge.n	129	Notification_of_charges	MANUAL	6550797	30	36	JKs	charges
+205	23743	3	2	0	4103449	He was acquitted in Jordan of charges that he had ties to Al-Qaida .	2378	have.v	118	Possession	MANUAL	6550798	46	48	JKs	had
+205	23743	3	2	0	4103449	He was acquitted in Jordan of charges that he had ties to Al-Qaida .	4524	tie.n	253	Social_connection	MANUAL	6550799	50	53	JKs	ties
+205	23743	4	2	0	4103450	In a recent interview with Al-Jazeera he spoke against the Arab regimes .	null	null	null	null	UNANN	6547273	null	null	null	null
+205	23743	4	2	0	4103450	In a recent interview with Al-Jazeera he spoke against the Arab regimes .	13771	recent.a	81	Relative_time	MANUAL	6550800	5	10	JKs	recent
+205	23743	4	2	0	4103450	In a recent interview with Al-Jazeera he spoke against the Arab regimes .	752	speak.v	43	Statement	MANUAL	6550801	41	45	JKs	spoke
+205	23743	4	2	0	4103450	In a recent interview with Al-Jazeera he spoke against the Arab regimes .	13153	regime.n	73	Leadership	MANUAL	6550802	64	70	JKs	regimes
+205	23743	5	2	0	4103451	Immediately after the interview , he was apprehended again by the Jordanian authority . ]	null	null	null	null	UNANN	6547274	null	null	null	null
+205	23743	5	2	0	4103451	Immediately after the interview , he was apprehended again by the Jordanian authority . ]	11746	after.prep	81	Relative_time	MANUAL	6550803	12	16	JKs	after
+205	23743	5	2	0	4103451	Immediately after the interview , he was apprehended again by the Jordanian authority . ]	5673	apprehend.v	202	Arrest	MANUAL	6550804	41	51	JKs	apprehended
+205	23743	5	2	0	4103451	Immediately after the interview , he was apprehended again by the Jordanian authority . ]	11420	authority.n	73	Leadership	MANUAL	6550805	76	84	JKs	authority
+205	23743	1	3	0	4103452	Sheik Rida , fear God .	null	null	null	null	UNANN	6547275	null	null	null	null
+205	23743	1	3	0	4103452	Sheik Rida , fear God .	872	fear.v	48	Experiencer_focus	MANUAL	6547733	13	16	KmG	fear
+205	23743	1	3	0	4103452	Sheik Rida , fear God .	4110	sheik.n	73	Leadership	MANUAL	6547758	0	4	KmG	Sheik
+205	23743	2	3	0	4103453	You are not fair when you belittle Sheik Bin Baz 's blunder and exaggerate the one by Sheik Maqdasi ...	null	null	null	null	UNANN	6547276	null	null	null	null
+205	23743	2	3	0	4103453	You are not fair when you belittle Sheik Bin Baz 's blunder and exaggerate the one by Sheik Maqdasi ...	6598	fair.a	376	Fairness_evaluation	MANUAL	6547734	12	15	KmG	fair
+205	23743	2	3	0	4103453	You are not fair when you belittle Sheik Bin Baz 's blunder and exaggerate the one by Sheik Maqdasi ...	4110	sheik.n	73	Leadership	MANUAL	6547755	35	39	KmG	Sheik
+205	23743	2	3	0	4103453	You are not fair when you belittle Sheik Bin Baz 's blunder and exaggerate the one by Sheik Maqdasi ...	3843	one.num	218	Cardinal_numbers	MANUAL	6547756	79	81	KmG	one
+205	23743	2	3	0	4103453	You are not fair when you belittle Sheik Bin Baz 's blunder and exaggerate the one by Sheik Maqdasi ...	4110	sheik.n	73	Leadership	MANUAL	6547757	86	90	KmG	Sheik
+205	23743	2	3	0	4103453	You are not fair when you belittle Sheik Bin Baz 's blunder and exaggerate the one by Sheik Maqdasi ...	7370	belittle.v	219	Judgment_communication	MANUAL	6550790	26	33	JKs	belittle
+205	23743	1	4	0	4103454	Sheik Maqdasi did not criticize Sheik Bin Baz 's only for his edict which emphasizes not to consider a regime an apostate if it has n't adhered to Islamic laws .	null	null	null	null	UNANN	6547277	null	null	null	null
+205	23743	1	4	0	4103454	Sheik Maqdasi did not criticize Sheik Bin Baz 's only for his edict which emphasizes not to consider a regime an apostate if it has n't adhered to Islamic laws .	4110	sheik.n	73	Leadership	MANUAL	6547759	0	4	KmG	Sheik
+205	23743	1	4	0	4103454	Sheik Maqdasi did not criticize Sheik Bin Baz 's only for his edict which emphasizes not to consider a regime an apostate if it has n't adhered to Islamic laws .	7388	criticize.v	219	Judgment_communication	MANUAL	6547760	22	30	KmG	criticize
+205	23743	1	4	0	4103454	Sheik Maqdasi did not criticize Sheik Bin Baz 's only for his edict which emphasizes not to consider a regime an apostate if it has n't adhered to Islamic laws .	12418	emphasize.v	1543	Convey_importance	MANUAL	6547762	74	83	KmG	emphasizes
+205	23743	1	4	0	4103454	Sheik Maqdasi did not criticize Sheik Bin Baz 's only for his edict which emphasizes not to consider a regime an apostate if it has n't adhered to Islamic laws .	10819	consider.v	21	Categorization	MANUAL	6547763	92	99	KmG	consider
+205	23743	1	4	0	4103454	Sheik Maqdasi did not criticize Sheik Bin Baz 's only for his edict which emphasizes not to consider a regime an apostate if it has n't adhered to Islamic laws .	2331	adhere.v	117	Compliance	MANUAL	6547764	136	142	KmG	adhered
+205	23743	1	4	0	4103454	Sheik Maqdasi did not criticize Sheik Bin Baz 's only for his edict which emphasizes not to consider a regime an apostate if it has n't adhered to Islamic laws .	10020	law.n	950	Law	MANUAL	6547765	155	158	KmG	laws
+205	23743	1	4	0	4103454	Sheik Maqdasi did not criticize Sheik Bin Baz 's only for his edict which emphasizes not to consider a regime an apostate if it has n't adhered to Islamic laws .	4110	sheik.n	73	Leadership	MANUAL	6550788	32	36	JKs	Sheik
+205	23743	1	4	0	4103454	Sheik Maqdasi did not criticize Sheik Bin Baz 's only for his edict which emphasizes not to consider a regime an apostate if it has n't adhered to Islamic laws .	13153	regime.n	73	Leadership	MANUAL	6550789	103	108	JKs	regime
+205	23743	2	4	0	4103455	Well , this is not the case .	null	null	null	null	UNANN	6547278	null	null	null	null
+205	23743	3	4	0	4103456	If , you study the evidences and statements released by these people , we tend to appreciate their ignorance which was based on prominent views .	null	null	null	null	UNANN	6547279	null	null	null	null
+205	23743	3	4	0	4103456	If , you study the evidences and statements released by these people , we tend to appreciate their ignorance which was based on prominent views .	456	study.v	31	Scrutiny	MANUAL	6547767	9	13	KmG	study
+205	23743	3	4	0	4103456	If , you study the evidences and statements released by these people , we tend to appreciate their ignorance which was based on prominent views .	754	statement.n	43	Statement	MANUAL	6547768	33	42	KmG	statements
+205	23743	3	4	0	4103456	If , you study the evidences and statements released by these people , we tend to appreciate their ignorance which was based on prominent views .	5760	release.v	317	Releasing	MANUAL	6547769	44	51	KmG	released
+205	23743	3	4	0	4103456	If , you study the evidences and statements released by these people , we tend to appreciate their ignorance which was based on prominent views .	5511	people.n	304	People	MANUAL	6547770	62	67	KmG	people
+205	23743	3	4	0	4103456	If , you study the evidences and statements released by these people , we tend to appreciate their ignorance which was based on prominent views .	2659	tend.v	114	Likelihood	MANUAL	6547771	74	77	KmG	tend
+205	23743	3	4	0	4103456	If , you study the evidences and statements released by these people , we tend to appreciate their ignorance which was based on prominent views .	285	appreciate.v	28	Judgment	MANUAL	6547772	82	91	KmG	appreciate
+205	23743	3	4	0	4103456	If , you study the evidences and statements released by these people , we tend to appreciate their ignorance which was based on prominent views .	10862	ignorance.n	19	Awareness	MANUAL	6547773	99	107	KmG	ignorance
+205	23743	3	4	0	4103456	If , you study the evidences and statements released by these people , we tend to appreciate their ignorance which was based on prominent views .	11957	view.n	1412	Opinion	MANUAL	6547774	138	142	KmG	views
+205	23743	3	4	0	4103456	If , you study the evidences and statements released by these people , we tend to appreciate their ignorance which was based on prominent views .	12126	prominent.a	1460	Prominence	MANUAL	6550786	128	136	JKs	prominent
+205	23743	4	4	0	4103457	We had done that before with others who were known for their serious blunders .	null	null	null	null	UNANN	6547280	null	null	null	null
+205	23743	4	4	0	4103457	We had done that before with others who were known for their serious blunders .	4348	do.v	230	Intentionally_affect	MANUAL	6547777	7	10	KmG	done
+205	23743	4	4	0	4103457	We had done that before with others who were known for their serious blunders .	14313	serious.a	407	Importance	MANUAL	6547779	61	67	KmG	serious
+205	23743	5	4	0	4103458	I 'm not going to illustrate these evidences and statements ; God is my witness , I do n't want to deceive anyone .	null	null	null	null	UNANN	6547281	null	null	null	null
+205	23743	5	4	0	4103458	I 'm not going to illustrate these evidences and statements ; God is my witness , I do n't want to deceive anyone .	754	statement.n	43	Statement	MANUAL	6547781	49	58	KmG	statements
+205	23743	5	4	0	4103458	I 'm not going to illustrate these evidences and statements ; God is my witness , I do n't want to deceive anyone .	6412	want.v	366	Desiring	MANUAL	6547782	91	94	KmG	want
+205	23743	5	4	0	4103458	I 'm not going to illustrate these evidences and statements ; God is my witness , I do n't want to deceive anyone .	5294	deceive.v	287	Prevarication	MANUAL	6547783	99	105	KmG	deceive
+205	23743	5	4	0	4103458	I 'm not going to illustrate these evidences and statements ; God is my witness , I do n't want to deceive anyone .	12782	illustrate.v	25	Evidence	MANUAL	6550785	18	27	JKs	illustrate
+205	23743	6	4	0	4103459	However , I will mention one of these evidences reiterated by them .	null	null	null	null	UNANN	6547282	null	null	null	null
+205	23743	6	4	0	4103459	However , I will mention one of these evidences reiterated by them .	730	mention.v	43	Statement	MANUAL	6547784	17	23	KmG	mention
+205	23743	6	4	0	4103459	However , I will mention one of these evidences reiterated by them .	3843	one.num	218	Cardinal_numbers	MANUAL	6547785	25	27	KmG	one
+205	23743	6	4	0	4103459	However , I will mention one of these evidences reiterated by them .	743	reiterate.v	43	Statement	MANUAL	6547786	48	57	KmG	reiterated
+205	23743	7	4	0	4103460	Indeed , the Sheik issued two edicts regarding the same issue that contradict each other ...	null	null	null	null	UNANN	6547283	null	null	null	null
+205	23743	7	4	0	4103460	Indeed , the Sheik issued two edicts regarding the same issue that contradict each other ...	4110	sheik.n	73	Leadership	MANUAL	6547787	13	17	KmG	Sheik
+205	23743	7	4	0	4103460	Indeed , the Sheik issued two edicts regarding the same issue that contradict each other ...	14258	issue.v	319	Creating	MANUAL	6547788	19	24	KmG	issued
+205	23743	7	4	0	4103460	Indeed , the Sheik issued two edicts regarding the same issue that contradict each other ...	3844	two.num	218	Cardinal_numbers	MANUAL	6547789	26	28	KmG	two
+205	23743	7	4	0	4103460	Indeed , the Sheik issued two edicts regarding the same issue that contradict each other ...	6541	regarding.prep	373	Topic	MANUAL	6547790	37	45	KmG	regarding
+205	23743	7	4	0	4103460	Indeed , the Sheik issued two edicts regarding the same issue that contradict each other ...	10293	same.a	1029	Identicality	MANUAL	6547791	51	54	KmG	same
+205	23743	7	4	0	4103460	Indeed , the Sheik issued two edicts regarding the same issue that contradict each other ...	12630	issue.n	1608	Point_of_dispute	UNANN	6547792	null	null	null	null
+205	23743	7	4	0	4103460	Indeed , the Sheik issued two edicts regarding the same issue that contradict each other ...	12630	issue.n	1608	Point_of_dispute	UNANN	6547792	56	60	KmG	issue
+205	23743	7	4	0	4103460	Indeed , the Sheik issued two edicts regarding the same issue that contradict each other ...	7800	contradict.v	25	Evidence	MANUAL	6547793	67	76	KmG	contradict
+205	23743	1	5	0	4103461	First , he forbade seeking the aid of infidels when the Syrian Mujahiddin asked Saddam Hussein to overthrow the regime of Hafiz Al-Assad in Syria .	null	null	null	null	UNANN	6547284	null	null	null	null
+205	23743	1	5	0	4103461	First , he forbade seeking the aid of infidels when the Syrian Mujahiddin asked Saddam Hussein to overthrow the regime of Hafiz Al-Assad in Syria .	4915	seek.v	269	Seeking	MANUAL	6547794	19	25	KmG	seeking
+205	23743	1	5	0	4103461	First , he forbade seeking the aid of infidels when the Syrian Mujahiddin asked Saddam Hussein to overthrow the regime of Hafiz Al-Assad in Syria .	11699	aid	391	Assistance	MANUAL	6547795	31	33	KmG	aid
+205	23743	1	5	0	4103461	First , he forbade seeking the aid of infidels when the Syrian Mujahiddin asked Saddam Hussein to overthrow the regime of Hafiz Al-Assad in Syria .	13773	syrian.a	1103	Origin	MANUAL	6547796	56	61	KmG	Syrian
+205	23743	1	5	0	4103461	First , he forbade seeking the aid of infidels when the Syrian Mujahiddin asked Saddam Hussein to overthrow the regime of Hafiz Al-Assad in Syria .	639	ask.v	41	Request	MANUAL	6547797	74	78	KmG	asked
+205	23743	1	5	0	4103461	First , he forbade seeking the aid of infidels when the Syrian Mujahiddin asked Saddam Hussein to overthrow the regime of Hafiz Al-Assad in Syria .	1568	overthrow.v	72	Change_of_leadership	MANUAL	6547798	98	106	KmG	overthrow
+205	23743	1	5	0	4103461	First , he forbade seeking the aid of infidels when the Syrian Mujahiddin asked Saddam Hussein to overthrow the regime of Hafiz Al-Assad in Syria .	13153	regime.n	73	Leadership	MANUAL	6547799	112	117	KmG	regime
+205	23743	1	5	0	4103461	First , he forbade seeking the aid of infidels when the Syrian Mujahiddin asked Saddam Hussein to overthrow the regime of Hafiz Al-Assad in Syria .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6547800	137	138	KmG	in
+205	23743	2	5	0	4103462	However , he allowed the Gulf regimes to depend on the infidels in attacking Saddam Hussein .	null	null	null	null	UNANN	6547285	null	null	null	null
+205	23743	2	5	0	4103462	However , he allowed the Gulf regimes to depend on the infidels in attacking Saddam Hussein .	13153	regime.n	73	Leadership	MANUAL	6547801	30	36	KmG	regimes
+205	23743	2	5	0	4103462	However , he allowed the Gulf regimes to depend on the infidels in attacking Saddam Hussein .	10002	depend.v	901	Reliance	MANUAL	6547802	41	46	KmG	depend
+205	23743	2	5	0	4103462	However , he allowed the Gulf regimes to depend on the infidels in attacking Saddam Hussein .	7742	attack.v	424	Attack	MANUAL	6547834	67	75	KmG	attacking
+205	23743	2	5	0	4103462	However , he allowed the Gulf regimes to depend on the infidels in attacking Saddam Hussein .	18786	allow.v	516	Preventing_or_letting	MANUAL	6550784	13	19	JKs	allowed
+205	23743	1	6	0	4103463	[ He issued ] more edicts to accommodate the policies of the Saudi regime .	null	null	null	null	UNANN	6547286	null	null	null	null
+205	23743	1	6	0	4103463	[ He issued ] more edicts to accommodate the policies of the Saudi regime .	14258	issue.v	319	Creating	MANUAL	6547835	5	10	KmG	issued
+205	23743	1	6	0	4103463	[ He issued ] more edicts to accommodate the policies of the Saudi regime .	10290	more.a	1001	Increment	MANUAL	6547836	14	17	KmG	more
+205	23743	1	6	0	4103463	[ He issued ] more edicts to accommodate the policies of the Saudi regime .	14353	policy.n	950	Law	MANUAL	6547837	45	52	KmG	policies
+205	23743	1	6	0	4103463	[ He issued ] more edicts to accommodate the policies of the Saudi regime .	13153	regime.n	73	Leadership	MANUAL	6547838	67	72	KmG	regime
+205	23743	2	6	0	4103464	This behavior and not the edict itself forced them to be deceptive .	null	null	null	null	UNANN	6547287	null	null	null	null
+205	23743	2	6	0	4103464	This behavior and not the edict itself forced them to be deceptive .	8001	behavior.n	491	Conduct	MANUAL	6547839	5	12	KmG	behavior
+205	23743	2	6	0	4103464	This behavior and not the edict itself forced them to be deceptive .	14585	deceptive.a	287	Prevarication	MANUAL	6550783	57	65	JKs	deceptive
+205	23743	3	6	0	4103465	I am sure that you are aware of all these suspicions that surround the regime 's [ Religious ] scholars .	null	null	null	null	UNANN	6547288	null	null	null	null
+205	23743	3	6	0	4103465	I am sure that you are aware of all these suspicions that surround the regime 's [ Religious ] scholars .	2748	sure.a	141	Certainty	MANUAL	6547841	5	8	KmG	sure
+205	23743	3	6	0	4103465	I am sure that you are aware of all these suspicions that surround the regime 's [ Religious ] scholars .	147	aware.a	19	Awareness	MANUAL	6547842	23	27	KmG	aware
+205	23743	3	6	0	4103465	I am sure that you are aware of all these suspicions that surround the regime 's [ Religious ] scholars .	13747	all.a	189	Quantified_mass	MANUAL	6547843	32	34	KmG	all
+205	23743	3	6	0	4103465	I am sure that you are aware of all these suspicions that surround the regime 's [ Religious ] scholars .	168	suspicion.n	19	Awareness	MANUAL	6547844	42	51	KmG	suspicions
+205	23743	3	6	0	4103465	I am sure that you are aware of all these suspicions that surround the regime 's [ Religious ] scholars .	14028	regime.n	950	Law	MANUAL	6547845	71	76	KmG	regime
+205	23743	4	6	0	4103466	So , try to appreciate the Muslims ' position , especially if these suspicions are credible .	null	null	null	null	UNANN	6547289	null	null	null	null
+205	23743	4	6	0	4103466	So , try to appreciate the Muslims ' position , especially if these suspicions are credible .	10222	muslim.n	1021	People_by_religion	MANUAL	6547846	27	33	KmG	Muslims
+205	23743	4	6	0	4103466	So , try to appreciate the Muslims ' position , especially if these suspicions are credible .	168	suspicion.n	19	Awareness	MANUAL	6547847	68	77	KmG	suspicions
+205	23743	4	6	0	4103466	So , try to appreciate the Muslims ' position , especially if these suspicions are credible .	2465	try.v	116	Attempt	MANUAL	6550780	5	7	JKs	try
+205	23743	4	6	0	4103466	So , try to appreciate the Muslims ' position , especially if these suspicions are credible .	285	appreciate.v	28	Judgment	MANUAL	6550781	12	21	JKs	appreciate
+205	23743	1	7	0	4103467	Brother Rida , I plead to you through this article to understand the views of others , just like we try to understand the views of those who went astray .	null	null	null	null	UNANN	6547290	null	null	null	null
+205	23743	1	7	0	4103467	Brother Rida , I plead to you through this article to understand the views of others , just like we try to understand the views of those who went astray .	653	plead.v	41	Request	MANUAL	6547848	17	21	KmG	plead
+205	23743	1	7	0	4103467	Brother Rida , I plead to you through this article to understand the views of others , just like we try to understand the views of those who went astray .	2465	try.v	116	Attempt	MANUAL	6547849	100	102	KmG	try
+205	23743	1	7	0	4103467	Brother Rida , I plead to you through this article to understand the views of others , just like we try to understand the views of those who went astray .	10104	understand.v	979	Grasp	MANUAL	6547850	107	116	KmG	understand
+205	23743	1	7	0	4103467	Brother Rida , I plead to you through this article to understand the views of others , just like we try to understand the views of those who went astray .	11957	view.n	1412	Opinion	MANUAL	6547851	122	126	KmG	views
+205	23743	1	7	0	4103467	Brother Rida , I plead to you through this article to understand the views of others , just like we try to understand the views of those who went astray .	2155	brother.n	104	Kinship	MANUAL	6547858	0	6	KmG	Brother
+205	23743	1	7	0	4103467	Brother Rida , I plead to you through this article to understand the views of others , just like we try to understand the views of those who went astray .	18224	go.v	2972	Transition_to_a_quality	MANUAL	6550778	141	144	JKs	went
+205	23743	1	8	0	4103468	My dear sister , I hope all is well .	null	null	null	null	UNANN	6547291	null	null	null	null
+205	23743	1	8	0	4103468	My dear sister , I hope all is well .	2156	sister.n	104	Kinship	MANUAL	6547852	8	13	KmG	sister
+205	23743	1	8	0	4103468	My dear sister , I hope all is well .	6604	hope.v	366	Desiring	MANUAL	6547853	19	22	KmG	hope
+205	23743	1	8	0	4103468	My dear sister , I hope all is well .	13747	all.a	189	Quantified_mass	MANUAL	6547854	24	26	KmG	all
+205	23743	2	8	0	4103469	How is Turkey ?	null	null	null	null	UNANN	6547292	null	null	null	null
+205	23743	3	8	0	4103470	I hope you are enjoying your stay there .	null	null	null	null	UNANN	6547293	null	null	null	null
+205	23743	3	8	0	4103470	I hope you are enjoying your stay there .	6604	hope.v	366	Desiring	MANUAL	6547855	2	5	KmG	hope
+205	23743	3	8	0	4103470	I hope you are enjoying your stay there .	869	enjoy.v	48	Experiencer_focus	MANUAL	6547856	15	22	KmG	enjoying
+205	23743	3	8	0	4103470	I hope you are enjoying your stay there .	13973	stay.n	1885	Temporary_stay	MANUAL	6547857	29	32	KmG	stay
+205	23743	1	9	0	4103471	I wrote a letter to Ayman .	null	null	null	null	UNANN	6547294	null	null	null	null
+205	23743	1	9	0	4103471	I wrote a letter to Ayman .	5067	write.v	278	Text_creation	MANUAL	6547860	2	6	KmG	wrote
+205	23743	1	9	0	4103471	I wrote a letter to Ayman .	5399	letter.n	298	Text	MANUAL	6547861	10	15	KmG	letter
+205	23743	2	9	0	4103472	Please print it on a thin paper ; may God reward you .	null	null	null	null	UNANN	6547295	null	null	null	null
+205	23743	2	9	0	4103472	Please print it on a thin paper ; may God reward you .	5213	print.v	278	Text_creation	MANUAL	6547862	7	11	KmG	print
+205	23743	2	9	0	4103472	Please print it on a thin paper ; may God reward you .	3849	reward.v	216	Rewards_and_punishments	MANUAL	6547863	42	47	KmG	reward
+205	23743	3	9	0	4103473	Please read this message if you have the time .	null	null	null	null	UNANN	6547296	null	null	null	null
+205	23743	3	9	0	4103473	Please read this message if you have the time .	17474	read.v	2836	Reading_activity	MANUAL	6547864	7	10	KmG	read
+205	23743	3	9	0	4103473	Please read this message if you have the time .	14422	have.v	1933	Have_associated	MANUAL	6547865	32	35	KmG	have
+205	23743	4	9	0	4103474	I am open for any suggestions .	null	null	null	null	UNANN	6547297	null	null	null	null
+205	23743	4	9	0	4103474	I am open for any suggestions .	13745	any.a	189	Quantified_mass	MANUAL	6547867	14	16	KmG	any
+205	23743	4	9	0	4103474	I am open for any suggestions .	18450	suggestion.n	87	Attempt_suasion	MANUAL	6547868	18	28	KmG	suggestions
+205	23743	5	9	0	4103475	I hope I can communicate with you through the Messenger before you depart Turkey .	null	null	null	null	UNANN	6547298	null	null	null	null
+205	23743	5	9	0	4103475	I hope I can communicate with you through the Messenger before you depart Turkey .	6604	hope.v	366	Desiring	MANUAL	6547869	2	5	KmG	hope
+205	23743	5	9	0	4103475	I hope I can communicate with you through the Messenger before you depart Turkey .	10156	can.v	990	Capability	MANUAL	6547870	9	11	KmG	can
+205	23743	5	9	0	4103475	I hope I can communicate with you through the Messenger before you depart Turkey .	5	communicate.v	6	Communication	MANUAL	6547871	13	23	KmG	communicate
+205	23743	5	9	0	4103475	I hope I can communicate with you through the Messenger before you depart Turkey .	6716	before.prep	379	Time_vector	MANUAL	6547872	56	61	KmG	before
+205	23743	5	9	0	4103475	I hope I can communicate with you through the Messenger before you depart Turkey .	983	depart.v	57	Departing	MANUAL	6547873	67	72	KmG	depart
+205	23743	6	9	0	4103476	Send my regards to my aunt , uncle and grandmother .	null	null	null	null	UNANN	6547299	null	null	null	null
+205	23743	6	9	0	4103476	Send my regards to my aunt , uncle and grandmother .	4491	send.v	243	Sending	MANUAL	6547874	0	3	KmG	Send
+205	23743	6	9	0	4103476	Send my regards to my aunt , uncle and grandmother .	2147	aunt.n	104	Kinship	MANUAL	6547875	22	25	KmG	aunt
+205	23743	6	9	0	4103476	Send my regards to my aunt , uncle and grandmother .	2146	uncle.n	104	Kinship	MANUAL	6547876	29	33	KmG	uncle
+205	23743	6	9	0	4103476	Send my regards to my aunt , uncle and grandmother .	2158	grandmother.n	104	Kinship	MANUAL	6547877	39	49	KmG	grandmother
+205	23743	1	10	0	4103477	Take back the stuff which Ayman asked you to carry to Saudi Arabia .	null	null	null	null	UNANN	6547300	null	null	null	null
+205	23743	1	10	0	4103477	Take back the stuff which Ayman asked you to carry to Saudi Arabia .	639	ask.v	41	Request	MANUAL	6547878	32	36	KmG	asked
+205	23743	1	10	0	4103477	Take back the stuff which Ayman asked you to carry to Saudi Arabia .	10799	to.prep	1177	Goal	MANUAL	6547880	51	52	KmG	to
+205	23743	1	10	0	4103477	Take back the stuff which Ayman asked you to carry to Saudi Arabia .	13680	carry.v	1850	Carry_goods	MANUAL	6550773	45	49	JKs	carry
+205	23743	1	11	0	4103478	I apologize for any inconvenience .	null	null	null	null	UNANN	6547301	null	null	null	null
+205	23743	1	11	0	4103478	I apologize for any inconvenience .	13745	any.a	189	Quantified_mass	MANUAL	6550771	16	18	JKs	any
+205	23743	1	12	0	4103479	Peace be upon you .	null	null	null	null	UNANN	6547302	null	null	null	null

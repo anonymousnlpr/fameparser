@@ -1,0 +1,757 @@
+SILVER:205	23740	1	4	0	4103213	This is an employment contract between AL QAEDA and a potential recruit .	8394	contract.n	560	Documents	MANUAL	6550314	22	29	JKs	contract
+LINKED:[4	4	22	29	bn:00022227n	http://dbpedia.org/resource/Contract	http://babelnet.org/rdf/s00022227n	1.0	0.6666667	0.11111111	BABELFY]
+RANK:=== COUNTER  Counter 18044 ===
+	Documents: -0.0013717421124828531
+	Being_obligated: -0.015625
+
+SELECTED:[Documents]
+MATCH!
+SILVER:205	23740	2	4	0	4103214	It contains a definition of AL QAEDA organization , and six main points : 1-Duties ; 2-Holidays ; 3-Salaries and Travel tickets ; 4-Advice ; 5-Reward and Punishment ; 6-Pledge .	10690	contain.v	1153	Inclusion	MANUAL	6550316	3	10	JKs	contains
+LINKED:[1	1	3	10	bn:00085499v		http://babelnet.org/rdf/s00085499v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18046 ===
+	Inclusion: -0.027777777777777776
+	Containing: -0.0625
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:205	23740	2	4	0	4103214	It contains a definition of AL QAEDA organization , and six main points : 1-Duties ; 2-Holidays ; 3-Salaries and Travel tickets ; 4-Advice ; 5-Reward and Punishment ; 6-Pledge .	13059	organization.n	1371	Organization	MANUAL	6550318	37	48	JKs	organization
+LINKED:[7	7	37	48	bn:00059480n	http://dbpedia.org/resource/Organization	http://babelnet.org/rdf/s00059480n	0.89285713	0.5555556	0.22522523	BABELFY]
+RANK:=== COUNTER  Counter 18050 ===
+	Organization: -0.00510204081632653
+	Creating: -0.012345679012345678
+
+SELECTED:[Organization]
+MATCH!
+SILVER:205	23740	2	4	0	4103214	It contains a definition of AL QAEDA organization , and six main points : 1-Duties ; 2-Holidays ; 3-Salaries and Travel tickets ; 4-Advice ; 5-Reward and Punishment ; 6-Pledge .	13875	main.a	407	Importance	MANUAL	6550320	60	63	JKs	main
+LINKED:[11	11	60	63	bn:00099598a		http://babelnet.org/rdf/s00099598a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18052 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	6	0	4103216	AL QAEDA : An Islamic group with an aim of Jihad .	2112	group.n	103	Aggregate	MANUAL	6550427	22	26	JKs	group
+LINKED:[5	5	22	26	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18056 ===
+	Aggregate: -4.0E-4
+	Organization: -0.00510204081632653
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:205	23740	1	6	0	4103216	AL QAEDA : An Islamic group with an aim of Jihad .	8049	aim.n	513	Purpose	MANUAL	6550428	36	38	JKs	aim
+LINKED:[8	8	36	38	bn:00002180n		http://babelnet.org/rdf/s00002180n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18058 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	6	0	4103217	Carrying out Jihad is the main reason the members of AL-QAEDA have gathered , together with performing the different duties of Islam as much as possible , shouldering together the duty of Jihad and preparing the efficient duties during conflicts .	11705	carry	198	Intentionally_act	MANUAL	6550429	0	7	EGp	Carrying
+LINKED:[0	0	0	7	bn:00084554v		http://babelnet.org/rdf/s00084554v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18060 ===
+	Bringing: -0.001736111111111111
+	Carry_goods: -0.25
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	6	0	4103217	Carrying out Jihad is the main reason the members of AL-QAEDA have gathered , together with performing the different duties of Islam as much as possible , shouldering together the duty of Jihad and preparing the efficient duties during conflicts .	7434	main.a	402	First_rank	MANUAL	6550431	26	29	JKs	main
+LINKED:[5	5	26	29	bn:00106327a		http://babelnet.org/rdf/s00106327a	1.0	0.05	0.0019512195	BABELFY]
+RANK:=== COUNTER  Counter 18062 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	6	0	4103217	Carrying out Jihad is the main reason the members of AL-QAEDA have gathered , together with performing the different duties of Islam as much as possible , shouldering together the duty of Jihad and preparing the efficient duties during conflicts .	9143	gather.v	730	Come_together	MANUAL	6550433	67	74	JKs	gathered
+LINKED:[12	12	67	74	bn:00088693v		http://babelnet.org/rdf/s00088693v	1.0	0.05	0.004878049	BABELFY]
+RANK:=== COUNTER  Counter 18066 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	6	0	4103217	Carrying out Jihad is the main reason the members of AL-QAEDA have gathered , together with performing the different duties of Islam as much as possible , shouldering together the duty of Jihad and preparing the efficient duties during conflicts .	7989	different.a	481	Similarity	MANUAL	6550435	107	115	JKs	different
+LINKED:[18	18	107	115	bn:00101347a		http://babelnet.org/rdf/s00101347a	1.0	0.05	9.7560976E-4	BABELFY]
+RANK:=== COUNTER  Counter 18070 ===
+	Similarity: -0.0016
+	Identicality: -0.04000000000000001
+
+SELECTED:[Similarity]
+MATCH!
+SILVER:205	23740	3	6	0	4103218	Its belief : The faith of Sunna and Jama 'a ( group ) in general , and in detail following the example of the worthy ancestors .	2112	group.n	103	Aggregate	MANUAL	6550444	46	50	JKs	group
+LINKED:[11	11	46	50	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.7804878	0.4	0.06911447	BABELFY]
+RANK:=== COUNTER  Counter 18086 ===
+	Aggregate: -4.0E-4
+	Organization: -0.00510204081632653
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:205	23740	1	7	0	4103219	Objectives of AL QAEDA: Support God 's religion , establishment of Islamic rule , and restoration of the Islamic Caliphate , God willing .	8050	objective.n	513	Purpose	MANUAL	6550447	0	9	JKs	Objectives
+LINKED:[0	0	0	9	bn:00002179n		http://babelnet.org/rdf/s00002179n	1.0	0.2857143	0.002933089	BABELFY]
+RANK:=== COUNTER  Counter 18092 ===
+	Purpose: -0.012345679012345678
+	Aiming: -0.0625
+
+SELECTED:[Purpose]
+MATCH!
+SILVER:205	23740	1	7	0	4103219	Objectives of AL QAEDA: Support God 's religion , establishment of Islamic rule , and restoration of the Islamic Caliphate , God willing .	11501	support.v	1306	Taking_sides	MANUAL	6550448	24	30	JKs	Support
+LINKED:[5	5	24	30	bn:00075330n		http://babelnet.org/rdf/s00075330n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18094 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	7	0	4103219	Objectives of AL QAEDA: Support God 's religion , establishment of Islamic rule , and restoration of the Islamic Caliphate , God willing .	11433	establishment.n	280	Intentionally_create	MANUAL	6550449	50	62	JKs	establishment
+LINKED:[10	10	50	62	bn:00059480n	http://dbpedia.org/resource/Organization	http://babelnet.org/rdf/s00059480n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18096 ===
+	Organization: -0.00510204081632653
+	Creating: -0.012345679012345678
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	7	0	4103219	Objectives of AL QAEDA: Support God 's religion , establishment of Islamic rule , and restoration of the Islamic Caliphate , God willing .	13654	rule.n	73	Leadership	MANUAL	6550450	75	78	JKs	rule
+LINKED:[13	13	75	78	bn:00066933n		http://babelnet.org/rdf/s00066933n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18098 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	8	0	4103220	AL QAEDA 's sphere of activity : International and transitional according to AL QAEDA 's policy .	10238	international.a	195	Political_locales	MANUAL	6550453	33	45	JKs	International
+LINKED:[7	7	33	45	bn:00047146n	http://dbpedia.org/resource/Political_international	http://babelnet.org/rdf/s00047146n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18102 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	8	0	4103221	Requirements of joining AL QAEDA : 1 - Abiding by AL QAEDA rules , its beliefs and objectives as previously mentioned 2 - Obedience to the leaders in charge as much as possible , without disobeying Islamic rules 3 - No connection between AL QAEDA membership and any other Islamic group 4 - Maintain secrecy in work-related issues 5- Physically healthy ( except in administrative work ) 6- The candidate should not be in question when it comes to religion , integrity or his morality 7- Reciting the pledge of AL-QAEDA .	10706	requirement.n	1157	Being_necessary	MANUAL	6550456	0	11	JKs	Requirements
+LINKED:[0	0	0	11	bn:00026105n		http://babelnet.org/rdf/s00026105n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18108 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	8	0	4103221	Requirements of joining AL QAEDA : 1 - Abiding by AL QAEDA rules , its beliefs and objectives as previously mentioned 2 - Obedience to the leaders in charge as much as possible , without disobeying Islamic rules 3 - No connection between AL QAEDA membership and any other Islamic group 4 - Maintain secrecy in work-related issues 5- Physically healthy ( except in administrative work ) 6- The candidate should not be in question when it comes to religion , integrity or his morality 7- Reciting the pledge of AL-QAEDA .	13160	join.v	1733	Becoming_a_member	MANUAL	6550457	16	22	JKs	joining
+LINKED:[2	2	16	22	bn:00088013v		http://babelnet.org/rdf/s00088013v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18110 ===
+	Cause_to_amalgamate: -0.00591715976331361
+	Becoming_a_member: -0.0625
+
+SELECTED:[Becoming_a_member]
+MATCH!
+SILVER:205	23740	2	8	0	4103221	Requirements of joining AL QAEDA : 1 - Abiding by AL QAEDA rules , its beliefs and objectives as previously mentioned 2 - Obedience to the leaders in charge as much as possible , without disobeying Islamic rules 3 - No connection between AL QAEDA membership and any other Islamic group 4 - Maintain secrecy in work-related issues 5- Physically healthy ( except in administrative work ) 6- The candidate should not be in question when it comes to religion , integrity or his morality 7- Reciting the pledge of AL-QAEDA .	12695	abide	117	Compliance	MANUAL	6550458	39	45	JKs	Abiding
+LINKED:[8	8	39	45	bn:00094538v		http://babelnet.org/rdf/s00094538v	1.0	0.02	1.1460004E-4	BABELFY]
+RANK:=== COUNTER  Counter 18112 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	8	0	4103221	Requirements of joining AL QAEDA : 1 - Abiding by AL QAEDA rules , its beliefs and objectives as previously mentioned 2 - Obedience to the leaders in charge as much as possible , without disobeying Islamic rules 3 - No connection between AL QAEDA membership and any other Islamic group 4 - Maintain secrecy in work-related issues 5- Physically healthy ( except in administrative work ) 6- The candidate should not be in question when it comes to religion , integrity or his morality 7- Reciting the pledge of AL-QAEDA .	8050	objective.n	513	Purpose	MANUAL	6550461	83	92	JKs	objectives
+LINKED:[17	17	83	92	bn:00002179n		http://babelnet.org/rdf/s00002179n	0.95238096	0.08	0.0011460005	BABELFY]
+RANK:=== COUNTER  Counter 18116 ===
+	Purpose: -0.012345679012345678
+	Aiming: -0.0625
+
+SELECTED:[Purpose]
+MATCH!
+SILVER:205	23740	2	8	0	4103221	Requirements of joining AL QAEDA : 1 - Abiding by AL QAEDA rules , its beliefs and objectives as previously mentioned 2 - Obedience to the leaders in charge as much as possible , without disobeying Islamic rules 3 - No connection between AL QAEDA membership and any other Islamic group 4 - Maintain secrecy in work-related issues 5- Physically healthy ( except in administrative work ) 6- The candidate should not be in question when it comes to religion , integrity or his morality 7- Reciting the pledge of AL-QAEDA .	730	mention.v	43	Statement	MANUAL	6550463	108	116	JKs	mentioned
+LINKED:[20	20	108	116	bn:00082412v		http://babelnet.org/rdf/s00082412v	1.0	0.02	5.730002E-5	BABELFY]
+RANK:=== COUNTER  Counter 18120 ===
+	Judgment_communication: -3.305785123966942E-4
+	Adducing: -0.25
+	Mention: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	8	0	4103221	Requirements of joining AL QAEDA : 1 - Abiding by AL QAEDA rules , its beliefs and objectives as previously mentioned 2 - Obedience to the leaders in charge as much as possible , without disobeying Islamic rules 3 - No connection between AL QAEDA membership and any other Islamic group 4 - Maintain secrecy in work-related issues 5- Physically healthy ( except in administrative work ) 6- The candidate should not be in question when it comes to religion , integrity or his morality 7- Reciting the pledge of AL-QAEDA .	1593	leader.n	73	Leadership	MANUAL	6550464	139	145	JKs	leaders
+LINKED:[26	26	139	145	bn:00050371n		http://babelnet.org/rdf/s00050371n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18122 ===
+	Leadership: -1.8765246762994932E-4
+	First_rank: -0.25
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:205	23740	2	8	0	4103221	Requirements of joining AL QAEDA : 1 - Abiding by AL QAEDA rules , its beliefs and objectives as previously mentioned 2 - Obedience to the leaders in charge as much as possible , without disobeying Islamic rules 3 - No connection between AL QAEDA membership and any other Islamic group 4 - Maintain secrecy in work-related issues 5- Physically healthy ( except in administrative work ) 6- The candidate should not be in question when it comes to religion , integrity or his morality 7- Reciting the pledge of AL-QAEDA .	2112	group.n	103	Aggregate	MANUAL	6550471	280	284	JKs	group
+LINKED:[50	50	280	284	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18130 ===
+	Aggregate: -4.0E-4
+	Organization: -0.00510204081632653
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:205	23740	2	8	0	4103221	Requirements of joining AL QAEDA : 1 - Abiding by AL QAEDA rules , its beliefs and objectives as previously mentioned 2 - Obedience to the leaders in charge as much as possible , without disobeying Islamic rules 3 - No connection between AL QAEDA membership and any other Islamic group 4 - Maintain secrecy in work-related issues 5- Physically healthy ( except in administrative work ) 6- The candidate should not be in question when it comes to religion , integrity or his morality 7- Reciting the pledge of AL-QAEDA .	5434	maintain.v	164	Activity_ongoing	MANUAL	6550472	290	297	JKs	Maintain
+LINKED:[53	53	290	297	bn:03804701n	http://dbpedia.org/resource/Maintenance,_repair,_and_operations	http://babelnet.org/rdf/s03804701n	1.0	0.02	5.730002E-5	BABELFY]
+RANK:=== COUNTER  Counter 18132 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	8	0	4103221	Requirements of joining AL QAEDA : 1 - Abiding by AL QAEDA rules , its beliefs and objectives as previously mentioned 2 - Obedience to the leaders in charge as much as possible , without disobeying Islamic rules 3 - No connection between AL QAEDA membership and any other Islamic group 4 - Maintain secrecy in work-related issues 5- Physically healthy ( except in administrative work ) 6- The candidate should not be in question when it comes to religion , integrity or his morality 7- Reciting the pledge of AL-QAEDA .	478	pledge.n	33	Commitment	MANUAL	6550477	499	504	JKs	pledge
+LINKED:[91	91	499	504	bn:00062993n	http://dbpedia.org/resource/Pledge_(law)	http://babelnet.org/rdf/s00062993n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18138 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	11	0	4103224	1- Preserving the unity of AL QAEDA is an important and legitimate goal , which occurs by fearing God in private as well as in public. ( Surat 65 , 5 ) .	11695	legitimate.a	501	Legality	MANUAL	6550480	56	65	JKs	legitimate
+LINKED:[12	12	56	65	bn:00105861a		http://babelnet.org/rdf/s00105861a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18144 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	11	0	4103224	1- Preserving the unity of AL QAEDA is an important and legitimate goal , which occurs by fearing God in private as well as in public. ( Surat 65 , 5 ) .	4887	occur.v	187	Event	MANUAL	6550482	80	85	JKs	occurs
+LINKED:[16	16	80	85	bn:00085337v		http://babelnet.org/rdf/s00085337v	1.0	0.16666667	0.023391813	BABELFY]
+RANK:=== COUNTER  Counter 18148 ===
+	Event: -0.0022675736961451243
+	Coincidence: -0.02040816326530612
+	Take_place_of: -0.04000000000000001
+	Eventive_affecting: -0.25
+
+SELECTED:[Event]
+MATCH!
+SILVER:205	23740	2	11	0	4103225	This is fulfilled through humbleness and flexibility towards the brothers and the rest of the Muslims , good manners , rejection of disputes , and mutual agreement and settlement of differences. ( TC : Koranic verse ) .	10222	muslim.n	1021	People_by_religion	MANUAL	6550486	94	100	JKs	Muslims
+LINKED:[15	15	94	100	bn:00055975n	http://dbpedia.org/resource/Muslim	http://babelnet.org/rdf/s00055975n	0.85714287	0.125	0.023809524	BABELFY]
+RANK:=== COUNTER  Counter 18154 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	11	0	4103225	This is fulfilled through humbleness and flexibility towards the brothers and the rest of the Muslims , good manners , rejection of disputes , and mutual agreement and settlement of differences. ( TC : Koranic verse ) .	6287	good.a	354	Desirability	MANUAL	6550487	104	107	JKs	good
+LINKED:[17	17	104	107	bn:00103672a		http://babelnet.org/rdf/s00103672a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18156 ===
+	Expertise: -9.182736455463729E-4
+	Social_interaction_evaluation: -0.0010405827263267429
+	Desirability: -0.00510204081632653
+	Usefulness: -0.012345679012345678
+
+SELECTED:[Desirability]
+MATCH!
+SILVER:205	23740	2	11	0	4103225	This is fulfilled through humbleness and flexibility towards the brothers and the rest of the Muslims , good manners , rejection of disputes , and mutual agreement and settlement of differences. ( TC : Koranic verse ) .	14566	rejection.n	1623	Respond_to_proposal	MANUAL	6550488	119	127	JKs	rejection
+LINKED:[20	20	119	127	bn:00066986n	http://dbpedia.org/resource/Social_rejection	http://babelnet.org/rdf/s00066986n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18158 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	3	11	0	4103226	2- Preserving Islamic morals and avoiding means of corruption and bad companions , through verification and confirmation of news. ( T.C : Koranic verse ) To observe good conduct and filial piety even if they were infidels .	2032	companion.n	102	Personal_relationship	MANUAL	6550495	70	79	JKs	companions
+LINKED:[12	12	70	79	bn:01209593n	http://dbpedia.org/resource/Companion_(caregiving)	http://babelnet.org/rdf/s01209593n	1.0	0.055555556	9.891196E-4	BABELFY]
+RANK:=== COUNTER  Counter 18170 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	3	11	0	4103226	2- Preserving Islamic morals and avoiding means of corruption and bad companions , through verification and confirmation of news. ( T.C : Koranic verse ) To observe good conduct and filial piety even if they were infidels .	11044	verification.n	1230	Verification	MANUAL	6550496	91	102	JKs	verification
+LINKED:[15	15	91	102	bn:00079796n		http://babelnet.org/rdf/s00079796n	0.8181818	0.16666667	0.008902078	BABELFY]
+RANK:=== COUNTER  Counter 18172 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	3	11	0	4103226	2- Preserving Islamic morals and avoiding means of corruption and bad companions , through verification and confirmation of news. ( T.C : Koranic verse ) To observe good conduct and filial piety even if they were infidels .	6645	good.a	370	Morality_evaluation	MANUAL	6550499	165	168	JKs	good
+LINKED:[29	29	165	168	bn:00103672a		http://babelnet.org/rdf/s00103672a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18178 ===
+	Expertise: -9.182736455463729E-4
+	Social_interaction_evaluation: -0.0010405827263267429
+	Desirability: -0.00510204081632653
+	Usefulness: -0.012345679012345678
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	3	11	0	4103226	2- Preserving Islamic morals and avoiding means of corruption and bad companions , through verification and confirmation of news. ( T.C : Koranic verse ) To observe good conduct and filial piety even if they were infidels .	7998	conduct.n	491	Conduct	MANUAL	6550500	170	176	JKs	conduct
+LINKED:[30	30	170	176	bn:00009657n	http://dbpedia.org/resource/Behavior	http://babelnet.org/rdf/s00009657n	0.88073397	0.44444445	0.09495549	BABELFY]
+RANK:=== COUNTER  Counter 18180 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	3	11	0	4103226	2- Preserving Islamic morals and avoiding means of corruption and bad companions , through verification and confirmation of news. ( T.C : Koranic verse ) To observe good conduct and filial piety even if they were infidels .	5305	filial.a	104	Kinship	MANUAL	6550501	182	187	JKs	filial
+LINKED:[32	32	182	187	bn:00102956a		http://babelnet.org/rdf/s00102956a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18182 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	5	11	0	4103228	4- Maintaining physical fitness and military exercises as much as possible .	12390	military.a	1514	Military	MANUAL	6550506	36	43	JKs	military
+LINKED:[6	6	36	43	bn:00106724a		http://babelnet.org/rdf/s00106724a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18192 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	6	11	0	4103229	5- Do not talk about work assigned by AL-QAEDA with others , even if they are AL-QAEDA members .	9979	talk.v	910	Chatting	MANUAL	6550509	10	13	JKs	talk
+LINKED:[4	4	10	13	bn:00094089v		http://babelnet.org/rdf/s00094089v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18198 ===
+	Statement: -2.44140625E-4
+	Chatting: -0.008264462809917356
+	Talking_into: -0.027777777777777776
+
+SELECTED:[Chatting]
+MATCH!
+SILVER:205	23740	6	11	0	4103229	5- Do not talk about work assigned by AL-QAEDA with others , even if they are AL-QAEDA members .	10279	member.n	1026	Membership	MANUAL	6550511	87	93	JKs	members
+LINKED:[18	18	87	93	bn:00054276n		http://babelnet.org/rdf/s00054276n	1.0	0.16666667	0.03846154	BABELFY]
+RANK:=== COUNTER  Counter 18200 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	7	11	0	4103230	The only person you can discuss work with is your direct commander ( Amir ) , unless you are asked to do otherwise or if your work demands participation of others , and then through guidance of the leadership .	1582	commander.n	73	Leadership	MANUAL	6550518	57	65	JKs	commander
+LINKED:[11	11	57	65	bn:00020956n		http://babelnet.org/rdf/s00020956n	1.0	0.1	0.0016835016	BABELFY]
+RANK:=== COUNTER  Counter 18210 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	7	11	0	4103230	The only person you can discuss work with is your direct commander ( Amir ) , unless you are asked to do otherwise or if your work demands participation of others , and then through guidance of the leadership .	14592	leadership.n	73	Leadership	MANUAL	6550524	198	207	JKs	leadership
+LINKED:[38	38	198	207	bn:00050373n	http://dbpedia.org/resource/Leadership	http://babelnet.org/rdf/s00050373n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18218 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	8	11	0	4103231	6- The call to adhere to Islam in general , and spreading the concept of Jihad specifically , starts with relatives and friends. ( T.C : Koranic verse ) You may not be able to do this , if your work demands extreme secrecy , like Naeem IBn Mas'uud ( May God bless him ) .	4846	spread.v	267	Dispersal	MANUAL	6550526	48	56	JKs	spreading
+LINKED:[12	12	48	56	bn:00084119v		http://babelnet.org/rdf/s00084119v	0.75	0.04761905	0.001310616	BABELFY]
+RANK:=== COUNTER  Counter 18222 ===
+	Birth: -0.006944444444444444
+	Dispersal: -0.012345679012345678
+
+SELECTED:[Dispersal]
+MATCH!
+SILVER:205	23740	8	11	0	4103231	6- The call to adhere to Islam in general , and spreading the concept of Jihad specifically , starts with relatives and friends. ( T.C : Koranic verse ) You may not be able to do this , if your work demands extreme secrecy , like Naeem IBn Mas'uud ( May God bless him ) .	2655	start.v	133	Process_start	MANUAL	6550527	94	99	JKs	starts
+LINKED:[19	19	94	99	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18224 ===
+	Activity_start: -0.015625
+	Process_start: -0.027777777777777776
+	Setting_out: -0.1111111111111111
+
+SELECTED:[Process_start]
+MATCH!
+SILVER:205	23740	8	11	0	4103231	6- The call to adhere to Islam in general , and spreading the concept of Jihad specifically , starts with relatives and friends. ( T.C : Koranic verse ) You may not be able to do this , if your work demands extreme secrecy , like Naeem IBn Mas'uud ( May God bless him ) .	2875	relative.n	104	Kinship	MANUAL	6550528	106	114	JKs	relatives
+LINKED:[21	21	106	114	bn:00066996n		http://babelnet.org/rdf/s00066996n	1.0	0.0952381	0.001747488	BABELFY]
+RANK:=== COUNTER  Counter 18226 ===
+	Kinship: -4.0E-4
+	Relation: -0.25
+
+SELECTED:[Kinship]
+MATCH!
+SILVER:205	23740	9	11	0	4103232	7- Safeguard AL-QAEDA 's general funds and do not mishandle these funds. ( Albukhairi ) 8- Sincerity in providing advice to commanders and to your brethren in AL-QAEDA , without harboring deception .	13363	funds.n	1761	Money	MANUAL	6550536	33	37	JKs	funds
+LINKED:[6	6	33	37	bn:00036839n		http://babelnet.org/rdf/s00036839n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18238 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	9	11	0	4103232	7- Safeguard AL-QAEDA 's general funds and do not mishandle these funds. ( Albukhairi ) 8- Sincerity in providing advice to commanders and to your brethren in AL-QAEDA , without harboring deception .	2155	brother.n	104	Kinship	MANUAL	6550539	147	154	JKs	brethren
+LINKED:[28	28	147	154	bn:00013012n		http://babelnet.org/rdf/s00013012n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18244 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	13	0	4103234	1- The married have a vacation by rotation for a week every three weeks , and in certain cases AL-QAEDA may deny this vacation for four months .	3876	week.n	224	Measure_duration	MANUAL	6550543	49	52	JKs	week
+LINKED:[11	11	49	52	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18250 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:205	23740	1	13	0	4103234	1- The married have a vacation by rotation for a week every three weeks , and in certain cases AL-QAEDA may deny this vacation for four months .	3947	week.n	229	Calendric_unit	MANUAL	6550544	66	70	JKs	weeks
+LINKED:[14	14	66	70	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18252 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23740	2	13	0	4103235	2- A bachelor can have a vacation by rotation for five days every month .	3875	day.n	224	Measure_duration	MANUAL	6550557	55	58	JKs	days
+LINKED:[12	12	55	58	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18260 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+	Timespan: -0.04000000000000001
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:205	23740	4	13	0	4103237	3- Request for vacation travel should be submitted two and a half months before the travel date .	5882	half.n	140	Part_whole	MANUAL	6550571	61	64	JKs	half
+LINKED:[12	12	61	64	bn:00103877a		http://babelnet.org/rdf/s00103877a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18272 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	5	13	0	4103238	The request would only be considered if it had been submitted in a timely manner as indicated , except in special cases .	206	consider.v	22	Cogitation	MANUAL	6550576	26	35	JKs	considered
+LINKED:[5	5	26	35	bn:00085647v		http://babelnet.org/rdf/s00085647v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18280 ===
+	Categorization: -0.0025000000000000005
+	Regard: -0.04000000000000001
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	5	13	0	4103238	The request would only be considered if it had been submitted in a timely manner as indicated , except in special cases .	12536	manner.n	491	Conduct	MANUAL	6550578	74	79	JKs	manner
+LINKED:[14	14	74	79	bn:00033729n	http://dbpedia.org/resource/Mode_(literature)	http://babelnet.org/rdf/s00033729n	0.7297297	0.375	0.18881118	BABELFY]
+RANK:=== COUNTER  Counter 18284 ===
+	Means: -0.015625
+	Possibilities: -0.027777777777777776
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	5	13	0	4103238	The request would only be considered if it had been submitted in a timely manner as indicated , except in special cases .	11448	indicate.v	25	Evidence	MANUAL	6550579	84	92	JKs	indicated
+LINKED:[16	16	84	92	bn:00083436v		http://babelnet.org/rdf/s00083436v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18286 ===
+	Evidence: -0.0027700831024930744
+	Communication: -0.008264462809917356
+	Sign: -0.015625
+
+SELECTED:[Evidence]
+MATCH!
+SILVER:205	23740	1	15	0	4103240	1- The salary of a married Mujahed brother is 6500 Pakistani Rupee , and 500 Rupee for every newborn .	2036	married.a	102	Personal_relationship	MANUAL	6550581	19	25	JKs	married
+LINKED:[6	6	19	25	bn:00106443a		http://babelnet.org/rdf/s00106443a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18290 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	15	0	4103241	2- Salary of the bachelor Mujahed is 1000 Pakistani Rupee 3- The bachelor Mujahed qualifies for a round trip ticket to his country after one year from joining the organization .	3878	year.n	224	Measure_duration	MANUAL	6550591	141	144	JKs	year
+LINKED:[27	27	141	144	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18300 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:205	23740	2	15	0	4103241	2- Salary of the bachelor Mujahed is 1000 Pakistani Rupee 3- The bachelor Mujahed qualifies for a round trip ticket to his country after one year from joining the organization .	13160	join.v	1733	Becoming_a_member	MANUAL	6550592	151	157	JKs	joining
+LINKED:[29	29	151	157	bn:00088013v		http://babelnet.org/rdf/s00088013v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18302 ===
+	Cause_to_amalgamate: -0.00591715976331361
+	Becoming_a_member: -0.0625
+
+SELECTED:[Becoming_a_member]
+MATCH!
+SILVER:205	23740	2	15	0	4103241	2- Salary of the bachelor Mujahed is 1000 Pakistani Rupee 3- The bachelor Mujahed qualifies for a round trip ticket to his country after one year from joining the organization .	13059	organization.n	1371	Organization	MANUAL	6550593	163	174	JKs	organization
+LINKED:[31	31	163	174	bn:00059480n	http://dbpedia.org/resource/Organization	http://babelnet.org/rdf/s00059480n	0.72727275	0.25	0.03234501	BABELFY]
+RANK:=== COUNTER  Counter 18304 ===
+	Organization: -0.00510204081632653
+	Creating: -0.012345679012345678
+
+SELECTED:[Organization]
+MATCH!
+SILVER:205	23740	4	15	0	4103243	He does n't get reimbursed if the ticket is not used , but he has the right to change it to a ticket to perform the pilgrimage .	10619	use.v	1141	Using	MANUAL	6550599	48	51	JKs	used
+LINKED:[11	11	48	51	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18308 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	5	15	0	4103244	This period starts from the date of joining AL-QAEDA .	8751	period.n	80	Frequency	MANUAL	6550604	5	10	JKs	period
+LINKED:[1	1	5	10	bn:00061605n		http://babelnet.org/rdf/s00061605n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18316 ===
+	Timespan: -0.04000000000000001
+	Location_in_time: -0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	5	15	0	4103244	This period starts from the date of joining AL-QAEDA .	2655	start.v	133	Process_start	MANUAL	6550605	12	17	JKs	starts
+LINKED:[2	2	12	17	bn:00083342v		http://babelnet.org/rdf/s00083342v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18318 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	5	15	0	4103244	This period starts from the date of joining AL-QAEDA .	13160	join.v	1733	Becoming_a_member	MANUAL	6550607	36	42	JKs	joining
+LINKED:[7	7	36	42	bn:00088013v		http://babelnet.org/rdf/s00088013v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18320 ===
+	Cause_to_amalgamate: -0.00591715976331361
+	Becoming_a_member: -0.0625
+
+SELECTED:[Becoming_a_member]
+MATCH!
+SILVER:205	23740	6	15	0	4103245	4- The married Mujahed and his family qualify for round trip tickets to their country of origin after two years , and one month vacation .	10587	origin.n	1103	Origin	MANUAL	6550611	89	94	JKs	origin
+LINKED:[17	17	89	94	bn:00003893n	http://dbpedia.org/resource/Heredity	http://babelnet.org/rdf/s00003893n	0.71428573	0.15384616	0.018181818	BABELFY]
+RANK:=== COUNTER  Counter 18328 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	6	15	0	4103245	4- The married Mujahed and his family qualify for round trip tickets to their country of origin after two years , and one month vacation .	3878	year.n	224	Measure_duration	MANUAL	6550614	106	110	JKs	years
+LINKED:[20	20	106	110	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18330 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:205	23740	8	15	0	4103247	5- The brother who wants to leave AL-QAEDA without a legitimate excuse does not qualify for financial assistance or any of the previously mentioned privileges .	14569	leave.v	325	Quitting	MANUAL	6550620	28	32	JKs	leave
+LINKED:[7	7	28	32	bn:00088939v		http://babelnet.org/rdf/s00088939v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18338 ===
+	Path_shape: -9.182736455463729E-4
+	Departing: -0.00510204081632653
+	Forming_relationships: -0.00591715976331361
+	Quitting: -0.027777777777777776
+	Abandonment: -0.0625
+
+SELECTED:[Quitting]
+MATCH!
+SILVER:205	23740	8	15	0	4103247	5- The brother who wants to leave AL-QAEDA without a legitimate excuse does not qualify for financial assistance or any of the previously mentioned privileges .	11695	legitimate.a	501	Legality	MANUAL	6550621	53	62	JKs	legitimate
+LINKED:[11	11	53	62	bn:00105861a		http://babelnet.org/rdf/s00105861a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18340 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	8	15	0	4103247	5- The brother who wants to leave AL-QAEDA without a legitimate excuse does not qualify for financial assistance or any of the previously mentioned privileges .	11591	assistance.n	391	Assistance	MANUAL	6550623	102	111	JKs	assistance
+LINKED:[18	18	102	111	bn:00002154n		http://babelnet.org/rdf/s00002154n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 18342 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	8	15	0	4103247	5- The brother who wants to leave AL-QAEDA without a legitimate excuse does not qualify for financial assistance or any of the previously mentioned privileges .	730	mention.v	43	Statement	MANUAL	6550626	138	146	JKs	mentioned
+LINKED:[24	24	138	146	bn:00082412v		http://babelnet.org/rdf/s00082412v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18346 ===
+	Judgment_communication: -3.305785123966942E-4
+	Adducing: -0.25
+	Mention: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	16	0	4103248	Fourth : Reward and Punishment ( T.C : Koranic verse )	11252	fourth.a	1147	Ordinal_numbers	MANUAL	6550687	0	5	JKs	Fourth
+LINKED:[0	0	0	5	bn:00036111n		http://babelnet.org/rdf/s00036111n	1.0	0.25	0.04761905	BABELFY]
+RANK:=== COUNTER  Counter 18348 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	16	0	4103248	Fourth : Reward and Punishment ( T.C : Koranic verse )	3847	reward.n	216	Rewards_and_punishments	MANUAL	6550688	9	14	JKs	Reward
+LINKED:[2	2	9	14	bn:00067581n		http://babelnet.org/rdf/s00067581n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18350 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	17	0	4103249	And accordingly : 1- AL-QAEDA missions and its different plans proceed according to Islamic law provision .	7989	different.a	481	Similarity	MANUAL	6550627	47	55	JKs	different
+LINKED:[9	9	47	55	bn:00101347a		http://babelnet.org/rdf/s00101347a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18354 ===
+	Similarity: -0.0016
+	Identicality: -0.04000000000000001
+
+SELECTED:[Similarity]
+MATCH!
+SILVER:205	23740	1	17	0	4103249	And accordingly : 1- AL-QAEDA missions and its different plans proceed according to Islamic law provision .	13294	plan.n	1158	Project	MANUAL	6550628	57	61	JKs	plans
+LINKED:[10	10	57	61	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18356 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:205	23740	1	17	0	4103249	And accordingly : 1- AL-QAEDA missions and its different plans proceed according to Islamic law provision .	11693	proceed.v	145	Process_continue	MANUAL	6550629	63	69	JKs	proceed
+LINKED:[11	11	63	69	bn:00088913v		http://babelnet.org/rdf/s00088913v	1.0	0.125	0.003003003	BABELFY]
+RANK:=== COUNTER  Counter 18358 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	17	0	4103249	And accordingly : 1- AL-QAEDA missions and its different plans proceed according to Islamic law provision .	10677	according	1148	Attributed_information	MANUAL	6550630	71	79	CVa	according
+LINKED:[12	12	71	79	bn:00082228v		http://babelnet.org/rdf/s00082228v	1.0	0.125	0.003003003	BABELFY]
+RANK:=== COUNTER  Counter 18360 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	17	0	4103250	2- Disputes related to AL-QAEDA missions between member brethren should be judged by qualified personnel , which is carried out by the immediate commander ( Amir ) of the conflicting parties .	11040	related.a	720	Cognitive_connection	MANUAL	6550634	12	18	JKs	related
+LINKED:[3	3	12	18	bn:00082868v		http://babelnet.org/rdf/s00082868v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18366 ===
+	Make_cognitive_connection: -0.0625
+	Relating_concepts: -0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	17	0	4103250	2- Disputes related to AL-QAEDA missions between member brethren should be judged by qualified personnel , which is carried out by the immediate commander ( Amir ) of the conflicting parties .	2155	brother.n	104	Kinship	MANUAL	6550637	56	63	JKs	brethren
+LINKED:[9	9	56	63	bn:00013012n		http://babelnet.org/rdf/s00013012n	0.8	0.13333334	0.024096385	BABELFY]
+RANK:=== COUNTER  Counter 18370 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	17	0	4103250	2- Disputes related to AL-QAEDA missions between member brethren should be judged by qualified personnel , which is carried out by the immediate commander ( Amir ) of the conflicting parties .	11867	judge.v	519	Assessing	MANUAL	6550639	75	80	JKs	judged
+LINKED:[12	12	75	80	bn:00090000v		http://babelnet.org/rdf/s00090000v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18372 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	17	0	4103250	2- Disputes related to AL-QAEDA missions between member brethren should be judged by qualified personnel , which is carried out by the immediate commander ( Amir ) of the conflicting parties .	11685	personnel.n	323	Employing	MANUAL	6550640	95	103	JKs	personnel
+LINKED:[15	15	95	103	bn:00061744n		http://babelnet.org/rdf/s00061744n	1.0	0.06666667	0.012048192	BABELFY]
+RANK:=== COUNTER  Counter 18374 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	17	0	4103250	2- Disputes related to AL-QAEDA missions between member brethren should be judged by qualified personnel , which is carried out by the immediate commander ( Amir ) of the conflicting parties .	11705	carry	198	Intentionally_act	MANUAL	6550641	116	122	EGp	carried
+LINKED:[19	19	116	122	bn:00084554v		http://babelnet.org/rdf/s00084554v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18376 ===
+	Bringing: -0.001736111111111111
+	Carry_goods: -0.25
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	17	0	4103250	2- Disputes related to AL-QAEDA missions between member brethren should be judged by qualified personnel , which is carried out by the immediate commander ( Amir ) of the conflicting parties .	2124	party.n	103	Aggregate	MANUAL	6550644	183	189	JKs	parties
+LINKED:[31	31	183	189	bn:00060834n	http://dbpedia.org/resource/Political_party	http://babelnet.org/rdf/s00060834n	0.85106385	0.33333334	0.24096386	BABELFY]
+RANK:=== COUNTER  Counter 18382 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	3	17	0	4103251	He must inform the officials to settle the matter .	7946	inform.v	483	Reporting	MANUAL	6550646	8	13	JKs	inform
+LINKED:[2	2	8	13	bn:00089724v		http://babelnet.org/rdf/s00089724v	1.0	0.5	0.25	BABELFY]
+RANK:=== COUNTER  Counter 18384 ===
+	Reporting: -0.010000000000000002
+	Telling: -0.02040816326530612
+
+SELECTED:[Reporting]
+MATCH!
+SILVER:205	23740	4	17	0	4103252	3- Personal disputes between member brethren could be judged by qualified members of AL- QAEDA or outsiders .	2155	brother.n	104	Kinship	MANUAL	6550651	36	43	JKs	brethren
+LINKED:[6	6	36	43	bn:00013012n		http://babelnet.org/rdf/s00013012n	1.0	0.4	0.071428575	BABELFY]
+RANK:=== COUNTER  Counter 18392 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	4	17	0	4103252	3- Personal disputes between member brethren could be judged by qualified members of AL- QAEDA or outsiders .	11867	judge.v	519	Assessing	MANUAL	6550653	54	59	JKs	judged
+LINKED:[9	9	54	59	bn:00090000v		http://babelnet.org/rdf/s00090000v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18394 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	5	17	0	4103253	Corrupted courts should not judge the matter .	12625	court.n	1607	Judicial_body	MANUAL	6550655	10	15	JKs	courts
+LINKED:[1	1	10	15	bn:00023308n	http://dbpedia.org/resource/Court	http://babelnet.org/rdf/s00023308n	0.9	1.0	0.64285713	BABELFY]
+RANK:=== COUNTER  Counter 18398 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	5	17	0	4103253	Corrupted courts should not judge the matter .	11867	judge.v	519	Assessing	MANUAL	6550657	28	32	JKs	judge
+LINKED:[4	4	28	32	bn:00082353v		http://babelnet.org/rdf/s00082353v	1.0	0.33333334	0.071428575	BABELFY]
+RANK:=== COUNTER  Counter 18400 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	6	17	0	4103254	All members commanders as well as subordinates must obey these rules .	8214	subordinate.n	530	Subordinates_and_superiors	MANUAL	6550661	34	45	JKs	subordinates
+LINKED:[6	6	34	45	bn:00044017n	http://dbpedia.org/resource/Hierarchy	http://babelnet.org/rdf/s00044017n	1.0	1.0	0.6666667	BABELFY]
+RANK:=== COUNTER  Counter 18402 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	28	0	4103275	Matters subject to pledge are either legitimate or permissible duties , legitimate duties like Jihad and obedience to leaders is first in importance .	479	pledge.v	33	Commitment	MANUAL	6550692	19	24	JKs	pledge
+LINKED:[3	3	19	24	bn:00062993n	http://dbpedia.org/resource/Pledge_(law)	http://babelnet.org/rdf/s00062993n	1.0	0.2	0.049382716	BABELFY]
+RANK:=== COUNTER  Counter 18406 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	28	0	4103275	Matters subject to pledge are either legitimate or permissible duties , legitimate duties like Jihad and obedience to leaders is first in importance .	11695	legitimate.a	501	Legality	MANUAL	6550693	37	46	JKs	legitimate
+LINKED:[6	6	37	46	bn:00105861a		http://babelnet.org/rdf/s00105861a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18408 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	28	0	4103275	Matters subject to pledge are either legitimate or permissible duties , legitimate duties like Jihad and obedience to leaders is first in importance .	11695	legitimate.a	501	Legality	MANUAL	6550696	72	81	JKs	legitimate
+LINKED:[11	11	72	81	bn:00105861a		http://babelnet.org/rdf/s00105861a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18414 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	28	0	4103275	Matters subject to pledge are either legitimate or permissible duties , legitimate duties like Jihad and obedience to leaders is first in importance .	1593	leader.n	73	Leadership	MANUAL	6550699	118	124	JKs	leaders
+LINKED:[18	18	118	124	bn:00028642n	http://dbpedia.org/resource/Loss_leader	http://babelnet.org/rdf/s00028642n	0.8	0.2	0.024691358	BABELFY]
+RANK:=== COUNTER  Counter 18418 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	28	0	4103276	A legitimate duty for a Muslim and a pledge conforms what is a duty by law , and it is a duty even if it is not subject to a pledge .	11695	legitimate.a	501	Legality	MANUAL	6550702	2	11	JKs	legitimate
+LINKED:[1	1	2	11	bn:00105788a		http://babelnet.org/rdf/s00105788a	0.7407407	0.44444445	0.020855058	BABELFY]
+RANK:=== COUNTER  Counter 18422 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	28	0	4103276	A legitimate duty for a Muslim and a pledge conforms what is a duty by law , and it is a duty even if it is not subject to a pledge .	10222	muslim.n	1021	People_by_religion	MANUAL	6550704	24	29	JKs	Muslim
+LINKED:[5	5	24	29	bn:00055975n	http://dbpedia.org/resource/Muslim	http://babelnet.org/rdf/s00055975n	1.0	0.11111111	0.0010427529	BABELFY]
+RANK:=== COUNTER  Counter 18426 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	28	0	4103276	A legitimate duty for a Muslim and a pledge conforms what is a duty by law , and it is a duty even if it is not subject to a pledge .	2420	conform.v	117	Compliance	MANUAL	6550705	44	51	JKs	conforms
+LINKED:[9	9	44	51	bn:00085590v		http://babelnet.org/rdf/s00085590v	1.0	0.44444445	0.016684046	BABELFY]
+RANK:=== COUNTER  Counter 18428 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	3	28	0	4103277	According to what has been previously mentioned , than AL-QAEDA secures the pledge of its followers , which includes commitment to its policies and objectives preceded by the commander 's ( Amir ) pledge .	730	mention.v	43	Statement	MANUAL	6550712	38	46	JKs	mentioned
+LINKED:[6	6	38	46	bn:00090740v		http://babelnet.org/rdf/s00090740v	1.0	0.1	0.019607844	BABELFY]
+RANK:=== COUNTER  Counter 18440 ===
+	Statement: -2.44140625E-4
+	Becoming_aware: -0.008264462809917356
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23740	3	28	0	4103277	According to what has been previously mentioned , than AL-QAEDA secures the pledge of its followers , which includes commitment to its policies and objectives preceded by the commander 's ( Amir ) pledge .	7504	secure.v	179	Getting	MANUAL	6550714	64	70	JKs	secures
+LINKED:[10	10	64	70	bn:00092039v		http://babelnet.org/rdf/s00092039v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18444 ===
+	Protecting: -0.012345679012345678
+	Getting: -0.02040816326530612
+
+SELECTED:[Getting]
+MATCH!
+SILVER:205	23740	3	28	0	4103277	According to what has been previously mentioned , than AL-QAEDA secures the pledge of its followers , which includes commitment to its policies and objectives preceded by the commander 's ( Amir ) pledge .	10687	include.v	1153	Inclusion	MANUAL	6550715	108	115	JKs	includes
+LINKED:[18	18	108	115	bn:00082370v		http://babelnet.org/rdf/s00082370v	1.0	0.2	0.039215688	BABELFY]
+RANK:=== COUNTER  Counter 18446 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	3	28	0	4103277	According to what has been previously mentioned , than AL-QAEDA secures the pledge of its followers , which includes commitment to its policies and objectives preceded by the commander 's ( Amir ) pledge .	10651	commitment.n	33	Commitment	MANUAL	6550716	117	126	JKs	commitment
+LINKED:[19	19	117	126	bn:00021033n		http://babelnet.org/rdf/s00021033n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18448 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	3	28	0	4103277	According to what has been previously mentioned , than AL-QAEDA secures the pledge of its followers , which includes commitment to its policies and objectives preceded by the commander 's ( Amir ) pledge .	14353	policy.n	950	Law	MANUAL	6550717	135	142	JKs	policies
+LINKED:[22	22	135	142	bn:00046997n	http://dbpedia.org/resource/Insurance_policy	http://babelnet.org/rdf/s00046997n	0.8	0.2	0.078431375	BABELFY]
+RANK:=== COUNTER  Counter 18450 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	3	28	0	4103277	According to what has been previously mentioned , than AL-QAEDA secures the pledge of its followers , which includes commitment to its policies and objectives preceded by the commander 's ( Amir ) pledge .	8050	objective.n	513	Purpose	MANUAL	6550718	148	157	JKs	objectives
+LINKED:[24	24	148	157	bn:00002179n		http://babelnet.org/rdf/s00002179n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18452 ===
+	Purpose: -0.012345679012345678
+	Aiming: -0.0625
+
+SELECTED:[Purpose]
+MATCH!
+SILVER:205	23740	3	28	0	4103277	According to what has been previously mentioned , than AL-QAEDA secures the pledge of its followers , which includes commitment to its policies and objectives preceded by the commander 's ( Amir ) pledge .	1753	precede.v	81	Relative_time	MANUAL	6550719	159	166	JKs	preceded
+LINKED:[25	25	159	166	bn:00082660v		http://babelnet.org/rdf/s00082660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18454 ===
+	Relative_time: -0.0010405827263267429
+	Forgoing: -0.027777777777777776
+
+SELECTED:[Relative_time]
+MATCH!
+SILVER:205	23740	3	28	0	4103277	According to what has been previously mentioned , than AL-QAEDA secures the pledge of its followers , which includes commitment to its policies and objectives preceded by the commander 's ( Amir ) pledge .	1582	commander.n	73	Leadership	MANUAL	6550720	175	183	JKs	commander
+LINKED:[28	28	175	183	bn:00020956n		http://babelnet.org/rdf/s00020956n	1.0	0.1	0.009803922	BABELFY]
+RANK:=== COUNTER  Counter 18456 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	29	0	4103278	I pledge by God 's creed to become a Muslim soldier to support God 's religion , and may God 's word be the most supreme .	479	pledge.v	33	Commitment	MANUAL	6550722	2	7	JKs	pledge
+LINKED:[1	1	2	7	bn:00062993n	http://dbpedia.org/resource/Pledge_(law)	http://babelnet.org/rdf/s00062993n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18460 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	29	0	4103278	I pledge by God 's creed to become a Muslim soldier to support God 's religion , and may God 's word be the most supreme .	10222	muslim.n	1021	People_by_religion	MANUAL	6550724	37	42	JKs	Muslim
+LINKED:[9	9	37	42	bn:00055975n	http://dbpedia.org/resource/Muslim	http://babelnet.org/rdf/s00055975n	0.97402596	0.54545456	0.020330712	BABELFY]
+RANK:=== COUNTER  Counter 18462 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	29	0	4103278	I pledge by God 's creed to become a Muslim soldier to support God 's religion , and may God 's word be the most supreme .	11501	support.v	1306	Taking_sides	MANUAL	6550726	55	61	JKs	support
+LINKED:[12	12	55	61	bn:00082995v		http://babelnet.org/rdf/s00082995v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18464 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	2	29	0	4103279	I pledge to adhere to the holy book and Assuna and commit to the brothers committed with us in this mission , so God is my witness .	5453	book.n	298	Text	MANUAL	6550729	31	34	JKs	book
+LINKED:[7	7	31	34	bn:00012059n	http://dbpedia.org/resource/Book	http://babelnet.org/rdf/s00012059n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18472 ===
+	Text: -1.8261504747991238E-4
+	Part_ordered_segments: -0.0625
+
+SELECTED:[Text]
+MATCH!
+SILVER:205	23740	1	32	0	4103285	Seven : Breaking the pledge	478	pledge.n	33	Commitment	MANUAL	6550742	21	26	JKs	pledge
+LINKED:[4	4	21	26	bn:00062993n	http://dbpedia.org/resource/Pledge_(law)	http://babelnet.org/rdf/s00062993n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18486 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	33	0	4103286	The sin of the Breaker of the pledge ( Suraat Alraa 'd ) ( Albukhari ) ( Fath Albari 418/4 )	10499	sin.n	1100	Misdeed	MANUAL	6550743	4	6	JKs	sin
+LINKED:[1	1	4	6	bn:00071707n	http://dbpedia.org/resource/Sin	http://babelnet.org/rdf/s00071707n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 18488 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23740	1	34	0	4103287	Our last prayer is to thank God the creator of the universe .	5489	prayer.n	301	Rite	MANUAL	6550746	9	14	JKs	prayer
+LINKED:[2	2	9	14	bn:00059529n	http://dbpedia.org/resource/Prayer	http://babelnet.org/rdf/s00059529n	0.7619048	0.6666667	0.10921501	BABELFY]
+RANK:=== COUNTER  Counter 18492 ===
+
+SELECTED:[]
+WRONG!
+filename	LUCorpus-v0.3__AFGP-2002-600045-Trans.xml
+docAnnotations	369
+docManual	286
+docUnannotated	83
+sentences	79
+paragraphs	35
+Overlapping	226
+Disambiguated	45
+TP	35
+TN	83
+FP	0
+FN	241
+P	1.0
+R	0.12681159420289856
+F	0.22508038585209006
+A	0.3286908077994429

@@ -1,0 +1,16 @@
+filename	Miscellaneous__SadatAssassination.xml
+docAnnotations	34
+docManual	24
+docUnannotated	10
+sentences	10
+paragraphs	10
+Overlapping	21
+Disambiguated	18
+TP	18
+TN	10
+FP	0
+FN	6
+P	1.0
+R	0.75
+F	0.8571428571428571
+A	0.8235294117647058

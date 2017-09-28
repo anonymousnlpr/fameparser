@@ -1,0 +1,652 @@
+SILVER:175	7	1	1	0	312901	It was a bright cold day in April , and the clocks were striking thirteen .	10370	cold.a	1052	Ambient_temperature	MANUAL	1992373	16	19	MJE	cold
+LINKED:[4	4	16	19	bn:00099981a		http://babelnet.org/rdf/s00099981a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17052 ===
+	Ambient_temperature: 7.0
+	Temperature: 5.0
+	Subjective_temperature: 5.0
+
+SELECTED:[Ambient_temperature]
+MATCH!
+SILVER:175	7	1	1	0	312901	It was a bright cold day in April , and the clocks were striking thirteen .	3946	day.n	229	Calendric_unit	MANUAL	2333662	21	23	MJE	day
+LINKED:[5	5	21	23	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17053 ===
+	Calendric_unit: 56.0
+	Measure_duration: 14.0
+	Timespan: 2.0
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:175	7	1	1	0	312901	It was a bright cold day in April , and the clocks were striking thirteen .	4646	April.n	229	Calendric_unit	MANUAL	2333663	28	32	MJE	April
+LINKED:[7	7	28	32	bn:00005169n	http://dbpedia.org/resource/April	http://babelnet.org/rdf/s00005169n	1.0	0.5	0.083333336	BABELFY]
+RANK:=== COUNTER  Counter 17054 ===
+	Calendric_unit: 56.0
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:175	7	1	1	0	312901	It was a bright cold day in April , and the clocks were striking thirteen .	3279	bright.a	105	Location_of_light	MANUAL	2508839	9	14	MJE	bright
+LINKED:[3	3	9	14	bn:00098857a		http://babelnet.org/rdf/s00098857a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17055 ===
+	Location_of_light: 29.0
+
+SELECTED:[Location_of_light]
+MATCH!
+SILVER:175	7	2	1	0	312902	Winston Smith , his chin nuzzled into his breast in an effort to escape the vile wind , slipped quickly through the glass doors of Victory Mansions , though not quickly enough to prevent a swirl of gritty dust from entering along with him .	2395	chin.n	119	Body_parts	MANUAL	1992374	20	23	MJE	chin
+LINKED:[4	4	20	23	bn:00018426n	http://dbpedia.org/resource/Chin	http://babelnet.org/rdf/s00018426n	1.0	0.10526316	0.008385744	BABELFY]
+RANK:=== COUNTER  Counter 17056 ===
+	Observable_body_parts: 89.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	2	1	0	312902	Winston Smith , his chin nuzzled into his breast in an effort to escape the vile wind , slipped quickly through the glass doors of Victory Mansions , though not quickly enough to prevent a swirl of gritty dust from entering along with him .	2390	breast.n	119	Body_parts	MANUAL	1992375	42	47	MJE	breast
+LINKED:[8	8	42	47	bn:00012950n		http://babelnet.org/rdf/s00012950n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17057 ===
+	Observable_body_parts: 89.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	2	1	0	312902	Winston Smith , his chin nuzzled into his breast in an effort to escape the vile wind , slipped quickly through the glass doors of Victory Mansions , though not quickly enough to prevent a swirl of gritty dust from entering along with him .	10187	effort.n	116	Attempt	MANUAL	1992376	55	60	MJE	effort
+LINKED:[11	11	55	60	bn:00029899n	http://dbpedia.org/resource/Exertion	http://babelnet.org/rdf/s00029899n	0.8448276	0.36842105	0.102725364	BABELFY]
+RANK:=== COUNTER  Counter 17058 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	2	1	0	312902	Winston Smith , his chin nuzzled into his breast in an effort to escape the vile wind , slipped quickly through the glass doors of Victory Mansions , though not quickly enough to prevent a swirl of gritty dust from entering along with him .	4999	escape.v	274	Avoiding	MANUAL	1992377	65	70	MJE	escape
+LINKED:[13	13	65	70	bn:00083978v		http://babelnet.org/rdf/s00083978v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17059 ===
+	Avoiding: 15.0
+	Evading: 6.0
+	Escaping: 5.0
+	Elusive_goal: 3.0
+
+SELECTED:[Avoiding]
+MATCH!
+SILVER:175	7	2	1	0	312902	Winston Smith , his chin nuzzled into his breast in an effort to escape the vile wind , slipped quickly through the glass doors of Victory Mansions , though not quickly enough to prevent a swirl of gritty dust from entering along with him .	6519	vile.a	370	Morality_evaluation	MANUAL	1992378	76	79	MJE	vile
+LINKED:[15	15	76	79	bn:00101247a		http://babelnet.org/rdf/s00101247a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17060 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	2	1	0	312902	Winston Smith , his chin nuzzled into his breast in an effort to escape the vile wind , slipped quickly through the glass doors of Victory Mansions , though not quickly enough to prevent a swirl of gritty dust from entering along with him .	10268	door.n	1025	Connecting_architecture	MANUAL	1992379	122	126	MJE	doors
+LINKED:[23	23	122	126	bn:00028247n	http://dbpedia.org/resource/Door	http://babelnet.org/rdf/s00028247n	0.8181818	0.2631579	0.094339624	BABELFY]
+RANK:=== COUNTER  Counter 17061 ===
+	Connecting_architecture: 9.0
+
+SELECTED:[Connecting_architecture]
+MATCH!
+SILVER:175	7	2	1	0	312902	Winston Smith , his chin nuzzled into his breast in an effort to escape the vile wind , slipped quickly through the glass doors of Victory Mansions , though not quickly enough to prevent a swirl of gritty dust from entering along with him .	15926	slip.v	64	Self_motion	MANUAL	2598402	88	94	MJE	slipped
+LINKED:[18	18	88	94	bn:00093882v		http://babelnet.org/rdf/s00093882v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17062 ===
+	Self_motion: 126.0
+	Undressing: 9.0
+
+SELECTED:[Self_motion]
+MATCH!
+SILVER:175	7	2	1	0	312902	Winston Smith , his chin nuzzled into his breast in an effort to escape the vile wind , slipped quickly through the glass doors of Victory Mansions , though not quickly enough to prevent a swirl of gritty dust from entering along with him .	14973	quickly.adv	966	Speed_description	MANUAL	2598407	161	167	MJE	quickly
+LINKED:[30	30	161	167	bn:00114307r		http://babelnet.org/rdf/s00114307r	0.82051283	0.21052632	0.06708595	BABELFY]
+RANK:=== COUNTER  Counter 17063 ===
+	Speed: 9.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	2	1	0	312902	Winston Smith , his chin nuzzled into his breast in an effort to escape the vile wind , slipped quickly through the glass doors of Victory Mansions , though not quickly enough to prevent a swirl of gritty dust from entering along with him .	14973	quickly.adv	966	Speed_description	MANUAL	2598408	96	102	MJE	quickly
+LINKED:[19	19	96	102	bn:00114307r		http://babelnet.org/rdf/s00114307r	0.82051283	0.21052632	0.06708595	BABELFY]
+RANK:=== COUNTER  Counter 17064 ===
+	Speed: 9.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	2	1	0	312902	Winston Smith , his chin nuzzled into his breast in an effort to escape the vile wind , slipped quickly through the glass doors of Victory Mansions , though not quickly enough to prevent a swirl of gritty dust from entering along with him .	8087	prevent.v	516	Preventing_or_letting	MANUAL	2598414	179	185	MJE	prevent
+LINKED:[33	33	179	185	bn:00088454v		http://babelnet.org/rdf/s00088454v	1.0	0.10526316	0.016771488	BABELFY]
+RANK:=== COUNTER  Counter 17065 ===
+	Preventing: 12.0
+	Thwarting: 7.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	2	1	0	312902	Winston Smith , his chin nuzzled into his breast in an effort to escape the vile wind , slipped quickly through the glass doors of Victory Mansions , though not quickly enough to prevent a swirl of gritty dust from entering along with him .	942	enter.v	54	Arriving	MANUAL	2598415	215	222	MJE	entering
+LINKED:[40	40	215	222	bn:00085363v		http://babelnet.org/rdf/s00085363v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17066 ===
+	Path_shape: 34.0
+	Arriving: 24.0
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:175	7	2	1	0	312902	Winston Smith , his chin nuzzled into his breast in an effort to escape the vile wind , slipped quickly through the glass doors of Victory Mansions , though not quickly enough to prevent a swirl of gritty dust from entering along with him .	15964	glass.n	1321	Substance	MANUAL	2600202	116	120	MJE	glass
+LINKED:[22	22	116	120	bn:00040605n	http://dbpedia.org/resource/Glass	http://babelnet.org/rdf/s00040605n	0.8888889	0.31578946	0.1509434	BABELFY]
+RANK:=== COUNTER  Counter 17067 ===
+	Substance: 21.0
+
+SELECTED:[Substance]
+MATCH!
+SILVER:175	7	2	1	0	312902	Winston Smith , his chin nuzzled into his breast in an effort to escape the vile wind , slipped quickly through the glass doors of Victory Mansions , though not quickly enough to prevent a swirl of gritty dust from entering along with him .	3018	mansion.n	173	Buildings	MANUAL	2600203	139	146	MJE	Mansions
+LINKED:[26	26	139	146	bn:00045000n	http://dbpedia.org/resource/House_(astrology)	http://babelnet.org/rdf/s00045000n	1.0	0.05263158	0.002096436	BABELFY]
+RANK:=== COUNTER  Counter 17068 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	1	2	0	312903	The hallway smelt of boiled cabbage and old rag mats .	10273	hallway.n	1025	Connecting_architecture	MANUAL	2598418	4	10	MJE	hallway
+LINKED:[1	1	4	10	bn:00042663n	http://dbpedia.org/resource/Hall	http://babelnet.org/rdf/s00042663n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17069 ===
+	Building_subparts: 56.0
+	Connecting_architecture: 9.0
+
+SELECTED:[Connecting_architecture]
+MATCH!
+SILVER:175	7	1	2	0	312903	The hallway smelt of boiled cabbage and old rag mats .	1326	smell.v	67	Give_impression	MANUAL	2598419	12	16	MJE	smelt
+LINKED:[2	2	12	16	bn:00093929v		http://babelnet.org/rdf/s00093929v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17070 ===
+	Perception_active: 38.0
+	Perception_experience: 15.0
+	Chemical-sense_description: 15.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	1	2	0	312903	The hallway smelt of boiled cabbage and old rag mats .	4258	boil.v	236	Apply_heat	MANUAL	2598420	21	26	MJE	boiled
+LINKED:[4	4	21	26	bn:00083736v		http://babelnet.org/rdf/s00083736v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17071 ===
+	Cause_harm: 72.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	1	2	0	312903	The hallway smelt of boiled cabbage and old rag mats .	10071	old.a	972	Age	MANUAL	2598421	40	42	MJE	old
+LINKED:[7	7	40	42	bn:00107786a		http://babelnet.org/rdf/s00107786a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17072 ===
+	Age: 6.0
+
+SELECTED:[Age]
+MATCH!
+SILVER:175	7	1	2	0	312903	The hallway smelt of boiled cabbage and old rag mats .	15965	cabbage.n	277	Food	MANUAL	2600204	28	34	MJE	cabbage
+LINKED:[5	5	28	34	bn:00012814n	http://dbpedia.org/resource/Cabbage	http://babelnet.org/rdf/s00012814n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17073 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	2	2	0	312904	At one end of it a coloured poster , too large for indoor display , had been tacked to the wall .	4528	tack.v	197	Attaching	MANUAL	1952950	77	82	CFB	tacked
+LINKED:[17	17	77	82	bn:00094720v		http://babelnet.org/rdf/s00094720v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17074 ===
+	Attaching: 60.0
+
+SELECTED:[Attaching]
+MATCH!
+SILVER:175	7	2	2	0	312904	At one end of it a coloured poster , too large for indoor display , had been tacked to the wall .	15945	poster.n	1656	Physical_artworks	MANUAL	2599870	28	33	MJE	poster
+LINKED:[7	7	28	33	bn:15173511n	http://dbpedia.org/resource/Poster	http://babelnet.org/rdf/s15173511n	1.0	0.75	0.5625	BABELFY]
+RANK:=== COUNTER  Counter 17075 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	3	2	0	312905	It depicted simply an enormous face , more than a metre wide : the face of a man of about forty-five , with a heavy black moustache and ruggedly handsome features .	15927	enormous.a	2282	Size	MANUAL	2598427	22	29	MJE	enormous
+LINKED:[4	4	22	29	bn:00102268a		http://babelnet.org/rdf/s00102268a	1.0	0.16666667	0.009237875	BABELFY]
+RANK:=== COUNTER  Counter 17076 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	3	2	0	312905	It depicted simply an enormous face , more than a metre wide : the face of a man of about forty-five , with a heavy black moustache and ruggedly handsome features .	2400	face.n	119	Body_parts	MANUAL	2598428	31	34	MJE	face
+LINKED:[5	5	31	34	bn:00032600n	http://dbpedia.org/resource/Face	http://babelnet.org/rdf/s00032600n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17077 ===
+	Observable_body_parts: 89.0
+	Facial_expression: 10.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	3	2	0	312905	It depicted simply an enormous face , more than a metre wide : the face of a man of about forty-five , with a heavy black moustache and ruggedly handsome features .	2816	meter.n	154	Measure_linear_extent	MANUAL	2598429	50	54	MJE	metre
+LINKED:[10	10	50	54	bn:00052501n	http://dbpedia.org/resource/Metre	http://babelnet.org/rdf/s00052501n	1.0	0.25	0.017321017	BABELFY]
+RANK:=== COUNTER  Counter 17078 ===
+	Measure_linear_extent: 11.0
+
+SELECTED:[Measure_linear_extent]
+MATCH!
+SILVER:175	7	3	2	0	312905	It depicted simply an enormous face , more than a metre wide : the face of a man of about forty-five , with a heavy black moustache and ruggedly handsome features .	2189	wide.a	108	Dimension	MANUAL	2598430	56	59	MJE	wide
+LINKED:[11	11	56	59	bn:00098887a		http://babelnet.org/rdf/s00098887a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17079 ===
+	Dimension: 29.0
+	Diversity: 16.0
+
+SELECTED:[Dimension]
+MATCH!
+SILVER:175	7	3	2	0	312905	It depicted simply an enormous face , more than a metre wide : the face of a man of about forty-five , with a heavy black moustache and ruggedly handsome features .	2400	face.n	119	Body_parts	MANUAL	2598431	67	70	MJE	face
+LINKED:[14	14	67	70	bn:00032600n	http://dbpedia.org/resource/Face	http://babelnet.org/rdf/s00032600n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17080 ===
+	Observable_body_parts: 89.0
+	Facial_expression: 10.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	3	2	0	312905	It depicted simply an enormous face , more than a metre wide : the face of a man of about forty-five , with a heavy black moustache and ruggedly handsome features .	5526	man.n	304	People	MANUAL	2598432	77	79	MJE	man
+LINKED:[17	17	77	79	bn:00001533n	http://dbpedia.org/resource/Man	http://babelnet.org/rdf/s00001533n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17081 ===
+	People: 16.0
+
+SELECTED:[People]
+MATCH!
+SILVER:175	7	3	2	0	312905	It depicted simply an enormous face , more than a metre wide : the face of a man of about forty-five , with a heavy black moustache and ruggedly handsome features .	7737	black.a	423	Color	MANUAL	2598435	116	120	MJE	black
+LINKED:[25	25	116	120	bn:00098486a		http://babelnet.org/rdf/s00098486a	1.0	0.33333334	0.027713627	BABELFY]
+RANK:=== COUNTER  Counter 17082 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	3	2	0	312905	It depicted simply an enormous face , more than a metre wide : the face of a man of about forty-five , with a heavy black moustache and ruggedly handsome features .	15929	handsome.a	1016	Aesthetics	MANUAL	2598436	145	152	MJE	handsome
+LINKED:[29	29	145	152	bn:00098286a		http://babelnet.org/rdf/s00098286a	1.0	0.25	0.013856813	BABELFY]
+RANK:=== COUNTER  Counter 17083 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	3	2	0	312905	It depicted simply an enormous face , more than a metre wide : the face of a man of about forty-five , with a heavy black moustache and ruggedly handsome features .	15783	heavy.a	965	Measurable_attributes	MANUAL	2598437	110	114	MJE	heavy
+LINKED:[24	24	110	114	bn:00104050a		http://babelnet.org/rdf/s00104050a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17084 ===
+	Dimension: 29.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	3	2	0	312905	It depicted simply an enormous face , more than a metre wide : the face of a man of about forty-five , with a heavy black moustache and ruggedly handsome features .	15969	mustache.n	119	Body_parts	MANUAL	2600206	122	130	MJE	moustache
+LINKED:[26	26	122	130	bn:00056133n	http://dbpedia.org/resource/Moustache	http://babelnet.org/rdf/s00056133n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17085 ===
+	Observable_body_parts: 89.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	5	2	0	312907	It was no use trying the lift .	15328	try.v	2132	Attempt_means	MANUAL	2598439	14	19	MJE	trying
+LINKED:[4	4	14	19	bn:00087731v		http://babelnet.org/rdf/s00087731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17086 ===
+	Examination: 6.0
+	Operational_testing: 4.0
+	Trying_out: 2.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	5	2	0	312907	It was no use trying the lift .	10270	lift.n	1025	Connecting_architecture	MANUAL	2598440	25	28	MJE	lift
+LINKED:[6	6	25	28	bn:00051087n		http://babelnet.org/rdf/s00051087n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17087 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	6	2	0	312908	Even at the best of times it was seldom working , and at present the electric current was cut off during daylight hours .	15930	working.a	1200	Being_operational	MANUAL	2598443	40	46	MJE	working
+LINKED:[9	9	40	46	bn:00095812v		http://babelnet.org/rdf/s00095812v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17088 ===
+	Being_employed: 17.0
+	Working_on: 5.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	6	2	0	312908	Even at the best of times it was seldom working , and at present the electric current was cut off during daylight hours .	14672	at	1895	Temporal_collocation	MANUAL	2598444	57	63	MJE	present
+LINKED:[13	13	57	63	bn:00108977a		http://babelnet.org/rdf/s00108977a	1.0	0.22222222	0.010869565	BABELFY]
+RANK:=== COUNTER  Counter 17089 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	6	2	0	312908	Even at the best of times it was seldom working , and at present the electric current was cut off during daylight hours .	12354	electric.a	1535	Electricity	MANUAL	2598446	69	76	MJE	electric
+LINKED:[15	15	69	76	bn:00102083a		http://babelnet.org/rdf/s00102083a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17090 ===
+	Electricity: 12.0
+
+SELECTED:[Electricity]
+MATCH!
+SILVER:175	7	6	2	0	312908	Even at the best of times it was seldom working , and at present the electric current was cut off during daylight hours .	15931	cut	1688	Change_operational_state	MANUAL	2598448	90	92	MJE	cut
+LINKED:[18	18	90	92	bn:00086178v		http://babelnet.org/rdf/s00086178v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17091 ===
+	Cause_harm: 72.0
+	Cutting: 13.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	6	2	0	312908	Even at the best of times it was seldom working , and at present the electric current was cut off during daylight hours .	15940	seldom.adv	80	Frequency	MANUAL	2599823	33	38	MJE	seldom
+LINKED:[8	8	33	38	bn:00116787r		http://babelnet.org/rdf/s00116787r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17092 ===
+	Frequency: 24.0
+
+SELECTED:[Frequency]
+MATCH!
+SILVER:175	7	6	2	0	312908	Even at the best of times it was seldom working , and at present the electric current was cut off during daylight hours .	15941	current.n	1535	Electricity	MANUAL	2599824	78	84	MJE	current
+LINKED:[16	16	78	84	bn:00024510n	http://dbpedia.org/resource/Electric_current	http://babelnet.org/rdf/s00024510n	0.71794873	0.44444445	0.07608695	BABELFY]
+RANK:=== COUNTER  Counter 17093 ===
+	Electricity: 12.0
+
+SELECTED:[Electricity]
+MATCH!
+SILVER:175	7	6	2	0	312908	Even at the best of times it was seldom working , and at present the electric current was cut off during daylight hours .	5142	hour.n	229	Calendric_unit	MANUAL	2599825	114	118	MJE	hours
+LINKED:[22	22	114	118	bn:00000127n	http://dbpedia.org/resource/Hour	http://babelnet.org/rdf/s00000127n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17094 ===
+	Measure_duration: 14.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	7	2	0	312909	It was part of the economy drive in preparation for Hate Week .	3947	week.n	229	Calendric_unit	MANUAL	2599844	57	60	MJE	Week
+LINKED:[11	11	57	60	bn:00080813n	http://dbpedia.org/resource/Workweek_and_weekend	http://babelnet.org/rdf/s00080813n	1.0	0.2	0.1	BABELFY]
+RANK:=== COUNTER  Counter 17095 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	7	2	0	312909	It was part of the economy drive in preparation for Hate Week .	13867	preparation.n	170	Activity_prepare	MANUAL	2599845	36	46	MJE	preparation
+LINKED:[8	8	36	46	bn:00064167n		http://babelnet.org/rdf/s00064167n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17096 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	7	2	0	312909	It was part of the economy drive in preparation for Hate Week .	15942	economy.n	84	Frugality	MANUAL	2599848	19	25	MJE	economy
+LINKED:[5	5	19	25	bn:00029678n	http://dbpedia.org/resource/Economy	http://babelnet.org/rdf/s00029678n	1.0	0.4	0.4	BABELFY]
+RANK:=== COUNTER  Counter 17097 ===
+	Economy: 2.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	7	2	0	312909	It was part of the economy drive in preparation for Hate Week .	875	hate.v	48	Experiencer_focus	MANUAL	2600207	52	55	MJE	Hate
+LINKED:[10	10	52	55	bn:00043140n	http://dbpedia.org/resource/Hatred	http://babelnet.org/rdf/s00043140n	1.0	0.2	0.1	BABELFY]
+RANK:=== COUNTER  Counter 17098 ===
+	Experiencer_focus: 50.0
+
+SELECTED:[Experiencer_focus]
+MATCH!
+SILVER:175	7	8	2	0	312910	The flat was seven flights up , and Winston , who was thirty-nine and had a varicose ulcer above his right ankle , went slowly , resting several times on the way .	3232	flat.n	188	Building_subparts	MANUAL	2599849	4	7	MJE	flat
+LINKED:[1	1	4	7	bn:00103058a		http://babelnet.org/rdf/s00103058a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17099 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	8	2	0	312910	The flat was seven flights up , and Winston , who was thirty-nine and had a varicose ulcer above his right ankle , went slowly , resting several times on the way .	15943	flight.n	971	Architectural_part	MANUAL	2599852	19	25	MJE	flights
+LINKED:[4	4	19	25	bn:00035206n		http://babelnet.org/rdf/s00035206n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17100 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	8	2	0	312910	The flat was seven flights up , and Winston , who was thirty-nine and had a varicose ulcer above his right ankle , went slowly , resting several times on the way .	4407	ulcer.n	239	Medical_conditions	MANUAL	2599853	85	89	MJE	ulcer
+LINKED:[17	17	85	89	bn:00078879n	http://dbpedia.org/resource/Ulcer	http://babelnet.org/rdf/s00078879n	1.0	0.2	0.04347826	BABELFY]
+RANK:=== COUNTER  Counter 17101 ===
+	Medical_conditions: 65.0
+
+SELECTED:[Medical_conditions]
+MATCH!
+SILVER:175	7	8	2	0	312910	The flat was seven flights up , and Winston , who was thirty-nine and had a varicose ulcer above his right ankle , went slowly , resting several times on the way .	15396	time.n	2140	Event_instance	MANUAL	2599856	145	149	MJE	times
+LINKED:[28	28	145	149	bn:00077270n	http://dbpedia.org/resource/Time	http://babelnet.org/rdf/s00077270n	0.94736844	0.4	0.26086956	BABELFY]
+RANK:=== COUNTER  Counter 17102 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	8	2	0	312910	The flat was seven flights up , and Winston , who was thirty-nine and had a varicose ulcer above his right ankle , went slowly , resting several times on the way .	16367	way.n	2566	Planned_trajectory	MANUAL	6767941	158	160	HPh	way
+LINKED:[31	31	158	160	bn:00033729n	http://dbpedia.org/resource/Mode_(literature)	http://babelnet.org/rdf/s00033729n	0.8108108	0.5	0.2173913	BABELFY]
+RANK:=== COUNTER  Counter 17103 ===
+	Means: 8.0
+	Possibilities: 6.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	9	2	0	312911	On each landing , opposite the lift-shaft , the poster with the enormous face gazed from the wall .	15944	landing.n	971	Architectural_part	MANUAL	2599859	8	14	MJE	landing
+LINKED:[2	2	8	14	bn:00090179v		http://babelnet.org/rdf/s00090179v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17104 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	9	2	0	312911	On each landing , opposite the lift-shaft , the poster with the enormous face gazed from the wall .	15927	enormous.a	2282	Size	MANUAL	2599860	64	71	MJE	enormous
+LINKED:[12	12	64	71	bn:00102268a		http://babelnet.org/rdf/s00102268a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17105 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	9	2	0	312911	On each landing , opposite the lift-shaft , the poster with the enormous face gazed from the wall .	1297	gaze.v	66	Perception_active	MANUAL	2599861	78	82	MJE	gazed
+LINKED:[14	14	78	82	bn:00088705v		http://babelnet.org/rdf/s00088705v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17106 ===
+	Perception_active: 38.0
+
+SELECTED:[Perception_active]
+MATCH!
+SILVER:175	7	9	2	0	312911	On each landing , opposite the lift-shaft , the poster with the enormous face gazed from the wall .	10070	wall.n	971	Architectural_part	MANUAL	2599866	93	96	MJE	wall
+LINKED:[17	17	93	96	bn:00080386n	http://dbpedia.org/resource/Wall	http://babelnet.org/rdf/s00080386n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17107 ===
+	Architectural_part: 12.0
+
+SELECTED:[Architectural_part]
+MATCH!
+SILVER:175	7	9	2	0	312911	On each landing , opposite the lift-shaft , the poster with the enormous face gazed from the wall .	15945	poster.n	1656	Physical_artworks	MANUAL	2599869	48	53	MJE	poster
+LINKED:[9	9	48	53	bn:15173511n	http://dbpedia.org/resource/Poster	http://babelnet.org/rdf/s15173511n	1.0	1.0	0.54545456	BABELFY]
+RANK:=== COUNTER  Counter 17108 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	9	2	0	312911	On each landing , opposite the lift-shaft , the poster with the enormous face gazed from the wall .	2400	face.n	119	Body_parts	MANUAL	2600208	73	76	MJE	face
+LINKED:[13	13	73	76	bn:00032600n	http://dbpedia.org/resource/Face	http://babelnet.org/rdf/s00032600n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17109 ===
+	Observable_body_parts: 89.0
+	Facial_expression: 10.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	10	2	0	312912	It was one of those pictures which are so contrived that the eyes follow you about when you move .	12952	picture.n	1656	Physical_artworks	MANUAL	2599871	20	27	MJE	pictures
+LINKED:[5	5	20	27	bn:00045772n	http://dbpedia.org/resource/Image	http://babelnet.org/rdf/s00045772n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17110 ===
+	Sensation: 20.0
+	Optical_image: 4.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	10	2	0	312912	It was one of those pictures which are so contrived that the eyes follow you about when you move .	264	contrive.v	27	Coming_up_with	MANUAL	2599872	42	50	MJE	contrived
+LINKED:[9	9	42	50	bn:00100407a		http://babelnet.org/rdf/s00100407a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17111 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	10	2	0	312912	It was one of those pictures which are so contrived that the eyes follow you about when you move .	2526	eye.n	119	Body_parts	MANUAL	2599873	61	64	MJE	eyes
+LINKED:[12	12	61	64	bn:00032512n	http://dbpedia.org/resource/Eye	http://babelnet.org/rdf/s00032512n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17112 ===
+	Observable_body_parts: 89.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	10	2	0	312912	It was one of those pictures which are so contrived that the eyes follow you about when you move .	970	follow.v	56	Cotheme	MANUAL	2599874	66	71	MJE	follow
+LINKED:[13	13	66	71	bn:00088421v		http://babelnet.org/rdf/s00088421v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17113 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	1	3	0	312914	Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig-iron .	17222	inside.prep	1178	Interior_profile_relation	MANUAL	2599879	0	5	MJE	Inside
+LINKED:[0	0	0	5	bn:00046891n		http://babelnet.org/rdf/s00046891n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17114 ===
+	Part_inner_outer: 17.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	1	3	0	312914	Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig-iron .	3232	flat.n	188	Building_subparts	MANUAL	2599880	11	14	MJE	flat
+LINKED:[2	2	11	14	bn:00103058a		http://babelnet.org/rdf/s00103058a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17115 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	1	3	0	312914	Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig-iron .	13756	list.n	298	Text	MANUAL	2599882	49	52	MJE	list
+LINKED:[10	10	49	52	bn:00051508n	http://dbpedia.org/resource/Listing_(computer)	http://babelnet.org/rdf/s00051508n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17116 ===
+	Text: 76.0
+
+SELECTED:[Text]
+MATCH!
+SILVER:175	7	1	3	0	312914	Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig-iron .	11441	production.n	408	Manufacturing	MANUAL	2599883	100	109	MJE	production
+LINKED:[20	20	100	109	bn:03326757n	http://dbpedia.org/resource/Record_producer	http://babelnet.org/rdf/s03326757n	0.8181818	0.2857143	0.125	BABELFY]
+RANK:=== COUNTER  Counter 17117 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	1	3	0	312914	Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig-iron .	15948	read	2202	Reading_aloud	MANUAL	2599885	35	41	MJE	reading
+LINKED:[7	7	35	41	bn:00092424v		http://babelnet.org/rdf/s00092424v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17118 ===
+	Categorization: 28.0
+	Reading: 8.0
+	Hear: 4.0
+	Reading_aloud: 3.0
+
+SELECTED:[Reading_aloud]
+MATCH!
+SILVER:175	7	2	3	0	312915	The voice came from an oblong metal plaque like a dulled mirror which formed part of the surface of the right-hand wall .	15949	metal.n	1321	Substance	MANUAL	2599889	30	34	MJE	metal
+LINKED:[6	6	30	34	bn:00054550n	http://dbpedia.org/resource/Metal	http://babelnet.org/rdf/s00054550n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17119 ===
+	Substance: 21.0
+
+SELECTED:[Substance]
+MATCH!
+SILVER:175	7	2	3	0	312915	The voice came from an oblong metal plaque like a dulled mirror which formed part of the surface of the right-hand wall .	13759	surface.n	327	Part_inner_outer	MANUAL	2599890	89	95	MJE	surface
+LINKED:[17	17	89	95	bn:00075373n		http://babelnet.org/rdf/s00075373n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17120 ===
+	Part_inner_outer: 17.0
+
+SELECTED:[Part_inner_outer]
+MATCH!
+SILVER:175	7	2	3	0	312915	The voice came from an oblong metal plaque like a dulled mirror which formed part of the surface of the right-hand wall .	941	come.v	54	Arriving	MANUAL	2599891	10	13	MJE	came
+LINKED:[2	2	10	13	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17121 ===
+	Arriving: 24.0
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:175	7	3	3	0	312916	Winston turned a switch and the voice sank somewhat , though the words were still distinguishable .	5048	turn.v	276	Cause_to_move_in_place	MANUAL	2600209	8	13	MJE	turned
+LINKED:[1	1	8	13	bn:00095233v		http://babelnet.org/rdf/s00095233v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17122 ===
+	Cause_change: 27.0
+	Moving_in_place: 21.0
+	Undergo_change: 18.0
+	Contingency: 13.0
+	Cause_to_move_in_place: 8.0
+	Change_direction: 8.0
+
+SELECTED:[Cause_to_move_in_place]
+MATCH!
+SILVER:175	7	3	3	0	312916	Winston turned a switch and the voice sank somewhat , though the words were still distinguishable .	15970	somewhat.adv	2001	Degree	MANUAL	2600210	43	50	MJE	somewhat
+LINKED:[8	8	43	50	bn:00115313r		http://babelnet.org/rdf/s00115313r	1.0	0.14285715	0.004132231	BABELFY]
+RANK:=== COUNTER  Counter 17123 ===
+	Degree: 23.0
+	Fairness_evaluation: 8.0
+
+SELECTED:[Degree]
+MATCH!
+SILVER:175	7	3	3	0	312916	Winston turned a switch and the voice sank somewhat , though the words were still distinguishable .	15971	distinguishable.a	24	Differentiation	MANUAL	2600214	82	96	MJE	distinguishable
+LINKED:[15	15	82	96	bn:00101604a		http://babelnet.org/rdf/s00101604a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17124 ===
+	Differentiation: 7.0
+
+SELECTED:[Differentiation]
+MATCH!
+SILVER:175	7	4	3	0	312917	The instrument ( the telescreen , it was called ) could be dimmed , but there was no way of shutting it off completely .	2205	instrument.n	106	Gizmo	MANUAL	2600176	4	13	MJE	instrument
+LINKED:[1	1	4	13	bn:00046961n		http://babelnet.org/rdf/s00046961n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17125 ===
+	Gizmo: 15.0
+
+SELECTED:[Gizmo]
+MATCH!
+SILVER:175	7	4	3	0	312917	The instrument ( the telescreen , it was called ) could be dimmed , but there was no way of shutting it off completely .	11232	call.v	1261	Simple_naming	MANUAL	2600177	41	46	MJE	called
+LINKED:[8	8	41	46	bn:00084385v		http://babelnet.org/rdf/s00084385v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17126 ===
+	Being_named: 22.0
+	Labeling: 6.0
+	Referring_by_name: 5.0
+	Name_conferral: 5.0
+	Claim_ownership: 5.0
+	Simple_naming: 3.0
+
+SELECTED:[Simple_naming]
+MATCH!
+SILVER:175	7	4	3	0	312917	The instrument ( the telescreen , it was called ) could be dimmed , but there was no way of shutting it off completely .	13557	way.n	1790	Means	MANUAL	2600180	85	87	MJE	way
+LINKED:[18	18	85	87	bn:00033729n	http://dbpedia.org/resource/Mode_(literature)	http://babelnet.org/rdf/s00033729n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17127 ===
+	Means: 8.0
+	Possibilities: 6.0
+
+SELECTED:[Means]
+MATCH!
+SILVER:175	7	4	3	0	312917	The instrument ( the telescreen , it was called ) could be dimmed , but there was no way of shutting it off completely .	14596	shut	1688	Change_operational_state	MANUAL	2600181	92	99	MJE	shutting
+LINKED:[20	20	92	99	bn:00085162v		http://babelnet.org/rdf/s00085162v	1.0	0.25	0.0625	BABELFY]
+RANK:=== COUNTER  Counter 17128 ===
+	Body_movement: 56.0
+	Closure: 16.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	5	3	0	312918	He moved over to the window : a smallish , frail figure , the meagreness of his body merely emphasized by the blue overalls which were the uniform of the Party .	2387	body.n	119	Body_parts	MANUAL	2600184	80	83	MJE	body
+LINKED:[17	17	80	83	bn:00011744n	http://dbpedia.org/resource/Physical_body	http://babelnet.org/rdf/s00011744n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17129 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	5	3	0	312918	He moved over to the window : a smallish , frail figure , the meagreness of his body merely emphasized by the blue overalls which were the uniform of the Party .	3379	overall.n	134	Clothing	MANUAL	2600185	115	122	MJE	overalls
+LINKED:[23	23	115	122	bn:00059843n	http://dbpedia.org/resource/Overall	http://babelnet.org/rdf/s00059843n	1.0	0.125	0.016949153	BABELFY]
+RANK:=== COUNTER  Counter 17130 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	5	3	0	312918	He moved over to the window : a smallish , frail figure , the meagreness of his body merely emphasized by the blue overalls which were the uniform of the Party .	3542	uniform.n	134	Clothing	MANUAL	2600186	139	145	MJE	uniform
+LINKED:[27	27	139	145	bn:14044808n	http://dbpedia.org/resource/Uniform	http://babelnet.org/rdf/s14044808n	0.8	0.25	0.06779661	BABELFY]
+RANK:=== COUNTER  Counter 17131 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	5	3	0	312918	He moved over to the window : a smallish , frail figure , the meagreness of his body merely emphasized by the blue overalls which were the uniform of the Party .	10274	window.n	1025	Connecting_architecture	MANUAL	2600187	21	26	MJE	window
+LINKED:[5	5	21	26	bn:00081285n	http://dbpedia.org/resource/Window	http://babelnet.org/rdf/s00081285n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17132 ===
+	Connecting_architecture: 9.0
+
+SELECTED:[Connecting_architecture]
+MATCH!
+SILVER:175	7	5	3	0	312918	He moved over to the window : a smallish , frail figure , the meagreness of his body merely emphasized by the blue overalls which were the uniform of the Party .	7730	blue.a	423	Color	MANUAL	2600189	110	113	MJE	blue
+LINKED:[22	22	110	113	bn:00098606a		http://babelnet.org/rdf/s00098606a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17133 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	6	3	0	312919	His hair was very fair , his face naturally sanguine , his skin roughened by coarse soap and blunt razor blades and the cold of the winter that had just ended .	2408	hair.n	119	Body_parts	MANUAL	2600190	4	7	MJE	hair
+LINKED:[1	1	4	7	bn:00042526n	http://dbpedia.org/resource/Hair	http://babelnet.org/rdf/s00042526n	0.8898305	0.5	0.16773163	BABELFY]
+RANK:=== COUNTER  Counter 17134 ===
+	Observable_body_parts: 89.0
+	Hair_configuration: 14.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	6	3	0	312919	His hair was very fair , his face naturally sanguine , his skin roughened by coarse soap and blunt razor blades and the cold of the winter that had just ended .	2400	face.n	119	Body_parts	MANUAL	2600192	29	32	MJE	face
+LINKED:[7	7	29	32	bn:00032600n	http://dbpedia.org/resource/Face	http://babelnet.org/rdf/s00032600n	0.86206895	0.35714287	0.079872206	BABELFY]
+RANK:=== COUNTER  Counter 17135 ===
+	Observable_body_parts: 89.0
+	Facial_expression: 10.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	6	3	0	312919	His hair was very fair , his face naturally sanguine , his skin roughened by coarse soap and blunt razor blades and the cold of the winter that had just ended .	2544	skin.n	119	Body_parts	MANUAL	2600193	59	62	MJE	skin
+LINKED:[12	12	59	62	bn:00024643n	http://dbpedia.org/resource/Tegument_(helminth)	http://babelnet.org/rdf/s00024643n	1.0	0.5714286	0.2428115	BABELFY]
+RANK:=== COUNTER  Counter 17136 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	6	3	0	312919	His hair was very fair , his face naturally sanguine , his skin roughened by coarse soap and blunt razor blades and the cold of the winter that had just ended .	11344	blunt.a	1271	Sharpness	MANUAL	2600194	93	97	MJE	blunt
+LINKED:[18	18	93	97	bn:00098631a		http://babelnet.org/rdf/s00098631a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17137 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	7	6	3	0	312919	His hair was very fair , his face naturally sanguine , his skin roughened by coarse soap and blunt razor blades and the cold of the winter that had just ended .	5138	winter.n	229	Calendric_unit	MANUAL	2600196	132	137	MJE	winter
+LINKED:[26	26	132	137	bn:00081370n	http://dbpedia.org/resource/Winter	http://babelnet.org/rdf/s00081370n	1.0	0.2857143	0.044728436	BABELFY]
+RANK:=== COUNTER  Counter 17138 ===
+	Calendric_unit: 56.0
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:175	7	6	3	0	312919	His hair was very fair , his face naturally sanguine , his skin roughened by coarse soap and blunt razor blades and the cold of the winter that had just ended .	4426	end.v	232	Process_end	MANUAL	2600197	153	157	MJE	ended
+LINKED:[30	30	153	157	bn:00084711v		http://babelnet.org/rdf/s00084711v	1.0	0.071428575	0.0015974441	BABELFY]
+RANK:=== COUNTER  Counter 17139 ===
+	Process_end: 10.0
+
+SELECTED:[Process_end]
+MATCH!
+SILVER:175	7	6	3	0	312919	His hair was very fair , his face naturally sanguine , his skin roughened by coarse soap and blunt razor blades and the cold of the winter that had just ended .	15963	cold.n	1052	Ambient_temperature	MANUAL	2600198	120	123	MJE	cold
+LINKED:[23	23	120	123	bn:00020534n	http://dbpedia.org/resource/Common_cold	http://babelnet.org/rdf/s00020534n	0.71428573	0.2857143	0.031948883	BABELFY]
+RANK:=== COUNTER  Counter 17140 ===
+	Medical_conditions: 65.0
+
+SELECTED:[]
+WRONG!
+filename	Miscellaneous__Orwell_1984_p1.xml
+docAnnotations	155
+docManual	130
+docUnannotated	25
+sentences	19
+paragraphs	3
+Overlapping	89
+Disambiguated	61
+TP	36
+TN	25
+FP	0
+FN	69
+P	1.0
+R	0.34285714285714286
+F	0.5106382978723404
+A	0.46923076923076923

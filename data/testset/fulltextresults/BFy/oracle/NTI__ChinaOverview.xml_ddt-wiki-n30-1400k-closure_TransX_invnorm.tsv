@@ -1,0 +1,16 @@
+filename	NTI__ChinaOverview.xml
+docAnnotations	474
+docManual	423
+docUnannotated	51
+sentences	39
+paragraphs	11
+Overlapping	369
+Disambiguated	318
+TP	218
+TN	51
+FP	0
+FN	105
+P	1.0
+R	0.6749226006191951
+F	0.8059149722735675
+A	0.7192513368983957

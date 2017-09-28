@@ -1,0 +1,16 @@
+filename	KBEval__Stanford.xml
+docAnnotations	174
+docManual	78
+docUnannotated	96
+sentences	94
+paragraphs	30
+Overlapping	70
+Disambiguated	68
+TP	46
+TN	96
+FP	0
+FN	10
+P	1.0
+R	0.8214285714285714
+F	0.9019607843137255
+A	0.9342105263157895

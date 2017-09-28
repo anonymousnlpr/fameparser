@@ -1,0 +1,16 @@
+filename	KBEval__parc.xml
+docAnnotations	330
+docManual	90
+docUnannotated	240
+sentences	228
+paragraphs	76
+Overlapping	75
+Disambiguated	49
+TP	47
+TN	240
+FP	0
+FN	41
+P	1.0
+R	0.5340909090909091
+F	0.6962962962962962
+A	0.875

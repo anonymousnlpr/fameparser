@@ -1,0 +1,16 @@
+filename	ANC__HistoryOfJerusalem.xml
+docAnnotations	822
+docManual	661
+docUnannotated	161
+sentences	121
+paragraphs	30
+Overlapping	549
+Disambiguated	343
+TP	278
+TN	161
+FP	0
+FN	318
+P	1.0
+R	0.4664429530201342
+F	0.6361556064073227
+A	0.5799207397622193

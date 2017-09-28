@@ -1,0 +1,16 @@
+filename	NTI__Taiwan_Introduction.xml
+docAnnotations	240
+docManual	194
+docUnannotated	46
+sentences	36
+paragraphs	11
+Overlapping	174
+Disambiguated	89
+TP	67
+TN	46
+FP	0
+FN	105
+P	1.0
+R	0.38953488372093026
+F	0.5606694560669456
+A	0.518348623853211

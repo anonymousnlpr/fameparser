@@ -1,0 +1,16 @@
+filename	WikiTexts__Fires_8.xml
+docAnnotations	77
+docManual	62
+docUnannotated	15
+sentences	15
+paragraphs	10
+Overlapping	58
+Disambiguated	49
+TP	32
+TN	15
+FP	0
+FN	13
+P	1.0
+R	0.7111111111111111
+F	0.8311688311688311
+A	0.7833333333333333

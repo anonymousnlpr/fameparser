@@ -1,0 +1,172 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+185	23573	1	1	0	4098057	ID: Brandeis - 01.1 .	null	null	null	null	UNANN	6530798	null	null	null	null
+185	23573	2	1	0	4098058	StatesWest Airlines withdrew its offer to acquire Mesa Airlines .	null	null	null	null	UNANN	6530799	null	null	null	null
+185	23573	2	1	0	4098058	StatesWest Airlines withdrew its offer to acquire Mesa Airlines .	12297	withdraw.v	1518	Withdraw_from_participation	UNANN	6532947	null	null	null	null
+185	23573	2	1	0	4098058	StatesWest Airlines withdrew its offer to acquire Mesa Airlines .	12297	withdraw.v	1518	Withdraw_from_participation	UNANN	6532947	20	27	CFB	withdrew
+185	23573	3	1	0	4098059	QN : Was an offer made to acquire Mesa Airline ?	null	null	null	null	UNANN	6530800	null	null	null	null
+185	23573	1	2	0	4098060	ID: Brandeis - 01.2 .	null	null	null	null	UNANN	6530801	null	null	null	null
+185	23573	2	2	0	4098061	StatesWest Airlines withdrew its offer to acquire Mesa Airlines .	null	null	null	null	UNANN	6530802	null	null	null	null
+185	23573	2	2	0	4098061	StatesWest Airlines withdrew its offer to acquire Mesa Airlines .	12297	withdraw.v	1518	Withdraw_from_participation	UNANN	6533445	null	null	null	null
+185	23573	2	2	0	4098061	StatesWest Airlines withdrew its offer to acquire Mesa Airlines .	12297	withdraw.v	1518	Withdraw_from_participation	UNANN	6533445	20	27	Hay	withdrew
+185	23573	3	2	0	4098062	QN : Did StatesWest ever plan to acquire Mesa Airlines ?	null	null	null	null	UNANN	6530803	null	null	null	null
+185	23573	1	3	0	4098063	ID: Brandeis - 01.3 .	null	null	null	null	UNANN	6530804	null	null	null	null
+185	23573	2	3	0	4098064	StatesWest Airlines withdrew its offer to acquire Mesa Airlines .	null	null	null	null	UNANN	6530805	null	null	null	null
+185	23573	2	3	0	4098064	StatesWest Airlines withdrew its offer to acquire Mesa Airlines .	12297	withdraw.v	1518	Withdraw_from_participation	UNANN	6533446	null	null	null	null
+185	23573	2	3	0	4098064	StatesWest Airlines withdrew its offer to acquire Mesa Airlines .	12297	withdraw.v	1518	Withdraw_from_participation	UNANN	6533446	20	27	Hay	withdrew
+185	23573	3	3	0	4098065	QN : Did StatesWest acquire Mesa Airlines ?	null	null	null	null	UNANN	6530806	null	null	null	null
+185	23573	1	4	0	4098066	ID: Brandeis -02 .	null	null	null	null	UNANN	6530807	null	null	null	null
+185	23573	2	4	0	4098067	Steynar Gil welcomed the release of prisoners imprisoned during the October 15 -16 riots .	null	null	null	null	UNANN	6530808	null	null	null	null
+185	23573	3	4	0	4098068	QN : Have prisoners imprisoned during October 15 -16 riots been released ?	null	null	null	null	UNANN	6530809	null	null	null	null
+185	23573	1	5	0	4098069	ID: Brandeis -03 .	null	null	null	null	UNANN	6530810	null	null	null	null
+185	23573	2	5	0	4098070	Program trading is hurting the market 's efforts to bring back small investors .	null	null	null	null	UNANN	6530811	null	null	null	null
+185	23573	2	5	0	4098070	Program trading is hurting the market 's efforts to bring back small investors .	10187	effort.n	116	Attempt	MANUAL	6533248	41	47	MJE	efforts
+185	23573	3	5	0	4098071	QN : Are there any efforts to bring back small investors ?	null	null	null	null	UNANN	6530812	null	null	null	null
+185	23573	3	5	0	4098071	QN : Are there any efforts to bring back small investors ?	10187	effort.n	116	Attempt	MANUAL	6533249	19	25	MJE	efforts
+185	23573	3	5	0	4098071	QN : Are there any efforts to bring back small investors ?	9920	bring.v	240	Bringing	MANUAL	6544185	30	34	MJE	bring
+185	23573	1	6	0	4098072	ID: Brandeis -04 .	null	null	null	null	UNANN	6530813	null	null	null	null
+185	23573	2	6	0	4098073	Thirty-two of the 159 U.N. members were honoring the sanctions against Iraq .	null	null	null	null	UNANN	6530814	null	null	null	null
+185	23573	2	6	0	4098073	Thirty-two of the 159 U.N. members were honoring the sanctions against Iraq .	10279	member.n	1026	Membership	MANUAL	6532298	27	33	RLG	members
+185	23573	2	6	0	4098073	Thirty-two of the 159 U.N. members were honoring the sanctions against Iraq .	12694	honor.v	117	Compliance	MANUAL	6532299	40	47	RLG	honoring
+185	23573	2	6	0	4098073	Thirty-two of the 159 U.N. members were honoring the sanctions against Iraq .	10676	sanction.n	347	Revenge	MANUAL	6532301	53	61	RLG	sanctions
+185	23573	3	6	0	4098074	QN : Were there sanctions against Iraq ?	null	null	null	null	UNANN	6530815	null	null	null	null
+185	23573	3	6	0	4098074	QN : Were there sanctions against Iraq ?	10329	there	660	Existence	MANUAL	6532303	10	14	RLG	there
+185	23573	3	6	0	4098074	QN : Were there sanctions against Iraq ?	10329	there	660	Existence	MANUAL	6532303	5	8	RLG	Were
+185	23573	3	6	0	4098074	QN : Were there sanctions against Iraq ?	10676	sanction.n	347	Revenge	MANUAL	6532304	16	24	RLG	sanctions
+185	23573	1	7	0	4098075	ID: Brandeis - 05.1 .	null	null	null	null	UNANN	6530816	null	null	null	null
+185	23573	2	7	0	4098076	Herbicide use in some areas of the U.S. was delayed earlier in the year by heavy rains .	null	null	null	null	UNANN	6530817	null	null	null	null
+185	23573	3	7	0	4098077	QN : Were herbicides delayed in all areas of the U.S. this year ?	null	null	null	null	UNANN	6530818	null	null	null	null
+185	23573	1	8	0	4098078	ID: Brandeis - 05.2 .	null	null	null	null	UNANN	6530819	null	null	null	null
+185	23573	2	8	0	4098079	Herbicide use in some areas of the U.S. was prevented this year because of heavy rains .	null	null	null	null	UNANN	6530820	null	null	null	null
+185	23573	3	8	0	4098080	QN : Were herbicides used this year in the U.S. ?	null	null	null	null	UNANN	6530821	null	null	null	null
+185	23573	1	9	0	4098081	ID: Brandeis -06 .	null	null	null	null	UNANN	6530822	null	null	null	null
+185	23573	2	9	0	4098082	The US is bolstering its military presence in the Gulf .	null	null	null	null	UNANN	6530823	null	null	null	null
+185	23573	2	9	0	4098082	The US is bolstering its military presence in the Gulf .	12390	military.a	1514	Military	MANUAL	6532310	25	32	RLG	military
+185	23573	3	9	0	4098083	QN : Does the US have a military presence in the Gulf .	null	null	null	null	UNANN	6530824	null	null	null	null
+185	23573	3	9	0	4098083	QN : Does the US have a military presence in the Gulf .	12390	military.a	1514	Military	MANUAL	6532312	24	31	RLG	military
+185	23573	1	10	0	4098084	ID: Brandeis -07 .	null	null	null	null	UNANN	6530825	null	null	null	null
+185	23573	2	10	0	4098085	The unemployed took to the streets of the German capital , Berlin , mirroring protests around the country .	null	null	null	null	UNANN	6530826	null	null	null	null
+185	23573	3	10	0	4098086	QN : Were the protests only in Berlin ?	null	null	null	null	UNANN	6530827	null	null	null	null
+185	23573	1	11	0	4098087	ID: Brandeis - 08.1 .	null	null	null	null	UNANN	6530828	null	null	null	null
+185	23573	2	11	0	4098088	The court nullified a standstill agreement between DPC Acquisition and Dataproducts .	null	null	null	null	UNANN	6530829	null	null	null	null
+185	23573	2	11	0	4098088	The court nullified a standstill agreement between DPC Acquisition and Dataproducts .	12625	court.n	1607	Judicial_body	MANUAL	6533327	4	8	MiL	court
+185	23573	3	11	0	4098089	QN : Was there any agreement between DPC Acquisition and Dataproducts ?	null	null	null	null	UNANN	6530830	null	null	null	null
+185	23573	1	12	0	4098090	ID: Brandeis - 08.2 .	null	null	null	null	UNANN	6530831	null	null	null	null
+185	23573	2	12	0	4098091	The court nullified a standstill agreement between DPC Acquisition and Dataproducts .	null	null	null	null	UNANN	6530832	null	null	null	null
+185	23573	2	12	0	4098091	The court nullified a standstill agreement between DPC Acquisition and Dataproducts .	12625	court.n	1607	Judicial_body	MANUAL	6533447	4	8	Hay	court
+185	23573	3	12	0	4098092	QN : Are there any agreements between DCP Acquisition and Dataproducts ?	null	null	null	null	UNANN	6530833	null	null	null	null
+185	23573	1	13	0	4098093	ID: Brandeis - 09.1 .	null	null	null	null	UNANN	6530834	null	null	null	null
+185	23573	2	13	0	4098094	Sardar Patel faced imprisonment for the first time when he was assisting Gandhiji in the Salt Satyagraha .	null	null	null	null	UNANN	6530835	null	null	null	null
+185	23573	2	13	0	4098094	Sardar Patel faced imprisonment for the first time when he was assisting Gandhiji in the Salt Satyagraha .	7040	assist.v	391	Assistance	MANUAL	6533227	63	71	MJE	assisting
+185	23573	3	13	0	4098095	QN : Was Sardar Patel ever in prison ?	null	null	null	null	UNANN	6530836	null	null	null	null
+185	23573	1	14	0	4098096	ID: Brandeis - 09.2 .	null	null	null	null	UNANN	6530837	null	null	null	null
+185	23573	2	14	0	4098097	Sardar Patel faced imprisonment for the first time when he was assisting Gandhiji in the Salt Satyagraha .	null	null	null	null	UNANN	6530838	null	null	null	null
+185	23573	2	14	0	4098097	Sardar Patel faced imprisonment for the first time when he was assisting Gandhiji in the Salt Satyagraha .	7040	assist.v	391	Assistance	MANUAL	6533448	63	71	Hay	assisting
+185	23573	3	14	0	4098098	QN : Was Sardar Patel ever convicted of a crime ?	null	null	null	null	UNANN	6530839	null	null	null	null
+185	23573	1	15	0	4098099	ID: Brandeis - 10.1 .	null	null	null	null	UNANN	6530840	null	null	null	null
+185	23573	2	15	0	4098100	Darryl Strawberry recently avoided imprisonment when a judge sentenced him to a drug treatment center for violating his probation .	null	null	null	null	UNANN	6530841	null	null	null	null
+185	23573	3	15	0	4098101	QN : Was Darryl Strawberry ever in prison ?	null	null	null	null	UNANN	6530842	null	null	null	null
+185	23573	1	16	0	4098102	ID: Brandeis - 10.2 .	null	null	null	null	UNANN	6530843	null	null	null	null
+185	23573	2	16	0	4098103	Darryl Strawberry recently avoided imprisonment when a judge sentenced him to a drug treatment center for violating his probation .	null	null	null	null	UNANN	6530844	null	null	null	null
+185	23573	3	16	0	4098104	QN : Was Darryl imprisoned for violating his probation ?	null	null	null	null	UNANN	6530845	null	null	null	null
+185	23573	1	17	0	4098105	ID: Brandeis -11 .	null	null	null	null	UNANN	6530846	null	null	null	null
+185	23573	2	17	0	4098106	Three patients declined further surgery .	null	null	null	null	UNANN	6530847	null	null	null	null
+185	23573	2	17	0	4098106	Three patients declined further surgery .	12759	decline.v	1625	Agree_or_refuse_to_act	MANUAL	6533219	15	22	MJE	declined
+185	23573	3	17	0	4098107	QN : Did the patients have any surgeries ?	null	null	null	null	UNANN	6530848	null	null	null	null
+185	23573	1	18	0	4098108	ID: Brandeis -12 .	null	null	null	null	UNANN	6530849	null	null	null	null
+185	23573	2	18	0	4098109	Foodstuffs are being blocked from entry into Iraq .	null	null	null	null	UNANN	6530850	null	null	null	null
+185	23573	3	18	0	4098110	QN : Are foodstuffs getting into Iraq ?	null	null	null	null	UNANN	6530851	null	null	null	null
+185	23573	3	18	0	4098110	QN : Are foodstuffs getting into Iraq ?	4885	get.v	54	Arriving	MANUAL	6532317	20	26	RLG	getting
+185	23573	1	19	0	4098111	ID: Brandeis -13 .	null	null	null	null	UNANN	6530852	null	null	null	null
+185	23573	2	19	0	4098112	The new space allowed Compaq to increase the manufacturing capacity of its plant in Erskine , Scotland .	null	null	null	null	UNANN	6530853	null	null	null	null
+185	23573	3	19	0	4098113	QN : Did Compaq increase its manufacturing capacity in the Erskine plant ?	null	null	null	null	UNANN	6530854	null	null	null	null
+185	23573	1	20	0	4098114	ID: Brandeis -14 .	null	null	null	null	UNANN	6530855	null	null	null	null
+185	23573	2	20	0	4098115	Holders of more than a majority of the stock of the company have approved the transaction by written consent .	null	null	null	null	UNANN	6530856	null	null	null	null
+185	23573	3	20	0	4098116	QN : Has the transaction taken place ?	null	null	null	null	UNANN	6530857	null	null	null	null
+185	23573	3	20	0	4098116	QN : Has the transaction taken place ?	4888	take	187	Event	MANUAL	6533200	25	29	EGp	taken
+185	23573	3	20	0	4098116	QN : Has the transaction taken place ?	4888	take	187	Event	MANUAL	6533200	31	35	EGp	place
+185	23573	3	20	0	4098116	QN : Has the transaction taken place ?	11459	transaction.n	177	Commercial_transaction	MANUAL	6533212	13	23	MJE	transaction
+185	23573	1	21	0	4098117	ID: Brandeis -15 .	null	null	null	null	UNANN	6530858	null	null	null	null
+185	23573	2	21	0	4098118	The transaction has been approved by Kyle 's board but requires the approval of the company 's shareholders .	null	null	null	null	UNANN	6530859	null	null	null	null
+185	23573	3	21	0	4098119	QN : Has the transaction taken place ?	null	null	null	null	UNANN	6530860	null	null	null	null
+185	23573	3	21	0	4098119	QN : Has the transaction taken place ?	4888	take	187	Event	MANUAL	6533449	25	29	EGp	taken
+185	23573	3	21	0	4098119	QN : Has the transaction taken place ?	4888	take	187	Event	MANUAL	6533449	31	35	EGp	place
+185	23573	3	21	0	4098119	QN : Has the transaction taken place ?	11459	transaction.n	177	Commercial_transaction	MANUAL	6533450	13	23	Hay	transaction
+185	23573	1	22	0	4098120	ID: Brandeis -16 .	null	null	null	null	UNANN	6530861	null	null	null	null
+185	23573	2	22	0	4098121	The company 's board authorized the purchase of an additional one million shares .	null	null	null	null	UNANN	6530862	null	null	null	null
+185	23573	3	22	0	4098122	QN : Has the company purchased additional shares ?	null	null	null	null	UNANN	6530863	null	null	null	null
+185	23573	1	23	0	4098123	ID: Brandeis -17 .	null	null	null	null	UNANN	6530864	null	null	null	null
+185	23573	2	23	0	4098124	The purchase was subsequently rejected by regulators .	null	null	null	null	UNANN	6530865	null	null	null	null
+185	23573	3	23	0	4098125	QN : Did the purchase take place ?	null	null	null	null	UNANN	6530866	null	null	null	null
+185	23573	3	23	0	4098125	QN : Did the purchase take place ?	4888	take	187	Event	MANUAL	6533201	22	25	EGp	take
+185	23573	3	23	0	4098125	QN : Did the purchase take place ?	4888	take	187	Event	MANUAL	6533201	27	31	EGp	place
+185	23573	3	23	0	4098125	QN : Did the purchase take place ?	2973	purchase	171	Commerce_buy	MANUAL	6533211	13	20	MJE	purchase
+185	23573	1	24	0	4098126	ID: Brandeis -18 .	null	null	null	null	UNANN	6530867	null	null	null	null
+185	23573	2	24	0	4098127	Analysts were predicting 1990 BellSouth earnings in the range of $3.90 a share .	null	null	null	null	UNANN	6530868	null	null	null	null
+185	23573	3	24	0	4098128	QN : Has BellSouth experienced earnings in 1990 ?	null	null	null	null	UNANN	6530869	null	null	null	null
+185	23573	1	25	0	4098129	ID: Brandeis - 19.1 .	null	null	null	null	UNANN	6530870	null	null	null	null
+185	23573	2	25	0	4098130	Milton Roy disclosed in May that it was approached for a possible acquisition by Thermo Electron .	null	null	null	null	UNANN	6530871	null	null	null	null
+185	23573	2	25	0	4098130	Milton Roy disclosed in May that it was approached for a possible acquisition by Thermo Electron .	10666	disclose.v	1146	Reveal_secret	MANUAL	6533300	11	19	RLG	disclosed
+185	23573	3	25	0	4098131	QN : Was Milton Roy approached by Thermo Electron ?	null	null	null	null	UNANN	6530872	null	null	null	null
+185	23573	1	26	0	4098132	ID: Brandeis - 19.2 .	null	null	null	null	UNANN	6530873	null	null	null	null
+185	23573	2	26	0	4098133	Milton Roy disclosed in May that it was approached for a possible acquisition by Thermo Electron .	null	null	null	null	UNANN	6530874	null	null	null	null
+185	23573	2	26	0	4098133	Milton Roy disclosed in May that it was approached for a possible acquisition by Thermo Electron .	10666	disclose.v	1146	Reveal_secret	MANUAL	6533451	11	19	Hay	disclosed
+185	23573	3	26	0	4098134	QN : Has Milton Roy been acquired by Thermo Electron ?	null	null	null	null	UNANN	6530875	null	null	null	null
+185	23573	1	27	0	4098135	ID: Brandeis -20 .	null	null	null	null	UNANN	6530876	null	null	null	null
+185	23573	2	27	0	4098136	Analysts noted that over the past 20 years , Mr . Fournier has built his company through astute stock-market activity .	null	null	null	null	UNANN	6530877	null	null	null	null
+185	23573	3	27	0	4098137	QN : Has Mr . Fournier built his company through astute stock-market activity ?	null	null	null	null	UNANN	6530878	null	null	null	null
+185	23573	1	28	0	4098138	ID: Brandeis - 21.1 .	null	null	null	null	UNANN	6530879	null	null	null	null
+185	23573	2	28	0	4098139	I was pleased that Ms . Currie 's lawyers stated unambiguously this morning that she 's not aware of any unethical conduct .	null	null	null	null	UNANN	6530880	null	null	null	null
+185	23573	3	28	0	4098140	QN : Is Ms . Currie aware of any unethical conduct on her part ?	null	null	null	null	UNANN	6530881	null	null	null	null
+185	23573	1	29	0	4098141	ID: Brandeis - 21.2 .	null	null	null	null	UNANN	6530882	null	null	null	null
+185	23573	2	29	0	4098142	I was pleased that Ms . Currie 's lawyers stated unambiguously this morning that she 's not aware of any unethical conduct .	null	null	null	null	UNANN	6530883	null	null	null	null
+185	23573	3	29	0	4098143	QN : Have Ms . Currie 's lawyers stated she 's not aware of any unethical conduct ?	null	null	null	null	UNANN	6530884	null	null	null	null
+185	23573	1	30	0	4098144	ID: Brandeis -22 .	null	null	null	null	UNANN	6530885	null	null	null	null
+185	23573	2	30	0	4098145	President Clinton and Blair will stand together on arresting the terrorists suspected of blowing up Pan Am flight 103 over Scotland .	null	null	null	null	UNANN	6530886	null	null	null	null
+185	23573	2	30	0	4098145	President Clinton and Blair will stand together on arresting the terrorists suspected of blowing up Pan Am flight 103 over Scotland .	4733	arrest.v	202	Arrest	MANUAL	6533221	51	59	MJE	arresting
+185	23573	2	30	0	4098145	President Clinton and Blair will stand together on arresting the terrorists suspected of blowing up Pan Am flight 103 over Scotland .	7975	suspect.v	503	Suspicion	MANUAL	6533341	76	84	MJE	suspected
+185	23573	3	30	0	4098146	QN : Has there been an explosion of a Pan Am flight over Scotland ?	null	null	null	null	UNANN	6530887	null	null	null	null
+185	23573	1	31	0	4098147	ID: Brandeis -23 .	null	null	null	null	UNANN	6530888	null	null	null	null
+185	23573	2	31	0	4098148	The accord helps RJR pay off debt .	null	null	null	null	UNANN	6530889	null	null	null	null
+185	23573	3	31	0	4098149	QN : Does RJR have any debt ?	null	null	null	null	UNANN	6530890	null	null	null	null
+185	23573	1	32	0	4098150	ID: Brandeis -24 .	null	null	null	null	UNANN	6530891	null	null	null	null
+185	23573	2	32	0	4098151	48 Kuwaiti jet fighters managed to escape the Iraqi invasion .	null	null	null	null	UNANN	6530892	null	null	null	null
+185	23573	2	32	0	4098151	48 Kuwaiti jet fighters managed to escape the Iraqi invasion .	4999	escape.v	274	Avoiding	MANUAL	6533230	35	40	MJE	escape
+185	23573	2	32	0	4098151	48 Kuwaiti jet fighters managed to escape the Iraqi invasion .	12830	manage.v	1388	Success_or_failure	MANUAL	6533775	24	30	JKR	managed
+185	23573	3	32	0	4098152	QN : Did any Kuwaiti jet fighters escape the Iraqi invasion ?	null	null	null	null	UNANN	6530893	null	null	null	null
+185	23573	3	32	0	4098152	QN : Did any Kuwaiti jet fighters escape the Iraqi invasion ?	4999	escape.v	274	Avoiding	MANUAL	6533232	34	39	MJE	escape
+185	23573	1	33	0	4098153	ID: Brandeis -25 .	null	null	null	null	UNANN	6530894	null	null	null	null
+185	23573	2	33	0	4098154	It appears that allied troops have n't yet fully engaged Iraq 's Republican Guard .	null	null	null	null	UNANN	6530895	null	null	null	null
+185	23573	3	33	0	4098155	QN : Have allied troops engaged Iraq 's Republican Guard ?	null	null	null	null	UNANN	6530896	null	null	null	null
+185	23573	1	34	0	4098156	ID: Brandeis - 26.1 .	null	null	null	null	UNANN	6530897	null	null	null	null
+185	23573	2	34	0	4098157	British police officers concluded Howes had probably been killed soon after being captured .	null	null	null	null	UNANN	6530898	null	null	null	null
+185	23573	3	34	0	4098158	QN : Did Howes die ?	null	null	null	null	UNANN	6530899	null	null	null	null
+185	23573	1	35	0	4098159	ID: Brandeis - 26.2 .	null	null	null	null	UNANN	6530900	null	null	null	null
+185	23573	2	35	0	4098160	British police officers concluded Howes had probably been killed soon after being captured .	null	null	null	null	UNANN	6530901	null	null	null	null
+185	23573	3	35	0	4098161	QN : Was Howes killed soon after being captured ?	null	null	null	null	UNANN	6530902	null	null	null	null
+185	23573	1	36	0	4098162	ID: Brandeis -27 .	null	null	null	null	UNANN	6530903	null	null	null	null
+185	23573	2	36	0	4098163	The police allowed the crowd to demonstrate on nearby streets .	null	null	null	null	UNANN	6530904	null	null	null	null
+185	23573	3	36	0	4098164	QN : Did the crowd demonstrate on nearby streets ?	null	null	null	null	UNANN	6530905	null	null	null	null
+185	23573	1	37	0	4098165	ID: Brandeis - 28.1 .	null	null	null	null	UNANN	6530906	null	null	null	null
+185	23573	2	37	0	4098166	In Pakistan , the Taliban have forbidden women to work .	null	null	null	null	UNANN	6530907	null	null	null	null
+185	23573	3	37	0	4098167	QN : Do the Taliban want women to work in Pakistan ?	null	null	null	null	UNANN	6530908	null	null	null	null
+185	23573	1	38	0	4098168	ID: Brandeis - 28.2 .	null	null	null	null	UNANN	6530909	null	null	null	null
+185	23573	2	38	0	4098169	In Pakistan , the Taliban have forbidden women to work .	null	null	null	null	UNANN	6530910	null	null	null	null
+185	23573	3	38	0	4098170	QN : Do women work in Pakistan ?	null	null	null	null	UNANN	6530911	null	null	null	null
+185	23573	1	39	0	4098171	ID: Brandeis -29 .	null	null	null	null	UNANN	6530912	null	null	null	null
+185	23573	2	39	0	4098172	The Administration is trying to decide whether Saddam Hussein has WMD .	null	null	null	null	UNANN	6530913	null	null	null	null
+185	23573	2	39	0	4098172	The Administration is trying to decide whether Saddam Hussein has WMD .	2465	try.v	116	Attempt	MANUAL	6532319	22	27	RLG	trying
+185	23573	2	39	0	4098172	The Administration is trying to decide whether Saddam Hussein has WMD .	2378	have.v	118	Possession	MANUAL	6532328	62	64	RLG	has
+185	23573	3	39	0	4098173	QN : Is the administration deciding whether Saddam Hussein has WMD ?	null	null	null	null	UNANN	6530914	null	null	null	null
+185	23573	3	39	0	4098173	QN : Is the administration deciding whether Saddam Hussein has WMD ?	11073	have	118	Possession	MANUAL	6532329	59	61	RLG	has
+185	23573	1	40	0	4098174	ID: Brandeis -30 .	null	null	null	null	UNANN	6530915	null	null	null	null
+185	23573	2	40	0	4098175	Helicopters are trying to locate people stranded without food .	null	null	null	null	UNANN	6530916	null	null	null	null
+185	23573	2	40	0	4098175	Helicopters are trying to locate people stranded without food .	2465	try.v	116	Attempt	MANUAL	6533333	16	21	MJE	trying
+185	23573	2	40	0	4098175	Helicopters are trying to locate people stranded without food .	11226	locate.v	792	Locating	MANUAL	6533334	26	31	MJE	locate
+185	23573	3	40	0	4098176	QN : Are helicopters locating people stranded without food ?	null	null	null	null	UNANN	6530917	null	null	null	null
+185	23573	3	40	0	4098176	QN : Are helicopters locating people stranded without food ?	11226	locate.v	792	Locating	MANUAL	6533335	21	28	MJE	locating
+185	23573	1	41	0	4098177	ID: Brandeis -31 .	null	null	null	null	UNANN	6530918	null	null	null	null
+185	23573	2	41	0	4098178	MCA agreed to wait on purchasing Cineplex .	null	null	null	null	UNANN	6530919	null	null	null	null
+185	23573	3	41	0	4098179	QN : Is MCA waiting to purchase Cineplex ?	null	null	null	null	UNANN	6530920	null	null	null	null
+185	23573	1	42	0	4098180	ID: Brandeis -32 .	null	null	null	null	UNANN	6530921	null	null	null	null
+185	23573	2	42	0	4098181	MGM Grand Inc. has agreed to pay $93 million to buy 117 acres of land in Las Vegas .	null	null	null	null	UNANN	6530922	null	null	null	null
+185	23573	3	42	0	4098182	QN : Has MGM Grand Inc. paid $93 million to buy 117 acres of land in Las Vegas ?	null	null	null	null	UNANN	6530923	null	null	null	null

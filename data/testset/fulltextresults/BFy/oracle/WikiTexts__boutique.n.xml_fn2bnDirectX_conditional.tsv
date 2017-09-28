@@ -1,0 +1,160 @@
+SILVER:246	25734	1	1	0	4216534	The 2nd Street District consists of several new residential projects , restaurants , coffee shops , record stores , upscale boutiques and museums , and the Austin City Hall .	18660	boutique.n	196	Locale_by_use	MANUAL	6773506	124	132	HPh	boutiques
+LINKED:[20	20	124	132	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 40086 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:246	25734	9	1	0	4216542	Elmwood Village is a pedestrian-oriented , mixed use neighborhood with hundreds of small , locally owned boutiques , shops , restaurants , and cafes .	18660	boutique.n	196	Locale_by_use	MANUAL	6773598	105	113	HPh	boutiques
+LINKED:[16	16	105	113	bn:00067417n	http://dbpedia.org/resource/Retail	http://babelnet.org/rdf/s00067417n	0.8	0.5	0.0729927	BABELFY]
+RANK:=== COUNTER  Counter 40088 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25734	2	2	0	4216545	Rard was a car engineer but by 1946 he was running his mother 's lingerie boutique near Les Folies Bergres in Paris .	18661	boutique.n	365	Businesses	MANUAL	6773600	74	81	HPh	boutique
+LINKED:[15	15	74	81	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 40090 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:246	25734	3	2	0	4216546	The retail areas contain shops from chain stores up to high-end boutiques .	18660	boutique.n	196	Locale_by_use	MANUAL	6773601	64	72	HPh	boutiques
+LINKED:[11	11	64	72	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 40092 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:246	25734	4	3	0	4216557	Florence 's main upscale shopping street is Via de ' Tornabuoni , where major luxury fashion houses and jewelry labels , such as Armani and Bulgari , have their elegant boutiques .	18661	boutique.n	365	Businesses	MANUAL	6773603	169	177	HPh	boutiques
+LINKED:[29	29	169	177	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 40094 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:246	25734	5	3	0	4216558	More recently , the stores in major downtown locations have been transformed into boutiques .	18660	boutique.n	196	Locale_by_use	MANUAL	6773602	82	90	HPh	boutiques
+LINKED:[13	13	82	90	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 40096 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:246	25734	7	3	0	4216560	Restaurants , bakeries , traditional-clothing boutiques and specialty shops can be found in both areas .	18660	boutique.n	196	Locale_by_use	MANUAL	6773604	46	54	HPh	boutiques
+LINKED:[5	5	46	54	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 40098 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:246	25734	4	4	0	4216568	Caserta , a former Delta Air Lines stewardess and owner of one of the first clothing boutiques in the Haight Ashbury , said that by September 1970 she had resorted to smuggling marijuana throughout California and she checked into the Landmark that month because it attracted drug users .	18661	boutique.n	365	Businesses	MANUAL	6773605	85	93	HPh	boutiques
+LINKED:[16	16	85	93	bn:00067417n	http://dbpedia.org/resource/Retail	http://babelnet.org/rdf/s00067417n	1.0	0.045454547	0.0016722408	BABELFY]
+RANK:=== COUNTER  Counter 40100 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25734	5	5	0	4216579	Local boutiques are adept at making western-style clothes using Moroccan materials .	18661	boutique.n	365	Businesses	MANUAL	6773606	6	14	HPh	boutiques
+LINKED:[1	1	6	14	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 40102 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:246	25734	7	5	0	4216581	Calvin Klein Madison Avenue , New York , 1995 -96 , is a boutique that conveys Calvin Kleins ideas of fashion .	18661	boutique.n	365	Businesses	MANUAL	6773607	57	64	HPh	boutique
+LINKED:[13	13	57	64	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.9130435	0.42857143	0.026266417	BABELFY]
+RANK:=== COUNTER  Counter 40104 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:246	25734	1	6	0	4216584	The next few blocks of Bay Street are wall-to-wall boutiques , with a few restaurants and clubs interspersed throughout the retailers .	18660	boutique.n	196	Locale_by_use	MANUAL	6773608	51	59	HPh	boutiques
+LINKED:[9	9	51	59	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 40106 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:246	25734	4	6	0	4216587	On June 28, 2006 , Anderson posed naked with other protesters on a window display of the Stella McCartney boutique in London , England .	18661	boutique.n	365	Businesses	MANUAL	6773609	106	113	HPh	boutique
+LINKED:[20	20	106	113	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 40108 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:246	25734	8	6	0	4216591	Also , other major labels , such as Chanel , Prada , Dolce and Gabbana , Armani and Versace have luxury boutiques in Rome , primarily along its prestigious and upscale Via dei Condotti .	18661	boutique.n	365	Businesses	MANUAL	6773610	104	112	HPh	boutiques
+LINKED:[21	21	104	112	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.9811321	0.8	0.11764706	BABELFY]
+RANK:=== COUNTER  Counter 40110 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:246	25734	9	6	0	4216592	Double Bay in Sydney 's harbourside eastern suburbs is an upmarket area known for its expensive boutiques .	18660	boutique.n	196	Locale_by_use	MANUAL	6773611	96	104	HPh	boutiques
+LINKED:[16	16	96	104	bn:00067417n	http://dbpedia.org/resource/Retail	http://babelnet.org/rdf/s00067417n	0.8	0.25	0.025641026	BABELFY]
+RANK:=== COUNTER  Counter 40112 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25734	8	7	0	4216601	Many of the fashion boutiques and jewelry shops in the city are located in the Rialto Bridge and the Piazza San Marco .	18660	boutique.n	196	Locale_by_use	MANUAL	6773612	20	28	HPh	boutiques
+LINKED:[4	4	20	28	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 40114 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:246	25734	5	8	0	4216608	These include clothing boutiques and restaurants .	18660	boutique.n	196	Locale_by_use	MANUAL	6773613	23	31	HPh	boutiques
+LINKED:[3	3	23	31	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 40116 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:246	25734	9	8	0	4216612	The most exclusive Italian shoemakers maintain boutiques on this street .	18661	boutique.n	365	Businesses	MANUAL	6773614	47	55	HPh	boutiques
+LINKED:[6	6	47	55	bn:00067417n	http://dbpedia.org/resource/Retail	http://babelnet.org/rdf/s00067417n	1.0	0.33333334	0.2	BABELFY]
+RANK:=== COUNTER  Counter 40118 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25734	8	9	0	4216621	She has since opened bridal boutiques in New York , London , Tokyo and Sydney , Australia .	18661	boutique.n	365	Businesses	MANUAL	6773616	28	36	HPh	boutiques
+LINKED:[5	5	28	36	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 40120 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:246	25734	4	10	0	4216627	Other scenes filmed here include the beach in front of the hotel along with the adjacent waterfrontin particular the Cartier boutique on the next corner .	18660	boutique.n	196	Locale_by_use	MANUAL	6773615	125	132	HPh	boutique
+LINKED:[20	20	125	132	bn:00012452n	http://dbpedia.org/resource/Boutique	http://babelnet.org/rdf/s00012452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 40122 ===
+	Businesses: 0.005813953488372085
+	Locale_by_use: 0.002493765586034931
+
+SELECTED:[Locale_by_use]
+MATCH!
+filename	WikiTexts__boutique.n.xml
+docAnnotations	116
+docManual	19
+docUnannotated	97
+sentences	97
+paragraphs	10
+Overlapping	19
+Disambiguated	15
+TP	15
+TN	97
+FP	0
+FN	4
+P	1.0
+R	0.7894736842105263
+F	0.8823529411764706
+A	0.9655172413793104

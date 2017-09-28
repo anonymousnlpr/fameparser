@@ -1,0 +1,17 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+205	23713	1	1	0	4101370	IRAQ-POVERTY ( Washington )	null	null	null	null	UNANN	6544605	null	null	null	null
+205	23713	1	2	0	4101371	Rep . Tony Hall , D- Ohio , urges the United Nations to allow a freer flow of food and medicine into Iraq .	null	null	null	null	UNANN	6544606	null	null	null	null
+205	23713	1	2	0	4101371	Rep . Tony Hall , D- Ohio , urges the United Nations to allow a freer flow of food and medicine into Iraq .	1805	urge.v	87	Attempt_suasion	MANUAL	6544893	28	32	RLG	urges
+205	23713	1	2	0	4101371	Rep . Tony Hall , D- Ohio , urges the United Nations to allow a freer flow of food and medicine into Iraq .	13129	food.n	277	Food	MANUAL	6544895	78	81	RLG	food
+205	23713	1	2	0	4101371	Rep . Tony Hall , D- Ohio , urges the United Nations to allow a freer flow of food and medicine into Iraq .	14413	into.prep	1177	Goal	MANUAL	6544896	96	99	RLG	into
+205	23713	1	2	0	4101371	Rep . Tony Hall , D- Ohio , urges the United Nations to allow a freer flow of food and medicine into Iraq .	18786	allow.v	516	Preventing_or_letting	MANUAL	6551655	56	60	KmG	allow
+205	23713	2	2	0	4101372	Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .	null	null	null	null	UNANN	6544607	null	null	null	null
+205	23713	2	2	0	4101372	Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .	945	return.v	54	Arriving	MANUAL	6544897	20	27	RLG	returned
+205	23713	2	2	0	4101372	Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .	6064	trip.n	343	Travel	MANUAL	6544898	36	39	RLG	trip
+205	23713	2	2	0	4101372	Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .	751	say.v	43	Statement	MANUAL	6544901	51	54	RLG	said
+205	23713	2	2	0	4101372	Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .	12490	economic.a	1572	Economy	MANUAL	6544902	61	68	RLG	economic
+205	23713	2	2	0	4101372	Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .	10676	sanction.n	347	Revenge	MANUAL	6544903	70	78	RLG	sanctions
+205	23713	2	2	0	4101372	Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .	2311	hurt.v	112	Cause_harm	MANUAL	6544904	85	88	RLG	hurt
+205	23713	2	2	0	4101372	Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .	3329	millions.n	189	Quantified_mass	MANUAL	6544905	90	97	RLG	millions
+205	23713	2	2	0	4101372	Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .	14550	recently.adv	1895	Temporal_collocation	MANUAL	6548816	11	18	JKs	recently
+205	23713	3	2	0	4101373	By AUSTIN ZALKIN .	null	null	null	null	UNANN	6544608	null	null	null	null

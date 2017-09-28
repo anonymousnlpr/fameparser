@@ -1,0 +1,16 @@
+filename	NTI__Iran_Chemical.xml
+docAnnotations	1017
+docManual	836
+docUnannotated	181
+sentences	143
+paragraphs	47
+Overlapping	754
+Disambiguated	525
+TP	353
+TN	181
+FP	0
+FN	311
+P	1.0
+R	0.5316265060240963
+F	0.6941986234021632
+A	0.6319526627218935

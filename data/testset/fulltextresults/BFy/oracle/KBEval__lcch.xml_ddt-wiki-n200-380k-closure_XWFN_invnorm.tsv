@@ -1,0 +1,16 @@
+filename	KBEval__lcch.xml
+docAnnotations	697
+docManual	543
+docUnannotated	154
+sentences	146
+paragraphs	38
+Overlapping	504
+Disambiguated	283
+TP	206
+TN	154
+FP	0
+FN	260
+P	1.0
+R	0.44206008583690987
+F	0.613095238095238
+A	0.5806451612903226

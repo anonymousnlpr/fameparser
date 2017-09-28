@@ -1,0 +1,16 @@
+filename	PropBank__AetnaLifeAndCasualty.xml
+docAnnotations	92
+docManual	80
+docUnannotated	12
+sentences	12
+paragraphs	6
+Overlapping	70
+Disambiguated	58
+TP	30
+TN	12
+FP	0
+FN	22
+P	1.0
+R	0.5769230769230769
+F	0.7317073170731707
+A	0.65625

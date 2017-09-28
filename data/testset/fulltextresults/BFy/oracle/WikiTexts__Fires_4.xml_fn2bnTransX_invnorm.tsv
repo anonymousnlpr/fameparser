@@ -1,0 +1,620 @@
+SILVER:246	25619	1	1	0	4165012	Los Angeles wildfires are nearly contained	17614	wildfire.n	2835	Emergency_fire	MANUAL	6669590	12	20	WMcQ	wildfires
+LINKED:[2	2	12	20	bn:00081216n	http://dbpedia.org/resource/Wildfire	http://babelnet.org/rdf/s00081216n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17938 ===
+	Event: 7.929402939746845E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	3	0	4165013	The recent wildfires in Los Angeles , California , have burned more than 42,000 acres ( 17,000 hectares ) of land .	17614	wildfire.n	2835	Emergency_fire	MANUAL	6669592	11	19	WMcQ	wildfires
+LINKED:[2	2	11	19	bn:00081216n	http://dbpedia.org/resource/Wildfire	http://babelnet.org/rdf/s00081216n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17939 ===
+	Event: 7.929402939746845E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	3	0	4165013	The recent wildfires in Los Angeles , California , have burned more than 42,000 acres ( 17,000 hectares ) of land .	17450	burn.v	2824	Fire_burning	MANUAL	6669596	56	61	WMcQ	burned
+LINKED:[10	10	56	61	bn:00084277v		http://babelnet.org/rdf/s00084277v	1.0	0.11111111	0.0012886598	BABELFY]
+RANK:=== COUNTER  Counter 17940 ===
+	Exhaust_resource: 0.0016
+	Frugality: 0.0011890606420927466
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	3	0	4165013	The recent wildfires in Los Angeles , California , have burned more than 42,000 acres ( 17,000 hectares ) of land .	2858	acre.n	156	Measure_area	MANUAL	6669597	80	84	WMcQ	acres
+LINKED:[14	14	80	84	bn:00001014n	http://dbpedia.org/resource/Acre	http://babelnet.org/rdf/s00001014n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17941 ===
+	Measure_area: 0.25
+	Quantity: 3.1847296037177256E-7
+
+SELECTED:[Measure_area]
+MATCH!
+SILVER:246	25619	1	3	0	4165013	The recent wildfires in Los Angeles , California , have burned more than 42,000 acres ( 17,000 hectares ) of land .	2857	hectare.n	156	Measure_area	MANUAL	6669599	95	102	WMcQ	hectares
+LINKED:[17	17	95	102	bn:00043500n	http://dbpedia.org/resource/Hectare	http://babelnet.org/rdf/s00043500n	1.0	0.44444445	0.041237112	BABELFY]
+RANK:=== COUNTER  Counter 17942 ===
+	Measure_area: 0.25
+	Quantity: 3.1847296037177256E-7
+
+SELECTED:[Measure_area]
+MATCH!
+SILVER:246	25619	1	4	0	4165014	Nearly 1,000 homes were destroyed , and more than 10,000 residents were evacuated .	3012	home.n	173	Buildings	MANUAL	6669815	13	17	WMcQ	homes
+LINKED:[2	2	13	17	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17943 ===
+	Expected_location_of_person: 0.0625
+	Foreign_or_domestic_country: 0.008264462809917356
+	Locale_by_use: 1.512930258453876E-6
+	Buildings: 5.243395811890029E-7
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:246	25619	1	4	0	4165014	Nearly 1,000 homes were destroyed , and more than 10,000 residents were evacuated .	2214	resident.n	110	Residence	MANUAL	6669816	57	65	WMcQ	residents
+LINKED:[10	10	57	65	bn:00058564n		http://babelnet.org/rdf/s00058564n	1.0	1.0	0.24	BABELFY]
+RANK:=== COUNTER  Counter 17944 ===
+	Residence: 3.5200236545589585E-6
+	People: 9.178366912266303E-9
+
+SELECTED:[Residence]
+MATCH!
+SILVER:246	25619	1	4	0	4165014	Nearly 1,000 homes were destroyed , and more than 10,000 residents were evacuated .	7622	destroy.v	417	Destroying	MANUAL	6669817	24	32	WMcQ	destroyed
+LINKED:[4	4	24	32	bn:00086698v		http://babelnet.org/rdf/s00086698v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17945 ===
+	Destroying: 1.602307322544464E-4
+
+SELECTED:[Destroying]
+MATCH!
+SILVER:246	25619	1	4	0	4165014	Nearly 1,000 homes were destroyed , and more than 10,000 residents were evacuated .	1129	evacuate.v	63	Removing	MANUAL	6669818	72	80	WMcQ	evacuated
+LINKED:[12	12	72	80	bn:00087757v		http://babelnet.org/rdf/s00087757v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17946 ===
+	Escaping: 0.001890359168241966
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	5	0	4165015	Los Angeles Mayor Antonio Villaraigosa expressed concerns that Los Angeles was on the verge of a blackout , and California Governor Arnold Schwarzenegger has declared the situation a state of emergency .	12733	express.v	1622	Expressing_publicly	MANUAL	6669602	39	47	WMcQ	expressed
+LINKED:[5	5	39	47	bn:00087778v		http://babelnet.org/rdf/s00087778v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17947 ===
+	Expressing_publicly: 3.1887755102040814E-4
+	Encoding: 2.9726516052318666E-4
+	Successfully_communicate_message: 2.227667631989307E-4
+	Telling: 9.238643397603495E-6
+	Reporting: 8.964107712718276E-6
+	Evidence: 1.9506257607440467E-6
+	Discussion: 1.4376987618538262E-6
+	Communication: 1.6511129078888688E-7
+	Intentionally_act: 3.921184197627684E-8
+
+SELECTED:[Expressing_publicly]
+MATCH!
+SILVER:246	25619	1	5	0	4165015	Los Angeles Mayor Antonio Villaraigosa expressed concerns that Los Angeles was on the verge of a blackout , and California Governor Arnold Schwarzenegger has declared the situation a state of emergency .	1587	governor.n	73	Leadership	MANUAL	6669615	123	130	WMcQ	Governor
+LINKED:[20	20	123	130	bn:00041204n	http://dbpedia.org/resource/Governor	http://babelnet.org/rdf/s00041204n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17948 ===
+	First_rank: 5.510370517313585E-6
+	Leadership: 1.2653086530662858E-6
+	People: 9.178366912266303E-9
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:246	25619	1	5	0	4165015	Los Angeles Mayor Antonio Villaraigosa expressed concerns that Los Angeles was on the verge of a blackout , and California Governor Arnold Schwarzenegger has declared the situation a state of emergency .	714	declare.v	43	Statement	MANUAL	6669616	158	165	WMcQ	declared
+LINKED:[24	24	158	165	bn:00086380v		http://babelnet.org/rdf/s00086380v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17949 ===
+	Spelling_and_pronouncing: 1.6659725114535613E-5
+	Speak_on_topic: 1.5872763924382153E-5
+	Becoming_aware: 9.765625E-6
+	Text_creation: 5.484591041468993E-6
+	Statement: 3.2727824934937087E-7
+	Communication: 1.6511129078888688E-7
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25619	1	5	0	4165015	Los Angeles Mayor Antonio Villaraigosa expressed concerns that Los Angeles was on the verge of a blackout , and California Governor Arnold Schwarzenegger has declared the situation a state of emergency .	12596	state.n	1600	State_of_entity	MANUAL	6669617	183	187	WMcQ	state
+LINKED:[28	28	183	187	bn:00064914n	http://dbpedia.org/resource/Province	http://babelnet.org/rdf/s00064914n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17950 ===
+	Political_locales: 3.191930798940279E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	5	0	4165015	Los Angeles Mayor Antonio Villaraigosa expressed concerns that Los Angeles was on the verge of a blackout , and California Governor Arnold Schwarzenegger has declared the situation a state of emergency .	1594	mayor.n	73	Leadership	MANUAL	6672455	12	16	MJE	Mayor
+LINKED:[2	2	12	16	bn:00019333n	http://dbpedia.org/resource/Mayor	http://babelnet.org/rdf/s00019333n	0.8739496	0.30769232	0.01525374	BABELFY]
+RANK:=== COUNTER  Counter 17951 ===
+	First_rank: 5.510370517313585E-6
+	Leadership: 1.2653086530662858E-6
+	People: 9.178366912266303E-9
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:246	25619	1	6	0	4165016	In terms of property damage , this fire is the worst since the Bel Air fire in 1961 .	14650	damage.n	415	Damaging	MANUAL	6669619	21	26	WMcQ	damage
+LINKED:[4	4	21	26	bn:00025084n		http://babelnet.org/rdf/s00025084n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17952 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	6	0	4165016	In terms of property damage , this fire is the worst since the Bel Air fire in 1961 .	17455	fire.n	2824	Fire_burning	MANUAL	6669626	35	38	WMcQ	fire
+LINKED:[7	7	35	38	bn:00034625n	http://dbpedia.org/resource/Fire	http://babelnet.org/rdf/s00034625n	0.8181818	0.3	0.1377551	BABELFY]
+RANK:=== COUNTER  Counter 17953 ===
+	Process: 4.652989359543933E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	6	0	4165016	In terms of property damage , this fire is the worst since the Bel Air fire in 1961 .	17455	fire.n	2824	Fire_burning	MANUAL	6669627	71	74	WMcQ	fire
+LINKED:[15	15	71	74	bn:00034625n	http://dbpedia.org/resource/Fire	http://babelnet.org/rdf/s00034625n	0.8181818	0.3	0.1377551	BABELFY]
+RANK:=== COUNTER  Counter 17954 ===
+	Process: 4.652989359543933E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	6	0	4165016	In terms of property damage , this fire is the worst since the Bel Air fire in 1961 .	6288	bad.a	354	Desirability	MANUAL	6672456	47	51	MJE	worst
+LINKED:[10	10	47	51	bn:00113944a		http://babelnet.org/rdf/s00113944a	1.0	0.1	0.0051020407	BABELFY]
+RANK:=== COUNTER  Counter 17955 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	7	0	4165017	Los Angeles County Supervisor Zev Yaroslavsky stated , `` Whether you live in a mobile home park or you live in an estate , when you lose your home it 's devastating . ''	753	state.v	43	Statement	MANUAL	6669628	46	51	WMcQ	stated
+LINKED:[6	6	46	51	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17956 ===
+	Spelling_and_pronouncing: 1.6659725114535613E-5
+	Speak_on_topic: 1.5872763924382153E-5
+	Becoming_aware: 9.765625E-6
+	Text_creation: 5.484591041468993E-6
+	Statement: 3.2727824934937087E-7
+	Communication: 1.6511129078888688E-7
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25619	1	7	0	4165017	Los Angeles County Supervisor Zev Yaroslavsky stated , `` Whether you live in a mobile home park or you live in an estate , when you lose your home it 's devastating . ''	2220	live.v	110	Residence	MANUAL	6669630	70	73	WMcQ	live
+LINKED:[11	11	70	73	bn:00087441v		http://babelnet.org/rdf/s00087441v	1.0	0.21052632	0.025137471	BABELFY]
+RANK:=== COUNTER  Counter 17957 ===
+	Colonization: 5.165289256198347E-4
+	Residence: 3.5200236545589585E-6
+	Locale: 2.6707796673543923E-7
+
+SELECTED:[Residence]
+MATCH!
+SILVER:246	25619	1	7	0	4165017	Los Angeles County Supervisor Zev Yaroslavsky stated , `` Whether you live in a mobile home park or you live in an estate , when you lose your home it 's devastating . ''	2220	live.v	110	Residence	MANUAL	6669631	104	107	WMcQ	live
+LINKED:[19	19	104	107	bn:00087441v		http://babelnet.org/rdf/s00087441v	1.0	0.21052632	0.025137471	BABELFY]
+RANK:=== COUNTER  Counter 17958 ===
+	Colonization: 5.165289256198347E-4
+	Residence: 3.5200236545589585E-6
+	Locale: 2.6707796673543923E-7
+
+SELECTED:[Residence]
+MATCH!
+SILVER:246	25619	1	7	0	4165017	Los Angeles County Supervisor Zev Yaroslavsky stated , `` Whether you live in a mobile home park or you live in an estate , when you lose your home it 's devastating . ''	15013	devastate.v	47	Experiencer_obj	MANUAL	6669635	154	164	WMcQ	devastating
+LINKED:[31	31	154	164	bn:00086685v		http://babelnet.org/rdf/s00086685v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17959 ===
+	Bungling: 5.94883997620464E-4
+	Destroying: 1.602307322544464E-4
+	Experiencer_obj: 3.655919482029328E-6
+
+SELECTED:[Experiencer_obj]
+MATCH!
+SILVER:246	25619	1	7	0	4165017	Los Angeles County Supervisor Zev Yaroslavsky stated , `` Whether you live in a mobile home park or you live in an estate , when you lose your home it 's devastating . ''	17661	supervisor.n	73	Leadership	MANUAL	6672457	19	28	MJE	Supervisor
+LINKED:[3	3	19	28	bn:00075310n	http://dbpedia.org/resource/Supervisor	http://babelnet.org/rdf/s00075310n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17960 ===
+	Scrutiny: 1.2755102040816325E-5
+	First_rank: 5.510370517313585E-6
+	Leadership: 1.2653086530662858E-6
+	People: 9.178366912266303E-9
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:246	25619	1	8	0	4165018	In Montecito , a census-designated place in Santa Barbara County , the homes of many celebrities , including Steven Spielberg , Steve Martin , Eric Schmidt , and Rob Lowe , have been destroyed .	3697	place.n	192	Locale	MANUAL	6669640	35	39	WMcQ	place
+LINKED:[5	5	35	39	bn:00062699n	http://dbpedia.org/resource/Location_(geography)	http://babelnet.org/rdf/s00062699n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17961 ===
+	Locale: 2.6707796673543923E-7
+
+SELECTED:[Locale]
+MATCH!
+SILVER:246	25619	1	8	0	4165018	In Montecito , a census-designated place in Santa Barbara County , the homes of many celebrities , including Steven Spielberg , Steve Martin , Eric Schmidt , and Rob Lowe , have been destroyed .	3012	home.n	173	Buildings	MANUAL	6669643	71	75	WMcQ	homes
+LINKED:[12	12	71	75	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17962 ===
+	Expected_location_of_person: 0.0625
+	Foreign_or_domestic_country: 0.008264462809917356
+	Locale_by_use: 1.512930258453876E-6
+	Buildings: 5.243395811890029E-7
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:246	25619	1	8	0	4165018	In Montecito , a census-designated place in Santa Barbara County , the homes of many celebrities , including Steven Spielberg , Steve Martin , Eric Schmidt , and Rob Lowe , have been destroyed .	7622	destroy.v	417	Destroying	MANUAL	6669646	183	191	WMcQ	destroyed
+LINKED:[33	33	183	191	bn:00086699v		http://babelnet.org/rdf/s00086699v	1.0	0.045454547	0.0012406948	BABELFY]
+RANK:=== COUNTER  Counter 17963 ===
+	Bungling: 5.94883997620464E-4
+	Experiencer_obj: 3.655919482029328E-6
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	9	0	4165019	This massive fire has caused millions of dollars of damage and 13 injuries .	17455	fire.n	2824	Fire_burning	MANUAL	6669667	13	16	WMcQ	fire
+LINKED:[2	2	13	16	bn:01028423n	http://dbpedia.org/resource/Fire_(1996_film)	http://babelnet.org/rdf/s01028423n	1.0	0.25	0.035714287	BABELFY]
+RANK:=== COUNTER  Counter 17964 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	9	0	4165019	This massive fire has caused millions of dollars of damage and 13 injuries .	14650	damage.n	415	Damaging	MANUAL	6669670	52	57	WMcQ	damage
+LINKED:[9	9	52	57	bn:00025084n		http://babelnet.org/rdf/s00025084n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17965 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	9	0	4165019	This massive fire has caused millions of dollars of damage and 13 injuries .	17511	injury.n	384	Experience_bodily_harm	MANUAL	6669671	66	73	WMcQ	injuries
+LINKED:[12	12	66	73	bn:00000694n	http://dbpedia.org/resource/Injury	http://babelnet.org/rdf/s00000694n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17966 ===
+	Predicament: 2.687449610319807E-4
+	Catastrophe: 2.44140625E-4
+	Experiencer_obj: 3.655919482029328E-6
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	9	0	4165019	This massive fire has caused millions of dollars of damage and 13 injuries .	17855	massive.a	2282	Size	MANUAL	6669819	5	11	WMcQ	massive
+LINKED:[1	1	5	11	bn:00106463a		http://babelnet.org/rdf/s00106463a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17967 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	10	0	4165020	Rob Lowe declared that `` it was just like Armageddon . ''	714	declare.v	43	Statement	MANUAL	6669682	9	16	WMcQ	declared
+LINKED:[2	2	9	16	bn:00086380v		http://babelnet.org/rdf/s00086380v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17968 ===
+	Spelling_and_pronouncing: 1.6659725114535613E-5
+	Speak_on_topic: 1.5872763924382153E-5
+	Becoming_aware: 9.765625E-6
+	Text_creation: 5.484591041468993E-6
+	Statement: 3.2727824934937087E-7
+	Communication: 1.6511129078888688E-7
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25619	1	11	0	4165021	According to one official , the fire started when ten students lit a bonfire on a ridge but failed to extinguish it .	17455	fire.n	2824	Fire_burning	MANUAL	6669683	32	35	WMcQ	fire
+LINKED:[6	6	32	35	bn:00034623n		http://babelnet.org/rdf/s00034623n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17969 ===
+	Event: 7.929402939746845E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	11	0	4165021	According to one official , the fire started when ten students lit a bonfire on a ridge but failed to extinguish it .	17491	start.v	2827	Catching_fire	MANUAL	6669684	37	43	WMcQ	started
+LINKED:[7	7	37	43	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.9230769	0.42857143	0.0952381	BABELFY]
+RANK:=== COUNTER  Counter 17970 ===
+	Setting_out: 0.002770083102493075
+	Process_start: 8.163265306122448E-4
+	Activity_start: 3.077870113881194E-4
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	11	0	4165021	According to one official , the fire started when ten students lit a bonfire on a ridge but failed to extinguish it .	5181	light.v	283	Setting_fire	MANUAL	6669686	63	65	WMcQ	lit
+LINKED:[11	11	63	65	bn:00089584v		http://babelnet.org/rdf/s00089584v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17971 ===
+	Undergo_change: 4.0517965463296596E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	11	0	4165021	According to one official , the fire started when ten students lit a bonfire on a ridge but failed to extinguish it .	10677	according	1148	Attributed_information	MANUAL	6669694	0	8	WMcQ	According
+LINKED:[0	0	0	8	bn:00082227v		http://babelnet.org/rdf/s00082227v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17972 ===
+	Identicality: 2.5195263290501383E-4
+	Compatibility: 8.116224332440549E-5
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	11	0	4165021	According to one official , the fire started when ten students lit a bonfire on a ridge but failed to extinguish it .	17625	bonfire.n	2824	Fire_burning	MANUAL	6669695	69	75	WMcQ	bonfire
+LINKED:[13	13	69	75	bn:00008097n	http://dbpedia.org/resource/Bonfire	http://babelnet.org/rdf/s00008097n	0.90909094	0.2857143	0.07936508	BABELFY]
+RANK:=== COUNTER  Counter 17973 ===
+	Event: 7.929402939746845E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	11	0	4165021	According to one official , the fire started when ten students lit a bonfire on a ridge but failed to extinguish it .	11858	fail.v	1389	Successful_action	MANUAL	6669696	92	97	WMcQ	failed
+LINKED:[18	18	92	97	bn:00083757v		http://babelnet.org/rdf/s00083757v	1.0	0.14285715	0.007936508	BABELFY]
+RANK:=== COUNTER  Counter 17974 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	11	0	4165021	According to one official , the fire started when ten students lit a bonfire on a ridge but failed to extinguish it .	10625	official.n	73	Leadership	MANUAL	6669792	17	24	WMcQ	official
+LINKED:[3	3	17	24	bn:00036837n	http://dbpedia.org/resource/Official	http://babelnet.org/rdf/s00036837n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17975 ===
+	Leadership: 1.2653086530662858E-6
+	Employing: 8.833173158460059E-7
+	People: 9.178366912266303E-9
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:246	25619	1	11	0	4165021	According to one official , the fire started when ten students lit a bonfire on a ridge but failed to extinguish it .	2243	student.n	111	Education_teaching	MANUAL	6669821	54	61	WMcQ	students
+LINKED:[10	10	54	61	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	1.0	0.14285715	0.007936508	BABELFY]
+RANK:=== COUNTER  Counter 17976 ===
+	People: 9.178366912266303E-9
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	11	0	4165021	According to one official , the fire started when ten students lit a bonfire on a ridge but failed to extinguish it .	3703	ridge.n	191	Natural_features	MANUAL	6669822	82	86	WMcQ	ridge
+LINKED:[16	16	82	86	bn:00067766n		http://babelnet.org/rdf/s00067766n	1.0	0.14285715	0.007936508	BABELFY]
+RANK:=== COUNTER  Counter 17977 ===
+	Part_whole: 1.312749422390254E-7
+	Gizmo: 6.514350723783452E-8
+	Inherent_purpose: 3.71105971128475E-8
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	12	0	4165022	Although Santa Barbara County Sheriff Bill Brown believes that `` this fire was the result of carelessness , not criminal intent , '' the county district attorney will still have to review the case .	15106	believe.v	1412	Opinion	MANUAL	6669697	49	56	WMcQ	believes
+LINKED:[7	7	49	56	bn:00083369v		http://babelnet.org/rdf/s00083369v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17978 ===
+	Trust: 0.0011111111111111111
+	Certainty: 3.8446751249519417E-4
+	Assessing: 8.857709750566894E-6
+	Cogitation: 2.2818338642400122E-6
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	12	0	4165022	Although Santa Barbara County Sheriff Bill Brown believes that `` this fire was the result of carelessness , not criminal intent , '' the county district attorney will still have to review the case .	8830	case.n	201	Trial	MANUAL	6669700	193	196	WMcQ	case
+LINKED:[32	32	193	196	bn:00016401n		http://babelnet.org/rdf/s00016401n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17979 ===
+	Instance: 0.01
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	12	0	4165022	Although Santa Barbara County Sheriff Bill Brown believes that `` this fire was the result of carelessness , not criminal intent , '' the county district attorney will still have to review the case .	17455	fire.n	2824	Fire_burning	MANUAL	6669706	71	74	WMcQ	fire
+LINKED:[11	11	71	74	bn:00034623n		http://babelnet.org/rdf/s00034623n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17980 ===
+	Event: 7.929402939746845E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	12	0	4165022	Although Santa Barbara County Sheriff Bill Brown believes that `` this fire was the result of carelessness , not criminal intent , '' the county district attorney will still have to review the case .	14552	result.n	5	Causation	MANUAL	6669707	84	89	WMcQ	result
+LINKED:[14	14	84	89	bn:00021961n	http://dbpedia.org/resource/Result	http://babelnet.org/rdf/s00021961n	0.85714287	0.09090909	0.0034227038	BABELFY]
+RANK:=== COUNTER  Counter 17981 ===
+	Being_in_effect: 4.725897920604915E-4
+	Objective_influence: 4.756242568370987E-5
+	Subjective_influence: 2.2249911000355996E-5
+	Causation: 3.1437050450178564E-6
+
+SELECTED:[Causation]
+MATCH!
+SILVER:246	25619	1	12	0	4165022	Although Santa Barbara County Sheriff Bill Brown believes that `` this fire was the result of carelessness , not criminal intent , '' the county district attorney will still have to review the case .	384	carelessness.n	29	Mental_property	MANUAL	6672599	94	105	MJE	carelessness
+LINKED:[16	16	94	105	bn:00016032n	http://dbpedia.org/resource/Negligence	http://babelnet.org/rdf/s00016032n	0.9777778	0.18181819	0.025099829	BABELFY]
+RANK:=== COUNTER  Counter 17982 ===
+	Offenses: 6.830134553650708E-5
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	13	0	4165023	Santa Ana winds with gusts up to 70 mph exacerbated the Montecito fire , which destroyed over 100 buildings and damaged many others , including Westmont College .	17455	fire.n	2824	Fire_burning	MANUAL	6669709	66	69	WMcQ	fire
+LINKED:[12	12	66	69	bn:00034625n	http://dbpedia.org/resource/Fire	http://babelnet.org/rdf/s00034625n	0.7714286	0.5	0.16071428	BABELFY]
+RANK:=== COUNTER  Counter 17983 ===
+	Process: 4.652989359543933E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	13	0	4165023	Santa Ana winds with gusts up to 70 mph exacerbated the Montecito fire , which destroyed over 100 buildings and damaged many others , including Westmont College .	7622	destroy.v	417	Destroying	MANUAL	6669710	79	87	WMcQ	destroyed
+LINKED:[15	15	79	87	bn:00086699v		http://babelnet.org/rdf/s00086699v	1.0	0.16666667	0.023809524	BABELFY]
+RANK:=== COUNTER  Counter 17984 ===
+	Bungling: 5.94883997620464E-4
+	Experiencer_obj: 3.655919482029328E-6
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	13	0	4165023	Santa Ana winds with gusts up to 70 mph exacerbated the Montecito fire , which destroyed over 100 buildings and damaged many others , including Westmont College .	7594	damage.v	415	Damaging	MANUAL	6669716	112	118	WMcQ	damaged
+LINKED:[20	20	112	118	bn:00086261v		http://babelnet.org/rdf/s00086261v	1.0	0.16666667	0.011904762	BABELFY]
+RANK:=== COUNTER  Counter 17985 ===
+	Damaging: 1.417233560090703E-4
+	Cause_change: 8.931987913948513E-8
+
+SELECTED:[Damaging]
+MATCH!
+SILVER:246	25619	1	13	0	4165023	Santa Ana winds with gusts up to 70 mph exacerbated the Montecito fire , which destroyed over 100 buildings and damaged many others , including Westmont College .	13340	including.prep	1153	Inclusion	MANUAL	6669731	134	142	WMcQ	including
+LINKED:[24	24	134	142	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17986 ===
+	Cause_to_be_included: 2.9726516052318666E-4
+	Inclusion: 3.6840418359790892E-6
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:246	25619	1	14	0	4165024	The college 's 1000 students were forced to take shelter in the gymnasium .	13953	college.n	196	Locale_by_use	MANUAL	6669732	4	10	WMcQ	college
+LINKED:[1	1	4	10	bn:00020641n		http://babelnet.org/rdf/s00020641n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17987 ===
+	Aggregate: 2.511546836581182E-6
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	14	0	4165024	The college 's 1000 students were forced to take shelter in the gymnasium .	2243	student.n	111	Education_teaching	MANUAL	6669733	20	27	WMcQ	students
+LINKED:[4	4	20	27	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17988 ===
+	People: 9.178366912266303E-9
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	14	0	4165024	The college 's 1000 students were forced to take shelter in the gymnasium .	15112	force.v	5	Causation	MANUAL	6669736	34	39	WMcQ	forced
+LINKED:[6	6	34	39	bn:00088459v		http://babelnet.org/rdf/s00088459v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17989 ===
+	Ingest_substance: 4.8902146804244705E-5
+	Manipulation: 6.507705122865472E-6
+	Cause_motion: 8.072530068156372E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	14	0	4165024	The college 's 1000 students were forced to take shelter in the gymnasium .	16767	shelter.n	1631	Protecting	MANUAL	6669746	49	55	WMcQ	shelter
+LINKED:[9	9	49	55	bn:00071019n	http://dbpedia.org/resource/Shelter_(building)	http://babelnet.org/rdf/s00071019n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17990 ===
+	Buildings: 5.243395811890029E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	15	0	4165025	A spokesman for the college , Scott Craig , described the scene : `` I saw flames about 100 feet high in the air shooting up with the wind just howling .	13953	college.n	196	Locale_by_use	MANUAL	6669748	20	26	WMcQ	college
+LINKED:[4	4	20	26	bn:00020641n		http://babelnet.org/rdf/s00020641n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17991 ===
+	Aggregate: 2.511546836581182E-6
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	15	0	4165025	A spokesman for the college , Scott Craig , described the scene : `` I saw flames about 100 feet high in the air shooting up with the wind just howling .	16743	spokesman.n	2678	Representative	MANUAL	6669749	2	10	WMcQ	spokesman
+LINKED:[1	1	2	10	bn:00073526n		http://babelnet.org/rdf/s00073526n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17992 ===
+	People: 9.178366912266303E-9
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	15	0	4165025	A spokesman for the college , Scott Craig , described the scene : `` I saw flames about 100 feet high in the air shooting up with the wind just howling .	13781	describe.v	43	Statement	MANUAL	6669750	44	52	WMcQ	described
+LINKED:[9	9	44	52	bn:00086612v		http://babelnet.org/rdf/s00086612v	1.0	0.071428575	0.0032894737	BABELFY]
+RANK:=== COUNTER  Counter 17993 ===
+	Explaining_the_facts: 1.417233560090703E-4
+	Resolve_problem: 1.3520822065981613E-4
+	Expansion: 5.250997689561017E-5
+	Communicate_categorization: 4.565376186997809E-5
+	Speak_on_topic: 1.5872763924382153E-5
+	Cause_expansion: 1.3922922699933169E-5
+	Telling: 9.238643397603495E-6
+	Reporting: 8.964107712718276E-6
+	Discussion: 1.4376987618538262E-6
+	Statement: 3.2727824934937087E-7
+	Communication: 1.6511129078888688E-7
+	Intentionally_act: 3.921184197627684E-8
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25619	1	15	0	4165025	A spokesman for the college , Scott Craig , described the scene : `` I saw flames about 100 feet high in the air shooting up with the wind just howling .	17483	flames.n	2824	Fire_burning	MANUAL	6669751	75	80	WMcQ	flames
+LINKED:[16	16	75	80	bn:00034625n	http://dbpedia.org/resource/Fire	http://babelnet.org/rdf/s00034625n	0.95652175	0.2857143	0.14473684	BABELFY]
+RANK:=== COUNTER  Counter 17994 ===
+	Process: 4.652989359543933E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	15	0	4165025	A spokesman for the college , Scott Craig , described the scene : `` I saw flames about 100 feet high in the air shooting up with the wind just howling .	1535	see.v	70	Perception_experience	MANUAL	6669752	71	73	WMcQ	saw
+LINKED:[15	15	71	73	bn:00093430v		http://babelnet.org/rdf/s00093430v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17995 ===
+	Perception: 2.9726516052318666E-4
+	Perception_experience: 3.265306122448979E-5
+	Becoming_aware: 9.765625E-6
+
+SELECTED:[Perception_experience]
+MATCH!
+SILVER:246	25619	1	16	0	4165026	Now when the wind howls and you 've got palm trees and eucalyptus trees that are literally exploding with their hot oil , you 've got these big , red hot embers that are flying through the sky and are catching anything on fire . ''	1420	howl.v	69	Make_noise	MANUAL	6669755	18	22	WMcQ	howls
+LINKED:[4	4	18	22	bn:00045076n		http://babelnet.org/rdf/s00045076n	0.8	0.11111111	0.0016420361	BABELFY]
+RANK:=== COUNTER  Counter 17996 ===
+	Sounds: 2.712673611111111E-5
+	Sensation: 2.123638216993353E-5
+	Event: 7.929402939746845E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	16	0	4165026	Now when the wind howls and you 've got palm trees and eucalyptus trees that are literally exploding with their hot oil , you 've got these big , red hot embers that are flying through the sky and are catching anything on fire . ''	14423	have	1933	Have_associated	MANUAL	6669756	36	38	WMcQ	got
+LINKED:[8	8	36	38	bn:13677110v		http://babelnet.org/rdf/s13677110v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17997 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	16	0	4165026	Now when the wind howls and you 've got palm trees and eucalyptus trees that are literally exploding with their hot oil , you 've got these big , red hot embers that are flying through the sky and are catching anything on fire . ''	14423	have	1933	Have_associated	MANUAL	6669757	130	132	WMcQ	got
+LINKED:[25	25	130	132	bn:13677111v		http://babelnet.org/rdf/s13677111v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17998 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	16	0	4165026	Now when the wind howls and you 've got palm trees and eucalyptus trees that are literally exploding with their hot oil , you 've got these big , red hot embers that are flying through the sky and are catching anything on fire . ''	6268	fly.v	7	Motion	MANUAL	6669758	170	175	WMcQ	flying
+LINKED:[34	34	170	175	bn:00088378v		http://babelnet.org/rdf/s00088378v	1.0	0.11111111	0.0024630541	BABELFY]
+RANK:=== COUNTER  Counter 17999 ===
+	Ride_vehicle: 1.3840830449826988E-4
+	Observable_body_parts: 8.54963920522554E-6
+	Self_motion: 5.358367626886145E-6
+	Motion: 3.1437050450178564E-6
+	Travel: 1.4105088551745929E-6
+	Change_position_on_a_scale: 1.1970370937854622E-6
+	Cause_change_of_position_on_a_scale: 1.0805624111237418E-6
+
+SELECTED:[Motion]
+MATCH!
+SILVER:246	25619	1	16	0	4165026	Now when the wind howls and you 've got palm trees and eucalyptus trees that are literally exploding with their hot oil , you 've got these big , red hot embers that are flying through the sky and are catching anything on fire . ''	17455	fire.n	2824	Fire_burning	MANUAL	6671562	222	225	WMcQ	fire
+LINKED:[43	43	222	225	bn:00034625n	http://dbpedia.org/resource/Fire	http://babelnet.org/rdf/s00034625n	0.7861771	0.7222222	0.14942528	BABELFY]
+RANK:=== COUNTER  Counter 18000 ===
+	Process: 4.652989359543933E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	16	0	4165026	Now when the wind howls and you 've got palm trees and eucalyptus trees that are literally exploding with their hot oil , you 've got these big , red hot embers that are flying through the sky and are catching anything on fire . ''	17671	catch	283	Setting_fire	MANUAL	6672601	201	208	MJE	catching
+LINKED:[40	40	201	208	bn:00084667v		http://babelnet.org/rdf/s00084667v	1.0	0.055555556	4.1050903E-4	BABELFY]
+RANK:=== COUNTER  Counter 18001 ===
+	Becoming: 1.9069049026525047E-5
+	Undergo_change: 4.0517965463296596E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	17	0	4165027	Officials now report that firefighters are making some progress .	18472	firefighter.n	1071	People_by_vocation	MANUAL	6669764	26	37	WMcQ	firefighters
+LINKED:[4	4	26	37	bn:00034631n	http://dbpedia.org/resource/Firefighter	http://babelnet.org/rdf/s00034631n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18002 ===
+	Defend: 3.7637848620572846E-5
+	People: 9.178366912266303E-9
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	17	0	4165027	Officials now report that firefighters are making some progress .	748	report.v	43	Statement	MANUAL	6669766	14	19	WMcQ	report
+LINKED:[2	2	14	19	bn:00092823v		http://babelnet.org/rdf/s00092823v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18003 ===
+	Telling: 9.238643397603495E-6
+	Reporting: 8.964107712718276E-6
+	Discussion: 1.4376987618538262E-6
+	Communication: 1.6511129078888688E-7
+	Intentionally_act: 3.921184197627684E-8
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	17	0	4165027	Officials now report that firefighters are making some progress .	10625	official.n	73	Leadership	MANUAL	6669787	0	8	WMcQ	Officials
+LINKED:[0	0	0	8	bn:00036837n	http://dbpedia.org/resource/Official	http://babelnet.org/rdf/s00036837n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18004 ===
+	Leadership: 1.2653086530662858E-6
+	Employing: 8.833173158460059E-7
+	People: 9.178366912266303E-9
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:246	25619	1	18	0	4165028	Of the three major fires , the Montecito Tea Fire is 95% contained ; the Sayre Fire , 70% ; and the Triangle Complex Fire , 75% .	17455	fire.n	2824	Fire_burning	MANUAL	6669779	19	23	WMcQ	fires
+LINKED:[4	4	19	23	bn:03029558n	http://dbpedia.org/resource/Fires_(Ronan_Keating_album)	http://babelnet.org/rdf/s03029558n	1.0	0.33333334	0.09248555	BABELFY]
+RANK:=== COUNTER  Counter 18005 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	18	0	4165028	Of the three major fires , the Montecito Tea Fire is 95% contained ; the Sayre Fire , 70% ; and the Triangle Complex Fire , 75% .	17455	fire.n	2824	Fire_burning	MANUAL	6669781	45	48	WMcQ	Fire
+LINKED:[9	9	45	48	bn:03319594n	http://dbpedia.org/resource/Emerson,_Lake_&_Palmer	http://babelnet.org/rdf/s03319594n	1.0	0.16666667	0.03468208	BABELFY]
+RANK:=== COUNTER  Counter 18006 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	18	0	4165028	Of the three major fires , the Montecito Tea Fire is 95% contained ; the Sayre Fire , 70% ; and the Triangle Complex Fire , 75% .	17455	fire.n	2824	Fire_burning	MANUAL	6669783	79	82	WMcQ	Fire
+LINKED:[17	17	79	82	bn:03319594n	http://dbpedia.org/resource/Emerson,_Lake_&_Palmer	http://babelnet.org/rdf/s03319594n	1.0	0.16666667	0.03468208	BABELFY]
+RANK:=== COUNTER  Counter 18007 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	18	0	4165028	Of the three major fires , the Montecito Tea Fire is 95% contained ; the Sayre Fire , 70% ; and the Triangle Complex Fire , 75% .	17455	fire.n	2824	Fire_burning	MANUAL	6669784	117	120	WMcQ	Fire
+LINKED:[26	26	117	120	bn:03319594n	http://dbpedia.org/resource/Emerson,_Lake_&_Palmer	http://babelnet.org/rdf/s03319594n	1.0	0.16666667	0.03468208	BABELFY]
+RANK:=== COUNTER  Counter 18008 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	19	0	4165029	Officials have lifted the evacuation order for Chino Hills as well .	10625	official.n	73	Leadership	MANUAL	6669786	0	8	WMcQ	Officials
+LINKED:[0	0	0	8	bn:00078929n	http://dbpedia.org/resource/Referee	http://babelnet.org/rdf/s00078929n	1.0	0.2	0.0625	BABELFY]
+RANK:=== COUNTER  Counter 18009 ===
+	People: 9.178366912266303E-9
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	19	0	4165029	Officials have lifted the evacuation order for Chino Hills as well .	10679	lift.v	1149	Cause_to_end	MANUAL	6669789	15	20	WMcQ	lifted
+LINKED:[2	2	15	20	bn:00090334v		http://babelnet.org/rdf/s00090334v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18010 ===
+	Cause_motion: 8.072530068156372E-7
+
+SELECTED:[]
+WRONG!
+SILVER:246	25619	1	19	0	4165029	Officials have lifted the evacuation order for Chino Hills as well .	16881	order.n	950	Law	MANUAL	6669790	37	41	WMcQ	order
+LINKED:[5	5	37	41	bn:00059303n		http://babelnet.org/rdf/s00059303n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18011 ===
+	Sentencing: 4.164931278633902E-4
+	Request: 1.7803414694938486E-5
+	Intentionally_act: 3.921184197627684E-8
+
+SELECTED:[]
+WRONG!
+filename	WikiTexts__Fires_4.xml
+docAnnotations	102
+docManual	82
+docUnannotated	20
+sentences	18
+paragraphs	18
+Overlapping	74
+Disambiguated	62
+TP	25
+TN	20
+FP	0
+FN	20
+P	1.0
+R	0.5555555555555556
+F	0.7142857142857143
+A	0.6923076923076923

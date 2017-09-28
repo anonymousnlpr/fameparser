@@ -1,0 +1,16 @@
+filename	Miscellaneous__C-4Text.xml
+docAnnotations	80
+docManual	65
+docUnannotated	15
+sentences	11
+paragraphs	2
+Overlapping	64
+Disambiguated	49
+TP	43
+TN	15
+FP	0
+FN	16
+P	1.0
+R	0.7288135593220338
+F	0.8431372549019608
+A	0.7837837837837838

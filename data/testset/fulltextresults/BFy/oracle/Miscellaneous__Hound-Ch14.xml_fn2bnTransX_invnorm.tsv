@@ -1,0 +1,404 @@
+SILVER:175	23832	1	20	0	4107210	There were only two men in the room , Sir Henry and Stapleton .	5526	man.n	304	People	MANUAL	6558543	20	22	AlK	men
+LINKED:[4	4	20	22	bn:00001533n	http://dbpedia.org/resource/Man	http://babelnet.org/rdf/s00001533n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17193 ===
+	People_by_age: 3.088698144619024E-6
+	People: 9.178366912266303E-9
+
+SELECTED:[People]
+MATCH!
+SILVER:175	23832	1	20	0	4107210	There were only two men in the room , Sir Henry and Stapleton .	3159	room.n	188	Building_subparts	MANUAL	6558545	31	34	AlK	room
+LINKED:[7	7	31	34	bn:00068233n	http://dbpedia.org/resource/Room	http://babelnet.org/rdf/s00068233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17194 ===
+	Temporary_stay: 0.0014792899408284025
+	Building_subparts: 9.467455621301774E-6
+	Residence: 3.5200236545589585E-6
+	Locale_by_use: 1.512930258453876E-6
+	Buildings: 5.243395811890029E-7
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:175	23832	2	20	0	4107211	They sat with their profiles towards me on either side of the round table .	137	sit.v	18	Posture	MANUAL	6558555	5	7	AlK	sat
+LINKED:[1	1	5	7	bn:00093776v		http://babelnet.org/rdf/s00093776v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17195 ===
+	Being_located: 4.725897920604915E-4
+	Change_posture: 7.431629013079666E-5
+	Posture: 6.609822195782934E-5
+
+SELECTED:[Posture]
+MATCH!
+SILVER:175	23832	2	20	0	4107211	They sat with their profiles towards me on either side of the round table .	2776	side.n	143	Part_orientational	MANUAL	6558566	50	53	AlK	side
+LINKED:[9	9	50	53	bn:00071431n		http://babelnet.org/rdf/s00071431n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17196 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23832	3	20	0	4107212	Both of them were smoking cigars , and coffee and wine were in front of them .	6907	smoke.v	386	Ingest_substance	MANUAL	6558557	18	24	AlK	smoking
+LINKED:[4	4	18	24	bn:00093939v		http://babelnet.org/rdf/s00093939v	1.0	0.6666667	0.12244898	BABELFY]
+RANK:=== COUNTER  Counter 17197 ===
+	Capacity: 8.899964400142399E-5
+	Ingest_substance: 4.8902146804244705E-5
+	Ingestion: 4.8225308641975306E-5
+
+SELECTED:[Ingest_substance]
+MATCH!
+SILVER:175	23832	3	20	0	4107212	Both of them were smoking cigars , and coffee and wine were in front of them .	5124	coffee.n	277	Food	MANUAL	6558558	39	44	AlK	coffee
+LINKED:[8	8	39	44	bn:00020414n	http://dbpedia.org/resource/Coffee	http://babelnet.org/rdf/s00020414n	0.8333333	1.0	0.30612245	BABELFY]
+RANK:=== COUNTER  Counter 17198 ===
+	Substance_by_phase: 3.415859356773188E-7
+	Substance: 8.305027032862993E-8
+	Food: 7.320421281460242E-8
+
+SELECTED:[Food]
+MATCH!
+SILVER:175	23832	4	20	0	4107213	Stapleton was talking with animation , but the baronet looked pale and distrait .	9979	talk.v	910	Chatting	MANUAL	6558559	14	20	AlK	talking
+LINKED:[2	2	14	20	bn:00094089v		http://babelnet.org/rdf/s00094089v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17199 ===
+	Chatting: 1.3520822065981613E-4
+	Talking_into: 7.06164818868724E-5
+	Discussion: 1.4376987618538262E-6
+	Statement: 3.2727824934937087E-7
+	Communication: 1.6511129078888688E-7
+	Intentionally_act: 3.921184197627684E-8
+
+SELECTED:[Chatting]
+MATCH!
+SILVER:175	23832	4	20	0	4107213	Stapleton was talking with animation , but the baronet looked pale and distrait .	1323	look.v	67	Give_impression	MANUAL	6558560	55	60	AlK	looked
+LINKED:[9	9	55	60	bn:00082690v		http://babelnet.org/rdf/s00082690v	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 17200 ===
+	Facial_expression: 0.002066115702479339
+	Expressing_publicly: 3.1887755102040814E-4
+	Appearance: 2.1003990758244068E-4
+	Coming_to_be: 1.1814744801512288E-4
+	Performers_and_roles: 1.1111111111111112E-5
+
+SELECTED:[]
+WRONG!
+SILVER:175	23832	5	20	0	4107214	Perhaps the thought of that lonely walk across the ill - omened moor was weighing heavily upon his mind .	11144	thought.n	22	Cogitation	MANUAL	6558561	12	18	AlK	thought
+LINKED:[2	2	12	18	bn:00045800n	http://dbpedia.org/resource/Idea	http://babelnet.org/rdf/s00045800n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17201 ===
+	Awareness: 8.80521973425847E-6
+	Containing: 4.0812162024283235E-6
+	Inclusion: 3.6840418359790892E-6
+	Cogitation: 2.2818338642400122E-6
+
+SELECTED:[Cogitation]
+MATCH!
+SILVER:175	23832	5	20	0	4107214	Perhaps the thought of that lonely walk across the ill - omened moor was weighing heavily upon his mind .	1261	walk.n	64	Self_motion	MANUAL	6558562	35	38	AlK	walk
+LINKED:[6	6	35	38	bn:00080357n	http://dbpedia.org/resource/Walking	http://babelnet.org/rdf/s00080357n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17202 ===
+	Cause_change: 8.931987913948513E-8
+
+SELECTED:[]
+WRONG!
+SILVER:175	23832	5	20	0	4107214	Perhaps the thought of that lonely walk across the ill - omened moor was weighing heavily upon his mind .	3485	moor.n	193	Biological_area	MANUAL	6558563	64	67	AlK	moor
+LINKED:[12	12	64	67	bn:00055827n	http://dbpedia.org/resource/Moors	http://babelnet.org/rdf/s00055827n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17203 ===
+	People: 9.178366912266303E-9
+
+SELECTED:[]
+WRONG!
+SILVER:175	23832	1	21	0	4107215	As I watched them Stapleton rose and left the room , while Sir Henry filled his glass again and leaned back in his chair , puffing at his cigar .	1320	watch.v	66	Perception_active	MANUAL	6558581	5	11	MJE	watched
+LINKED:[2	2	5	11	bn:00095665v		http://babelnet.org/rdf/s00095665v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17204 ===
+	Being_awake: 0.0025
+	Seeking: 1.1562030292519367E-4
+	Perception_active: 2.986055122577563E-5
+
+SELECTED:[Perception_active]
+MATCH!
+SILVER:175	23832	1	21	0	4107215	As I watched them Stapleton rose and left the room , while Sir Henry filled his glass again and leaned back in his chair , puffing at his cigar .	9723	rise.v	770	Change_posture	MANUAL	6558582	28	31	MJE	rose
+LINKED:[5	5	28	31	bn:00082761v		http://babelnet.org/rdf/s00082761v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17205 ===
+	Change_event_time: 2.872737719046251E-4
+	Motion_directional: 1.68662506324844E-4
+	Change_posture: 7.431629013079666E-5
+	Motion: 3.1437050450178564E-6
+	Travel: 1.4105088551745929E-6
+	Change_position_on_a_scale: 1.1970370937854622E-6
+	Cause_change_of_position_on_a_scale: 1.0805624111237418E-6
+
+SELECTED:[Change_posture]
+MATCH!
+SILVER:175	23832	1	21	0	4107215	As I watched them Stapleton rose and left the room , while Sir Henry filled his glass again and leaned back in his chair , puffing at his cigar .	8622	leave.v	57	Departing	MANUAL	6558583	37	40	MJE	left
+LINKED:[7	7	37	40	bn:00088939v		http://babelnet.org/rdf/s00088939v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17206 ===
+	Abandonment: 2.9726516052318666E-4
+	Quitting: 1.7777777777777779E-4
+	Forming_relationships: 7.971938775510203E-5
+	Departing: 5.10204081632653E-5
+	Path_shape: 9.072434315575556E-6
+
+SELECTED:[Departing]
+MATCH!
+SILVER:175	23832	1	21	0	4107215	As I watched them Stapleton rose and left the room , while Sir Henry filled his glass again and leaned back in his chair , puffing at his cigar .	3159	room.n	188	Building_subparts	MANUAL	6558584	46	49	MJE	room
+LINKED:[9	9	46	49	bn:00068233n	http://dbpedia.org/resource/Room	http://babelnet.org/rdf/s00068233n	0.8181818	0.3	0.077586204	BABELFY]
+RANK:=== COUNTER  Counter 17207 ===
+	Temporary_stay: 0.0014792899408284025
+	Building_subparts: 9.467455621301774E-6
+	Residence: 3.5200236545589585E-6
+	Locale_by_use: 1.512930258453876E-6
+	Buildings: 5.243395811890029E-7
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:175	23832	1	21	0	4107215	As I watched them Stapleton rose and left the room , while Sir Henry filled his glass again and leaned back in his chair , puffing at his cigar .	3908	fill.v	59	Filling	MANUAL	6558586	69	74	MJE	filled
+LINKED:[14	14	69	74	bn:00088175v		http://babelnet.org/rdf/s00088175v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17208 ===
+	Adorning: 9.409462155143212E-6
+	Filling: 5.333646240579447E-6
+	Cause_change: 8.931987913948513E-8
+
+SELECTED:[Filling]
+MATCH!
+SILVER:175	23832	1	21	0	4107215	As I watched them Stapleton rose and left the room , while Sir Henry filled his glass again and leaned back in his chair , puffing at his cigar .	9385	lean.v	770	Change_posture	MANUAL	6558588	96	101	MJE	leaned
+LINKED:[19	19	96	101	bn:00082613v		http://babelnet.org/rdf/s00082613v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17209 ===
+	Motion_directional: 1.68662506324844E-4
+	Change_posture: 7.431629013079666E-5
+	Posture: 6.609822195782934E-5
+	Reshaping: 3.156167150612296E-5
+	Path_shape: 9.072434315575556E-6
+	Body_movement: 3.5332692633840237E-6
+	Undergo_change: 4.0517965463296596E-7
+
+SELECTED:[Change_posture]
+MATCH!
+SILVER:175	23832	1	21	0	4107215	As I watched them Stapleton rose and left the room , while Sir Henry filled his glass again and leaned back in his chair , puffing at his cigar .	15301	puff.v	386	Ingest_substance	MANUAL	6558589	123	129	MJE	puffing
+LINKED:[25	25	123	129	bn:00092131v		http://babelnet.org/rdf/s00092131v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17210 ===
+	Capacity: 8.899964400142399E-5
+	Ingest_substance: 4.8902146804244705E-5
+	Ingestion: 4.8225308641975306E-5
+
+SELECTED:[Ingest_substance]
+MATCH!
+SILVER:175	23832	1	21	0	4107215	As I watched them Stapleton rose and left the room , while Sir Henry filled his glass again and leaned back in his chair , puffing at his cigar .	1680	glass.n	78	Containers	MANUAL	6558590	80	84	MJE	glass
+LINKED:[16	16	80	84	bn:00040605n	http://dbpedia.org/resource/Glass	http://babelnet.org/rdf/s00040605n	1.0	0.4	0.1724138	BABELFY]
+RANK:=== COUNTER  Counter 17211 ===
+	Substance_by_phase: 3.415859356773188E-7
+	Substance: 8.305027032862993E-8
+
+SELECTED:[]
+WRONG!
+SILVER:175	23832	2	21	0	4107216	I heard the creak of a door and the crisp sound of boots upon gravel .	1532	hear.v	70	Perception_experience	MANUAL	6558540	2	6	JKs	heard
+LINKED:[1	1	2	6	bn:00089277v		http://babelnet.org/rdf/s00089277v	0.90909094	0.4	0.14285715	BABELFY]
+RANK:=== COUNTER  Counter 17212 ===
+	Hear: 0.00390625
+	Perception: 2.9726516052318666E-4
+	Perception_experience: 3.265306122448979E-5
+	Becoming_aware: 9.765625E-6
+
+SELECTED:[Perception_experience]
+MATCH!
+SILVER:175	23832	2	21	0	4107216	I heard the creak of a door and the crisp sound of boots upon gravel .	9648	creak.n	850	Sounds	MANUAL	6558541	12	16	JKs	creak
+LINKED:[3	3	12	16	bn:00085998v		http://babelnet.org/rdf/s00085998v	1.0	0.2	0.028571429	BABELFY]
+RANK:=== COUNTER  Counter 17213 ===
+	Friction: 0.0025
+	Cause_to_make_noise: 0.0012755102040816326
+	Motion_noise: 4.938271604938272E-4
+	Communication_noise: 9.425959091337542E-5
+	Make_noise: 1.9406547769217335E-5
+
+SELECTED:[]
+WRONG!
+SILVER:175	23832	2	21	0	4107216	I heard the creak of a door and the crisp sound of boots upon gravel .	10268	door.n	1025	Connecting_architecture	MANUAL	6558542	23	26	JKs	door
+LINKED:[6	6	23	26	bn:00028247n	http://dbpedia.org/resource/Door	http://babelnet.org/rdf/s00028247n	0.75	0.4	0.08571429	BABELFY]
+RANK:=== COUNTER  Counter 17214 ===
+	Connecting_architecture: 1.6436554898093358E-4
+	Hindering: 1.9236688211757463E-5
+	Buildings: 5.243395811890029E-7
+
+SELECTED:[Connecting_architecture]
+MATCH!
+SILVER:175	23832	2	21	0	4107216	I heard the creak of a door and the crisp sound of boots upon gravel .	10906	sound.n	850	Sounds	MANUAL	6558567	42	46	AlK	sound
+LINKED:[10	10	42	46	bn:00072892n		http://babelnet.org/rdf/s00072892n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17215 ===
+	Event: 7.929402939746845E-7
+
+SELECTED:[]
+WRONG!
+SILVER:175	23832	2	21	0	4107216	I heard the creak of a door and the crisp sound of boots upon gravel .	3558	boot.n	134	Clothing	MANUAL	6558568	51	55	AlK	boots
+LINKED:[12	12	51	55	bn:00012166n	http://dbpedia.org/resource/Boot	http://babelnet.org/rdf/s00012166n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17216 ===
+	Clothing: 2.2818338642400122E-6
+	Artifact: 1.8854374280823462E-7
+
+SELECTED:[Clothing]
+MATCH!
+SILVER:175	23832	3	21	0	4107217	The steps passed along the path on the other side of the wall under which I crouched .	10920	pass.v	61	Path_shape	MANUAL	6558571	10	15	AlK	passed
+LINKED:[2	2	10	15	bn:00088944v		http://babelnet.org/rdf/s00088944v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17217 ===
+	Motion: 3.1437050450178564E-6
+	Travel: 1.4105088551745929E-6
+	Change_position_on_a_scale: 1.1970370937854622E-6
+	Cause_change_of_position_on_a_scale: 1.0805624111237418E-6
+
+SELECTED:[]
+WRONG!
+SILVER:175	23832	3	21	0	4107217	The steps passed along the path on the other side of the wall under which I crouched .	3773	path.n	203	Roadways	MANUAL	6558573	27	30	AlK	path
+LINKED:[5	5	27	30	bn:00061005n		http://babelnet.org/rdf/s00061005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17218 ===
+	Project: 8.899964400142399E-5
+	Conduct: 5.095567365948361E-6
+
+SELECTED:[]
+WRONG!
+SILVER:175	23832	3	21	0	4107217	The steps passed along the path on the other side of the wall under which I crouched .	2776	side.n	143	Part_orientational	MANUAL	6558576	45	48	AlK	side
+LINKED:[9	9	45	48	bn:00071431n		http://babelnet.org/rdf/s00071431n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17219 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23832	3	21	0	4107217	The steps passed along the path on the other side of the wall under which I crouched .	10070	wall.n	971	Architectural_part	MANUAL	6558577	57	60	AlK	wall
+LINKED:[12	12	57	60	bn:00080386n	http://dbpedia.org/resource/Wall	http://babelnet.org/rdf/s00080386n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17220 ===
+	Separating: 1.9290123456790122E-4
+	Architectural_part: 1.2913223140495868E-4
+	Buildings: 5.243395811890029E-7
+
+SELECTED:[Architectural_part]
+MATCH!
+SILVER:175	23832	3	21	0	4107217	The steps passed along the path on the other side of the wall under which I crouched .	131	crouch.v	18	Posture	MANUAL	6558580	76	83	AlK	crouched
+LINKED:[16	16	76	83	bn:00083405v		http://babelnet.org/rdf/s00083405v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17221 ===
+	Change_posture: 7.431629013079666E-5
+	Posture: 6.609822195782934E-5
+	Reshaping: 3.156167150612296E-5
+	Path_shape: 9.072434315575556E-6
+	Body_movement: 3.5332692633840237E-6
+	Undergo_change: 4.0517965463296596E-7
+
+SELECTED:[Posture]
+MATCH!
+SILVER:175	23832	3	21	0	4107217	The steps passed along the path on the other side of the wall under which I crouched .	1234	step.n	64	Self_motion	MANUAL	6558591	4	8	MJE	steps
+LINKED:[1	1	4	8	bn:00074192n		http://babelnet.org/rdf/s00074192n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17222 ===
+	Self_motion: 5.358367626886145E-6
+	Cause_change: 8.931987913948513E-8
+
+SELECTED:[Self_motion]
+MATCH!
+SILVER:175	23832	4	21	0	4107218	Looking over , I saw the naturalist pause at the door of an outhouse in the corner of the orchard .	1302	look.v	66	Perception_active	MANUAL	6558594	0	6	AlK	Looking
+LINKED:[0	0	0	6	bn:00090448v		http://babelnet.org/rdf/s00090448v	0.75	0.33333334	0.27272728	BABELFY]
+RANK:=== COUNTER  Counter 17223 ===
+	Seeking: 1.1562030292519367E-4
+	Perception_active: 2.986055122577563E-5
+	Scrutiny: 1.2755102040816325E-5
+
+SELECTED:[Perception_active]
+MATCH!
+SILVER:175	23832	4	21	0	4107218	Looking over , I saw the naturalist pause at the door of an outhouse in the corner of the orchard .	1535	see.v	70	Perception_experience	MANUAL	6558595	17	19	AlK	saw
+LINKED:[4	4	17	19	bn:00093430v		http://babelnet.org/rdf/s00093430v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17224 ===
+	Perception: 2.9726516052318666E-4
+	Perception_experience: 3.265306122448979E-5
+	Becoming_aware: 9.765625E-6
+
+SELECTED:[Perception_experience]
+MATCH!
+SILVER:175	23832	4	21	0	4107218	Looking over , I saw the naturalist pause at the door of an outhouse in the corner of the orchard .	10268	door.n	1025	Connecting_architecture	MANUAL	6558596	49	52	AlK	door
+LINKED:[10	10	49	52	bn:00028247n	http://dbpedia.org/resource/Door	http://babelnet.org/rdf/s00028247n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17225 ===
+	Connecting_architecture: 1.6436554898093358E-4
+	Hindering: 1.9236688211757463E-5
+	Buildings: 5.243395811890029E-7
+
+SELECTED:[Connecting_architecture]
+MATCH!
+SILVER:175	23832	4	21	0	4107218	Looking over , I saw the naturalist pause at the door of an outhouse in the corner of the orchard .	3114	outhouse.n	173	Buildings	MANUAL	6558597	60	67	AlK	outhouse
+LINKED:[13	13	60	67	bn:00029432n	http://dbpedia.org/resource/Outhouse	http://babelnet.org/rdf/s00029432n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17226 ===
+	Buildings: 5.243395811890029E-7
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:175	23832	5	21	0	4107219	A key turned in a lock , and as he passed in there was a curious scuffling noise from within .	12882	turn.v	670	Moving_in_place	MANUAL	6558599	6	11	AlK	turned
+LINKED:[2	2	6	11	bn:00095233v		http://babelnet.org/rdf/s00095233v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17227 ===
+	Change_direction: 2.1626297577854672E-4
+	Cause_to_move_in_place: 8.734387282732115E-5
+	Moving_in_place: 6.944444444444444E-5
+	Contingency: 4.504301608035674E-5
+	Body_movement: 3.5332692633840237E-6
+	Undergo_change: 4.0517965463296596E-7
+	Cause_change: 8.931987913948513E-8
+
+SELECTED:[Moving_in_place]
+MATCH!
+SILVER:175	23832	5	21	0	4107219	A key turned in a lock , and as he passed in there was a curious scuffling noise from within .	10907	noise.n	850	Sounds	MANUAL	6558602	75	79	AlK	noise
+LINKED:[17	17	75	79	bn:00057863n		http://babelnet.org/rdf/s00057863n	1.0	0.2	0.027777778	BABELFY]
+RANK:=== COUNTER  Counter 17228 ===
+	Sounds: 2.712673611111111E-5
+	Sensation: 2.123638216993353E-5
+	Event: 7.929402939746845E-7
+
+SELECTED:[Sounds]
+MATCH!
+SILVER:175	23832	5	21	0	4107219	A key turned in a lock , and as he passed in there was a curious scuffling noise from within .	12878	pass.v	1310	Traversing	MANUAL	6558603	35	40	AlK	passed
+LINKED:[10	10	35	40	bn:00088932v		http://babelnet.org/rdf/s00088932v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17229 ===
+	Traversing: 5.406574394463668E-5
+	Path_shape: 9.072434315575556E-6
+	Motion: 3.1437050450178564E-6
+	Travel: 1.4105088551745929E-6
+	Change_position_on_a_scale: 1.1970370937854622E-6
+	Cause_change_of_position_on_a_scale: 1.0805624111237418E-6
+
+SELECTED:[Traversing]
+MATCH!
+SILVER:175	23832	6	21	0	4107220	He was only a minute or so inside , and then I heard the key turn once more and he passed me and re - entered the house .	12878	pass.v	1310	Traversing	MANUAL	6558609	83	88	AlK	passed
+LINKED:[20	20	83	88	bn:00088932v		http://babelnet.org/rdf/s00088932v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17230 ===
+	Traversing: 5.406574394463668E-5
+	Path_shape: 9.072434315575556E-6
+	Motion: 3.1437050450178564E-6
+	Travel: 1.4105088551745929E-6
+	Change_position_on_a_scale: 1.1970370937854622E-6
+	Cause_change_of_position_on_a_scale: 1.0805624111237418E-6
+
+SELECTED:[Traversing]
+MATCH!
+SILVER:175	23832	2	42	0	4107293	We tore away his collar , and Holmes breathed a prayer of gratitude when we saw that there was no sign of a wound and that the rescue had been in time .	15162	tear.v	63	Removing	MANUAL	6648417	3	6	CFB	tore
+LINKED:[1	1	3	6	bn:00084314v		http://babelnet.org/rdf/s00084314v	1.0	0.11111111	0.016949153	BABELFY]
+RANK:=== COUNTER  Counter 17231 ===
+	Cause_to_fragment: 1.5625E-4
+	Damaging: 1.417233560090703E-4
+	Experience_bodily_harm: 4.385772553835358E-5
+	Cause_motion: 8.072530068156372E-7
+
+SELECTED:[]
+WRONG!
+SILVER:175	23832	2	42	0	4107293	We tore away his collar , and Holmes breathed a prayer of gratitude when we saw that there was no sign of a wound and that the rescue had been in time .	5489	prayer.n	301	Rite	MANUAL	6648418	48	53	CFB	prayer
+LINKED:[10	10	48	53	bn:00059529n	http://dbpedia.org/resource/Prayer	http://babelnet.org/rdf/s00059529n	1.0	0.22222222	0.06779661	BABELFY]
+RANK:=== COUNTER  Counter 17232 ===
+	Request: 1.7803414694938486E-5
+	Intentionally_act: 3.921184197627684E-8
+
+SELECTED:[]
+WRONG!
+SILVER:175	23832	2	42	0	4107293	We tore away his collar , and Holmes breathed a prayer of gratitude when we saw that there was no sign of a wound and that the rescue had been in time .	1535	see.v	70	Perception_experience	MANUAL	6648419	76	78	CFB	saw
+LINKED:[15	15	76	78	bn:00087861v		http://babelnet.org/rdf/s00087861v	0.75	0.22222222	0.10169491	BABELFY]
+RANK:=== COUNTER  Counter 17233 ===
+	Undergoing: 5.408328826392645E-4
+	Expertise: 6.781684027777777E-6
+	Feeling: 3.905700760830508E-6
+	Undergo_change: 4.0517965463296596E-7
+
+SELECTED:[]
+WRONG!
+filename	Miscellaneous__Hound-Ch14.xml
+docAnnotations	338
+docManual	56
+docUnannotated	282
+sentences	270
+paragraphs	85
+Overlapping	41
+Disambiguated	39
+TP	28
+TN	282
+FP	0
+FN	17
+P	1.0
+R	0.6222222222222222
+F	0.7671232876712328
+A	0.9480122324159022

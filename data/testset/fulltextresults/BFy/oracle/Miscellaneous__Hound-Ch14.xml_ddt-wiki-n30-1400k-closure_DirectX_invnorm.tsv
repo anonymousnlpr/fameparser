@@ -1,0 +1,16 @@
+filename	Miscellaneous__Hound-Ch14.xml
+docAnnotations	338
+docManual	56
+docUnannotated	282
+sentences	270
+paragraphs	85
+Overlapping	41
+Disambiguated	34
+TP	16
+TN	282
+FP	0
+FN	22
+P	1.0
+R	0.42105263157894735
+F	0.5925925925925926
+A	0.93125

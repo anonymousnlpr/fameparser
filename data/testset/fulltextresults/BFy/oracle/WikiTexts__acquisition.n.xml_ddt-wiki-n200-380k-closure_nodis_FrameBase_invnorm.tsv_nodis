@@ -1,0 +1,16 @@
+filename	WikiTexts__acquisition.n.xml
+docAnnotations	108
+docManual	12
+docUnannotated	96
+sentences	90
+paragraphs	10
+Overlapping	12
+Disambiguated	10
+TP	10
+TN	96
+FP	0
+FN	2
+P	1.0
+R	0.8333333333333334
+F	0.9090909090909091
+A	0.9814814814814815

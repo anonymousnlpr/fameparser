@@ -1,0 +1,16 @@
+filename	NTI__workAdvances.xml
+docAnnotations	195
+docManual	177
+docUnannotated	18
+sentences	14
+paragraphs	11
+Overlapping	143
+Disambiguated	108
+TP	80
+TN	18
+FP	0
+FN	69
+P	1.0
+R	0.5369127516778524
+F	0.6986899563318777
+A	0.5868263473053892

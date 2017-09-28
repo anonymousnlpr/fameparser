@@ -1,0 +1,116 @@
+SILVER:175	6	1	1	0	239738	Alleged White House gunman Robert Pickett was arraigned Wednesday at a federal court in Washington and ordered held without bond .	2428	order.v	121	Bail_decision	MANUAL	1952951	103	109	MJE	ordered
+LINKED:[16	16	103	109	bn:00088990v		http://babelnet.org/rdf/s00088990v	1.0	0.06666667	0.0018416207	BABELFY]
+RANK:=== COUNTER  Counter 39328 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	6	1	1	0	239738	Alleged White House gunman Robert Pickett was arraigned Wednesday at a federal court in Washington and ordered held without bond .	5684	hold.v	313	Detaining	MANUAL	1952952	111	114	MJE	held
+LINKED:[17	17	111	114	bn:00089384v		http://babelnet.org/rdf/s00089384v	1.0	0.13333334	0.0073664826	BABELFY]
+RANK:=== COUNTER  Counter 39330 ===
+	Activity_ongoing: -0.02040816326530612
+	Cause_to_continue: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:175	6	1	1	0	239738	Alleged White House gunman Robert Pickett was arraigned Wednesday at a federal court in Washington and ordered held without bond .	10750	alleged.a	1154	Unattributed_information	MANUAL	2600215	0	6	MJE	Alleged
+LINKED:[0	0	0	6	bn:00002812n	http://dbpedia.org/resource/Allegation	http://babelnet.org/rdf/s00002812n	1.0	0.13333334	0.0073664826	BABELFY]
+RANK:=== COUNTER  Counter 39334 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	6	1	1	0	239738	Alleged White House gunman Robert Pickett was arraigned Wednesday at a federal court in Washington and ordered held without bond .	10234	federal.a	195	Political_locales	MANUAL	2600218	71	77	MJE	federal
+LINKED:[11	11	71	77	bn:00102871a		http://babelnet.org/rdf/s00102871a	0.8	0.13333334	0.0073664826	BABELFY]
+RANK:=== COUNTER  Counter 39338 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	6	1	1	0	239738	Alleged White House gunman Robert Pickett was arraigned Wednesday at a federal court in Washington and ordered held without bond .	15972	court.n	196	Locale_by_use	MANUAL	2600219	79	83	MJE	court
+LINKED:[12	12	79	83	bn:00023308n	http://dbpedia.org/resource/Court	http://babelnet.org/rdf/s00023308n	0.7714286	0.4	0.09944751	BABELFY]
+RANK:=== COUNTER  Counter 39340 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	6	1	1	0	239738	Alleged White House gunman Robert Pickett was arraigned Wednesday at a federal court in Washington and ordered held without bond .	2430	bond.n	121	Bail_decision	MANUAL	2600221	124	127	MJE	bond
+LINKED:[19	19	124	127	bn:00011973n	http://dbpedia.org/resource/Chemical_bond	http://babelnet.org/rdf/s00011973n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39342 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	6	1	2	0	239739	A federal magistrate informed Pickett of the charges against him --assaulting a federal officer with a deadly weapon , which carries a maximum 10 years in prison .	9178	inform.v	750	Telling	MANUAL	1878630	21	28	CFB	informed
+LINKED:[3	3	21	28	bn:00089724v		http://babelnet.org/rdf/s00089724v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39344 ===
+	Reporting: -0.010000000000000002
+	Telling: -0.02040816326530612
+
+SELECTED:[Telling]
+MATCH!
+SILVER:175	6	1	2	0	239739	A federal magistrate informed Pickett of the charges against him --assaulting a federal officer with a deadly weapon , which carries a maximum 10 years in prison .	3878	year.n	224	Measure_duration	MANUAL	1952957	146	150	MJE	years
+LINKED:[25	25	146	150	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39348 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:175	6	1	2	0	239739	A federal magistrate informed Pickett of the charges against him --assaulting a federal officer with a deadly weapon , which carries a maximum 10 years in prison .	9097	deadly.a	590	Killing	MANUAL	2600233	103	108	MJE	deadly
+LINKED:[17	17	103	108	bn:00100969a		http://babelnet.org/rdf/s00100969a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39354 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	6	1	3	0	239740	The magistrate set a preliminary hearing for next Tuesday and ordered Pickett held without bond .	2428	order.v	121	Bail_decision	MANUAL	1952960	62	68	MJE	ordered
+LINKED:[10	10	62	68	bn:00087644v		http://babelnet.org/rdf/s00087644v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39358 ===
+	Request: -0.0022675736961451243
+	Sentencing: -0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:175	6	1	3	0	239740	The magistrate set a preliminary hearing for next Tuesday and ordered Pickett held without bond .	14346	preliminary.a	1928	Preliminaries	MANUAL	2600224	21	31	MJE	preliminary
+LINKED:[4	4	21	31	bn:00108949a		http://babelnet.org/rdf/s00108949a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39362 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	6	1	4	0	239741	Pickett , who was shot in the knee by the Secret Service after allegedly firing two shots outside the White House , used crutches to walk into the court .	7951	shoot.v	485	Hit_target	MANUAL	1900748	18	21	JKR	shot
+LINKED:[4	4	18	21	bn:00089349v		http://babelnet.org/rdf/s00089349v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39364 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	6	1	4	0	239741	Pickett , who was shot in the knee by the Secret Service after allegedly firing two shots outside the White House , used crutches to walk into the court .	5664	fire.v	289	Shoot_projectiles	MANUAL	2600226	73	78	MJE	firing
+LINKED:[14	14	73	78	bn:00088225v		http://babelnet.org/rdf/s00088225v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39366 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	6	1	4	0	239741	Pickett , who was shot in the knee by the Secret Service after allegedly firing two shots outside the White House , used crutches to walk into the court .	1261	walk.n	64	Self_motion	MANUAL	2600229	133	136	MJE	walk
+LINKED:[25	25	133	136	bn:00095597v		http://babelnet.org/rdf/s00095597v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39370 ===
+	Self_motion: -8.734387282732115E-5
+	Cotheme: -0.0044444444444444444
+
+SELECTED:[Self_motion]
+MATCH!
+SILVER:175	6	1	4	0	239741	Pickett , who was shot in the knee by the Secret Service after allegedly firing two shots outside the White House , used crutches to walk into the court .	10619	use.v	1141	Using	MANUAL	2600230	116	119	MJE	used
+LINKED:[22	22	116	119	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39372 ===
+
+SELECTED:[]
+WRONG!
+filename	Miscellaneous__Pickett.xml
+docAnnotations	41
+docManual	34
+docUnannotated	7
+sentences	5
+paragraphs	5
+Overlapping	27
+Disambiguated	5
+TP	3
+TN	7
+FP	0
+FN	29
+P	1.0
+R	0.09375
+F	0.17142857142857143
+A	0.2564102564102564

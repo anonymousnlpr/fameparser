@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__AFGP-2002-602187-Trans.xml
+docAnnotations	149
+docManual	113
+docUnannotated	36
+sentences	34
+paragraphs	12
+Overlapping	91
+Disambiguated	66
+TP	56
+TN	36
+FP	0
+FN	47
+P	1.0
+R	0.5436893203883495
+F	0.7044025157232704
+A	0.6618705035971223

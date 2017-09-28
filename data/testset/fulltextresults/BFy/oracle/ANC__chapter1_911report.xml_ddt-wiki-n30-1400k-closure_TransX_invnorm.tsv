@@ -1,0 +1,16 @@
+filename	ANC__chapter1_911report.xml
+docAnnotations	1134
+docManual	25
+docUnannotated	1109
+sentences	1103
+paragraphs	362
+Overlapping	24
+Disambiguated	23
+TP	17
+TN	1109
+FP	0
+FN	2
+P	1.0
+R	0.8947368421052632
+F	0.9444444444444444
+A	0.99822695035461

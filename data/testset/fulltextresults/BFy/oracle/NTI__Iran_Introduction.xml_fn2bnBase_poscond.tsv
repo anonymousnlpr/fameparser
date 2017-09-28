@@ -1,0 +1,1582 @@
+SILVER:135	23521	1	2	0	4097129	Iran 's chemical weapons and ballistic missiles , and possibly its nuclear weapon program and biological warfare capabilities , are meant to deter opponents and to gain influence in the Persian Gulf and Caspian Sea regions .	10636	ballistic	426	Weapon	MANUAL	6525333	29	37	EGp	ballistic
+LINKED:[5	5	29	37	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.1923077	0.0074794316	BABELFY]
+RANK:=== COUNTER  Counter 14408 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	2	0	4097129	Iran 's chemical weapons and ballistic missiles , and possibly its nuclear weapon program and biological warfare capabilities , are meant to deter opponents and to gain influence in the Persian Gulf and Caspian Sea regions .	10652	nuclear	426	Weapon	MANUAL	6525334	67	73	EGp	nuclear
+LINKED:[11	11	67	73	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14412 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23521	1	2	0	4097129	Iran 's chemical weapons and ballistic missiles , and possibly its nuclear weapon program and biological warfare capabilities , are meant to deter opponents and to gain influence in the Persian Gulf and Caspian Sea regions .	10724	program.n	1158	Project	MANUAL	6525335	82	88	RLG	program
+LINKED:[13	13	82	88	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14416 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23521	1	2	0	4097129	Iran 's chemical weapons and ballistic missiles , and possibly its nuclear weapon program and biological warfare capabilities , are meant to deter opponents and to gain influence in the Persian Gulf and Caspian Sea regions .	11600	warfare.n	93	Hostile_encounter	MANUAL	6525336	105	111	RLG	warfare
+LINKED:[16	16	105	111	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.9782609	0.5769231	0.100972325	BABELFY]
+RANK:=== COUNTER  Counter 14418 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	2	0	4097129	Iran 's chemical weapons and ballistic missiles , and possibly its nuclear weapon program and biological warfare capabilities , are meant to deter opponents and to gain influence in the Persian Gulf and Caspian Sea regions .	7502	gain.v	179	Getting	MANUAL	6525338	164	167	RLG	gain
+LINKED:[26	26	164	167	bn:00086652v		http://babelnet.org/rdf/s00086652v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14422 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	2	0	4097129	Iran 's chemical weapons and ballistic missiles , and possibly its nuclear weapon program and biological warfare capabilities , are meant to deter opponents and to gain influence in the Persian Gulf and Caspian Sea regions .	3696	region.n	192	Locale	MANUAL	6525339	215	221	RLG	regions
+LINKED:[35	35	215	221	bn:00066884n	http://dbpedia.org/resource/Region	http://babelnet.org/rdf/s00066884n	1.0	0.1923077	0.0074794316	BABELFY]
+RANK:=== COUNTER  Counter 14424 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	2	0	4097129	Iran 's chemical weapons and ballistic missiles , and possibly its nuclear weapon program and biological warfare capabilities , are meant to deter opponents and to gain influence in the Persian Gulf and Caspian Sea regions .	13357	biological.a	426	Weapon	MANUAL	6536671	94	103	RLG	biological
+LINKED:[15	15	94	103	bn:00098417a		http://babelnet.org/rdf/s00098417a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14428 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	2	0	4097130	The acquisition and creation of these various weapon systems can also be seen as a response to Iran 's own experience as a victim of chemical and missile attacks during the Iran - Iraq War .	7501	acquisition	179	Getting	MANUAL	6525340	4	14	RLG	acquisition
+LINKED:[1	1	4	14	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14430 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	2	0	4097130	The acquisition and creation of these various weapon systems can also be seen as a response to Iran 's own experience as a victim of chemical and missile attacks during the Iran - Iraq War .	11690	system.n	106	Gizmo	MANUAL	6525343	53	59	RLG	systems
+LINKED:[8	8	53	59	bn:00075759n		http://babelnet.org/rdf/s00075759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14436 ===
+	Gizmo: -0.0044444444444444444
+	System: -0.1111111111111111
+
+SELECTED:[Gizmo]
+MATCH!
+SILVER:135	23521	1	4	0	4097132	Iran possesses five research reactors and two partially constructed power reactors at Bushehr .	2418	possess.v	118	Possession	MANUAL	6525348	5	13	RLG	possesses
+LINKED:[1	1	5	13	bn:00091873v		http://babelnet.org/rdf/s00091873v	1.0	0.14285715	0.0042918455	BABELFY]
+RANK:=== COUNTER  Counter 14452 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	4	0	4097132	Iran possesses five research reactors and two partially constructed power reactors at Bushehr .	4741	construct.v	259	Building	MANUAL	6525352	56	66	RLG	constructed
+LINKED:[8	8	56	66	bn:00085679v		http://babelnet.org/rdf/s00085679v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14458 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	4	0	4097132	Iran possesses five research reactors and two partially constructed power reactors at Bushehr .	12355	power.n	1535	Electricity	MANUAL	6528358	68	72	RLG	power
+LINKED:[9	9	68	72	bn:00063940n	http://dbpedia.org/resource/Power_(social_and_political)	http://babelnet.org/rdf/s00063940n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14462 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	4	0	4097134	In the mid - 1970s , Iran initiated a nuclear power program , though there are reports that it also began a small nuclear weapon research program at the same time .	10724	program.n	1158	Project	MANUAL	6525353	52	58	RLG	program
+LINKED:[11	11	52	58	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14466 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23521	3	4	0	4097134	In the mid - 1970s , Iran initiated a nuclear power program , though there are reports that it also began a small nuclear weapon research program at the same time .	10652	nuclear	426	Weapon	MANUAL	6525356	114	120	EGp	nuclear
+LINKED:[23	23	114	120	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14472 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23521	3	4	0	4097134	In the mid - 1970s , Iran initiated a nuclear power program , though there are reports that it also began a small nuclear weapon research program at the same time .	10724	program.n	1158	Project	MANUAL	6525358	138	144	RLG	program
+LINKED:[26	26	138	144	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14478 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23521	3	4	0	4097134	In the mid - 1970s , Iran initiated a nuclear power program , though there are reports that it also began a small nuclear weapon research program at the same time .	12158	mid.a	1470	Temporal_subregion	MANUAL	6527672	7	9	RLG	mid
+LINKED:[2	2	7	9	bn:00106700a		http://babelnet.org/rdf/s00106700a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14480 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	4	0	4097134	In the mid - 1970s , Iran initiated a nuclear power program , though there are reports that it also began a small nuclear weapon research program at the same time .	12355	power.n	1535	Electricity	MANUAL	6528359	46	50	RLG	power
+LINKED:[10	10	46	50	bn:00063940n	http://dbpedia.org/resource/Power_(social_and_political)	http://babelnet.org/rdf/s00063940n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14482 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	4	0	4097135	The 1979 revolution ended all nuclear efforts until 1984 , when Iran revived the nuclear power program and reportedly began covert procurement for a nuclear weapon program .	1571	revolution.n	72	Change_of_leadership	MANUAL	6525359	9	18	RLG	revolution
+LINKED:[2	2	9	18	bn:00067567n		http://babelnet.org/rdf/s00067567n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14484 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	4	0	4097135	The 1979 revolution ended all nuclear efforts until 1984 , when Iran revived the nuclear power program and reportedly began covert procurement for a nuclear weapon program .	10680	end.v	1149	Cause_to_end	MANUAL	6525360	20	24	RLG	ended
+LINKED:[3	3	20	24	bn:00087608v		http://babelnet.org/rdf/s00087608v	0.85714287	0.125	0.006557377	BABELFY]
+RANK:=== COUNTER  Counter 14486 ===
+	Activity_stop: -0.0625
+	Cause_to_end: -0.1111111111111111
+
+SELECTED:[Cause_to_end]
+MATCH!
+SILVER:135	23521	4	4	0	4097135	The 1979 revolution ended all nuclear efforts until 1984 , when Iran revived the nuclear power program and reportedly began covert procurement for a nuclear weapon program .	10724	program.n	1158	Project	MANUAL	6525362	95	101	RLG	program
+LINKED:[16	16	95	101	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14490 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23521	4	4	0	4097135	The 1979 revolution ended all nuclear efforts until 1984 , when Iran revived the nuclear power program and reportedly began covert procurement for a nuclear weapon program .	4448	begin.v	146	Activity_start	MANUAL	6525363	118	122	RLG	began
+LINKED:[19	19	118	122	bn:00083340v		http://babelnet.org/rdf/s00083340v	1.0	0.125	0.00874317	BABELFY]
+RANK:=== COUNTER  Counter 14492 ===
+	Activity_start: -0.015625
+	Process_start: -0.027777777777777776
+	Setting_out: -0.1111111111111111
+
+SELECTED:[Activity_start]
+MATCH!
+SILVER:135	23521	4	4	0	4097135	The 1979 revolution ended all nuclear efforts until 1984 , when Iran revived the nuclear power program and reportedly began covert procurement for a nuclear weapon program .	10643	covert.a	1145	Secrecy_status	MANUAL	6525364	124	129	RLG	covert
+LINKED:[20	20	124	129	bn:00100579a		http://babelnet.org/rdf/s00100579a	1.0	0.0625	0.0010928962	BABELFY]
+RANK:=== COUNTER  Counter 14494 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	4	0	4097135	The 1979 revolution ended all nuclear efforts until 1984 , when Iran revived the nuclear power program and reportedly began covert procurement for a nuclear weapon program .	10652	nuclear	426	Weapon	MANUAL	6525365	149	155	EGp	nuclear
+LINKED:[24	24	149	155	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14496 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23521	4	4	0	4097135	The 1979 revolution ended all nuclear efforts until 1984 , when Iran revived the nuclear power program and reportedly began covert procurement for a nuclear weapon program .	10724	program.n	1158	Project	MANUAL	6525366	164	170	RLG	program
+LINKED:[26	26	164	170	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14500 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23521	4	4	0	4097135	The 1979 revolution ended all nuclear efforts until 1984 , when Iran revived the nuclear power program and reportedly began covert procurement for a nuclear weapon program .	11788	revive.v	1372	Cause_to_resume	MANUAL	6528218	69	75	MiL	revived
+LINKED:[12	12	69	75	bn:00092923v		http://babelnet.org/rdf/s00092923v	1.0	0.0625	0.0010928962	BABELFY]
+RANK:=== COUNTER  Counter 14502 ===
+	Cure: -0.0027700831024930744
+	Rejuvenation: -0.008264462809917356
+	Cause_to_resume: -0.1111111111111111
+
+SELECTED:[Cause_to_resume]
+MATCH!
+SILVER:135	23521	4	4	0	4097135	The 1979 revolution ended all nuclear efforts until 1984 , when Iran revived the nuclear power program and reportedly began covert procurement for a nuclear weapon program .	12355	power.n	1535	Electricity	MANUAL	6528360	89	93	RLG	power
+LINKED:[15	15	89	93	bn:00063940n	http://dbpedia.org/resource/Power_(social_and_political)	http://babelnet.org/rdf/s00063940n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14504 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	5	0	4097136	Iran 's plans for building a civilian nuclear power program have prompted much concern regarding its intention to develop nuclear weapons .	4738	build.v	259	Building	MANUAL	6525367	18	25	RLG	building
+LINKED:[4	4	18	25	bn:00084203v		http://babelnet.org/rdf/s00084203v	0.75	0.2	0.03106509	BABELFY]
+RANK:=== COUNTER  Counter 14506 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	5	0	4097136	Iran 's plans for building a civilian nuclear power program have prompted much concern regarding its intention to develop nuclear weapons .	10724	program.n	1158	Project	MANUAL	6525368	52	58	RLG	program
+LINKED:[9	9	52	58	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14508 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23521	1	5	0	4097136	Iran 's plans for building a civilian nuclear power program have prompted much concern regarding its intention to develop nuclear weapons .	10718	intention.n	513	Purpose	MANUAL	6525370	101	109	RLG	intention
+LINKED:[16	16	101	109	bn:00047047n		http://babelnet.org/rdf/s00047047n	0.9	0.2	0.013313609	BABELFY]
+RANK:=== COUNTER  Counter 14512 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	5	0	4097136	Iran 's plans for building a civilian nuclear power program have prompted much concern regarding its intention to develop nuclear weapons .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6525371	114	120	RLG	develop
+LINKED:[18	18	114	120	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14514 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	5	0	4097136	Iran 's plans for building a civilian nuclear power program have prompted much concern regarding its intention to develop nuclear weapons .	10652	nuclear	426	Weapon	MANUAL	6525372	122	128	EGp	nuclear
+LINKED:[19	19	122	128	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14516 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23521	1	5	0	4097136	Iran 's plans for building a civilian nuclear power program have prompted much concern regarding its intention to develop nuclear weapons .	12294	plan.n	513	Purpose	MANUAL	6528185	8	12	MiL	plans
+LINKED:[2	2	8	12	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.7894737	0.33333334	0.06656805	BABELFY]
+RANK:=== COUNTER  Counter 14522 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Purpose]
+MATCH!
+SILVER:135	23521	1	5	0	4097136	Iran 's plans for building a civilian nuclear power program have prompted much concern regarding its intention to develop nuclear weapons .	12355	power.n	1535	Electricity	MANUAL	6528361	46	50	RLG	power
+LINKED:[8	8	46	50	bn:00063940n	http://dbpedia.org/resource/Power_(social_and_political)	http://babelnet.org/rdf/s00063940n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14524 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	5	0	4097136	Iran 's plans for building a civilian nuclear power program have prompted much concern regarding its intention to develop nuclear weapons .	12108	prompt.v	381	Cause_to_start	MANUAL	6528610	65	72	RLG	prompted
+LINKED:[11	11	65	72	bn:00082313v		http://babelnet.org/rdf/s00082313v	1.0	0.06666667	0.00147929	BABELFY]
+RANK:=== COUNTER  Counter 14526 ===
+	Subjective_influence: -0.00591715976331361
+	Cause_to_start: -0.006944444444444444
+	Suasion: -0.0625
+
+SELECTED:[Cause_to_start]
+MATCH!
+SILVER:135	23521	2	5	0	4097137	Russia is assisting Iran to construct a light water reactor at Bushehr , which is now nearing completion , and will supply the nuclear fuel needed to run it .	12162	completion.n	165	Activity_finish	MANUAL	6527759	94	103	MiL	completion
+LINKED:[17	17	94	103	bn:00594109n	http://dbpedia.org/resource/Completion_(oil_and_gas_wells)	http://babelnet.org/rdf/s00594109n	1.0	0.26666668	0.015661707	BABELFY]
+RANK:=== COUNTER  Counter 14538 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	5	0	4097137	Russia is assisting Iran to construct a light water reactor at Bushehr , which is now nearing completion , and will supply the nuclear fuel needed to run it .	12215	run.v	1495	Operating_a_system	MANUAL	6528184	150	152	MiL	run
+LINKED:[27	27	150	152	bn:00093180v		http://babelnet.org/rdf/s00093180v	1.0	0.2	0.007047768	BABELFY]
+RANK:=== COUNTER  Counter 14540 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	5	0	4097138	Although the Nuclear Non-Proliferation Treaty ( NPT ) allows transfers of nuclear technology for peaceful purposes to non - nuclear weapon states , the United States has vehemently opposed the Russian - Iranian deal .	10813	transfer.n	178	Transfer	MANUAL	6525380	61	69	MiL	transfers
+LINKED:[9	9	61	69	bn:00022381n		http://babelnet.org/rdf/s00022381n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14544 ===
+	Bringing: -0.001736111111111111
+	Transfer: -0.25
+
+SELECTED:[Transfer]
+MATCH!
+SILVER:135	23521	3	5	0	4097138	Although the Nuclear Non-Proliferation Treaty ( NPT ) allows transfers of nuclear technology for peaceful purposes to non - nuclear weapon states , the United States has vehemently opposed the Russian - Iranian deal .	11658	deal.n	1342	Make_agreement_on_action	MANUAL	6525384	211	214	MiL	deal
+LINKED:[33	33	211	214	bn:00014152n		http://babelnet.org/rdf/s00014152n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14552 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	5	0	4097139	The United States believes that nuclear energy is not necessary in a country with Iran 's large oil supply .	2756	believe.v	141	Certainty	MANUAL	6525385	18	25	MiL	believes
+LINKED:[3	3	18	25	bn:00083373v		http://babelnet.org/rdf/s00083373v	0.75	0.3	0.004983389	BABELFY]
+RANK:=== COUNTER  Counter 14560 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	5	5	0	4097140	It fears that the deal is being used as a cover for the transfer of more sensitive nuclear technology to Iran and to provide training for Iranian nuclear specialists that could be used to support a nuclear weapons program .	872	fear.v	48	Experiencer_focus	MANUAL	6525388	3	7	MiL	fears
+LINKED:[1	1	3	7	bn:00088065v		http://babelnet.org/rdf/s00088065v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14570 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	5	5	0	4097140	It fears that the deal is being used as a cover for the transfer of more sensitive nuclear technology to Iran and to provide training for Iranian nuclear specialists that could be used to support a nuclear weapons program .	10619	use.v	1141	Using	MANUAL	6525390	32	35	MiL	used
+LINKED:[7	7	32	35	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14572 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	5	5	0	4097140	It fears that the deal is being used as a cover for the transfer of more sensitive nuclear technology to Iran and to provide training for Iranian nuclear specialists that could be used to support a nuclear weapons program .	10813	transfer.n	178	Transfer	MANUAL	6525391	56	63	MiL	transfer
+LINKED:[13	13	56	63	bn:00022381n		http://babelnet.org/rdf/s00022381n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14574 ===
+	Bringing: -0.001736111111111111
+	Transfer: -0.25
+
+SELECTED:[Transfer]
+MATCH!
+SILVER:135	23521	5	5	0	4097140	It fears that the deal is being used as a cover for the transfer of more sensitive nuclear technology to Iran and to provide training for Iranian nuclear specialists that could be used to support a nuclear weapons program .	10724	program.n	1158	Project	MANUAL	6525394	214	220	MiL	program
+LINKED:[38	38	214	220	bn:00021497n	http://dbpedia.org/resource/Software	http://babelnet.org/rdf/s00021497n	0.7258065	0.2777778	0.05232558	BABELFY]
+RANK:=== COUNTER  Counter 14578 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	5	5	0	4097140	It fears that the deal is being used as a cover for the transfer of more sensitive nuclear technology to Iran and to provide training for Iranian nuclear specialists that could be used to support a nuclear weapons program .	10619	use.v	1141	Using	MANUAL	6525395	180	183	MiL	used
+LINKED:[32	32	180	183	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14580 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	5	5	0	4097140	It fears that the deal is being used as a cover for the transfer of more sensitive nuclear technology to Iran and to provide training for Iranian nuclear specialists that could be used to support a nuclear weapons program .	10652	nuclear	426	Weapon	MANUAL	6527775	198	204	EGp	nuclear
+LINKED:[36	36	198	204	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14582 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23521	6	5	0	4097141	Russia , however , has expressed its intention to complete the deal .	11352	complete.v	165	Activity_finish	MANUAL	6525398	50	57	MiL	complete
+LINKED:[9	9	50	57	bn:00085476v		http://babelnet.org/rdf/s00085476v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14592 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	6	5	0	4097141	Russia , however , has expressed its intention to complete the deal .	11658	deal.n	1342	Make_agreement_on_action	MANUAL	6525399	63	66	MiL	deal
+LINKED:[11	11	63	66	bn:00014152n		http://babelnet.org/rdf/s00014152n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14594 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	7	5	0	4097142	Iran has denied the charges that it is pursuing a nuclear weapons program , and argues that nuclear technology for civilian use is the right of every non - nuclear weapon state party to the NPT .	18238	deny.v	2974	Affirm_or_deny	MANUAL	6525400	9	14	MiL	denied
+LINKED:[2	2	9	14	bn:00086595v		http://babelnet.org/rdf/s00086595v	0.85714287	0.11111111	0.0024125453	BABELFY]
+RANK:=== COUNTER  Counter 14598 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	7	5	0	4097142	Iran has denied the charges that it is pursuing a nuclear weapons program , and argues that nuclear technology for civilian use is the right of every non - nuclear weapon state party to the NPT .	10724	program.n	1158	Project	MANUAL	6525401	66	72	MiL	program
+LINKED:[12	12	66	72	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14600 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23521	1	6	0	4097143	American concerns over Iran 's nuclear program intensified in mid - 2002 , when American intelligence learned of the existence of two secret nuclear facilities .	10724	program.n	1158	Project	MANUAL	6525408	39	45	MiL	program
+LINKED:[6	6	39	45	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14620 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23521	1	6	0	4097143	American concerns over Iran 's nuclear program intensified in mid - 2002 , when American intelligence learned of the existence of two secret nuclear facilities .	10644	secret.a	1145	Secrecy_status	MANUAL	6525410	134	139	MiL	secret
+LINKED:[22	22	134	139	bn:00110253a		http://babelnet.org/rdf/s00110253a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14624 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	6	0	4097143	American concerns over Iran 's nuclear program intensified in mid - 2002 , when American intelligence learned of the existence of two secret nuclear facilities .	12158	mid.a	1470	Temporal_subregion	MANUAL	6527673	62	64	RLG	mid
+LINKED:[9	9	62	64	bn:00106700a		http://babelnet.org/rdf/s00106700a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14630 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	6	0	4097144	According to an Iranian opposition group , the two sites , a uranium enrichment facility at Natanz and a heavy water production plant near Arak , had been funded by front companies .	11441	production.n	408	Manufacturing	MANUAL	6525422	117	126	MiL	production
+LINKED:[21	21	117	126	bn:00064594n	http://dbpedia.org/resource/Production_(economics)	http://babelnet.org/rdf/s00064594n	1.0	0.2	0.05448354	BABELFY]
+RANK:=== COUNTER  Counter 14642 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	6	0	4097144	According to an Iranian opposition group , the two sites , a uranium enrichment facility at Natanz and a heavy water production plant near Arak , had been funded by front companies .	10646	enrichment.n	620	Processing_materials	MANUAL	6525423	69	78	MiL	enrichment
+LINKED:[13	13	69	78	bn:00030955n	http://dbpedia.org/resource/Chaptalization	http://babelnet.org/rdf/s00030955n	1.0	0.05	0.0011350738	BABELFY]
+RANK:=== COUNTER  Counter 14644 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	6	0	4097144	According to an Iranian opposition group , the two sites , a uranium enrichment facility at Natanz and a heavy water production plant near Arak , had been funded by front companies .	2112	group.n	103	Aggregate	MANUAL	6527752	35	39	RLG	group
+LINKED:[5	5	35	39	bn:00018111n	http://dbpedia.org/resource/Functional_group	http://babelnet.org/rdf/s00018111n	1.0	0.15	0.013620885	BABELFY]
+RANK:=== COUNTER  Counter 14648 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	6	0	4097144	According to an Iranian opposition group , the two sites , a uranium enrichment facility at Natanz and a heavy water production plant near Arak , had been funded by front companies .	11550	site.n	196	Locale_by_use	MANUAL	6527931	51	55	RLG	sites
+LINKED:[9	9	51	55	bn:00049847n		http://babelnet.org/rdf/s00049847n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14650 ===
+	Locale_by_use: -4.3402777777777775E-4
+	Locale: -0.0034602076124567475
+	Locale_by_event: -0.027777777777777776
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:135	23521	2	6	0	4097144	According to an Iranian opposition group , the two sites , a uranium enrichment facility at Natanz and a heavy water production plant near Arak , had been funded by front companies .	11610	iranian.a	1103	Origin	MANUAL	6528176	16	22	MiL	Iranian
+LINKED:[3	3	16	22	bn:16752786n	http://dbpedia.org/resource/Persian_people	http://babelnet.org/rdf/s16752786n	1.0	0.1	0.0068104425	BABELFY]
+RANK:=== COUNTER  Counter 14654 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	7	0	4097145	In February 2003 , Iranian leaders announced a new plan to develop a nuclear energy plan using entirely domestic resources .	683	announce.v	43	Statement	MANUAL	6525424	35	43	MiL	announced
+LINKED:[6	6	35	43	bn:00082637v		http://babelnet.org/rdf/s00082637v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14656 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	7	0	4097145	In February 2003 , Iranian leaders announced a new plan to develop a nuclear energy plan using entirely domestic resources .	1593	leader.n	73	Leadership	MANUAL	6525426	27	33	MiL	leaders
+LINKED:[5	5	27	33	bn:03457529n	http://dbpedia.org/resource/Leader_(spark)	http://babelnet.org/rdf/s03457529n	1.0	0.1	0.006060606	BABELFY]
+RANK:=== COUNTER  Counter 14658 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	7	0	4097145	In February 2003 , Iranian leaders announced a new plan to develop a nuclear energy plan using entirely domestic resources .	12181	domestic.a	1483	Foreign_or_domestic_country	MANUAL	6527636	104	111	RLG	domestic
+LINKED:[18	18	104	111	bn:00101684a		http://babelnet.org/rdf/s00101684a	1.0	0.1	0.006060606	BABELFY]
+RANK:=== COUNTER  Counter 14660 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	7	0	4097145	In February 2003 , Iranian leaders announced a new plan to develop a nuclear energy plan using entirely domestic resources .	12294	plan.n	513	Purpose	MANUAL	6528186	51	54	MiL	plan
+LINKED:[9	9	51	54	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.87096775	0.3	0.16363636	BABELFY]
+RANK:=== COUNTER  Counter 14664 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Purpose]
+MATCH!
+SILVER:135	23521	1	7	0	4097145	In February 2003 , Iranian leaders announced a new plan to develop a nuclear energy plan using entirely domestic resources .	12294	plan.n	513	Purpose	MANUAL	6528187	84	87	MiL	plan
+LINKED:[15	15	84	87	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.87096775	0.3	0.16363636	BABELFY]
+RANK:=== COUNTER  Counter 14666 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Purpose]
+MATCH!
+SILVER:135	23521	1	7	0	4097145	In February 2003 , Iranian leaders announced a new plan to develop a nuclear energy plan using entirely domestic resources .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6528240	59	65	RLG	develop
+LINKED:[11	11	59	65	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14668 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	7	0	4097145	In February 2003 , Iranian leaders announced a new plan to develop a nuclear energy plan using entirely domestic resources .	12566	new.a	1597	Familiarity	MANUAL	6530491	47	49	RLG	new
+LINKED:[8	8	47	49	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14670 ===
+	Age: -0.02040816326530612
+	Familiarity: -0.04000000000000001
+
+SELECTED:[Familiarity]
+MATCH!
+SILVER:135	23521	2	7	0	4097146	This development is of particular concern , considering the revelation of the two secret facilities .	10667	revelation.n	1146	Reveal_secret	MANUAL	6525428	60	69	MiL	revelation
+LINKED:[9	9	60	69	bn:00067514n		http://babelnet.org/rdf/s00067514n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14674 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	7	0	4097146	This development is of particular concern , considering the revelation of the two secret facilities .	10662	facility.n	196	Locale_by_use	MANUAL	6525429	89	98	MiL	facilities
+LINKED:[14	14	89	98	bn:00032646n		http://babelnet.org/rdf/s00032646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14676 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	7	0	4097146	This development is of particular concern , considering the revelation of the two secret facilities .	10644	secret.a	1145	Secrecy_status	MANUAL	6527680	82	87	RLG	secret
+LINKED:[13	13	82	87	bn:00110253a		http://babelnet.org/rdf/s00110253a	1.0	0.25	0.10526316	BABELFY]
+RANK:=== COUNTER  Counter 14678 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	7	0	4097146	This development is of particular concern , considering the revelation of the two secret facilities .	13390	development.n	187	Event	MANUAL	6537504	5	15	KmG	development
+LINKED:[1	1	5	15	bn:00026695n	http://dbpedia.org/resource/Development_economics	http://babelnet.org/rdf/s00026695n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14680 ===
+	Progress: -0.012345679012345678
+	Cause_to_make_progress: -0.027777777777777776
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	7	0	4097147	The United States believes that these facilities might contribute to Iran 's development of a complete nuclear fuel cycle , which would enable Iran to build nuclear weapons without importing nuclear material .	2756	believe.v	141	Certainty	MANUAL	6525430	18	25	MiL	believes
+LINKED:[3	3	18	25	bn:00083369v		http://babelnet.org/rdf/s00083369v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14682 ===
+	Certainty: -0.008264462809917356
+	Trust: -0.015625
+
+SELECTED:[Certainty]
+MATCH!
+SILVER:135	23521	3	7	0	4097147	The United States believes that these facilities might contribute to Iran 's development of a complete nuclear fuel cycle , which would enable Iran to build nuclear weapons without importing nuclear material .	11684	material.n	1348	Ingredients	MANUAL	6527950	199	206	RLG	material
+LINKED:[31	31	199	206	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14690 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Ingredients]
+MATCH!
+SILVER:135	23521	3	7	0	4097147	The United States believes that these facilities might contribute to Iran 's development of a complete nuclear fuel cycle , which would enable Iran to build nuclear weapons without importing nuclear material .	12471	import.v	1567	Importing	MANUAL	6528488	181	189	RLG	importing
+LINKED:[29	29	181	189	bn:00089626v		http://babelnet.org/rdf/s00089626v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14696 ===
+	Import_export: -0.02040816326530612
+	Importing: -0.25
+
+SELECTED:[Importing]
+MATCH!
+SILVER:135	23521	1	8	0	4097148	Later in February 2003 , an IAEA delegation visited the pilot - scale gas centrifuge enrichment plant at Natanz , which is nearly ready for operation .	11435	plant.n	196	Locale_by_use	MANUAL	6525436	96	100	MiL	plant
+LINKED:[16	16	96	100	bn:00035324n	http://dbpedia.org/resource/Plant	http://babelnet.org/rdf/s00035324n	0.96938777	0.5	0.2581522	BABELFY]
+RANK:=== COUNTER  Counter 14700 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	8	0	4097148	Later in February 2003 , an IAEA delegation visited the pilot - scale gas centrifuge enrichment plant at Natanz , which is nearly ready for operation .	11601	gas.n	1321	Substance	MANUAL	6527688	70	72	RLG	gas
+LINKED:[13	13	70	72	bn:00037382n	http://dbpedia.org/resource/Gas	http://babelnet.org/rdf/s00037382n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14702 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	8	0	4097148	Later in February 2003 , an IAEA delegation visited the pilot - scale gas centrifuge enrichment plant at Natanz , which is nearly ready for operation .	10646	enrichment.n	620	Processing_materials	MANUAL	6527843	85	94	RLG	enrichment
+LINKED:[15	15	85	94	bn:00030955n	http://dbpedia.org/resource/Chaptalization	http://babelnet.org/rdf/s00030955n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14704 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	8	0	4097149	The inspection team learned that Iran has the capability to build more centrifuges .	10702	capability.n	990	Capability	MANUAL	6525439	46	55	MiL	capability
+LINKED:[8	8	46	55	bn:03336818n	http://dbpedia.org/resource/Capability-based_security	http://babelnet.org/rdf/s03336818n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14710 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	8	0	4097150	During the IAEA 's visit to Iran , Iranian officials indicated that Iran would honor its safeguards agreement with the IAEA , but did not clearly indicate Iran 's willingness to accept the Additional Protocol .	10151	indicate.v	6	Communication	MANUAL	6525441	53	61	MiL	indicated
+LINKED:[10	10	53	61	bn:00083436v		http://babelnet.org/rdf/s00083436v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14716 ===
+	Evidence: -0.0027700831024930744
+	Communication: -0.008264462809917356
+	Sign: -0.015625
+
+SELECTED:[Communication]
+MATCH!
+SILVER:135	23521	3	8	0	4097150	During the IAEA 's visit to Iran , Iranian officials indicated that Iran would honor its safeguards agreement with the IAEA , but did not clearly indicate Iran 's willingness to accept the Additional Protocol .	10151	indicate.v	6	Communication	MANUAL	6525443	146	153	MiL	indicate
+LINKED:[26	26	146	153	bn:00083436v		http://babelnet.org/rdf/s00083436v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14720 ===
+	Evidence: -0.0027700831024930744
+	Communication: -0.008264462809917356
+	Sign: -0.015625
+
+SELECTED:[Communication]
+MATCH!
+SILVER:135	23521	3	8	0	4097150	During the IAEA 's visit to Iran , Iranian officials indicated that Iran would honor its safeguards agreement with the IAEA , but did not clearly indicate Iran 's willingness to accept the Additional Protocol .	7538	accept.v	411	Receiving	MANUAL	6525444	178	183	MiL	accept
+LINKED:[31	31	178	183	bn:00082197v		http://babelnet.org/rdf/s00082197v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14722 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	8	0	4097150	During the IAEA 's visit to Iran , Iranian officials indicated that Iran would honor its safeguards agreement with the IAEA , but did not clearly indicate Iran 's willingness to accept the Additional Protocol .	946	visit.n	54	Arriving	MANUAL	6527698	19	23	RLG	visit
+LINKED:[4	4	19	23	bn:00080111n		http://babelnet.org/rdf/s00080111n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14724 ===
+	Arriving: -0.0027700831024930744
+	Visiting: -0.04000000000000001
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:135	23521	3	8	0	4097150	During the IAEA 's visit to Iran , Iranian officials indicated that Iran would honor its safeguards agreement with the IAEA , but did not clearly indicate Iran 's willingness to accept the Additional Protocol .	10625	official.n	73	Leadership	MANUAL	6527734	43	51	RLG	officials
+LINKED:[9	9	43	51	bn:14866890n	http://dbpedia.org/resource/Referee_(futsal)	http://babelnet.org/rdf/s14866890n	1.0	0.10526316	0.0026024724	BABELFY]
+RANK:=== COUNTER  Counter 14726 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	8	0	4097150	During the IAEA 's visit to Iran , Iranian officials indicated that Iran would honor its safeguards agreement with the IAEA , but did not clearly indicate Iran 's willingness to accept the Additional Protocol .	12802	willingness.n	1632	Willingness	MANUAL	6534441	163	173	RLG	willingness
+LINKED:[29	29	163	173	bn:00021959n	http://dbpedia.org/resource/Consent_(criminal_law)	http://babelnet.org/rdf/s00021959n	1.0	0.05263158	0.0013012362	BABELFY]
+RANK:=== COUNTER  Counter 14728 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	8	0	4097151	This means that Iran will place the Natanz facility , and any enriched uranium it produces , under IAEA inspection but that , as long as no nuclear materials are present , the IAEA would have no ability to examine locations in Iran where it believed nuclear weapons design research might be under way .	1100	place.v	62	Placing	MANUAL	6525445	26	30	MiL	place
+LINKED:[5	5	26	30	bn:00090224v		http://babelnet.org/rdf/s00090224v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14732 ===
+	Placing: -2.9726516052318666E-4
+	Causation: -0.0025000000000000005
+
+SELECTED:[Placing]
+MATCH!
+SILVER:135	23521	4	8	0	4097151	This means that Iran will place the Natanz facility , and any enriched uranium it produces , under IAEA inspection but that , as long as no nuclear materials are present , the IAEA would have no ability to examine locations in Iran where it believed nuclear weapons design research might be under way .	7523	produce.v	408	Manufacturing	MANUAL	6525446	82	89	MiL	produces
+LINKED:[15	15	82	89	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14734 ===
+	Behind_the_scenes: -0.008264462809917356
+	Manufacturing: -0.015625
+
+SELECTED:[Manufacturing]
+MATCH!
+SILVER:135	23521	4	8	0	4097151	This means that Iran will place the Natanz facility , and any enriched uranium it produces , under IAEA inspection but that , as long as no nuclear materials are present , the IAEA would have no ability to examine locations in Iran where it believed nuclear weapons design research might be under way .	11271	examine.v	1262	Inspecting	MANUAL	6525449	206	212	MiL	examine
+LINKED:[39	39	206	212	bn:00082596v		http://babelnet.org/rdf/s00082596v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14740 ===
+	Scrutiny: -6.925207756232686E-4
+	Inspecting: -0.015625
+	Studying: -1.0
+
+SELECTED:[Inspecting]
+MATCH!
+SILVER:135	23521	4	8	0	4097151	This means that Iran will place the Natanz facility , and any enriched uranium it produces , under IAEA inspection but that , as long as no nuclear materials are present , the IAEA would have no ability to examine locations in Iran where it believed nuclear weapons design research might be under way .	2756	believe.v	141	Certainty	MANUAL	6525450	241	248	MiL	believed
+LINKED:[45	45	241	248	bn:00083370v		http://babelnet.org/rdf/s00083370v	0.7619048	0.14285715	0.006267137	BABELFY]
+RANK:=== COUNTER  Counter 14742 ===
+	Awareness: -0.002066115702479339
+	Categorization: -0.0025000000000000005
+	Opinion: -0.010000000000000002
+	Regard: -0.04000000000000001
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	8	0	4097151	This means that Iran will place the Natanz facility , and any enriched uranium it produces , under IAEA inspection but that , as long as no nuclear materials are present , the IAEA would have no ability to examine locations in Iran where it believed nuclear weapons design research might be under way .	11721	design.n	27	Coming_up_with	MANUAL	6525451	266	271	MiL	design
+LINKED:[48	48	266	271	bn:00026535n	http://dbpedia.org/resource/Design	http://babelnet.org/rdf/s00026535n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14744 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	8	0	4097151	This means that Iran will place the Natanz facility , and any enriched uranium it produces , under IAEA inspection but that , as long as no nuclear materials are present , the IAEA would have no ability to examine locations in Iran where it believed nuclear weapons design research might be under way .	11684	material.n	1348	Ingredients	MANUAL	6527945	148	156	RLG	materials
+LINKED:[28	28	148	156	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14754 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Ingredients]
+MATCH!
+SILVER:135	23521	4	8	0	4097151	This means that Iran will place the Natanz facility , and any enriched uranium it produces , under IAEA inspection but that , as long as no nuclear materials are present , the IAEA would have no ability to examine locations in Iran where it believed nuclear weapons design research might be under way .	10652	nuclear	426	Weapon	MANUAL	6528275	250	256	EGp	nuclear
+LINKED:[46	46	250	256	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14758 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23521	5	8	0	4097152	The United States is concerned that if Iran stockpiled enriched uranium , it might , in the future , withdraw from the NPT ( as North Korea has ) and then build nuclear weapons rapidly , perhaps even in a matter of months .	8787	concerned.a	46	Emotion_directed	MANUAL	6525453	21	29	MiL	concerned
+LINKED:[4	4	21	29	bn:00083240v		http://babelnet.org/rdf/s00083240v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14762 ===
+	Topic: -0.027777777777777776
+	Cause_emotion: -0.04000000000000001
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	5	8	0	4097152	The United States is concerned that if Iran stockpiled enriched uranium , it might , in the future , withdraw from the NPT ( as North Korea has ) and then build nuclear weapons rapidly , perhaps even in a matter of months .	12175	stockpile.v	1482	Amassing	MANUAL	6527596	44	53	RLG	stockpiled
+LINKED:[8	8	44	53	bn:00084564v		http://babelnet.org/rdf/s00084564v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14766 ===
+	Storing: -0.027777777777777776
+	Amassing: -0.25
+	Carry_goods: -0.25
+
+SELECTED:[Amassing]
+MATCH!
+SILVER:135	23521	5	8	0	4097152	The United States is concerned that if Iran stockpiled enriched uranium , it might , in the future , withdraw from the NPT ( as North Korea has ) and then build nuclear weapons rapidly , perhaps even in a matter of months .	12297	withdraw.v	1518	Withdraw_from_participation	MANUAL	6528157	101	108	MiL	withdraw
+LINKED:[19	19	101	108	bn:00087267v		http://babelnet.org/rdf/s00087267v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14770 ===
+	Quitting_a_place: -0.0030864197530864196
+	Change_event_time: -0.027777777777777776
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	9	0	4097153	It is possible that construction of the Natanz plant violated Iran 's IAEA safeguards obligations .	2340	violate.v	117	Compliance	MANUAL	6525459	53	60	MiL	violated
+LINKED:[9	9	53	60	bn:00083897v		http://babelnet.org/rdf/s00083897v	1.0	0.11111111	0.007352941	BABELFY]
+RANK:=== COUNTER  Counter 14782 ===
+	Compliance: -0.0011111111111111111
+	Misdeed: -0.027777777777777776
+
+SELECTED:[Compliance]
+MATCH!
+SILVER:135	23521	1	9	0	4097153	It is possible that construction of the Natanz plant violated Iran 's IAEA safeguards obligations .	12796	safeguard.n	1631	Protecting	MANUAL	6537161	75	84	RLG	safeguards
+LINKED:[13	13	75	84	bn:00772102n	http://dbpedia.org/resource/Safeguard	http://babelnet.org/rdf/s00772102n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14786 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	9	0	4097154	Such a violation would have occurred if Iran introduced nuclear material into the facility to test it , without informing the IAEA .	4887	occur.v	187	Event	MANUAL	6525461	28	35	MiL	occurred
+LINKED:[5	5	28	35	bn:00085337v		http://babelnet.org/rdf/s00085337v	1.0	0.1	0.010309278	BABELFY]
+RANK:=== COUNTER  Counter 14788 ===
+	Event: -0.0022675736961451243
+	Coincidence: -0.02040816326530612
+	Take_place_of: -0.04000000000000001
+	Eventive_affecting: -0.25
+
+SELECTED:[Event]
+MATCH!
+SILVER:135	23521	2	9	0	4097154	Such a violation would have occurred if Iran introduced nuclear material into the facility to test it , without informing the IAEA .	11462	test.v	1301	Operational_testing	MANUAL	6525462	94	97	MiL	test
+LINKED:[15	15	94	97	bn:00094889v		http://babelnet.org/rdf/s00094889v	1.0	0.1	0.010309278	BABELFY]
+RANK:=== COUNTER  Counter 14790 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	9	0	4097154	Such a violation would have occurred if Iran introduced nuclear material into the facility to test it , without informing the IAEA .	7946	inform.v	483	Reporting	MANUAL	6525463	112	120	MiL	informing
+LINKED:[19	19	112	120	bn:00089724v		http://babelnet.org/rdf/s00089724v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14792 ===
+	Reporting: -0.010000000000000002
+	Telling: -0.02040816326530612
+
+SELECTED:[Reporting]
+MATCH!
+SILVER:135	23521	2	9	0	4097154	Such a violation would have occurred if Iran introduced nuclear material into the facility to test it , without informing the IAEA .	2343	violation.n	117	Compliance	MANUAL	6527699	7	15	RLG	violation
+LINKED:[2	2	7	15	bn:00046721n	http://dbpedia.org/resource/Summary_offence	http://babelnet.org/rdf/s00046721n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14794 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	9	0	4097154	Such a violation would have occurred if Iran introduced nuclear material into the facility to test it , without informing the IAEA .	11684	material.n	1348	Ingredients	MANUAL	6527951	64	71	RLG	material
+LINKED:[10	10	64	71	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14796 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Ingredients]
+MATCH!
+SILVER:135	23521	4	9	0	4097156	Iran responded by strenuously denying the charges , but also maintained that it reserved the right to possess nuclear weapons to counter Israel 's weaponry .	18238	deny.v	2974	Affirm_or_deny	MANUAL	6525469	30	36	MiL	denying
+LINKED:[4	4	30	36	bn:00086591v		http://babelnet.org/rdf/s00086591v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14808 ===
+	Statement: -2.44140625E-4
+	Prevent_from_having: -0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	9	0	4097156	Iran responded by strenuously denying the charges , but also maintained that it reserved the right to possess nuclear weapons to counter Israel 's weaponry .	728	maintain.v	43	Statement	MANUAL	6525470	61	70	MiL	maintained
+LINKED:[10	10	61	70	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14810 ===
+	Activity_ongoing: -0.02040816326530612
+	Cause_to_continue: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	9	0	4097156	Iran responded by strenuously denying the charges , but also maintained that it reserved the right to possess nuclear weapons to counter Israel 's weaponry .	2418	possess.v	118	Possession	MANUAL	6525471	102	108	MiL	possess
+LINKED:[17	17	102	108	bn:00091873v		http://babelnet.org/rdf/s00091873v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14812 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	9	0	4097156	Iran responded by strenuously denying the charges , but also maintained that it reserved the right to possess nuclear weapons to counter Israel 's weaponry .	10652	nuclear	426	Weapon	MANUAL	6528277	110	116	EGp	nuclear
+LINKED:[18	18	110	116	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14816 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23521	1	10	0	4097157	An Iranian initiative to normalize relations was communicated to the United States in May 2003 .	5	communicate.v	6	Communication	MANUAL	6525475	49	60	MiL	communicated
+LINKED:[7	7	49	60	bn:00085435v		http://babelnet.org/rdf/s00085435v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14822 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	10	0	4097157	An Iranian initiative to normalize relations was communicated to the United States in May 2003 .	11610	iranian.a	1103	Origin	MANUAL	6528178	3	9	MiL	Iranian
+LINKED:[1	1	3	9	bn:00047449n	http://dbpedia.org/resource/Iranian_languages	http://babelnet.org/rdf/s00047449n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14824 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	10	0	4097158	It includes a promise to address U.S. concerns on nuclear weapons in exchange for lifting sanctions and eventual normalization of relations .	480	promise.n	33	Commitment	MANUAL	6525476	14	20	MiL	promise
+LINKED:[3	3	14	20	bn:00064699n	http://dbpedia.org/resource/Promise	http://babelnet.org/rdf/s00064699n	1.0	0.25	0.013177159	BABELFY]
+RANK:=== COUNTER  Counter 14826 ===
+	Commitment: -0.0027700831024930744
+	Omen: -0.012345679012345678
+
+SELECTED:[Commitment]
+MATCH!
+SILVER:135	23521	2	10	0	4097158	It includes a promise to address U.S. concerns on nuclear weapons in exchange for lifting sanctions and eventual normalization of relations .	10687	include.v	1153	Inclusion	MANUAL	6525578	3	10	MiL	includes
+LINKED:[1	1	3	10	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14828 ===
+	Inclusion: -0.027777777777777776
+	Cause_to_be_included: -0.25
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:135	23521	2	10	0	4097158	It includes a promise to address U.S. concerns on nuclear weapons in exchange for lifting sanctions and eventual normalization of relations .	10787	exchange.n	1170	Exchange	MANUAL	6525581	69	76	MiL	exchange
+LINKED:[12	12	69	76	bn:01265145n	http://dbpedia.org/resource/Exchange_(organized_market)	http://babelnet.org/rdf/s01265145n	0.75	0.25	0.03513909	BABELFY]
+RANK:=== COUNTER  Counter 14834 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	10	0	4097158	It includes a promise to address U.S. concerns on nuclear weapons in exchange for lifting sanctions and eventual normalization of relations .	10652	nuclear	426	Weapon	MANUAL	6528278	50	56	EGp	nuclear
+LINKED:[9	9	50	56	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14840 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23521	3	10	0	4097159	To date , the United States has not responded to the offer .	12556	to	1594	Continued_state_of_affairs	MANUAL	6530596	3	6	EGp	date
+LINKED:[1	1	3	6	bn:00005111n		http://babelnet.org/rdf/s00005111n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14846 ===
+	Personal_relationship: -6.250000000000001E-4
+	Social_event_collective: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	10	0	4097160	However , intense U.S. pressure for Iran to prove it had no secret atomic weapons program culminated in a toughly worded UN resolution in September 2003 , prompting a walkout and subsequent freeze on nuclear inspections by Iran .	10724	program.n	1158	Project	MANUAL	6525586	82	88	MiL	program
+LINKED:[15	15	82	88	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14850 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23521	4	10	0	4097160	However , intense U.S. pressure for Iran to prove it had no secret atomic weapons program culminated in a toughly worded UN resolution in September 2003 , prompting a walkout and subsequent freeze on nuclear inspections by Iran .	11451	freeze.n	167	Activity_pause	MANUAL	6525588	190	195	MiL	freeze
+LINKED:[32	32	190	195	bn:00036409n	http://dbpedia.org/resource/Freezing	http://babelnet.org/rdf/s00036409n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14852 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	10	0	4097160	However , intense U.S. pressure for Iran to prove it had no secret atomic weapons program culminated in a toughly worded UN resolution in September 2003 , prompting a walkout and subsequent freeze on nuclear inspections by Iran .	10644	secret.a	1145	Secrecy_status	MANUAL	6527681	60	65	RLG	secret
+LINKED:[12	12	60	65	bn:00110253a		http://babelnet.org/rdf/s00110253a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14856 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	10	0	4097160	However , intense U.S. pressure for Iran to prove it had no secret atomic weapons program culminated in a toughly worded UN resolution in September 2003 , prompting a walkout and subsequent freeze on nuclear inspections by Iran .	532	word.v	35	Encoding	MANUAL	6527695	114	119	RLG	worded
+LINKED:[20	20	114	119	bn:00082799v		http://babelnet.org/rdf/s00082799v	1.0	0.1	0.0017189514	BABELFY]
+RANK:=== COUNTER  Counter 14858 ===
+	Expressing_publicly: -0.027777777777777776
+	Encoding: -0.04000000000000001
+
+SELECTED:[Encoding]
+MATCH!
+SILVER:135	23521	4	10	0	4097160	However , intense U.S. pressure for Iran to prove it had no secret atomic weapons program culminated in a toughly worded UN resolution in September 2003 , prompting a walkout and subsequent freeze on nuclear inspections by Iran .	12422	atomic	426	Weapon	MANUAL	6528453	67	72	EGp	atomic
+LINKED:[13	13	67	72	bn:00097696a		http://babelnet.org/rdf/s00097696a	0.8	0.1	0.0017189514	BABELFY]
+RANK:=== COUNTER  Counter 14860 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	10	0	4097160	However , intense U.S. pressure for Iran to prove it had no secret atomic weapons program culminated in a toughly worded UN resolution in September 2003 , prompting a walkout and subsequent freeze on nuclear inspections by Iran .	12108	prompt.v	381	Cause_to_start	MANUAL	6528609	155	163	RLG	prompting
+LINKED:[27	27	155	163	bn:00082313v		http://babelnet.org/rdf/s00082313v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14864 ===
+	Subjective_influence: -0.00591715976331361
+	Cause_to_start: -0.006944444444444444
+	Suasion: -0.0625
+
+SELECTED:[Cause_to_start]
+MATCH!
+SILVER:135	23521	4	10	0	4097160	However , intense U.S. pressure for Iran to prove it had no secret atomic weapons program culminated in a toughly worded UN resolution in September 2003 , prompting a walkout and subsequent freeze on nuclear inspections by Iran .	5586	prove.v	308	Reasoning	MANUAL	6533767	44	48	JKR	prove
+LINKED:[8	8	44	48	bn:00092113v		http://babelnet.org/rdf/s00092113v	0.9	0.15	0.0038676406	BABELFY]
+RANK:=== COUNTER  Counter 14866 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	11	0	4097161	In February 2004 , it was revealed that HEU traces detected by IAEA inspectors twelve months previously -- in at least two different sites -- were pure enough to produce nuclear weaponry .	10665	reveal.v	1146	Reveal_secret	MANUAL	6525591	26	33	MiL	revealed
+LINKED:[6	6	26	33	bn:00083912v		http://babelnet.org/rdf/s00083912v	0.85714287	0.23076923	0.092307694	BABELFY]
+RANK:=== COUNTER  Counter 14868 ===
+	Evidence: -0.0027700831024930744
+	Reveal_secret: -0.010000000000000002
+	Render_nonfunctional: -0.0625
+
+SELECTED:[Reveal_secret]
+MATCH!
+SILVER:135	23521	1	11	0	4097161	In February 2004 , it was revealed that HEU traces detected by IAEA inspectors twelve months previously -- in at least two different sites -- were pure enough to produce nuclear weaponry .	7523	produce.v	408	Manufacturing	MANUAL	6525593	162	168	MiL	produce
+LINKED:[29	29	162	168	bn:00084081v		http://babelnet.org/rdf/s00084081v	0.75	0.07692308	0.023076924	BABELFY]
+RANK:=== COUNTER  Counter 14870 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	11	0	4097161	In February 2004 , it was revealed that HEU traces detected by IAEA inspectors twelve months previously -- in at least two different sites -- were pure enough to produce nuclear weaponry .	4291	inspector.n	31	Scrutiny	MANUAL	6527824	68	77	RLG	inspectors
+LINKED:[13	13	68	77	bn:00046922n	http://dbpedia.org/resource/Inspector	http://babelnet.org/rdf/s00046922n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14874 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	11	0	4097161	In February 2004 , it was revealed that HEU traces detected by IAEA inspectors twelve months previously -- in at least two different sites -- were pure enough to produce nuclear weaponry .	1530	detect.v	70	Perception_experience	MANUAL	6527899	51	58	MiL	detected
+LINKED:[10	10	51	58	bn:00086708v		http://babelnet.org/rdf/s00086708v	1.0	0.15384616	0.10769231	BABELFY]
+RANK:=== COUNTER  Counter 14876 ===
+	Perception_active: -0.0011890606420927466
+	Coming_to_believe: -0.0027700831024930744
+	Perception_experience: -0.00591715976331361
+	Becoming_aware: -0.008264462809917356
+
+SELECTED:[Perception_experience]
+MATCH!
+SILVER:135	23521	1	11	0	4097161	In February 2004 , it was revealed that HEU traces detected by IAEA inspectors twelve months previously -- in at least two different sites -- were pure enough to produce nuclear weaponry .	11550	site.n	196	Locale_by_use	MANUAL	6527932	133	137	RLG	sites
+LINKED:[23	23	133	137	bn:00047172n	http://dbpedia.org/resource/Grothendieck_topology	http://babelnet.org/rdf/s00047172n	1.0	0.15384616	0.06153846	BABELFY]
+RANK:=== COUNTER  Counter 14878 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	11	0	4097162	In March 2004 , the revelation , combined with IAEA evidence that nuclear activities had been pursued on Iranian military bases , led to a first - ever acknowledgment by Defense Minister Ali Shamkhani that the Iranian military had produced centrifuges to enrich uranium .	7523	produce.v	408	Manufacturing	MANUAL	6525596	231	238	MiL	produced
+LINKED:[39	39	231	238	bn:00084069v		http://babelnet.org/rdf/s00084069v	0.8888889	0.11111111	0.029161604	BABELFY]
+RANK:=== COUNTER  Counter 14886 ===
+	Causation: -0.0025000000000000005
+	Cause_to_start: -0.006944444444444444
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	11	0	4097162	In March 2004 , the revelation , combined with IAEA evidence that nuclear activities had been pursued on Iranian military bases , led to a first - ever acknowledgment by Defense Minister Ali Shamkhani that the Iranian military had produced centrifuges to enrich uranium .	10645	enrich.v	620	Processing_materials	MANUAL	6525597	255	260	MiL	enrich
+LINKED:[42	42	255	260	bn:00087659v		http://babelnet.org/rdf/s00087659v	1.0	0.037037037	0.0060753343	BABELFY]
+RANK:=== COUNTER  Counter 14888 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	11	0	4097162	In March 2004 , the revelation , combined with IAEA evidence that nuclear activities had been pursued on Iranian military bases , led to a first - ever acknowledgment by Defense Minister Ali Shamkhani that the Iranian military had produced centrifuges to enrich uranium .	11610	iranian.a	1103	Origin	MANUAL	6528179	105	111	MiL	Iranian
+LINKED:[18	18	105	111	bn:16752786n	http://dbpedia.org/resource/Persian_people	http://babelnet.org/rdf/s16752786n	0.8333333	0.14814815	0.024301337	BABELFY]
+RANK:=== COUNTER  Counter 14898 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	11	0	4097162	In March 2004 , the revelation , combined with IAEA evidence that nuclear activities had been pursued on Iranian military bases , led to a first - ever acknowledgment by Defense Minister Ali Shamkhani that the Iranian military had produced centrifuges to enrich uranium .	11610	iranian.a	1103	Origin	MANUAL	6528180	210	216	MiL	Iranian
+LINKED:[36	36	210	216	bn:16752786n	http://dbpedia.org/resource/Persian_people	http://babelnet.org/rdf/s16752786n	0.8333333	0.14814815	0.024301337	BABELFY]
+RANK:=== COUNTER  Counter 14900 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	11	0	4097162	In March 2004 , the revelation , combined with IAEA evidence that nuclear activities had been pursued on Iranian military bases , led to a first - ever acknowledgment by Defense Minister Ali Shamkhani that the Iranian military had produced centrifuges to enrich uranium .	12390	military.a	1514	Military	MANUAL	6528350	113	120	RLG	military
+LINKED:[19	19	113	120	bn:00106724a		http://babelnet.org/rdf/s00106724a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14902 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	11	0	4097162	In March 2004 , the revelation , combined with IAEA evidence that nuclear activities had been pursued on Iranian military bases , led to a first - ever acknowledgment by Defense Minister Ali Shamkhani that the Iranian military had produced centrifuges to enrich uranium .	12375	acknowledgment.n	43	Statement	MANUAL	6528569	152	165	RLG	acknowledgment
+LINKED:[28	28	152	165	bn:00000937n		http://babelnet.org/rdf/s00000937n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14904 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	11	0	4097163	Iran continues to assert , however , that its nuclear program is for the generation of electricity alone .	685	assert.v	43	Statement	MANUAL	6525599	18	23	MiL	assert
+LINKED:[3	3	18	23	bn:00082849v		http://babelnet.org/rdf/s00082849v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14908 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	11	0	4097163	Iran continues to assert , however , that its nuclear program is for the generation of electricity alone .	10724	program.n	1158	Project	MANUAL	6525600	54	60	MiL	program
+LINKED:[10	10	54	60	bn:00064646n		http://babelnet.org/rdf/s00064646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14910 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	11	0	4097163	Iran continues to assert , however , that its nuclear program is for the generation of electricity alone .	11434	generation.n	280	Intentionally_create	MANUAL	6525601	73	82	MiL	generation
+LINKED:[14	14	73	82	bn:00037676n		http://babelnet.org/rdf/s00037676n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14912 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	12	0	4097164	In April 2004 , Iran vowed to step up cooperation with the IAEA , adding that it had not only suspended enrichment programs but also stopped producing and assembling related parts .	673	add.v	43	Statement	MANUAL	6525603	66	71	MiL	adding
+LINKED:[14	14	66	71	bn:00082317v		http://babelnet.org/rdf/s00082317v	0.71428573	0.15384616	0.04694836	BABELFY]
+RANK:=== COUNTER  Counter 14918 ===
+	Cause_change_of_position_on_a_scale: -0.0027700831024930744
+	Commutative_process: -0.1111111111111111
+	Cause_to_be_included: -0.25
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	12	0	4097164	In April 2004 , Iran vowed to step up cooperation with the IAEA , adding that it had not only suspended enrichment programs but also stopped producing and assembling related parts .	11312	stop.v	166	Activity_stop	MANUAL	6525605	133	139	MiL	stopped
+LINKED:[25	25	133	139	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14922 ===
+	Preventing: -0.010000000000000002
+	Halt: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	12	0	4097164	In April 2004 , Iran vowed to step up cooperation with the IAEA , adding that it had not only suspended enrichment programs but also stopped producing and assembling related parts .	10724	program.n	1158	Project	MANUAL	6525606	115	122	MiL	programs
+LINKED:[22	22	115	122	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14924 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23521	1	12	0	4097164	In April 2004 , Iran vowed to step up cooperation with the IAEA , adding that it had not only suspended enrichment programs but also stopped producing and assembling related parts .	7523	produce.v	408	Manufacturing	MANUAL	6525607	141	149	MiL	producing
+LINKED:[26	26	141	149	bn:00084069v		http://babelnet.org/rdf/s00084069v	0.72	0.23076923	0.08450704	BABELFY]
+RANK:=== COUNTER  Counter 14926 ===
+	Causation: -0.0025000000000000005
+	Cause_to_start: -0.006944444444444444
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	12	0	4097164	In April 2004 , Iran vowed to step up cooperation with the IAEA , adding that it had not only suspended enrichment programs but also stopped producing and assembling related parts .	4731	assemble.v	259	Building	MANUAL	6525608	155	164	MiL	assembling
+LINKED:[28	28	155	164	bn:00082845v		http://babelnet.org/rdf/s00082845v	1.0	0.15384616	0.037558686	BABELFY]
+RANK:=== COUNTER  Counter 14928 ===
+	Creating: -0.012345679012345678
+	Building: -0.012345679012345678
+
+SELECTED:[Building]
+MATCH!
+SILVER:135	23521	1	12	0	4097164	In April 2004 , Iran vowed to step up cooperation with the IAEA , adding that it had not only suspended enrichment programs but also stopped producing and assembling related parts .	2784	part.n	140	Part_whole	MANUAL	6525609	174	178	MiL	parts
+LINKED:[30	30	174	178	bn:00060828n		http://babelnet.org/rdf/s00060828n	1.0	0.23076923	0.056338027	BABELFY]
+RANK:=== COUNTER  Counter 14930 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	12	0	4097164	In April 2004 , Iran vowed to step up cooperation with the IAEA , adding that it had not only suspended enrichment programs but also stopped producing and assembling related parts .	12774	step	96	Cause_change_of_position_on_a_scale	MANUAL	6536719	30	33	RLG	step
+LINKED:[7	7	30	33	bn:00094337v		http://babelnet.org/rdf/s00094337v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14938 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	12	0	4097165	Iran agreed to an IAEA inspection schedule and to a mid - May 2004 deadline for the submission of complete details regarding its nuclear program and goals .	10724	program.n	1158	Project	MANUAL	6525612	137	143	MiL	program
+LINKED:[24	24	137	143	bn:00021497n	http://dbpedia.org/resource/Software	http://babelnet.org/rdf/s00021497n	0.71653545	0.5833333	0.25852272	BABELFY]
+RANK:=== COUNTER  Counter 14942 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	12	0	4097165	Iran agreed to an IAEA inspection schedule and to a mid - May 2004 deadline for the submission of complete details regarding its nuclear program and goals .	12158	mid.a	1470	Temporal_subregion	MANUAL	6527674	52	54	RLG	mid
+LINKED:[10	10	52	54	bn:00106700a		http://babelnet.org/rdf/s00106700a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14946 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	14	0	4097167	There is very little publicly available information to determine whether Iran is pursuing a biological weapon program .	10795	determine.v	900	Contingency	MANUAL	6525614	55	63	MiL	determine
+LINKED:[8	8	55	63	bn:00086714v		http://babelnet.org/rdf/s00086714v	0.8	0.25	0.026845638	BABELFY]
+RANK:=== COUNTER  Counter 14956 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	14	0	4097167	There is very little publicly available information to determine whether Iran is pursuing a biological weapon program .	10724	program.n	1158	Project	MANUAL	6525615	110	116	MiL	program
+LINKED:[16	16	110	116	bn:00064646n		http://babelnet.org/rdf/s00064646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14958 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	14	0	4097167	There is very little publicly available information to determine whether Iran is pursuing a biological weapon program .	10637	biological	426	Weapon	MANUAL	6527768	92	101	EGp	biological
+LINKED:[14	14	92	101	bn:00098418a		http://babelnet.org/rdf/s00098418a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14960 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	14	0	4097168	Although Iran acceded to the Geneva Protocol in 1929 and ratified the Biological and Toxin Weapons Convention ( BWC ) in 1973 , the U.S. government believes Iran began biological weapon efforts in the early to mid - 1980s , and that it continues to pursue an offensive biological weapon program linked to its civilian biotechnology activities .	2756	believe.v	141	Certainty	MANUAL	6525617	148	155	MiL	believes
+LINKED:[26	26	148	155	bn:00083369v		http://babelnet.org/rdf/s00083369v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14964 ===
+	Certainty: -0.008264462809917356
+	Trust: -0.015625
+
+SELECTED:[Certainty]
+MATCH!
+SILVER:135	23521	2	14	0	4097168	Although Iran acceded to the Geneva Protocol in 1929 and ratified the Biological and Toxin Weapons Convention ( BWC ) in 1973 , the U.S. government believes Iran began biological weapon efforts in the early to mid - 1980s , and that it continues to pursue an offensive biological weapon program linked to its civilian biotechnology activities .	4448	begin.v	146	Activity_start	MANUAL	6525618	162	166	MiL	began
+LINKED:[28	28	162	166	bn:00083347v		http://babelnet.org/rdf/s00083347v	0.7777778	0.060606062	0.0020408162	BABELFY]
+RANK:=== COUNTER  Counter 14966 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	14	0	4097168	Although Iran acceded to the Geneva Protocol in 1929 and ratified the Biological and Toxin Weapons Convention ( BWC ) in 1973 , the U.S. government believes Iran began biological weapon efforts in the early to mid - 1980s , and that it continues to pursue an offensive biological weapon program linked to its civilian biotechnology activities .	10187	effort.n	116	Attempt	MANUAL	6525619	186	192	MiL	efforts
+LINKED:[31	31	186	192	bn:00029899n	http://dbpedia.org/resource/Exertion	http://babelnet.org/rdf/s00029899n	0.81666666	0.21212122	0.007142857	BABELFY]
+RANK:=== COUNTER  Counter 14968 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	14	0	4097168	Although Iran acceded to the Geneva Protocol in 1929 and ratified the Biological and Toxin Weapons Convention ( BWC ) in 1973 , the U.S. government believes Iran began biological weapon efforts in the early to mid - 1980s , and that it continues to pursue an offensive biological weapon program linked to its civilian biotechnology activities .	5435	continue.v	164	Activity_ongoing	MANUAL	6525620	236	244	MiL	continues
+LINKED:[43	43	236	244	bn:00085714v		http://babelnet.org/rdf/s00085714v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14970 ===
+	Activity_ongoing: -0.02040816326530612
+	Process_continue: -0.04000000000000001
+
+SELECTED:[Activity_ongoing]
+MATCH!
+SILVER:135	23521	2	14	0	4097168	Although Iran acceded to the Geneva Protocol in 1929 and ratified the Biological and Toxin Weapons Convention ( BWC ) in 1973 , the U.S. government believes Iran began biological weapon efforts in the early to mid - 1980s , and that it continues to pursue an offensive biological weapon program linked to its civilian biotechnology activities .	10724	program.n	1158	Project	MANUAL	6525621	287	293	MiL	program
+LINKED:[50	50	287	293	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14972 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23521	2	14	0	4097168	Although Iran acceded to the Geneva Protocol in 1929 and ratified the Biological and Toxin Weapons Convention ( BWC ) in 1973 , the U.S. government believes Iran began biological weapon efforts in the early to mid - 1980s , and that it continues to pursue an offensive biological weapon program linked to its civilian biotechnology activities .	8989	linked.a	720	Cognitive_connection	MANUAL	6525642	295	300	MiL	linked
+LINKED:[51	51	295	300	bn:00082868v		http://babelnet.org/rdf/s00082868v	0.8	0.060606062	5.8309035E-4	BABELFY]
+RANK:=== COUNTER  Counter 14974 ===
+	Make_cognitive_connection: -0.0625
+	Relating_concepts: -0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	14	0	4097168	Although Iran acceded to the Geneva Protocol in 1929 and ratified the Biological and Toxin Weapons Convention ( BWC ) in 1973 , the U.S. government believes Iran began biological weapon efforts in the early to mid - 1980s , and that it continues to pursue an offensive biological weapon program linked to its civilian biotechnology activities .	12158	mid.a	1470	Temporal_subregion	MANUAL	6527675	210	212	RLG	mid
+LINKED:[36	36	210	212	bn:00106700a		http://babelnet.org/rdf/s00106700a	1.0	0.030303031	2.9154518E-4	BABELFY]
+RANK:=== COUNTER  Counter 14978 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	14	0	4097168	Although Iran acceded to the Geneva Protocol in 1929 and ratified the Biological and Toxin Weapons Convention ( BWC ) in 1973 , the U.S. government believes Iran began biological weapon efforts in the early to mid - 1980s , and that it continues to pursue an offensive biological weapon program linked to its civilian biotechnology activities .	10637	biological	426	Weapon	MANUAL	6527769	269	278	EGp	biological
+LINKED:[48	48	269	278	bn:00098417a		http://babelnet.org/rdf/s00098417a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14980 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	14	0	4097168	Although Iran acceded to the Geneva Protocol in 1929 and ratified the Biological and Toxin Weapons Convention ( BWC ) in 1973 , the U.S. government believes Iran began biological weapon efforts in the early to mid - 1980s , and that it continues to pursue an offensive biological weapon program linked to its civilian biotechnology activities .	10637	biological	426	Weapon	MANUAL	6527770	168	177	EGp	biological
+LINKED:[29	29	168	177	bn:00098417a		http://babelnet.org/rdf/s00098417a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14984 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	14	0	4097168	Although Iran acceded to the Geneva Protocol in 1929 and ratified the Biological and Toxin Weapons Convention ( BWC ) in 1973 , the U.S. government believes Iran began biological weapon efforts in the early to mid - 1980s , and that it continues to pursue an offensive biological weapon program linked to its civilian biotechnology activities .	12156	early.a	1470	Temporal_subregion	MANUAL	6527792	201	205	RLG	early
+LINKED:[34	34	201	205	bn:00101935a		http://babelnet.org/rdf/s00101935a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14988 ===
+	Relative_time: -0.0010405827263267429
+	Temporal_collocation: -0.001736111111111111
+	Temporal_subregion: -0.015625
+
+SELECTED:[Temporal_subregion]
+MATCH!
+SILVER:135	23521	2	14	0	4097168	Although Iran acceded to the Geneva Protocol in 1929 and ratified the Biological and Toxin Weapons Convention ( BWC ) in 1973 , the U.S. government believes Iran began biological weapon efforts in the early to mid - 1980s , and that it continues to pursue an offensive biological weapon program linked to its civilian biotechnology activities .	11663	biotechnology.n	421	Artifact	MANUAL	6527869	318	330	MiL	biotechnology
+LINKED:[55	55	318	330	bn:00010583n	http://dbpedia.org/resource/Biotechnology	http://babelnet.org/rdf/s00010583n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14992 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	14	0	4097168	Although Iran acceded to the Geneva Protocol in 1929 and ratified the Biological and Toxin Weapons Convention ( BWC ) in 1973 , the U.S. government believes Iran began biological weapon efforts in the early to mid - 1980s , and that it continues to pursue an offensive biological weapon program linked to its civilian biotechnology activities .	12182	government.n	73	Leadership	MANUAL	6528019	137	146	RLG	government
+LINKED:[25	25	137	146	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 14994 ===
+	Leadership: -1.8765246762994932E-4
+	Organization: -0.00510204081632653
+	Law: -0.015625
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:135	23521	2	14	0	4097168	Although Iran acceded to the Geneva Protocol in 1929 and ratified the Biological and Toxin Weapons Convention ( BWC ) in 1973 , the U.S. government believes Iran began biological weapon efforts in the early to mid - 1980s , and that it continues to pursue an offensive biological weapon program linked to its civilian biotechnology activities .	12579	accede.v	1151	Sign_agreement	MANUAL	6536767	14	20	RLG	acceded
+LINKED:[2	2	14	20	bn:00082192v		http://babelnet.org/rdf/s00082192v	1.0	0.060606062	5.8309035E-4	BABELFY]
+RANK:=== COUNTER  Counter 14996 ===
+	Giving_in: -0.027777777777777776
+	Sign_agreement: -0.0625
+
+SELECTED:[Sign_agreement]
+MATCH!
+SILVER:135	23521	3	14	0	4097169	The United States alleges that Iran may have started to develop small quantities of agent , possibly including mycotoxins , ricin , and the smallpox virus .	4447	start.v	146	Activity_start	MANUAL	6525646	45	51	MiL	started
+LINKED:[8	8	45	51	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15000 ===
+	Activity_start: -0.015625
+	Process_start: -0.027777777777777776
+	Setting_out: -0.1111111111111111
+
+SELECTED:[Activity_start]
+MATCH!
+SILVER:135	23521	3	14	0	4097169	The United States alleges that Iran may have started to develop small quantities of agent , possibly including mycotoxins , ricin , and the smallpox virus .	11608	agent.n	1322	Active_substance	MANUAL	6527616	84	88	RLG	agent
+LINKED:[14	14	84	88	bn:00001972n		http://babelnet.org/rdf/s00001972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15004 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	14	0	4097169	The United States alleges that Iran may have started to develop small quantities of agent , possibly including mycotoxins , ricin , and the smallpox virus .	10687	include.v	1153	Inclusion	MANUAL	6527690	101	109	RLG	including
+LINKED:[17	17	101	109	bn:00089662v		http://babelnet.org/rdf/s00089662v	0.85714287	0.15384616	0.0047581284	BABELFY]
+RANK:=== COUNTER  Counter 15006 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	14	0	4097169	The United States alleges that Iran may have started to develop small quantities of agent , possibly including mycotoxins , ricin , and the smallpox virus .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6528241	56	62	RLG	develop
+LINKED:[10	10	56	62	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15008 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	14	0	4097170	Iran strongly denies acquiring or producing biological weapons .	18238	deny.v	2974	Affirm_or_deny	MANUAL	6525648	14	19	MiL	denies
+LINKED:[2	2	14	19	bn:00086591v		http://babelnet.org/rdf/s00086591v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15010 ===
+	Statement: -2.44140625E-4
+	Prevent_from_having: -0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	14	0	4097170	Iran strongly denies acquiring or producing biological weapons .	7523	produce.v	408	Manufacturing	MANUAL	6525650	34	42	MiL	producing
+LINKED:[5	5	34	42	bn:00082278v		http://babelnet.org/rdf/s00082278v	0.71428573	0.25	0.10869565	BABELFY]
+RANK:=== COUNTER  Counter 15014 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	14	0	4097170	Iran strongly denies acquiring or producing biological weapons .	10637	biological	426	Weapon	MANUAL	6528279	44	53	EGp	biological
+LINKED:[6	6	44	53	bn:00098418a		http://babelnet.org/rdf/s00098418a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15016 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	16	0	4097172	There is limited open - source information available concerning Iran 's chemical weapons program .	6544	concerning.prep	373	Topic	MANUAL	6525653	53	62	MiL	concerning
+LINKED:[8	8	53	62	bn:00083240v		http://babelnet.org/rdf/s00083240v	1.0	0.22222222	0.011627907	BABELFY]
+RANK:=== COUNTER  Counter 15024 ===
+	Topic: -0.027777777777777776
+	Cause_emotion: -0.04000000000000001
+
+SELECTED:[Topic]
+MATCH!
+SILVER:135	23521	1	16	0	4097172	There is limited open - source information available concerning Iran 's chemical weapons program .	10724	program.n	1158	Project	MANUAL	6525654	89	95	MiL	program
+LINKED:[13	13	89	95	bn:00064646n		http://babelnet.org/rdf/s00064646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15026 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	16	0	4097172	There is limited open - source information available concerning Iran 's chemical weapons program .	10635	chemical	426	Weapon	MANUAL	6528362	72	79	EGp	chemical
+LINKED:[11	11	72	79	bn:00099577a		http://babelnet.org/rdf/s00099577a	1.0	0.11111111	0.0029069767	BABELFY]
+RANK:=== COUNTER  Counter 15028 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	16	0	4097172	There is limited open - source information available concerning Iran 's chemical weapons program .	12537	information.n	1591	Information	MANUAL	6530515	31	41	RLG	information
+LINKED:[6	6	31	41	bn:00046705n	http://dbpedia.org/resource/Information	http://babelnet.org/rdf/s00046705n	0.864	0.6666667	0.3139535	BABELFY]
+RANK:=== COUNTER  Counter 15032 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	16	0	4097173	Although Iran ratified the Chemical Weapons Convention ( CWC ) in November 1997 , the United States believes that Iran has maintained a chemical weapons program since 1984 , including production of sarin , mustard , phosgene , and hydrocyanic acid .	2756	believe.v	141	Certainty	MANUAL	6525656	100	107	MiL	believes
+LINKED:[17	17	100	107	bn:00083369v		http://babelnet.org/rdf/s00083369v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15036 ===
+	Certainty: -0.008264462809917356
+	Trust: -0.015625
+
+SELECTED:[Certainty]
+MATCH!
+SILVER:135	23521	2	16	0	4097173	Although Iran ratified the Chemical Weapons Convention ( CWC ) in November 1997 , the United States believes that Iran has maintained a chemical weapons program since 1984 , including production of sarin , mustard , phosgene , and hydrocyanic acid .	5434	maintain.v	164	Activity_ongoing	MANUAL	6525657	123	132	MiL	maintained
+LINKED:[21	21	123	132	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15038 ===
+	Activity_ongoing: -0.02040816326530612
+	Cause_to_continue: -1.0
+
+SELECTED:[Activity_ongoing]
+MATCH!
+SILVER:135	23521	2	16	0	4097173	Although Iran ratified the Chemical Weapons Convention ( CWC ) in November 1997 , the United States believes that Iran has maintained a chemical weapons program since 1984 , including production of sarin , mustard , phosgene , and hydrocyanic acid .	10724	program.n	1158	Project	MANUAL	6525658	153	159	MiL	program
+LINKED:[25	25	153	159	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15040 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23521	2	16	0	4097173	Although Iran ratified the Chemical Weapons Convention ( CWC ) in November 1997 , the United States believes that Iran has maintained a chemical weapons program since 1984 , including production of sarin , mustard , phosgene , and hydrocyanic acid .	10687	include.v	1153	Inclusion	MANUAL	6527691	174	182	RLG	including
+LINKED:[29	29	174	182	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15044 ===
+	Inclusion: -0.027777777777777776
+	Cause_to_be_included: -0.25
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:135	23521	3	16	0	4097174	According to U.S. government estimates , Iran can produce 1,000 metric tons of agent per year and may have a stockpile of at least several thousand metric tons of weaponized and bulk agent .	7523	produce.v	408	Manufacturing	MANUAL	6525662	50	56	MiL	produce
+LINKED:[8	8	50	56	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15052 ===
+	Behind_the_scenes: -0.008264462809917356
+	Manufacturing: -0.015625
+
+SELECTED:[Manufacturing]
+MATCH!
+SILVER:135	23521	3	16	0	4097174	According to U.S. government estimates , Iran can produce 1,000 metric tons of agent per year and may have a stockpile of at least several thousand metric tons of weaponized and bulk agent .	11608	agent.n	1322	Active_substance	MANUAL	6525666	183	187	MiL	agent
+LINKED:[32	32	183	187	bn:00001972n		http://babelnet.org/rdf/s00001972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15054 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	16	0	4097174	According to U.S. government estimates , Iran can produce 1,000 metric tons of agent per year and may have a stockpile of at least several thousand metric tons of weaponized and bulk agent .	11608	agent.n	1322	Active_substance	MANUAL	6527617	79	83	RLG	agent
+LINKED:[13	13	79	83	bn:00001972n		http://babelnet.org/rdf/s00001972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15056 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	16	0	4097174	According to U.S. government estimates , Iran can produce 1,000 metric tons of agent per year and may have a stockpile of at least several thousand metric tons of weaponized and bulk agent .	3878	year.n	224	Measure_duration	MANUAL	6528018	89	92	MiL	year
+LINKED:[15	15	89	92	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15058 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:135	23521	3	16	0	4097174	According to U.S. government estimates , Iran can produce 1,000 metric tons of agent per year and may have a stockpile of at least several thousand metric tons of weaponized and bulk agent .	12291	estimate.n	1516	Estimated_value	MANUAL	6533835	29	37	MJE	estimates
+LINKED:[4	4	29	37	bn:00005164n	http://dbpedia.org/resource/Estimation	http://babelnet.org/rdf/s00005164n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15062 ===
+	Estimating: -0.1111111111111111
+	Estimated_value: -1.0
+
+SELECTED:[Estimated_value]
+MATCH!
+SILVER:135	23521	3	16	0	4097174	According to U.S. government estimates , Iran can produce 1,000 metric tons of agent per year and may have a stockpile of at least several thousand metric tons of weaponized and bulk agent .	12406	metric	147	Measure_mass	MANUAL	6533845	64	69	EGp	metric
+LINKED:[10	10	64	69	bn:00106677a		http://babelnet.org/rdf/s00106677a	1.0	0.0625	7.390983E-4	BABELFY]
+RANK:=== COUNTER  Counter 15064 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	16	0	4097174	According to U.S. government estimates , Iran can produce 1,000 metric tons of agent per year and may have a stockpile of at least several thousand metric tons of weaponized and bulk agent .	12406	metric	147	Measure_mass	MANUAL	6533845	71	74	EGp	tons
+LINKED:[11	11	71	74	bn:00057373n	http://dbpedia.org/resource/Net_tonnage	http://babelnet.org/rdf/s00057373n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15066 ===
+	Quantity: -8.163265306122448E-4
+	Measure_mass: -0.02040816326530612
+
+SELECTED:[Measure_mass]
+MATCH!
+SILVER:135	23521	3	16	0	4097174	According to U.S. government estimates , Iran can produce 1,000 metric tons of agent per year and may have a stockpile of at least several thousand metric tons of weaponized and bulk agent .	12406	metric	147	Measure_mass	MANUAL	6533846	148	153	EGp	metric
+LINKED:[26	26	148	153	bn:00106677a		http://babelnet.org/rdf/s00106677a	1.0	0.0625	7.390983E-4	BABELFY]
+RANK:=== COUNTER  Counter 15068 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	16	0	4097174	According to U.S. government estimates , Iran can produce 1,000 metric tons of agent per year and may have a stockpile of at least several thousand metric tons of weaponized and bulk agent .	12406	metric	147	Measure_mass	MANUAL	6533846	155	158	EGp	tons
+LINKED:[27	27	155	158	bn:00057373n	http://dbpedia.org/resource/Net_tonnage	http://babelnet.org/rdf/s00057373n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15070 ===
+	Quantity: -8.163265306122448E-4
+	Measure_mass: -0.02040816326530612
+
+SELECTED:[Measure_mass]
+MATCH!
+SILVER:135	23521	4	16	0	4097175	Iran strongly denies acquiring or producing chemical weapons .	18238	deny.v	2974	Affirm_or_deny	MANUAL	6525667	14	19	MiL	denies
+LINKED:[2	2	14	19	bn:00086591v		http://babelnet.org/rdf/s00086591v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15072 ===
+	Statement: -2.44140625E-4
+	Prevent_from_having: -0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	16	0	4097175	Iran strongly denies acquiring or producing chemical weapons .	7523	produce.v	408	Manufacturing	MANUAL	6525669	34	42	MiL	producing
+LINKED:[5	5	34	42	bn:00084069v		http://babelnet.org/rdf/s00084069v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15076 ===
+	Causation: -0.0025000000000000005
+	Cause_to_start: -0.006944444444444444
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	16	0	4097175	Iran strongly denies acquiring or producing chemical weapons .	10635	chemical	426	Weapon	MANUAL	6528281	44	51	EGp	chemical
+LINKED:[6	6	44	51	bn:00099578a		http://babelnet.org/rdf/s00099578a	1.0	0.2	0.04	BABELFY]
+RANK:=== COUNTER  Counter 15078 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	18	0	4097177	Iran possesses one of the largest missile inventories in the Middle East and has acquired complete missile systems and developed an infrastructure to build missiles indigenously .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6527814	119	127	RLG	developed
+LINKED:[19	19	119	127	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15098 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	18	0	4097177	Iran possesses one of the largest missile inventories in the Middle East and has acquired complete missile systems and developed an infrastructure to build missiles indigenously .	11690	system.n	106	Gizmo	MANUAL	6528160	107	113	MiL	systems
+LINKED:[17	17	107	113	bn:00075759n		http://babelnet.org/rdf/s00075759n	0.7407407	0.26666668	0.034305315	BABELFY]
+RANK:=== COUNTER  Counter 15100 ===
+	Gizmo: -0.0044444444444444444
+	System: -0.1111111111111111
+
+SELECTED:[Gizmo]
+MATCH!
+SILVER:135	23521	1	18	0	4097177	Iran possesses one of the largest missile inventories in the Middle East and has acquired complete missile systems and developed an infrastructure to build missiles indigenously .	12268	inventory.n	1511	Store	MANUAL	6528216	42	52	MiL	inventories
+LINKED:[7	7	42	52	bn:00047333n	http://dbpedia.org/resource/Inventory	http://babelnet.org/rdf/s00047333n	1.0	0.06666667	0.0017152659	BABELFY]
+RANK:=== COUNTER  Counter 15102 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	18	0	4097179	Meanwhile , Iran has also developed short - range artillery rockets and is producing the Scud-B and the Scud-C -- called the Shehab-1 and Shehab-2 , respectively .	7523	produce.v	408	Manufacturing	MANUAL	6525675	75	83	MiL	producing
+LINKED:[13	13	75	83	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15106 ===
+	Behind_the_scenes: -0.008264462809917356
+	Manufacturing: -0.015625
+
+SELECTED:[Manufacturing]
+MATCH!
+SILVER:135	23521	3	18	0	4097179	Meanwhile , Iran has also developed short - range artillery rockets and is producing the Scud-B and the Scud-C -- called the Shehab-1 and Shehab-2 , respectively .	11210	call.v	1253	Referring_by_name	MANUAL	6525676	114	119	MiL	called
+LINKED:[20	20	114	119	bn:00084385v		http://babelnet.org/rdf/s00084385v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15108 ===
+	Being_named: -0.0027700831024930744
+	Referring_by_name: -0.04000000000000001
+	Name_conferral: -0.04000000000000001
+	Labeling: -0.0625
+	Claim_ownership: -0.0625
+	Simple_naming: -0.25
+
+SELECTED:[Referring_by_name]
+MATCH!
+SILVER:135	23521	3	18	0	4097179	Meanwhile , Iran has also developed short - range artillery rockets and is producing the Scud-B and the Scud-C -- called the Shehab-1 and Shehab-2 , respectively .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6527815	26	34	RLG	developed
+LINKED:[5	5	26	34	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15110 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	18	0	4097179	Meanwhile , Iran has also developed short - range artillery rockets and is producing the Scud-B and the Scud-C -- called the Shehab-1 and Shehab-2 , respectively .	11749	range.n	1350	Range	MANUAL	6527910	44	48	RLG	range
+LINKED:[8	8	44	48	bn:00003268n	http://dbpedia.org/resource/Range_(music)	http://babelnet.org/rdf/s00003268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15112 ===
+	Diversity: -0.00390625
+	Scope: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	18	0	4097179	Meanwhile , Iran has also developed short - range artillery rockets and is producing the Scud-B and the Scud-C -- called the Shehab-1 and Shehab-2 , respectively .	18491	short.a	965	Measurable_attributes	MANUAL	6527979	36	40	MiL	short
+LINKED:[6	6	36	40	bn:00110561a		http://babelnet.org/rdf/s00110561a	1.0	0.09090909	0.007556675	BABELFY]
+RANK:=== COUNTER  Counter 15114 ===
+	Dimension: -8.650519031141869E-4
+	Duration_attribute: -0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	18	0	4097179	Meanwhile , Iran has also developed short - range artillery rockets and is producing the Scud-B and the Scud-C -- called the Shehab-1 and Shehab-2 , respectively .	12330	Scud-B.n	426	Weapon	MANUAL	6528608	89	94	RLG	Scud-B
+LINKED:[15	15	89	94	bn:01613915n	http://dbpedia.org/resource/Scud	http://babelnet.org/rdf/s01613915n	1.0	0.36363637	0.07052897	BABELFY]
+RANK:=== COUNTER  Counter 15116 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	3	18	0	4097179	Meanwhile , Iran has also developed short - range artillery rockets and is producing the Scud-B and the Scud-C -- called the Shehab-1 and Shehab-2 , respectively .	12652	artillery.n	426	Weapon	MANUAL	6536630	50	58	RLG	artillery
+LINKED:[9	9	50	58	bn:00006173n	http://dbpedia.org/resource/Artillery	http://babelnet.org/rdf/s00006173n	0.8	0.36363637	0.08060453	BABELFY]
+RANK:=== COUNTER  Counter 15118 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	18	0	4097180	Iran recently flight - tested the 1,300 km - range Shehab-3 , which is based on the North Korean Nodong .	11749	range.n	1350	Range	MANUAL	6527918	45	49	RLG	range
+LINKED:[9	9	45	49	bn:00003268n	http://dbpedia.org/resource/Range_(music)	http://babelnet.org/rdf/s00003268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15120 ===
+	Diversity: -0.00390625
+	Scope: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	18	0	4097180	Iran recently flight - tested the 1,300 km - range Shehab-3 , which is based on the North Korean Nodong .	13084	flight	1301	Operational_testing	MANUAL	6534398	14	19	RLG	flight
+LINKED:[2	2	14	19	bn:00035206n		http://babelnet.org/rdf/s00035206n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15122 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	4	18	0	4097180	Iran recently flight - tested the 1,300 km - range Shehab-3 , which is based on the North Korean Nodong .	13084	flight	1301	Operational_testing	MANUAL	6534398	23	28	RLG	tested
+LINKED:[4	4	23	28	bn:00094889v		http://babelnet.org/rdf/s00094889v	1.0	0.125	0.0064935065	BABELFY]
+RANK:=== COUNTER  Counter 15124 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	6	18	0	4097182	Following this most recent flight - test , the Shehab-3 was placed in service and revolutionary guard units were officially armed with the missiles .	1749	following.a	81	Relative_time	MANUAL	6525680	0	8	MiL	Following
+LINKED:[0	0	0	8	bn:00088428v		http://babelnet.org/rdf/s00088428v	0.72727275	0.15384616	0.034782607	BABELFY]
+RANK:=== COUNTER  Counter 15130 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	6	18	0	4097182	Following this most recent flight - test , the Shehab-3 was placed in service and revolutionary guard units were officially armed with the missiles .	11463	test.n	1301	Operational_testing	MANUAL	6525681	36	39	MiL	test
+LINKED:[6	6	36	39	bn:00076647n		http://babelnet.org/rdf/s00076647n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15132 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	6	18	0	4097182	Following this most recent flight - test , the Shehab-3 was placed in service and revolutionary guard units were officially armed with the missiles .	7930	armed.a	470	Bearing_arms	MANUAL	6525682	124	128	MiL	armed
+LINKED:[20	20	124	128	bn:00082764v		http://babelnet.org/rdf/s00082764v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15134 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	6	18	0	4097182	Following this most recent flight - test , the Shehab-3 was placed in service and revolutionary guard units were officially armed with the missiles .	12255	flight	1301	Operational_testing	MANUAL	6528171	27	32	MiL	flight
+LINKED:[4	4	27	32	bn:00035206n		http://babelnet.org/rdf/s00035206n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15138 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	6	18	0	4097182	Following this most recent flight - test , the Shehab-3 was placed in service and revolutionary guard units were officially armed with the missiles .	12255	flight	1301	Operational_testing	MANUAL	6528171	36	39	MiL	test
+LINKED:[6	6	36	39	bn:00076647n		http://babelnet.org/rdf/s00076647n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15140 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	7	18	0	4097183	There are conflicting reports about the development of even longer - ranged missiles , such as the Shehab-4 and the Kosar intercontinental ballistic missile ( ICBM ) .	747	report.n	43	Statement	MANUAL	6525683	22	28	MiL	reports
+LINKED:[3	3	22	28	bn:00011468n	http://dbpedia.org/resource/Explosion	http://babelnet.org/rdf/s00011468n	0.84	0.375	0.04	BABELFY]
+RANK:=== COUNTER  Counter 15142 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	7	18	0	4097183	There are conflicting reports about the development of even longer - ranged missiles , such as the Shehab-4 and the Kosar intercontinental ballistic missile ( ICBM ) .	10636	ballistic	426	Weapon	MANUAL	6536725	139	147	EGp	ballistic
+LINKED:[22	22	139	147	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.375	0.028571429	BABELFY]
+RANK:=== COUNTER  Counter 15146 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	8	18	0	4097184	U.S. intelligence agencies assess that barring acquisition of a complete system or major subsystem from North Korea , Iran is unlikely to launch an ICBM or satellite launch vehicle ( SLV ) before mid - decade .	7501	acquisition	179	Getting	MANUAL	6525685	47	57	MiL	acquisition
+LINKED:[6	6	47	57	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15150 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	8	18	0	4097184	U.S. intelligence agencies assess that barring acquisition of a complete system or major subsystem from North Korea , Iran is unlikely to launch an ICBM or satellite launch vehicle ( SLV ) before mid - decade .	2287	unlikely.a	114	Likelihood	MANUAL	6525687	126	133	MiL	unlikely
+LINKED:[20	20	126	133	bn:00104703a		http://babelnet.org/rdf/s00104703a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15152 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	8	18	0	4097184	U.S. intelligence agencies assess that barring acquisition of a complete system or major subsystem from North Korea , Iran is unlikely to launch an ICBM or satellite launch vehicle ( SLV ) before mid - decade .	12158	mid.a	1470	Temporal_subregion	MANUAL	6527676	196	198	RLG	mid
+LINKED:[33	33	196	198	bn:00106700a		http://babelnet.org/rdf/s00106700a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15156 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	8	18	0	4097184	U.S. intelligence agencies assess that barring acquisition of a complete system or major subsystem from North Korea , Iran is unlikely to launch an ICBM or satellite launch vehicle ( SLV ) before mid - decade .	12538	intelligence.n	1591	Information	MANUAL	6537067	5	16	RLG	intelligence
+LINKED:[1	1	5	16	bn:00047025n	http://dbpedia.org/resource/Intelligence	http://babelnet.org/rdf/s00047025n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15164 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	9	18	0	4097185	At present , Iran 's capabilities in missile production have kept in line with its doctrine of protection from regional threats .	10702	capability.n	990	Capability	MANUAL	6525689	21	32	MiL	capabilities
+LINKED:[5	5	21	32	bn:01670049n	http://dbpedia.org/resource/Capability_(systems_engineering)	http://babelnet.org/rdf/s01670049n	1.0	0.11111111	0.006134969	BABELFY]
+RANK:=== COUNTER  Counter 15166 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	10	18	0	4097186	Iran has developed new missiles including the Ra'ad and Kosar and continues to test its Nodong based , Shehab-3 missile .	5435	continue.v	164	Activity_ongoing	MANUAL	6525691	66	74	MiL	continues
+LINKED:[12	12	66	74	bn:00085715v		http://babelnet.org/rdf/s00085715v	1.0	0.1	0.009345794	BABELFY]
+RANK:=== COUNTER  Counter 15174 ===
+	Self_motion: -8.734387282732115E-5
+	Process_continue: -0.04000000000000001
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	10	18	0	4097186	Iran has developed new missiles including the Ra'ad and Kosar and continues to test its Nodong based , Shehab-3 missile .	11462	test.v	1301	Operational_testing	MANUAL	6525692	79	82	MiL	test
+LINKED:[14	14	79	82	bn:00087731v		http://babelnet.org/rdf/s00087731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15176 ===
+	Examination: -0.0625
+	Operational_testing: -0.1111111111111111
+	Trying_out: -0.25
+
+SELECTED:[Operational_testing]
+MATCH!
+SILVER:135	23521	10	18	0	4097186	Iran has developed new missiles including the Ra'ad and Kosar and continues to test its Nodong based , Shehab-3 missile .	10687	include.v	1153	Inclusion	MANUAL	6527652	32	40	RLG	including
+LINKED:[5	5	32	40	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15180 ===
+	Inclusion: -0.027777777777777776
+	Cause_to_be_included: -0.25
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:135	23521	10	18	0	4097186	Iran has developed new missiles including the Ra'ad and Kosar and continues to test its Nodong based , Shehab-3 missile .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6527654	9	17	RLG	developed
+LINKED:[2	2	9	17	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15184 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	10	18	0	4097186	Iran has developed new missiles including the Ra'ad and Kosar and continues to test its Nodong based , Shehab-3 missile .	12566	new.a	1597	Familiarity	MANUAL	6530492	19	21	RLG	new
+LINKED:[3	3	19	21	bn:00107267a		http://babelnet.org/rdf/s00107267a	1.0	0.1	0.004672897	BABELFY]
+RANK:=== COUNTER  Counter 15186 ===
+	Age: -0.02040816326530612
+	Familiarity: -0.04000000000000001
+
+SELECTED:[Familiarity]
+MATCH!
+SILVER:135	23521	1	19	0	4097187	On October 20, 2004 , Iranian Defense Minister Ali Shamkhani confirmed the latest successful test of Iran 's Shehab-3 with a 2,000 - kilometer range in front of observers .	11020	confirm.v	43	Statement	MANUAL	6525693	61	69	MiL	confirmed
+LINKED:[11	11	61	69	bn:00082434v		http://babelnet.org/rdf/s00082434v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15188 ===
+	Evidence: -0.0027700831024930744
+	Verification: -0.02040816326530612
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	19	0	4097187	On October 20, 2004 , Iranian Defense Minister Ali Shamkhani confirmed the latest successful test of Iran 's Shehab-3 with a 2,000 - kilometer range in front of observers .	11463	test.n	1301	Operational_testing	MANUAL	6525694	93	96	MiL	test
+LINKED:[15	15	93	96	bn:00076647n		http://babelnet.org/rdf/s00076647n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15190 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	19	0	4097187	On October 20, 2004 , Iranian Defense Minister Ali Shamkhani confirmed the latest successful test of Iran 's Shehab-3 with a 2,000 - kilometer range in front of observers .	11837	successful.a	1389	Successful_action	MANUAL	6527711	82	91	RLG	successful
+LINKED:[14	14	82	91	bn:00111409a		http://babelnet.org/rdf/s00111409a	1.0	0.05882353	0.0017241379	BABELFY]
+RANK:=== COUNTER  Counter 15192 ===
+	Success_or_failure: -0.008264462809917356
+	Successful_action: -0.010000000000000002
+
+SELECTED:[Successful_action]
+MATCH!
+SILVER:135	23521	1	19	0	4097187	On October 20, 2004 , Iranian Defense Minister Ali Shamkhani confirmed the latest successful test of Iran 's Shehab-3 with a 2,000 - kilometer range in front of observers .	11749	range.n	1350	Range	MANUAL	6527919	143	147	RLG	range
+LINKED:[25	25	143	147	bn:00003268n	http://dbpedia.org/resource/Range_(music)	http://babelnet.org/rdf/s00003268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15196 ===
+	Diversity: -0.00390625
+	Scope: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	20	0	4097188	Iran has openly declared its ability to mass produce the Shehab-3 medium - range missile .	7523	produce.v	408	Manufacturing	MANUAL	6525697	45	51	MiL	produce
+LINKED:[8	8	45	51	bn:00084069v		http://babelnet.org/rdf/s00084069v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15202 ===
+	Causation: -0.0025000000000000005
+	Cause_to_start: -0.006944444444444444
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	1	20	0	4097188	Iran has openly declared its ability to mass produce the Shehab-3 medium - range missile .	11749	range.n	1350	Range	MANUAL	6527656	75	79	RLG	range
+LINKED:[13	13	75	79	bn:00003268n	http://dbpedia.org/resource/Range_(music)	http://babelnet.org/rdf/s00003268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15206 ===
+	Diversity: -0.00390625
+	Scope: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	20	0	4097189	Intelligence reports regarding Iran 's expansion of capabilities and persistent interest in acquiring new technologies have led the United States to seek other options in dealing with Iran as a regional threat .	5845	report.n	298	Text	MANUAL	6525698	13	19	MiL	reports
+LINKED:[1	1	13	19	bn:00085907v		http://babelnet.org/rdf/s00085907v	1.0	0.09090909	8.016032E-4	BABELFY]
+RANK:=== COUNTER  Counter 15208 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	20	0	4097189	Intelligence reports regarding Iran 's expansion of capabilities and persistent interest in acquiring new technologies have led the United States to seek other options in dealing with Iran as a regional threat .	6541	regarding.prep	373	Topic	MANUAL	6525699	21	29	MiL	regarding
+LINKED:[2	2	21	29	bn:00085652v		http://babelnet.org/rdf/s00085652v	1.0	0.18181819	0.0032064128	BABELFY]
+RANK:=== COUNTER  Counter 15210 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	20	0	4097189	Intelligence reports regarding Iran 's expansion of capabilities and persistent interest in acquiring new technologies have led the United States to seek other options in dealing with Iran as a regional threat .	4915	seek.v	269	Seeking	MANUAL	6525704	149	152	MiL	seek
+LINKED:[21	21	149	152	bn:00093452v		http://babelnet.org/rdf/s00093452v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15216 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23521	2	20	0	4097189	Intelligence reports regarding Iran 's expansion of capabilities and persistent interest in acquiring new technologies have led the United States to seek other options in dealing with Iran as a regional threat .	12318	deal.v	1523	Resolve_problem	MANUAL	6528222	171	177	MiL	dealing
+LINKED:[25	25	171	177	bn:00082339v		http://babelnet.org/rdf/s00082339v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15222 ===
+	Speak_on_topic: -0.00591715976331361
+	Resolve_problem: -0.02040816326530612
+	Topic: -0.027777777777777776
+
+SELECTED:[Resolve_problem]
+MATCH!
+SILVER:135	23521	2	20	0	4097189	Intelligence reports regarding Iran 's expansion of capabilities and persistent interest in acquiring new technologies have led the United States to seek other options in dealing with Iran as a regional threat .	12563	new.a	972	Age	MANUAL	6530493	102	104	RLG	new
+LINKED:[13	13	102	104	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15226 ===
+	Age: -0.02040816326530612
+	Familiarity: -0.04000000000000001
+
+SELECTED:[Age]
+MATCH!
+filename	NTI__Iran_Introduction.xml
+docAnnotations	511
+docManual	435
+docUnannotated	76
+sentences	62
+paragraphs	20
+Overlapping	414
+Disambiguated	101
+TP	78
+TN	76
+FP	0
+FN	334
+P	1.0
+R	0.18932038834951456
+F	0.31836734693877555
+A	0.3155737704918033

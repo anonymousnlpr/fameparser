@@ -1,0 +1,441 @@
+SILVER:246	25620	1	1	0	4165030	Fire burns at Barangaroo construction site , Sydney , Australia	17450	burn.v	2824	Fire_burning	MANUAL	6669444	5	9	MJE	burns
+LINKED:[1	1	5	9	bn:00014010n		http://babelnet.org/rdf/s00014010n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8472 ===
+	Natural_features: 1.55
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	1	0	4165030	Fire burns at Barangaroo construction site , Sydney , Australia	17455	fire.n	2824	Fire_burning	MANUAL	6669445	0	3	MJE	Fire
+LINKED:[0	0	0	3	bn:00034623n		http://babelnet.org/rdf/s00034623n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8473 ===
+	Event: 0.11
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	1	0	4165030	Fire burns at Barangaroo construction site , Sydney , Australia	4746	construction.n	259	Building	MANUAL	6669446	25	36	MJE	construction
+LINKED:[4	4	25	36	bn:00013723n	http://dbpedia.org/resource/Construction	http://babelnet.org/rdf/s00013723n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8474 ===
+	Building: 0.013157894736842105
+
+SELECTED:[Building]
+MATCH!
+SILVER:246	25620	1	1	0	4165030	Fire burns at Barangaroo construction site , Sydney , Australia	11550	site.n	196	Locale_by_use	MANUAL	6669448	38	41	MJE	site
+LINKED:[5	5	38	41	bn:00047172n	http://dbpedia.org/resource/Grothendieck_topology	http://babelnet.org/rdf/s00047172n	0.75	0.22222222	0.011494253	BABELFY]
+RANK:=== COUNTER  Counter 8475 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	3	0	4165031	A large fire has started at the Barangaroo construction site overlooking Sydney Harbour , New South Wales , Australia .	17455	fire.n	2824	Fire_burning	MANUAL	6669456	8	11	MJE	fire
+LINKED:[2	2	8	11	bn:00034623n		http://babelnet.org/rdf/s00034623n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8476 ===
+	Event: 0.11
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	3	0	4165031	A large fire has started at the Barangaroo construction site overlooking Sydney Harbour , New South Wales , Australia .	17491	start.v	2827	Catching_fire	MANUAL	6669458	17	23	MJE	started
+LINKED:[4	4	17	23	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8477 ===
+	Activity_start: 0.014516129032258065
+	Process_start: 0.00967741935483871
+	Setting_out: 0.0064516129032258064
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	3	0	4165031	A large fire has started at the Barangaroo construction site overlooking Sydney Harbour , New South Wales , Australia .	4746	construction.n	259	Building	MANUAL	6669461	43	54	MJE	construction
+LINKED:[8	8	43	54	bn:00013723n	http://dbpedia.org/resource/Construction	http://babelnet.org/rdf/s00013723n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8478 ===
+	Building: 0.013157894736842105
+
+SELECTED:[Building]
+MATCH!
+SILVER:246	25620	1	3	0	4165031	A large fire has started at the Barangaroo construction site overlooking Sydney Harbour , New South Wales , Australia .	11550	site.n	196	Locale_by_use	MANUAL	6669462	56	59	MJE	site
+LINKED:[9	9	56	59	bn:00047172n	http://dbpedia.org/resource/Grothendieck_topology	http://babelnet.org/rdf/s00047172n	0.85714287	0.1764706	0.005733397	BABELFY]
+RANK:=== COUNTER  Counter 8479 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	3	0	4165031	A large fire has started at the Barangaroo construction site overlooking Sydney Harbour , New South Wales , Australia .	11418	harbor.n	196	Locale_by_use	MANUAL	6669464	80	86	MJE	Harbour
+LINKED:[12	12	80	86	bn:00042918n	http://dbpedia.org/resource/MT_Haven	http://babelnet.org/rdf/s00042918n	0.95238096	0.23529412	0.009555662	BABELFY]
+RANK:=== COUNTER  Counter 8480 ===
+	Locale_by_use: 0.05444444444444444
+	Provide_lodging: 0.0044444444444444444
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	4746	construction.n	259	Building	MANUAL	6669473	4	15	MJE	construction
+LINKED:[1	1	4	15	bn:00013723n	http://dbpedia.org/resource/Construction	http://babelnet.org/rdf/s00013723n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8481 ===
+	Building: 0.013157894736842105
+
+SELECTED:[Building]
+MATCH!
+SILVER:246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	11113	company.n	365	Businesses	MANUAL	6669474	17	23	MJE	company
+LINKED:[2	2	17	23	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8482 ===
+	Businesses: 0.03142857142857143
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	751	say.v	43	Statement	MANUAL	6669475	25	28	MJE	said
+LINKED:[3	3	25	28	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8483 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.05
+	Becoming_aware: 0.05
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	17455	fire.n	2824	Fire_burning	MANUAL	6669476	30	33	MJE	fire
+LINKED:[4	4	30	33	bn:00034625n	http://dbpedia.org/resource/Fire	http://babelnet.org/rdf/s00034625n	0.7118644	0.4	0.09882353	BABELFY]
+RANK:=== COUNTER  Counter 8484 ===
+	Setting_fire: 0.005747126436781609
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	17461	break	2827	Catching_fire	MANUAL	6669477	35	39	MJE	broke
+LINKED:[5	5	35	39	bn:00083900v		http://babelnet.org/rdf/s00083900v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8485 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	1321	appear.v	67	Give_impression	MANUAL	6669479	89	96	MJE	appeared
+LINKED:[18	18	89	96	bn:00082690v		http://babelnet.org/rdf/s00082690v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8486 ===
+	Appearance: 6.0
+	Coming_to_be: 0.034482758620689655
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	3165	basement.n	188	Building_subparts	MANUAL	6669482	147	154	MJE	basement
+LINKED:[29	29	147	154	bn:00008824n	http://dbpedia.org/resource/Basement	http://babelnet.org/rdf/s00008824n	1.0	0.06666667	0.004705882	BABELFY]
+RANK:=== COUNTER  Counter 8487 ===
+	Building_subparts: 0.11956521739130435
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	10869	building.n	173	Buildings	MANUAL	6669484	161	168	MJE	building
+LINKED:[32	32	161	168	bn:00084198v		http://babelnet.org/rdf/s00084198v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8488 ===
+	Building: 0.02564102564102564
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	17621	accident.n	115	Catastrophe	MANUAL	6669489	131	138	MJE	accident
+LINKED:[26	26	131	138	bn:00000690n	http://dbpedia.org/resource/Accident	http://babelnet.org/rdf/s00000690n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8489 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	11550	site.n	196	Locale_by_use	MANUAL	6669500	4	7	MJE	site
+LINKED:[1	1	4	7	bn:00047172n	http://dbpedia.org/resource/Grothendieck_topology	http://babelnet.org/rdf/s00047172n	1.0	0.125	0.037037037	BABELFY]
+RANK:=== COUNTER  Counter 8490 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	13351	worker.n	323	Employing	MANUAL	6669501	9	15	MJE	workers
+LINKED:[2	2	9	15	bn:00081593n		http://babelnet.org/rdf/s00081593n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8491 ===
+	Employing: 0.05
+
+SELECTED:[Employing]
+MATCH!
+SILVER:246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	1129	evacuate.v	63	Removing	MANUAL	6669503	22	30	MJE	evacuated
+LINKED:[4	4	22	30	bn:00087757v		http://babelnet.org/rdf/s00087757v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8492 ===
+	Escaping: 0.07142857142857142
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	10677	according	1148	Attributed_information	MANUAL	6669505	49	57	MJE	according
+LINKED:[8	8	49	57	bn:00082227v		http://babelnet.org/rdf/s00082227v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8493 ===
+	Compatibility: 0.06
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	17511	injury.n	384	Experience_bodily_harm	MANUAL	6669506	40	45	MJE	injury
+LINKED:[6	6	40	45	bn:00000694n	http://dbpedia.org/resource/Injury	http://babelnet.org/rdf/s00000694n	1.0	0.125	0.018518519	BABELFY]
+RANK:=== COUNTER  Counter 8494 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	17622	superintendent.n	73	Leadership	MANUAL	6669509	82	95	MJE	Superintendent
+LINKED:[14	14	82	95	bn:00266873n	http://dbpedia.org/resource/Superintendent_(construction)	http://babelnet.org/rdf/s00266873n	1.0	0.125	0.018518519	BABELFY]
+RANK:=== COUNTER  Counter 8495 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	6	0	4165034	Large clouds of smoke were continuing to pour out of the building , casting a thick pall of smoke over the city skyline .	2799	continue.v	145	Process_continue	MANUAL	6669523	27	36	MJE	continuing
+LINKED:[5	5	27	36	bn:00085714v		http://babelnet.org/rdf/s00085714v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8496 ===
+	Activity_ongoing: 0.02666666666666667
+	Process_continue: 0.02
+
+SELECTED:[Process_continue]
+MATCH!
+SILVER:246	25620	1	6	0	4165034	Large clouds of smoke were continuing to pour out of the building , casting a thick pall of smoke over the city skyline .	5202	pour.v	284	Mass_motion	MANUAL	6669524	41	44	MJE	pour
+LINKED:[7	7	41	44	bn:00091897v		http://babelnet.org/rdf/s00091897v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8497 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	6	0	4165034	Large clouds of smoke were continuing to pour out of the building , casting a thick pall of smoke over the city skyline .	10869	building.n	173	Buildings	MANUAL	6669529	57	64	MJE	building
+LINKED:[11	11	57	64	bn:00084198v		http://babelnet.org/rdf/s00084198v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8498 ===
+	Building: 0.02564102564102564
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	6	0	4165034	Large clouds of smoke were continuing to pour out of the building , casting a thick pall of smoke over the city skyline .	3764	city.n	195	Political_locales	MANUAL	6669536	107	110	MJE	city
+LINKED:[21	21	107	110	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.7131783	0.6666667	0.33576643	BABELFY]
+RANK:=== COUNTER  Counter 8499 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	7	0	4165035	Some nearby buildings have also been evacuated , including the KPMG building and offices of the Macquarie Bank .	10869	building.n	173	Buildings	MANUAL	6669544	12	20	MJE	buildings
+LINKED:[2	2	12	20	bn:00013722n	http://dbpedia.org/resource/Building	http://babelnet.org/rdf/s00013722n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8500 ===
+	Buildings: 0.09438202247191012
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:246	25620	1	7	0	4165035	Some nearby buildings have also been evacuated , including the KPMG building and offices of the Macquarie Bank .	9471	evacuate.v	58	Emptying	MANUAL	6669546	37	45	MJE	evacuated
+LINKED:[6	6	37	45	bn:00087757v		http://babelnet.org/rdf/s00087757v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8501 ===
+	Escaping: 0.07142857142857142
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	7	0	4165035	Some nearby buildings have also been evacuated , including the KPMG building and offices of the Macquarie Bank .	13340	including.prep	1153	Inclusion	MANUAL	6669547	49	57	MJE	including
+LINKED:[8	8	49	57	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8502 ===
+	Inclusion: 0.11666666666666667
+	Cause_to_be_included: 0.05
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:246	25620	1	7	0	4165035	Some nearby buildings have also been evacuated , including the KPMG building and offices of the Macquarie Bank .	10869	building.n	173	Buildings	MANUAL	6669548	68	75	MJE	building
+LINKED:[11	11	68	75	bn:00084198v		http://babelnet.org/rdf/s00084198v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8503 ===
+	Building: 0.02564102564102564
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	7	0	4165035	Some nearby buildings have also been evacuated , including the KPMG building and offices of the Macquarie Bank .	17623	bank.n	365	Businesses	MANUAL	6669573	106	109	MJE	Bank
+LINKED:[17	17	106	109	bn:00008364n	http://dbpedia.org/resource/Bank	http://babelnet.org/rdf/s00008364n	0.8	0.5714286	0.10062893	BABELFY]
+RANK:=== COUNTER  Counter 8504 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	8	0	4165036	Firefighters reported concern about a tower crane overhanging the building basement site .	18472	firefighter.n	1071	People_by_vocation	MANUAL	6669576	0	11	MJE	Firefighters
+LINKED:[0	0	0	11	bn:00034631n	http://dbpedia.org/resource/Firefighter	http://babelnet.org/rdf/s00034631n	0.9	0.375	0.067669176	BABELFY]
+RANK:=== COUNTER  Counter 8505 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	8	0	4165036	Firefighters reported concern about a tower crane overhanging the building basement site .	10660	concern.n	46	Emotion_directed	MANUAL	6669653	22	28	MJE	concern
+LINKED:[2	2	22	28	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	1.0	0.25	0.04511278	BABELFY]
+RANK:=== COUNTER  Counter 8506 ===
+	Businesses: 0.03142857142857143
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	8	0	4165036	Firefighters reported concern about a tower crane overhanging the building basement site .	10869	building.n	173	Buildings	MANUAL	6669655	66	73	MJE	building
+LINKED:[9	9	66	73	bn:00084198v		http://babelnet.org/rdf/s00084198v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8507 ===
+	Building: 0.02564102564102564
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	8	0	4165036	Firefighters reported concern about a tower crane overhanging the building basement site .	3165	basement.n	188	Building_subparts	MANUAL	6669656	75	82	MJE	basement
+LINKED:[10	10	75	82	bn:00008824n	http://dbpedia.org/resource/Basement	http://babelnet.org/rdf/s00008824n	1.0	0.125	0.007518797	BABELFY]
+RANK:=== COUNTER  Counter 8508 ===
+	Building_subparts: 0.11956521739130435
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:246	25620	1	8	0	4165036	Firefighters reported concern about a tower crane overhanging the building basement site .	13783	site.n	192	Locale	MANUAL	6669659	84	87	MJE	site
+LINKED:[11	11	84	87	bn:00047172n	http://dbpedia.org/resource/Grothendieck_topology	http://babelnet.org/rdf/s00047172n	0.8	0.25	0.030075189	BABELFY]
+RANK:=== COUNTER  Counter 8509 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	8	0	4165036	Firefighters reported concern about a tower crane overhanging the building basement site .	748	report.v	43	Statement	MANUAL	6669662	13	20	MJE	reported
+LINKED:[1	1	13	20	bn:00085907v		http://babelnet.org/rdf/s00085907v	1.0	0.125	0.007518797	BABELFY]
+RANK:=== COUNTER  Counter 8510 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	9	0	4165037	There were fears that the crane could buckle due to the heat and collapse .	14947	fear.n	2052	Fear	MANUAL	6669669	11	15	MJE	fears
+LINKED:[2	2	11	15	bn:00033854n	http://dbpedia.org/resource/Fear	http://babelnet.org/rdf/s00033854n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8511 ===
+	Fear: 0.005813953488372093
+
+SELECTED:[Fear]
+MATCH!
+SILVER:246	25620	1	10	0	4165038	Firefighters were working to keep the base of the crane cool , and the stability of the structure was being monitored with lasers .	18472	firefighter.n	1071	People_by_vocation	MANUAL	6669678	0	11	MJE	Firefighters
+LINKED:[0	0	0	11	bn:00034631n	http://dbpedia.org/resource/Firefighter	http://babelnet.org/rdf/s00034631n	1.0	0.2857143	0.05970149	BABELFY]
+RANK:=== COUNTER  Counter 8512 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	10	0	4165038	Firefighters were working to keep the base of the crane cool , and the stability of the structure was being monitored with lasers .	14000	work.v	1892	Work	MANUAL	6669679	18	24	MJE	working
+LINKED:[2	2	18	24	bn:00095812v		http://babelnet.org/rdf/s00095812v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8513 ===
+	Working_on: 3.0
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	10	0	4165038	Firefighters were working to keep the base of the crane cool , and the stability of the structure was being monitored with lasers .	10380	keep.v	1060	Cause_to_continue	MANUAL	6669680	29	32	MJE	keep
+LINKED:[4	4	29	32	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8514 ===
+	Activity_ongoing: 0.012903225806451613
+	Cause_to_continue: 0.0032258064516129032
+
+SELECTED:[Cause_to_continue]
+MATCH!
+SILVER:246	25620	1	10	0	4165038	Firefighters were working to keep the base of the crane cool , and the stability of the structure was being monitored with lasers .	10346	cool.a	1050	Temperature	MANUAL	6669685	56	59	MJE	cool
+LINKED:[10	10	56	59	bn:00022427n		http://babelnet.org/rdf/s00022427n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8515 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	10	0	4165038	Firefighters were working to keep the base of the crane cool , and the stability of the structure was being monitored with lasers .	11592	monitor.v	31	Scrutiny	MANUAL	6669687	108	116	MJE	monitored
+LINKED:[20	20	108	116	bn:00090897v		http://babelnet.org/rdf/s00090897v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8516 ===
+	Scrutiny: 0.16956521739130434
+
+SELECTED:[Scrutiny]
+MATCH!
+SILVER:246	25620	1	11	0	4165039	The Western Distributor motorway was closed to traffic , and Sydney Harbour Bridge partly closed .	3780	motorway.n	203	Roadways	MANUAL	6669701	24	31	MJE	motorway
+LINKED:[3	3	24	31	bn:00032402n	http://dbpedia.org/resource/Thoroughfare	http://babelnet.org/rdf/s00032402n	0.9811321	0.8	0.15522388	BABELFY]
+RANK:=== COUNTER  Counter 8517 ===
+	Path_shape: 0.014912280701754385
+	Departing: 0.006578947368421052
+	Roadways: 0.006359649122807017
+	Separating: 0.0043859649122807015
+	Rotting: 0.003947368421052632
+	Activity_stop: 0.002631578947368421
+	Criminal_investigation: 0.002631578947368421
+	Replacing: 0.002631578947368421
+	Take_place_of: 0.002631578947368421
+	Abandonment: 0.0021929824561403508
+	Exchange: 0.0021929824561403508
+	Make_cognitive_connection: 0.0021929824561403508
+	Waver_between_options: 0.0021929824561403508
+	Change_tool: 0.0017543859649122807
+	Boundary: 0.0017543859649122807
+	Cause_to_end: 0.0017543859649122807
+	Repel: 0.0013157894736842105
+
+SELECTED:[Roadways]
+MATCH!
+SILVER:246	25620	1	11	0	4165039	The Western Distributor motorway was closed to traffic , and Sydney Harbour Bridge partly closed .	13723	closed.a	1872	Openness	MANUAL	6669702	37	42	MJE	closed
+LINKED:[5	5	37	42	bn:00085165v		http://babelnet.org/rdf/s00085165v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8518 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	11	0	4165039	The Western Distributor motorway was closed to traffic , and Sydney Harbour Bridge partly closed .	13723	closed.a	1872	Openness	MANUAL	6669704	90	95	MJE	closed
+LINKED:[14	14	90	95	bn:00085165v		http://babelnet.org/rdf/s00085165v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8519 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	11	0	4165039	The Western Distributor motorway was closed to traffic , and Sydney Harbour Bridge partly closed .	3790	bridge.n	203	Roadways	MANUAL	6669705	76	81	MJE	Bridge
+LINKED:[12	12	76	81	bn:00013077n	http://dbpedia.org/resource/Bridge	http://babelnet.org/rdf/s00013077n	0.875	0.7	0.12537314	BABELFY]
+RANK:=== COUNTER  Counter 8520 ===
+	Roadways: 0.03118279569892473
+
+SELECTED:[Roadways]
+MATCH!
+SILVER:246	25620	1	11	0	4165039	The Western Distributor motorway was closed to traffic , and Sydney Harbour Bridge partly closed .	11418	harbor.n	196	Locale_by_use	MANUAL	6669712	68	74	MJE	Harbour
+LINKED:[11	11	68	74	bn:00042918n	http://dbpedia.org/resource/MT_Haven	http://babelnet.org/rdf/s00042918n	1.0	0.4	0.029850746	BABELFY]
+RANK:=== COUNTER  Counter 8521 ===
+	Locale_by_use: 0.05444444444444444
+	Provide_lodging: 0.0044444444444444444
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:246	25620	1	12	0	4165040	There had been major disruptions in traffic and multiple roads in the Sydney CBD ( Central Business District ) were gridlocked .	3772	road.n	203	Roadways	MANUAL	6669715	57	61	MJE	roads
+LINKED:[9	9	57	61	bn:00067975n	http://dbpedia.org/resource/Road	http://babelnet.org/rdf/s00067975n	0.9230769	0.5	0.069767445	BABELFY]
+RANK:=== COUNTER  Counter 8522 ===
+	Roadways: 0.034523809523809526
+
+SELECTED:[Roadways]
+MATCH!
+SILVER:246	25620	1	12	0	4165040	There had been major disruptions in traffic and multiple roads in the Sydney CBD ( Central Business District ) were gridlocked .	6355	business.n	365	Businesses	MANUAL	6669719	91	98	MJE	Business
+LINKED:[16	16	91	98	bn:00014136n	http://dbpedia.org/resource/Companies_law	http://babelnet.org/rdf/s00014136n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8523 ===
+	Businesses: 0.04583333333333333
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:246	25620	1	13	0	4165041	People catching buses were advised to expect long delays .	5511	people.n	304	People	MANUAL	6669723	0	5	MJE	People
+LINKED:[0	0	0	5	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8524 ===
+	People: 0.02830188679245283
+
+SELECTED:[People]
+MATCH!
+SILVER:246	25620	1	13	0	4165041	People catching buses were advised to expect long delays .	7809	bus.n	429	Vehicle	MANUAL	6669724	16	20	MJE	buses
+LINKED:[2	2	16	20	bn:00007329n	http://dbpedia.org/resource/Bus	http://babelnet.org/rdf/s00007329n	1.0	0.33333334	0.071428575	BABELFY]
+RANK:=== COUNTER  Counter 8525 ===
+	Vehicle: 0.019662921348314606
+
+SELECTED:[Vehicle]
+MATCH!
+SILVER:246	25620	1	13	0	4165041	People catching buses were advised to expect long delays .	9179	advise.v	750	Telling	MANUAL	6669726	27	33	MJE	advised
+LINKED:[4	4	27	33	bn:00082415v		http://babelnet.org/rdf/s00082415v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8526 ===
+	Attempt_suasion: 0.13076923076923078
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	13	0	4165041	People catching buses were advised to expect long delays .	255	expect.v	26	Expectation	MANUAL	6669728	38	43	MJE	expect
+LINKED:[6	6	38	43	bn:00082963v		http://babelnet.org/rdf/s00082963v	1.0	0.33333334	0.071428575	BABELFY]
+RANK:=== COUNTER  Counter 8527 ===
+	Expectation: 0.017241379310344827
+	Process_continue: 0.010344827586206896
+	Suasion: 0.008620689655172414
+	Eventive_cognizer_affecting: 0.005172413793103448
+	Being_obligatory: 0.005172413793103448
+	Activity_ready_state: 0.005172413793103448
+	Needing: 0.005172413793103448
+	Have_as_requirement: 0.0034482758620689655
+	Emotions_by_stimulus: 0.0034482758620689655
+
+SELECTED:[Expectation]
+MATCH!
+SILVER:246	25620	1	13	0	4165041	People catching buses were advised to expect long delays .	13915	long.a	79	Duration_description	MANUAL	6669729	45	48	MJE	long
+LINKED:[7	7	45	48	bn:00106124a		http://babelnet.org/rdf/s00106124a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8528 ===
+	Duration_attribute: 4.0
+
+SELECTED:[]
+WRONG!
+SILVER:246	25620	1	13	0	4165041	People catching buses were advised to expect long delays .	13275	delay.n	691	Change_event_time	MANUAL	6669730	50	55	MJE	delays
+LINKED:[8	8	50	55	bn:00026015n		http://babelnet.org/rdf/s00026015n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 8529 ===
+
+SELECTED:[]
+WRONG!
+filename	WikiTexts__Fires_5.xml
+docAnnotations	86
+docManual	74
+docUnannotated	12
+sentences	12
+paragraphs	12
+Overlapping	58
+Disambiguated	40
+TP	23
+TN	12
+FP	0
+FN	34
+P	1.0
+R	0.40350877192982454
+F	0.575
+A	0.5072463768115942

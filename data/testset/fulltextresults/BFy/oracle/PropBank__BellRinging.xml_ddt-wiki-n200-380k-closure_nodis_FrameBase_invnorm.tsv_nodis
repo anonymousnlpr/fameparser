@@ -1,0 +1,16 @@
+filename	PropBank__BellRinging.xml
+docAnnotations	594
+docManual	498
+docUnannotated	96
+sentences	70
+paragraphs	26
+Overlapping	387
+Disambiguated	270
+TP	214
+TN	96
+FP	0
+FN	228
+P	1.0
+R	0.4841628959276018
+F	0.6524390243902439
+A	0.5762081784386617

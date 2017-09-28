@@ -1,0 +1,16 @@
+filename	NTI__SouthAfrica_Introduction.xml
+docAnnotations	528
+docManual	449
+docUnannotated	79
+sentences	53
+paragraphs	10
+Overlapping	411
+Disambiguated	239
+TP	180
+TN	79
+FP	0
+FN	210
+P	1.0
+R	0.46153846153846156
+F	0.631578947368421
+A	0.5522388059701493

@@ -1,0 +1,132 @@
+SILVER:185	23581	2	3	0	4099102	One in four cellphones sold has a camera in it .	2986	sell.v	172	Commerce_sell	MANUAL	6533297	23	26	MiL	sold
+LINKED:[4	4	23	26	bn:00093476v		http://babelnet.org/rdf/s00093476v	1.0	0.33333334	0.03846154	BABELFY]
+RANK:=== COUNTER  Counter 12995 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23581	2	6	0	4099111	Sue ran down to McDonald's and got a hamburger happy meal with a large Diet Coke .	4343	get.v	179	Getting	MANUAL	6533226	31	33	MJE	got
+LINKED:[7	7	31	33	bn:13677110v		http://babelnet.org/rdf/s13677110v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12996 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23581	2	7	0	4099114	Angela Drake will be moving to California with her husband , where she has accepted a full-time position with the San Diego Public Library .	2025	husband.n	102	Personal_relationship	MANUAL	6533312	51	57	RLG	husband
+LINKED:[9	9	51	57	bn:00045106n	http://dbpedia.org/resource/Husband	http://babelnet.org/rdf/s00045106n	1.0	0.09090909	0.0026954177	BABELFY]
+RANK:=== COUNTER  Counter 12997 ===
+	Personal_relationship: 1397.837837837838
+
+SELECTED:[Personal_relationship]
+MATCH!
+SILVER:185	23581	2	7	0	4099114	Angela Drake will be moving to California with her husband , where she has accepted a full-time position with the San Diego Public Library .	7538	accept.v	411	Receiving	MANUAL	6533313	75	82	RLG	accepted
+LINKED:[14	14	75	82	bn:00082203v		http://babelnet.org/rdf/s00082203v	1.0	0.09090909	0.0026954177	BABELFY]
+RANK:=== COUNTER  Counter 12998 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23581	2	15	0	4099138	The Island Nut Sampler includes an 8 ounce box of milk chocolate covered macadamia nuts and an 8 ounce box of white chocolate covered macadamia nuts .	4797	covered.a	262	Abounding_with	MANUAL	6533188	65	71	MJE	covered
+LINKED:[12	12	65	71	bn:00085903v		http://babelnet.org/rdf/s00085903v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 12999 ===
+	Filling: 2860.846153846154
+	Adorning: 256.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23581	2	16	0	4099141	Nanolab says it ca n't stay profitable if the demand for nanotubes decreases .	751	say.v	43	Statement	MANUAL	6533378	8	11	RLG	says
+LINKED:[1	1	8	11	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13000 ===
+	Statement: 3730.666666666667
+	Speak_on_topic: 192.5
+	Communication: 167.75
+	Becoming_aware: 157.0
+	Text_creation: 154.58333333333334
+	Spelling_and_pronouncing: 72.625
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23581	2	16	0	4099141	Nanolab says it ca n't stay profitable if the demand for nanotubes decreases .	10913	stay.v	1155	State_continue	MANUAL	6533379	23	26	RLG	stay
+LINKED:[6	6	23	26	bn:00082698v		http://babelnet.org/rdf/s00082698v	1.0	1.0	0.6666667	BABELFY]
+RANK:=== COUNTER  Counter 13001 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23581	2	16	0	4099141	Nanolab says it ca n't stay profitable if the demand for nanotubes decreases .	1877	decrease.v	91	Change_position_on_a_scale	MANUAL	6533381	67	75	RLG	decreases
+LINKED:[13	13	67	75	bn:00086418v		http://babelnet.org/rdf/s00086418v	1.0	0.5	0.16666667	BABELFY]
+RANK:=== COUNTER  Counter 13002 ===
+	Cause_change_of_position_on_a_scale: 1726.6666666666667
+
+SELECTED:[]
+WRONG!
+SILVER:185	23581	2	18	0	4099147	The Nut Sampler set includes two 8 ounce boxes of chocolate covered nuts .	4797	covered.a	262	Abounding_with	MANUAL	6533189	60	66	MJE	covered
+LINKED:[11	11	60	66	bn:00085903v		http://babelnet.org/rdf/s00085903v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13003 ===
+	Filling: 2860.846153846154
+	Adorning: 256.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23581	3	18	0	4099148	QN : Does this set contain milk chocolate covered nuts ?	4797	covered.a	262	Abounding_with	MANUAL	6533190	42	48	MJE	covered
+LINKED:[8	8	42	48	bn:00085903v		http://babelnet.org/rdf/s00085903v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13004 ===
+	Filling: 2860.846153846154
+	Adorning: 256.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23581	2	20	0	4099153	The Donald criticized President Bush over his decision to go to war with Iraq .	7388	criticize.v	219	Judgment_communication	MANUAL	6533318	11	20	MiL	criticized
+LINKED:[2	2	11	20	bn:00086046v		http://babelnet.org/rdf/s00086046v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13005 ===
+	Judgment_communication: 2048.2758620689656
+
+SELECTED:[Judgment_communication]
+MATCH!
+SILVER:185	23581	3	20	0	4099154	QN : Does Trump support W 's decision to go to war ?	11501	support.v	1306	Taking_sides	MANUAL	6533301	16	22	MJE	support
+LINKED:[4	4	16	22	bn:00075330n		http://babelnet.org/rdf/s00075330n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13006 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23581	3	20	0	4099154	QN : Does Trump support W 's decision to go to war ?	7432	decision.n	363	Deciding	MANUAL	6533302	29	36	MJE	decision
+LINKED:[7	7	29	36	bn:00025714n		http://babelnet.org/rdf/s00025714n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13007 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23581	3	27	0	4099174	QN : Does the term `` wholphin '' refer to a type of hybrid ?	2555	type.n	128	Type	MANUAL	6533280	45	48	RLG	type
+LINKED:[10	10	45	48	bn:00078798n		http://babelnet.org/rdf/s00078798n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13008 ===
+	Type: 206.24999999999997
+
+SELECTED:[Type]
+MATCH!
+SILVER:185	23581	2	32	0	4099188	The Island Nut Sampler includes an 8 ounce box of milk chocolate covered macadamia nuts and an 8 ounce box of white chocolate covered macadamia nuts .	4797	covered.a	262	Abounding_with	MANUAL	6533758	65	71	Hay	covered
+LINKED:[12	12	65	71	bn:00085903v		http://babelnet.org/rdf/s00085903v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13009 ===
+	Filling: 2860.846153846154
+	Adorning: 256.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23581	3	32	0	4099189	QN : Does it include any dark-chocolate covered macadamia nuts ?	4797	covered.a	262	Abounding_with	MANUAL	6533191	40	46	MJE	covered
+LINKED:[7	7	40	46	bn:00100577a		http://babelnet.org/rdf/s00100577a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13010 ===
+	Eclipse: 427.55555555555554
+	Abounding_with: 128.0
+
+SELECTED:[Abounding_with]
+MATCH!
+filename	KBEval__cycorp.xml
+docAnnotations	128
+docManual	20
+docUnannotated	108
+sentences	108
+paragraphs	36
+Overlapping	16
+Disambiguated	10
+TP	5
+TN	108
+FP	0
+FN	10
+P	1.0
+R	0.3333333333333333
+F	0.5
+A	0.9186991869918699

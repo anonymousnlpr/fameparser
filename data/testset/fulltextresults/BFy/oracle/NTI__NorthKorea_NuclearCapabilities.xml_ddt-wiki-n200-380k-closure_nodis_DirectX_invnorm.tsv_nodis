@@ -1,0 +1,16 @@
+filename	NTI__NorthKorea_NuclearCapabilities.xml
+docAnnotations	301
+docManual	263
+docUnannotated	38
+sentences	30
+paragraphs	12
+Overlapping	242
+Disambiguated	202
+TP	157
+TN	38
+FP	0
+FN	61
+P	1.0
+R	0.7201834862385321
+F	0.8373333333333334
+A	0.76171875

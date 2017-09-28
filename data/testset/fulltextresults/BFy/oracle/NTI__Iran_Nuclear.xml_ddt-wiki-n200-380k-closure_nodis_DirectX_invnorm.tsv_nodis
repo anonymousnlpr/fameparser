@@ -1,0 +1,16 @@
+filename	NTI__Iran_Nuclear.xml
+docAnnotations	1001
+docManual	780
+docUnannotated	221
+sentences	135
+paragraphs	32
+Overlapping	721
+Disambiguated	585
+TP	425
+TN	221
+FP	0
+FN	195
+P	1.0
+R	0.6854838709677419
+F	0.8133971291866028
+A	0.7681331747919143

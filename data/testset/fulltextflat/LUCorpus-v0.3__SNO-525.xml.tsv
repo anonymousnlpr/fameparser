@@ -1,0 +1,157 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+205	23728	1	1	0	4101867	1 8-20010116-18161105-18200044 ( 3:49 )	null	null	null	null	UNANN	6545625	null	null	null	null
+205	23728	1	2	0	4101868	2 [ dialing/ringing ]	null	null	null	null	UNANN	6545626	null	null	null	null
+205	23728	1	3	0	4101869	3 RICH : Las Vegas Cogen , this is Rich .	null	null	null	null	UNANN	6545627	null	null	null	null
+205	23728	1	4	0	4101870	4 BILL : Hey , Rich .	null	null	null	null	UNANN	6545628	null	null	null	null
+205	23728	2	4	0	4101871	This is Bill up at Enron .	null	null	null	null	UNANN	6545629	null	null	null	null
+205	23728	2	4	0	4101871	This is Bill up at Enron .	6735	at.prep	199	Locative_relation	MANUAL	6547881	16	17	KmG	at
+205	23728	1	5	0	4101872	5 RICH : Bill .	null	null	null	null	UNANN	6545630	null	null	null	null
+205	23728	1	6	0	4101873	6 BILL : How you doin ' , man ?	null	null	null	null	UNANN	6545631	null	null	null	null
+205	23728	1	7	0	4101874	7 RICH : Junior or Senior ?	null	null	null	null	UNANN	6545632	null	null	null	null
+205	23728	1	8	0	4101875	8 BILL : Ha-ha .	null	null	null	null	UNANN	6545633	null	null	null	null
+205	23728	2	8	0	4101876	The Third .	null	null	null	null	UNANN	6545634	null	null	null	null
+205	23728	2	8	0	4101876	The Third .	11251	third.a	1147	Ordinal_numbers	MANUAL	6547882	4	8	KmG	Third
+205	23728	1	9	0	4101877	9 RICH : The third !	null	null	null	null	UNANN	6545635	null	null	null	null
+205	23728	1	9	0	4101877	9 RICH : The third !	11251	third.a	1147	Ordinal_numbers	MANUAL	6547883	13	17	KmG	third
+205	23728	2	9	0	4101878	What 's happenin ' Bill the Third .	null	null	null	null	UNANN	6545636	null	null	null	null
+205	23728	2	9	0	4101878	What 's happenin ' Bill the Third .	11251	third.a	1147	Ordinal_numbers	MANUAL	6547884	28	32	KmG	Third
+205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	null	null	null	null	UNANN	6545637	null	null	null	null
+205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	5273	call.n	286	Contacting	MANUAL	6547885	46	49	KmG	call
+205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	14290	some.art	1923	Proportional_quantity	MANUAL	6547886	65	68	KmG	some
+205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	12630	issue.n	1608	Point_of_dispute	MANUAL	6547887	70	75	KmG	issues
+205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	4056	tomorrow.n	229	Calendric_unit	MANUAL	6547888	81	88	KmG	tomorrow
+205	23728	1	11	0	4101880	11 RICH : Ok .	null	null	null	null	UNANN	6545638	null	null	null	null
+205	23728	1	12	0	4101881	12 Bill : You ready for some issues ?	null	null	null	null	UNANN	6545639	null	null	null	null
+205	23728	1	12	0	4101881	12 Bill : You ready for some issues ?	12293	ready.a	169	Activity_ready_state	MANUAL	6547889	14	18	KmG	ready
+205	23728	1	12	0	4101881	12 Bill : You ready for some issues ?	14290	some.art	1923	Proportional_quantity	MANUAL	6547890	24	27	KmG	some
+205	23728	1	12	0	4101881	12 Bill : You ready for some issues ?	12630	issue.n	1608	Point_of_dispute	MANUAL	6547891	29	34	KmG	issues
+205	23728	2	12	0	4101882	You just about out of there , are n't you ?	null	null	null	null	UNANN	6545640	null	null	null	null
+205	23728	1	13	0	4101883	13 RICH : Um , I got a couple more hours .	null	null	null	null	UNANN	6545641	null	null	null	null
+205	23728	1	13	0	4101883	13 RICH : Um , I got a couple more hours .	8078	couple.n	218	Cardinal_numbers	MANUAL	6547892	23	28	KmG	couple
+205	23728	1	13	0	4101883	13 RICH : Um , I got a couple more hours .	10290	more.a	1001	Increment	MANUAL	6547893	30	33	KmG	more
+205	23728	1	13	0	4101883	13 RICH : Um , I got a couple more hours .	3872	hour.n	224	Measure_duration	MANUAL	6547894	35	39	KmG	hours
+205	23728	2	13	0	4101884	I ai n't goin ' anywhere .	null	null	null	null	UNANN	6545642	null	null	null	null
+205	23728	1	14	0	4101885	14 BILL : Good .	null	null	null	null	UNANN	6545643	null	null	null	null
+205	23728	1	14	0	4101885	14 BILL : Good .	6287	good.a	354	Desirability	MANUAL	6547895	10	13	KmG	Good
+205	23728	1	15	0	4101886	15 RICH : All right , shoot .	null	null	null	null	UNANN	6545644	null	null	null	null
+205	23728	2	15	0	4101887	I 've g - I 've got pen and paper .	null	null	null	null	UNANN	6545645	null	null	null	null
+205	23728	2	15	0	4101887	I 've g - I 've got pen and paper .	11073	have	118	Possession	MANUAL	6547897	16	18	KmG	got
+205	23728	1	16	0	4101888	16 BILL : All right , man .	null	null	null	null	UNANN	6545646	null	null	null	null
+205	23728	2	16	0	4101889	I 'm n - this is gon na be a word of mouth kind of thing .	null	null	null	null	UNANN	6545647	null	null	null	null
+205	23728	2	16	0	4101889	I 'm n - this is gon na be a word of mouth kind of thing .	2684	mouth.n	119	Body_parts	MANUAL	6547898	37	41	KmG	mouth
+205	23728	2	16	0	4101889	I 'm n - this is gon na be a word of mouth kind of thing .	11231	word.n	1260	Simple_name	UNANN	6547899	null	null	null	null
+205	23728	2	16	0	4101889	I 'm n - this is gon na be a word of mouth kind of thing .	11231	word.n	1260	Simple_name	UNANN	6547899	29	32	KmG	word
+205	23728	2	16	0	4101889	I 'm n - this is gon na be a word of mouth kind of thing .	2557	kind.n	128	Type	MANUAL	6547900	43	46	KmG	kind
+205	23728	1	17	0	4101890	17 RICH : OK .	null	null	null	null	UNANN	6545648	null	null	null	null
+205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	null	null	null	null	UNANN	6545649	null	null	null	null
+205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	14147	when.adv	1895	Temporal_collocation	MANUAL	6547901	30	33	KmG	when
+205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	4483	finish.v	165	Activity_finish	MANUAL	6547902	39	44	KmG	finish
+205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	10604	normal.a	1134	Typicality	MANUAL	6547903	51	56	KmG	normal
+205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	5142	hour.n	229	Calendric_unit	MANUAL	6547904	70	73	KmG	hour
+205	23728	1	19	0	4101892	19 RICH : Right .	null	null	null	null	UNANN	6545650	null	null	null	null
+205	23728	1	19	0	4101892	19 RICH : Right .	12273	right.a	1512	Correctness	MANUAL	6547907	10	14	KmG	Right
+205	23728	1	20	0	4101893	20 BILL : - it 'll actually be tomorrow -	null	null	null	null	UNANN	6545651	null	null	null	null
+205	23728	1	20	0	4101893	20 BILL : - it 'll actually be tomorrow -	4056	tomorrow.n	229	Calendric_unit	MANUAL	6547908	31	38	KmG	tomorrow
+205	23728	1	21	0	4101894	21 RICH : Right .	null	null	null	null	UNANN	6545652	null	null	null	null
+205	23728	1	21	0	4101894	21 RICH : Right .	12273	right.a	1512	Correctness	MANUAL	6547909	10	14	KmG	Right
+205	23728	1	22	0	4101895	22 BILL : - ah , we want you guys to get a little creative -	null	null	null	null	UNANN	6545653	null	null	null	null
+205	23728	1	22	0	4101895	22 BILL : - ah , we want you guys to get a little creative -	6412	want.v	366	Desiring	MANUAL	6547910	20	23	KmG	want
+205	23728	1	22	0	4101895	22 BILL : - ah , we want you guys to get a little creative -	5520	guy.n	304	People	MANUAL	6547911	29	32	KmG	guys
+205	23728	1	22	0	4101895	22 BILL : - ah , we want you guys to get a little creative -	10393	get.v	1070	Transition_to_state	MANUAL	6547912	37	39	KmG	get
+205	23728	1	23	0	4101896	23 RICH : OK .	null	null	null	null	UNANN	6545654	null	null	null	null
+205	23728	1	24	0	4101897	24 BILL : - and come up with a reason to go down .	null	null	null	null	UNANN	6545655	null	null	null	null
+205	23728	1	24	0	4101897	24 BILL : - and come up with a reason to go down .	8054	reason.n	514	Reason	MANUAL	6547913	31	36	KmG	reason
+205	23728	1	24	0	4101897	24 BILL : - and come up with a reason to go down .	5186	come	27	Coming_up_with	MANUAL	6548935	16	19	KmG	come
+205	23728	1	24	0	4101897	24 BILL : - and come up with a reason to go down .	5186	come	27	Coming_up_with	MANUAL	6548935	21	22	KmG	up
+205	23728	1	25	0	4101898	25 RICH : OK .	null	null	null	null	UNANN	6545656	null	null	null	null
+205	23728	1	26	0	4101899	26 BILL : Anything you want to do over there ?	null	null	null	null	UNANN	6545657	null	null	null	null
+205	23728	1	26	0	4101899	26 BILL : Anything you want to do over there ?	6412	want.v	366	Desiring	MANUAL	6547914	23	26	KmG	want
+205	23728	1	26	0	4101899	26 BILL : Anything you want to do over there ?	10612	do.v	198	Intentionally_act	MANUAL	6547915	31	32	KmG	do
+205	23728	2	26	0	4101900	Any -	null	null	null	null	UNANN	6545658	null	null	null	null
+205	23728	1	27	0	4101901	27 RICH : Ah -	null	null	null	null	UNANN	6545659	null	null	null	null
+205	23728	1	28	0	4101902	28 BILL : - cleaning , anything like that ?	null	null	null	null	UNANN	6545660	null	null	null	null
+205	23728	1	29	0	4101903	29 RICH : Yeah .	null	null	null	null	UNANN	6545661	null	null	null	null
+205	23728	2	29	0	4101904	Yeah .	null	null	null	null	UNANN	6545662	null	null	null	null
+205	23728	3	29	0	4101905	There 's some stuff that we could doin'tonight .	null	null	null	null	UNANN	6545663	null	null	null	null
+205	23728	3	29	0	4101905	There 's some stuff that we could doin'tonight .	10329	there	660	Existence	MANUAL	6547916	0	4	KmG	There
+205	23728	3	29	0	4101905	There 's some stuff that we could doin'tonight .	10329	there	660	Existence	MANUAL	6547916	6	7	KmG	's
+205	23728	3	29	0	4101905	There 's some stuff that we could doin'tonight .	14290	some.art	1923	Proportional_quantity	MANUAL	6547917	9	12	KmG	some
+205	23728	3	29	0	4101905	There 's some stuff that we could doin'tonight .	10156	can.v	990	Capability	MANUAL	6547918	28	32	KmG	could
+205	23728	1	30	0	4101906	30 BILL : That 's good .	null	null	null	null	UNANN	6545664	null	null	null	null
+205	23728	1	30	0	4101906	30 BILL : That 's good .	6287	good.a	354	Desirability	MANUAL	6547919	18	21	KmG	good
+205	23728	1	31	0	4101907	1 RICH : Right .	null	null	null	null	UNANN	6545665	null	null	null	null
+205	23728	1	31	0	4101907	1 RICH : Right .	12273	right.a	1512	Correctness	MANUAL	6547920	9	13	KmG	Right
+205	23728	1	32	0	4101908	2 BILL : It 's supposed to be , ah , you know , kinda one of those things .	null	null	null	null	UNANN	6545666	null	null	null	null
+205	23728	1	32	0	4101908	2 BILL : It 's supposed to be , ah , you know , kinda one of those things .	13546	be	1381	Required_event	MANUAL	6547921	15	22	KmG	supposed
+205	23728	1	32	0	4101908	2 BILL : It 's supposed to be , ah , you know , kinda one of those things .	13546	be	1381	Required_event	MANUAL	6547921	12	13	KmG	's
+205	23728	1	32	0	4101908	2 BILL : It 's supposed to be , ah , you know , kinda one of those things .	3843	one.num	218	Cardinal_numbers	MANUAL	6547922	54	56	KmG	one
+205	23728	1	33	0	4101909	3 RICH : OK , so we 're just comin ' down for some maintenance , like a forced outage type thing ?	null	null	null	null	UNANN	6545667	null	null	null	null
+205	23728	1	33	0	4101909	3 RICH : OK , so we 're just comin ' down for some maintenance , like a forced outage type thing ?	12166	maintenance.n	164	Activity_ongoing	MANUAL	6547923	51	61	KmG	maintenance
+205	23728	1	33	0	4101909	3 RICH : OK , so we 're just comin ' down for some maintenance , like a forced outage type thing ?	2555	type.n	128	Type	MANUAL	6547924	86	89	KmG	type
+205	23728	1	34	0	4101910	4 BILL : Right .	null	null	null	null	UNANN	6545668	null	null	null	null
+205	23728	1	34	0	4101910	4 BILL : Right .	12273	right.a	1512	Correctness	MANUAL	6547925	9	13	KmG	Right
+205	23728	1	35	0	4101911	5 RICH : And that 's cool .	null	null	null	null	UNANN	6545669	null	null	null	null
+205	23728	1	36	0	4101912	6 BILL : Hopefully .	null	null	null	null	UNANN	6545670	null	null	null	null
+205	23728	1	37	0	4101913	7 [ they laugh ]	null	null	null	null	UNANN	6545671	null	null	null	null
+205	23728	1	37	0	4101913	7 [ they laugh ]	8720	laugh.v	69	Make_noise	MANUAL	6547926	9	13	KmG	laugh
+205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	null	null	null	null	UNANN	6545672	null	null	null	null
+205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	14175	here.adv	199	Locative_relation	MANUAL	6547927	51	54	KmG	here
+205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	160	know.v	19	Awareness	MANUAL	6547928	69	72	KmG	know
+205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	751	say.v	43	Statement	MANUAL	6547929	82	85	KmG	says
+205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	4343	get.v	179	Getting	MANUAL	6548774	42	44	JKs	got
+205	23728	1	39	0	4101915	9 BILL : Yes .	null	null	null	null	UNANN	6545673	null	null	null	null
+205	23728	2	39	0	4101916	I 'm lookin ' right at it .	null	null	null	null	UNANN	6545674	null	null	null	null
+205	23728	1	40	0	4101917	10 RICH : OK , it 's the new schedule .	null	null	null	null	UNANN	6545675	null	null	null	null
+205	23728	1	40	0	4101917	10 RICH : OK , it 's the new schedule .	12563	new.a	972	Age	MANUAL	6547930	25	27	KmG	new
+205	23728	1	41	0	4101918	11 BILL : You just got a new one ?	null	null	null	null	UNANN	6545676	null	null	null	null
+205	23728	1	41	0	4101918	11 BILL : You just got a new one ?	12563	new.a	972	Age	MANUAL	6547931	25	27	KmG	new
+205	23728	1	41	0	4101918	11 BILL : You just got a new one ?	4343	get.v	179	Getting	MANUAL	6547932	19	21	KmG	got
+205	23728	1	42	0	4101919	12 RICH : It says 'New Schedule ' on the bottom .	null	null	null	null	UNANN	6545677	null	null	null	null
+205	23728	1	42	0	4101919	12 RICH : It says 'New Schedule ' on the bottom .	2773	bottom.n	143	Part_orientational	MANUAL	6547936	41	46	KmG	bottom
+205	23728	2	42	0	4101920	It 's showin ' 52 all day .	null	null	null	null	UNANN	6545678	null	null	null	null
+205	23728	2	42	0	4101920	It 's showin ' 52 all day .	3946	day.n	229	Calendric_unit	MANUAL	6547963	22	24	KmG	day
+205	23728	1	43	0	4101921	13 BILL : Oh , right .	null	null	null	null	UNANN	6545679	null	null	null	null
+205	23728	1	43	0	4101921	13 BILL : Oh , right .	12273	right.a	1512	Correctness	MANUAL	6547937	15	19	KmG	right
+205	23728	2	43	0	4101922	And so that 's the one you 're gon na want to ignore .	null	null	null	null	UNANN	6545680	null	null	null	null
+205	23728	2	43	0	4101922	And so that 's the one you 're gon na want to ignore .	6412	want.v	366	Desiring	MANUAL	6547938	38	41	KmG	want
+205	23728	1	44	0	4101923	14 RICH : Exactly .	null	null	null	null	UNANN	6545681	null	null	null	null
+205	23728	1	45	0	4101924	15 BILL : [ laughs ]	null	null	null	null	UNANN	6545682	null	null	null	null
+205	23728	1	45	0	4101924	15 BILL : [ laughs ]	8720	laugh.v	69	Make_noise	MANUAL	6547939	12	17	KmG	laughs
+205	23728	1	46	0	4101925	16 RICH : OK .	null	null	null	null	UNANN	6545683	null	null	null	null
+205	23728	1	47	0	4101926	17 BILL : Yeah .	null	null	null	null	UNANN	6545684	null	null	null	null
+205	23728	2	47	0	4101927	So -	null	null	null	null	UNANN	6545685	null	null	null	null
+205	23728	1	48	0	4101928	18 RICH : We 'll take care of that .	null	null	null	null	UNANN	6545686	null	null	null	null
+205	23728	1	49	0	4101929	19 BILL : So you got a - so you 're checkin ' a switch on the steam turbine .	null	null	null	null	UNANN	6545687	null	null	null	null
+205	23728	1	49	0	4101929	19 BILL : So you got a - so you 're checkin ' a switch on the steam turbine .	17780	on.prep	2890	Spatial_contact	MANUAL	6547940	55	56	KmG	on
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	null	null	null	null	UNANN	6545688	null	null	null	null
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	11794	adjustment.n	1376	Adjusting	MANUAL	6547941	30	39	KmG	adjustment
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	10854	probably.adv	114	Likelihood	MANUAL	6547942	61	68	KmG	probably
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	10854	probably.adv	114	Likelihood	MANUAL	6547943	85	92	KmG	probably
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	10854	probably.adv	114	Likelihood	MANUAL	6547944	122	129	KmG	probably
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	11269	check.v	1262	Inspecting	MANUAL	6547945	146	150	KmG	check
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	4056	tomorrow.n	229	Calendric_unit	MANUAL	6547946	155	162	KmG	tomorrow
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	4060	afternoon.n	229	Calendric_unit	MANUAL	6547947	164	172	KmG	afternoon
+205	23728	1	51	0	4101931	22 BILL : I think that 's a good plan , Rich .	null	null	null	null	UNANN	6545689	null	null	null	null
+205	23728	1	51	0	4101931	22 BILL : I think that 's a good plan , Rich .	11959	think.v	1412	Opinion	MANUAL	6547948	12	16	KmG	think
+205	23728	1	51	0	4101931	22 BILL : I think that 's a good plan , Rich .	6287	good.a	354	Desirability	MANUAL	6547949	28	31	KmG	good
+205	23728	1	51	0	4101931	22 BILL : I think that 's a good plan , Rich .	13294	plan.n	1158	Project	MANUAL	6547950	33	36	KmG	plan
+205	23728	1	52	0	4101932	23 RICH : All right .	null	null	null	null	UNANN	6545690	null	null	null	null
+205	23728	1	53	0	4101933	24 BILL : I knew I could count on you .	null	null	null	null	UNANN	6545691	null	null	null	null
+205	23728	1	53	0	4101933	24 BILL : I knew I could count on you .	160	know.v	19	Awareness	MANUAL	6547951	12	15	KmG	knew
+205	23728	1	53	0	4101933	24 BILL : I knew I could count on you .	10156	can.v	990	Capability	MANUAL	6547952	19	23	KmG	could
+205	23728	1	53	0	4101933	24 BILL : I knew I could count on you .	10005	count.v	901	Reliance	MANUAL	6547953	25	29	KmG	count
+205	23728	1	54	0	4101934	25 RICH : No problem .	null	null	null	null	UNANN	6545692	null	null	null	null
+205	23728	1	54	0	4101934	25 RICH : No problem .	7356	problem.n	300	Predicament	MANUAL	6547954	13	19	KmG	problem
+205	23728	1	55	0	4101935	26 [ REDACTED ]	null	null	null	null	UNANN	6545693	null	null	null	null
+205	23728	1	56	0	4101936	27 RICH : I 'm sure you 'll have a good time .	null	null	null	null	UNANN	6545694	null	null	null	null
+205	23728	1	56	0	4101936	27 RICH : I 'm sure you 'll have a good time .	2748	sure.a	141	Certainty	MANUAL	6547955	15	18	KmG	sure
+205	23728	1	56	0	4101936	27 RICH : I 'm sure you 'll have a good time .	6287	good.a	354	Desirability	MANUAL	6547956	35	38	KmG	good
+205	23728	2	56	0	4101937	All right .	null	null	null	null	UNANN	6545695	null	null	null	null
+205	23728	3	56	0	4101938	So , I gotcha covered for tomorrow .	null	null	null	null	UNANN	6545696	null	null	null	null
+205	23728	3	56	0	4101938	So , I gotcha covered for tomorrow .	4056	tomorrow.n	229	Calendric_unit	MANUAL	6547957	26	33	KmG	tomorrow
+205	23728	1	57	0	4101939	28 BILL : Thanks a lot , Rich .	null	null	null	null	UNANN	6545697	null	null	null	null
+205	23728	1	57	0	4101939	28 BILL : Thanks a lot , Rich .	8946	thanks.n	711	Judgment_direct_address	MANUAL	6547958	10	15	KmG	Thanks
+205	23728	1	58	0	4101940	29 RICH : All right , I wo n't even put that in the book .	null	null	null	null	UNANN	6545698	null	null	null	null
+205	23728	1	58	0	4101940	29 RICH : All right , I wo n't even put that in the book .	5355	put.v	62	Placing	MANUAL	6547959	36	38	KmG	put
+205	23728	1	58	0	4101940	29 RICH : All right , I wo n't even put that in the book .	5453	book.n	298	Text	MANUAL	6547960	52	55	KmG	book
+205	23728	1	59	0	4101941	30 BILL : [ laughs ]	null	null	null	null	UNANN	6545699	null	null	null	null

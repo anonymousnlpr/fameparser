@@ -1,0 +1,591 @@
+SILVER:115	23019	1	1	0	2824527	Aetna Life and Casualty Co. 's third - quarter net income fell 22 % to $ 182.6 million , or $ 1.63 a share , reflecting the damages from Hurricane Hugo and lower results for some of the company 's major divisions .	1872	fall.v	91	Change_position_on_a_scale	MANUAL	4530794	58	61	MJE	fell
+LINKED:[12	12	58	61	bn:00087976v		http://babelnet.org/rdf/s00087976v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43470 ===
+	Conquering: 0.11111111111111108
+	Motion: 0.001773049645390089
+	Travel: 0.0011876484560570037
+	Change_position_on_a_scale: 0.0010940919037199237
+	Cause_change_of_position_on_a_scale: 0.0010395010395010604
+
+SELECTED:[Change_position_on_a_scale]
+MATCH!
+SILVER:115	23019	1	1	0	2824527	Aetna Life and Casualty Co. 's third - quarter net income fell 22 % to $ 182.6 million , or $ 1.63 a share , reflecting the damages from Hurricane Hugo and lower results for some of the company 's major divisions .	1981	low.a	95	Position_on_a_scale	MANUAL	4530795	156	160	MJE	lower
+LINKED:[33	33	156	160	bn:13759554a		http://babelnet.org/rdf/s13759554a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43472 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	1	0	2824527	Aetna Life and Casualty Co. 's third - quarter net income fell 22 % to $ 182.6 million , or $ 1.63 a share , reflecting the damages from Hurricane Hugo and lower results for some of the company 's major divisions .	11113	company.n	365	Businesses	MANUAL	4530796	186	192	MJE	company
+LINKED:[39	39	186	192	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.7157895	0.44444445	0.19456366	BABELFY]
+RANK:=== COUNTER  Counter 43474 ===
+	Institutions: 0.003508771929824553
+	Businesses: 0.0017152658662092537
+	Organization: 7.396449704141909E-4
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:115	23019	1	1	0	2824527	Aetna Life and Casualty Co. 's third - quarter net income fell 22 % to $ 182.6 million , or $ 1.63 a share , reflecting the damages from Hurricane Hugo and lower results for some of the company 's major divisions .	13735	income.n	1873	Earnings_and_losses	MANUAL	4530842	51	56	RLG	income
+LINKED:[11	11	51	56	bn:00046315n		http://babelnet.org/rdf/s00046315n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43476 ===
+	Earnings_and_losses: 0.013333333333333352
+	Amounting_to: 0.009090909090909116
+	Possession: 0.001068376068376072
+
+SELECTED:[Earnings_and_losses]
+MATCH!
+SILVER:115	23019	1	1	0	2824527	Aetna Life and Casualty Co. 's third - quarter net income fell 22 % to $ 182.6 million , or $ 1.63 a share , reflecting the damages from Hurricane Hugo and lower results for some of the company 's major divisions .	13740	result.n	1873	Earnings_and_losses	MANUAL	4530843	162	168	RLG	results
+LINKED:[34	34	162	168	bn:00021961n	http://dbpedia.org/resource/Result	http://babelnet.org/rdf/s00021961n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43478 ===
+	Being_in_effect: 0.02173913043478262
+	Objective_influence: 0.0068965517241379205
+	Subjective_influence: 0.0047169811320754455
+	Causation: 0.001773049645390089
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	1	0	2824527	Aetna Life and Casualty Co. 's third - quarter net income fell 22 % to $ 182.6 million , or $ 1.63 a share , reflecting the damages from Hurricane Hugo and lower results for some of the company 's major divisions .	13729	quarter.n	229	Calendric_unit	MANUAL	4530928	39	45	AlK	quarter
+LINKED:[9	9	39	45	bn:00036111n		http://babelnet.org/rdf/s00036111n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43480 ===
+	Quantity: 5.643340857787603E-4
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	1	0	2824527	Aetna Life and Casualty Co. 's third - quarter net income fell 22 % to $ 182.6 million , or $ 1.63 a share , reflecting the damages from Hurricane Hugo and lower results for some of the company 's major divisions .	13736	net.n	1873	Earnings_and_losses	MANUAL	4530929	47	49	AlK	net
+LINKED:[10	10	47	49	bn:00102969a		http://babelnet.org/rdf/s00102969a	0.8	0.11111111	0.005722461	BABELFY]
+RANK:=== COUNTER  Counter 43482 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	1	0	2824527	Aetna Life and Casualty Co. 's third - quarter net income fell 22 % to $ 182.6 million , or $ 1.63 a share , reflecting the damages from Hurricane Hugo and lower results for some of the company 's major divisions .	14650	damage.n	415	Damaging	MANUAL	4530930	124	130	AlK	damages
+LINKED:[28	28	124	130	bn:00003333n	http://dbpedia.org/resource/Damages	http://babelnet.org/rdf/s00003333n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43484 ===
+	Fining: 0.05555555555555554
+	Rewards_and_punishments: 0.016666666666666646
+	Expensiveness: 0.0038910505836575997
+	Possession: 0.001068376068376072
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	2	0	2824528	Catastrophe losses reduced Aetna 's net income by $ 50 million , including $ 36 million from Hugo .	2308	catastrophe.n	115	Catastrophe	MANUAL	4530800	0	10	MJE	Catastrophe
+LINKED:[0	0	0	10	bn:03332781n	http://dbpedia.org/resource/Catastrophe_(drama)	http://babelnet.org/rdf/s03332781n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43486 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	2	0	2824528	Catastrophe losses reduced Aetna 's net income by $ 50 million , including $ 36 million from Hugo .	1990	reduce.v	96	Cause_change_of_position_on_a_scale	MANUAL	4530801	19	25	MJE	reduced
+LINKED:[2	2	19	25	bn:00090497v		http://babelnet.org/rdf/s00090497v	1.0	0.14285715	0.03076923	BABELFY]
+RANK:=== COUNTER  Counter 43488 ===
+	Becoming: 0.004366812227074228
+	Undergo_change: 6.36537237428378E-4
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	2	0	2824528	Catastrophe losses reduced Aetna 's net income by $ 50 million , including $ 36 million from Hugo .	13340	including.prep	1153	Inclusion	MANUAL	4530802	65	73	MJE	including
+LINKED:[12	12	65	73	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43490 ===
+	Cause_to_be_included: 0.017241379310344817
+	Inclusion: 0.00191938579654508
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:115	23019	1	2	0	2824528	Catastrophe losses reduced Aetna 's net income by $ 50 million , including $ 36 million from Hugo .	13733	loss.n	1873	Earnings_and_losses	MANUAL	4530844	12	17	RLG	losses
+LINKED:[1	1	12	17	bn:00052054n		http://babelnet.org/rdf/s00052054n	0.8	0.2857143	0.12307692	BABELFY]
+RANK:=== COUNTER  Counter 43492 ===
+	Amounting_to: 0.009090909090909116
+	Possession: 0.001068376068376072
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	2	0	2824528	Catastrophe losses reduced Aetna 's net income by $ 50 million , including $ 36 million from Hugo .	13735	income.n	1873	Earnings_and_losses	MANUAL	4530845	40	45	RLG	income
+LINKED:[6	6	40	45	bn:00046315n		http://babelnet.org/rdf/s00046315n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43494 ===
+	Earnings_and_losses: 0.013333333333333352
+	Amounting_to: 0.009090909090909116
+	Possession: 0.001068376068376072
+
+SELECTED:[Earnings_and_losses]
+MATCH!
+SILVER:115	23019	1	2	0	2824528	Catastrophe losses reduced Aetna 's net income by $ 50 million , including $ 36 million from Hugo .	13736	net.n	1873	Earnings_and_losses	MANUAL	4530933	36	38	AlK	net
+LINKED:[5	5	36	38	bn:00107237a		http://babelnet.org/rdf/s00107237a	1.0	0.14285715	0.015384615	BABELFY]
+RANK:=== COUNTER  Counter 43496 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	2	2	0	2824529	Last year catastrophe losses totaled $ 5 million , when net was $ 235.5 million , or $ 2.07 a share .	2308	catastrophe.n	115	Catastrophe	MANUAL	4530803	10	20	MJE	catastrophe
+LINKED:[2	2	10	20	bn:00014640n	http://dbpedia.org/resource/Disaster	http://babelnet.org/rdf/s00014640n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43498 ===
+	Predicament: 0.01639344262295081
+	Catastrophe: 0.015625
+	Experiencer_obj: 0.00191204588910135
+
+SELECTED:[Catastrophe]
+MATCH!
+SILVER:115	23019	2	2	0	2824529	Last year catastrophe losses totaled $ 5 million , when net was $ 235.5 million , or $ 2.07 a share .	8460	total.v	602	Amounting_to	MANUAL	4530804	29	35	MJE	totaled
+LINKED:[4	4	29	35	bn:00082327v		http://babelnet.org/rdf/s00082327v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43500 ===
+	Commutative_statement: 0.039999999999999994
+	Amounting_to: 0.009090909090909116
+	Performers_and_roles: 0.0033333333333333466
+	Quantity: 5.643340857787603E-4
+
+SELECTED:[Amounting_to]
+MATCH!
+SILVER:115	23019	2	2	0	2824529	Last year catastrophe losses totaled $ 5 million , when net was $ 235.5 million , or $ 2.07 a share .	13733	loss.n	1873	Earnings_and_losses	MANUAL	4530846	22	27	RLG	losses
+LINKED:[3	3	22	27	bn:00052050n		http://babelnet.org/rdf/s00052050n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43502 ===
+	Possession: 0.001068376068376072
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	2	2	0	2824529	Last year catastrophe losses totaled $ 5 million , when net was $ 235.5 million , or $ 2.07 a share .	13736	net.n	1873	Earnings_and_losses	MANUAL	4530847	56	58	RLG	net
+LINKED:[10	10	56	58	bn:00024712n	http://dbpedia.org/resource/Cyberspace	http://babelnet.org/rdf/s00024712n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43504 ===
+	System: 0.010752688172043019
+	Gizmo: 2.5523226135784757E-4
+	Inherent_purpose: 1.9264110961277704E-4
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	2	2	0	2824529	Last year catastrophe losses totaled $ 5 million , when net was $ 235.5 million , or $ 2.07 a share .	4074	year.n	229	Calendric_unit	MANUAL	4530935	5	8	AlK	year
+LINKED:[1	1	5	8	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43506 ===
+	Measure_duration: 0.010526315789473672
+	Calendric_unit: 0.004854368932038836
+	Location_in_time: 0.0014880952380952428
+	Timespan: 0.0012531328320802212
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:115	23019	1	3	0	2824530	The year - earlier results have been restated to reflect an accounting change .	1747	early.a	81	Relative_time	MANUAL	4530805	11	17	MJE	earlier
+LINKED:[3	3	11	17	bn:00101934a		http://babelnet.org/rdf/s00101934a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43508 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	3	0	2824530	The year - earlier results have been restated to reflect an accounting change .	10804	change.n	1172	Undergo_change	MANUAL	4530806	71	76	MJE	change
+LINKED:[12	12	71	76	bn:00003125n	http://dbpedia.org/resource/Change_(philosophy)	http://babelnet.org/rdf/s00003125n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43510 ===
+	Undergo_change: 6.36537237428378E-4
+	Cause_change: 2.9886431560074067E-4
+
+SELECTED:[Undergo_change]
+MATCH!
+SILVER:115	23019	1	3	0	2824530	The year - earlier results have been restated to reflect an accounting change .	3878	year.n	224	Measure_duration	MANUAL	4530830	4	7	MJE	year
+LINKED:[1	1	4	7	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43512 ===
+	Measure_duration: 0.010526315789473672
+	Calendric_unit: 0.004854368932038836
+	Location_in_time: 0.0014880952380952428
+	Timespan: 0.0012531328320802212
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:115	23019	1	3	0	2824530	The year - earlier results have been restated to reflect an accounting change .	13740	result.n	1873	Earnings_and_losses	MANUAL	4530848	19	25	RLG	results
+LINKED:[4	4	19	25	bn:00021961n	http://dbpedia.org/resource/Result	http://babelnet.org/rdf/s00021961n	0.75	0.2	0.048387095	BABELFY]
+RANK:=== COUNTER  Counter 43514 ===
+	Being_in_effect: 0.02173913043478262
+	Objective_influence: 0.0068965517241379205
+	Subjective_influence: 0.0047169811320754455
+	Causation: 0.001773049645390089
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	4	0	2824531	The insurer has started processing claims from the Northern California earthquake nearly two weeks ago .	4447	start.v	146	Activity_start	MANUAL	4530807	16	22	MJE	started
+LINKED:[3	3	16	22	bn:00094301v		http://babelnet.org/rdf/s00094301v	1.0	0.11111111	0.0078125	BABELFY]
+RANK:=== COUNTER  Counter 43516 ===
+	Activity_start: 0.01754385964912278
+
+SELECTED:[Activity_start]
+MATCH!
+SILVER:115	23019	1	4	0	2824531	The insurer has started processing claims from the Northern California earthquake nearly two weeks ago .	3876	week.n	224	Measure_duration	MANUAL	4530808	93	97	MJE	weeks
+LINKED:[13	13	93	97	bn:01420694n	http://dbpedia.org/resource/Weeks_(surname)	http://babelnet.org/rdf/s01420694n	1.0	0.11111111	0.0078125	BABELFY]
+RANK:=== COUNTER  Counter 43518 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	4	0	2824531	The insurer has started processing claims from the Northern California earthquake nearly two weeks ago .	13726	earthquake.n	670	Moving_in_place	MANUAL	4530849	71	80	RLG	earthquake
+LINKED:[10	10	71	80	bn:00029448n	http://dbpedia.org/resource/Earthquake	http://babelnet.org/rdf/s00029448n	0.8333333	0.44444445	0.15625	BABELFY]
+RANK:=== COUNTER  Counter 43520 ===
+	Moving_in_place: 0.008333333333333342
+	Event: 8.904719501335603E-4
+
+SELECTED:[Moving_in_place]
+MATCH!
+SILVER:115	23019	1	4	0	2824531	The insurer has started processing claims from the Northern California earthquake nearly two weeks ago .	14283	nearly.adv	1923	Proportional_quantity	MANUAL	4530969	82	87	AlK	nearly
+LINKED:[11	11	82	87	bn:00114079r		http://babelnet.org/rdf/s00114079r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43522 ===
+	Relational_quantity: 0.006250000000000016
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	2	4	0	2824532	But because these claims are more difficult to evaluate and have been coming in more slowly , the company has no estimate of the impact of the earthquake on fourth - quarter results .	6567	difficult.a	375	Difficulty	MANUAL	4530809	34	42	MJE	difficult
+LINKED:[6	6	34	42	bn:00101358a		http://babelnet.org/rdf/s00101358a	1.0	0.09090909	0.015384615	BABELFY]
+RANK:=== COUNTER  Counter 43524 ===
+	Difficulty: 0.0909090909090909
+
+SELECTED:[Difficulty]
+MATCH!
+SILVER:115	23019	2	4	0	2824532	But because these claims are more difficult to evaluate and have been coming in more slowly , the company has no estimate of the impact of the earthquake on fourth - quarter results .	941	come.v	54	Arriving	MANUAL	4530810	70	75	MJE	coming
+LINKED:[12	12	70	75	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43526 ===
+	Arriving: 0.004566210045662128
+	Motion: 0.001773049645390089
+	Travel: 0.0011876484560570037
+	Change_position_on_a_scale: 0.0010940919037199237
+	Cause_change_of_position_on_a_scale: 0.0010395010395010604
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:115	23019	2	4	0	2824532	But because these claims are more difficult to evaluate and have been coming in more slowly , the company has no estimate of the impact of the earthquake on fourth - quarter results .	12291	estimate.n	1516	Estimated_value	MANUAL	4530811	113	120	MJE	estimate
+LINKED:[21	21	113	120	bn:00005164n	http://dbpedia.org/resource/Estimation	http://babelnet.org/rdf/s00005164n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43528 ===
+	Estimated_value: 0.125
+	Estimating: 0.04347826086956524
+	Process: 6.821282401091278E-4
+
+SELECTED:[Estimated_value]
+MATCH!
+SILVER:115	23019	2	4	0	2824532	But because these claims are more difficult to evaluate and have been coming in more slowly , the company has no estimate of the impact of the earthquake on fourth - quarter results .	11091	impact.n	1084	Objective_influence	MANUAL	4530812	129	134	MJE	impact
+LINKED:[24	24	129	134	bn:00046064n	http://dbpedia.org/resource/Impact_(mechanics)	http://babelnet.org/rdf/s00046064n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43530 ===
+	Impact: 0.0027100271002709936
+	Event: 8.904719501335603E-4
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	2	4	0	2824532	But because these claims are more difficult to evaluate and have been coming in more slowly , the company has no estimate of the impact of the earthquake on fourth - quarter results .	11252	fourth.a	1147	Ordinal_numbers	MANUAL	4530813	157	162	MJE	fourth
+LINKED:[29	29	157	162	bn:00096026a		http://babelnet.org/rdf/s00096026a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43532 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	2	4	0	2824532	But because these claims are more difficult to evaluate and have been coming in more slowly , the company has no estimate of the impact of the earthquake on fourth - quarter results .	8133	evaluate.v	519	Assessing	MANUAL	4530831	47	54	MJE	evaluate
+LINKED:[8	8	47	54	bn:00087763v		http://babelnet.org/rdf/s00087763v	1.0	0.09090909	0.046153847	BABELFY]
+RANK:=== COUNTER  Counter 43534 ===
+	Assessing: 0.002976190476190485
+	Cogitation: 0.0015105740181268715
+
+SELECTED:[Assessing]
+MATCH!
+SILVER:115	23019	2	4	0	2824532	But because these claims are more difficult to evaluate and have been coming in more slowly , the company has no estimate of the impact of the earthquake on fourth - quarter results .	11113	company.n	365	Businesses	MANUAL	4530832	98	104	MJE	company
+LINKED:[18	18	98	104	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43536 ===
+	Institutions: 0.003508771929824553
+	Businesses: 0.0017152658662092537
+	Organization: 7.396449704141909E-4
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:115	23019	2	4	0	2824532	But because these claims are more difficult to evaluate and have been coming in more slowly , the company has no estimate of the impact of the earthquake on fourth - quarter results .	13729	quarter.n	229	Calendric_unit	MANUAL	4530850	166	172	RLG	quarter
+LINKED:[31	31	166	172	bn:00001861n	http://dbpedia.org/resource/Stern	http://babelnet.org/rdf/s00001861n	1.0	0.09090909	0.015384615	BABELFY]
+RANK:=== COUNTER  Counter 43538 ===
+	Part_orientational: 0.006944444444444461
+	Part_inner_outer: 0.0038610038610038676
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	2	4	0	2824532	But because these claims are more difficult to evaluate and have been coming in more slowly , the company has no estimate of the impact of the earthquake on fourth - quarter results .	13740	result.n	1873	Earnings_and_losses	MANUAL	4530851	174	180	RLG	results
+LINKED:[32	32	174	180	bn:00021961n	http://dbpedia.org/resource/Result	http://babelnet.org/rdf/s00021961n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43540 ===
+	Being_in_effect: 0.02173913043478262
+	Objective_influence: 0.0068965517241379205
+	Subjective_influence: 0.0047169811320754455
+	Causation: 0.001773049645390089
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	2	4	0	2824532	But because these claims are more difficult to evaluate and have been coming in more slowly , the company has no estimate of the impact of the earthquake on fourth - quarter results .	14618	slowly.adv	967	Taking_time	MANUAL	4530973	85	90	AlK	slowly
+LINKED:[15	15	85	90	bn:00115161r		http://babelnet.org/rdf/s00115161r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43542 ===
+	Taking_time: 0.03448275862068967
+
+SELECTED:[Taking_time]
+MATCH!
+SILVER:115	23019	4	4	0	2824534	In the latest quarter , Aetna had a $ 23 million loss on its auto / homeowners line , compared with earnings of $ 33 million last year .	13729	quarter.n	229	Calendric_unit	MANUAL	4530852	14	20	RLG	quarter
+LINKED:[3	3	14	20	bn:00036111n		http://babelnet.org/rdf/s00036111n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43544 ===
+	Quantity: 5.643340857787603E-4
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	4	4	0	2824534	In the latest quarter , Aetna had a $ 23 million loss on its auto / homeowners line , compared with earnings of $ 33 million last year .	13733	loss.n	1873	Earnings_and_losses	MANUAL	4530853	49	52	RLG	loss
+LINKED:[11	11	49	52	bn:00052050n		http://babelnet.org/rdf/s00052050n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43546 ===
+	Possession: 0.001068376068376072
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	4	4	0	2824534	In the latest quarter , Aetna had a $ 23 million loss on its auto / homeowners line , compared with earnings of $ 33 million last year .	13731	earnings.n	1873	Earnings_and_losses	MANUAL	4530854	100	107	RLG	earnings
+LINKED:[21	21	100	107	bn:00029415n	http://dbpedia.org/resource/Net_income	http://babelnet.org/rdf/s00029415n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43548 ===
+	Earnings_and_losses: 0.013333333333333352
+	Amounting_to: 0.009090909090909116
+	Possession: 0.001068376068376072
+
+SELECTED:[Earnings_and_losses]
+MATCH!
+SILVER:115	23019	4	4	0	2824534	In the latest quarter , Aetna had a $ 23 million loss on its auto / homeowners line , compared with earnings of $ 33 million last year .	14794	latest.a	81	Relative_time	MANUAL	4530937	7	12	AlK	latest
+LINKED:[2	2	7	12	bn:00105763a		http://babelnet.org/rdf/s00105763a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43550 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	4	4	0	2824534	In the latest quarter , Aetna had a $ 23 million loss on its auto / homeowners line , compared with earnings of $ 33 million last year .	6115	compare.v	353	Evaluative_comparison	MANUAL	4530938	86	93	AlK	compared
+LINKED:[19	19	86	93	bn:00085450v		http://babelnet.org/rdf/s00085450v	1.0	0.11111111	0.007575758	BABELFY]
+RANK:=== COUNTER  Counter 43552 ===
+	Studying: 0.017857142857142835
+	Evaluative_comparison: 0.011235955056179754
+	Inspecting: 0.009174311926605531
+	Scrutiny: 0.003571428571428582
+
+SELECTED:[Evaluative_comparison]
+MATCH!
+SILVER:115	23019	4	4	0	2824534	In the latest quarter , Aetna had a $ 23 million loss on its auto / homeowners line , compared with earnings of $ 33 million last year .	4074	year.n	229	Calendric_unit	MANUAL	4530940	130	133	AlK	year
+LINKED:[27	27	130	133	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43554 ===
+	Measure_duration: 0.010526315789473672
+	Calendric_unit: 0.004854368932038836
+	Location_in_time: 0.0014880952380952428
+	Timespan: 0.0012531328320802212
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:115	23019	5	4	0	2824535	Profit for its commercial insurance division fell 30 % to $ 59 million , reflecting higher catastrophe losses and the price war in the property / casualty market for nearly three years .	1872	fall.v	91	Change_position_on_a_scale	MANUAL	4530814	45	48	MJE	fell
+LINKED:[6	6	45	48	bn:00087979v		http://babelnet.org/rdf/s00087979v	0.75	0.14285715	0.0051768767	BABELFY]
+RANK:=== COUNTER  Counter 43556 ===
+	Death: 0.027027027027027053
+	Rotting: 0.02173913043478262
+	Becoming: 0.004366812227074228
+	Undergo_change: 6.36537237428378E-4
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	5	4	0	2824535	Profit for its commercial insurance division fell 30 % to $ 59 million , reflecting higher catastrophe losses and the price war in the property / casualty market for nearly three years .	1980	high.a	95	Position_on_a_scale	MANUAL	4530815	84	89	MJE	higher
+LINKED:[15	15	84	89	bn:00104196a		http://babelnet.org/rdf/s00104196a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43558 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	5	4	0	2824535	Profit for its commercial insurance division fell 30 % to $ 59 million , reflecting higher catastrophe losses and the price war in the property / casualty market for nearly three years .	2894	price.n	82	Commerce_scenario	MANUAL	4530816	118	122	MJE	price
+LINKED:[20	20	118	122	bn:00025083n	http://dbpedia.org/resource/Price	http://babelnet.org/rdf/s00025083n	0.7486631	0.5	0.12079379	BABELFY]
+RANK:=== COUNTER  Counter 43560 ===
+	Expensiveness: 0.0038910505836575997
+	Possession: 0.001068376068376072
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	5	4	0	2824535	Profit for its commercial insurance division fell 30 % to $ 59 million , reflecting higher catastrophe losses and the price war in the property / casualty market for nearly three years .	1939	war.n	93	Hostile_encounter	MANUAL	4530817	124	126	MJE	war
+LINKED:[21	21	124	126	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.96	0.5714286	0.08283003	BABELFY]
+RANK:=== COUNTER  Counter 43562 ===
+	Commonality: 0.0011560693641618227
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	5	4	0	2824535	Profit for its commercial insurance division fell 30 % to $ 59 million , reflecting higher catastrophe losses and the price war in the property / casualty market for nearly three years .	2308	catastrophe.n	115	Catastrophe	MANUAL	4530818	91	101	MJE	catastrophe
+LINKED:[16	16	91	101	bn:00014640n	http://dbpedia.org/resource/Disaster	http://babelnet.org/rdf/s00014640n	1.0	0.35714287	0.025884382	BABELFY]
+RANK:=== COUNTER  Counter 43564 ===
+	Predicament: 0.01639344262295081
+	Catastrophe: 0.015625
+	Experiencer_obj: 0.00191204588910135
+
+SELECTED:[Catastrophe]
+MATCH!
+SILVER:115	23019	5	4	0	2824535	Profit for its commercial insurance division fell 30 % to $ 59 million , reflecting higher catastrophe losses and the price war in the property / casualty market for nearly three years .	13732	profit.n	1873	Earnings_and_losses	MANUAL	4530855	0	5	RLG	Profit
+LINKED:[0	0	0	5	bn:00632106n	http://dbpedia.org/resource/Profit_(economics)	http://babelnet.org/rdf/s00632106n	0.83168316	0.5714286	0.14495255	BABELFY]
+RANK:=== COUNTER  Counter 43566 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	5	4	0	2824535	Profit for its commercial insurance division fell 30 % to $ 59 million , reflecting higher catastrophe losses and the price war in the property / casualty market for nearly three years .	13733	loss.n	1873	Earnings_and_losses	MANUAL	4530856	103	108	RLG	losses
+LINKED:[17	17	103	108	bn:00052050n		http://babelnet.org/rdf/s00052050n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43568 ===
+	Possession: 0.001068376068376072
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	5	4	0	2824535	Profit for its commercial insurance division fell 30 % to $ 59 million , reflecting higher catastrophe losses and the price war in the property / casualty market for nearly three years .	3878	year.n	224	Measure_duration	MANUAL	4530858	179	183	RLG	years
+LINKED:[31	31	179	183	bn:00001940n	http://dbpedia.org/resource/Old_age	http://babelnet.org/rdf/s00001940n	0.8	0.14285715	0.0034512512	BABELFY]
+RANK:=== COUNTER  Counter 43570 ===
+	Location_in_time: 0.0014880952380952428
+	Timespan: 0.0012531328320802212
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	5	4	0	2824535	Profit for its commercial insurance division fell 30 % to $ 59 million , reflecting higher catastrophe losses and the price war in the property / casualty market for nearly three years .	13725	casualty.n	115	Catastrophe	MANUAL	4530862	146	153	RLG	casualty
+LINKED:[26	26	146	153	bn:00016591n		http://babelnet.org/rdf/s00016591n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43572 ===
+	Undergoing: 0.023255813953488358
+	People: 9.580379383024174E-5
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	5	4	0	2824535	Profit for its commercial insurance division fell 30 % to $ 59 million , reflecting higher catastrophe losses and the price war in the property / casualty market for nearly three years .	2498	property.n	118	Possession	MANUAL	4530941	135	142	AlK	property
+LINKED:[24	24	135	142	bn:00064755n	http://dbpedia.org/resource/Property	http://babelnet.org/rdf/s00064755n	0.8955224	0.35714287	0.051768765	BABELFY]
+RANK:=== COUNTER  Counter 43574 ===
+	Possession: 0.001068376068376072
+
+SELECTED:[Possession]
+MATCH!
+SILVER:115	23019	5	4	0	2824535	Profit for its commercial insurance division fell 30 % to $ 59 million , reflecting higher catastrophe losses and the price war in the property / casualty market for nearly three years .	14283	nearly.adv	1923	Proportional_quantity	MANUAL	4530976	166	171	AlK	nearly
+LINKED:[29	29	166	171	bn:00114751r		http://babelnet.org/rdf/s00114751r	1.0	0.071428575	8.628128E-4	BABELFY]
+RANK:=== COUNTER  Counter 43576 ===
+	Attention: 0.03448275862068967
+	Social_connection: 0.03333333333333334
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	5	0	2824536	However , Aetna 's employee benefits division , which includes its group health insurance operations , posted a 34 % profit gain to $ 106 million .	8396	employee.n	323	Employing	MANUAL	4530819	19	26	MJE	employee
+LINKED:[4	4	19	26	bn:00030618n		http://babelnet.org/rdf/s00030618n	0.9375	0.21428572	0.02377179	BABELFY]
+RANK:=== COUNTER  Counter 43578 ===
+	Hiring: 0.02380952380952379
+	Employing: 9.398496240601647E-4
+	People: 9.580379383024174E-5
+
+SELECTED:[Employing]
+MATCH!
+SILVER:115	23019	1	5	0	2824536	However , Aetna 's employee benefits division , which includes its group health insurance operations , posted a 34 % profit gain to $ 106 million .	10687	include.v	1153	Inclusion	MANUAL	4530820	54	61	MJE	includes
+LINKED:[9	9	54	61	bn:00089662v		http://babelnet.org/rdf/s00089662v	0.8	0.14285715	0.0063391444	BABELFY]
+RANK:=== COUNTER  Counter 43580 ===
+	Commutative_process: 0.017857142857142835
+	Cause_to_be_included: 0.017241379310344817
+	Change_position_on_a_scale: 0.0010940919037199237
+	Cause_change_of_position_on_a_scale: 0.0010395010395010604
+	Undergo_change: 6.36537237428378E-4
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	5	0	2824536	However , Aetna 's employee benefits division , which includes its group health insurance operations , posted a 34 % profit gain to $ 106 million .	6905	operation.n	365	Businesses	MANUAL	4530822	90	99	MJE	operations
+LINKED:[14	14	90	99	bn:00059125n		http://babelnet.org/rdf/s00059125n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43582 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	5	0	2824536	However , Aetna 's employee benefits division , which includes its group health insurance operations , posted a 34 % profit gain to $ 106 million .	13732	profit.n	1873	Earnings_and_losses	MANUAL	4530861	117	122	MJE	profit
+LINKED:[20	20	117	122	bn:00632106n	http://dbpedia.org/resource/Profit_(economics)	http://babelnet.org/rdf/s00632106n	0.74038464	0.5	0.12202853	BABELFY]
+RANK:=== COUNTER  Counter 43584 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	5	0	2824536	However , Aetna 's employee benefits division , which includes its group health insurance operations , posted a 34 % profit gain to $ 106 million .	13724	gain.n	91	Change_position_on_a_scale	MANUAL	4530863	124	127	MJE	gain
+LINKED:[21	21	124	127	bn:00001294n		http://babelnet.org/rdf/s00001294n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43586 ===
+	Change_position_on_a_scale: 0.0010940919037199237
+	Cause_change_of_position_on_a_scale: 0.0010395010395010604
+	Quantity: 5.643340857787603E-4
+
+SELECTED:[Change_position_on_a_scale]
+MATCH!
+SILVER:115	23019	1	5	0	2824536	However , Aetna 's employee benefits division , which includes its group health insurance operations , posted a 34 % profit gain to $ 106 million .	14797	group.n	1371	Organization	MANUAL	4530964	67	71	AlK	group
+LINKED:[11	11	67	71	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43588 ===
+	Aggregate: 0.001584786053882745
+	Organization: 7.396449704141909E-4
+
+SELECTED:[Organization]
+MATCH!
+SILVER:115	23019	2	5	0	2824537	Third - quarter results included net realized capital gains of $ 48 million , which included $ 27 million from the sale of Federated Investors in August and a $ 15 million tax credit .	10687	include.v	1153	Inclusion	MANUAL	4530824	24	31	MJE	included
+LINKED:[4	4	24	31	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43590 ===
+	Cause_to_be_included: 0.017241379310344817
+	Inclusion: 0.00191938579654508
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:115	23019	2	5	0	2824537	Third - quarter results included net realized capital gains of $ 48 million , which included $ 27 million from the sale of Federated Investors in August and a $ 15 million tax credit .	10687	include.v	1153	Inclusion	MANUAL	4530825	84	91	MJE	included
+LINKED:[15	15	84	91	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43592 ===
+	Cause_to_be_included: 0.017241379310344817
+	Inclusion: 0.00191938579654508
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:115	23019	2	5	0	2824537	Third - quarter results included net realized capital gains of $ 48 million , which included $ 27 million from the sale of Federated Investors in August and a $ 15 million tax credit .	8745	sale.n	172	Commerce_sell	MANUAL	4530826	115	118	MJE	sale
+LINKED:[21	21	115	118	bn:00068915n		http://babelnet.org/rdf/s00068915n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43594 ===
+	Commercial_transaction: 0.006756756756756742
+	Commerce_scenario: 0.0012019230769230531
+	Commonality: 0.0011560693641618227
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	2	5	0	2824537	Third - quarter results included net realized capital gains of $ 48 million , which included $ 27 million from the sale of Federated Investors in August and a $ 15 million tax credit .	13740	result.n	1873	Earnings_and_losses	MANUAL	4530859	16	22	MJE	results
+LINKED:[3	3	16	22	bn:00021961n	http://dbpedia.org/resource/Result	http://babelnet.org/rdf/s00021961n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43596 ===
+	Being_in_effect: 0.02173913043478262
+	Objective_influence: 0.0068965517241379205
+	Subjective_influence: 0.0047169811320754455
+	Causation: 0.001773049645390089
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	2	5	0	2824537	Third - quarter results included net realized capital gains of $ 48 million , which included $ 27 million from the sale of Federated Investors in August and a $ 15 million tax credit .	13729	quarter.n	229	Calendric_unit	MANUAL	4530860	8	14	MJE	quarter
+LINKED:[2	2	8	14	bn:00036111n		http://babelnet.org/rdf/s00036111n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43598 ===
+	Quantity: 5.643340857787603E-4
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	2	5	0	2824537	Third - quarter results included net realized capital gains of $ 48 million , which included $ 27 million from the sale of Federated Investors in August and a $ 15 million tax credit .	13365	capital.n	1761	Money	MANUAL	4530968	46	52	AlK	capital
+LINKED:[7	7	46	52	bn:00015496n	http://dbpedia.org/resource/Working_capital	http://babelnet.org/rdf/s00015496n	0.739726	0.5625	0.20199502	BABELFY]
+RANK:=== COUNTER  Counter 43600 ===
+	Possession: 0.001068376068376072
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	6	0	2824538	In the nine months , net rose 4.3 % to $ 525.8 million or $ 4.67 a share , from $ 504.2 million , or $ 4.41 a share , last year .	3877	month.n	224	Measure_duration	MANUAL	4530827	12	17	MJE	months
+LINKED:[3	3	12	17	bn:00014710n	http://dbpedia.org/resource/Month	http://babelnet.org/rdf/s00014710n	0.71428573	0.25	0.064935066	BABELFY]
+RANK:=== COUNTER  Counter 43602 ===
+	Calendric_unit: 0.004854368932038836
+	Location_in_time: 0.0014880952380952428
+	Timespan: 0.0012531328320802212
+
+SELECTED:[]
+WRONG!
+SILVER:115	23019	1	6	0	2824538	In the nine months , net rose 4.3 % to $ 525.8 million or $ 4.67 a share , from $ 504.2 million , or $ 4.41 a share , last year .	1874	rise.v	91	Change_position_on_a_scale	MANUAL	4530828	25	28	MJE	rose
+LINKED:[6	6	25	28	bn:00082761v		http://babelnet.org/rdf/s00082761v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43604 ===
+	Change_event_time: 0.0169491525423729
+	Motion_directional: 0.012987012987012984
+	Change_posture: 0.00862068965517243
+	Motion: 0.001773049645390089
+	Travel: 0.0011876484560570037
+	Change_position_on_a_scale: 0.0010940919037199237
+	Cause_change_of_position_on_a_scale: 0.0010395010395010604
+
+SELECTED:[Change_position_on_a_scale]
+MATCH!
+SILVER:115	23019	1	6	0	2824538	In the nine months , net rose 4.3 % to $ 525.8 million or $ 4.67 a share , from $ 504.2 million , or $ 4.41 a share , last year .	4074	year.n	229	Calendric_unit	MANUAL	4530829	123	126	MJE	year
+LINKED:[31	31	123	126	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43606 ===
+	Measure_duration: 0.010526315789473672
+	Calendric_unit: 0.004854368932038836
+	Location_in_time: 0.0014880952380952428
+	Timespan: 0.0012531328320802212
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:115	23019	1	6	0	2824538	In the nine months , net rose 4.3 % to $ 525.8 million or $ 4.67 a share , from $ 504.2 million , or $ 4.41 a share , last year .	13736	net.n	1873	Earnings_and_losses	MANUAL	4530857	21	23	MJE	net
+LINKED:[5	5	21	23	bn:00024712n	http://dbpedia.org/resource/Cyberspace	http://babelnet.org/rdf/s00024712n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43608 ===
+	System: 0.010752688172043019
+	Gizmo: 2.5523226135784757E-4
+	Inherent_purpose: 1.9264110961277704E-4
+
+SELECTED:[]
+WRONG!
+filename	PropBank__AetnaLifeAndCasualty.xml
+docAnnotations	92
+docManual	80
+docUnannotated	12
+sentences	12
+paragraphs	6
+Overlapping	70
+Disambiguated	58
+TP	26
+TN	12
+FP	0
+FN	22
+P	1.0
+R	0.5416666666666666
+F	0.7027027027027027
+A	0.6333333333333333

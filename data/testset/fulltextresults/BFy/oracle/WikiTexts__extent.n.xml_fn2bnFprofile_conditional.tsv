@@ -1,0 +1,76 @@
+SILVER:246	25738	10	1	0	4216918	To reduce the extent of farm-related youth injuries , the National Institute of Occupational Safety and Health ( NIOSH ) and the Marshfield Clinic Research Foundation have issued a set of guidelines known as the North American Guidelines for Children's Agricultural Tasks ( NAGCAT ) based on child development principles that matched children 's abilities with the requirements of specific farm work .	18662	extent.n	2604	Quantity	MANUAL	6773820	14	19	CFB	extent
+LINKED:[3	3	14	19	bn:00032425n		http://babelnet.org/rdf/s00032425n	1.0	0.027027028	1.5637216E-4	BABELFY]
+RANK:=== COUNTER  Counter 32642 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25738	5	2	0	4216923	Most of the population is descended mostly from Arawak , and to a lesser extent Spanish , Italian , Dutch , and a few French , Portuguese , British , and African ancestors .	18662	extent.n	2604	Quantity	MANUAL	6773821	73	78	CFB	extent
+LINKED:[14	14	73	78	bn:00032425n		http://babelnet.org/rdf/s00032425n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 32644 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25738	1	3	0	4216929	Opinions of abortion may be described as being a combination of beliefs about abortion 's morality the proper extent of governmental authority in public policy ; and on the rights and responsibilities of the woman seeking to have an abortion .	18662	extent.n	2604	Quantity	MANUAL	6773822	110	115	CFB	extent
+LINKED:[18	18	110	115	bn:00032425n		http://babelnet.org/rdf/s00032425n	1.0	0.1764706	0.003938731	BABELFY]
+RANK:=== COUNTER  Counter 32646 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25738	5	4	0	4216947	The true extent of his collections was not discovered until after his death , when the Andy Warhol Museum in Pittsburgh took in 641 boxes of his `` Stuff . ''	18662	extent.n	2604	Quantity	MANUAL	6773818	9	14	CFB	extent
+LINKED:[2	2	9	14	bn:00032426n		http://babelnet.org/rdf/s00032426n	1.0	0.09090909	0.004219409	BABELFY]
+RANK:=== COUNTER  Counter 32648 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25738	9	4	0	4216951	Slavery was known in ancient Egypt , but the extent and prevalence of its practice are unclear .	18662	extent.n	2604	Quantity	MANUAL	6773819	45	50	CFB	extent
+LINKED:[9	9	45	50	bn:00032426n		http://babelnet.org/rdf/s00032426n	1.0	0.14285715	0.009433962	BABELFY]
+RANK:=== COUNTER  Counter 32650 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25738	5	5	0	4216957	Notably , in #257 ( Oct. 1984 ) , Watson tells Parker that she knows he is Spider-Man , and in #259 ( Dec. 1984 ) , she reveals to Parker the extent of her troubled childhood .	18662	extent.n	2604	Quantity	MANUAL	6773825	142	147	CFB	extent
+LINKED:[34	34	142	147	bn:00032425n		http://babelnet.org/rdf/s00032425n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 32652 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25738	8	5	0	4216960	The permissible extent of this defensive use of force is an arguable point among anarcho-capitalists .	18662	extent.n	2604	Quantity	MANUAL	6773824	16	21	CFB	extent
+LINKED:[2	2	16	21	bn:00032425n		http://babelnet.org/rdf/s00032425n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 32654 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25738	3	6	0	4216965	After the 1945 victory of the Allies over Nazi Germany , and particularly after the extent of the Nazi genocide of Jews became known , the term `` antisemitism '' acquired pejorative connotations .	18662	extent.n	2604	Quantity	MANUAL	6773826	84	89	CFB	extent
+LINKED:[15	15	84	89	bn:00032425n		http://babelnet.org/rdf/s00032425n	1.0	0.06666667	3.3590864E-4	BABELFY]
+RANK:=== COUNTER  Counter 32656 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25738	8	6	0	4216970	The motion of workers is minimized to the extent possible .	18662	extent.n	2604	Quantity	MANUAL	6773827	42	47	CFB	extent
+LINKED:[8	8	42	47	bn:00032426n		http://babelnet.org/rdf/s00032426n	1.0	0.5	0.083333336	BABELFY]
+RANK:=== COUNTER  Counter 32658 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25738	10	9	0	4217001	The exact number and extent of these ''pagi '' is unclear and probably changed over time .	18662	extent.n	2604	Quantity	MANUAL	6773828	21	26	CFB	extent
+LINKED:[4	4	21	26	bn:00032426n		http://babelnet.org/rdf/s00032426n	0.8	0.4	0.08510638	BABELFY]
+RANK:=== COUNTER  Counter 32660 ===
+
+SELECTED:[]
+WRONG!
+filename	WikiTexts__extent.n.xml
+docAnnotations	104
+docManual	10
+docUnannotated	94
+sentences	94
+paragraphs	9
+Overlapping	10
+Disambiguated	0
+TP	0
+TN	94
+FP	0
+FN	10
+P	0.0
+R	0.0
+F	0.0
+A	0.9038461538461539

@@ -1,0 +1,549 @@
+SILVER:195	23758	2	2	0	4104030	While it 's no longer the bargain shopping destination it once was , there are still some good buys to be had .	14368	no	1895	Temporal_collocation	MANUAL	6584611	15	20	MLC	longer
+LINKED:[4	4	15	20	bn:00116156r		http://babelnet.org/rdf/s00116156r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3627 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	2	2	0	4104030	While it 's no longer the bargain shopping destination it once was , there are still some good buys to be had .	13921	shopping.n	1882	Shopping	MANUAL	6584612	34	41	MLC	shopping
+LINKED:[7	7	34	41	bn:00093662v		http://babelnet.org/rdf/s00093662v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3628 ===
+	Shopping: 0.025
+
+SELECTED:[Shopping]
+MATCH!
+SILVER:195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	15331	port.n	196	Locale_by_use	MANUAL	6584618	33	36	MLC	port
+LINKED:[8	8	33	36	bn:00063640n	http://dbpedia.org/resource/Port	http://babelnet.org/rdf/s00063640n	0.96428573	0.54545456	0.04481328	BABELFY]
+RANK:=== COUNTER  Counter 3629 ===
+	Locale_by_use: 0.08448275862068966
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	8745	sale.n	172	Commerce_sell	MANUAL	6584620	53	57	MLC	sales
+LINKED:[12	12	53	57	bn:00068915n		http://babelnet.org/rdf/s00068915n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3630 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	2899	goods.n	82	Commerce_scenario	MANUAL	6584621	65	69	MLC	goods
+LINKED:[15	15	65	69	bn:00021045n	http://dbpedia.org/resource/Commodity	http://babelnet.org/rdf/s00021045n	1.0	0.6363636	0.09294606	BABELFY]
+RANK:=== COUNTER  Counter 3631 ===
+	Containers: 0.1146067415730337
+	Measure_volume: 0.03932584269662921
+	Absorb_heat: 0.012359550561797753
+	Preserving: 0.012359550561797753
+	Cause_fluidic_motion: 0.010112359550561797
+	Commerce_scenario: 0.008988764044943821
+	Money: 0.007865168539325843
+	Cause_to_be_dry: 0.006741573033707865
+	Forging: 0.0056179775280898875
+	Commutative_statement: 0.0044943820224719105
+	Soaking: 0.0044943820224719105
+	Cooking_creation: 0.0044943820224719105
+	Becoming_dry: 0.0033707865168539327
+	Growing_food: 0.0033707865168539327
+	Being_dry: 0.0022471910112359553
+	Possibility: 0.0022471910112359553
+
+SELECTED:[Commerce_scenario]
+MATCH!
+SILVER:195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	3683	country.n	195	Political_locales	MANUAL	6584624	100	106	MLC	country
+LINKED:[22	22	100	106	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.8737864	0.90909094	0.22406639	BABELFY]
+RANK:=== COUNTER  Counter 3632 ===
+	Political_locales: 0.034736842105263156
+	Foreign_or_domestic_country: 0.007368421052631579
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:195	23758	4	2	0	4104032	On photographic equipment , electronic goods , and watches , you avoid the luxury tax payable in your home country .	2206	equipment.n	106	Gizmo	MANUAL	6584627	16	24	MLC	equipment
+LINKED:[2	2	16	24	bn:00031322n		http://babelnet.org/rdf/s00031322n	1.0	0.083333336	0.006802721	BABELFY]
+RANK:=== COUNTER  Counter 3633 ===
+	Bringing: 0.17857142857142858
+	Operate_vehicle: 0.15714285714285714
+	Medical_instruments: 0.12857142857142856
+	Gizmo: 0.10714285714285714
+	Supply: 0.07857142857142857
+
+SELECTED:[Gizmo]
+MATCH!
+SILVER:195	23758	4	2	0	4104032	On photographic equipment , electronic goods , and watches , you avoid the luxury tax payable in your home country .	2899	goods.n	82	Commerce_scenario	MANUAL	6584628	39	43	MLC	goods
+LINKED:[5	5	39	43	bn:00021045n	http://dbpedia.org/resource/Commodity	http://babelnet.org/rdf/s00021045n	1.0	0.33333334	0.12244898	BABELFY]
+RANK:=== COUNTER  Counter 3634 ===
+	Containers: 0.1146067415730337
+	Measure_volume: 0.03932584269662921
+	Absorb_heat: 0.012359550561797753
+	Preserving: 0.012359550561797753
+	Cause_fluidic_motion: 0.010112359550561797
+	Commerce_scenario: 0.008988764044943821
+	Money: 0.007865168539325843
+	Cause_to_be_dry: 0.006741573033707865
+	Forging: 0.0056179775280898875
+	Commutative_statement: 0.0044943820224719105
+	Soaking: 0.0044943820224719105
+	Cooking_creation: 0.0044943820224719105
+	Becoming_dry: 0.0033707865168539327
+	Growing_food: 0.0033707865168539327
+	Being_dry: 0.0022471910112359553
+	Possibility: 0.0022471910112359553
+
+SELECTED:[Commerce_scenario]
+MATCH!
+SILVER:195	23758	4	2	0	4104032	On photographic equipment , electronic goods , and watches , you avoid the luxury tax payable in your home country .	3612	watch.n	158	Accoutrements	MANUAL	6584629	51	57	MLC	watches
+LINKED:[8	8	51	57	bn:00077172n	http://dbpedia.org/resource/Watch	http://babelnet.org/rdf/s00077172n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3635 ===
+	Accoutrements: 0.17105263157894737
+
+SELECTED:[Accoutrements]
+MATCH!
+SILVER:195	23758	4	2	0	4104032	On photographic equipment , electronic goods , and watches , you avoid the luxury tax payable in your home country .	4993	avoid.v	274	Avoiding	MANUAL	6584630	65	69	MLC	avoid
+LINKED:[11	11	65	69	bn:00082958v		http://babelnet.org/rdf/s00082958v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3636 ===
+	Avoiding: 0.05454545454545454
+
+SELECTED:[Avoiding]
+MATCH!
+SILVER:195	23758	4	2	0	4104032	On photographic equipment , electronic goods , and watches , you avoid the luxury tax payable in your home country .	13146	home.n	1483	Foreign_or_domestic_country	MANUAL	6584631	102	105	MLC	home
+LINKED:[18	18	102	105	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3637 ===
+	Buildings: 0.07304347826086957
+	Foreign_or_domestic_country: 0.00608695652173913
+	Expected_location_of_person: 0.0017391304347826088
+
+SELECTED:[Foreign_or_domestic_country]
+MATCH!
+SILVER:195	23758	4	2	0	4104032	On photographic equipment , electronic goods , and watches , you avoid the luxury tax payable in your home country .	3683	country.n	195	Political_locales	MANUAL	6584632	107	113	MLC	country
+LINKED:[19	19	107	113	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3638 ===
+	Political_locales: 0.034736842105263156
+	Foreign_or_domestic_country: 0.007368421052631579
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:195	23758	1	3	0	4104033	Specialty goods and souvenirs , often handmade , come from Hong Kong and elsewhere in China .	2899	goods.n	82	Commerce_scenario	MANUAL	6584651	10	14	CVa	goods
+LINKED:[1	1	10	14	bn:00021045n	http://dbpedia.org/resource/Commodity	http://babelnet.org/rdf/s00021045n	1.0	0.33333334	0.012269938	BABELFY]
+RANK:=== COUNTER  Counter 3639 ===
+	Containers: 0.1146067415730337
+	Measure_volume: 0.03932584269662921
+	Absorb_heat: 0.012359550561797753
+	Preserving: 0.012359550561797753
+	Cause_fluidic_motion: 0.010112359550561797
+	Commerce_scenario: 0.008988764044943821
+	Money: 0.007865168539325843
+	Cause_to_be_dry: 0.006741573033707865
+	Forging: 0.0056179775280898875
+	Commutative_statement: 0.0044943820224719105
+	Soaking: 0.0044943820224719105
+	Cooking_creation: 0.0044943820224719105
+	Becoming_dry: 0.0033707865168539327
+	Growing_food: 0.0033707865168539327
+	Being_dry: 0.0022471910112359553
+	Possibility: 0.0022471910112359553
+
+SELECTED:[Commerce_scenario]
+MATCH!
+SILVER:195	23758	1	3	0	4104033	Specialty goods and souvenirs , often handmade , come from Hong Kong and elsewhere in China .	16669	come	1103	Origin	MANUAL	6584804	49	52	CVa	come
+LINKED:[8	8	49	52	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3640 ===
+	Arriving: 0.09130434782608696
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	3069	garment.n	134	Clothing	MANUAL	6584655	14	21	CVa	garments
+LINKED:[3	3	14	21	bn:00006125n	http://dbpedia.org/resource/Clothing	http://babelnet.org/rdf/s00006125n	0.8235294	0.5	0.12280702	BABELFY]
+RANK:=== COUNTER  Counter 3641 ===
+	Clothing: 0.17794117647058824
+
+SELECTED:[Clothing]
+MATCH!
+SILVER:195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	2711	skilful.a	136	Expertise	MANUAL	6584657	26	33	CVa	skillful
+LINKED:[5	5	26	33	bn:00096445a		http://babelnet.org/rdf/s00096445a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3642 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	9190	cost.v	83	Expensiveness	MANUAL	6584660	82	85	CVa	cost
+LINKED:[15	15	82	85	bn:00022995n	http://dbpedia.org/resource/Cost	http://babelnet.org/rdf/s00022995n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3643 ===
+	Expensiveness: 0.009333333333333334
+
+SELECTED:[Expensiveness]
+MATCH!
+SILVER:195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	6148	comparable.a	353	Evaluative_comparison	MANUAL	6584662	111	120	CVa	comparable
+LINKED:[20	20	111	120	bn:00100117a		http://babelnet.org/rdf/s00100117a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3644 ===
+	Evaluative_comparison: 0.0875
+
+SELECTED:[Evaluative_comparison]
+MATCH!
+SILVER:195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	3069	garment.n	134	Clothing	MANUAL	6584663	122	129	CVa	garments
+LINKED:[21	21	122	129	bn:00006125n	http://dbpedia.org/resource/Clothing	http://babelnet.org/rdf/s00006125n	0.8235294	0.5	0.12280702	BABELFY]
+RANK:=== COUNTER  Counter 3645 ===
+	Clothing: 0.17794117647058824
+
+SELECTED:[Clothing]
+MATCH!
+SILVER:195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	16643	tailor.n	1071	People_by_vocation	MANUAL	6584671	45	51	CVa	tailors
+LINKED:[8	8	45	51	bn:00069297n	http://dbpedia.org/resource/Tailor	http://babelnet.org/rdf/s00069297n	1.0	0.375	0.09210526	BABELFY]
+RANK:=== COUNTER  Counter 3646 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	16670	in	2380	Popularity	MANUAL	6584811	71	76	CVa	demand
+LINKED:[13	13	71	76	bn:00026103n		http://babelnet.org/rdf/s00026103n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3647 ===
+	Request: 0.21
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	3	3	0	4104035	Note that alcohol and tobacco are both exceptions to Hong Kong 's duty - free regime and are subject to tax .	13288	note.v	43	Statement	MANUAL	6584664	0	3	CVa	Note
+LINKED:[0	0	0	3	bn:00058145n		http://babelnet.org/rdf/s00058145n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3648 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	3	3	0	4104035	Note that alcohol and tobacco are both exceptions to Hong Kong 's duty - free regime and are subject to tax .	7072	alcohol.n	390	Intoxicants	MANUAL	6584666	10	16	CVa	alcohol
+LINKED:[2	2	10	16	bn:00002519n	http://dbpedia.org/resource/Alcoholic_beverage	http://babelnet.org/rdf/s00002519n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3649 ===
+	Intoxicants: 0.03294117647058824
+
+SELECTED:[Intoxicants]
+MATCH!
+SILVER:195	23758	3	3	0	4104035	Note that alcohol and tobacco are both exceptions to Hong Kong 's duty - free regime and are subject to tax .	7070	tobacco.n	390	Intoxicants	MANUAL	6584667	22	28	CVa	tobacco
+LINKED:[4	4	22	28	bn:00077441n	http://dbpedia.org/resource/Tobacco	http://babelnet.org/rdf/s00077441n	0.95238096	0.4	0.062111802	BABELFY]
+RANK:=== COUNTER  Counter 3650 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	3	3	0	4104035	Note that alcohol and tobacco are both exceptions to Hong Kong 's duty - free regime and are subject to tax .	14028	regime.n	950	Law	MANUAL	6584669	78	83	CVa	regime
+LINKED:[15	15	78	83	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	1.0	0.1	0.0031055901	BABELFY]
+RANK:=== COUNTER  Counter 3651 ===
+	Leadership: 0.11587301587301588
+	Organization: 0.023809523809523808
+	Law: 0.014285714285714285
+
+SELECTED:[Law]
+MATCH!
+SILVER:195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	175	find.v	20	Becoming_aware	MANUAL	6584672	8	11	CVa	find
+LINKED:[2	2	8	11	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3652 ===
+	Becoming_aware: 0.044444444444444446
+	Locating: 0.011111111111111112
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	2894	price.n	82	Commerce_scenario	MANUAL	6584674	18	23	CVa	prices
+LINKED:[4	4	18	23	bn:00022996n		http://babelnet.org/rdf/s00022996n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3653 ===
+	Commerce_scenario: 0.018604651162790697
+
+SELECTED:[Commerce_scenario]
+MATCH!
+SILVER:195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	15545	central.a	327	Part_inner_outer	MANUAL	6584678	57	63	CVa	Central
+LINKED:[12	12	57	63	bn:00017168n	http://dbpedia.org/resource/Telephone_exchange	http://babelnet.org/rdf/s00017168n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3654 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	15970	somewhat.adv	2001	Degree	MANUAL	6584679	83	90	CVa	somewhat
+LINKED:[17	17	83	90	bn:00116286r		http://babelnet.org/rdf/s00116286r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3655 ===
+	Degree: 0.11785714285714285
+
+SELECTED:[Degree]
+MATCH!
+SILVER:195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	3511	bay.n	191	Natural_features	MANUAL	6584681	112	114	CVa	Bay
+LINKED:[21	21	112	114	bn:00009212n	http://dbpedia.org/resource/Bay	http://babelnet.org/rdf/s00009212n	0.8	0.2	0.007677543	BABELFY]
+RANK:=== COUNTER  Counter 3656 ===
+	Natural_features: 0.20434782608695654
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	11870	cater.v	391	Assistance	MANUAL	6584682	124	129	CVa	caters
+LINKED:[24	24	124	129	bn:00084693v		http://babelnet.org/rdf/s00084693v	1.0	0.1	0.0019193857	BABELFY]
+RANK:=== COUNTER  Counter 3657 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	10239	local.a	195	Political_locales	MANUAL	6584683	134	138	CVa	local
+LINKED:[26	26	134	138	bn:00106108a		http://babelnet.org/rdf/s00106108a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3658 ===
+	Political_locales: 0.14347826086956522
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	13921	shopping.n	1882	Shopping	MANUAL	6584684	140	147	CVa	shopping
+LINKED:[27	27	140	147	bn:00093662v		http://babelnet.org/rdf/s00093662v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3659 ===
+	Shopping: 0.025
+
+SELECTED:[Shopping]
+MATCH!
+SILVER:195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	13861	shop.n	196	Locale_by_use	MANUAL	6584686	6	10	CVa	shops
+LINKED:[1	1	6	10	bn:00071215n		http://babelnet.org/rdf/s00071215n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3660 ===
+	Locale_by_use: 0.10888888888888888
+	Businesses: 0.024444444444444446
+	Storing: 0.015555555555555555
+	Shopping: 0.006666666666666667
+	Commerce_buy: 0.006666666666666667
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	13942	fashionable.a	1884	Trendiness	MANUAL	6584688	19	29	CVa	fashionable
+LINKED:[4	4	19	29	bn:00102800a		http://babelnet.org/rdf/s00102800a	1.0	0.2	0.027972028	BABELFY]
+RANK:=== COUNTER  Counter 3661 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	3802	thoroughfare.n	203	Roadways	MANUAL	6584689	31	43	CVa	thoroughfares
+LINKED:[5	5	31	43	bn:00032402n	http://dbpedia.org/resource/Thoroughfare	http://babelnet.org/rdf/s00032402n	0.75	0.3	0.16783217	BABELFY]
+RANK:=== COUNTER  Counter 3662 ===
+	Roadways: 0.006359649122807017
+	Replacing: 0.002631578947368421
+	Take_place_of: 0.002631578947368421
+	Exchange: 0.0021929824561403508
+	Waver_between_options: 0.0021929824561403508
+	Boundary: 0.0017543859649122807
+	Cause_to_end: 0.0017543859649122807
+
+SELECTED:[Roadways]
+MATCH!
+SILVER:195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	2659	tend.v	114	Likelihood	MANUAL	6584690	45	48	CVa	tend
+LINKED:[6	6	45	48	bn:00083202v		http://babelnet.org/rdf/s00083202v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3663 ===
+	Likelihood: 0.13333333333333333
+
+SELECTED:[Likelihood]
+MATCH!
+SILVER:195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	1776	expensive.a	83	Expensiveness	MANUAL	6584691	61	69	CVa	expensive
+LINKED:[10	10	61	69	bn:00102576a		http://babelnet.org/rdf/s00102576a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3664 ===
+	Expensiveness: 0.07
+
+SELECTED:[Expensiveness]
+MATCH!
+SILVER:195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	15773	small.a	2282	Size	MANUAL	6584692	76	82	CVa	smaller
+LINKED:[12	12	76	82	bn:00106066a		http://babelnet.org/rdf/s00106066a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3665 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	2307	family.n	104	Kinship	MANUAL	6584693	87	92	CVa	family
+LINKED:[14	14	87	92	bn:00032893n	http://dbpedia.org/resource/Family	http://babelnet.org/rdf/s00032893n	0.85714287	0.4	0.16783217	BABELFY]
+RANK:=== COUNTER  Counter 3666 ===
+	Kinship: 0.033783783783783786
+	Namesake: 0.004054054054054054
+
+SELECTED:[Kinship]
+MATCH!
+SILVER:195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	13861	shop.n	196	Locale_by_use	MANUAL	6584694	97	101	CVa	shops
+LINKED:[15	15	97	101	bn:00071215n		http://babelnet.org/rdf/s00071215n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3667 ===
+	Locale_by_use: 0.10888888888888888
+	Businesses: 0.024444444444444446
+	Storing: 0.015555555555555555
+	Shopping: 0.006666666666666667
+	Commerce_buy: 0.006666666666666667
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	1115	tuck.v	62	Placing	MANUAL	6584695	103	108	CVa	tucked
+LINKED:[16	16	103	108	bn:00089769v		http://babelnet.org/rdf/s00089769v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3668 ===
+	Placing: 0.6555555555555556
+	Ingestion: 0.28888888888888886
+
+SELECTED:[Placing]
+MATCH!
+SILVER:195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	3775	street.n	203	Roadways	MANUAL	6584775	127	133	CVa	streets
+LINKED:[21	21	127	133	bn:00074595n	http://dbpedia.org/resource/Street	http://babelnet.org/rdf/s00074595n	0.8695652	0.5	0.27972028	BABELFY]
+RANK:=== COUNTER  Counter 3669 ===
+	Roadways: 0.0725
+
+SELECTED:[Roadways]
+MATCH!
+SILVER:195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	16662	store.n	365	Businesses	MANUAL	6584777	0	5	CVa	Stores
+LINKED:[0	0	0	5	bn:00071215n		http://babelnet.org/rdf/s00071215n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3670 ===
+	Locale_by_use: 0.10888888888888888
+	Businesses: 0.024444444444444446
+	Storing: 0.015555555555555555
+	Shopping: 0.006666666666666667
+	Commerce_buy: 0.006666666666666667
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	16542	open.v	146	Activity_start	MANUAL	6584779	14	17	CVa	open
+LINKED:[3	3	14	17	bn:00091165v		http://babelnet.org/rdf/s00091165v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3671 ===
+	Body_movement: 0.4
+	Closure: 0.13333333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	12153	later.a	1470	Temporal_subregion	MANUAL	6584781	34	38	CVa	later
+LINKED:[8	8	34	38	bn:00114165r		http://babelnet.org/rdf/s00114165r	1.0	0.25	0.033333335	BABELFY]
+RANK:=== COUNTER  Counter 3672 ===
+	Frequency: 0.06458333333333334
+	Temporal_collocation: 0.052083333333333336
+	Relative_time: 0.03229166666666667
+	Time_vector: 0.029166666666666667
+	Taking_time: 0.022916666666666665
+	Continued_state_of_affairs: 0.020833333333333332
+	Secrecy_status: 0.01875
+	Willingness: 0.014583333333333334
+	Concessive: 0.008333333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	13921	shopping.n	1882	Shopping	MANUAL	6584783	46	53	CVa	shopping
+LINKED:[11	11	46	53	bn:00093662v		http://babelnet.org/rdf/s00093662v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3673 ===
+	Shopping: 0.025
+
+SELECTED:[Shopping]
+MATCH!
+SILVER:195	23758	2	5	0	4104039	Most shops are open seven days a week .	13861	shop.n	196	Locale_by_use	MANUAL	6584787	5	9	CVa	shops
+LINKED:[1	1	5	9	bn:00071215n		http://babelnet.org/rdf/s00071215n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3674 ===
+	Locale_by_use: 0.10888888888888888
+	Businesses: 0.024444444444444446
+	Storing: 0.015555555555555555
+	Shopping: 0.006666666666666667
+	Commerce_buy: 0.006666666666666667
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:195	23758	2	5	0	4104039	Most shops are open seven days a week .	3946	day.n	229	Calendric_unit	MANUAL	6584789	26	29	CVa	days
+LINKED:[5	5	26	29	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3675 ===
+	Calendric_unit: 0.03375
+	Measure_duration: 0.008125
+	Timespan: 0.003125
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23758	2	5	0	4104039	Most shops are open seven days a week .	3947	week.n	229	Calendric_unit	MANUAL	6584790	33	36	CVa	week
+LINKED:[7	7	33	36	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3676 ===
+	Calendric_unit: 0.15
+	Measure_duration: 0.03611111111111111
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23758	3	5	0	4104040	Shops in Central are an exception ; they generally close at 6 pm and are not open on Sunday .	13861	shop.n	196	Locale_by_use	MANUAL	6584791	0	4	CVa	Shops
+LINKED:[0	0	0	4	bn:00071216n	http://dbpedia.org/resource/Workshop	http://babelnet.org/rdf/s00071216n	1.0	0.16666667	0.125	BABELFY]
+RANK:=== COUNTER  Counter 3677 ===
+	Building_subparts: 0.10576923076923077
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	3	5	0	4104040	Shops in Central are an exception ; they generally close at 6 pm and are not open on Sunday .	15545	central.a	327	Part_inner_outer	MANUAL	6584794	9	15	CVa	Central
+LINKED:[2	2	9	15	bn:00177006n	http://dbpedia.org/resource/Central_(Call_Center)	http://babelnet.org/rdf/s00177006n	1.0	0.16666667	0.125	BABELFY]
+RANK:=== COUNTER  Counter 3678 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	3	5	0	4104040	Shops in Central are an exception ; they generally close at 6 pm and are not open on Sunday .	16468	generally.adv	80	Frequency	MANUAL	6584795	41	49	CVa	generally
+LINKED:[8	8	41	49	bn:00114634r		http://babelnet.org/rdf/s00114634r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3679 ===
+	Typicality: 0.052941176470588235
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	3	5	0	4104040	Shops in Central are an exception ; they generally close at 6 pm and are not open on Sunday .	4655	Sunday.n	229	Calendric_unit	MANUAL	6584798	85	90	CVa	Sunday
+LINKED:[18	18	85	90	bn:14431293n	http://dbpedia.org/resource/Sunday_(2002_film)	http://babelnet.org/rdf/s14431293n	1.0	0.16666667	0.125	BABELFY]
+RANK:=== COUNTER  Counter 3680 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	4	5	0	4104041	The only holiday on which all commerce comes to a halt is the Chinese New Year in January or February .	11145	commerce.n	82	Commerce_scenario	MANUAL	6584800	30	37	CVa	commerce
+LINKED:[6	6	30	37	bn:03749081n	http://dbpedia.org/resource/Commerce_(Metrolink_station)	http://babelnet.org/rdf/s03749081n	1.0	0.1	0.0013192613	BABELFY]
+RANK:=== COUNTER  Counter 3681 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	4	5	0	4104041	The only holiday on which all commerce comes to a halt is the Chinese New Year in January or February .	4643	January.n	229	Calendric_unit	MANUAL	6584802	82	88	CVa	January
+LINKED:[17	17	82	88	bn:00047960n	http://dbpedia.org/resource/January	http://babelnet.org/rdf/s00047960n	0.989011	0.5	0.11873351	BABELFY]
+RANK:=== COUNTER  Counter 3682 ===
+	Calendric_unit: 0.14210526315789473
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23758	4	5	0	4104041	The only holiday on which all commerce comes to a halt is the Chinese New Year in January or February .	4644	February.n	229	Calendric_unit	MANUAL	6584803	93	100	CVa	February
+LINKED:[19	19	93	100	bn:00033882n	http://dbpedia.org/resource/February	http://babelnet.org/rdf/s00033882n	1.0	0.5	0.12532982	BABELFY]
+RANK:=== COUNTER  Counter 3683 ===
+	Calendric_unit: 0.1018867924528302
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23758	4	5	0	4104041	The only holiday on which all commerce comes to a halt is the Chinese New Year in January or February .	16672	holiday.n	229	Calendric_unit	MANUAL	6584812	9	15	CVa	holiday
+LINKED:[2	2	9	15	bn:00044416n	http://dbpedia.org/resource/Holiday	http://babelnet.org/rdf/s00044416n	0.73394495	0.5	0.105540894	BABELFY]
+RANK:=== COUNTER  Counter 3684 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	2	15	0	4104072	Markets are the places to use your bargaining skills .	2742	skill.n	136	Expertise	MANUAL	6602109	46	51	CVa	skills
+LINKED:[8	8	46	51	bn:00173159n	http://dbpedia.org/resource/Skill_(labor)	http://babelnet.org/rdf/s00173159n	1.0	0.5	0.16666667	BABELFY]
+RANK:=== COUNTER  Counter 3685 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	4	26	0	4104119	Some people say you can test the authenticity by touch?—?real jade feels smooth and cool .	11462	test.v	1301	Operational_testing	MANUAL	6602123	24	27	CVa	test
+LINKED:[5	5	24	27	bn:00087731v		http://babelnet.org/rdf/s00087731v	1.0	0.16666667	0.012658228	BABELFY]
+RANK:=== COUNTER  Counter 3686 ===
+	Examination: 0.01
+	Operational_testing: 0.01
+	Trying_out: 0.0075
+
+SELECTED:[Operational_testing]
+MATCH!
+SILVER:195	23758	2	30	0	4104136	Hong Kong has a vast range of the most high-tech audio-visual , sound , and screen equipment .	10906	sound.n	850	Sounds	MANUAL	6602111	64	68	CVa	sound
+LINKED:[12	12	64	68	bn:00110939a		http://babelnet.org/rdf/s00110939a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3687 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	4	43	0	4104187	Although the music may seem strange to the unaccustomed ear , it certainly won’t put you to sleep ; cymbals and drums guarantee your alertness .	4827	sleep.v	264	Sleep	MANUAL	6602110	92	96	CVa	sleep
+LINKED:[18	18	92	96	bn:00084684v		http://babelnet.org/rdf/s00084684v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3688 ===
+	Sleep: 0.11818181818181818
+
+SELECTED:[Sleep]
+MATCH!
+SILVER:195	23758	2	58	0	4104220	In subtropical Hong Kong you can swim from April to early November .	1245	swim.v	64	Self_motion	MANUAL	6602115	33	36	CVa	swim
+LINKED:[6	6	33	36	bn:00094675v		http://babelnet.org/rdf/s00094675v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3689 ===
+	Self_motion: 0.4909090909090909
+
+SELECTED:[Self_motion]
+MATCH!
+SILVER:195	23758	3	66	0	4104255	The racing schedule is September to June , and Hong Kong maintains two tracks?—?the older Happy Valley course on Hong Kong Island and the striking Sha Tin track in the New Territories .	13707	striking.a	364	Stimulus_focus	MANUAL	6602112	138	145	CVa	striking
+LINKED:[28	28	138	145	bn:00089354v		http://babelnet.org/rdf/s00089354v	0.8	0.083333336	0.0011126564	BABELFY]
+RANK:=== COUNTER  Counter 3690 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23758	3	71	0	4104268	The more daring can try out the terrifying roller-coaster rides .	6311	terrifying.a	364	Stimulus_focus	MANUAL	6602121	32	41	CVa	terrifying
+LINKED:[7	7	32	41	bn:00094881v		http://babelnet.org/rdf/s00094881v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 3691 ===
+	Experiencer_obj: 0.4142857142857143
+	Cause_to_experience: 0.023809523809523808
+
+SELECTED:[]
+WRONG!
+filename	ANC__WhatToHongKong.xml
+docAnnotations	348
+docManual	103
+docUnannotated	245
+sentences	245
+paragraphs	73
+Overlapping	65
+Disambiguated	48
+TP	41
+TN	245
+FP	0
+FN	55
+P	1.0
+R	0.4270833333333333
+F	0.5985401459854015
+A	0.8387096774193549

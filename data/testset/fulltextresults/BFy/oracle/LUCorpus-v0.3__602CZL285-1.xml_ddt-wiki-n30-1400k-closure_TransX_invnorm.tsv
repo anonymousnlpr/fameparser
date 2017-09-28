@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__602CZL285-1.xml
+docAnnotations	117
+docManual	97
+docUnannotated	20
+sentences	16
+paragraphs	11
+Overlapping	88
+Disambiguated	79
+TP	52
+TN	20
+FP	0
+FN	18
+P	1.0
+R	0.7428571428571429
+F	0.8524590163934427
+A	0.8

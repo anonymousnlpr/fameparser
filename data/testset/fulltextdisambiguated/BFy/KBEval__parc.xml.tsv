@@ -1,0 +1,788 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	tokenFragment	start	tokenFragment	end	charSegment	start	charSegment	end	babelSynsetID	DBpediaURL	BabelNetURL	score	coherenceScore	globalScore	source
+185	23575	1	1	0	4098323	ID: PARC -1 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	1	0	4098323	ID: PARC -1 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	1	0	4098324	Some students came to school by car .	1	1	5	12	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	0.0	0.0	0.0	MCS
+185	23575	2	1	0	4098324	Some students came to school by car .	2	2	14	17	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS
+185	23575	2	1	0	4098324	Some students came to school by car .	2	3	14	20	bn:00083240v		http://babelnet.org/rdf/s00083240v	1.0	0.75	0.2535211	BABELFY
+185	23575	2	1	0	4098324	Some students came to school by car .	4	4	22	27	bn:00069619n	http://dbpedia.org/resource/School	http://babelnet.org/rdf/s00069619n	0.0	0.0	0.0	MCS
+185	23575	2	1	0	4098324	Some students came to school by car .	6	6	32	34	bn:00007309n	http://dbpedia.org/resource/Car	http://babelnet.org/rdf/s00007309n	1.0	0.5	0.08450704	BABELFY
+185	23575	3	1	0	4098325	QN : Did any students come to school ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	1	0	4098325	QN : Did any students come to school ?	4	4	13	20	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	1.0	0.33333334	0.25	BABELFY
+185	23575	3	1	0	4098325	QN : Did any students come to school ?	5	5	22	25	bn:00085320v		http://babelnet.org/rdf/s00085320v	1.0	0.33333334	0.25	BABELFY
+185	23575	3	1	0	4098325	QN : Did any students come to school ?	5	6	22	28	bn:00083240v		http://babelnet.org/rdf/s00083240v	1.0	0.33333334	0.25	BABELFY
+185	23575	3	1	0	4098325	QN : Did any students come to school ?	7	7	30	35	bn:00093341v		http://babelnet.org/rdf/s00093341v	1.0	0.33333334	0.25	BABELFY
+185	23575	1	2	0	4098326	ID: PARC -2 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	2	0	4098326	ID: PARC -2 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	2	0	4098327	No students came to school by car .	1	1	3	10	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	0.0	0.0	0.0	MCS
+185	23575	2	2	0	4098327	No students came to school by car .	2	2	12	15	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS
+185	23575	2	2	0	4098327	No students came to school by car .	2	3	12	18	bn:00083240v		http://babelnet.org/rdf/s00083240v	1.0	0.75	0.2535211	BABELFY
+185	23575	2	2	0	4098327	No students came to school by car .	4	4	20	25	bn:00069619n	http://dbpedia.org/resource/School	http://babelnet.org/rdf/s00069619n	0.0	0.0	0.0	MCS
+185	23575	2	2	0	4098327	No students came to school by car .	6	6	30	32	bn:00007309n	http://dbpedia.org/resource/Car	http://babelnet.org/rdf/s00007309n	1.0	0.5	0.08450704	BABELFY
+185	23575	3	2	0	4098328	QN : Did any students come to school ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	2	0	4098328	QN : Did any students come to school ?	4	4	13	20	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	1.0	0.33333334	0.25	BABELFY
+185	23575	3	2	0	4098328	QN : Did any students come to school ?	5	5	22	25	bn:00085320v		http://babelnet.org/rdf/s00085320v	1.0	0.33333334	0.25	BABELFY
+185	23575	3	2	0	4098328	QN : Did any students come to school ?	5	6	22	28	bn:00083240v		http://babelnet.org/rdf/s00083240v	1.0	0.33333334	0.25	BABELFY
+185	23575	3	2	0	4098328	QN : Did any students come to school ?	7	7	30	35	bn:00093341v		http://babelnet.org/rdf/s00093341v	1.0	0.33333334	0.25	BABELFY
+185	23575	1	3	0	4098329	ID: PARC -3 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	3	0	4098329	ID: PARC -3 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	3	0	4098330	Ed drove legally .	0	0	0	1	bn:02413793n	http://dbpedia.org/resource/Ed,_Edd_n_Eddy	http://babelnet.org/rdf/s02413793n	0.0	0.0	0.0	MCS
+185	23575	2	3	0	4098330	Ed drove legally .	1	1	3	7	bn:00087327v		http://babelnet.org/rdf/s00087327v	0.0	0.0	0.0	MCS
+185	23575	2	3	0	4098330	Ed drove legally .	2	2	9	15	bn:00116098r		http://babelnet.org/rdf/s00116098r	0.0	0.0	0.0	MCS
+185	23575	3	3	0	4098331	QN : Did Ed drive ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	3	0	4098331	QN : Did Ed drive ?	3	3	9	10	bn:02413793n	http://dbpedia.org/resource/Ed,_Edd_n_Eddy	http://babelnet.org/rdf/s02413793n	0.0	0.0	0.0	MCS
+185	23575	3	3	0	4098331	QN : Did Ed drive ?	4	4	12	16	bn:00087327v		http://babelnet.org/rdf/s00087327v	0.0	0.0	0.0	MCS
+185	23575	1	4	0	4098332	ID: PARC -4 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	4	0	4098332	ID: PARC -4 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	4	0	4098333	Ed drove predictably .	0	0	0	1	bn:02413793n	http://dbpedia.org/resource/Ed,_Edd_n_Eddy	http://babelnet.org/rdf/s02413793n	0.0	0.0	0.0	MCS
+185	23575	2	4	0	4098333	Ed drove predictably .	1	1	3	7	bn:00087327v		http://babelnet.org/rdf/s00087327v	0.0	0.0	0.0	MCS
+185	23575	2	4	0	4098333	Ed drove predictably .	2	2	9	19	bn:00116679r		http://babelnet.org/rdf/s00116679r	0.0	0.0	0.0	MCS
+185	23575	3	4	0	4098334	QN : Did Ed drive ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	4	0	4098334	QN : Did Ed drive ?	3	3	9	10	bn:02413793n	http://dbpedia.org/resource/Ed,_Edd_n_Eddy	http://babelnet.org/rdf/s02413793n	0.0	0.0	0.0	MCS
+185	23575	3	4	0	4098334	QN : Did Ed drive ?	4	4	12	16	bn:00087327v		http://babelnet.org/rdf/s00087327v	0.0	0.0	0.0	MCS
+185	23575	1	5	0	4098335	ID: PARC -5 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	5	0	4098335	ID: PARC -5 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	5	0	4098336	Legally , Ed could drive .	0	0	0	6	bn:00048655n	http://dbpedia.org/resource/Law	http://babelnet.org/rdf/s00048655n	1.0	1.0	0.5	BABELFY
+185	23575	2	5	0	4098336	Legally , Ed could drive .	2	2	10	11	bn:02413793n	http://dbpedia.org/resource/Ed,_Edd_n_Eddy	http://babelnet.org/rdf/s02413793n	0.0	0.0	0.0	MCS
+185	23575	2	5	0	4098336	Legally , Ed could drive .	4	4	19	23	bn:00087332v		http://babelnet.org/rdf/s00087332v	1.0	1.0	0.5	BABELFY
+185	23575	3	5	0	4098337	QN : Did Ed drive ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	5	0	4098337	QN : Did Ed drive ?	3	3	9	10	bn:02413793n	http://dbpedia.org/resource/Ed,_Edd_n_Eddy	http://babelnet.org/rdf/s02413793n	0.0	0.0	0.0	MCS
+185	23575	3	5	0	4098337	QN : Did Ed drive ?	4	4	12	16	bn:00087327v		http://babelnet.org/rdf/s00087327v	0.0	0.0	0.0	MCS
+185	23575	1	6	0	4098338	ID: PARC -6 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	6	0	4098338	ID: PARC -6 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	6	0	4098339	Predictably , Ed drove .	0	0	0	10	bn:01804996n	http://dbpedia.org/resource/Predictability	http://babelnet.org/rdf/s01804996n	0.0	0.0	0.0	MCS
+185	23575	2	6	0	4098339	Predictably , Ed drove .	2	2	14	15	bn:02413793n	http://dbpedia.org/resource/Ed,_Edd_n_Eddy	http://babelnet.org/rdf/s02413793n	0.0	0.0	0.0	MCS
+185	23575	2	6	0	4098339	Predictably , Ed drove .	3	3	17	21	bn:00087327v		http://babelnet.org/rdf/s00087327v	0.0	0.0	0.0	MCS
+185	23575	3	6	0	4098340	QN : Did Ed drive ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	6	0	4098340	QN : Did Ed drive ?	3	3	9	10	bn:02413793n	http://dbpedia.org/resource/Ed,_Edd_n_Eddy	http://babelnet.org/rdf/s02413793n	0.0	0.0	0.0	MCS
+185	23575	3	6	0	4098340	QN : Did Ed drive ?	4	4	12	16	bn:00087327v		http://babelnet.org/rdf/s00087327v	0.0	0.0	0.0	MCS
+185	23575	1	7	0	4098341	ID: PARC -7 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	7	0	4098341	ID: PARC -7 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	7	0	4098342	The technician cooled the room .	1	1	4	13	bn:00076338n	http://dbpedia.org/resource/Technician	http://babelnet.org/rdf/s00076338n	0.0	0.0	0.0	MCS
+185	23575	2	7	0	4098342	The technician cooled the room .	2	2	15	20	bn:00084893v		http://babelnet.org/rdf/s00084893v	0.0	0.0	0.0	MCS
+185	23575	2	7	0	4098342	The technician cooled the room .	4	4	26	29	bn:00068233n	http://dbpedia.org/resource/Room	http://babelnet.org/rdf/s00068233n	0.0	0.0	0.0	MCS
+185	23575	3	7	0	4098343	QN : Did the technician lower the temperature of the room ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	7	0	4098343	QN : Did the technician lower the temperature of the room ?	4	4	13	22	bn:00076338n	http://dbpedia.org/resource/Technician	http://babelnet.org/rdf/s00076338n	0.0	0.0	0.0	MCS
+185	23575	3	7	0	4098343	QN : Did the technician lower the temperature of the room ?	5	5	24	28	bn:13759553a		http://babelnet.org/rdf/s13759553a	0.0	0.0	0.0	MCS
+185	23575	3	7	0	4098343	QN : Did the technician lower the temperature of the room ?	7	7	34	44	bn:00076457n	http://dbpedia.org/resource/Temperature	http://babelnet.org/rdf/s00076457n	0.0	0.0	0.0	MCS
+185	23575	3	7	0	4098343	QN : Did the technician lower the temperature of the room ?	10	10	53	56	bn:00068233n	http://dbpedia.org/resource/Room	http://babelnet.org/rdf/s00068233n	0.0	0.0	0.0	MCS
+185	23575	1	8	0	4098344	ID: PARC -8 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	8	0	4098344	ID: PARC -8 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	8	0	4098345	The technician raised the temperature of the room .	1	1	4	13	bn:00076338n	http://dbpedia.org/resource/Technician	http://babelnet.org/rdf/s00076338n	0.0	0.0	0.0	MCS
+185	23575	2	8	0	4098345	The technician raised the temperature of the room .	2	2	15	20	bn:00092332v		http://babelnet.org/rdf/s00092332v	0.0	0.0	0.0	MCS
+185	23575	2	8	0	4098345	The technician raised the temperature of the room .	4	4	26	36	bn:00076457n	http://dbpedia.org/resource/Temperature	http://babelnet.org/rdf/s00076457n	0.0	0.0	0.0	MCS
+185	23575	2	8	0	4098345	The technician raised the temperature of the room .	7	7	45	48	bn:00068233n	http://dbpedia.org/resource/Room	http://babelnet.org/rdf/s00068233n	0.0	0.0	0.0	MCS
+185	23575	3	8	0	4098346	QN : Did the technician cool the room ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	8	0	4098346	QN : Did the technician cool the room ?	4	4	13	22	bn:00076338n	http://dbpedia.org/resource/Technician	http://babelnet.org/rdf/s00076338n	0.0	0.0	0.0	MCS
+185	23575	3	8	0	4098346	QN : Did the technician cool the room ?	5	5	24	27	bn:00084893v		http://babelnet.org/rdf/s00084893v	0.0	0.0	0.0	MCS
+185	23575	3	8	0	4098346	QN : Did the technician cool the room ?	7	7	33	36	bn:00068233n	http://dbpedia.org/resource/Room	http://babelnet.org/rdf/s00068233n	0.0	0.0	0.0	MCS
+185	23575	1	9	0	4098347	ID: PARC -9 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	9	0	4098347	ID: PARC -9 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	9	0	4098348	The president visited Iraq in September .	1	1	4	12	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS
+185	23575	2	9	0	4098348	The president visited Iraq in September .	2	2	14	20	bn:00093433v		http://babelnet.org/rdf/s00093433v	0.0	0.0	0.0	MCS
+185	23575	2	9	0	4098348	The president visited Iraq in September .	3	3	22	25	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	1.0	1.0	0.6666667	BABELFY
+185	23575	2	9	0	4098348	The president visited Iraq in September .	5	5	30	38	bn:00070537n	http://dbpedia.org/resource/September	http://babelnet.org/rdf/s00070537n	1.0	0.5	0.083333336	BABELFY
+185	23575	3	9	0	4098349	QN : Has the president gone to Iraq ?	4	4	13	21	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS
+185	23575	3	9	0	4098349	QN : Has the president gone to Iraq ?	7	7	31	34	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	0.8	1.0	0.5	BABELFY
+185	23575	1	10	0	4098350	ID: PARC -10 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	10	0	4098350	ID: PARC -10 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	10	0	4098351	Jones has visited Iraq .	0	0	0	4	bn:00048405n	http://dbpedia.org/resource/Mary_Harris_Jones	http://babelnet.org/rdf/s00048405n	0.0	0.0	0.0	MCS
+185	23575	2	10	0	4098351	Jones has visited Iraq .	2	2	10	16	bn:00093433v		http://babelnet.org/rdf/s00093433v	0.0	0.0	0.0	MCS
+185	23575	2	10	0	4098351	Jones has visited Iraq .	3	3	18	21	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	0.0	0.0	0.0	MCS
+185	23575	3	10	0	4098352	QN : Did Jones visit Iraq in September ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	10	0	4098352	QN : Did Jones visit Iraq in September ?	4	4	15	19	bn:00093433v		http://babelnet.org/rdf/s00093433v	0.0	0.0	0.0	MCS
+185	23575	3	10	0	4098352	QN : Did Jones visit Iraq in September ?	5	5	21	24	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	1.0	1.0	0.5	BABELFY
+185	23575	3	10	0	4098352	QN : Did Jones visit Iraq in September ?	7	7	29	37	bn:00070537n	http://dbpedia.org/resource/September	http://babelnet.org/rdf/s00070537n	1.0	1.0	0.5	BABELFY
+185	23575	1	11	0	4098353	ID: PARC -11 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	11	0	4098353	ID: PARC -11 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	11	0	4098354	Jones arrived in Paris in September last year .	1	1	6	12	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS
+185	23575	2	11	0	4098354	Jones arrived in Paris in September last year .	3	3	17	21	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	1.0	0.75	0.27966103	BABELFY
+185	23575	2	11	0	4098354	Jones arrived in Paris in September last year .	5	5	26	34	bn:00070537n	http://dbpedia.org/resource/September	http://babelnet.org/rdf/s00070537n	0.88235295	0.75	0.2542373	BABELFY
+185	23575	2	11	0	4098354	Jones arrived in Paris in September last year .	6	7	36	44	bn:03603601n	http://dbpedia.org/resource/Last_Year_(song)	http://babelnet.org/rdf/s03603601n	1.0	0.25	0.008474576	BABELFY
+185	23575	2	11	0	4098354	Jones arrived in Paris in September last year .	7	7	41	44	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS
+185	23575	3	11	0	4098355	QN : Did Jones arrive in Paris last year ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	11	0	4098355	QN : Did Jones arrive in Paris last year ?	4	4	15	20	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS
+185	23575	3	11	0	4098355	QN : Did Jones arrive in Paris last year ?	6	6	25	29	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	1.0	1.0	0.3	BABELFY
+185	23575	3	11	0	4098355	QN : Did Jones arrive in Paris last year ?	8	8	36	39	bn:00081857n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00081857n	1.0	1.0	0.3	BABELFY
+185	23575	1	12	0	4098356	ID: PARC -12 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	12	0	4098356	ID: PARC -12 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	12	0	4098357	Jones arrived in Paris in September last year .	1	1	6	12	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS
+185	23575	2	12	0	4098357	Jones arrived in Paris in September last year .	3	3	17	21	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	1.0	0.75	0.27966103	BABELFY
+185	23575	2	12	0	4098357	Jones arrived in Paris in September last year .	5	5	26	34	bn:00070537n	http://dbpedia.org/resource/September	http://babelnet.org/rdf/s00070537n	0.88235295	0.75	0.2542373	BABELFY
+185	23575	2	12	0	4098357	Jones arrived in Paris in September last year .	6	7	36	44	bn:03603601n	http://dbpedia.org/resource/Last_Year_(song)	http://babelnet.org/rdf/s03603601n	1.0	0.25	0.008474576	BABELFY
+185	23575	2	12	0	4098357	Jones arrived in Paris in September last year .	7	7	41	44	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS
+185	23575	3	12	0	4098358	QN : Did Jones arrive in Paris in September ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	12	0	4098358	QN : Did Jones arrive in Paris in September ?	4	4	15	20	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS
+185	23575	3	12	0	4098358	QN : Did Jones arrive in Paris in September ?	6	6	25	29	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	1.0	1.0	0.6666667	BABELFY
+185	23575	3	12	0	4098358	QN : Did Jones arrive in Paris in September ?	8	8	34	42	bn:00070537n	http://dbpedia.org/resource/September	http://babelnet.org/rdf/s00070537n	0.0	0.0	0.0	MCS
+185	23575	1	13	0	4098359	ID: PARC -13 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	13	0	4098359	ID: PARC -13 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	13	0	4098360	Jones arrived on a Sunday in September .	1	1	6	12	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS
+185	23575	2	13	0	4098360	Jones arrived on a Sunday in September .	4	4	19	24	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	0.0	0.0	0.0	MCS
+185	23575	2	13	0	4098360	Jones arrived on a Sunday in September .	6	6	29	37	bn:00070537n	http://dbpedia.org/resource/September	http://babelnet.org/rdf/s00070537n	0.0	0.0	0.0	MCS
+185	23575	3	13	0	4098361	QN : Did Jones arrive on a Sunday ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	13	0	4098361	QN : Did Jones arrive on a Sunday ?	4	4	15	20	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS
+185	23575	3	13	0	4098361	QN : Did Jones arrive on a Sunday ?	7	7	27	32	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	0.0	0.0	0.0	MCS
+185	23575	1	14	0	4098362	ID: PARC -14 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	14	0	4098362	ID: PARC -14 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	14	0	4098363	Jones arrived on a Sunday in September .	1	1	6	12	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS
+185	23575	2	14	0	4098363	Jones arrived on a Sunday in September .	4	4	19	24	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	0.0	0.0	0.0	MCS
+185	23575	2	14	0	4098363	Jones arrived on a Sunday in September .	6	6	29	37	bn:00070537n	http://dbpedia.org/resource/September	http://babelnet.org/rdf/s00070537n	0.0	0.0	0.0	MCS
+185	23575	3	14	0	4098364	QN : Did Jones arrive in September ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	14	0	4098364	QN : Did Jones arrive in September ?	4	4	15	20	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS
+185	23575	3	14	0	4098364	QN : Did Jones arrive in September ?	6	6	25	33	bn:00070537n	http://dbpedia.org/resource/September	http://babelnet.org/rdf/s00070537n	0.0	0.0	0.0	MCS
+185	23575	1	15	0	4098365	ID: PARC -15 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	15	0	4098365	ID: PARC -15 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	15	0	4098366	The president left after the diplomat arrived .	1	1	4	12	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS
+185	23575	2	15	0	4098366	The president left after the diplomat arrived .	2	2	14	17	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23575	2	15	0	4098366	The president left after the diplomat arrived .	5	5	29	36	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	1.0	0.33333334	0.11111111	BABELFY
+185	23575	2	15	0	4098366	The president left after the diplomat arrived .	6	6	38	44	bn:00082788v		http://babelnet.org/rdf/s00082788v	1.0	0.33333334	0.3888889	BABELFY
+185	23575	3	15	0	4098367	QN : Did the diplomat arrive before the president left ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	15	0	4098367	QN : Did the diplomat arrive before the president left ?	4	4	13	20	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	1.0	0.33333334	0.11111111	BABELFY
+185	23575	3	15	0	4098367	QN : Did the diplomat arrive before the president left ?	5	5	22	27	bn:00082788v		http://babelnet.org/rdf/s00082788v	1.0	0.33333334	0.3888889	BABELFY
+185	23575	3	15	0	4098367	QN : Did the diplomat arrive before the president left ?	8	8	40	48	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS
+185	23575	3	15	0	4098367	QN : Did the diplomat arrive before the president left ?	9	9	50	53	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23575	1	16	0	4098368	ID: PARC -16 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	16	0	4098368	ID: PARC -16 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	16	0	4098369	No US congressman has visited Iraq since the war ended .	1	2	3	16	bn:00045015n	http://dbpedia.org/resource/United_States_House_of_Representatives	http://babelnet.org/rdf/s00045015n	1.0	0.75	0.16071428	BABELFY
+185	23575	2	16	0	4098369	No US congressman has visited Iraq since the war ended .	2	2	6	16	bn:00021852n	http://dbpedia.org/resource/Member_of_Congress	http://babelnet.org/rdf/s00021852n	1.0	0.5	0.071428575	BABELFY
+185	23575	2	16	0	4098369	No US congressman has visited Iraq since the war ended .	4	4	22	28	bn:00093433v		http://babelnet.org/rdf/s00093433v	0.0	0.0	0.0	MCS
+185	23575	2	16	0	4098369	No US congressman has visited Iraq since the war ended .	5	5	30	33	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	0.9	0.75	0.32142857	BABELFY
+185	23575	2	16	0	4098369	No US congressman has visited Iraq since the war ended .	8	8	45	47	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.0	0.0	0.0	MCS
+185	23575	2	16	0	4098369	No US congressman has visited Iraq since the war ended .	9	9	49	53	bn:00087610v		http://babelnet.org/rdf/s00087610v	0.0	0.0	0.0	MCS
+185	23575	3	16	0	4098370	QN : Has Jones , a US Congressman , visited Iraq after the war ended ?	3	3	9	13	bn:01341430n	http://dbpedia.org/resource/Jones,_Isabela	http://babelnet.org/rdf/s01341430n	1.0	0.16666667	0.012048192	BABELFY
+185	23575	3	16	0	4098370	QN : Has Jones , a US Congressman , visited Iraq after the war ended ?	6	7	19	32	bn:00045015n	http://dbpedia.org/resource/United_States_House_of_Representatives	http://babelnet.org/rdf/s00045015n	1.0	0.6666667	0.19277108	BABELFY
+185	23575	3	16	0	4098370	QN : Has Jones , a US Congressman , visited Iraq after the war ended ?	7	7	22	32	bn:00021852n	http://dbpedia.org/resource/Member_of_Congress	http://babelnet.org/rdf/s00021852n	1.0	0.33333334	0.04819277	BABELFY
+185	23575	3	16	0	4098370	QN : Has Jones , a US Congressman , visited Iraq after the war ended ?	9	9	36	42	bn:00093433v		http://babelnet.org/rdf/s00093433v	0.0	0.0	0.0	MCS
+185	23575	3	16	0	4098370	QN : Has Jones , a US Congressman , visited Iraq after the war ended ?	10	10	44	47	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	0.7777778	0.6666667	0.33734939	BABELFY
+185	23575	3	16	0	4098370	QN : Has Jones , a US Congressman , visited Iraq after the war ended ?	13	13	59	61	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.0	0.0	0.0	MCS
+185	23575	3	16	0	4098370	QN : Has Jones , a US Congressman , visited Iraq after the war ended ?	14	14	63	67	bn:00087610v		http://babelnet.org/rdf/s00087610v	0.0	0.0	0.0	MCS
+185	23575	1	17	0	4098371	ID: PARC -17 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	17	0	4098371	ID: PARC -17 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	17	0	4098372	No US congressman has visited Iraq since the war .	1	2	3	16	bn:00045015n	http://dbpedia.org/resource/United_States_House_of_Representatives	http://babelnet.org/rdf/s00045015n	1.0	1.0	0.2	BABELFY
+185	23575	2	17	0	4098372	No US congressman has visited Iraq since the war .	2	2	6	16	bn:00021852n	http://dbpedia.org/resource/Member_of_Congress	http://babelnet.org/rdf/s00021852n	1.0	0.6666667	0.08888889	BABELFY
+185	23575	2	17	0	4098372	No US congressman has visited Iraq since the war .	4	4	22	28	bn:00093433v		http://babelnet.org/rdf/s00093433v	0.0	0.0	0.0	MCS
+185	23575	2	17	0	4098372	No US congressman has visited Iraq since the war .	5	5	30	33	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	0.9	1.0	0.4	BABELFY
+185	23575	2	17	0	4098372	No US congressman has visited Iraq since the war .	8	8	45	47	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.8333333	0.6666667	0.22222222	BABELFY
+185	23575	3	17	0	4098373	QN : Did Jones , a US Congressman , visit Iraq before the war ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	17	0	4098373	QN : Did Jones , a US Congressman , visit Iraq before the war ?	3	3	9	13	bn:01341430n	http://dbpedia.org/resource/Jones,_Isabela	http://babelnet.org/rdf/s01341430n	1.0	0.25	0.018867925	BABELFY
+185	23575	3	17	0	4098373	QN : Did Jones , a US Congressman , visit Iraq before the war ?	6	7	19	32	bn:00045015n	http://dbpedia.org/resource/United_States_House_of_Representatives	http://babelnet.org/rdf/s00045015n	1.0	1.0	0.3018868	BABELFY
+185	23575	3	17	0	4098373	QN : Did Jones , a US Congressman , visit Iraq before the war ?	7	7	22	32	bn:00021852n	http://dbpedia.org/resource/Member_of_Congress	http://babelnet.org/rdf/s00021852n	1.0	0.5	0.0754717	BABELFY
+185	23575	3	17	0	4098373	QN : Did Jones , a US Congressman , visit Iraq before the war ?	9	9	36	40	bn:00080111n		http://babelnet.org/rdf/s00080111n	0.0	0.0	0.0	MCS
+185	23575	3	17	0	4098373	QN : Did Jones , a US Congressman , visit Iraq before the war ?	10	10	42	45	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	0.9	0.75	0.33962265	BABELFY
+185	23575	3	17	0	4098373	QN : Did Jones , a US Congressman , visit Iraq before the war ?	13	13	58	60	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.8333333	0.5	0.18867925	BABELFY
+185	23575	1	18	0	4098374	ID: PARC -18 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	18	0	4098374	ID: PARC -18 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	18	0	4098375	No US congressman visited Iraq until the war .	1	2	3	16	bn:00045015n	http://dbpedia.org/resource/United_States_House_of_Representatives	http://babelnet.org/rdf/s00045015n	1.0	1.0	0.2	BABELFY
+185	23575	2	18	0	4098375	No US congressman visited Iraq until the war .	2	2	6	16	bn:00021852n	http://dbpedia.org/resource/Member_of_Congress	http://babelnet.org/rdf/s00021852n	1.0	0.6666667	0.08888889	BABELFY
+185	23575	2	18	0	4098375	No US congressman visited Iraq until the war .	3	3	18	24	bn:00093433v		http://babelnet.org/rdf/s00093433v	0.0	0.0	0.0	MCS
+185	23575	2	18	0	4098375	No US congressman visited Iraq until the war .	4	4	26	29	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	0.9	1.0	0.4	BABELFY
+185	23575	2	18	0	4098375	No US congressman visited Iraq until the war .	7	7	41	43	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.8333333	0.6666667	0.22222222	BABELFY
+185	23575	3	18	0	4098376	QN : Did any US congressman visit Iraq before the war ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	18	0	4098376	QN : Did any US congressman visit Iraq before the war ?	4	5	13	26	bn:00045015n	http://dbpedia.org/resource/United_States_House_of_Representatives	http://babelnet.org/rdf/s00045015n	1.0	1.0	0.2	BABELFY
+185	23575	3	18	0	4098376	QN : Did any US congressman visit Iraq before the war ?	5	5	16	26	bn:00021852n	http://dbpedia.org/resource/Member_of_Congress	http://babelnet.org/rdf/s00021852n	1.0	0.6666667	0.08888889	BABELFY
+185	23575	3	18	0	4098376	QN : Did any US congressman visit Iraq before the war ?	6	6	28	32	bn:00080111n		http://babelnet.org/rdf/s00080111n	0.0	0.0	0.0	MCS
+185	23575	3	18	0	4098376	QN : Did any US congressman visit Iraq before the war ?	7	7	34	37	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	0.9	1.0	0.4	BABELFY
+185	23575	3	18	0	4098376	QN : Did any US congressman visit Iraq before the war ?	10	10	50	52	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.8333333	0.6666667	0.22222222	BABELFY
+185	23575	1	19	0	4098377	ID: PARC -19 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	19	0	4098377	ID: PARC -19 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	19	0	4098378	Some students arrived at the school on Sunday .	1	1	5	12	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	0.0	0.0	0.0	MCS
+185	23575	2	19	0	4098378	Some students arrived at the school on Sunday .	2	2	14	20	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS
+185	23575	2	19	0	4098378	Some students arrived at the school on Sunday .	5	5	29	34	bn:00069619n	http://dbpedia.org/resource/School	http://babelnet.org/rdf/s00069619n	0.0	0.0	0.0	MCS
+185	23575	2	19	0	4098378	Some students arrived at the school on Sunday .	7	7	39	44	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	1.0	0.5	0.022222223	BABELFY
+185	23575	3	19	0	4098379	QN : Were there any students at the school on Sunday ?	5	5	20	27	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	0.0	0.0	0.0	MCS
+185	23575	3	19	0	4098379	QN : Were there any students at the school on Sunday ?	8	8	36	41	bn:00069619n	http://dbpedia.org/resource/School	http://babelnet.org/rdf/s00069619n	0.0	0.0	0.0	MCS
+185	23575	3	19	0	4098379	QN : Were there any students at the school on Sunday ?	10	10	46	51	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	1.0	0.5	0.022222223	BABELFY
+185	23575	1	20	0	4098380	ID: PARC -20 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	20	0	4098380	ID: PARC -20 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	20	0	4098381	No students arrived at the school on Sunday .	1	1	3	10	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	0.0	0.0	0.0	MCS
+185	23575	2	20	0	4098381	No students arrived at the school on Sunday .	2	2	12	18	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS
+185	23575	2	20	0	4098381	No students arrived at the school on Sunday .	5	5	27	32	bn:00069619n	http://dbpedia.org/resource/School	http://babelnet.org/rdf/s00069619n	0.0	0.0	0.0	MCS
+185	23575	2	20	0	4098381	No students arrived at the school on Sunday .	7	7	37	42	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	1.0	0.5	0.022222223	BABELFY
+185	23575	3	20	0	4098382	QN : Were there any students at the school on Sunday ?	5	5	20	27	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	0.0	0.0	0.0	MCS
+185	23575	3	20	0	4098382	QN : Were there any students at the school on Sunday ?	8	8	36	41	bn:00069619n	http://dbpedia.org/resource/School	http://babelnet.org/rdf/s00069619n	0.0	0.0	0.0	MCS
+185	23575	3	20	0	4098382	QN : Were there any students at the school on Sunday ?	10	10	46	51	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	1.0	0.5	0.022222223	BABELFY
+185	23575	1	21	0	4098383	ID: PARC -21 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	21	0	4098383	ID: PARC -21 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	21	0	4098384	There were no students at the school on Sunday .	3	3	14	21	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	0.0	0.0	0.0	MCS
+185	23575	2	21	0	4098384	There were no students at the school on Sunday .	6	6	30	35	bn:00069619n	http://dbpedia.org/resource/School	http://babelnet.org/rdf/s00069619n	0.0	0.0	0.0	MCS
+185	23575	2	21	0	4098384	There were no students at the school on Sunday .	8	8	40	45	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	1.0	0.5	0.022222223	BABELFY
+185	23575	3	21	0	4098385	QN : Did any students arrive at the school on Sunday ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	21	0	4098385	QN : Did any students arrive at the school on Sunday ?	4	4	13	20	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	0.0	0.0	0.0	MCS
+185	23575	3	21	0	4098385	QN : Did any students arrive at the school on Sunday ?	5	5	22	27	bn:00082788v		http://babelnet.org/rdf/s00082788v	1.0	0.25	0.040816326	BABELFY
+185	23575	3	21	0	4098385	QN : Did any students arrive at the school on Sunday ?	5	6	22	30	bn:00082790v		http://babelnet.org/rdf/s00082790v	1.0	0.25	0.040816326	BABELFY
+185	23575	3	21	0	4098385	QN : Did any students arrive at the school on Sunday ?	8	8	36	41	bn:00069619n	http://dbpedia.org/resource/School	http://babelnet.org/rdf/s00069619n	0.0	0.0	0.0	MCS
+185	23575	3	21	0	4098385	QN : Did any students arrive at the school on Sunday ?	10	10	46	51	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	1.0	0.25	0.020408163	BABELFY
+185	23575	1	22	0	4098386	ID: PARC -22 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	22	0	4098386	ID: PARC -22 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	22	0	4098387	The diplomat left Baghdad last week .	1	1	4	11	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	0.0	0.0	0.0	MCS
+185	23575	2	22	0	4098387	The diplomat left Baghdad last week .	2	2	13	16	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23575	2	22	0	4098387	The diplomat left Baghdad last week .	5	5	31	34	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS
+185	23575	3	22	0	4098388	QN : Has the diplomat been to Baghdad ?	4	4	13	20	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	0.0	0.0	0.0	MCS
+185	23575	1	23	0	4098389	ID: PARC -23 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	23	0	4098389	ID: PARC -23 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	23	0	4098390	The diplomat will arrive in Baghdad next week .	1	1	4	11	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	0.0	0.0	0.0	MCS
+185	23575	2	23	0	4098390	The diplomat will arrive in Baghdad next week .	3	3	18	23	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS
+185	23575	2	23	0	4098390	The diplomat will arrive in Baghdad next week .	7	7	41	44	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS
+185	23575	3	23	0	4098391	QN : Has the diplomat been to Baghdad ?	4	4	13	20	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	0.0	0.0	0.0	MCS
+185	23575	1	24	0	4098392	ID: PARC -24 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	24	0	4098392	ID: PARC -24 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	24	0	4098393	The president knows that the diplomat left Baghdad .	1	1	4	12	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS
+185	23575	2	24	0	4098393	The president knows that the diplomat left Baghdad .	2	2	14	18	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+185	23575	2	24	0	4098393	The president knows that the diplomat left Baghdad .	5	5	29	36	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	1.0	1.0	0.5	BABELFY
+185	23575	2	24	0	4098393	The president knows that the diplomat left Baghdad .	6	6	38	41	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23575	3	24	0	4098394	QN : Has the diplomat been to Baghdad ?	4	4	13	20	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	0.0	0.0	0.0	MCS
+185	23575	1	25	0	4098395	ID: PARC -25 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	25	0	4098395	ID: PARC -25 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	25	0	4098396	The president has n't gone to Iraq since the diplomat left Baghdad .	1	1	4	12	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS
+185	23575	2	25	0	4098396	The president has n't gone to Iraq since the diplomat left Baghdad .	7	7	30	33	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	0.8	1.0	0.43636364	BABELFY
+185	23575	2	25	0	4098396	The president has n't gone to Iraq since the diplomat left Baghdad .	10	10	45	52	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	1.0	0.6666667	0.10909091	BABELFY
+185	23575	2	25	0	4098396	The president has n't gone to Iraq since the diplomat left Baghdad .	11	11	54	57	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23575	3	25	0	4098397	QN : Has the diplomat been to Baghdad ?	4	4	13	20	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	0.0	0.0	0.0	MCS
+185	23575	1	26	0	4098398	ID: PARC -26 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	26	0	4098398	ID: PARC -26 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	26	0	4098399	The president has n't gone to Iraq since the diplomat left Baghdad .	1	1	4	12	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS
+185	23575	2	26	0	4098399	The president has n't gone to Iraq since the diplomat left Baghdad .	7	7	30	33	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	0.8	1.0	0.43636364	BABELFY
+185	23575	2	26	0	4098399	The president has n't gone to Iraq since the diplomat left Baghdad .	10	10	45	52	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	1.0	0.6666667	0.10909091	BABELFY
+185	23575	2	26	0	4098399	The president has n't gone to Iraq since the diplomat left Baghdad .	11	11	54	57	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23575	3	26	0	4098400	QN : Has the president been to Iraq ?	4	4	13	21	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS
+185	23575	3	26	0	4098400	QN : Has the president been to Iraq ?	7	7	31	34	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	0.8	1.0	0.5	BABELFY
+185	23575	1	27	0	4098401	ID: PARC -27 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	27	0	4098401	ID: PARC -27 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	27	0	4098402	The diplomat did n't manage to leave Baghdad .	1	1	4	11	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	0.0	0.0	0.0	MCS
+185	23575	2	27	0	4098402	The diplomat did n't manage to leave Baghdad .	5	5	21	26	bn:00084092v		http://babelnet.org/rdf/s00084092v	0.0	0.0	0.0	MCS
+185	23575	2	27	0	4098402	The diplomat did n't manage to leave Baghdad .	7	7	31	35	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23575	3	27	0	4098403	QN : Has the diplomat been to Baghdad ?	4	4	13	20	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	0.0	0.0	0.0	MCS
+185	23575	1	28	0	4098404	ID: PARC -28 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	28	0	4098404	ID: PARC -28 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	28	0	4098405	The diplomat has n't managed to leave Baghdad .	1	1	4	11	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	0.0	0.0	0.0	MCS
+185	23575	2	28	0	4098405	The diplomat has n't managed to leave Baghdad .	5	5	21	27	bn:00084092v		http://babelnet.org/rdf/s00084092v	0.0	0.0	0.0	MCS
+185	23575	2	28	0	4098405	The diplomat has n't managed to leave Baghdad .	7	7	32	36	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23575	3	28	0	4098406	QN : Is the diplomat in Baghdad now ?	4	4	12	19	bn:00027283n	http://dbpedia.org/resource/Diplomat	http://babelnet.org/rdf/s00027283n	0.0	0.0	0.0	MCS
+185	23575	1	29	0	4098407	ID: PARC -29 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	29	0	4098407	ID: PARC -29 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	29	0	4098408	The room was full of intelligent women .	1	1	4	7	bn:03779619n	http://dbpedia.org/resource/Room_(magazine)	http://babelnet.org/rdf/s03779619n	1.0	1.0	0.5	BABELFY
+185	23575	2	29	0	4098408	The room was full of intelligent women .	3	3	13	16	bn:00103391a		http://babelnet.org/rdf/s00103391a	0.0	0.0	0.0	MCS
+185	23575	2	29	0	4098408	The room was full of intelligent women .	5	5	21	31	bn:00105243a		http://babelnet.org/rdf/s00105243a	0.0	0.0	0.0	MCS
+185	23575	2	29	0	4098408	The room was full of intelligent women .	6	6	33	37	bn:00001530n	http://dbpedia.org/resource/Woman	http://babelnet.org/rdf/s00001530n	1.0	1.0	0.5	BABELFY
+185	23575	3	29	0	4098409	QN : Was the room full of women ?	2	2	5	7	bn:00630272n	http://dbpedia.org/resource/Wa_(Japan)	http://babelnet.org/rdf/s00630272n	1.0	0.5	0.16666667	BABELFY
+185	23575	3	29	0	4098409	QN : Was the room full of women ?	4	4	13	16	bn:03779619n	http://dbpedia.org/resource/Room_(magazine)	http://babelnet.org/rdf/s03779619n	1.0	0.5	0.16666667	BABELFY
+185	23575	3	29	0	4098409	QN : Was the room full of women ?	5	5	18	21	bn:00103391a		http://babelnet.org/rdf/s00103391a	0.0	0.0	0.0	MCS
+185	23575	3	29	0	4098409	QN : Was the room full of women ?	7	7	26	30	bn:00001530n	http://dbpedia.org/resource/Woman	http://babelnet.org/rdf/s00001530n	1.0	1.0	0.6666667	BABELFY
+185	23575	1	30	0	4098410	ID: PARC -30 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	30	0	4098410	ID: PARC -30 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	30	0	4098411	The room was full of women .	1	1	4	7	bn:03779619n	http://dbpedia.org/resource/Room_(magazine)	http://babelnet.org/rdf/s03779619n	1.0	1.0	0.5	BABELFY
+185	23575	2	30	0	4098411	The room was full of women .	3	3	13	16	bn:00103391a		http://babelnet.org/rdf/s00103391a	0.0	0.0	0.0	MCS
+185	23575	2	30	0	4098411	The room was full of women .	5	5	21	25	bn:00001530n	http://dbpedia.org/resource/Woman	http://babelnet.org/rdf/s00001530n	1.0	1.0	0.5	BABELFY
+185	23575	3	30	0	4098412	QN : Was the room full of intelligent women ?	2	2	5	7	bn:00630272n	http://dbpedia.org/resource/Wa_(Japan)	http://babelnet.org/rdf/s00630272n	1.0	0.5	0.16666667	BABELFY
+185	23575	3	30	0	4098412	QN : Was the room full of intelligent women ?	4	4	13	16	bn:03779619n	http://dbpedia.org/resource/Room_(magazine)	http://babelnet.org/rdf/s03779619n	1.0	0.5	0.16666667	BABELFY
+185	23575	3	30	0	4098412	QN : Was the room full of intelligent women ?	5	5	18	21	bn:00103391a		http://babelnet.org/rdf/s00103391a	0.0	0.0	0.0	MCS
+185	23575	3	30	0	4098412	QN : Was the room full of intelligent women ?	7	7	26	36	bn:00105243a		http://babelnet.org/rdf/s00105243a	0.0	0.0	0.0	MCS
+185	23575	3	30	0	4098412	QN : Was the room full of intelligent women ?	8	8	38	42	bn:00001530n	http://dbpedia.org/resource/Woman	http://babelnet.org/rdf/s00001530n	1.0	1.0	0.6666667	BABELFY
+185	23575	1	31	0	4098413	ID: PARC -31 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	31	0	4098413	ID: PARC -31 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	31	0	4098414	Children are not admitted to the theatre .	0	0	0	7	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.0	0.0	0.0	MCS
+185	23575	2	31	0	4098414	Children are not admitted to the theatre .	3	3	17	24	bn:00082372v		http://babelnet.org/rdf/s00082372v	1.0	0.5	0.11111111	BABELFY
+185	23575	2	31	0	4098414	Children are not admitted to the theatre .	6	6	33	39	bn:00028609n	http://dbpedia.org/resource/Dramaturgy	http://babelnet.org/rdf/s00028609n	1.0	1.0	0.6666667	BABELFY
+185	23575	3	31	0	4098415	QN : Are small children admitted to the theatre ?	4	4	15	22	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.0	0.0	0.0	MCS
+185	23575	3	31	0	4098415	QN : Are small children admitted to the theatre ?	5	5	24	31	bn:00082372v		http://babelnet.org/rdf/s00082372v	1.0	0.5	0.11111111	BABELFY
+185	23575	3	31	0	4098415	QN : Are small children admitted to the theatre ?	8	8	40	46	bn:00028609n	http://dbpedia.org/resource/Dramaturgy	http://babelnet.org/rdf/s00028609n	1.0	1.0	0.6666667	BABELFY
+185	23575	1	32	0	4098416	ID: PARC -32 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	32	0	4098416	ID: PARC -32 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	32	0	4098417	Small children are not admitted to the theatre .	1	1	6	13	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.0	0.0	0.0	MCS
+185	23575	2	32	0	4098417	Small children are not admitted to the theatre .	4	4	23	30	bn:00082372v		http://babelnet.org/rdf/s00082372v	1.0	0.5	0.11111111	BABELFY
+185	23575	2	32	0	4098417	Small children are not admitted to the theatre .	7	7	39	45	bn:00028609n	http://dbpedia.org/resource/Dramaturgy	http://babelnet.org/rdf/s00028609n	1.0	1.0	0.6666667	BABELFY
+185	23575	3	32	0	4098418	QN : Are children admitted to the theatre ?	3	3	9	16	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.0	0.0	0.0	MCS
+185	23575	3	32	0	4098418	QN : Are children admitted to the theatre ?	4	4	18	25	bn:00082372v		http://babelnet.org/rdf/s00082372v	1.0	0.5	0.11111111	BABELFY
+185	23575	3	32	0	4098418	QN : Are children admitted to the theatre ?	7	7	34	40	bn:00028609n	http://dbpedia.org/resource/Dramaturgy	http://babelnet.org/rdf/s00028609n	1.0	1.0	0.6666667	BABELFY
+185	23575	1	33	0	4098419	ID: PARC -33 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	33	0	4098419	ID: PARC -33 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	33	0	4098420	All companies have to file annual reports .	1	1	4	12	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.8	1.0	0.21052632	BABELFY
+185	23575	2	33	0	4098420	All companies have to file annual reports .	2	3	14	20	bn:13601282v		http://babelnet.org/rdf/s13601282v	0.0	0.0	0.0	MCS
+185	23575	2	33	0	4098420	All companies have to file annual reports .	4	4	22	25	bn:00088165v		http://babelnet.org/rdf/s00088165v	0.0	0.0	0.0	MCS
+185	23575	2	33	0	4098420	All companies have to file annual reports .	5	5	27	32	bn:00097148a		http://babelnet.org/rdf/s00097148a	0.0	0.0	0.0	MCS
+185	23575	2	33	0	4098420	All companies have to file annual reports .	5	6	27	40	bn:00447647n	http://dbpedia.org/resource/Annual_report	http://babelnet.org/rdf/s00447647n	1.0	1.0	0.42105263	BABELFY
+185	23575	2	33	0	4098420	All companies have to file annual reports .	6	6	34	40	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	1.0	1.0	0.31578946	BABELFY
+185	23575	3	33	0	4098421	QN : Do all Fortune 500 companies have to file annual reports ?	4	4	12	18	bn:00968300n	http://dbpedia.org/resource/Fortune_(magazine)	http://babelnet.org/rdf/s00968300n	1.0	0.6	0.18987341	BABELFY
+185	23575	3	33	0	4098421	QN : Do all Fortune 500 companies have to file annual reports ?	4	5	12	22	bn:02125439n	http://dbpedia.org/resource/Fortune_500	http://babelnet.org/rdf/s02125439n	1.0	0.4	0.101265825	BABELFY
+185	23575	3	33	0	4098421	QN : Do all Fortune 500 companies have to file annual reports ?	4	6	12	32	bn:02125439n	http://dbpedia.org/resource/Fortune_500	http://babelnet.org/rdf/s02125439n	1.0	0.4	0.101265825	BABELFY
+185	23575	3	33	0	4098421	QN : Do all Fortune 500 companies have to file annual reports ?	6	6	24	32	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.7352941	1.0	0.3164557	BABELFY
+185	23575	3	33	0	4098421	QN : Do all Fortune 500 companies have to file annual reports ?	7	8	34	40	bn:13601282v		http://babelnet.org/rdf/s13601282v	0.0	0.0	0.0	MCS
+185	23575	3	33	0	4098421	QN : Do all Fortune 500 companies have to file annual reports ?	9	9	42	45	bn:00088165v		http://babelnet.org/rdf/s00088165v	0.0	0.0	0.0	MCS
+185	23575	3	33	0	4098421	QN : Do all Fortune 500 companies have to file annual reports ?	10	10	47	52	bn:00097148a		http://babelnet.org/rdf/s00097148a	0.0	0.0	0.0	MCS
+185	23575	3	33	0	4098421	QN : Do all Fortune 500 companies have to file annual reports ?	10	11	47	60	bn:00447647n	http://dbpedia.org/resource/Annual_report	http://babelnet.org/rdf/s00447647n	1.0	0.4	0.101265825	BABELFY
+185	23575	3	33	0	4098421	QN : Do all Fortune 500 companies have to file annual reports ?	11	11	54	60	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	1.0	0.4	0.07594936	BABELFY
+185	23575	1	34	0	4098422	ID: PARC -34 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	34	0	4098422	ID: PARC -34 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	34	0	4098423	All Fortune 500 companies have to file annual reports .	1	1	4	10	bn:00968300n	http://dbpedia.org/resource/Fortune_(magazine)	http://babelnet.org/rdf/s00968300n	1.0	0.6	0.18987341	BABELFY
+185	23575	2	34	0	4098423	All Fortune 500 companies have to file annual reports .	1	2	4	14	bn:02125439n	http://dbpedia.org/resource/Fortune_500	http://babelnet.org/rdf/s02125439n	1.0	0.4	0.101265825	BABELFY
+185	23575	2	34	0	4098423	All Fortune 500 companies have to file annual reports .	1	3	4	24	bn:02125439n	http://dbpedia.org/resource/Fortune_500	http://babelnet.org/rdf/s02125439n	1.0	0.4	0.101265825	BABELFY
+185	23575	2	34	0	4098423	All Fortune 500 companies have to file annual reports .	3	3	16	24	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.7352941	1.0	0.3164557	BABELFY
+185	23575	2	34	0	4098423	All Fortune 500 companies have to file annual reports .	4	5	26	32	bn:13601282v		http://babelnet.org/rdf/s13601282v	0.0	0.0	0.0	MCS
+185	23575	2	34	0	4098423	All Fortune 500 companies have to file annual reports .	6	6	34	37	bn:00088165v		http://babelnet.org/rdf/s00088165v	0.0	0.0	0.0	MCS
+185	23575	2	34	0	4098423	All Fortune 500 companies have to file annual reports .	7	7	39	44	bn:00097148a		http://babelnet.org/rdf/s00097148a	0.0	0.0	0.0	MCS
+185	23575	2	34	0	4098423	All Fortune 500 companies have to file annual reports .	7	8	39	52	bn:00447647n	http://dbpedia.org/resource/Annual_report	http://babelnet.org/rdf/s00447647n	1.0	0.4	0.101265825	BABELFY
+185	23575	2	34	0	4098423	All Fortune 500 companies have to file annual reports .	8	8	46	52	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	1.0	0.4	0.07594936	BABELFY
+185	23575	3	34	0	4098424	QN : Do all companies have to file annual reports ?	4	4	12	20	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.8	1.0	0.21052632	BABELFY
+185	23575	3	34	0	4098424	QN : Do all companies have to file annual reports ?	5	6	22	28	bn:13601282v		http://babelnet.org/rdf/s13601282v	0.0	0.0	0.0	MCS
+185	23575	3	34	0	4098424	QN : Do all companies have to file annual reports ?	7	7	30	33	bn:00088165v		http://babelnet.org/rdf/s00088165v	0.0	0.0	0.0	MCS
+185	23575	3	34	0	4098424	QN : Do all companies have to file annual reports ?	8	8	35	40	bn:00097148a		http://babelnet.org/rdf/s00097148a	0.0	0.0	0.0	MCS
+185	23575	3	34	0	4098424	QN : Do all companies have to file annual reports ?	8	9	35	48	bn:00447647n	http://dbpedia.org/resource/Annual_report	http://babelnet.org/rdf/s00447647n	1.0	1.0	0.42105263	BABELFY
+185	23575	3	34	0	4098424	QN : Do all companies have to file annual reports ?	9	9	42	48	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	1.0	1.0	0.31578946	BABELFY
+185	23575	1	35	0	4098425	ID: PARC -35 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	35	0	4098425	ID: PARC -35 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	35	0	4098426	All companies have to file annual reports to the SEC .	1	1	4	12	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.9	1.0	0.20454545	BABELFY
+185	23575	2	35	0	4098426	All companies have to file annual reports to the SEC .	2	3	14	20	bn:13601282v		http://babelnet.org/rdf/s13601282v	0.0	0.0	0.0	MCS
+185	23575	2	35	0	4098426	All companies have to file annual reports to the SEC .	4	4	22	25	bn:00088165v		http://babelnet.org/rdf/s00088165v	0.0	0.0	0.0	MCS
+185	23575	2	35	0	4098426	All companies have to file annual reports to the SEC .	5	5	27	32	bn:00097148a		http://babelnet.org/rdf/s00097148a	0.0	0.0	0.0	MCS
+185	23575	2	35	0	4098426	All companies have to file annual reports to the SEC .	5	6	27	40	bn:00447647n	http://dbpedia.org/resource/Annual_report	http://babelnet.org/rdf/s00447647n	1.0	1.0	0.4090909	BABELFY
+185	23575	2	35	0	4098426	All companies have to file annual reports to the SEC .	6	6	34	40	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	0.75	0.6666667	0.13636364	BABELFY
+185	23575	2	35	0	4098426	All companies have to file annual reports to the SEC .	9	9	49	51	bn:00070091n	http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission	http://babelnet.org/rdf/s00070091n	0.75	0.6666667	0.13636364	BABELFY
+185	23575	3	35	0	4098427	QN : Do all companies have to file annual reports ?	4	4	12	20	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.8	1.0	0.21052632	BABELFY
+185	23575	3	35	0	4098427	QN : Do all companies have to file annual reports ?	5	6	22	28	bn:13601282v		http://babelnet.org/rdf/s13601282v	0.0	0.0	0.0	MCS
+185	23575	3	35	0	4098427	QN : Do all companies have to file annual reports ?	7	7	30	33	bn:00088165v		http://babelnet.org/rdf/s00088165v	0.0	0.0	0.0	MCS
+185	23575	3	35	0	4098427	QN : Do all companies have to file annual reports ?	8	8	35	40	bn:00097148a		http://babelnet.org/rdf/s00097148a	0.0	0.0	0.0	MCS
+185	23575	3	35	0	4098427	QN : Do all companies have to file annual reports ?	8	9	35	48	bn:00447647n	http://dbpedia.org/resource/Annual_report	http://babelnet.org/rdf/s00447647n	1.0	1.0	0.42105263	BABELFY
+185	23575	3	35	0	4098427	QN : Do all companies have to file annual reports ?	9	9	42	48	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	1.0	1.0	0.31578946	BABELFY
+185	23575	1	36	0	4098428	ID: PARC -36 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	36	0	4098428	ID: PARC -36 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	36	0	4098429	All companies have to file annual reports .	1	1	4	12	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.8	1.0	0.21052632	BABELFY
+185	23575	2	36	0	4098429	All companies have to file annual reports .	2	3	14	20	bn:13601282v		http://babelnet.org/rdf/s13601282v	0.0	0.0	0.0	MCS
+185	23575	2	36	0	4098429	All companies have to file annual reports .	4	4	22	25	bn:00088165v		http://babelnet.org/rdf/s00088165v	0.0	0.0	0.0	MCS
+185	23575	2	36	0	4098429	All companies have to file annual reports .	5	5	27	32	bn:00097148a		http://babelnet.org/rdf/s00097148a	0.0	0.0	0.0	MCS
+185	23575	2	36	0	4098429	All companies have to file annual reports .	5	6	27	40	bn:00447647n	http://dbpedia.org/resource/Annual_report	http://babelnet.org/rdf/s00447647n	1.0	1.0	0.42105263	BABELFY
+185	23575	2	36	0	4098429	All companies have to file annual reports .	6	6	34	40	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	1.0	1.0	0.31578946	BABELFY
+185	23575	3	36	0	4098430	QN : Do all companies have to file annual reports to the SEC ?	4	4	12	20	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.9	1.0	0.20454545	BABELFY
+185	23575	3	36	0	4098430	QN : Do all companies have to file annual reports to the SEC ?	5	6	22	28	bn:13601282v		http://babelnet.org/rdf/s13601282v	0.0	0.0	0.0	MCS
+185	23575	3	36	0	4098430	QN : Do all companies have to file annual reports to the SEC ?	7	7	30	33	bn:00088165v		http://babelnet.org/rdf/s00088165v	0.0	0.0	0.0	MCS
+185	23575	3	36	0	4098430	QN : Do all companies have to file annual reports to the SEC ?	8	8	35	40	bn:00097148a		http://babelnet.org/rdf/s00097148a	0.0	0.0	0.0	MCS
+185	23575	3	36	0	4098430	QN : Do all companies have to file annual reports to the SEC ?	8	9	35	48	bn:00447647n	http://dbpedia.org/resource/Annual_report	http://babelnet.org/rdf/s00447647n	1.0	1.0	0.4090909	BABELFY
+185	23575	3	36	0	4098430	QN : Do all companies have to file annual reports to the SEC ?	9	9	42	48	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	0.75	0.6666667	0.13636364	BABELFY
+185	23575	3	36	0	4098430	QN : Do all companies have to file annual reports to the SEC ?	12	12	57	59	bn:00070091n	http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission	http://babelnet.org/rdf/s00070091n	0.75	0.6666667	0.13636364	BABELFY
+185	23575	1	37	0	4098431	ID: PARC -37 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	37	0	4098431	ID: PARC -37 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	37	0	4098432	No delegates finished the report .	1	1	3	11	bn:00026025n	http://dbpedia.org/resource/Delegate	http://babelnet.org/rdf/s00026025n	0.0	0.0	0.0	MCS
+185	23575	2	37	0	4098432	No delegates finished the report .	2	2	13	20	bn:00085475v		http://babelnet.org/rdf/s00085475v	0.0	0.0	0.0	MCS
+185	23575	2	37	0	4098432	No delegates finished the report .	4	4	26	31	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	0.0	0.0	0.0	MCS
+185	23575	3	37	0	4098433	QN : Did any delegate finish the report on time ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	37	0	4098433	QN : Did any delegate finish the report on time ?	4	4	13	20	bn:00026025n	http://dbpedia.org/resource/Delegate	http://babelnet.org/rdf/s00026025n	0.0	0.0	0.0	MCS
+185	23575	3	37	0	4098433	QN : Did any delegate finish the report on time ?	5	5	22	27	bn:00020194n	http://dbpedia.org/resource/Finishing_(textiles)	http://babelnet.org/rdf/s00020194n	0.0	0.0	0.0	MCS
+185	23575	3	37	0	4098433	QN : Did any delegate finish the report on time ?	7	7	33	38	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	0.0	0.0	0.0	MCS
+185	23575	3	37	0	4098433	QN : Did any delegate finish the report on time ?	9	9	43	46	bn:00077270n	http://dbpedia.org/resource/Time	http://babelnet.org/rdf/s00077270n	0.75	1.0	0.46153846	BABELFY
+185	23575	1	38	0	4098434	ID: PARC -38 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	38	0	4098434	ID: PARC -38 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	38	0	4098435	The US troops stayed in Iraq although the war was over .	1	2	4	12	bn:02576201n	http://dbpedia.org/resource/United_States_Armed_Forces	http://babelnet.org/rdf/s02576201n	1.0	1.0	0.24324325	BABELFY
+185	23575	2	38	0	4098435	The US troops stayed in Iraq although the war was over .	2	2	7	12	bn:00054975n		http://babelnet.org/rdf/s00054975n	1.0	1.0	0.12162162	BABELFY
+185	23575	2	38	0	4098435	The US troops stayed in Iraq although the war was over .	3	3	14	19	bn:00092756v		http://babelnet.org/rdf/s00092756v	0.0	0.0	0.0	MCS
+185	23575	2	38	0	4098435	The US troops stayed in Iraq although the war was over .	3	4	14	22	bn:13695960v		http://babelnet.org/rdf/s13695960v	0.0	0.0	0.0	MCS
+185	23575	2	38	0	4098435	The US troops stayed in Iraq although the war was over .	5	5	24	27	bn:00002362n	http://dbpedia.org/resource/Iraq	http://babelnet.org/rdf/s00002362n	0.9130435	1.0	0.2837838	BABELFY
+185	23575	2	38	0	4098435	The US troops stayed in Iraq although the war was over .	8	8	42	44	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.875	1.0	0.2837838	BABELFY
+185	23575	3	38	0	4098436	QN : Was the war over ?	4	4	13	15	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.0	0.0	0.0	MCS
+185	23575	1	39	0	4098437	ID: PARC -39 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	39	0	4098437	ID: PARC -39 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	39	0	4098438	Since it was cold , he closed the window .	3	3	13	16	bn:00099981a		http://babelnet.org/rdf/s00099981a	0.0	0.0	0.0	MCS
+185	23575	2	39	0	4098438	Since it was cold , he closed the window .	6	6	23	28	bn:00087608v		http://babelnet.org/rdf/s00087608v	1.0	1.0	0.5	BABELFY
+185	23575	2	39	0	4098438	Since it was cold , he closed the window .	8	8	34	39	bn:00081289n		http://babelnet.org/rdf/s00081289n	1.0	1.0	0.5	BABELFY
+185	23575	3	39	0	4098439	QN : Was it cold ?	4	4	12	15	bn:00099981a		http://babelnet.org/rdf/s00099981a	0.0	0.0	0.0	MCS
+185	23575	1	40	0	4098440	ID: PARC -40 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	40	0	4098440	ID: PARC -40 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	40	0	4098441	John did n't visit us after he returned from Spain .	4	4	13	17	bn:00093433v		http://babelnet.org/rdf/s00093433v	0.0	0.0	0.0	MCS
+185	23575	2	40	0	4098441	John did n't visit us after he returned from Spain .	8	8	31	38	bn:00092969v		http://babelnet.org/rdf/s00092969v	0.0	0.0	0.0	MCS
+185	23575	2	40	0	4098441	John did n't visit us after he returned from Spain .	10	10	45	49	bn:00031605n	http://dbpedia.org/resource/Spain	http://babelnet.org/rdf/s00031605n	0.95454544	1.0	0.47727272	BABELFY
+185	23575	3	40	0	4098442	QN : Did John return from Spain ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	40	0	4098442	QN : Did John return from Spain ?	4	4	14	19	bn:00092969v		http://babelnet.org/rdf/s00092969v	0.0	0.0	0.0	MCS
+185	23575	3	40	0	4098442	QN : Did John return from Spain ?	6	6	26	30	bn:00031605n	http://dbpedia.org/resource/Spain	http://babelnet.org/rdf/s00031605n	0.95454544	1.0	0.47727272	BABELFY
+185	23575	1	41	0	4098443	ID: PARC -41 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	41	0	4098443	ID: PARC -41 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	41	0	4098444	Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	3	3	14	17	bn:00093475v		http://babelnet.org/rdf/s00093475v	1.0	0.14285715	0.00990099	BABELFY
+185	23575	2	41	0	4098444	Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	4	4	19	21	bn:00033848n	http://dbpedia.org/resource/Federal_Bureau_of_Investigation	http://babelnet.org/rdf/s00033848n	1.0	0.14285715	0.00990099	BABELFY
+185	23575	2	41	0	4098444	Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	5	5	23	29	bn:00070159n		http://babelnet.org/rdf/s00070159n	0.0	0.0	0.0	MCS
+185	23575	2	41	0	4098444	Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	8	8	38	45	bn:00068624n		http://babelnet.org/rdf/s00068624n	0.0	0.0	0.0	MCS
+185	23575	2	41	0	4098444	Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	11	11	55	58	bn:00085596v		http://babelnet.org/rdf/s00085596v	1.0	0.14285715	0.04950495	BABELFY
+185	23575	2	41	0	4098444	Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	13	13	64	68	bn:00025582n	http://dbpedia.org/resource/Death	http://babelnet.org/rdf/s00025582n	0.0	0.0	0.0	MCS
+185	23575	2	41	0	4098444	Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	13	14	64	76	bn:00015656n	http://dbpedia.org/resource/Capital_punishment	http://babelnet.org/rdf/s00015656n	1.0	0.71428573	0.5445545	BABELFY
+185	23575	2	41	0	4098444	Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	14	14	70	76	bn:00061326n	http://dbpedia.org/resource/Penal_damages	http://babelnet.org/rdf/s00061326n	0.0	0.0	0.0	MCS
+185	23575	3	41	0	4098445	QN : Did Hanssen sell FBI secrets to the Russians ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	41	0	4098445	QN : Did Hanssen sell FBI secrets to the Russians ?	4	4	17	20	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23575	3	41	0	4098445	QN : Did Hanssen sell FBI secrets to the Russians ?	6	6	26	32	bn:00070159n		http://babelnet.org/rdf/s00070159n	0.0	0.0	0.0	MCS
+185	23575	3	41	0	4098445	QN : Did Hanssen sell FBI secrets to the Russians ?	9	9	41	48	bn:00068625n	http://dbpedia.org/resource/Russian_language	http://babelnet.org/rdf/s00068625n	1.0	1.0	0.5	BABELFY
+185	23575	1	42	0	4098446	ID: PARC -42 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	42	0	4098446	ID: PARC -42 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	1	1	4	6	bn:15683246n	http://dbpedia.org/resource/New_(album)	http://babelnet.org/rdf/s15683246n	0.75	0.15384616	0.0065934067	BABELFY
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	1	2	4	11	bn:00041611n	http://dbpedia.org/resource/New_York_City	http://babelnet.org/rdf/s00041611n	0.71428573	0.84615386	0.36263737	BABELFY
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	1	3	4	17	bn:02417124n	http://dbpedia.org/resource/The_New_York_Times	http://babelnet.org/rdf/s02417124n	1.0	0.46153846	0.10549451	BABELFY
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	2	2	8	11	bn:00045018n	http://dbpedia.org/resource/House_of_York	http://babelnet.org/rdf/s00045018n	0.8181818	0.23076923	0.01978022	BABELFY
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	2	3	8	17	bn:15657353n	http://dbpedia.org/resource/Warp-field_experiments	http://babelnet.org/rdf/s15657353n	1.0	0.07692308	0.0010989011	BABELFY
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	3	3	13	17	bn:00019848n		http://babelnet.org/rdf/s00019848n	0.0	0.0	0.0	MCS
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	4	4	19	26	bn:00082233v		http://babelnet.org/rdf/s00082233v	0.0	0.0	0.0	MCS
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	9	9	47	50	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	10	10	52	54	bn:00033848n	http://dbpedia.org/resource/Federal_Bureau_of_Investigation	http://babelnet.org/rdf/s00033848n	0.9756098	0.3846154	0.043956045	BABELFY
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	11	11	56	62	bn:00070159n		http://babelnet.org/rdf/s00070159n	0.0	0.0	0.0	MCS
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	14	14	71	78	bn:00068624n		http://babelnet.org/rdf/s00068624n	0.0	0.0	0.0	MCS
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	17	17	88	91	bn:00085596v		http://babelnet.org/rdf/s00085596v	1.0	0.07692308	0.0010989011	BABELFY
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	19	19	97	101	bn:00025582n	http://dbpedia.org/resource/Death	http://babelnet.org/rdf/s00025582n	0.0	0.0	0.0	MCS
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	19	20	97	109	bn:00015656n	http://dbpedia.org/resource/Capital_punishment	http://babelnet.org/rdf/s00015656n	0.990566	0.53846157	0.115384616	BABELFY
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	20	20	103	109	bn:00061325n	http://dbpedia.org/resource/Punishment	http://babelnet.org/rdf/s00061325n	0.72	0.23076923	0.01978022	BABELFY
+185	23575	3	42	0	4098448	QN : Did Hanssen sell FBI secrets to the Russians ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	42	0	4098448	QN : Did Hanssen sell FBI secrets to the Russians ?	4	4	17	20	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23575	3	42	0	4098448	QN : Did Hanssen sell FBI secrets to the Russians ?	6	6	26	32	bn:00070159n		http://babelnet.org/rdf/s00070159n	0.0	0.0	0.0	MCS
+185	23575	3	42	0	4098448	QN : Did Hanssen sell FBI secrets to the Russians ?	9	9	41	48	bn:00068625n	http://dbpedia.org/resource/Russian_language	http://babelnet.org/rdf/s00068625n	1.0	1.0	0.5	BABELFY
+185	23575	1	43	0	4098449	ID: PARC -43 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	43	0	4098449	ID: PARC -43 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	1	1	4	6	bn:15683246n	http://dbpedia.org/resource/New_(album)	http://babelnet.org/rdf/s15683246n	0.75	0.15384616	0.0065934067	BABELFY
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	1	2	4	11	bn:00041611n	http://dbpedia.org/resource/New_York_City	http://babelnet.org/rdf/s00041611n	0.71428573	0.84615386	0.36263737	BABELFY
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	1	3	4	17	bn:02417124n	http://dbpedia.org/resource/The_New_York_Times	http://babelnet.org/rdf/s02417124n	1.0	0.46153846	0.10549451	BABELFY
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	2	2	8	11	bn:00045018n	http://dbpedia.org/resource/House_of_York	http://babelnet.org/rdf/s00045018n	0.8181818	0.23076923	0.01978022	BABELFY
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	2	3	8	17	bn:15657353n	http://dbpedia.org/resource/Warp-field_experiments	http://babelnet.org/rdf/s15657353n	1.0	0.07692308	0.0010989011	BABELFY
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	3	3	13	17	bn:00019848n		http://babelnet.org/rdf/s00019848n	0.0	0.0	0.0	MCS
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	4	4	19	26	bn:00082233v		http://babelnet.org/rdf/s00082233v	0.0	0.0	0.0	MCS
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	7	7	41	44	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	8	8	46	48	bn:00033848n	http://dbpedia.org/resource/Federal_Bureau_of_Investigation	http://babelnet.org/rdf/s00033848n	0.9756098	0.3846154	0.043956045	BABELFY
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	9	9	50	56	bn:00070159n		http://babelnet.org/rdf/s00070159n	0.0	0.0	0.0	MCS
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	12	12	65	72	bn:00068624n		http://babelnet.org/rdf/s00068624n	0.0	0.0	0.0	MCS
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	15	15	84	87	bn:00085596v		http://babelnet.org/rdf/s00085596v	1.0	0.07692308	0.0010989011	BABELFY
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	17	17	93	97	bn:00025582n	http://dbpedia.org/resource/Death	http://babelnet.org/rdf/s00025582n	0.0	0.0	0.0	MCS
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	17	18	93	105	bn:00015656n	http://dbpedia.org/resource/Capital_punishment	http://babelnet.org/rdf/s00015656n	0.990566	0.53846157	0.115384616	BABELFY
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	18	18	99	105	bn:00061325n	http://dbpedia.org/resource/Punishment	http://babelnet.org/rdf/s00061325n	0.72	0.23076923	0.01978022	BABELFY
+185	23575	3	43	0	4098451	QN : Did Hanssen sell FBI secrets to the Russians ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	43	0	4098451	QN : Did Hanssen sell FBI secrets to the Russians ?	4	4	17	20	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23575	3	43	0	4098451	QN : Did Hanssen sell FBI secrets to the Russians ?	6	6	26	32	bn:00070159n		http://babelnet.org/rdf/s00070159n	0.0	0.0	0.0	MCS
+185	23575	3	43	0	4098451	QN : Did Hanssen sell FBI secrets to the Russians ?	9	9	41	48	bn:00068625n	http://dbpedia.org/resource/Russian_language	http://babelnet.org/rdf/s00068625n	1.0	1.0	0.5	BABELFY
+185	23575	1	44	0	4098452	ID: PARC -44 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	44	0	4098452	ID: PARC -44 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	44	0	4098453	Bush said that it was Khan who sold centrifuges to North Korea .	0	0	0	3	bn:00014096n		http://babelnet.org/rdf/s00014096n	0.0	0.0	0.0	MCS
+185	23575	2	44	0	4098453	Bush said that it was Khan who sold centrifuges to North Korea .	1	1	5	8	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS
+185	23575	2	44	0	4098453	Bush said that it was Khan who sold centrifuges to North Korea .	5	5	22	25	bn:00049031n	http://dbpedia.org/resource/Khan_(title)	http://babelnet.org/rdf/s00049031n	0.75	0.4	0.028708134	BABELFY
+185	23575	2	44	0	4098453	Bush said that it was Khan who sold centrifuges to North Korea .	7	7	31	34	bn:00083456v		http://babelnet.org/rdf/s00083456v	1.0	0.2	0.004784689	BABELFY
+185	23575	2	44	0	4098453	Bush said that it was Khan who sold centrifuges to North Korea .	8	8	36	46	bn:00017210n	http://dbpedia.org/resource/Separator_(oil_production)	http://babelnet.org/rdf/s00017210n	0.0	0.0	0.0	MCS
+185	23575	2	44	0	4098453	Bush said that it was Khan who sold centrifuges to North Korea .	10	11	51	61	bn:00024943n	http://dbpedia.org/resource/North_Korea	http://babelnet.org/rdf/s00024943n	1.0	0.6	0.20095694	BABELFY
+185	23575	3	44	0	4098454	QN : Were centrifuges sold to North Korea ?	3	3	10	20	bn:00017210n	http://dbpedia.org/resource/Separator_(oil_production)	http://babelnet.org/rdf/s00017210n	0.0	0.0	0.0	MCS
+185	23575	3	44	0	4098454	QN : Were centrifuges sold to North Korea ?	4	4	22	25	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23575	3	44	0	4098454	QN : Were centrifuges sold to North Korea ?	6	7	30	40	bn:00024943n	http://dbpedia.org/resource/North_Korea	http://babelnet.org/rdf/s00024943n	1.0	1.0	0.2857143	BABELFY
+185	23575	1	45	0	4098455	ID: PARC -45 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	45	0	4098455	ID: PARC -45 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	45	0	4098456	Bush said that Khan sold centrifuges to North Korea .	0	0	0	3	bn:00014096n		http://babelnet.org/rdf/s00014096n	0.0	0.0	0.0	MCS
+185	23575	2	45	0	4098456	Bush said that Khan sold centrifuges to North Korea .	1	1	5	8	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS
+185	23575	2	45	0	4098456	Bush said that Khan sold centrifuges to North Korea .	3	3	15	18	bn:00049031n	http://dbpedia.org/resource/Khan_(title)	http://babelnet.org/rdf/s00049031n	0.75	0.4	0.028708134	BABELFY
+185	23575	2	45	0	4098456	Bush said that Khan sold centrifuges to North Korea .	4	4	20	23	bn:00083456v		http://babelnet.org/rdf/s00083456v	1.0	0.2	0.004784689	BABELFY
+185	23575	2	45	0	4098456	Bush said that Khan sold centrifuges to North Korea .	5	5	25	35	bn:00017210n	http://dbpedia.org/resource/Separator_(oil_production)	http://babelnet.org/rdf/s00017210n	0.0	0.0	0.0	MCS
+185	23575	2	45	0	4098456	Bush said that Khan sold centrifuges to North Korea .	7	8	40	50	bn:00024943n	http://dbpedia.org/resource/North_Korea	http://babelnet.org/rdf/s00024943n	1.0	0.6	0.20095694	BABELFY
+185	23575	3	45	0	4098457	QN : Were centrifuges sold to North Korea ?	3	3	10	20	bn:00017210n	http://dbpedia.org/resource/Separator_(oil_production)	http://babelnet.org/rdf/s00017210n	0.0	0.0	0.0	MCS
+185	23575	3	45	0	4098457	QN : Were centrifuges sold to North Korea ?	4	4	22	25	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23575	3	45	0	4098457	QN : Were centrifuges sold to North Korea ?	6	7	30	40	bn:00024943n	http://dbpedia.org/resource/North_Korea	http://babelnet.org/rdf/s00024943n	1.0	1.0	0.2857143	BABELFY
+185	23575	1	46	0	4098458	ID: PARC -46 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	46	0	4098458	ID: PARC -46 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	46	0	4098459	What we found in Iraq was rusted shrapnel .	2	2	8	12	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS
+185	23575	2	46	0	4098459	What we found in Iraq was rusted shrapnel .	6	6	26	31	bn:00093205v		http://babelnet.org/rdf/s00093205v	0.0	0.0	0.0	MCS
+185	23575	2	46	0	4098459	What we found in Iraq was rusted shrapnel .	7	7	33	40	bn:00071337n		http://babelnet.org/rdf/s00071337n	0.0	0.0	0.0	MCS
+185	23575	3	46	0	4098460	QN : Did we find anything in Iraq ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	46	0	4098460	QN : Did we find anything in Iraq ?	4	4	12	15	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS
+185	23575	1	47	0	4098461	ID: PARC -47 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	47	0	4098461	ID: PARC -47 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	1	1	4	7	bn:00032654n		http://babelnet.org/rdf/s00032654n	1.0	0.2	0.029411765	BABELFY
+185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	3	3	14	16	bn:00010471n	http://dbpedia.org/resource/Osama_bin_Laden	http://babelnet.org/rdf/s00010471n	1.0	0.6	0.2647059	BABELFY
+185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	3	4	14	22	bn:00010471n	http://dbpedia.org/resource/Osama_bin_Laden	http://babelnet.org/rdf/s00010471n	0.8	0.4	0.11764706	BABELFY
+185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	7	8	31	39	bn:02482063n	http://dbpedia.org/resource/Tora_Bora	http://babelnet.org/rdf/s02482063n	1.0	0.6	0.2647059	BABELFY
+185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	9	9	41	43	bn:00085567v		http://babelnet.org/rdf/s00085567v	0.0	0.0	0.0	MCS
+185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	12	12	52	60	bn:00045216n		http://babelnet.org/rdf/s00045216n	1.0	0.2	0.029411765	BABELFY
+185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	15	15	71	76	bn:03457049n	http://dbpedia.org/resource/The_Afghan	http://babelnet.org/rdf/s03457049n	1.0	0.6	0.2647059	BABELFY
+185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	16	16	78	85	bn:00015050n	http://dbpedia.org/resource/Political_campaign	http://babelnet.org/rdf/s00015050n	0.0	0.0	0.0	MCS
+185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	18	18	91	100	bn:00090824v		http://babelnet.org/rdf/s00090824v	0.0	0.0	0.0	MCS
+185	23575	3	47	0	4098463	QN : Was Bin Laden in Tora Bora ?	3	3	9	11	bn:00010471n	http://dbpedia.org/resource/Osama_bin_Laden	http://babelnet.org/rdf/s00010471n	1.0	1.0	0.4	BABELFY
+185	23575	3	47	0	4098463	QN : Was Bin Laden in Tora Bora ?	6	6	22	25	bn:01687984n	http://dbpedia.org/resource/Stamnodes	http://babelnet.org/rdf/s01687984n	0.0	0.0	0.0	MCS
+185	23575	3	47	0	4098463	QN : Was Bin Laden in Tora Bora ?	6	7	22	30	bn:02482063n	http://dbpedia.org/resource/Tora_Bora	http://babelnet.org/rdf/s02482063n	1.0	1.0	0.4	BABELFY
+185	23575	1	48	0	4098464	ID: PARC -48 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	48	0	4098464	ID: PARC -48 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	1	1	4	7	bn:00032654n		http://babelnet.org/rdf/s00032654n	1.0	0.2	0.029411765	BABELFY
+185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	3	3	14	16	bn:00010471n	http://dbpedia.org/resource/Osama_bin_Laden	http://babelnet.org/rdf/s00010471n	1.0	0.6	0.2647059	BABELFY
+185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	3	4	14	22	bn:00010471n	http://dbpedia.org/resource/Osama_bin_Laden	http://babelnet.org/rdf/s00010471n	0.8	0.4	0.11764706	BABELFY
+185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	7	8	31	39	bn:02482063n	http://dbpedia.org/resource/Tora_Bora	http://babelnet.org/rdf/s02482063n	1.0	0.6	0.2647059	BABELFY
+185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	9	9	41	43	bn:00085567v		http://babelnet.org/rdf/s00085567v	0.0	0.0	0.0	MCS
+185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	12	12	52	60	bn:00045216n		http://babelnet.org/rdf/s00045216n	1.0	0.2	0.029411765	BABELFY
+185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	15	15	71	76	bn:03457049n	http://dbpedia.org/resource/The_Afghan	http://babelnet.org/rdf/s03457049n	1.0	0.6	0.2647059	BABELFY
+185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	16	16	78	85	bn:00015050n	http://dbpedia.org/resource/Political_campaign	http://babelnet.org/rdf/s00015050n	0.0	0.0	0.0	MCS
+185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	18	18	91	100	bn:00090824v		http://babelnet.org/rdf/s00090824v	0.0	0.0	0.0	MCS
+185	23575	3	48	0	4098466	QN : Was the Afghan campaign mismanaged ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	1.0	1.0	0.5	BABELFY
+185	23575	3	48	0	4098466	QN : Was the Afghan campaign mismanaged ?	4	4	13	18	bn:03457049n	http://dbpedia.org/resource/The_Afghan	http://babelnet.org/rdf/s03457049n	1.0	1.0	0.5	BABELFY
+185	23575	3	48	0	4098466	QN : Was the Afghan campaign mismanaged ?	5	5	20	27	bn:00015050n	http://dbpedia.org/resource/Political_campaign	http://babelnet.org/rdf/s00015050n	0.0	0.0	0.0	MCS
+185	23575	3	48	0	4098466	QN : Was the Afghan campaign mismanaged ?	6	6	29	38	bn:00090824v		http://babelnet.org/rdf/s00090824v	0.0	0.0	0.0	MCS
+185	23575	1	49	0	4098467	ID: PARC -49 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	49	0	4098467	ID: PARC -49 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	49	0	4098468	The paper concluded that the election had been rigged .	1	1	4	8	bn:00057563n	http://dbpedia.org/resource/Newspaper	http://babelnet.org/rdf/s00057563n	1.0	1.0	0.5	BABELFY
+185	23575	2	49	0	4098468	The paper concluded that the election had been rigged .	2	2	10	18	bn:00085528v		http://babelnet.org/rdf/s00085528v	0.0	0.0	0.0	MCS
+185	23575	2	49	0	4098468	The paper concluded that the election had been rigged .	5	5	29	36	bn:00030113n	http://dbpedia.org/resource/Election	http://babelnet.org/rdf/s00030113n	0.0	0.0	0.0	MCS
+185	23575	2	49	0	4098468	The paper concluded that the election had been rigged .	8	8	47	52	bn:00090634v		http://babelnet.org/rdf/s00090634v	0.0	0.0	0.0	MCS
+185	23575	3	49	0	4098469	QN : Was the election rigged ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	1.0	1.0	0.5	BABELFY
+185	23575	3	49	0	4098469	QN : Was the election rigged ?	4	4	13	20	bn:03157745n	http://dbpedia.org/resource/Patent_Cooperation_Treaty	http://babelnet.org/rdf/s03157745n	1.0	1.0	0.5	BABELFY
+185	23575	3	49	0	4098469	QN : Was the election rigged ?	5	5	22	27	bn:00090634v		http://babelnet.org/rdf/s00090634v	0.0	0.0	0.0	MCS
+185	23575	1	50	0	4098470	ID: PARC -50 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	50	0	4098470	ID: PARC -50 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	50	0	4098471	Ames was , as the press reported , a successful spy .	0	0	0	3	bn:00003344n	http://dbpedia.org/resource/American_English	http://babelnet.org/rdf/s00003344n	0.0	0.0	0.0	MCS
+185	23575	2	50	0	4098471	Ames was , as the press reported , a successful spy .	5	5	18	22	bn:00064245n		http://babelnet.org/rdf/s00064245n	0.0	0.0	0.0	MCS
+185	23575	2	50	0	4098471	Ames was , as the press reported , a successful spy .	6	6	24	31	bn:00082233v		http://babelnet.org/rdf/s00082233v	1.0	1.0	0.5	BABELFY
+185	23575	2	50	0	4098471	Ames was , as the press reported , a successful spy .	9	9	37	46	bn:00111409a		http://babelnet.org/rdf/s00111409a	1.0	1.0	0.5	BABELFY
+185	23575	2	50	0	4098471	Ames was , as the press reported , a successful spy .	10	10	48	50	bn:00073685n		http://babelnet.org/rdf/s00073685n	0.0	0.0	0.0	MCS
+185	23575	3	50	0	4098472	QN : Was Ames a successful spy ?	3	3	9	12	bn:00003344n	http://dbpedia.org/resource/American_English	http://babelnet.org/rdf/s00003344n	0.0	0.0	0.0	MCS
+185	23575	3	50	0	4098472	QN : Was Ames a successful spy ?	5	5	16	25	bn:00111409a		http://babelnet.org/rdf/s00111409a	0.0	0.0	0.0	MCS
+185	23575	3	50	0	4098472	QN : Was Ames a successful spy ?	6	6	27	29	bn:00073685n		http://babelnet.org/rdf/s00073685n	0.0	0.0	0.0	MCS
+185	23575	1	51	0	4098473	ID: PARC -51 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	51	0	4098473	ID: PARC -51 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	51	0	4098474	The press reported that Ames was a successful spy .	1	1	4	8	bn:00064245n		http://babelnet.org/rdf/s00064245n	0.0	0.0	0.0	MCS
+185	23575	2	51	0	4098474	The press reported that Ames was a successful spy .	2	2	10	17	bn:00082233v		http://babelnet.org/rdf/s00082233v	1.0	1.0	0.5	BABELFY
+185	23575	2	51	0	4098474	The press reported that Ames was a successful spy .	4	4	24	27	bn:00003344n	http://dbpedia.org/resource/American_English	http://babelnet.org/rdf/s00003344n	0.0	0.0	0.0	MCS
+185	23575	2	51	0	4098474	The press reported that Ames was a successful spy .	7	7	35	44	bn:00111409a		http://babelnet.org/rdf/s00111409a	1.0	1.0	0.5	BABELFY
+185	23575	2	51	0	4098474	The press reported that Ames was a successful spy .	8	8	46	48	bn:00073685n		http://babelnet.org/rdf/s00073685n	0.0	0.0	0.0	MCS
+185	23575	3	51	0	4098475	QN : Was Ames a successful spy ?	3	3	9	12	bn:00003344n	http://dbpedia.org/resource/American_English	http://babelnet.org/rdf/s00003344n	0.0	0.0	0.0	MCS
+185	23575	3	51	0	4098475	QN : Was Ames a successful spy ?	5	5	16	25	bn:00111409a		http://babelnet.org/rdf/s00111409a	0.0	0.0	0.0	MCS
+185	23575	3	51	0	4098475	QN : Was Ames a successful spy ?	6	6	27	29	bn:00073685n		http://babelnet.org/rdf/s00073685n	0.0	0.0	0.0	MCS
+185	23575	1	52	0	4098476	ID: PARC -52 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	52	0	4098476	ID: PARC -52 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	52	0	4098477	The US forgot that the Afghans speak several different languages .	2	2	7	12	bn:00084302v		http://babelnet.org/rdf/s00084302v	1.0	0.33333334	0.026666667	BABELFY
+185	23575	2	52	0	4098477	The US forgot that the Afghans speak several different languages .	5	5	23	29	bn:00001796n	http://dbpedia.org/resource/Afghan_(blanket)	http://babelnet.org/rdf/s00001796n	0.0	0.0	0.0	MCS
+185	23575	2	52	0	4098477	The US forgot that the Afghans speak several different languages .	6	6	31	35	bn:00094089v		http://babelnet.org/rdf/s00094089v	0.0	0.0	0.0	MCS
+185	23575	2	52	0	4098477	The US forgot that the Afghans speak several different languages .	8	8	45	53	bn:00101347a		http://babelnet.org/rdf/s00101347a	0.0	0.0	0.0	MCS
+185	23575	2	52	0	4098477	The US forgot that the Afghans speak several different languages .	9	9	55	63	bn:00049910n	http://dbpedia.org/resource/Language	http://babelnet.org/rdf/s00049910n	0.7173913	1.0	0.44	BABELFY
+185	23575	3	52	0	4098478	QN : Do the Afghans speak several different languages ?	4	4	12	18	bn:00001796n	http://dbpedia.org/resource/Afghan_(blanket)	http://babelnet.org/rdf/s00001796n	0.0	0.0	0.0	MCS
+185	23575	3	52	0	4098478	QN : Do the Afghans speak several different languages ?	5	5	20	24	bn:00094089v		http://babelnet.org/rdf/s00094089v	0.0	0.0	0.0	MCS
+185	23575	3	52	0	4098478	QN : Do the Afghans speak several different languages ?	7	7	34	42	bn:00101347a		http://babelnet.org/rdf/s00101347a	0.0	0.0	0.0	MCS
+185	23575	3	52	0	4098478	QN : Do the Afghans speak several different languages ?	8	8	44	52	bn:00049910n	http://dbpedia.org/resource/Language	http://babelnet.org/rdf/s00049910n	0.7407407	1.0	0.37037036	BABELFY
+185	23575	1	53	0	4098479	ID: PARC -53 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	53	0	4098479	ID: PARC -53 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	53	0	4098480	Bush realized that the US Army had to be transformed to meet new threats .	0	0	0	3	bn:00014096n		http://babelnet.org/rdf/s00014096n	0.0	0.0	0.0	MCS
+185	23575	2	53	0	4098480	Bush realized that the US Army had to be transformed to meet new threats .	1	1	5	12	bn:00082472v		http://babelnet.org/rdf/s00082472v	0.0	0.0	0.0	MCS
+185	23575	2	53	0	4098480	Bush realized that the US Army had to be transformed to meet new threats .	4	5	23	29	bn:00005805n	http://dbpedia.org/resource/United_States_Army	http://babelnet.org/rdf/s00005805n	1.0	0.6666667	0.36363637	BABELFY
+185	23575	2	53	0	4098480	Bush realized that the US Army had to be transformed to meet new threats .	5	5	26	29	bn:00005803n	http://dbpedia.org/resource/Army	http://babelnet.org/rdf/s00005803n	0.0	0.0	0.0	MCS
+185	23575	2	53	0	4098480	Bush realized that the US Army had to be transformed to meet new threats .	9	9	41	51	bn:00095089v		http://babelnet.org/rdf/s00095089v	0.0	0.0	0.0	MCS
+185	23575	2	53	0	4098480	Bush realized that the US Army had to be transformed to meet new threats .	11	11	56	59	bn:00082846v		http://babelnet.org/rdf/s00082846v	1.0	0.33333334	0.045454547	BABELFY
+185	23575	2	53	0	4098480	Bush realized that the US Army had to be transformed to meet new threats .	12	12	61	63	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS
+185	23575	2	53	0	4098480	Bush realized that the US Army had to be transformed to meet new threats .	13	13	65	71	bn:00054311n		http://babelnet.org/rdf/s00054311n	0.0	0.0	0.0	MCS
+185	23575	3	53	0	4098481	QN : Did the US Army have to be transformed to meet new threats ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	53	0	4098481	QN : Did the US Army have to be transformed to meet new threats ?	4	5	13	19	bn:00005805n	http://dbpedia.org/resource/United_States_Army	http://babelnet.org/rdf/s00005805n	1.0	0.5	0.33333334	BABELFY
+185	23575	3	53	0	4098481	QN : Did the US Army have to be transformed to meet new threats ?	5	5	16	19	bn:00005803n	http://dbpedia.org/resource/Army	http://babelnet.org/rdf/s00005803n	0.0	0.0	0.0	MCS
+185	23575	3	53	0	4098481	QN : Did the US Army have to be transformed to meet new threats ?	6	7	21	27	bn:13601282v		http://babelnet.org/rdf/s13601282v	0.0	0.0	0.0	MCS
+185	23575	3	53	0	4098481	QN : Did the US Army have to be transformed to meet new threats ?	9	9	32	42	bn:00095089v		http://babelnet.org/rdf/s00095089v	0.0	0.0	0.0	MCS
+185	23575	3	53	0	4098481	QN : Did the US Army have to be transformed to meet new threats ?	11	11	47	50	bn:00082846v		http://babelnet.org/rdf/s00082846v	1.0	0.5	0.16666667	BABELFY
+185	23575	3	53	0	4098481	QN : Did the US Army have to be transformed to meet new threats ?	12	12	52	54	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS
+185	23575	3	53	0	4098481	QN : Did the US Army have to be transformed to meet new threats ?	13	13	56	62	bn:00054311n		http://babelnet.org/rdf/s00054311n	0.0	0.0	0.0	MCS
+185	23575	1	54	0	4098482	ID: PARC -54 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	54	0	4098482	ID: PARC -54 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	54	0	4098483	Bush did n't realize that Afghanistan is land-locked .	0	0	0	3	bn:00014096n		http://babelnet.org/rdf/s00014096n	0.0	0.0	0.0	MCS
+185	23575	2	54	0	4098483	Bush did n't realize that Afghanistan is land-locked .	4	4	13	19	bn:00082472v		http://babelnet.org/rdf/s00082472v	0.0	0.0	0.0	MCS
+185	23575	1	55	0	4098485	ID: PARC -55 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	55	0	4098485	ID: PARC -55 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	55	0	4098486	There is a belief that the US will invade Syria .	3	3	11	16	bn:00009716n	http://dbpedia.org/resource/Belief	http://babelnet.org/rdf/s00009716n	0.0	0.0	0.0	MCS
+185	23575	2	55	0	4098486	There is a belief that the US will invade Syria .	8	8	35	40	bn:00089874v		http://babelnet.org/rdf/s00089874v	1.0	0.5	0.05	BABELFY
+185	23575	3	55	0	4098487	QN : Will the US invade Syria ?	5	5	17	22	bn:00089874v		http://babelnet.org/rdf/s00089874v	1.0	1.0	0.5	BABELFY
+185	23575	3	55	0	4098487	QN : Will the US invade Syria ?	6	6	24	28	bn:00075752n	http://dbpedia.org/resource/Syria	http://babelnet.org/rdf/s00075752n	1.0	1.0	0.5	BABELFY
+185	23575	1	56	0	4098488	ID: PARC -56 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	56	0	4098488	ID: PARC -56 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	56	0	4098489	It is not surprising that Bush has the lead in Ohio .	3	3	10	19	bn:00094627v		http://babelnet.org/rdf/s00094627v	0.0	0.0	0.0	MCS
+185	23575	2	56	0	4098489	It is not surprising that Bush has the lead in Ohio .	5	5	26	29	bn:00014098n	http://dbpedia.org/resource/George_W._Bush	http://babelnet.org/rdf/s00014098n	0.75	0.6666667	0.3243243	BABELFY
+185	23575	2	56	0	4098489	It is not surprising that Bush has the lead in Ohio .	8	8	39	42	bn:00050340n		http://babelnet.org/rdf/s00050340n	0.0	0.0	0.0	MCS
+185	23575	2	56	0	4098489	It is not surprising that Bush has the lead in Ohio .	8	9	39	45	bn:02261541n	http://dbpedia.org/resource/Lead-in	http://babelnet.org/rdf/s02261541n	1.0	0.33333334	0.027027028	BABELFY
+185	23575	2	56	0	4098489	It is not surprising that Bush has the lead in Ohio .	10	10	47	50	bn:00013597n	http://dbpedia.org/resource/Ohio	http://babelnet.org/rdf/s00013597n	0.71428573	0.6666667	0.27027026	BABELFY
+185	23575	3	56	0	4098490	QN : Does Bush have the lead in Ohio ?	2	2	5	8	bn:00028036n		http://babelnet.org/rdf/s00028036n	0.0	0.0	0.0	MCS
+185	23575	3	56	0	4098490	QN : Does Bush have the lead in Ohio ?	3	3	10	13	bn:00014098n	http://dbpedia.org/resource/George_W._Bush	http://babelnet.org/rdf/s00014098n	0.75	0.5	0.26666668	BABELFY
+185	23575	3	56	0	4098490	QN : Does Bush have the lead in Ohio ?	6	6	24	27	bn:00050340n		http://babelnet.org/rdf/s00050340n	0.0	0.0	0.0	MCS
+185	23575	3	56	0	4098490	QN : Does Bush have the lead in Ohio ?	6	7	24	30	bn:02261541n	http://dbpedia.org/resource/Lead-in	http://babelnet.org/rdf/s02261541n	1.0	0.25	0.022222223	BABELFY
+185	23575	3	56	0	4098490	QN : Does Bush have the lead in Ohio ?	8	8	32	35	bn:00013597n	http://dbpedia.org/resource/Ohio	http://babelnet.org/rdf/s00013597n	0.71428573	0.5	0.22222222	BABELFY
+185	23575	1	57	0	4098491	ID: PARC -57 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	57	0	4098491	ID: PARC -57 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	57	0	4098492	It is not likely that Bush has the lead in Ohio .	3	3	10	15	bn:00105983a		http://babelnet.org/rdf/s00105983a	1.0	0.25	0.025641026	BABELFY
+185	23575	2	57	0	4098492	It is not likely that Bush has the lead in Ohio .	5	5	22	25	bn:00014098n	http://dbpedia.org/resource/George_W._Bush	http://babelnet.org/rdf/s00014098n	0.75	0.5	0.30769232	BABELFY
+185	23575	2	57	0	4098492	It is not likely that Bush has the lead in Ohio .	8	8	35	38	bn:00050340n		http://babelnet.org/rdf/s00050340n	0.0	0.0	0.0	MCS
+185	23575	2	57	0	4098492	It is not likely that Bush has the lead in Ohio .	8	9	35	41	bn:02261541n	http://dbpedia.org/resource/Lead-in	http://babelnet.org/rdf/s02261541n	1.0	0.25	0.025641026	BABELFY
+185	23575	2	57	0	4098492	It is not likely that Bush has the lead in Ohio .	10	10	43	46	bn:00013597n	http://dbpedia.org/resource/Ohio	http://babelnet.org/rdf/s00013597n	0.71428573	0.5	0.25641027	BABELFY
+185	23575	3	57	0	4098493	QN : Does Bush have the lead in Ohio ?	2	2	5	8	bn:00028036n		http://babelnet.org/rdf/s00028036n	0.0	0.0	0.0	MCS
+185	23575	3	57	0	4098493	QN : Does Bush have the lead in Ohio ?	3	3	10	13	bn:00014098n	http://dbpedia.org/resource/George_W._Bush	http://babelnet.org/rdf/s00014098n	0.75	0.5	0.26666668	BABELFY
+185	23575	3	57	0	4098493	QN : Does Bush have the lead in Ohio ?	6	6	24	27	bn:00050340n		http://babelnet.org/rdf/s00050340n	0.0	0.0	0.0	MCS
+185	23575	3	57	0	4098493	QN : Does Bush have the lead in Ohio ?	6	7	24	30	bn:02261541n	http://dbpedia.org/resource/Lead-in	http://babelnet.org/rdf/s02261541n	1.0	0.25	0.022222223	BABELFY
+185	23575	3	57	0	4098493	QN : Does Bush have the lead in Ohio ?	8	8	32	35	bn:00013597n	http://dbpedia.org/resource/Ohio	http://babelnet.org/rdf/s00013597n	0.71428573	0.5	0.22222222	BABELFY
+185	23575	1	58	0	4098494	ID: PARC -58 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	58	0	4098494	ID: PARC -58 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	58	0	4098495	Kerry knew that Edwards would accept the nomination .	1	1	6	9	bn:00082272v		http://babelnet.org/rdf/s00082272v	1.0	1.0	0.5	BABELFY
+185	23575	2	58	0	4098495	Kerry knew that Edwards would accept the nomination .	5	5	30	35	bn:00082197v		http://babelnet.org/rdf/s00082197v	0.0	0.0	0.0	MCS
+185	23575	2	58	0	4098495	Kerry knew that Edwards would accept the nomination .	7	7	41	50	bn:00057885n		http://babelnet.org/rdf/s00057885n	0.0	0.0	0.0	MCS
+185	23575	3	58	0	4098496	QN : Did Kerry know whether Edwards would accept the nomination ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	58	0	4098496	QN : Did Kerry know whether Edwards would accept the nomination ?	4	4	15	18	bn:00082272v		http://babelnet.org/rdf/s00082272v	1.0	1.0	0.5	BABELFY
+185	23575	3	58	0	4098496	QN : Did Kerry know whether Edwards would accept the nomination ?	8	8	42	47	bn:00082197v		http://babelnet.org/rdf/s00082197v	0.0	0.0	0.0	MCS
+185	23575	3	58	0	4098496	QN : Did Kerry know whether Edwards would accept the nomination ?	10	10	53	62	bn:00057885n		http://babelnet.org/rdf/s00057885n	0.0	0.0	0.0	MCS
+185	23575	1	59	0	4098497	ID: PARC -59 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	59	0	4098497	ID: PARC -59 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	59	0	4098498	Tom knows that Naples is in Campania .	0	0	0	2	bn:00077529n	http://dbpedia.org/resource/Uncle_Tom	http://babelnet.org/rdf/s00077529n	0.0	0.0	0.0	MCS
+185	23575	2	59	0	4098498	Tom knows that Naples is in Campania .	1	1	4	8	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+185	23575	2	59	0	4098498	Tom knows that Naples is in Campania .	6	6	28	35	bn:00015058n	http://dbpedia.org/resource/Campania	http://babelnet.org/rdf/s00015058n	1.0	1.0	0.5	BABELFY
+185	23575	3	59	0	4098499	QN : Does Tom know where Naples is ?	2	2	5	8	bn:00017393n	http://dbpedia.org/resource/Deer	http://babelnet.org/rdf/s00017393n	1.0	1.0	0.5	BABELFY
+185	23575	3	59	0	4098499	QN : Does Tom know where Naples is ?	3	3	10	12	bn:00077529n	http://dbpedia.org/resource/Uncle_Tom	http://babelnet.org/rdf/s00077529n	0.0	0.0	0.0	MCS
+185	23575	3	59	0	4098499	QN : Does Tom know where Naples is ?	4	4	14	17	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+185	23575	1	60	0	4098500	ID: PARC -60 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	60	0	4098500	ID: PARC -60 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	60	0	4098501	We met in September during the feast .	1	1	3	5	bn:00088791v		http://babelnet.org/rdf/s00088791v	1.0	1.0	0.5	BABELFY
+185	23575	2	60	0	4098501	We met in September during the feast .	3	3	10	18	bn:00070537n	http://dbpedia.org/resource/September	http://babelnet.org/rdf/s00070537n	0.0	0.0	0.0	MCS
+185	23575	2	60	0	4098501	We met in September during the feast .	6	6	31	35	bn:00033859n		http://babelnet.org/rdf/s00033859n	1.0	1.0	0.5	BABELFY
+185	23575	3	60	0	4098502	QN : Did the feast take place in September ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	60	0	4098502	QN : Did the feast take place in September ?	4	4	13	17	bn:00033858n		http://babelnet.org/rdf/s00033858n	1.0	0.5	0.11111111	BABELFY
+185	23575	3	60	0	4098502	QN : Did the feast take place in September ?	5	6	19	28	bn:00085337v		http://babelnet.org/rdf/s00085337v	1.0	1.0	0.6666667	BABELFY
+185	23575	3	60	0	4098502	QN : Did the feast take place in September ?	6	6	24	28	bn:00062699n	http://dbpedia.org/resource/Location_(geography)	http://babelnet.org/rdf/s00062699n	0.0	0.0	0.0	MCS
+185	23575	3	60	0	4098502	QN : Did the feast take place in September ?	8	8	33	41	bn:00070537n	http://dbpedia.org/resource/September	http://babelnet.org/rdf/s00070537n	0.0	0.0	0.0	MCS
+185	23575	1	61	0	4098503	ID: PARC -61 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	61	0	4098503	ID: PARC -61 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	61	0	4098504	It is false that Bin Laden was seen in Tora Bora .	2	2	6	10	bn:00102746a		http://babelnet.org/rdf/s00102746a	0.0	0.0	0.0	MCS
+185	23575	2	61	0	4098504	It is false that Bin Laden was seen in Tora Bora .	4	4	17	19	bn:00010471n	http://dbpedia.org/resource/Osama_bin_Laden	http://babelnet.org/rdf/s00010471n	1.0	1.0	0.4	BABELFY
+185	23575	2	61	0	4098504	It is false that Bin Laden was seen in Tora Bora .	7	7	31	34	bn:00093430v		http://babelnet.org/rdf/s00093430v	0.0	0.0	0.0	MCS
+185	23575	2	61	0	4098504	It is false that Bin Laden was seen in Tora Bora .	7	8	31	37	bn:13778137v		http://babelnet.org/rdf/s13778137v	0.0	0.0	0.0	MCS
+185	23575	2	61	0	4098504	It is false that Bin Laden was seen in Tora Bora .	9	9	39	42	bn:01687984n	http://dbpedia.org/resource/Stamnodes	http://babelnet.org/rdf/s01687984n	0.0	0.0	0.0	MCS
+185	23575	2	61	0	4098504	It is false that Bin Laden was seen in Tora Bora .	9	10	39	47	bn:02482063n	http://dbpedia.org/resource/Tora_Bora	http://babelnet.org/rdf/s02482063n	1.0	1.0	0.4	BABELFY
+185	23575	3	61	0	4098505	QN : Was Bin Laden seen in Tora Bora ?	3	3	9	11	bn:00010471n	http://dbpedia.org/resource/Osama_bin_Laden	http://babelnet.org/rdf/s00010471n	1.0	1.0	0.4	BABELFY
+185	23575	3	61	0	4098505	QN : Was Bin Laden seen in Tora Bora ?	5	5	19	22	bn:00093430v		http://babelnet.org/rdf/s00093430v	0.0	0.0	0.0	MCS
+185	23575	3	61	0	4098505	QN : Was Bin Laden seen in Tora Bora ?	5	6	19	25	bn:13778138v		http://babelnet.org/rdf/s13778138v	0.0	0.0	0.0	MCS
+185	23575	3	61	0	4098505	QN : Was Bin Laden seen in Tora Bora ?	7	7	27	30	bn:01687984n	http://dbpedia.org/resource/Stamnodes	http://babelnet.org/rdf/s01687984n	0.0	0.0	0.0	MCS
+185	23575	3	61	0	4098505	QN : Was Bin Laden seen in Tora Bora ?	7	8	27	35	bn:02482063n	http://dbpedia.org/resource/Tora_Bora	http://babelnet.org/rdf/s02482063n	1.0	1.0	0.4	BABELFY
+185	23575	1	62	0	4098506	ID: PARC -62 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	62	0	4098506	ID: PARC -62 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	62	0	4098507	It follows that Bin Laden was in Tora Bora .	1	1	3	9	bn:00088421v		http://babelnet.org/rdf/s00088421v	0.0	0.0	0.0	MCS
+185	23575	2	62	0	4098507	It follows that Bin Laden was in Tora Bora .	3	3	16	18	bn:00010471n	http://dbpedia.org/resource/Osama_bin_Laden	http://babelnet.org/rdf/s00010471n	1.0	1.0	0.4	BABELFY
+185	23575	2	62	0	4098507	It follows that Bin Laden was in Tora Bora .	7	7	33	36	bn:01687984n	http://dbpedia.org/resource/Stamnodes	http://babelnet.org/rdf/s01687984n	0.0	0.0	0.0	MCS
+185	23575	2	62	0	4098507	It follows that Bin Laden was in Tora Bora .	7	8	33	41	bn:02482063n	http://dbpedia.org/resource/Tora_Bora	http://babelnet.org/rdf/s02482063n	1.0	1.0	0.4	BABELFY
+185	23575	3	62	0	4098508	QN : Was Bin Laden in Tora Bora ?	3	3	9	11	bn:00010471n	http://dbpedia.org/resource/Osama_bin_Laden	http://babelnet.org/rdf/s00010471n	1.0	1.0	0.4	BABELFY
+185	23575	3	62	0	4098508	QN : Was Bin Laden in Tora Bora ?	6	6	22	25	bn:01687984n	http://dbpedia.org/resource/Stamnodes	http://babelnet.org/rdf/s01687984n	0.0	0.0	0.0	MCS
+185	23575	3	62	0	4098508	QN : Was Bin Laden in Tora Bora ?	6	7	22	30	bn:02482063n	http://dbpedia.org/resource/Tora_Bora	http://babelnet.org/rdf/s02482063n	1.0	1.0	0.4	BABELFY
+185	23575	1	63	0	4098509	ID: PARC -63 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	63	0	4098509	ID: PARC -63 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	63	0	4098510	It is likely that Bin Laden was in Tora Bora .	2	2	6	11	bn:00105981a		http://babelnet.org/rdf/s00105981a	0.0	0.0	0.0	MCS
+185	23575	2	63	0	4098510	It is likely that Bin Laden was in Tora Bora .	4	4	18	20	bn:00010471n	http://dbpedia.org/resource/Osama_bin_Laden	http://babelnet.org/rdf/s00010471n	1.0	1.0	0.4	BABELFY
+185	23575	2	63	0	4098510	It is likely that Bin Laden was in Tora Bora .	8	8	35	38	bn:01687984n	http://dbpedia.org/resource/Stamnodes	http://babelnet.org/rdf/s01687984n	0.0	0.0	0.0	MCS
+185	23575	2	63	0	4098510	It is likely that Bin Laden was in Tora Bora .	8	9	35	43	bn:02482063n	http://dbpedia.org/resource/Tora_Bora	http://babelnet.org/rdf/s02482063n	1.0	1.0	0.4	BABELFY
+185	23575	3	63	0	4098511	QN : Was Bin Laden in Tora Bora ?	3	3	9	11	bn:00010471n	http://dbpedia.org/resource/Osama_bin_Laden	http://babelnet.org/rdf/s00010471n	1.0	1.0	0.4	BABELFY
+185	23575	3	63	0	4098511	QN : Was Bin Laden in Tora Bora ?	6	6	22	25	bn:01687984n	http://dbpedia.org/resource/Stamnodes	http://babelnet.org/rdf/s01687984n	0.0	0.0	0.0	MCS
+185	23575	3	63	0	4098511	QN : Was Bin Laden in Tora Bora ?	6	7	22	30	bn:02482063n	http://dbpedia.org/resource/Tora_Bora	http://babelnet.org/rdf/s02482063n	1.0	1.0	0.4	BABELFY
+185	23575	1	64	0	4098512	ID: PARC -64 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	64	0	4098512	ID: PARC -64 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	64	0	4098513	Tony Hall left Amman on Sunday .	0	0	0	3	bn:15545264n		http://babelnet.org/rdf/s15545264n	0.0	0.0	0.0	MCS
+185	23575	2	64	0	4098513	Tony Hall left Amman on Sunday .	1	1	5	8	bn:03481156n	http://dbpedia.org/resource/Hall_(surname)	http://babelnet.org/rdf/s03481156n	1.0	1.0	0.5	BABELFY
+185	23575	2	64	0	4098513	Tony Hall left Amman on Sunday .	2	2	10	13	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23575	2	64	0	4098513	Tony Hall left Amman on Sunday .	5	5	24	29	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	0.0	0.0	0.0	MCS
+185	23575	3	64	0	4098514	QN : Was Tony Hall in Amman on Sunday ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	1.0	0.33333334	0.125	BABELFY
+185	23575	3	64	0	4098514	QN : Was Tony Hall in Amman on Sunday ?	3	3	9	12	bn:15545264n		http://babelnet.org/rdf/s15545264n	0.0	0.0	0.0	MCS
+185	23575	3	64	0	4098514	QN : Was Tony Hall in Amman on Sunday ?	4	4	14	17	bn:03481156n	http://dbpedia.org/resource/Hall_(surname)	http://babelnet.org/rdf/s03481156n	1.0	0.33333334	0.375	BABELFY
+185	23575	3	64	0	4098514	QN : Was Tony Hall in Amman on Sunday ?	6	6	22	26	bn:02762706n	http://dbpedia.org/resource/Amman_(Spokane,_Washington)	http://babelnet.org/rdf/s02762706n	1.0	0.33333334	0.125	BABELFY
+185	23575	3	64	0	4098514	QN : Was Tony Hall in Amman on Sunday ?	8	8	31	36	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	0.0	0.0	0.0	MCS
+185	23575	1	65	0	4098515	ID: PARC -65 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	65	0	4098515	ID: PARC -65 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	65	0	4098516	Tony Hall left Amman on Sunday .	0	0	0	3	bn:15545264n		http://babelnet.org/rdf/s15545264n	0.0	0.0	0.0	MCS
+185	23575	2	65	0	4098516	Tony Hall left Amman on Sunday .	1	1	5	8	bn:03481156n	http://dbpedia.org/resource/Hall_(surname)	http://babelnet.org/rdf/s03481156n	1.0	1.0	0.5	BABELFY
+185	23575	2	65	0	4098516	Tony Hall left Amman on Sunday .	2	2	10	13	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23575	2	65	0	4098516	Tony Hall left Amman on Sunday .	5	5	24	29	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	0.0	0.0	0.0	MCS
+185	23575	3	65	0	4098517	QN : Was Tony Hall in Amman on Saturday ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	1.0	0.5	0.33333334	BABELFY
+185	23575	3	65	0	4098517	QN : Was Tony Hall in Amman on Saturday ?	3	3	9	12	bn:15545264n		http://babelnet.org/rdf/s15545264n	0.0	0.0	0.0	MCS
+185	23575	3	65	0	4098517	QN : Was Tony Hall in Amman on Saturday ?	4	4	14	17	bn:03481156n	http://dbpedia.org/resource/Hall_(surname)	http://babelnet.org/rdf/s03481156n	1.0	0.25	0.25	BABELFY
+185	23575	3	65	0	4098517	QN : Was Tony Hall in Amman on Saturday ?	6	6	22	26	bn:02762706n	http://dbpedia.org/resource/Amman_(Spokane,_Washington)	http://babelnet.org/rdf/s02762706n	1.0	0.25	0.083333336	BABELFY
+185	23575	3	65	0	4098517	QN : Was Tony Hall in Amman on Saturday ?	8	8	31	38	bn:14714150n	http://dbpedia.org/resource/Saturday_(Rebecca_Black_and_Dave_Days_song)	http://babelnet.org/rdf/s14714150n	1.0	0.25	0.083333336	BABELFY
+185	23575	1	66	0	4098518	ID: PARC -66 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	66	0	4098518	ID: PARC -66 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	66	0	4098519	Khan sold 10 centrifuges to North Korea .	0	0	0	3	bn:00049031n	http://dbpedia.org/resource/Khan_(title)	http://babelnet.org/rdf/s00049031n	0.75	0.6666667	0.057692308	BABELFY
+185	23575	2	66	0	4098519	Khan sold 10 centrifuges to North Korea .	1	1	5	8	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23575	2	66	0	4098519	Khan sold 10 centrifuges to North Korea .	3	3	13	23	bn:00017210n	http://dbpedia.org/resource/Separator_(oil_production)	http://babelnet.org/rdf/s00017210n	0.0	0.0	0.0	MCS
+185	23575	2	66	0	4098519	Khan sold 10 centrifuges to North Korea .	5	6	28	38	bn:00024943n	http://dbpedia.org/resource/North_Korea	http://babelnet.org/rdf/s00024943n	1.0	0.6666667	0.1923077	BABELFY
+185	23575	3	66	0	4098520	QN : Did North Korea buy 10 centrifuges ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	66	0	4098520	QN : Did North Korea buy 10 centrifuges ?	3	4	9	19	bn:00024943n	http://dbpedia.org/resource/North_Korea	http://babelnet.org/rdf/s00024943n	1.0	0.6666667	0.25641027	BABELFY
+185	23575	3	66	0	4098520	QN : Did North Korea buy 10 centrifuges ?	5	5	21	23	bn:00084040v		http://babelnet.org/rdf/s00084040v	1.0	0.33333334	0.012820513	BABELFY
+185	23575	3	66	0	4098520	QN : Did North Korea buy 10 centrifuges ?	7	7	28	38	bn:00017210n	http://dbpedia.org/resource/Separator_(oil_production)	http://babelnet.org/rdf/s00017210n	0.0	0.0	0.0	MCS
+185	23575	1	67	0	4098521	ID: PARC -67 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	67	0	4098521	ID: PARC -67 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	67	0	4098522	The US invasion of Afghanistan prevented Al-Qaida from attacking Ryad in 2002 .	1	4	4	29	bn:01236112n	http://dbpedia.org/resource/War_in_Afghanistan_(2001–present)	http://babelnet.org/rdf/s01236112n	1.0	0.5714286	0.15789473	BABELFY
+185	23575	2	67	0	4098522	The US invasion of Afghanistan prevented Al-Qaida from attacking Ryad in 2002 .	2	2	7	14	bn:00047325n	http://dbpedia.org/resource/Invasion	http://babelnet.org/rdf/s00047325n	0.7058824	0.42857143	0.078947365	BABELFY
+185	23575	2	67	0	4098522	The US invasion of Afghanistan prevented Al-Qaida from attacking Ryad in 2002 .	2	4	7	29	bn:03123343n	http://dbpedia.org/resource/Invasions_of_Afghanistan	http://babelnet.org/rdf/s03123343n	1.0	0.42857143	0.078947365	BABELFY
+185	23575	2	67	0	4098522	The US invasion of Afghanistan prevented Al-Qaida from attacking Ryad in 2002 .	4	4	19	29	bn:00001803n	http://dbpedia.org/resource/Islamic_State_of_Afghanistan	http://babelnet.org/rdf/s00001803n	0.754717	0.71428573	0.2631579	BABELFY
+185	23575	2	67	0	4098522	The US invasion of Afghanistan prevented Al-Qaida from attacking Ryad in 2002 .	5	5	31	39	bn:00090033v		http://babelnet.org/rdf/s00090033v	1.0	0.14285715	0.013157895	BABELFY
+185	23575	2	67	0	4098522	The US invasion of Afghanistan prevented Al-Qaida from attacking Ryad in 2002 .	6	6	41	48	bn:00002369n	http://dbpedia.org/resource/Al-Qaeda	http://babelnet.org/rdf/s00002369n	1.0	0.5714286	0.23684211	BABELFY
+185	23575	2	67	0	4098522	The US invasion of Afghanistan prevented Al-Qaida from attacking Ryad in 2002 .	8	8	55	63	bn:00082838v		http://babelnet.org/rdf/s00082838v	0.85714287	0.2857143	0.039473683	BABELFY
+185	23575	2	67	0	4098522	The US invasion of Afghanistan prevented Al-Qaida from attacking Ryad in 2002 .	9	9	65	68	bn:03407623n	http://dbpedia.org/resource/ES_EVM	http://babelnet.org/rdf/s03407623n	1.0	0.14285715	0.0065789474	BABELFY
+185	23575	3	67	0	4098523	QN : Did Al-Qaida attack Ryad in 2002 ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	67	0	4098523	QN : Did Al-Qaida attack Ryad in 2002 ?	4	4	18	23	bn:00006995n	http://dbpedia.org/resource/Offense_(sports)	http://babelnet.org/rdf/s00006995n	0.0	0.0	0.0	MCS
+185	23575	1	68	0	4098524	ID: PARC -68 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	68	0	4098524	ID: PARC -68 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	68	0	4098525	The administration managed to track down the perpetrators .	1	1	4	17	bn:00001422n	http://dbpedia.org/resource/Business_administration	http://babelnet.org/rdf/s00001422n	0.0	0.0	0.0	MCS
+185	23575	2	68	0	4098525	The administration managed to track down the perpetrators .	2	2	19	25	bn:00084092v		http://babelnet.org/rdf/s00084092v	0.0	0.0	0.0	MCS
+185	23575	2	68	0	4098525	The administration managed to track down the perpetrators .	4	4	30	34	bn:00084831v		http://babelnet.org/rdf/s00084831v	1.0	0.25	0.033333335	BABELFY
+185	23575	2	68	0	4098525	The administration managed to track down the perpetrators .	4	5	30	39	bn:00089521v		http://babelnet.org/rdf/s00089521v	1.0	0.25	0.033333335	BABELFY
+185	23575	2	68	0	4098525	The administration managed to track down the perpetrators .	7	7	45	56	bn:00025884n	http://dbpedia.org/resource/Suspect	http://babelnet.org/rdf/s00025884n	1.0	0.25	0.033333335	BABELFY
+185	23575	3	68	0	4098526	QN : Did the administration track down the perpetrators ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	68	0	4098526	QN : Did the administration track down the perpetrators ?	4	4	13	26	bn:00001426n	http://dbpedia.org/resource/Administration_(government)	http://babelnet.org/rdf/s00001426n	1.0	1.0	0.5	BABELFY
+185	23575	3	68	0	4098526	QN : Did the administration track down the perpetrators ?	5	5	28	32	bn:00077838n	http://dbpedia.org/resource/Track_(rail_transport)	http://babelnet.org/rdf/s00077838n	0.0	0.0	0.0	MCS
+185	23575	3	68	0	4098526	QN : Did the administration track down the perpetrators ?	8	8	43	54	bn:00025884n	http://dbpedia.org/resource/Suspect	http://babelnet.org/rdf/s00025884n	1.0	1.0	0.5	BABELFY
+185	23575	1	69	0	4098527	ID: PARC -69 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	69	0	4098527	ID: PARC -69 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	69	0	4098528	The administration did n't manage to track down the perpetrators .	1	1	4	17	bn:00001422n	http://dbpedia.org/resource/Business_administration	http://babelnet.org/rdf/s00001422n	0.0	0.0	0.0	MCS
+185	23575	2	69	0	4098528	The administration did n't manage to track down the perpetrators .	5	5	27	32	bn:00084092v		http://babelnet.org/rdf/s00084092v	0.0	0.0	0.0	MCS
+185	23575	2	69	0	4098528	The administration did n't manage to track down the perpetrators .	7	7	37	41	bn:00084831v		http://babelnet.org/rdf/s00084831v	1.0	0.25	0.033333335	BABELFY
+185	23575	2	69	0	4098528	The administration did n't manage to track down the perpetrators .	7	8	37	46	bn:00089521v		http://babelnet.org/rdf/s00089521v	1.0	0.25	0.033333335	BABELFY
+185	23575	2	69	0	4098528	The administration did n't manage to track down the perpetrators .	10	10	52	63	bn:00025884n	http://dbpedia.org/resource/Suspect	http://babelnet.org/rdf/s00025884n	1.0	0.25	0.033333335	BABELFY
+185	23575	3	69	0	4098529	QN : Did the administration track down the perpetrators ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	69	0	4098529	QN : Did the administration track down the perpetrators ?	4	4	13	26	bn:00001426n	http://dbpedia.org/resource/Administration_(government)	http://babelnet.org/rdf/s00001426n	1.0	1.0	0.5	BABELFY
+185	23575	3	69	0	4098529	QN : Did the administration track down the perpetrators ?	5	5	28	32	bn:00077838n	http://dbpedia.org/resource/Track_(rail_transport)	http://babelnet.org/rdf/s00077838n	0.0	0.0	0.0	MCS
+185	23575	3	69	0	4098529	QN : Did the administration track down the perpetrators ?	8	8	43	54	bn:00025884n	http://dbpedia.org/resource/Suspect	http://babelnet.org/rdf/s00025884n	1.0	1.0	0.5	BABELFY
+185	23575	1	70	0	4098530	ID: PARC -70 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	70	0	4098530	ID: PARC -70 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	70	0	4098531	Bush did n't have the time to read the report .	0	0	0	3	bn:00014096n		http://babelnet.org/rdf/s00014096n	0.0	0.0	0.0	MCS
+185	23575	2	70	0	4098531	Bush did n't have the time to read the report .	4	6	13	25	bn:13641248v		http://babelnet.org/rdf/s13641248v	0.0	0.0	0.0	MCS
+185	23575	2	70	0	4098531	Bush did n't have the time to read the report .	6	6	22	25	bn:00019848n		http://babelnet.org/rdf/s00019848n	0.0	0.0	0.0	MCS
+185	23575	2	70	0	4098531	Bush did n't have the time to read the report .	8	8	30	33	bn:00092430v		http://babelnet.org/rdf/s00092430v	1.0	0.33333334	0.028571429	BABELFY
+185	23575	2	70	0	4098531	Bush did n't have the time to read the report .	10	10	39	44	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	0.0	0.0	0.0	MCS
+185	23575	3	70	0	4098532	QN : Did Bush read the report ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	70	0	4098532	QN : Did Bush read the report ?	3	3	9	12	bn:00014096n		http://babelnet.org/rdf/s00014096n	0.0	0.0	0.0	MCS
+185	23575	3	70	0	4098532	QN : Did Bush read the report ?	4	4	14	17	bn:00092424v		http://babelnet.org/rdf/s00092424v	0.0	0.0	0.0	MCS
+185	23575	3	70	0	4098532	QN : Did Bush read the report ?	6	6	23	28	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	0.0	0.0	0.0	MCS
+185	23575	1	71	0	4098533	ID: PARC -71 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	71	0	4098533	ID: PARC -71 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	71	0	4098534	Bush had the time to read the report .	0	0	0	3	bn:00014096n		http://babelnet.org/rdf/s00014096n	0.0	0.0	0.0	MCS
+185	23575	2	71	0	4098534	Bush had the time to read the report .	1	3	5	16	bn:13641248v		http://babelnet.org/rdf/s13641248v	0.0	0.0	0.0	MCS
+185	23575	2	71	0	4098534	Bush had the time to read the report .	3	3	13	16	bn:00019848n		http://babelnet.org/rdf/s00019848n	0.0	0.0	0.0	MCS
+185	23575	2	71	0	4098534	Bush had the time to read the report .	5	5	21	24	bn:00092430v		http://babelnet.org/rdf/s00092430v	1.0	0.33333334	0.028571429	BABELFY
+185	23575	2	71	0	4098534	Bush had the time to read the report .	7	7	30	35	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	0.0	0.0	0.0	MCS
+185	23575	3	71	0	4098535	QN : Did Bush read the report ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	71	0	4098535	QN : Did Bush read the report ?	3	3	9	12	bn:00014096n		http://babelnet.org/rdf/s00014096n	0.0	0.0	0.0	MCS
+185	23575	3	71	0	4098535	QN : Did Bush read the report ?	4	4	14	17	bn:00092424v		http://babelnet.org/rdf/s00092424v	0.0	0.0	0.0	MCS
+185	23575	3	71	0	4098535	QN : Did Bush read the report ?	6	6	23	28	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	0.0	0.0	0.0	MCS
+185	23575	1	72	0	4098536	ID: PARC -72 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	72	0	4098536	ID: PARC -72 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	72	0	4098537	The president was n't able to attend the meeting .	1	1	4	12	bn:00017517n	http://dbpedia.org/resource/Chairman	http://babelnet.org/rdf/s00017517n	1.0	0.33333334	0.083333336	BABELFY
+185	23575	2	72	0	4098537	The president was n't able to attend the meeting .	5	5	22	25	bn:00096151a		http://babelnet.org/rdf/s00096151a	0.0	0.0	0.0	MCS
+185	23575	2	72	0	4098537	The president was n't able to attend the meeting .	7	7	30	35	bn:00082907v		http://babelnet.org/rdf/s00082907v	1.0	0.33333334	0.25	BABELFY
+185	23575	2	72	0	4098537	The president was n't able to attend the meeting .	9	9	41	47	bn:00085756v		http://babelnet.org/rdf/s00085756v	0.0	0.0	0.0	MCS
+185	23575	3	72	0	4098538	QN : Did the president attend the meeting ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	72	0	4098538	QN : Did the president attend the meeting ?	4	4	13	21	bn:00017517n	http://dbpedia.org/resource/Chairman	http://babelnet.org/rdf/s00017517n	1.0	0.5	0.125	BABELFY
+185	23575	3	72	0	4098538	QN : Did the president attend the meeting ?	5	5	23	28	bn:00082907v		http://babelnet.org/rdf/s00082907v	1.0	0.5	0.375	BABELFY
+185	23575	3	72	0	4098538	QN : Did the president attend the meeting ?	7	7	34	40	bn:00085756v		http://babelnet.org/rdf/s00085756v	0.0	0.0	0.0	MCS
+185	23575	1	73	0	4098539	ID: PARC -73 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	73	0	4098539	ID: PARC -73 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	73	0	4098540	The president was able to attend the meeting .	1	1	4	12	bn:00017517n	http://dbpedia.org/resource/Chairman	http://babelnet.org/rdf/s00017517n	1.0	0.33333334	0.083333336	BABELFY
+185	23575	2	73	0	4098540	The president was able to attend the meeting .	2	4	14	24	bn:13601970v		http://babelnet.org/rdf/s13601970v	0.0	0.0	0.0	MCS
+185	23575	2	73	0	4098540	The president was able to attend the meeting .	3	3	18	21	bn:00096151a		http://babelnet.org/rdf/s00096151a	0.0	0.0	0.0	MCS
+185	23575	2	73	0	4098540	The president was able to attend the meeting .	5	5	26	31	bn:00082907v		http://babelnet.org/rdf/s00082907v	1.0	0.33333334	0.25	BABELFY
+185	23575	2	73	0	4098540	The president was able to attend the meeting .	7	7	37	43	bn:00085756v		http://babelnet.org/rdf/s00085756v	0.0	0.0	0.0	MCS
+185	23575	3	73	0	4098541	QN : Did the president attend the meeting ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	73	0	4098541	QN : Did the president attend the meeting ?	4	4	13	21	bn:00017517n	http://dbpedia.org/resource/Chairman	http://babelnet.org/rdf/s00017517n	1.0	0.5	0.125	BABELFY
+185	23575	3	73	0	4098541	QN : Did the president attend the meeting ?	5	5	23	28	bn:00082907v		http://babelnet.org/rdf/s00082907v	1.0	0.5	0.375	BABELFY
+185	23575	3	73	0	4098541	QN : Did the president attend the meeting ?	7	7	34	40	bn:00085756v		http://babelnet.org/rdf/s00085756v	0.0	0.0	0.0	MCS
+185	23575	1	74	0	4098542	ID: PARC -74 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	74	0	4098542	ID: PARC -74 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	74	0	4098543	Many soldiers were killed in the ambush .	1	1	5	12	bn:00072698n	http://dbpedia.org/resource/Soldier	http://babelnet.org/rdf/s00072698n	0.0	0.0	0.0	MCS
+185	23575	2	74	0	4098543	Many soldiers were killed in the ambush .	3	3	19	24	bn:00090098v		http://babelnet.org/rdf/s00090098v	0.0	0.0	0.0	MCS
+185	23575	2	74	0	4098543	Many soldiers were killed in the ambush .	6	6	33	38	bn:00003300n	http://dbpedia.org/resource/Ambush	http://babelnet.org/rdf/s00003300n	1.0	1.0	0.5	BABELFY
+185	23575	3	74	0	4098544	QN : Were all soldiers killed in the ambush ?	4	4	14	21	bn:00072698n	http://dbpedia.org/resource/Soldier	http://babelnet.org/rdf/s00072698n	0.0	0.0	0.0	MCS
+185	23575	3	74	0	4098544	QN : Were all soldiers killed in the ambush ?	5	5	23	28	bn:00090098v		http://babelnet.org/rdf/s00090098v	0.0	0.0	0.0	MCS
+185	23575	3	74	0	4098544	QN : Were all soldiers killed in the ambush ?	8	8	37	42	bn:00003300n	http://dbpedia.org/resource/Ambush	http://babelnet.org/rdf/s00003300n	1.0	1.0	0.5	BABELFY
+185	23575	1	75	0	4098545	ID: PARC -75 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	75	0	4098545	ID: PARC -75 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	75	0	4098546	The man had $20 in his pocket .	1	1	4	6	bn:00001533n	http://dbpedia.org/resource/Man	http://babelnet.org/rdf/s00001533n	0.0	0.0	0.0	MCS
+185	23575	2	75	0	4098546	The man had $20 in his pocket .	7	7	23	28	bn:00063155n	http://dbpedia.org/resource/Pocket	http://babelnet.org/rdf/s00063155n	0.0	0.0	0.0	MCS
+185	23575	3	75	0	4098547	QN : Did the man have $40 in his pocket ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	75	0	4098547	QN : Did the man have $40 in his pocket ?	4	4	13	15	bn:00001533n	http://dbpedia.org/resource/Man	http://babelnet.org/rdf/s00001533n	0.0	0.0	0.0	MCS
+185	23575	3	75	0	4098547	QN : Did the man have $40 in his pocket ?	10	10	33	38	bn:00063155n	http://dbpedia.org/resource/Pocket	http://babelnet.org/rdf/s00063155n	0.0	0.0	0.0	MCS
+185	23575	1	76	0	4098548	ID: PARC -76 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23575	1	76	0	4098548	ID: PARC -76 .	2	2	4	7	bn:02773046n	http://dbpedia.org/resource/PARC_(company)	http://babelnet.org/rdf/s02773046n	0.0	0.0	0.0	MCS
+185	23575	2	76	0	4098549	The man had $20 in his pocket .	1	1	4	6	bn:00001533n	http://dbpedia.org/resource/Man	http://babelnet.org/rdf/s00001533n	0.0	0.0	0.0	MCS
+185	23575	2	76	0	4098549	The man had $20 in his pocket .	7	7	23	28	bn:00063155n	http://dbpedia.org/resource/Pocket	http://babelnet.org/rdf/s00063155n	0.0	0.0	0.0	MCS
+185	23575	3	76	0	4098550	QN : Did the man have $10 in his pocket ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23575	3	76	0	4098550	QN : Did the man have $10 in his pocket ?	4	4	13	15	bn:00001533n	http://dbpedia.org/resource/Man	http://babelnet.org/rdf/s00001533n	0.0	0.0	0.0	MCS
+185	23575	3	76	0	4098550	QN : Did the man have $10 in his pocket ?	10	10	33	38	bn:00063155n	http://dbpedia.org/resource/Pocket	http://babelnet.org/rdf/s00063155n	0.0	0.0	0.0	MCS

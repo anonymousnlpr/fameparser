@@ -1,0 +1,565 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	tokenFragment	start	tokenFragment	end	charSegment	start	charSegment	end	babelSynsetID	DBpediaURL	BabelNetURL	score	coherenceScore	globalScore	source
+185	23577	1	1	0	4098590	ID:ATM1-1 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	1	0	4098646	John took the plane from Paris to Baghdad .	3	3	14	18	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	1.0	0.6666667	0.1632653	BABELFY
+185	23577	2	1	0	4098646	John took the plane from Paris to Baghdad .	5	5	25	29	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.94736844	1.0	0.36734694	BABELFY
+185	23577	2	1	0	4098646	John took the plane from Paris to Baghdad .	7	7	34	40	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	0.6666667	0.12244898	BABELFY
+185	23577	3	1	0	4098647	On the way the plane stopped in Rome .	2	2	7	9	bn:00080720n		http://babelnet.org/rdf/s00080720n	0.0	0.0	0.0	MCS
+185	23577	3	1	0	4098647	On the way the plane stopped in Rome .	4	4	15	19	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	0.90909094	0.6666667	0.25	BABELFY
+185	23577	3	1	0	4098647	On the way the plane stopped in Rome .	5	5	21	27	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS
+185	23577	3	1	0	4098647	On the way the plane stopped in Rome .	7	7	32	35	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	1.0	0.6666667	0.25	BABELFY
+185	23577	4	1	0	4098648	Steve , who was sitting next to John , got down in Rome .	0	0	0	4	bn:00071814n	http://dbpedia.org/resource/Stephen	http://babelnet.org/rdf/s00071814n	1.0	0.25	0.014492754	BABELFY
+185	23577	4	1	0	4098648	Steve , who was sitting next to John , got down in Rome .	4	4	16	22	bn:00093013v		http://babelnet.org/rdf/s00093013v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	1	0	4098648	Steve , who was sitting next to John , got down in Rome .	9	9	39	41	bn:13677111v		http://babelnet.org/rdf/s13677111v	0.0	0.0	0.0	MCS
+185	23577	4	1	0	4098648	Steve , who was sitting next to John , got down in Rome .	9	10	39	46	bn:00086995v		http://babelnet.org/rdf/s00086995v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	1	0	4098648	Steve , who was sitting next to John , got down in Rome .	12	12	51	54	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.88372093	0.5	0.5507246	BABELFY
+185	23577	5	1	0	4098649	QN : Is John in Baghdad ?	5	5	16	22	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	1.0	0.5	BABELFY
+185	23577	1	2	0	4098650	ID:ATM1-2 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	2	0	4098651	John took the plane from Paris to Baghdad .	3	3	14	18	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	1.0	0.6666667	0.1632653	BABELFY
+185	23577	2	2	0	4098651	John took the plane from Paris to Baghdad .	5	5	25	29	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.94736844	1.0	0.36734694	BABELFY
+185	23577	2	2	0	4098651	John took the plane from Paris to Baghdad .	7	7	34	40	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	0.6666667	0.12244898	BABELFY
+185	23577	3	2	0	4098652	On the way the plane stopped in Rome .	2	2	7	9	bn:00080720n		http://babelnet.org/rdf/s00080720n	0.0	0.0	0.0	MCS
+185	23577	3	2	0	4098652	On the way the plane stopped in Rome .	4	4	15	19	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	0.90909094	0.6666667	0.25	BABELFY
+185	23577	3	2	0	4098652	On the way the plane stopped in Rome .	5	5	21	27	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS
+185	23577	3	2	0	4098652	On the way the plane stopped in Rome .	7	7	32	35	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	1.0	0.6666667	0.25	BABELFY
+185	23577	4	2	0	4098653	Steve , who was sitting next to John , got down in Rome .	0	0	0	4	bn:00071814n	http://dbpedia.org/resource/Stephen	http://babelnet.org/rdf/s00071814n	1.0	0.25	0.014492754	BABELFY
+185	23577	4	2	0	4098653	Steve , who was sitting next to John , got down in Rome .	4	4	16	22	bn:00093013v		http://babelnet.org/rdf/s00093013v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	2	0	4098653	Steve , who was sitting next to John , got down in Rome .	9	9	39	41	bn:13677111v		http://babelnet.org/rdf/s13677111v	0.0	0.0	0.0	MCS
+185	23577	4	2	0	4098653	Steve , who was sitting next to John , got down in Rome .	9	10	39	46	bn:00086995v		http://babelnet.org/rdf/s00086995v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	2	0	4098653	Steve , who was sitting next to John , got down in Rome .	12	12	51	54	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.88372093	0.5	0.5507246	BABELFY
+185	23577	5	2	0	4098654	QN : Is John in Paris ?	5	5	16	20	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	1.0	1.0	0.5	BABELFY
+185	23577	1	3	0	4098655	ID:ATM1-3 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	3	0	4098656	John took the plane from Paris to Baghdad .	3	3	14	18	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	1.0	0.6666667	0.1632653	BABELFY
+185	23577	2	3	0	4098656	John took the plane from Paris to Baghdad .	5	5	25	29	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.94736844	1.0	0.36734694	BABELFY
+185	23577	2	3	0	4098656	John took the plane from Paris to Baghdad .	7	7	34	40	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	0.6666667	0.12244898	BABELFY
+185	23577	3	3	0	4098657	On the way the plane stopped in Rome .	2	2	7	9	bn:00080720n		http://babelnet.org/rdf/s00080720n	0.0	0.0	0.0	MCS
+185	23577	3	3	0	4098657	On the way the plane stopped in Rome .	4	4	15	19	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	0.90909094	0.6666667	0.25	BABELFY
+185	23577	3	3	0	4098657	On the way the plane stopped in Rome .	5	5	21	27	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS
+185	23577	3	3	0	4098657	On the way the plane stopped in Rome .	7	7	32	35	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	1.0	0.6666667	0.25	BABELFY
+185	23577	4	3	0	4098658	Steve , who was sitting next to John , got down in Rome .	0	0	0	4	bn:00071814n	http://dbpedia.org/resource/Stephen	http://babelnet.org/rdf/s00071814n	1.0	0.25	0.014492754	BABELFY
+185	23577	4	3	0	4098658	Steve , who was sitting next to John , got down in Rome .	4	4	16	22	bn:00093013v		http://babelnet.org/rdf/s00093013v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	3	0	4098658	Steve , who was sitting next to John , got down in Rome .	9	9	39	41	bn:13677111v		http://babelnet.org/rdf/s13677111v	0.0	0.0	0.0	MCS
+185	23577	4	3	0	4098658	Steve , who was sitting next to John , got down in Rome .	9	10	39	46	bn:00086995v		http://babelnet.org/rdf/s00086995v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	3	0	4098658	Steve , who was sitting next to John , got down in Rome .	12	12	51	54	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.88372093	0.5	0.5507246	BABELFY
+185	23577	5	3	0	4098659	QN : Was John in Paris ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	0.85714287	1.0	0.08695652	BABELFY
+185	23577	5	3	0	4098659	QN : Was John in Paris ?	5	5	17	21	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.9756098	1.0	0.5797101	BABELFY
+185	23577	1	4	0	4098660	ID:ATM1-4 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	4	0	4098661	John took the plane from Paris to Baghdad .	3	3	14	18	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	1.0	0.6666667	0.1632653	BABELFY
+185	23577	2	4	0	4098661	John took the plane from Paris to Baghdad .	5	5	25	29	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.94736844	1.0	0.36734694	BABELFY
+185	23577	2	4	0	4098661	John took the plane from Paris to Baghdad .	7	7	34	40	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	0.6666667	0.12244898	BABELFY
+185	23577	3	4	0	4098662	On the way the plane stopped in Rome .	2	2	7	9	bn:00080720n		http://babelnet.org/rdf/s00080720n	0.0	0.0	0.0	MCS
+185	23577	3	4	0	4098662	On the way the plane stopped in Rome .	4	4	15	19	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	0.90909094	0.6666667	0.25	BABELFY
+185	23577	3	4	0	4098662	On the way the plane stopped in Rome .	5	5	21	27	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS
+185	23577	3	4	0	4098662	On the way the plane stopped in Rome .	7	7	32	35	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	1.0	0.6666667	0.25	BABELFY
+185	23577	4	4	0	4098663	Steve , who was sitting next to John , got down in Rome .	0	0	0	4	bn:00071814n	http://dbpedia.org/resource/Stephen	http://babelnet.org/rdf/s00071814n	1.0	0.25	0.014492754	BABELFY
+185	23577	4	4	0	4098663	Steve , who was sitting next to John , got down in Rome .	4	4	16	22	bn:00093013v		http://babelnet.org/rdf/s00093013v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	4	0	4098663	Steve , who was sitting next to John , got down in Rome .	9	9	39	41	bn:13677111v		http://babelnet.org/rdf/s13677111v	0.0	0.0	0.0	MCS
+185	23577	4	4	0	4098663	Steve , who was sitting next to John , got down in Rome .	9	10	39	46	bn:00086995v		http://babelnet.org/rdf/s00086995v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	4	0	4098663	Steve , who was sitting next to John , got down in Rome .	12	12	51	54	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.88372093	0.5	0.5507246	BABELFY
+185	23577	5	4	0	4098664	QN : Was John in Rome ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	1.0	1.0	0.07272727	BABELFY
+185	23577	5	4	0	4098664	QN : Was John in Rome ?	5	5	17	20	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.75	0.5	0.3272727	BABELFY
+185	23577	1	5	0	4098665	ID:ATM1-5 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	5	0	4098666	John took the plane from Paris to Baghdad .	3	3	14	18	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	1.0	0.6666667	0.1632653	BABELFY
+185	23577	2	5	0	4098666	John took the plane from Paris to Baghdad .	5	5	25	29	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.94736844	1.0	0.36734694	BABELFY
+185	23577	2	5	0	4098666	John took the plane from Paris to Baghdad .	7	7	34	40	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	0.6666667	0.12244898	BABELFY
+185	23577	3	5	0	4098667	On the way the plane stopped in Rome .	2	2	7	9	bn:00080720n		http://babelnet.org/rdf/s00080720n	0.0	0.0	0.0	MCS
+185	23577	3	5	0	4098667	On the way the plane stopped in Rome .	4	4	15	19	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	0.90909094	0.6666667	0.25	BABELFY
+185	23577	3	5	0	4098667	On the way the plane stopped in Rome .	5	5	21	27	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS
+185	23577	3	5	0	4098667	On the way the plane stopped in Rome .	7	7	32	35	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	1.0	0.6666667	0.25	BABELFY
+185	23577	4	5	0	4098668	Steve , who was sitting next to John , got down in Rome .	0	0	0	4	bn:00071814n	http://dbpedia.org/resource/Stephen	http://babelnet.org/rdf/s00071814n	1.0	0.25	0.014492754	BABELFY
+185	23577	4	5	0	4098668	Steve , who was sitting next to John , got down in Rome .	4	4	16	22	bn:00093013v		http://babelnet.org/rdf/s00093013v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	5	0	4098668	Steve , who was sitting next to John , got down in Rome .	9	9	39	41	bn:13677111v		http://babelnet.org/rdf/s13677111v	0.0	0.0	0.0	MCS
+185	23577	4	5	0	4098668	Steve , who was sitting next to John , got down in Rome .	9	10	39	46	bn:00086995v		http://babelnet.org/rdf/s00086995v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	5	0	4098668	Steve , who was sitting next to John , got down in Rome .	12	12	51	54	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.88372093	0.5	0.5507246	BABELFY
+185	23577	5	5	0	4098669	QN : Where was John in Rome ?	6	6	23	26	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.7826087	1.0	0.39130434	BABELFY
+185	23577	1	6	0	4098670	ID:ATM1-6 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	6	0	4098671	John took the plane from Paris to Baghdad .	3	3	14	18	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	1.0	0.6666667	0.1632653	BABELFY
+185	23577	2	6	0	4098671	John took the plane from Paris to Baghdad .	5	5	25	29	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.94736844	1.0	0.36734694	BABELFY
+185	23577	2	6	0	4098671	John took the plane from Paris to Baghdad .	7	7	34	40	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	0.6666667	0.12244898	BABELFY
+185	23577	3	6	0	4098672	On the way the plane stopped in Rome .	2	2	7	9	bn:00080720n		http://babelnet.org/rdf/s00080720n	0.0	0.0	0.0	MCS
+185	23577	3	6	0	4098672	On the way the plane stopped in Rome .	4	4	15	19	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	0.90909094	0.6666667	0.25	BABELFY
+185	23577	3	6	0	4098672	On the way the plane stopped in Rome .	5	5	21	27	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS
+185	23577	3	6	0	4098672	On the way the plane stopped in Rome .	7	7	32	35	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	1.0	0.6666667	0.25	BABELFY
+185	23577	4	6	0	4098673	Steve , who was sitting next to John , got down in Rome .	0	0	0	4	bn:00071814n	http://dbpedia.org/resource/Stephen	http://babelnet.org/rdf/s00071814n	1.0	0.25	0.014492754	BABELFY
+185	23577	4	6	0	4098673	Steve , who was sitting next to John , got down in Rome .	4	4	16	22	bn:00093013v		http://babelnet.org/rdf/s00093013v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	6	0	4098673	Steve , who was sitting next to John , got down in Rome .	9	9	39	41	bn:13677111v		http://babelnet.org/rdf/s13677111v	0.0	0.0	0.0	MCS
+185	23577	4	6	0	4098673	Steve , who was sitting next to John , got down in Rome .	9	10	39	46	bn:00086995v		http://babelnet.org/rdf/s00086995v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	6	0	4098673	Steve , who was sitting next to John , got down in Rome .	12	12	51	54	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.88372093	0.5	0.5507246	BABELFY
+185	23577	5	6	0	4098674	QN : Did John pass through the Rome airport customs area ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	1.0	0.1	0.003968254	BABELFY
+185	23577	5	6	0	4098674	QN : Did John pass through the Rome airport customs area ?	4	4	14	17	bn:00088944v		http://babelnet.org/rdf/s00088944v	0.0	0.0	0.0	MCS
+185	23577	5	6	0	4098674	QN : Did John pass through the Rome airport customs area ?	4	5	14	25	bn:00091470v		http://babelnet.org/rdf/s00091470v	0.0	0.0	0.0	MCS
+185	23577	5	6	0	4098674	QN : Did John pass through the Rome airport customs area ?	7	7	31	34	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.9512195	0.6	0.30952382	BABELFY
+185	23577	5	6	0	4098674	QN : Did John pass through the Rome airport customs area ?	7	8	31	42	bn:03533748n	http://dbpedia.org/resource/Rome_Airport	http://babelnet.org/rdf/s03533748n	1.0	0.2	0.023809524	BABELFY
+185	23577	5	6	0	4098674	QN : Did John pass through the Rome airport customs area ?	8	8	36	42	bn:00001676n	http://dbpedia.org/resource/Aerodrome	http://babelnet.org/rdf/s00001676n	0.95238096	0.6	0.23809524	BABELFY
+185	23577	5	6	0	4098674	QN : Did John pass through the Rome airport customs area ?	8	9	36	50	bn:00024593n	http://dbpedia.org/resource/Customs	http://babelnet.org/rdf/s00024593n	1.0	0.3	0.05952381	BABELFY
+185	23577	5	6	0	4098674	QN : Did John pass through the Rome airport customs area ?	9	9	44	50	bn:00024591n	http://dbpedia.org/resource/Custom_(law)	http://babelnet.org/rdf/s00024591n	0.0	0.0	0.0	MCS
+185	23577	5	6	0	4098674	QN : Did John pass through the Rome airport customs area ?	9	10	44	55	bn:03854488n	http://dbpedia.org/resource/Customs_area	http://babelnet.org/rdf/s03854488n	1.0	0.3	0.05952381	BABELFY
+185	23577	5	6	0	4098674	QN : Did John pass through the Rome airport customs area ?	10	10	52	55	bn:00005513n	http://dbpedia.org/resource/Area	http://babelnet.org/rdf/s00005513n	0.0	0.0	0.0	MCS
+185	23577	1	7	0	4098675	ID:ATM1-7 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	7	0	4098676	John took the plane from Paris to Baghdad .	3	3	14	18	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	1.0	0.6666667	0.1632653	BABELFY
+185	23577	2	7	0	4098676	John took the plane from Paris to Baghdad .	5	5	25	29	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.94736844	1.0	0.36734694	BABELFY
+185	23577	2	7	0	4098676	John took the plane from Paris to Baghdad .	7	7	34	40	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	0.6666667	0.12244898	BABELFY
+185	23577	3	7	0	4098677	On the way the plane stopped in Rome .	2	2	7	9	bn:00080720n		http://babelnet.org/rdf/s00080720n	0.0	0.0	0.0	MCS
+185	23577	3	7	0	4098677	On the way the plane stopped in Rome .	4	4	15	19	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	0.90909094	0.6666667	0.25	BABELFY
+185	23577	3	7	0	4098677	On the way the plane stopped in Rome .	5	5	21	27	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS
+185	23577	3	7	0	4098677	On the way the plane stopped in Rome .	7	7	32	35	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	1.0	0.6666667	0.25	BABELFY
+185	23577	4	7	0	4098678	Steve , who was sitting next to John , got down in Rome .	0	0	0	4	bn:00071814n	http://dbpedia.org/resource/Stephen	http://babelnet.org/rdf/s00071814n	1.0	0.25	0.014492754	BABELFY
+185	23577	4	7	0	4098678	Steve , who was sitting next to John , got down in Rome .	4	4	16	22	bn:00093013v		http://babelnet.org/rdf/s00093013v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	7	0	4098678	Steve , who was sitting next to John , got down in Rome .	9	9	39	41	bn:13677111v		http://babelnet.org/rdf/s13677111v	0.0	0.0	0.0	MCS
+185	23577	4	7	0	4098678	Steve , who was sitting next to John , got down in Rome .	9	10	39	46	bn:00086995v		http://babelnet.org/rdf/s00086995v	1.0	0.25	0.014492754	BABELFY
+185	23577	4	7	0	4098678	Steve , who was sitting next to John , got down in Rome .	12	12	51	54	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.88372093	0.5	0.5507246	BABELFY
+185	23577	5	7	0	4098679	QN : Did Steve pass through the Rome airport customs area ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	1.0	0.1	0.0048076925	BABELFY
+185	23577	5	7	0	4098679	QN : Did Steve pass through the Rome airport customs area ?	3	3	9	13	bn:00071814n	http://dbpedia.org/resource/Stephen	http://babelnet.org/rdf/s00071814n	1.0	0.1	0.0048076925	BABELFY
+185	23577	5	7	0	4098679	QN : Did Steve pass through the Rome airport customs area ?	4	4	15	18	bn:00088944v		http://babelnet.org/rdf/s00088944v	0.0	0.0	0.0	MCS
+185	23577	5	7	0	4098679	QN : Did Steve pass through the Rome airport customs area ?	4	5	15	26	bn:00091470v		http://babelnet.org/rdf/s00091470v	0.0	0.0	0.0	MCS
+185	23577	5	7	0	4098679	QN : Did Steve pass through the Rome airport customs area ?	7	7	32	35	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.9310345	0.6	0.2596154	BABELFY
+185	23577	5	7	0	4098679	QN : Did Steve pass through the Rome airport customs area ?	7	8	32	43	bn:03533748n	http://dbpedia.org/resource/Rome_Airport	http://babelnet.org/rdf/s03533748n	1.0	0.2	0.028846154	BABELFY
+185	23577	5	7	0	4098679	QN : Did Steve pass through the Rome airport customs area ?	8	8	37	43	bn:00001676n	http://dbpedia.org/resource/Aerodrome	http://babelnet.org/rdf/s00001676n	0.9677419	0.6	0.28846154	BABELFY
+185	23577	5	7	0	4098679	QN : Did Steve pass through the Rome airport customs area ?	8	9	37	51	bn:00024593n	http://dbpedia.org/resource/Customs	http://babelnet.org/rdf/s00024593n	1.0	0.3	0.072115384	BABELFY
+185	23577	5	7	0	4098679	QN : Did Steve pass through the Rome airport customs area ?	9	9	45	51	bn:00024593n	http://dbpedia.org/resource/Customs	http://babelnet.org/rdf/s00024593n	1.0	0.3	0.072115384	BABELFY
+185	23577	5	7	0	4098679	QN : Did Steve pass through the Rome airport customs area ?	9	10	45	56	bn:03854488n	http://dbpedia.org/resource/Customs_area	http://babelnet.org/rdf/s03854488n	1.0	0.3	0.072115384	BABELFY
+185	23577	5	7	0	4098679	QN : Did Steve pass through the Rome airport customs area ?	10	10	53	56	bn:00005513n	http://dbpedia.org/resource/Area	http://babelnet.org/rdf/s00005513n	0.0	0.0	0.0	MCS
+185	23577	1	8	0	4098680	ID:ATM2-1 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	8	0	4098681	John took the plane from Paris to Baghdad .	3	3	14	18	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	1.0	0.6666667	0.1632653	BABELFY
+185	23577	2	8	0	4098681	John took the plane from Paris to Baghdad .	5	5	25	29	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.94736844	1.0	0.36734694	BABELFY
+185	23577	2	8	0	4098681	John took the plane from Paris to Baghdad .	7	7	34	40	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	0.6666667	0.12244898	BABELFY
+185	23577	3	8	0	4098682	On the way the plane stopped in Rome , where John was arrested .	2	2	7	9	bn:00080720n		http://babelnet.org/rdf/s00080720n	0.0	0.0	0.0	MCS
+185	23577	3	8	0	4098682	On the way the plane stopped in Rome , where John was arrested .	4	4	15	19	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	0.9655172	0.8	0.25	BABELFY
+185	23577	3	8	0	4098682	On the way the plane stopped in Rome , where John was arrested .	5	5	21	27	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS
+185	23577	3	8	0	4098682	On the way the plane stopped in Rome , where John was arrested .	7	7	32	35	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.9	0.6	0.16071428	BABELFY
+185	23577	3	8	0	4098682	On the way the plane stopped in Rome , where John was arrested .	12	12	54	61	bn:00082728v		http://babelnet.org/rdf/s00082728v	0.0	0.0	0.0	MCS
+185	23577	4	8	0	4098683	QN : Is John in Baghdad ?	5	5	16	22	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	1.0	0.5	BABELFY
+185	23577	1	9	0	4098684	ID:ATM2-2 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	9	0	4098685	John took the plane from Paris to Baghdad .	3	3	14	18	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	1.0	0.6666667	0.1632653	BABELFY
+185	23577	2	9	0	4098685	John took the plane from Paris to Baghdad .	5	5	25	29	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.94736844	1.0	0.36734694	BABELFY
+185	23577	2	9	0	4098685	John took the plane from Paris to Baghdad .	7	7	34	40	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	0.6666667	0.12244898	BABELFY
+185	23577	3	9	0	4098686	On the way the plane stopped in Rome , where John was arrested .	2	2	7	9	bn:00080720n		http://babelnet.org/rdf/s00080720n	0.0	0.0	0.0	MCS
+185	23577	3	9	0	4098686	On the way the plane stopped in Rome , where John was arrested .	4	4	15	19	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	0.9655172	0.8	0.25	BABELFY
+185	23577	3	9	0	4098686	On the way the plane stopped in Rome , where John was arrested .	5	5	21	27	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS
+185	23577	3	9	0	4098686	On the way the plane stopped in Rome , where John was arrested .	7	7	32	35	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.9	0.6	0.16071428	BABELFY
+185	23577	3	9	0	4098686	On the way the plane stopped in Rome , where John was arrested .	12	12	54	61	bn:00082728v		http://babelnet.org/rdf/s00082728v	0.0	0.0	0.0	MCS
+185	23577	1	10	0	4098688	ID:ATM2-3 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	10	0	4098689	John took the plane from Paris to Baghdad .	3	3	14	18	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	1.0	0.6666667	0.1632653	BABELFY
+185	23577	2	10	0	4098689	John took the plane from Paris to Baghdad .	5	5	25	29	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.94736844	1.0	0.36734694	BABELFY
+185	23577	2	10	0	4098689	John took the plane from Paris to Baghdad .	7	7	34	40	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	0.6666667	0.12244898	BABELFY
+185	23577	3	10	0	4098690	On the way the plane stopped in Rome , where John was arrested .	2	2	7	9	bn:00080720n		http://babelnet.org/rdf/s00080720n	0.0	0.0	0.0	MCS
+185	23577	3	10	0	4098690	On the way the plane stopped in Rome , where John was arrested .	4	4	15	19	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	0.9655172	0.8	0.25	BABELFY
+185	23577	3	10	0	4098690	On the way the plane stopped in Rome , where John was arrested .	5	5	21	27	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS
+185	23577	3	10	0	4098690	On the way the plane stopped in Rome , where John was arrested .	7	7	32	35	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.9	0.6	0.16071428	BABELFY
+185	23577	3	10	0	4098690	On the way the plane stopped in Rome , where John was arrested .	12	12	54	61	bn:00082728v		http://babelnet.org/rdf/s00082728v	0.0	0.0	0.0	MCS
+185	23577	4	10	0	4098691	QN : Did John pass through the Rome airport customs ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23577	4	10	0	4098691	QN : Did John pass through the Rome airport customs ?	4	4	14	17	bn:00088944v		http://babelnet.org/rdf/s00088944v	0.0	0.0	0.0	MCS
+185	23577	4	10	0	4098691	QN : Did John pass through the Rome airport customs ?	4	5	14	25	bn:00091470v		http://babelnet.org/rdf/s00091470v	0.0	0.0	0.0	MCS
+185	23577	4	10	0	4098691	QN : Did John pass through the Rome airport customs ?	7	7	31	34	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.9375	0.71428573	0.36809817	BABELFY
+185	23577	4	10	0	4098691	QN : Did John pass through the Rome airport customs ?	7	8	31	42	bn:03533748n	http://dbpedia.org/resource/Rome_Airport	http://babelnet.org/rdf/s03533748n	1.0	0.2857143	0.036809817	BABELFY
+185	23577	4	10	0	4098691	QN : Did John pass through the Rome airport customs ?	8	8	36	42	bn:00001676n	http://dbpedia.org/resource/Aerodrome	http://babelnet.org/rdf/s00001676n	0.9142857	0.5714286	0.19631901	BABELFY
+185	23577	4	10	0	4098691	QN : Did John pass through the Rome airport customs ?	8	9	36	50	bn:00024593n	http://dbpedia.org/resource/Customs	http://babelnet.org/rdf/s00024593n	1.0	0.2857143	0.036809817	BABELFY
+185	23577	4	10	0	4098691	QN : Did John pass through the Rome airport customs ?	9	9	44	50	bn:00024591n	http://dbpedia.org/resource/Custom_(law)	http://babelnet.org/rdf/s00024591n	0.0	0.0	0.0	MCS
+185	23577	1	11	0	4098692	ID:ATM2-4 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	11	0	4098693	John took the plane from Paris to Baghdad .	3	3	14	18	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	1.0	0.6666667	0.1632653	BABELFY
+185	23577	2	11	0	4098693	John took the plane from Paris to Baghdad .	5	5	25	29	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.94736844	1.0	0.36734694	BABELFY
+185	23577	2	11	0	4098693	John took the plane from Paris to Baghdad .	7	7	34	40	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	0.6666667	0.12244898	BABELFY
+185	23577	3	11	0	4098694	On the way the plane stopped in Rome , where John was arrested .	2	2	7	9	bn:00080720n		http://babelnet.org/rdf/s00080720n	0.0	0.0	0.0	MCS
+185	23577	3	11	0	4098694	On the way the plane stopped in Rome , where John was arrested .	4	4	15	19	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	0.9655172	0.8	0.25	BABELFY
+185	23577	3	11	0	4098694	On the way the plane stopped in Rome , where John was arrested .	5	5	21	27	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS
+185	23577	3	11	0	4098694	On the way the plane stopped in Rome , where John was arrested .	7	7	32	35	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.9	0.6	0.16071428	BABELFY
+185	23577	3	11	0	4098694	On the way the plane stopped in Rome , where John was arrested .	12	12	54	61	bn:00082728v		http://babelnet.org/rdf/s00082728v	0.0	0.0	0.0	MCS
+185	23577	4	11	0	4098695	QN : Is the plane in Baghdad ?	4	4	12	16	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	0.0	0.0	0.0	MCS
+185	23577	1	12	0	4098696	ID:ATM3-1 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	12	0	4098697	John is a US citizen .	3	4	10	19	bn:01861515n	http://dbpedia.org/resource/Citizenship_in_the_United_States	http://babelnet.org/rdf/s01861515n	1.0	1.0	0.5	BABELFY
+185	23577	2	12	0	4098697	John is a US citizen .	4	4	13	19	bn:00019281n		http://babelnet.org/rdf/s00019281n	1.0	1.0	0.5	BABELFY
+185	23577	3	12	0	4098698	He is in Boston on Dec 1 .	5	5	19	21	bn:00025645n	http://dbpedia.org/resource/December	http://babelnet.org/rdf/s00025645n	1.0	1.0	0.5	BABELFY
+185	23577	3	12	0	4098698	He is in Boston on Dec 1 .	5	6	19	23	bn:03716041n	http://dbpedia.org/resource/December_1	http://babelnet.org/rdf/s03716041n	1.0	1.0	0.5	BABELFY
+185	23577	4	12	0	4098699	That day he applied for the passport .	1	1	5	7	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS
+185	23577	4	12	0	4098699	That day he applied for the passport .	3	3	12	18	bn:00082706v		http://babelnet.org/rdf/s00082706v	0.0	0.0	0.0	MCS
+185	23577	4	12	0	4098699	That day he applied for the passport .	6	6	28	35	bn:00060873n		http://babelnet.org/rdf/s00060873n	0.0	0.0	0.0	MCS
+185	23577	5	12	0	4098700	QN : Can he go to Paris on Dec. 1 ?	4	5	12	16	bn:00082907v		http://babelnet.org/rdf/s00082907v	1.0	0.5	0.16666667	BABELFY
+185	23577	5	12	0	4098700	QN : Can he go to Paris on Dec. 1 ?	6	6	18	22	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	1.0	1.0	0.6666667	BABELFY
+185	23577	5	12	0	4098700	QN : Can he go to Paris on Dec. 1 ?	8	8	27	30	bn:00025645n	http://dbpedia.org/resource/December	http://babelnet.org/rdf/s00025645n	1.0	0.5	0.16666667	BABELFY
+185	23577	1	13	0	4098701	ID:ATM3-2 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	13	0	4098702	John is a US citizen .	3	4	10	19	bn:01861515n	http://dbpedia.org/resource/Citizenship_in_the_United_States	http://babelnet.org/rdf/s01861515n	1.0	1.0	0.5	BABELFY
+185	23577	2	13	0	4098702	John is a US citizen .	4	4	13	19	bn:00019281n		http://babelnet.org/rdf/s00019281n	1.0	1.0	0.5	BABELFY
+185	23577	3	13	0	4098703	He is in Boston on Dec 1 .	5	5	19	21	bn:00025645n	http://dbpedia.org/resource/December	http://babelnet.org/rdf/s00025645n	1.0	1.0	0.5	BABELFY
+185	23577	3	13	0	4098703	He is in Boston on Dec 1 .	5	6	19	23	bn:03716041n	http://dbpedia.org/resource/December_1	http://babelnet.org/rdf/s03716041n	1.0	1.0	0.5	BABELFY
+185	23577	4	13	0	4098704	That day he applied for the passport .	1	1	5	7	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS
+185	23577	4	13	0	4098704	That day he applied for the passport .	3	3	12	18	bn:00082706v		http://babelnet.org/rdf/s00082706v	0.0	0.0	0.0	MCS
+185	23577	4	13	0	4098704	That day he applied for the passport .	6	6	28	35	bn:00060873n		http://babelnet.org/rdf/s00060873n	0.0	0.0	0.0	MCS
+185	23577	5	13	0	4098705	QN : Can he go to Paris on Dec 14th ?	4	5	12	16	bn:00082907v		http://babelnet.org/rdf/s00082907v	1.0	0.5	0.11111111	BABELFY
+185	23577	5	13	0	4098705	QN : Can he go to Paris on Dec 14th ?	6	6	18	22	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	1.0	1.0	0.6666667	BABELFY
+185	23577	5	13	0	4098705	QN : Can he go to Paris on Dec 14th ?	8	8	27	29	bn:00025645n	http://dbpedia.org/resource/December	http://babelnet.org/rdf/s00025645n	0.0	0.0	0.0	MCS
+185	23577	5	13	0	4098705	QN : Can he go to Paris on Dec 14th ?	9	9	31	34	bn:00095922a		http://babelnet.org/rdf/s00095922a	0.0	0.0	0.0	MCS
+185	23577	1	14	0	4098706	ID:ATM3-3 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	14	0	4098707	John is a US citizen .	3	4	10	19	bn:01861515n	http://dbpedia.org/resource/Citizenship_in_the_United_States	http://babelnet.org/rdf/s01861515n	1.0	1.0	0.5	BABELFY
+185	23577	2	14	0	4098707	John is a US citizen .	4	4	13	19	bn:00019281n		http://babelnet.org/rdf/s00019281n	1.0	1.0	0.5	BABELFY
+185	23577	3	14	0	4098708	He is in Boston on Dec 1 .	5	5	19	21	bn:00025645n	http://dbpedia.org/resource/December	http://babelnet.org/rdf/s00025645n	1.0	1.0	0.5	BABELFY
+185	23577	3	14	0	4098708	He is in Boston on Dec 1 .	5	6	19	23	bn:03716041n	http://dbpedia.org/resource/December_1	http://babelnet.org/rdf/s03716041n	1.0	1.0	0.5	BABELFY
+185	23577	4	14	0	4098709	That day he applied for the passport .	1	1	5	7	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS
+185	23577	4	14	0	4098709	That day he applied for the passport .	3	3	12	18	bn:00082706v		http://babelnet.org/rdf/s00082706v	0.0	0.0	0.0	MCS
+185	23577	4	14	0	4098709	That day he applied for the passport .	6	6	28	35	bn:00060873n		http://babelnet.org/rdf/s00060873n	0.0	0.0	0.0	MCS
+185	23577	5	14	0	4098710	QN : Can he go to Paris on the Jan 10th ?	4	5	12	16	bn:00082907v		http://babelnet.org/rdf/s00082907v	1.0	0.33333334	0.02631579	BABELFY
+185	23577	5	14	0	4098710	QN : Can he go to Paris on the Jan 10th ?	6	6	18	22	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.96428573	1.0	0.7105263	BABELFY
+185	23577	5	14	0	4098710	QN : Can he go to Paris on the Jan 10th ?	9	9	31	33	bn:00047960n	http://dbpedia.org/resource/January	http://babelnet.org/rdf/s00047960n	0.0	0.0	0.0	MCS
+185	23577	1	15	0	4098711	ID:ATM4-1 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	15	0	4098712	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	0	0	0	3	bn:00009020n	http://dbpedia.org/resource/Toilet_(room)	http://babelnet.org/rdf/s00009020n	0.0	0.0	0.0	MCS
+185	23577	2	15	0	4098712	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	4	4	18	24	bn:00084586v		http://babelnet.org/rdf/s00084586v	1.0	0.16666667	0.013513514	BABELFY
+185	23577	2	15	0	4098712	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	6	6	30	35	bn:03468516n	http://dbpedia.org/resource/Jesse_Hartman	http://babelnet.org/rdf/s03468516n	1.0	0.16666667	0.013513514	BABELFY
+185	23577	2	15	0	4098712	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	12	12	55	60	bn:00035206n		http://babelnet.org/rdf/s00035206n	0.0	0.0	0.0	MCS
+185	23577	2	15	0	4098712	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	16	16	77	81	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	1.0	0.8333333	0.5405405	BABELFY
+185	23577	2	15	0	4098712	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	21	21	101	103	bn:00025645n	http://dbpedia.org/resource/December	http://babelnet.org/rdf/s00025645n	0.0	0.0	0.0	MCS
+185	23577	2	15	0	4098712	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	22	22	105	108	bn:00095904a		http://babelnet.org/rdf/s00095904a	0.0	0.0	0.0	MCS
+185	23577	3	15	0	4098713	QN : In which city is John 's laptop on the evening of Dec 10th ?	4	4	14	17	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.9	0.5	0.375	BABELFY
+185	23577	3	15	0	4098713	QN : In which city is John 's laptop on the evening of Dec 10th ?	8	8	30	35	bn:00049998n	http://dbpedia.org/resource/Laptop	http://babelnet.org/rdf/s00049998n	0.0	0.0	0.0	MCS
+185	23577	3	15	0	4098713	QN : In which city is John 's laptop on the evening of Dec 10th ?	13	13	55	57	bn:00025645n	http://dbpedia.org/resource/December	http://babelnet.org/rdf/s00025645n	1.0	0.5	0.041666668	BABELFY
+185	23577	3	15	0	4098713	QN : In which city is John 's laptop on the evening of Dec 10th ?	14	14	59	62	bn:00095898a		http://babelnet.org/rdf/s00095898a	0.0	0.0	0.0	MCS
+185	23577	1	16	0	4098714	ID:ATM4-2 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	16	0	4098715	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	0	0	0	3	bn:00009020n	http://dbpedia.org/resource/Toilet_(room)	http://babelnet.org/rdf/s00009020n	0.0	0.0	0.0	MCS
+185	23577	2	16	0	4098715	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	4	4	18	24	bn:00084586v		http://babelnet.org/rdf/s00084586v	1.0	0.16666667	0.013513514	BABELFY
+185	23577	2	16	0	4098715	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	6	6	30	35	bn:03468516n	http://dbpedia.org/resource/Jesse_Hartman	http://babelnet.org/rdf/s03468516n	1.0	0.16666667	0.013513514	BABELFY
+185	23577	2	16	0	4098715	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	12	12	55	60	bn:00035206n		http://babelnet.org/rdf/s00035206n	0.0	0.0	0.0	MCS
+185	23577	2	16	0	4098715	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	16	16	77	81	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	1.0	0.8333333	0.5405405	BABELFY
+185	23577	2	16	0	4098715	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	21	21	101	103	bn:00025645n	http://dbpedia.org/resource/December	http://babelnet.org/rdf/s00025645n	0.0	0.0	0.0	MCS
+185	23577	2	16	0	4098715	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	22	22	105	108	bn:00095904a		http://babelnet.org/rdf/s00095904a	0.0	0.0	0.0	MCS
+185	23577	3	16	0	4098716	QN : In which city is John 's laptop on the evening of Dec 11th ?	4	4	14	17	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.9	0.5	0.375	BABELFY
+185	23577	3	16	0	4098716	QN : In which city is John 's laptop on the evening of Dec 11th ?	8	8	30	35	bn:00049998n	http://dbpedia.org/resource/Laptop	http://babelnet.org/rdf/s00049998n	0.0	0.0	0.0	MCS
+185	23577	3	16	0	4098716	QN : In which city is John 's laptop on the evening of Dec 11th ?	13	13	55	57	bn:00025645n	http://dbpedia.org/resource/December	http://babelnet.org/rdf/s00025645n	1.0	0.5	0.041666668	BABELFY
+185	23577	3	16	0	4098716	QN : In which city is John 's laptop on the evening of Dec 11th ?	14	14	59	62	bn:00095904a		http://babelnet.org/rdf/s00095904a	0.0	0.0	0.0	MCS
+185	23577	1	17	0	4098717	ID:ATM5-1 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	0	0	0	3	bn:00009020n	http://dbpedia.org/resource/Toilet_(room)	http://babelnet.org/rdf/s00009020n	0.0	0.0	0.0	MCS
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	3	3	11	17	bn:00088912v		http://babelnet.org/rdf/s00088912v	0.0	0.0	0.0	MCS
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	4	4	19	24	bn:00114086r		http://babelnet.org/rdf/s00114086r	0.0	0.0	0.0	MCS
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	9	9	40	43	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	13	13	59	66	bn:00089246v		http://babelnet.org/rdf/s00089246v	0.0	0.0	0.0	MCS
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	15	15	70	73	bn:00014791n	http://dbpedia.org/resource/Telephone_call	http://babelnet.org/rdf/s00014791n	0.0	0.0	0.0	MCS
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	19	19	88	98	bn:00114422r		http://babelnet.org/rdf/s00114422r	0.0	0.0	0.0	MCS
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	20	21	100	104	bn:00082907v		http://babelnet.org/rdf/s00082907v	1.0	0.125	0.0034129692	BABELFY
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	22	22	106	110	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	1.0	0.875	0.5255973	BABELFY
+185	23577	3	17	0	4098719	QN : Can he just get on a plane and fly to Paris ?	4	4	12	15	bn:00114626r		http://babelnet.org/rdf/s00114626r	0.0	0.0	0.0	MCS
+185	23577	3	17	0	4098719	QN : Can he just get on a plane and fly to Paris ?	5	6	17	22	bn:00088750v		http://babelnet.org/rdf/s00088750v	0.0	0.0	0.0	MCS
+185	23577	3	17	0	4098719	QN : Can he just get on a plane and fly to Paris ?	8	8	26	30	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	0.82758623	1.0	0.24242425	BABELFY
+185	23577	3	17	0	4098719	QN : Can he just get on a plane and fly to Paris ?	10	10	36	38	bn:00088379v		http://babelnet.org/rdf/s00088379v	0.0	0.0	0.0	MCS
+185	23577	3	17	0	4098719	QN : Can he just get on a plane and fly to Paris ?	12	12	43	47	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.94285715	1.0	0.33333334	BABELFY
+185	23577	1	18	0	4098720	ID:ATM5-2 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	0	0	0	3	bn:00009020n	http://dbpedia.org/resource/Toilet_(room)	http://babelnet.org/rdf/s00009020n	0.0	0.0	0.0	MCS
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	3	3	11	17	bn:00088912v		http://babelnet.org/rdf/s00088912v	0.0	0.0	0.0	MCS
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	4	4	19	24	bn:00114086r		http://babelnet.org/rdf/s00114086r	0.0	0.0	0.0	MCS
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	9	9	40	43	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	13	13	59	66	bn:00089246v		http://babelnet.org/rdf/s00089246v	0.0	0.0	0.0	MCS
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	15	15	70	73	bn:00014791n	http://dbpedia.org/resource/Telephone_call	http://babelnet.org/rdf/s00014791n	0.0	0.0	0.0	MCS
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	19	19	88	98	bn:00114422r		http://babelnet.org/rdf/s00114422r	0.0	0.0	0.0	MCS
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	20	21	100	104	bn:00082907v		http://babelnet.org/rdf/s00082907v	1.0	0.125	0.0034129692	BABELFY
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	22	22	106	110	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	1.0	0.875	0.5255973	BABELFY
+185	23577	3	18	0	4098722	QN : What does he need to do to be in Paris ?	5	5	18	21	bn:00091028v		http://babelnet.org/rdf/s00091028v	0.0	0.0	0.0	MCS
+185	23577	1	19	0	4098723	ID:ATM6-1 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	19	0	4098724	John spent December 10 in Paris and took a plane to Baghdad the next morning .	1	1	5	9	bn:00091458v		http://babelnet.org/rdf/s00091458v	0.0	0.0	0.0	MCS
+185	23577	2	19	0	4098724	John spent December 10 in Paris and took a plane to Baghdad the next morning .	2	2	11	18	bn:00025645n	http://dbpedia.org/resource/December	http://babelnet.org/rdf/s00025645n	0.8974359	1.0	0.1891892	BABELFY
+185	23577	2	19	0	4098724	John spent December 10 in Paris and took a plane to Baghdad the next morning .	2	3	11	21	bn:03758612n	http://dbpedia.org/resource/December_10	http://babelnet.org/rdf/s03758612n	1.0	0.6	0.08108108	BABELFY
+185	23577	2	19	0	4098724	John spent December 10 in Paris and took a plane to Baghdad the next morning .	5	5	26	30	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.9859155	1.0	0.3783784	BABELFY
+185	23577	2	19	0	4098724	John spent December 10 in Paris and took a plane to Baghdad the next morning .	9	9	43	47	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	1.0	0.8	0.15135135	BABELFY
+185	23577	2	19	0	4098724	John spent December 10 in Paris and took a plane to Baghdad the next morning .	11	11	52	58	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	0.6	0.06486487	BABELFY
+185	23577	3	19	0	4098725	He was planning to meet Bob who was waiting for him there .	2	2	7	14	bn:00083196v		http://babelnet.org/rdf/s00083196v	0.0	0.0	0.0	MCS
+185	23577	3	19	0	4098725	He was planning to meet Bob who was waiting for him there .	4	4	19	22	bn:00085756v		http://babelnet.org/rdf/s00085756v	0.0	0.0	0.0	MCS
+185	23577	3	19	0	4098725	He was planning to meet Bob who was waiting for him there .	5	5	24	26	bn:00011697n		http://babelnet.org/rdf/s00011697n	0.0	0.0	0.0	MCS
+185	23577	3	19	0	4098725	He was planning to meet Bob who was waiting for him there .	8	8	36	42	bn:00095593v		http://babelnet.org/rdf/s00095593v	0.0	0.0	0.0	MCS
+185	23577	4	19	0	4098726	QN : Was John in the Middle East in mid-December ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	1.0	0.75	0.16363636	BABELFY
+185	23577	4	19	0	4098726	QN : Was John in the Middle East in mid-December ?	6	6	21	26	bn:00017123n	http://dbpedia.org/resource/Midpoint	http://babelnet.org/rdf/s00017123n	1.0	0.25	0.018181818	BABELFY
+185	23577	4	19	0	4098726	QN : Was John in the Middle East in mid-December ?	6	7	21	31	bn:00054852n	http://dbpedia.org/resource/Middle_East	http://babelnet.org/rdf/s00054852n	1.0	0.75	0.4909091	BABELFY
+185	23577	4	19	0	4098726	QN : Was John in the Middle East in mid-December ?	7	7	28	31	bn:00029050n	http://dbpedia.org/resource/East	http://babelnet.org/rdf/s00029050n	0.0	0.0	0.0	MCS
+185	23577	4	19	0	4098726	QN : Was John in the Middle East in mid-December ?	9	9	36	47	bn:00054819n		http://babelnet.org/rdf/s00054819n	0.0	0.0	0.0	MCS
+185	23577	1	20	0	4098727	ID:ATM6-2 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	20	0	4098728	John spent December 10 in Paris and took a plane to Baghdad the next morning .	1	1	5	9	bn:00091458v		http://babelnet.org/rdf/s00091458v	0.0	0.0	0.0	MCS
+185	23577	2	20	0	4098728	John spent December 10 in Paris and took a plane to Baghdad the next morning .	2	2	11	18	bn:00025645n	http://dbpedia.org/resource/December	http://babelnet.org/rdf/s00025645n	0.8974359	1.0	0.1891892	BABELFY
+185	23577	2	20	0	4098728	John spent December 10 in Paris and took a plane to Baghdad the next morning .	2	3	11	21	bn:03758612n	http://dbpedia.org/resource/December_10	http://babelnet.org/rdf/s03758612n	1.0	0.6	0.08108108	BABELFY
+185	23577	2	20	0	4098728	John spent December 10 in Paris and took a plane to Baghdad the next morning .	5	5	26	30	bn:00015540n	http://dbpedia.org/resource/Paris	http://babelnet.org/rdf/s00015540n	0.9859155	1.0	0.3783784	BABELFY
+185	23577	2	20	0	4098728	John spent December 10 in Paris and took a plane to Baghdad the next morning .	9	9	43	47	bn:00001697n	http://dbpedia.org/resource/Airplane	http://babelnet.org/rdf/s00001697n	1.0	0.8	0.15135135	BABELFY
+185	23577	2	20	0	4098728	John spent December 10 in Paris and took a plane to Baghdad the next morning .	11	11	52	58	bn:00007938n	http://dbpedia.org/resource/Baghdad	http://babelnet.org/rdf/s00007938n	1.0	0.6	0.06486487	BABELFY
+185	23577	3	20	0	4098729	He was planning to meet Bob who was waiting for him there .	2	2	7	14	bn:00083196v		http://babelnet.org/rdf/s00083196v	0.0	0.0	0.0	MCS
+185	23577	3	20	0	4098729	He was planning to meet Bob who was waiting for him there .	4	4	19	22	bn:00085756v		http://babelnet.org/rdf/s00085756v	0.0	0.0	0.0	MCS
+185	23577	3	20	0	4098729	He was planning to meet Bob who was waiting for him there .	5	5	24	26	bn:00011697n		http://babelnet.org/rdf/s00011697n	0.0	0.0	0.0	MCS
+185	23577	3	20	0	4098729	He was planning to meet Bob who was waiting for him there .	8	8	36	42	bn:00095593v		http://babelnet.org/rdf/s00095593v	0.0	0.0	0.0	MCS
+185	23577	4	20	0	4098730	QN : Did he meet Bob in the Middle East in mid-December ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23577	4	20	0	4098730	QN : Did he meet Bob in the Middle East in mid-December ?	4	4	12	15	bn:00085339v		http://babelnet.org/rdf/s00085339v	1.0	0.33333334	0.035714287	BABELFY
+185	23577	4	20	0	4098730	QN : Did he meet Bob in the Middle East in mid-December ?	5	5	17	19	bn:00011697n		http://babelnet.org/rdf/s00011697n	0.0	0.0	0.0	MCS
+185	23577	4	20	0	4098730	QN : Did he meet Bob in the Middle East in mid-December ?	8	8	28	33	bn:00017123n	http://dbpedia.org/resource/Midpoint	http://babelnet.org/rdf/s00017123n	1.0	0.6666667	0.14285715	BABELFY
+185	23577	4	20	0	4098730	QN : Did he meet Bob in the Middle East in mid-December ?	8	9	28	38	bn:00054852n	http://dbpedia.org/resource/Middle_East	http://babelnet.org/rdf/s00054852n	1.0	0.33333334	0.35714287	BABELFY
+185	23577	4	20	0	4098730	QN : Did he meet Bob in the Middle East in mid-December ?	9	9	35	38	bn:00029050n	http://dbpedia.org/resource/East	http://babelnet.org/rdf/s00029050n	0.0	0.0	0.0	MCS
+185	23577	4	20	0	4098730	QN : Did he meet Bob in the Middle East in mid-December ?	11	11	43	54	bn:00054819n		http://babelnet.org/rdf/s00054819n	0.0	0.0	0.0	MCS
+185	23577	1	21	0	4098731	ID:ATM7-1 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	21	0	4098732	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	0	0	0	8	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS
+185	23577	2	21	0	4098732	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	0	1	0	13	bn:00014098n	http://dbpedia.org/resource/George_W._Bush	http://babelnet.org/rdf/s00014098n	0.75409836	0.53333336	0.06564395	BABELFY
+185	23577	2	21	0	4098732	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	1	1	10	13	bn:00014096n		http://babelnet.org/rdf/s00014096n	0.0	0.0	0.0	MCS
+185	23577	2	21	0	4098732	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	2	2	15	22	bn:00082909v		http://babelnet.org/rdf/s00082909v	0.0	0.0	0.0	MCS
+185	23577	2	21	0	4098732	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	3	3	24	27	bn:00010712n	http://dbpedia.org/resource/Pope	http://babelnet.org/rdf/s00010712n	0.9490334	1.0	0.19265074	BABELFY
+185	23577	2	21	0	4098732	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	3	4	24	32	bn:01153226n	http://dbpedia.org/resource/Pope_John_(numbering)	http://babelnet.org/rdf/s01153226n	1.0	0.13333334	0.0014270424	BABELFY
+185	23577	2	21	0	4098732	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	4	6	29	40	bn:00048335n	http://dbpedia.org/resource/Pope_John_Paul_II	http://babelnet.org/rdf/s00048335n	1.0	0.6666667	0.09275776	BABELFY
+185	23577	2	21	0	4098732	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	8	8	45	51	bn:00036855n	http://dbpedia.org/resource/Funeral	http://babelnet.org/rdf/s00036855n	0.8	0.26666668	0.0057081697	BABELFY
+185	23577	2	21	0	4098732	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	10	10	56	59	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.9168081	1.0	0.19265074	BABELFY
+185	23577	2	21	0	4098732	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	15	15	79	83	bn:00005169n	http://dbpedia.org/resource/April	http://babelnet.org/rdf/s00005169n	0.9459459	0.33333334	0.012486622	BABELFY
+185	23577	2	21	0	4098732	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	15	16	79	85	bn:01525243n	http://dbpedia.org/resource/April_8	http://babelnet.org/rdf/s01525243n	0.8181818	0.4	0.019265072	BABELFY
+185	23577	3	21	0	4098733	QN : Was President Bush in Rome on April 8 ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	0.9767442	1.0	0.11731844	BABELFY
+185	23577	3	21	0	4098733	QN : Was President Bush in Rome on April 8 ?	3	3	9	17	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS
+185	23577	3	21	0	4098733	QN : Was President Bush in Rome on April 8 ?	3	4	9	22	bn:00014098n	http://dbpedia.org/resource/George_W._Bush	http://babelnet.org/rdf/s00014098n	0.74285716	0.6666667	0.1452514	BABELFY
+185	23577	3	21	0	4098733	QN : Was President Bush in Rome on April 8 ?	4	4	19	22	bn:00014096n		http://babelnet.org/rdf/s00014096n	0.0	0.0	0.0	MCS
+185	23577	3	21	0	4098733	QN : Was President Bush in Rome on April 8 ?	6	6	27	30	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.84745765	0.8333333	0.1396648	BABELFY
+185	23577	3	21	0	4098733	QN : Was President Bush in Rome on April 8 ?	8	8	35	39	bn:00005169n	http://dbpedia.org/resource/April	http://babelnet.org/rdf/s00005169n	0.8333333	0.5	0.041899443	BABELFY
+185	23577	3	21	0	4098733	QN : Was President Bush in Rome on April 8 ?	8	9	35	41	bn:01525243n	http://dbpedia.org/resource/April_8	http://babelnet.org/rdf/s01525243n	0.9230769	0.5	0.033519555	BABELFY
+185	23577	1	22	0	4098734	ID:ATM7-2 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	22	0	4098735	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	0	0	0	8	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS
+185	23577	2	22	0	4098735	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	0	1	0	13	bn:00014098n	http://dbpedia.org/resource/George_W._Bush	http://babelnet.org/rdf/s00014098n	0.75409836	0.53333336	0.06564395	BABELFY
+185	23577	2	22	0	4098735	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	1	1	10	13	bn:00014096n		http://babelnet.org/rdf/s00014096n	0.0	0.0	0.0	MCS
+185	23577	2	22	0	4098735	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	2	2	15	22	bn:00082909v		http://babelnet.org/rdf/s00082909v	0.0	0.0	0.0	MCS
+185	23577	2	22	0	4098735	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	3	3	24	27	bn:00010712n	http://dbpedia.org/resource/Pope	http://babelnet.org/rdf/s00010712n	0.9490334	1.0	0.19265074	BABELFY
+185	23577	2	22	0	4098735	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	3	4	24	32	bn:01153226n	http://dbpedia.org/resource/Pope_John_(numbering)	http://babelnet.org/rdf/s01153226n	1.0	0.13333334	0.0014270424	BABELFY
+185	23577	2	22	0	4098735	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	4	6	29	40	bn:00048335n	http://dbpedia.org/resource/Pope_John_Paul_II	http://babelnet.org/rdf/s00048335n	1.0	0.6666667	0.09275776	BABELFY
+185	23577	2	22	0	4098735	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	8	8	45	51	bn:00036855n	http://dbpedia.org/resource/Funeral	http://babelnet.org/rdf/s00036855n	0.8	0.26666668	0.0057081697	BABELFY
+185	23577	2	22	0	4098735	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	10	10	56	59	bn:00015556n	http://dbpedia.org/resource/Rome	http://babelnet.org/rdf/s00015556n	0.9168081	1.0	0.19265074	BABELFY
+185	23577	2	22	0	4098735	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	15	15	79	83	bn:00005169n	http://dbpedia.org/resource/April	http://babelnet.org/rdf/s00005169n	0.9459459	0.33333334	0.012486622	BABELFY
+185	23577	2	22	0	4098735	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	15	16	79	85	bn:01525243n	http://dbpedia.org/resource/April_8	http://babelnet.org/rdf/s01525243n	0.8181818	0.4	0.019265072	BABELFY
+185	23577	3	22	0	4098736	QN : Was President Bush in Texas on the afternoon of April 8 .?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	0.9677419	0.71428573	0.0456621	BABELFY
+185	23577	3	22	0	4098736	QN : Was President Bush in Texas on the afternoon of April 8 .?	3	3	9	17	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS
+185	23577	3	22	0	4098736	QN : Was President Bush in Texas on the afternoon of April 8 .?	3	4	9	22	bn:00014098n	http://dbpedia.org/resource/George_W._Bush	http://babelnet.org/rdf/s00014098n	0.74850297	0.71428573	0.19025876	BABELFY
+185	23577	3	22	0	4098736	QN : Was President Bush in Texas on the afternoon of April 8 .?	4	4	19	22	bn:00014096n		http://babelnet.org/rdf/s00014096n	0.0	0.0	0.0	MCS
+185	23577	3	22	0	4098736	QN : Was President Bush in Texas on the afternoon of April 8 .?	6	6	27	31	bn:00051904n	http://dbpedia.org/resource/Texas	http://babelnet.org/rdf/s00051904n	0.8095238	0.71428573	0.12937595	BABELFY
+185	23577	3	22	0	4098736	QN : Was President Bush in Texas on the afternoon of April 8 .?	9	9	40	48	bn:00001876n		http://babelnet.org/rdf/s00001876n	1.0	0.42857143	0.01369863	BABELFY
+185	23577	3	22	0	4098736	QN : Was President Bush in Texas on the afternoon of April 8 .?	11	11	53	57	bn:00005169n	http://dbpedia.org/resource/April	http://babelnet.org/rdf/s00005169n	0.75	0.2857143	0.00913242	BABELFY
+185	23577	3	22	0	4098736	QN : Was President Bush in Texas on the afternoon of April 8 .?	11	12	53	59	bn:01525243n	http://dbpedia.org/resource/April_8	http://babelnet.org/rdf/s01525243n	1.0	0.42857143	0.01826484	BABELFY
+185	23577	1	23	0	4098737	ID:ATM8-1 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	23	0	4098738	A rainstorm caused cancellation of the important meeting on Thursday .	1	1	2	10	bn:00066057n		http://babelnet.org/rdf/s00066057n	0.0	0.0	0.0	MCS
+185	23577	2	23	0	4098738	A rainstorm caused cancellation of the important meeting on Thursday .	3	3	19	30	bn:00015178n		http://babelnet.org/rdf/s00015178n	0.0	0.0	0.0	MCS
+185	23577	2	23	0	4098738	A rainstorm caused cancellation of the important meeting on Thursday .	6	6	39	47	bn:00100716a		http://babelnet.org/rdf/s00100716a	0.0	0.0	0.0	MCS
+185	23577	2	23	0	4098738	A rainstorm caused cancellation of the important meeting on Thursday .	7	7	49	55	bn:00085756v		http://babelnet.org/rdf/s00085756v	0.0	0.0	0.0	MCS
+185	23577	2	23	0	4098738	A rainstorm caused cancellation of the important meeting on Thursday .	9	9	60	67	bn:00076744n	http://dbpedia.org/resource/Thursday	http://babelnet.org/rdf/s00076744n	0.0	0.0	0.0	MCS
+185	23577	3	23	0	4098739	Friday had beautiful weather .	0	0	0	5	bn:00036512n	http://dbpedia.org/resource/Friday	http://babelnet.org/rdf/s00036512n	0.0	0.0	0.0	MCS
+185	23577	3	23	0	4098739	Friday had beautiful weather .	2	2	11	19	bn:00098172a		http://babelnet.org/rdf/s00098172a	1.0	1.0	0.5	BABELFY
+185	23577	3	23	0	4098739	Friday had beautiful weather .	3	3	21	27	bn:00006808n	http://dbpedia.org/resource/Weather	http://babelnet.org/rdf/s00006808n	1.0	1.0	0.5	BABELFY
+185	23577	4	23	0	4098740	QN : Did the meeting take place on Thursday ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23577	4	23	0	4098740	QN : Did the meeting take place on Thursday ?	4	4	13	19	bn:00085756v		http://babelnet.org/rdf/s00085756v	0.0	0.0	0.0	MCS
+185	23577	4	23	0	4098740	QN : Did the meeting take place on Thursday ?	5	6	21	30	bn:00085337v		http://babelnet.org/rdf/s00085337v	1.0	0.5	0.1	BABELFY
+185	23577	4	23	0	4098740	QN : Did the meeting take place on Thursday ?	6	6	26	30	bn:00062699n	http://dbpedia.org/resource/Location_(geography)	http://babelnet.org/rdf/s00062699n	0.9230769	1.0	0.6	BABELFY
+185	23577	4	23	0	4098740	QN : Did the meeting take place on Thursday ?	8	8	35	42	bn:00076744n	http://dbpedia.org/resource/Thursday	http://babelnet.org/rdf/s00076744n	0.0	0.0	0.0	MCS
+185	23577	1	24	0	4098741	ID:ATM8-2 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	24	0	4098742	A rainstorm caused cancellation of the important meeting on Thursday .	1	1	2	10	bn:00066057n		http://babelnet.org/rdf/s00066057n	0.0	0.0	0.0	MCS
+185	23577	2	24	0	4098742	A rainstorm caused cancellation of the important meeting on Thursday .	3	3	19	30	bn:00015178n		http://babelnet.org/rdf/s00015178n	0.0	0.0	0.0	MCS
+185	23577	2	24	0	4098742	A rainstorm caused cancellation of the important meeting on Thursday .	6	6	39	47	bn:00100716a		http://babelnet.org/rdf/s00100716a	0.0	0.0	0.0	MCS
+185	23577	2	24	0	4098742	A rainstorm caused cancellation of the important meeting on Thursday .	7	7	49	55	bn:00085756v		http://babelnet.org/rdf/s00085756v	0.0	0.0	0.0	MCS
+185	23577	2	24	0	4098742	A rainstorm caused cancellation of the important meeting on Thursday .	9	9	60	67	bn:00076744n	http://dbpedia.org/resource/Thursday	http://babelnet.org/rdf/s00076744n	0.0	0.0	0.0	MCS
+185	23577	3	24	0	4098743	Friday had beautiful weather .	0	0	0	5	bn:00036512n	http://dbpedia.org/resource/Friday	http://babelnet.org/rdf/s00036512n	0.0	0.0	0.0	MCS
+185	23577	3	24	0	4098743	Friday had beautiful weather .	2	2	11	19	bn:00098172a		http://babelnet.org/rdf/s00098172a	1.0	1.0	0.5	BABELFY
+185	23577	3	24	0	4098743	Friday had beautiful weather .	3	3	21	27	bn:00006808n	http://dbpedia.org/resource/Weather	http://babelnet.org/rdf/s00006808n	1.0	1.0	0.5	BABELFY
+185	23577	4	24	0	4098744	QN : Did the meeting take place on Friday ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23577	4	24	0	4098744	QN : Did the meeting take place on Friday ?	4	4	13	19	bn:00085756v		http://babelnet.org/rdf/s00085756v	0.0	0.0	0.0	MCS
+185	23577	4	24	0	4098744	QN : Did the meeting take place on Friday ?	5	6	21	30	bn:00085337v		http://babelnet.org/rdf/s00085337v	1.0	0.5	0.1	BABELFY
+185	23577	4	24	0	4098744	QN : Did the meeting take place on Friday ?	6	6	26	30	bn:00062699n	http://dbpedia.org/resource/Location_(geography)	http://babelnet.org/rdf/s00062699n	0.9230769	1.0	0.6	BABELFY
+185	23577	4	24	0	4098744	QN : Did the meeting take place on Friday ?	8	8	35	40	bn:00036512n	http://dbpedia.org/resource/Friday	http://babelnet.org/rdf/s00036512n	0.0	0.0	0.0	MCS
+185	23577	1	25	0	4098745	ID:ATM9-1 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	1	1	2	6	bn:03095654n	http://dbpedia.org/resource/Boeing_CH-47_Chinook	http://babelnet.org/rdf/s03095654n	1.0	0.30769232	0.053333335	BABELFY
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	1	2	2	14	bn:03095654n	http://dbpedia.org/resource/Boeing_CH-47_Chinook	http://babelnet.org/rdf/s03095654n	1.0	0.30769232	0.053333335	BABELFY
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	2	2	8	14	bn:00018500n	http://dbpedia.org/resource/Chinook_wind	http://babelnet.org/rdf/s00018500n	0.0	0.0	0.0	MCS
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	4	4	18	25	bn:00084554v		http://babelnet.org/rdf/s00084554v	0.0	0.0	0.0	MCS
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	6	6	30	35	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.8	0.15384616	0.013333334	BABELFY
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	8	8	39	45	bn:00085981v		http://babelnet.org/rdf/s00085981v	1.0	0.07692308	0.0033333334	BABELFY
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	10	10	52	57	bn:03219349n	http://dbpedia.org/resource/Ghazni_Province	http://babelnet.org/rdf/s03219349n	0.8	0.15384616	0.013333334	BABELFY
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	12	12	65	73	bn:00092969v		http://babelnet.org/rdf/s00092969v	0.0	0.0	0.0	MCS
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	14	16	78	92	bn:01240295n	http://dbpedia.org/resource/Bagram_Airfield	http://babelnet.org/rdf/s01240295n	1.0	0.46153846	0.18	BABELFY
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	15	15	85	87	bn:00002193n	http://dbpedia.org/resource/Aviation	http://babelnet.org/rdf/s00002193n	0.9692308	0.53846157	0.21	BABELFY
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	15	16	85	92	bn:00002205n	http://dbpedia.org/resource/Military_airbase	http://babelnet.org/rdf/s00002205n	1.0	0.23076923	0.04	BABELFY
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	16	16	89	92	bn:00008781n		http://babelnet.org/rdf/s00008781n	0.0	0.0	0.0	MCS
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	19	19	103	109	bn:00064917n	http://dbpedia.org/resource/Capital_city	http://babelnet.org/rdf/s00064917n	0.8333333	0.30769232	0.06666667	BABELFY
+185	23577	3	25	0	4098747	The pilot perished in the crash .	1	1	4	8	bn:00002306n	http://dbpedia.org/resource/Pilot_(aeronautics)	http://babelnet.org/rdf/s00002306n	0.0	0.0	0.0	MCS
+185	23577	3	25	0	4098747	The pilot perished in the crash .	2	2	10	17	bn:00084343v		http://babelnet.org/rdf/s00084343v	0.0	0.0	0.0	MCS
+185	23577	3	25	0	4098747	The pilot perished in the crash .	5	5	26	30	bn:00020601n		http://babelnet.org/rdf/s00020601n	0.0	0.0	0.0	MCS
+185	23577	4	25	0	4098748	QN : Did the Chinook arrive at Bagram Air Base ?	2	2	5	7	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+185	23577	4	25	0	4098748	QN : Did the Chinook arrive at Bagram Air Base ?	4	4	13	19	bn:03095654n	http://dbpedia.org/resource/Boeing_CH-47_Chinook	http://babelnet.org/rdf/s03095654n	0.8181818	0.42857143	0.0882353	BABELFY
+185	23577	4	25	0	4098748	QN : Did the Chinook arrive at Bagram Air Base ?	5	5	21	26	bn:00082788v		http://babelnet.org/rdf/s00082788v	1.0	0.2857143	0.05882353	BABELFY
+185	23577	4	25	0	4098748	QN : Did the Chinook arrive at Bagram Air Base ?	5	6	21	29	bn:00082790v		http://babelnet.org/rdf/s00082790v	1.0	0.14285715	0.019607844	BABELFY
+185	23577	4	25	0	4098748	QN : Did the Chinook arrive at Bagram Air Base ?	7	9	31	45	bn:01240295n	http://dbpedia.org/resource/Bagram_Airfield	http://babelnet.org/rdf/s01240295n	1.0	0.5714286	0.27450982	BABELFY
+185	23577	4	25	0	4098748	QN : Did the Chinook arrive at Bagram Air Base ?	8	8	38	40	bn:00002185n	http://dbpedia.org/resource/Atmosphere_of_Earth	http://babelnet.org/rdf/s00002185n	0.0	0.0	0.0	MCS
+185	23577	4	25	0	4098748	QN : Did the Chinook arrive at Bagram Air Base ?	8	9	38	45	bn:00002205n	http://dbpedia.org/resource/Military_airbase	http://babelnet.org/rdf/s00002205n	1.0	0.42857143	0.11764706	BABELFY
+185	23577	4	25	0	4098748	QN : Did the Chinook arrive at Bagram Air Base ?	9	9	42	45	bn:00008781n		http://babelnet.org/rdf/s00008781n	0.0	0.0	0.0	MCS
+185	23577	1	26	0	4098749	ID:ATM9-2 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	1	1	2	6	bn:03095654n	http://dbpedia.org/resource/Boeing_CH-47_Chinook	http://babelnet.org/rdf/s03095654n	1.0	0.30769232	0.053333335	BABELFY
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	1	2	2	14	bn:03095654n	http://dbpedia.org/resource/Boeing_CH-47_Chinook	http://babelnet.org/rdf/s03095654n	1.0	0.30769232	0.053333335	BABELFY
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	2	2	8	14	bn:00018500n	http://dbpedia.org/resource/Chinook_wind	http://babelnet.org/rdf/s00018500n	0.0	0.0	0.0	MCS
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	4	4	18	25	bn:00084554v		http://babelnet.org/rdf/s00084554v	0.0	0.0	0.0	MCS
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	6	6	30	35	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.8	0.15384616	0.013333334	BABELFY
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	8	8	39	45	bn:00085981v		http://babelnet.org/rdf/s00085981v	1.0	0.07692308	0.0033333334	BABELFY
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	10	10	52	57	bn:03219349n	http://dbpedia.org/resource/Ghazni_Province	http://babelnet.org/rdf/s03219349n	0.8	0.15384616	0.013333334	BABELFY
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	12	12	65	73	bn:00092969v		http://babelnet.org/rdf/s00092969v	0.0	0.0	0.0	MCS
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	14	16	78	92	bn:01240295n	http://dbpedia.org/resource/Bagram_Airfield	http://babelnet.org/rdf/s01240295n	1.0	0.46153846	0.18	BABELFY
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	15	15	85	87	bn:00002193n	http://dbpedia.org/resource/Aviation	http://babelnet.org/rdf/s00002193n	0.9692308	0.53846157	0.21	BABELFY
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	15	16	85	92	bn:00002205n	http://dbpedia.org/resource/Military_airbase	http://babelnet.org/rdf/s00002205n	1.0	0.23076923	0.04	BABELFY
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	16	16	89	92	bn:00008781n		http://babelnet.org/rdf/s00008781n	0.0	0.0	0.0	MCS
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	19	19	103	109	bn:00064917n	http://dbpedia.org/resource/Capital_city	http://babelnet.org/rdf/s00064917n	0.8333333	0.30769232	0.06666667	BABELFY
+185	23577	3	26	0	4098751	The pilot perished in the crash .	1	1	4	8	bn:00002306n	http://dbpedia.org/resource/Pilot_(aeronautics)	http://babelnet.org/rdf/s00002306n	0.0	0.0	0.0	MCS
+185	23577	3	26	0	4098751	The pilot perished in the crash .	2	2	10	17	bn:00084343v		http://babelnet.org/rdf/s00084343v	0.0	0.0	0.0	MCS
+185	23577	3	26	0	4098751	The pilot perished in the crash .	5	5	26	30	bn:00020601n		http://babelnet.org/rdf/s00020601n	0.0	0.0	0.0	MCS
+185	23577	4	26	0	4098752	QN : Is the Pilot alive ?	4	4	12	16	bn:00002306n	http://dbpedia.org/resource/Pilot_(aeronautics)	http://babelnet.org/rdf/s00002306n	0.0	0.0	0.0	MCS
+185	23577	4	26	0	4098752	QN : Is the Pilot alive ?	5	5	18	22	bn:00096788a		http://babelnet.org/rdf/s00096788a	0.0	0.0	0.0	MCS
+185	23577	1	27	0	4098753	ID:ATM9-3 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	1	1	2	6	bn:03095654n	http://dbpedia.org/resource/Boeing_CH-47_Chinook	http://babelnet.org/rdf/s03095654n	1.0	0.30769232	0.053333335	BABELFY
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	1	2	2	14	bn:03095654n	http://dbpedia.org/resource/Boeing_CH-47_Chinook	http://babelnet.org/rdf/s03095654n	1.0	0.30769232	0.053333335	BABELFY
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	2	2	8	14	bn:00018500n	http://dbpedia.org/resource/Chinook_wind	http://babelnet.org/rdf/s00018500n	0.0	0.0	0.0	MCS
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	4	4	18	25	bn:00084554v		http://babelnet.org/rdf/s00084554v	0.0	0.0	0.0	MCS
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	6	6	30	35	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.8	0.15384616	0.013333334	BABELFY
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	8	8	39	45	bn:00085981v		http://babelnet.org/rdf/s00085981v	1.0	0.07692308	0.0033333334	BABELFY
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	10	10	52	57	bn:03219349n	http://dbpedia.org/resource/Ghazni_Province	http://babelnet.org/rdf/s03219349n	0.8	0.15384616	0.013333334	BABELFY
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	12	12	65	73	bn:00092969v		http://babelnet.org/rdf/s00092969v	0.0	0.0	0.0	MCS
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	14	16	78	92	bn:01240295n	http://dbpedia.org/resource/Bagram_Airfield	http://babelnet.org/rdf/s01240295n	1.0	0.46153846	0.18	BABELFY
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	15	15	85	87	bn:00002193n	http://dbpedia.org/resource/Aviation	http://babelnet.org/rdf/s00002193n	0.9692308	0.53846157	0.21	BABELFY
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	15	16	85	92	bn:00002205n	http://dbpedia.org/resource/Military_airbase	http://babelnet.org/rdf/s00002205n	1.0	0.23076923	0.04	BABELFY
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	16	16	89	92	bn:00008781n		http://babelnet.org/rdf/s00008781n	0.0	0.0	0.0	MCS
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	19	19	103	109	bn:00064917n	http://dbpedia.org/resource/Capital_city	http://babelnet.org/rdf/s00064917n	0.8333333	0.30769232	0.06666667	BABELFY
+185	23577	3	27	0	4098755	The pilot perished in the crash .	1	1	4	8	bn:00002306n	http://dbpedia.org/resource/Pilot_(aeronautics)	http://babelnet.org/rdf/s00002306n	0.0	0.0	0.0	MCS
+185	23577	3	27	0	4098755	The pilot perished in the crash .	2	2	10	17	bn:00084343v		http://babelnet.org/rdf/s00084343v	0.0	0.0	0.0	MCS
+185	23577	3	27	0	4098755	The pilot perished in the crash .	5	5	26	30	bn:00020601n		http://babelnet.org/rdf/s00020601n	0.0	0.0	0.0	MCS
+185	23577	4	27	0	4098756	QN : How many people survived ?	4	4	14	19	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS
+185	23577	4	27	0	4098756	QN : How many people survived ?	5	5	21	28	bn:00087617v		http://babelnet.org/rdf/s00087617v	0.0	0.0	0.0	MCS
+185	23577	1	28	0	4098757	ID:ATM10-1 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	28	0	4098758	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	0	1	0	8	bn:03211657n	http://dbpedia.org/resource/Abdul_Qadeer_Khan	http://babelnet.org/rdf/s03211657n	1.0	0.5714286	0.06896552	BABELFY
+185	23577	2	28	0	4098758	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	1	1	5	8	bn:00049031n	http://dbpedia.org/resource/Khan_(title)	http://babelnet.org/rdf/s00049031n	0.0	0.0	0.0	MCS
+185	23577	2	28	0	4098758	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	3	3	13	20	bn:00047607n	http://dbpedia.org/resource/West_Pakistan	http://babelnet.org/rdf/s00047607n	0.91071427	0.85714287	0.25123152	BABELFY
+185	23577	2	28	0	4098758	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	4	4	22	25	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23577	2	28	0	4098758	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	5	5	27	31	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS
+185	23577	2	28	0	4098758	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	8	8	39	45	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS
+185	23577	2	28	0	4098758	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	8	9	39	50	bn:09802964n		http://babelnet.org/rdf/s09802964n	0.0	0.0	0.0	MCS
+185	23577	2	28	0	4098758	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	9	9	47	50	bn:00011917n	http://dbpedia.org/resource/Bomb	http://babelnet.org/rdf/s00011917n	0.0	0.0	0.0	MCS
+185	23577	2	28	0	4098758	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	11	11	55	58	bn:00047447n	http://dbpedia.org/resource/Iran	http://babelnet.org/rdf/s00047447n	0.9622642	0.85714287	0.25123152	BABELFY
+185	23577	3	28	0	4098759	He also sold the XYZ-11 , the key part necessary for the trigger .	2	2	8	11	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23577	3	28	0	4098759	He also sold the XYZ-11 , the key part necessary for the trigger .	7	7	30	32	bn:00099258a		http://babelnet.org/rdf/s00099258a	0.0	0.0	0.0	MCS
+185	23577	3	28	0	4098759	He also sold the XYZ-11 , the key part necessary for the trigger .	9	9	39	47	bn:00107182a		http://babelnet.org/rdf/s00107182a	0.0	0.0	0.0	MCS
+185	23577	3	28	0	4098759	He also sold the XYZ-11 , the key part necessary for the trigger .	12	12	57	63	bn:00042238n	http://dbpedia.org/resource/Trigger_(firearms)	http://babelnet.org/rdf/s00042238n	0.0	0.0	0.0	MCS
+185	23577	4	28	0	4098760	QN : Does Iran have plans for a nuclear bomb ?	2	2	5	8	bn:00017393n	http://dbpedia.org/resource/Deer	http://babelnet.org/rdf/s00017393n	1.0	0.2	0.012820513	BABELFY
+185	23577	4	28	0	4098760	QN : Does Iran have plans for a nuclear bomb ?	3	3	10	13	bn:00047447n	http://dbpedia.org/resource/Iran	http://babelnet.org/rdf/s00047447n	1.0	0.8	0.41025642	BABELFY
+185	23577	4	28	0	4098760	QN : Does Iran have plans for a nuclear bomb ?	5	5	20	24	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS
+185	23577	4	28	0	4098760	QN : Does Iran have plans for a nuclear bomb ?	8	8	32	38	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS
+185	23577	4	28	0	4098760	QN : Does Iran have plans for a nuclear bomb ?	8	9	32	43	bn:09802964n		http://babelnet.org/rdf/s09802964n	0.0	0.0	0.0	MCS
+185	23577	4	28	0	4098760	QN : Does Iran have plans for a nuclear bomb ?	9	9	40	43	bn:00011917n	http://dbpedia.org/resource/Bomb	http://babelnet.org/rdf/s00011917n	0.0	0.0	0.0	MCS
+185	23577	1	29	0	4098761	ID:ATM10-2 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	29	0	4098762	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	0	1	0	8	bn:03211657n	http://dbpedia.org/resource/Abdul_Qadeer_Khan	http://babelnet.org/rdf/s03211657n	1.0	0.5714286	0.06896552	BABELFY
+185	23577	2	29	0	4098762	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	1	1	5	8	bn:00049031n	http://dbpedia.org/resource/Khan_(title)	http://babelnet.org/rdf/s00049031n	0.0	0.0	0.0	MCS
+185	23577	2	29	0	4098762	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	3	3	13	20	bn:00047607n	http://dbpedia.org/resource/West_Pakistan	http://babelnet.org/rdf/s00047607n	0.91071427	0.85714287	0.25123152	BABELFY
+185	23577	2	29	0	4098762	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	4	4	22	25	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23577	2	29	0	4098762	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	5	5	27	31	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS
+185	23577	2	29	0	4098762	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	8	8	39	45	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS
+185	23577	2	29	0	4098762	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	8	9	39	50	bn:09802964n		http://babelnet.org/rdf/s09802964n	0.0	0.0	0.0	MCS
+185	23577	2	29	0	4098762	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	9	9	47	50	bn:00011917n	http://dbpedia.org/resource/Bomb	http://babelnet.org/rdf/s00011917n	0.0	0.0	0.0	MCS
+185	23577	2	29	0	4098762	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	11	11	55	58	bn:00047447n	http://dbpedia.org/resource/Iran	http://babelnet.org/rdf/s00047447n	0.9622642	0.85714287	0.25123152	BABELFY
+185	23577	3	29	0	4098763	He also sold the XYZ-11 , the key part necessary for the trigger .	2	2	8	11	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23577	3	29	0	4098763	He also sold the XYZ-11 , the key part necessary for the trigger .	7	7	30	32	bn:00099258a		http://babelnet.org/rdf/s00099258a	0.0	0.0	0.0	MCS
+185	23577	3	29	0	4098763	He also sold the XYZ-11 , the key part necessary for the trigger .	9	9	39	47	bn:00107182a		http://babelnet.org/rdf/s00107182a	0.0	0.0	0.0	MCS
+185	23577	3	29	0	4098763	He also sold the XYZ-11 , the key part necessary for the trigger .	12	12	57	63	bn:00042238n	http://dbpedia.org/resource/Trigger_(firearms)	http://babelnet.org/rdf/s00042238n	0.0	0.0	0.0	MCS
+185	23577	4	29	0	4098764	QN : Does Pakistan have plans for a nuclear bomb ?	2	2	5	8	bn:00017393n	http://dbpedia.org/resource/Deer	http://babelnet.org/rdf/s00017393n	1.0	0.2	0.013888889	BABELFY
+185	23577	4	29	0	4098764	QN : Does Pakistan have plans for a nuclear bomb ?	3	3	10	17	bn:00047607n	http://dbpedia.org/resource/West_Pakistan	http://babelnet.org/rdf/s00047607n	0.85714287	0.6	0.25	BABELFY
+185	23577	4	29	0	4098764	QN : Does Pakistan have plans for a nuclear bomb ?	5	5	24	28	bn:03479682n	http://dbpedia.org/resource/Case_(policy_debate)	http://babelnet.org/rdf/s03479682n	1.0	0.2	0.013888889	BABELFY
+185	23577	4	29	0	4098764	QN : Does Pakistan have plans for a nuclear bomb ?	8	8	36	42	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS
+185	23577	4	29	0	4098764	QN : Does Pakistan have plans for a nuclear bomb ?	8	9	36	47	bn:09802964n		http://babelnet.org/rdf/s09802964n	0.0	0.0	0.0	MCS
+185	23577	4	29	0	4098764	QN : Does Pakistan have plans for a nuclear bomb ?	9	9	44	47	bn:00011917n	http://dbpedia.org/resource/Bomb	http://babelnet.org/rdf/s00011917n	0.0	0.0	0.0	MCS
+185	23577	1	30	0	4098765	ID:ATM10-3 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	30	0	4098766	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	0	1	0	8	bn:03211657n	http://dbpedia.org/resource/Abdul_Qadeer_Khan	http://babelnet.org/rdf/s03211657n	1.0	0.5714286	0.06896552	BABELFY
+185	23577	2	30	0	4098766	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	1	1	5	8	bn:00049031n	http://dbpedia.org/resource/Khan_(title)	http://babelnet.org/rdf/s00049031n	0.0	0.0	0.0	MCS
+185	23577	2	30	0	4098766	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	3	3	13	20	bn:00047607n	http://dbpedia.org/resource/West_Pakistan	http://babelnet.org/rdf/s00047607n	0.91071427	0.85714287	0.25123152	BABELFY
+185	23577	2	30	0	4098766	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	4	4	22	25	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23577	2	30	0	4098766	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	5	5	27	31	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS
+185	23577	2	30	0	4098766	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	8	8	39	45	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS
+185	23577	2	30	0	4098766	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	8	9	39	50	bn:09802964n		http://babelnet.org/rdf/s09802964n	0.0	0.0	0.0	MCS
+185	23577	2	30	0	4098766	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	9	9	47	50	bn:00011917n	http://dbpedia.org/resource/Bomb	http://babelnet.org/rdf/s00011917n	0.0	0.0	0.0	MCS
+185	23577	2	30	0	4098766	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	11	11	55	58	bn:00047447n	http://dbpedia.org/resource/Iran	http://babelnet.org/rdf/s00047447n	0.9622642	0.85714287	0.25123152	BABELFY
+185	23577	3	30	0	4098767	He also sold the XYZ-11 , the key part necessary for the trigger .	2	2	8	11	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23577	3	30	0	4098767	He also sold the XYZ-11 , the key part necessary for the trigger .	7	7	30	32	bn:00099258a		http://babelnet.org/rdf/s00099258a	0.0	0.0	0.0	MCS
+185	23577	3	30	0	4098767	He also sold the XYZ-11 , the key part necessary for the trigger .	9	9	39	47	bn:00107182a		http://babelnet.org/rdf/s00107182a	0.0	0.0	0.0	MCS
+185	23577	3	30	0	4098767	He also sold the XYZ-11 , the key part necessary for the trigger .	12	12	57	63	bn:00042238n	http://dbpedia.org/resource/Trigger_(firearms)	http://babelnet.org/rdf/s00042238n	0.0	0.0	0.0	MCS
+185	23577	4	30	0	4098768	QN : Does Iran have the XYZ-11 ?	2	2	5	8	bn:00017393n	http://dbpedia.org/resource/Deer	http://babelnet.org/rdf/s00017393n	1.0	1.0	0.5	BABELFY
+185	23577	4	30	0	4098768	QN : Does Iran have the XYZ-11 ?	3	3	10	13	bn:00047447n	http://dbpedia.org/resource/Iran	http://babelnet.org/rdf/s00047447n	1.0	1.0	0.5	BABELFY
+185	23577	1	31	0	4098769	ID:ATM10-4 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	31	0	4098770	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	0	1	0	8	bn:03211657n	http://dbpedia.org/resource/Abdul_Qadeer_Khan	http://babelnet.org/rdf/s03211657n	1.0	0.5714286	0.06896552	BABELFY
+185	23577	2	31	0	4098770	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	1	1	5	8	bn:00049031n	http://dbpedia.org/resource/Khan_(title)	http://babelnet.org/rdf/s00049031n	0.0	0.0	0.0	MCS
+185	23577	2	31	0	4098770	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	3	3	13	20	bn:00047607n	http://dbpedia.org/resource/West_Pakistan	http://babelnet.org/rdf/s00047607n	0.91071427	0.85714287	0.25123152	BABELFY
+185	23577	2	31	0	4098770	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	4	4	22	25	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23577	2	31	0	4098770	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	5	5	27	31	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS
+185	23577	2	31	0	4098770	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	8	8	39	45	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS
+185	23577	2	31	0	4098770	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	8	9	39	50	bn:09802964n		http://babelnet.org/rdf/s09802964n	0.0	0.0	0.0	MCS
+185	23577	2	31	0	4098770	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	9	9	47	50	bn:00011917n	http://dbpedia.org/resource/Bomb	http://babelnet.org/rdf/s00011917n	0.0	0.0	0.0	MCS
+185	23577	2	31	0	4098770	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	11	11	55	58	bn:00047447n	http://dbpedia.org/resource/Iran	http://babelnet.org/rdf/s00047447n	0.9622642	0.85714287	0.25123152	BABELFY
+185	23577	3	31	0	4098771	He also sold the XYZ-11 , the key part necessary for the trigger .	2	2	8	11	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS
+185	23577	3	31	0	4098771	He also sold the XYZ-11 , the key part necessary for the trigger .	7	7	30	32	bn:00099258a		http://babelnet.org/rdf/s00099258a	0.0	0.0	0.0	MCS
+185	23577	3	31	0	4098771	He also sold the XYZ-11 , the key part necessary for the trigger .	9	9	39	47	bn:00107182a		http://babelnet.org/rdf/s00107182a	0.0	0.0	0.0	MCS
+185	23577	3	31	0	4098771	He also sold the XYZ-11 , the key part necessary for the trigger .	12	12	57	63	bn:00042238n	http://dbpedia.org/resource/Trigger_(firearms)	http://babelnet.org/rdf/s00042238n	0.0	0.0	0.0	MCS
+185	23577	4	31	0	4098772	QN : Does Pakistan have the XYZ-11 ?	2	2	5	8	bn:00017393n	http://dbpedia.org/resource/Deer	http://babelnet.org/rdf/s00017393n	1.0	1.0	0.5	BABELFY
+185	23577	4	31	0	4098772	QN : Does Pakistan have the XYZ-11 ?	3	3	10	17	bn:01647793n	http://dbpedia.org/resource/Geography_of_Pakistan	http://babelnet.org/rdf/s01647793n	1.0	1.0	0.5	BABELFY
+185	23577	1	32	0	4098773	ID:ATM11-1 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	32	0	4098774	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	4	4	16	22	bn:00074049n		http://babelnet.org/rdf/s00074049n	0.9	0.6	0.066176474	BABELFY
+185	23577	2	32	0	4098774	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	6	7	27	40	bn:00003365n	http://dbpedia.org/resource/Washington,_D.C.	http://babelnet.org/rdf/s00003365n	1.0	0.8	0.29411766	BABELFY
+185	23577	2	32	0	4098774	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	12	12	57	61	bn:00053318n	http://dbpedia.org/resource/March	http://babelnet.org/rdf/s00053318n	0.0	0.0	0.0	MCS
+185	23577	2	32	0	4098774	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	12	13	57	64	bn:01233351n	http://dbpedia.org/resource/March_15	http://babelnet.org/rdf/s01233351n	1.0	0.4	0.04411765	BABELFY
+185	23577	3	32	0	4098775	His train to New York was scheduled to leave the station at 10:30 .	1	1	4	8	bn:00066028n	http://dbpedia.org/resource/Train	http://babelnet.org/rdf/s00066028n	1.0	0.5	0.08	BABELFY
+185	23577	3	32	0	4098775	His train to New York was scheduled to leave the station at 10:30 .	4	4	17	20	bn:00045018n	http://dbpedia.org/resource/House_of_York	http://babelnet.org/rdf/s00045018n	0.0	0.0	0.0	MCS
+185	23577	3	32	0	4098775	His train to New York was scheduled to leave the station at 10:30 .	6	6	26	34	bn:00093336v		http://babelnet.org/rdf/s00093336v	0.0	0.0	0.0	MCS
+185	23577	3	32	0	4098775	His train to New York was scheduled to leave the station at 10:30 .	8	8	39	43	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23577	3	32	0	4098775	His train to New York was scheduled to leave the station at 10:30 .	10	10	49	55	bn:00074049n		http://babelnet.org/rdf/s00074049n	0.0	0.0	0.0	MCS
+185	23577	4	32	0	4098776	QN : Was John in Washington at 10 ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	1.0	1.0	0.31578946	BABELFY
+185	23577	4	32	0	4098776	QN : Was John in Washington at 10 ?	5	5	17	26	bn:00003365n	http://dbpedia.org/resource/Washington,_D.C.	http://babelnet.org/rdf/s00003365n	1.0	1.0	0.42105263	BABELFY
+185	23577	1	33	0	4098777	ID:ATM11-2 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	33	0	4098778	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	4	4	16	22	bn:00074049n		http://babelnet.org/rdf/s00074049n	0.9	0.6	0.066176474	BABELFY
+185	23577	2	33	0	4098778	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	6	7	27	40	bn:00003365n	http://dbpedia.org/resource/Washington,_D.C.	http://babelnet.org/rdf/s00003365n	1.0	0.8	0.29411766	BABELFY
+185	23577	2	33	0	4098778	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	12	12	57	61	bn:00053318n	http://dbpedia.org/resource/March	http://babelnet.org/rdf/s00053318n	0.0	0.0	0.0	MCS
+185	23577	2	33	0	4098778	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	12	13	57	64	bn:01233351n	http://dbpedia.org/resource/March_15	http://babelnet.org/rdf/s01233351n	1.0	0.4	0.04411765	BABELFY
+185	23577	3	33	0	4098779	His train to New York was scheduled to leave the station at 10:30 .	1	1	4	8	bn:00066028n	http://dbpedia.org/resource/Train	http://babelnet.org/rdf/s00066028n	1.0	0.5	0.08	BABELFY
+185	23577	3	33	0	4098779	His train to New York was scheduled to leave the station at 10:30 .	4	4	17	20	bn:00045018n	http://dbpedia.org/resource/House_of_York	http://babelnet.org/rdf/s00045018n	0.0	0.0	0.0	MCS
+185	23577	3	33	0	4098779	His train to New York was scheduled to leave the station at 10:30 .	6	6	26	34	bn:00093336v		http://babelnet.org/rdf/s00093336v	0.0	0.0	0.0	MCS
+185	23577	3	33	0	4098779	His train to New York was scheduled to leave the station at 10:30 .	8	8	39	43	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23577	3	33	0	4098779	His train to New York was scheduled to leave the station at 10:30 .	10	10	49	55	bn:00074049n		http://babelnet.org/rdf/s00074049n	0.0	0.0	0.0	MCS
+185	23577	4	33	0	4098780	QN : Was John in Washington at 10:15 ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	1.0	1.0	0.31578946	BABELFY
+185	23577	4	33	0	4098780	QN : Was John in Washington at 10:15 ?	5	5	17	26	bn:00003365n	http://dbpedia.org/resource/Washington,_D.C.	http://babelnet.org/rdf/s00003365n	1.0	1.0	0.42105263	BABELFY
+185	23577	1	34	0	4098782	ID:ATM11-3 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	34	0	4098783	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	4	4	16	22	bn:00074049n		http://babelnet.org/rdf/s00074049n	0.9	0.6	0.066176474	BABELFY
+185	23577	2	34	0	4098783	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	6	7	27	40	bn:00003365n	http://dbpedia.org/resource/Washington,_D.C.	http://babelnet.org/rdf/s00003365n	1.0	0.8	0.29411766	BABELFY
+185	23577	2	34	0	4098783	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	12	12	57	61	bn:00053318n	http://dbpedia.org/resource/March	http://babelnet.org/rdf/s00053318n	0.0	0.0	0.0	MCS
+185	23577	2	34	0	4098783	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	12	13	57	64	bn:01233351n	http://dbpedia.org/resource/March_15	http://babelnet.org/rdf/s01233351n	1.0	0.4	0.04411765	BABELFY
+185	23577	3	34	0	4098784	His train to New York was scheduled to leave the station at 10:30 .	1	1	4	8	bn:00066028n	http://dbpedia.org/resource/Train	http://babelnet.org/rdf/s00066028n	1.0	0.5	0.08	BABELFY
+185	23577	3	34	0	4098784	His train to New York was scheduled to leave the station at 10:30 .	4	4	17	20	bn:00045018n	http://dbpedia.org/resource/House_of_York	http://babelnet.org/rdf/s00045018n	0.0	0.0	0.0	MCS
+185	23577	3	34	0	4098784	His train to New York was scheduled to leave the station at 10:30 .	6	6	26	34	bn:00093336v		http://babelnet.org/rdf/s00093336v	0.0	0.0	0.0	MCS
+185	23577	3	34	0	4098784	His train to New York was scheduled to leave the station at 10:30 .	8	8	39	43	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23577	3	34	0	4098784	His train to New York was scheduled to leave the station at 10:30 .	10	10	49	55	bn:00074049n		http://babelnet.org/rdf/s00074049n	0.0	0.0	0.0	MCS
+185	23577	4	34	0	4098785	QN : Was John in Washington at 10:30 ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	1.0	1.0	0.31578946	BABELFY
+185	23577	4	34	0	4098785	QN : Was John in Washington at 10:30 ?	5	5	17	26	bn:00003365n	http://dbpedia.org/resource/Washington,_D.C.	http://babelnet.org/rdf/s00003365n	1.0	1.0	0.42105263	BABELFY
+185	23577	1	35	0	4098786	ID:ATM11-4 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	35	0	4098787	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	4	4	16	22	bn:00074049n		http://babelnet.org/rdf/s00074049n	0.9	0.6	0.066176474	BABELFY
+185	23577	2	35	0	4098787	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	6	7	27	40	bn:00003365n	http://dbpedia.org/resource/Washington,_D.C.	http://babelnet.org/rdf/s00003365n	1.0	0.8	0.29411766	BABELFY
+185	23577	2	35	0	4098787	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	12	12	57	61	bn:00053318n	http://dbpedia.org/resource/March	http://babelnet.org/rdf/s00053318n	0.0	0.0	0.0	MCS
+185	23577	2	35	0	4098787	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	12	13	57	64	bn:01233351n	http://dbpedia.org/resource/March_15	http://babelnet.org/rdf/s01233351n	1.0	0.4	0.04411765	BABELFY
+185	23577	3	35	0	4098788	His train to New York was scheduled to leave the station at 10:30 .	1	1	4	8	bn:00066028n	http://dbpedia.org/resource/Train	http://babelnet.org/rdf/s00066028n	1.0	0.5	0.08	BABELFY
+185	23577	3	35	0	4098788	His train to New York was scheduled to leave the station at 10:30 .	4	4	17	20	bn:00045018n	http://dbpedia.org/resource/House_of_York	http://babelnet.org/rdf/s00045018n	0.0	0.0	0.0	MCS
+185	23577	3	35	0	4098788	His train to New York was scheduled to leave the station at 10:30 .	6	6	26	34	bn:00093336v		http://babelnet.org/rdf/s00093336v	0.0	0.0	0.0	MCS
+185	23577	3	35	0	4098788	His train to New York was scheduled to leave the station at 10:30 .	8	8	39	43	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23577	3	35	0	4098788	His train to New York was scheduled to leave the station at 10:30 .	10	10	49	55	bn:00074049n		http://babelnet.org/rdf/s00074049n	0.0	0.0	0.0	MCS
+185	23577	4	35	0	4098789	QN : Was John in Washington on March 15 ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	0.9375	0.75	0.1724138	BABELFY
+185	23577	4	35	0	4098789	QN : Was John in Washington on March 15 ?	7	7	31	35	bn:00053318n	http://dbpedia.org/resource/March	http://babelnet.org/rdf/s00053318n	0.0	0.0	0.0	MCS
+185	23577	4	35	0	4098789	QN : Was John in Washington on March 15 ?	7	8	31	38	bn:01233351n	http://dbpedia.org/resource/March_15	http://babelnet.org/rdf/s01233351n	1.0	0.5	0.06896552	BABELFY
+185	23577	1	36	0	4098790	ID:ATM11-5 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	36	0	4098791	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	4	4	16	22	bn:00074049n		http://babelnet.org/rdf/s00074049n	0.9	0.6	0.066176474	BABELFY
+185	23577	2	36	0	4098791	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	6	7	27	40	bn:00003365n	http://dbpedia.org/resource/Washington,_D.C.	http://babelnet.org/rdf/s00003365n	1.0	0.8	0.29411766	BABELFY
+185	23577	2	36	0	4098791	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	12	12	57	61	bn:00053318n	http://dbpedia.org/resource/March	http://babelnet.org/rdf/s00053318n	0.0	0.0	0.0	MCS
+185	23577	2	36	0	4098791	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	12	13	57	64	bn:01233351n	http://dbpedia.org/resource/March_15	http://babelnet.org/rdf/s01233351n	1.0	0.4	0.04411765	BABELFY
+185	23577	3	36	0	4098792	His train to New York was scheduled to leave the station at 10:30 .	1	1	4	8	bn:00066028n	http://dbpedia.org/resource/Train	http://babelnet.org/rdf/s00066028n	1.0	0.5	0.08	BABELFY
+185	23577	3	36	0	4098792	His train to New York was scheduled to leave the station at 10:30 .	4	4	17	20	bn:00045018n	http://dbpedia.org/resource/House_of_York	http://babelnet.org/rdf/s00045018n	0.0	0.0	0.0	MCS
+185	23577	3	36	0	4098792	His train to New York was scheduled to leave the station at 10:30 .	6	6	26	34	bn:00093336v		http://babelnet.org/rdf/s00093336v	0.0	0.0	0.0	MCS
+185	23577	3	36	0	4098792	His train to New York was scheduled to leave the station at 10:30 .	8	8	39	43	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23577	3	36	0	4098792	His train to New York was scheduled to leave the station at 10:30 .	10	10	49	55	bn:00074049n		http://babelnet.org/rdf/s00074049n	0.0	0.0	0.0	MCS
+185	23577	4	36	0	4098793	QN : Was John in New York on March 15th ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	0.96	0.6666667	0.0794702	BABELFY
+185	23577	4	36	0	4098793	QN : Was John in New York on March 15th ?	3	3	9	12	bn:00043009n	http://dbpedia.org/resource/Prostitution	http://babelnet.org/rdf/s00043009n	1.0	0.33333334	0.026490066	BABELFY
+185	23577	4	36	0	4098793	QN : Was John in New York on March 15th ?	5	6	17	24	bn:00041611n	http://dbpedia.org/resource/New_York_City	http://babelnet.org/rdf/s00041611n	0.7536232	1.0	0.51655626	BABELFY
+185	23577	4	36	0	4098793	QN : Was John in New York on March 15th ?	6	6	21	24	bn:00045018n	http://dbpedia.org/resource/House_of_York	http://babelnet.org/rdf/s00045018n	0.0	0.0	0.0	MCS
+185	23577	4	36	0	4098793	QN : Was John in New York on March 15th ?	8	8	29	33	bn:00053318n	http://dbpedia.org/resource/March	http://babelnet.org/rdf/s00053318n	0.0	0.0	0.0	MCS
+185	23577	4	36	0	4098793	QN : Was John in New York on March 15th ?	8	9	29	38	bn:01233351n	http://dbpedia.org/resource/March_15	http://babelnet.org/rdf/s01233351n	1.0	0.33333334	0.026490066	BABELFY
+185	23577	1	37	0	4098794	ID:ATM11-6 .	0	0	0	1	bn:00037612n	http://dbpedia.org/resource/Mush_Records	http://babelnet.org/rdf/s00037612n	0.0	0.0	0.0	MCS
+185	23577	2	37	0	4098795	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	4	4	16	22	bn:00074049n		http://babelnet.org/rdf/s00074049n	0.9	0.6	0.066176474	BABELFY
+185	23577	2	37	0	4098795	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	6	7	27	40	bn:00003365n	http://dbpedia.org/resource/Washington,_D.C.	http://babelnet.org/rdf/s00003365n	1.0	0.8	0.29411766	BABELFY
+185	23577	2	37	0	4098795	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	12	12	57	61	bn:00053318n	http://dbpedia.org/resource/March	http://babelnet.org/rdf/s00053318n	0.0	0.0	0.0	MCS
+185	23577	2	37	0	4098795	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	12	13	57	64	bn:01233351n	http://dbpedia.org/resource/March_15	http://babelnet.org/rdf/s01233351n	1.0	0.4	0.04411765	BABELFY
+185	23577	3	37	0	4098796	His train to New York was scheduled to leave the station at 10:30 .	1	1	4	8	bn:00066028n	http://dbpedia.org/resource/Train	http://babelnet.org/rdf/s00066028n	1.0	0.5	0.08	BABELFY
+185	23577	3	37	0	4098796	His train to New York was scheduled to leave the station at 10:30 .	4	4	17	20	bn:00045018n	http://dbpedia.org/resource/House_of_York	http://babelnet.org/rdf/s00045018n	0.0	0.0	0.0	MCS
+185	23577	3	37	0	4098796	His train to New York was scheduled to leave the station at 10:30 .	6	6	26	34	bn:00093336v		http://babelnet.org/rdf/s00093336v	0.0	0.0	0.0	MCS
+185	23577	3	37	0	4098796	His train to New York was scheduled to leave the station at 10:30 .	8	8	39	43	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS
+185	23577	3	37	0	4098796	His train to New York was scheduled to leave the station at 10:30 .	10	10	49	55	bn:00074049n		http://babelnet.org/rdf/s00074049n	0.0	0.0	0.0	MCS
+185	23577	4	37	0	4098797	QN : Was John in California on March 15th ?	2	2	5	7	bn:00032035n	http://dbpedia.org/resource/Washington_(state)	http://babelnet.org/rdf/s00032035n	0.9375	0.75	0.18987341	BABELFY
+185	23577	4	37	0	4098797	QN : Was John in California on March 15th ?	5	5	17	26	bn:00014403n	http://dbpedia.org/resource/California	http://babelnet.org/rdf/s00014403n	0.9142857	1.0	0.4050633	BABELFY
+185	23577	4	37	0	4098797	QN : Was John in California on March 15th ?	7	7	31	35	bn:00053318n	http://dbpedia.org/resource/March	http://babelnet.org/rdf/s00053318n	0.0	0.0	0.0	MCS
+185	23577	4	37	0	4098797	QN : Was John in California on March 15th ?	7	8	31	40	bn:01233351n	http://dbpedia.org/resource/March_15	http://babelnet.org/rdf/s01233351n	1.0	0.5	0.07594936	BABELFY

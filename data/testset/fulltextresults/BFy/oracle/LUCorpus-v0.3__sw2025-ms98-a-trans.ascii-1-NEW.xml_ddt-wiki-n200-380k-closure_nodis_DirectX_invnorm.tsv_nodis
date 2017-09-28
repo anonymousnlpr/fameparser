@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__sw2025-ms98-a-trans.ascii-1-NEW.xml
+docAnnotations	469
+docManual	356
+docUnannotated	113
+sentences	107
+paragraphs	57
+Overlapping	225
+Disambiguated	189
+TP	141
+TN	113
+FP	0
+FN	167
+P	1.0
+R	0.4577922077922078
+F	0.6280623608017817
+A	0.6033254156769596

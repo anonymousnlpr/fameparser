@@ -1,0 +1,16 @@
+filename	KBEval__Brandeis.xml
+docAnnotations	171
+docManual	39
+docUnannotated	132
+sentences	126
+paragraphs	42
+Overlapping	31
+Disambiguated	22
+TP	13
+TN	132
+FP	0
+FN	17
+P	1.0
+R	0.43333333333333335
+F	0.6046511627906976
+A	0.8950617283950617

@@ -1,0 +1,16 @@
+filename	NTI__Iran_Introduction.xml
+docAnnotations	511
+docManual	435
+docUnannotated	76
+sentences	62
+paragraphs	20
+Overlapping	414
+Disambiguated	342
+TP	234
+TN	76
+FP	0
+FN	93
+P	1.0
+R	0.7155963302752294
+F	0.8342245989304813
+A	0.7692307692307693

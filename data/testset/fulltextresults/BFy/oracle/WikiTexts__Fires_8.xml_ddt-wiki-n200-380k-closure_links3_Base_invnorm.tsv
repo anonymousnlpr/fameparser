@@ -1,0 +1,446 @@
+SILVER:246	25623	1	1	0	4165560	Greece wildfires force thousands to evacuate	17614	wildfire.n	2835	Emergency_fire	MANUAL	6670860	7	15	WMcQ	wildfires
+LINKED:[1	1	7	15	bn:00081216n	http://dbpedia.org/resource/Wildfire	http://babelnet.org/rdf/s00081216n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 11637 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	1	0	4165560	Greece wildfires force thousands to evacuate	15112	force.v	5	Causation	MANUAL	6670861	17	21	WMcQ	force
+LINKED:[2	2	17	21	bn:00088459v		http://babelnet.org/rdf/s00088459v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11638 ===
+	Manipulation: 0.26153846153846155
+	Cause_motion: 0.2153846153846154
+	Ingest_substance: 0.09230769230769231
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	1	0	4165560	Greece wildfires force thousands to evacuate	5009	evacuate.v	273	Escaping	MANUAL	6670862	36	43	WMcQ	evacuate
+LINKED:[5	5	36	43	bn:00087757v		http://babelnet.org/rdf/s00087757v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11639 ===
+	Escaping: 0.07142857142857142
+
+SELECTED:[Escaping]
+MATCH!
+SILVER:246	25623	1	3	0	4165561	Thousands of people in Greece have been forced to evacuate their homes after major wildfires continued for their third day in the suburbs outside of Athens .	3328	thousands.n	189	Quantified_mass	MANUAL	6670863	0	8	WMcQ	Thousands
+LINKED:[0	0	0	8	bn:00000010n	http://dbpedia.org/resource/1000_(number)	http://babelnet.org/rdf/s00000010n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11640 ===
+	Cardinal_numbers: 0.03230769230769231
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	3	0	4165561	Thousands of people in Greece have been forced to evacuate their homes after major wildfires continued for their third day in the suburbs outside of Athens .	15112	force.v	5	Causation	MANUAL	6670864	40	45	WMcQ	forced
+LINKED:[7	7	40	45	bn:00088459v		http://babelnet.org/rdf/s00088459v	1.0	0.1	0.014367816	BABELFY]
+RANK:=== COUNTER  Counter 11641 ===
+	Manipulation: 0.26153846153846155
+	Cause_motion: 0.2153846153846154
+	Ingest_substance: 0.09230769230769231
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	3	0	4165561	Thousands of people in Greece have been forced to evacuate their homes after major wildfires continued for their third day in the suburbs outside of Athens .	5009	evacuate.v	273	Escaping	MANUAL	6670865	50	57	WMcQ	evacuate
+LINKED:[9	9	50	57	bn:00087757v		http://babelnet.org/rdf/s00087757v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11642 ===
+	Escaping: 0.07142857142857142
+
+SELECTED:[Escaping]
+MATCH!
+SILVER:246	25623	1	3	0	4165561	Thousands of people in Greece have been forced to evacuate their homes after major wildfires continued for their third day in the suburbs outside of Athens .	3012	home.n	173	Buildings	MANUAL	6670866	65	69	WMcQ	homes
+LINKED:[11	11	65	69	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11643 ===
+	Buildings: 0.07304347826086957
+	Foreign_or_domestic_country: 0.0052173913043478265
+	Surpassing: 0.0052173913043478265
+	Left_to_do: 0.0026086956521739132
+	State_continue: 0.0017391304347826088
+	Expected_location_of_person: 4.347826086956522E-4
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:246	25623	1	3	0	4165561	Thousands of people in Greece have been forced to evacuate their homes after major wildfires continued for their third day in the suburbs outside of Athens .	5511	people.n	304	People	MANUAL	6670867	13	18	WMcQ	people
+LINKED:[2	2	13	18	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11644 ===
+	People: 0.02830188679245283
+
+SELECTED:[People]
+MATCH!
+SILVER:246	25623	1	3	0	4165561	Thousands of people in Greece have been forced to evacuate their homes after major wildfires continued for their third day in the suburbs outside of Athens .	17614	wildfire.n	2835	Emergency_fire	MANUAL	6670868	83	91	WMcQ	wildfires
+LINKED:[14	14	83	91	bn:00081216n	http://dbpedia.org/resource/Wildfire	http://babelnet.org/rdf/s00081216n	1.0	0.2	0.011494253	BABELFY]
+RANK:=== COUNTER  Counter 11645 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	3	0	4165561	Thousands of people in Greece have been forced to evacuate their homes after major wildfires continued for their third day in the suburbs outside of Athens .	12252	major.a	407	Importance	MANUAL	6670869	77	81	WMcQ	major
+LINKED:[13	13	77	81	bn:00106332a		http://babelnet.org/rdf/s00106332a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11646 ===
+	Importance: 0.13636363636363635
+
+SELECTED:[Importance]
+MATCH!
+SILVER:246	25623	1	3	0	4165561	Thousands of people in Greece have been forced to evacuate their homes after major wildfires continued for their third day in the suburbs outside of Athens .	2799	continue.v	145	Process_continue	MANUAL	6670870	93	101	WMcQ	continued
+LINKED:[15	15	93	101	bn:00085714v		http://babelnet.org/rdf/s00085714v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11647 ===
+	Activity_ongoing: 0.02666666666666667
+	Process_continue: 0.02
+
+SELECTED:[Process_continue]
+MATCH!
+SILVER:246	25623	1	3	0	4165561	Thousands of people in Greece have been forced to evacuate their homes after major wildfires continued for their third day in the suburbs outside of Athens .	16915	day.n	2141	Location_in_time	MANUAL	6670873	119	121	WMcQ	day
+LINKED:[19	19	119	121	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	1.0	0.2	0.011494253	BABELFY]
+RANK:=== COUNTER  Counter 11648 ===
+	Calendric_unit: 0.03375
+	Measure_duration: 0.008125
+	Timespan: 0.003125
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	4	0	4165562	10,000 people were evacuated out of one town , Agios Stefanos , located 23 kilometres from downtown Athens , after the flames headed for the area .	5511	people.n	304	People	MANUAL	6670874	7	12	WMcQ	people
+LINKED:[1	1	7	12	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11649 ===
+	People: 0.02830188679245283
+
+SELECTED:[People]
+MATCH!
+SILVER:246	25623	1	4	0	4165562	10,000 people were evacuated out of one town , Agios Stefanos , located 23 kilometres from downtown Athens , after the flames headed for the area .	1129	evacuate.v	63	Removing	MANUAL	6670875	19	27	WMcQ	evacuated
+LINKED:[3	3	19	27	bn:00087757v		http://babelnet.org/rdf/s00087757v	1.0	0.09090909	0.002754821	BABELFY]
+RANK:=== COUNTER  Counter 11650 ===
+	Escaping: 0.07142857142857142
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	4	0	4165562	10,000 people were evacuated out of one town , Agios Stefanos , located 23 kilometres from downtown Athens , after the flames headed for the area .	3691	town.n	195	Political_locales	MANUAL	6670876	40	43	WMcQ	town
+LINKED:[7	7	40	43	bn:00077773n	http://dbpedia.org/resource/Town	http://babelnet.org/rdf/s00077773n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11651 ===
+	Political_locales: 0.07173913043478261
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:246	25623	1	4	0	4165562	10,000 people were evacuated out of one town , Agios Stefanos , located 23 kilometres from downtown Athens , after the flames headed for the area .	17483	flames.n	2824	Fire_burning	MANUAL	6670877	119	124	WMcQ	flames
+LINKED:[21	21	119	124	bn:00034625n	http://dbpedia.org/resource/Fire	http://babelnet.org/rdf/s00034625n	0.8	0.18181819	0.011019284	BABELFY]
+RANK:=== COUNTER  Counter 11652 ===
+	Setting_fire: 0.005747126436781609
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	4	0	4165562	10,000 people were evacuated out of one town , Agios Stefanos , located 23 kilometres from downtown Athens , after the flames headed for the area .	6387	head.v	64	Self_motion	MANUAL	6670878	126	131	WMcQ	headed
+LINKED:[22	22	126	131	bn:00089259v		http://babelnet.org/rdf/s00089259v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11653 ===
+	Self_motion: 2.16
+
+SELECTED:[Self_motion]
+MATCH!
+SILVER:246	25623	2	4	0	4165563	All residents were ordered to take the main highway to Athens .	2214	resident.n	110	Residence	MANUAL	6670879	4	12	WMcQ	residents
+LINKED:[1	1	4	12	bn:00045024n	http://dbpedia.org/resource/Pre-registration_house_officer	http://babelnet.org/rdf/s00045024n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11654 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	2	4	0	4165563	All residents were ordered to take the main highway to Athens .	650	order.v	41	Request	MANUAL	6670881	19	25	WMcQ	ordered
+LINKED:[3	3	19	25	bn:00087644v		http://babelnet.org/rdf/s00087644v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11655 ===
+	Request: 0.0875
+	Sentencing: 0.0125
+
+SELECTED:[Request]
+MATCH!
+SILVER:246	25623	2	4	0	4165563	All residents were ordered to take the main highway to Athens .	3778	highway.n	203	Roadways	MANUAL	6670883	44	50	WMcQ	highway
+LINKED:[8	8	44	50	bn:00044128n	http://dbpedia.org/resource/Highway	http://babelnet.org/rdf/s00044128n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11656 ===
+	Roadways: 0.0453125
+
+SELECTED:[Roadways]
+MATCH!
+SILVER:246	25623	1	5	0	4165564	The deputy mayor of the town , Panayiotis Bitakos , told Skai TV that `` I call on all residents to follow the instructions of the police as to where they will go .	1594	mayor.n	73	Leadership	MANUAL	6670884	11	15	WMcQ	mayor
+LINKED:[2	2	11	15	bn:00019333n	http://dbpedia.org/resource/Mayor	http://babelnet.org/rdf/s00019333n	0.96428573	0.25	0.103053436	BABELFY]
+RANK:=== COUNTER  Counter 11657 ===
+	Leadership: 0.07525773195876288
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:246	25623	1	5	0	4165564	The deputy mayor of the town , Panayiotis Bitakos , told Skai TV that `` I call on all residents to follow the instructions of the police as to where they will go .	3691	town.n	195	Political_locales	MANUAL	6670885	24	27	WMcQ	town
+LINKED:[5	5	24	27	bn:00077773n	http://dbpedia.org/resource/Town	http://babelnet.org/rdf/s00077773n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11658 ===
+	Political_locales: 0.07173913043478261
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:246	25623	1	5	0	4165564	The deputy mayor of the town , Panayiotis Bitakos , told Skai TV that `` I call on all residents to follow the instructions of the police as to where they will go .	15385	tell.v	43	Statement	MANUAL	6670886	52	55	WMcQ	told
+LINKED:[10	10	52	55	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11659 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.05
+	Becoming_aware: 0.05
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25623	1	5	0	4165564	The deputy mayor of the town , Panayiotis Bitakos , told Skai TV that `` I call on all residents to follow the instructions of the police as to where they will go .	14693	call.n	41	Request	MANUAL	6670887	75	78	WMcQ	call
+LINKED:[16	16	75	78	bn:00084389v		http://babelnet.org/rdf/s00084389v	1.0	0.16666667	0.022900764	BABELFY]
+RANK:=== COUNTER  Counter 11660 ===
+	Request: 0.13125
+
+SELECTED:[Request]
+MATCH!
+SILVER:246	25623	1	5	0	4165564	The deputy mayor of the town , Panayiotis Bitakos , told Skai TV that `` I call on all residents to follow the instructions of the police as to where they will go .	2214	resident.n	110	Residence	MANUAL	6670889	87	95	WMcQ	residents
+LINKED:[19	19	87	95	bn:00058564n		http://babelnet.org/rdf/s00058564n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11661 ===
+	Residence: 0.06666666666666667
+
+SELECTED:[Residence]
+MATCH!
+SILVER:246	25623	1	5	0	4165564	The deputy mayor of the town , Panayiotis Bitakos , told Skai TV that `` I call on all residents to follow the instructions of the police as to where they will go .	2337	follow.v	117	Compliance	MANUAL	6670890	100	105	WMcQ	follow
+LINKED:[21	21	100	105	bn:00088421v		http://babelnet.org/rdf/s00088421v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11662 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	5	0	4165564	The deputy mayor of the town , Panayiotis Bitakos , told Skai TV that `` I call on all residents to follow the instructions of the police as to where they will go .	16626	police.n	2656	Law_enforcement_agency	MANUAL	6670898	131	136	WMcQ	police
+LINKED:[26	26	131	136	bn:00022026n	http://dbpedia.org/resource/Constabulary	http://babelnet.org/rdf/s00022026n	0.91525424	0.5	0.20610687	BABELFY]
+RANK:=== COUNTER  Counter 11663 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	2	5	0	4165565	We had been begging the authorities since early in the morning to send forces [ ... ] It is too late now .	640	beg.v	41	Request	MANUAL	6670899	12	18	WMcQ	begging
+LINKED:[3	3	12	18	bn:00083331v		http://babelnet.org/rdf/s00083331v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11664 ===
+	Request: 0.175
+
+SELECTED:[Request]
+MATCH!
+SILVER:246	25623	2	5	0	4165565	We had been begging the authorities since early in the morning to send forces [ ... ] It is too late now .	11420	authority.n	73	Leadership	MANUAL	6671028	24	34	WMcQ	authorities
+LINKED:[5	5	24	34	bn:00007293n	http://dbpedia.org/resource/Authorization	http://babelnet.org/rdf/s00007293n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11665 ===
+	Leadership: 0.15208333333333332
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:246	25623	2	5	0	4165565	We had been begging the authorities since early in the morning to send forces [ ... ] It is too late now .	1747	early.a	81	Relative_time	MANUAL	6671031	42	46	WMcQ	early
+LINKED:[7	7	42	46	bn:00101935a		http://babelnet.org/rdf/s00101935a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11666 ===
+	Relative_time: 0.07948717948717948
+	Temporal_collocation: 0.0641025641025641
+	Temporal_subregion: 0.020512820512820513
+
+SELECTED:[Relative_time]
+MATCH!
+SILVER:246	25623	2	5	0	4165565	We had been begging the authorities since early in the morning to send forces [ ... ] It is too late now .	4491	send.v	243	Sending	MANUAL	6671032	66	69	WMcQ	send
+LINKED:[12	12	66	69	bn:00093485v		http://babelnet.org/rdf/s00093485v	1.0	0.25	0.020833334	BABELFY]
+RANK:=== COUNTER  Counter 11667 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	6	0	4165567	Athens Prefect Yannis Sgouras told state NET TV that strong winds helped strengthen the fires , and caused extra difficulties for the firefighters trying to put out the blaze .	15385	tell.v	43	Statement	MANUAL	6671033	30	33	WMcQ	told
+LINKED:[4	4	30	33	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11668 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.05
+	Becoming_aware: 0.05
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25623	1	6	0	4165567	Athens Prefect Yannis Sgouras told state NET TV that strong winds helped strengthen the fires , and caused extra difficulties for the firefighters trying to put out the blaze .	7041	help.v	391	Assistance	MANUAL	6671035	66	71	WMcQ	helped
+LINKED:[11	11	66	71	bn:00082481v		http://babelnet.org/rdf/s00082481v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11669 ===
+	Assistance: 0.0391304347826087
+
+SELECTED:[Assistance]
+MATCH!
+SILVER:246	25623	1	6	0	4165567	Athens Prefect Yannis Sgouras told state NET TV that strong winds helped strengthen the fires , and caused extra difficulties for the firefighters trying to put out the blaze .	17455	fire.n	2824	Fire_burning	MANUAL	6671139	88	92	WMcQ	fires
+LINKED:[14	14	88	92	bn:00034623n		http://babelnet.org/rdf/s00034623n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11670 ===
+	Event: 0.11
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	6	0	4165567	Athens Prefect Yannis Sgouras told state NET TV that strong winds helped strengthen the fires , and caused extra difficulties for the firefighters trying to put out the blaze .	17274	difficulty.n	375	Difficulty	MANUAL	6671140	113	124	WMcQ	difficulties
+LINKED:[19	19	113	124	bn:00027041n		http://babelnet.org/rdf/s00027041n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11671 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	2	6	0	4165568	He said that approximately 120 square kilometres have been burned so far .	751	say.v	43	Statement	MANUAL	6671141	3	6	WMcQ	said
+LINKED:[1	1	3	6	bn:00093287v		http://babelnet.org/rdf/s00093287v	1.0	0.25	0.09090909	BABELFY]
+RANK:=== COUNTER  Counter 11672 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.05
+	Becoming_aware: 0.05
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25623	2	6	0	4165568	He said that approximately 120 square kilometres have been burned so far .	14277	approximately.adv	1923	Proportional_quantity	MANUAL	6671142	13	25	WMcQ	approximately
+LINKED:[3	3	13	25	bn:00114073r		http://babelnet.org/rdf/s00114073r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11673 ===
+	Degree: 0.040740740740740744
+	Relational_quantity: 0.013580246913580247
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	2	6	0	4165568	He said that approximately 120 square kilometres have been burned so far .	17450	burn.v	2824	Fire_burning	MANUAL	6671143	59	64	WMcQ	burned
+LINKED:[9	9	59	64	bn:00084270v		http://babelnet.org/rdf/s00084270v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11674 ===
+	Experience_bodily_harm: 0.2375
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	7	0	4165569	'' More than 120,000 stremmas [ 30,000 acres ] have been burnt .	2858	acre.n	156	Measure_area	MANUAL	6671144	39	43	WMcQ	acres
+LINKED:[6	6	39	43	bn:00001014n	http://dbpedia.org/resource/Acre	http://babelnet.org/rdf/s00001014n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 11675 ===
+	Measure_area: 0.004166666666666667
+
+SELECTED:[Measure_area]
+MATCH!
+SILVER:246	25623	1	7	0	4165569	'' More than 120,000 stremmas [ 30,000 acres ] have been burnt .	17450	burn.v	2824	Fire_burning	MANUAL	6671145	57	61	WMcQ	burnt
+LINKED:[10	10	57	61	bn:00084270v		http://babelnet.org/rdf/s00084270v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11676 ===
+	Experience_bodily_harm: 0.2375
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	2	7	0	4165570	It is an ecological disaster , '' he said .	2302	disaster.n	115	Catastrophe	MANUAL	6671146	20	27	WMcQ	disaster
+LINKED:[4	4	20	27	bn:00014640n	http://dbpedia.org/resource/Disaster	http://babelnet.org/rdf/s00014640n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 11677 ===
+	Catastrophe: 0.0035211267605633804
+
+SELECTED:[Catastrophe]
+MATCH!
+SILVER:246	25623	2	7	0	4165570	It is an ecological disaster , '' he said .	751	say.v	43	Statement	MANUAL	6671383	37	40	WMcQ	said
+LINKED:[7	7	37	40	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11678 ===
+	Statement: 0.2708333333333333
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.05
+	Becoming_aware: 0.05
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25623	1	8	0	4165571	In a televised speech on NET , the fire department spokesman Ioannis Kapakis stated that `` the strength of the winds has increased and the situation remains particularly difficult . ”	4630	speech.n	6	Communication	MANUAL	6671385	15	20	WMcQ	speech
+LINKED:[3	3	15	20	bn:00049911n	http://dbpedia.org/resource/Spoken_language	http://babelnet.org/rdf/s00049911n	0.8333333	0.41666666	0.102564104	BABELFY]
+RANK:=== COUNTER  Counter 11679 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	8	0	4165571	In a televised speech on NET , the fire department spokesman Ioannis Kapakis stated that `` the strength of the winds has increased and the situation remains particularly difficult . ”	753	state.v	43	Statement	MANUAL	6671386	77	82	WMcQ	stated
+LINKED:[13	13	77	82	bn:00091870v		http://babelnet.org/rdf/s00091870v	1.0	0.16666667	0.010256411	BABELFY]
+RANK:=== COUNTER  Counter 11680 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	8	0	4165571	In a televised speech on NET , the fire department spokesman Ioannis Kapakis stated that `` the strength of the winds has increased and the situation remains particularly difficult . ”	16743	spokesman.n	2678	Representative	MANUAL	6671408	51	59	WMcQ	spokesman
+LINKED:[10	10	51	59	bn:00047203n	http://dbpedia.org/resource/Spokesperson	http://babelnet.org/rdf/s00047203n	0.8	0.16666667	0.010256411	BABELFY]
+RANK:=== COUNTER  Counter 11681 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	8	0	4165571	In a televised speech on NET , the fire department spokesman Ioannis Kapakis stated that `` the strength of the winds has increased and the situation remains particularly difficult . ”	18264	strength.n	1563	Level_of_force_exertion	MANUAL	6671411	96	103	WMcQ	strength
+LINKED:[17	17	96	103	bn:00074615n		http://babelnet.org/rdf/s00074615n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11682 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	8	0	4165571	In a televised speech on NET , the fire department spokesman Ioannis Kapakis stated that `` the strength of the winds has increased and the situation remains particularly difficult . ”	1870	increase.v	91	Change_position_on_a_scale	MANUAL	6671413	122	130	WMcQ	increased
+LINKED:[22	22	122	130	bn:00089666v		http://babelnet.org/rdf/s00089666v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11683 ===
+	Change_position_on_a_scale: 0.92
+
+SELECTED:[Change_position_on_a_scale]
+MATCH!
+SILVER:246	25623	1	8	0	4165571	In a televised speech on NET , the fire department spokesman Ioannis Kapakis stated that `` the strength of the winds has increased and the situation remains particularly difficult . ”	10695	remain.v	1155	State_continue	MANUAL	6671416	150	156	WMcQ	remains
+LINKED:[26	26	150	156	bn:00092756v		http://babelnet.org/rdf/s00092756v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11684 ===
+	Temporary_stay: 0.017948717948717947
+	Existence: 0.01282051282051282
+	Left_to_do: 0.007692307692307693
+	State_continue: 0.005128205128205128
+
+SELECTED:[State_continue]
+MATCH!
+SILVER:246	25623	1	9	0	4165572	In total , 83 major fires were reported across Greece from 06.00 yesterday to 18.00 today .	17455	fire.n	2824	Fire_burning	MANUAL	6671417	20	24	WMcQ	fires
+LINKED:[5	5	20	24	bn:00034623n		http://babelnet.org/rdf/s00034623n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11685 ===
+	Event: 0.11
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	9	0	4165572	In total , 83 major fires were reported across Greece from 06.00 yesterday to 18.00 today .	7937	report.v	483	Reporting	MANUAL	6671418	31	38	WMcQ	reported
+LINKED:[7	7	31	38	bn:00092823v		http://babelnet.org/rdf/s00092823v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11686 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	10	0	4165573	No casualties have yet been reported , and no official property damage tally has yet been made , although Greek media have estimated tens of homes to have been damaged .	748	report.v	43	Statement	MANUAL	6671424	28	35	WMcQ	reported
+LINKED:[5	5	28	35	bn:00082233v		http://babelnet.org/rdf/s00082233v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11687 ===
+	Statement: 0.23214285714285715
+	Reporting: 0.039285714285714285
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25623	1	10	0	4165573	No casualties have yet been reported , and no official property damage tally has yet been made , although Greek media have estimated tens of homes to have been damaged .	11102	tally.n	602	Amounting_to	MANUAL	6671428	71	75	WMcQ	tally
+LINKED:[12	12	71	75	bn:00023140n	http://dbpedia.org/resource/Numeral_system	http://babelnet.org/rdf/s00023140n	0.969697	0.4	0.15023474	BABELFY]
+RANK:=== COUNTER  Counter 11688 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	10	0	4165573	No casualties have yet been reported , and no official property damage tally has yet been made , although Greek media have estimated tens of homes to have been damaged .	12288	estimate.v	1513	Estimating	MANUAL	6671434	123	131	WMcQ	estimated
+LINKED:[22	22	123	131	bn:00082743v		http://babelnet.org/rdf/s00082743v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11689 ===
+	Estimating: 0.015
+
+SELECTED:[Estimating]
+MATCH!
+SILVER:246	25623	1	10	0	4165573	No casualties have yet been reported , and no official property damage tally has yet been made , although Greek media have estimated tens of homes to have been damaged .	14650	damage.n	415	Damaging	MANUAL	6671443	64	69	WMcQ	damage
+LINKED:[11	11	64	69	bn:00025080n		http://babelnet.org/rdf/s00025080n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11690 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	10	0	4165573	No casualties have yet been reported , and no official property damage tally has yet been made , although Greek media have estimated tens of homes to have been damaged .	7594	damage.v	415	Damaging	MANUAL	6671444	160	166	WMcQ	damaged
+LINKED:[29	29	160	166	bn:00086261v		http://babelnet.org/rdf/s00086261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11691 ===
+	Damaging: 0.08823529411764706
+
+SELECTED:[Damaging]
+MATCH!
+SILVER:246	25623	1	11	0	4165574	The fires are the worst in Greece since 2007 , when heavy wildfires killed 77 people .	17455	fire.n	2824	Fire_burning	MANUAL	6671445	4	8	WMcQ	fires
+LINKED:[1	1	4	8	bn:00034625n	http://dbpedia.org/resource/Fire	http://babelnet.org/rdf/s00034625n	0.7894737	0.6	0.22727273	BABELFY]
+RANK:=== COUNTER  Counter 11692 ===
+	Setting_fire: 0.005747126436781609
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	11	0	4165574	The fires are the worst in Greece since 2007 , when heavy wildfires killed 77 people .	17614	wildfire.n	2835	Emergency_fire	MANUAL	6671446	58	66	WMcQ	wildfires
+LINKED:[12	12	58	66	bn:00081216n	http://dbpedia.org/resource/Wildfire	http://babelnet.org/rdf/s00081216n	0.8888889	0.4	0.121212125	BABELFY]
+RANK:=== COUNTER  Counter 11693 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25623	1	11	0	4165574	The fires are the worst in Greece since 2007 , when heavy wildfires killed 77 people .	8630	kill.v	590	Killing	MANUAL	6671447	68	73	WMcQ	killed
+LINKED:[13	13	68	73	bn:00090104v		http://babelnet.org/rdf/s00090104v	1.0	0.2	0.015151516	BABELFY]
+RANK:=== COUNTER  Counter 11694 ===
+
+SELECTED:[]
+WRONG!
+filename	WikiTexts__Fires_8.xml
+docAnnotations	77
+docManual	62
+docUnannotated	15
+sentences	15
+paragraphs	10
+Overlapping	58
+Disambiguated	42
+TP	30
+TN	15
+FP	0
+FN	20
+P	1.0
+R	0.6
+F	0.7499999999999999
+A	0.6923076923076923

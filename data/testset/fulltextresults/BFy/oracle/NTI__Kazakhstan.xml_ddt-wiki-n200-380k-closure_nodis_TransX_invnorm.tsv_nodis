@@ -1,0 +1,16 @@
+filename	NTI__Kazakhstan.xml
+docAnnotations	193
+docManual	160
+docUnannotated	33
+sentences	29
+paragraphs	11
+Overlapping	136
+Disambiguated	123
+TP	81
+TN	33
+FP	0
+FN	37
+P	1.0
+R	0.6864406779661016
+F	0.8140703517587939
+A	0.7549668874172185

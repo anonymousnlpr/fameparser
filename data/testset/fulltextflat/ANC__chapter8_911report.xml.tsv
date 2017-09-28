@@ -1,0 +1,1286 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+195	25397	1	2	0	4154255	'' THE SYSTEM WAS BLINKING RED&quot;	null	null	null	null	UNANN	6653358	null	null	null	null
+195	25397	1	3	0	4154256	THE SUMMER OF THREAT	null	null	null	null	UNANN	6653359	null	null	null	null
+195	25397	1	4	0	4154257	As 2001 began , counterterrorism officials were receiving frequent but fragmentary	null	null	null	null	UNANN	6653360	null	null	null	null
+195	25397	1	5	0	4154258	reports about threats .	null	null	null	null	UNANN	6653361	null	null	null	null
+195	25397	2	5	0	4154259	Indeed , there appeared to be possible threats almost	null	null	null	null	UNANN	6653362	null	null	null	null
+195	25397	1	6	0	4154260	everywhere the United States had interests-including at home .	null	null	null	null	UNANN	6653363	null	null	null	null
+195	25397	1	7	0	4154261	To understand how the escalation in threat reporting was handled in the summer of	null	null	null	null	UNANN	6653364	null	null	null	null
+195	25397	1	8	0	4154262	2001 , it is useful to understand how threat information in general is collected and	null	null	null	null	UNANN	6653365	null	null	null	null
+195	25397	1	9	0	4154263	conveyed .	null	null	null	null	UNANN	6653366	null	null	null	null
+195	25397	2	9	0	4154264	Information is collected through several methods , including signals	null	null	null	null	UNANN	6653367	null	null	null	null
+195	25397	1	10	0	4154265	intelligence and interviews of human sources , and gathered into intelligence	null	null	null	null	UNANN	6653368	null	null	null	null
+195	25397	1	11	0	4154266	reports .	null	null	null	null	UNANN	6653369	null	null	null	null
+195	25397	2	11	0	4154267	Depending on the source and nature of the reporting , these reports may be	null	null	null	null	UNANN	6653370	null	null	null	null
+195	25397	1	12	0	4154268	highly classified-and therefore tightly held-or less sensitive and widely	null	null	null	null	UNANN	6653371	null	null	null	null
+195	25397	1	13	0	4154269	disseminated to state and local law enforcement agencies .	null	null	null	null	UNANN	6653372	null	null	null	null
+195	25397	2	13	0	4154270	Threat reporting must be	null	null	null	null	UNANN	6653373	null	null	null	null
+195	25397	1	14	0	4154271	disseminated , either through individual reports or through threat advisories .	null	null	null	null	UNANN	6653374	null	null	null	null
+195	25397	2	14	0	4154272	Such	null	null	null	null	UNANN	6653375	null	null	null	null
+195	25397	1	15	0	4154273	advisories , intended to alert their recipients , may address a specific threat or be	null	null	null	null	UNANN	6653376	null	null	null	null
+195	25397	1	16	0	4154274	a general warning .	null	null	null	null	UNANN	6653377	null	null	null	null
+195	25397	1	17	0	4154275	Because the amount of reporting is so voluminous , only a select fraction can be	null	null	null	null	UNANN	6653378	null	null	null	null
+195	25397	1	18	0	4154276	chosen for briefing the president and senior officials .	null	null	null	null	UNANN	6653379	null	null	null	null
+195	25397	2	18	0	4154277	During 2001 , Director of	null	null	null	null	UNANN	6653380	null	null	null	null
+195	25397	1	19	0	4154278	Central Intelligence GeorgeTenet was briefed regularly regarding threats and other	null	null	null	null	UNANN	6653381	null	null	null	null
+195	25397	1	20	0	4154279	operational information relating to Usama Bin Ladin .	null	null	null	null	UNANN	6653382	null	null	null	null
+195	25397	1	22	0	4154280	He in turn met daily with President Bush , who was briefed by the CIA through what is	null	null	null	null	UNANN	6653383	null	null	null	null
+195	25397	1	23	0	4154281	known as the President 's Daily Brief ( PDB ) .	null	null	null	null	UNANN	6653384	null	null	null	null
+195	25397	2	23	0	4154282	Each PDB consists of a series of six to	null	null	null	null	UNANN	6653385	null	null	null	null
+195	25397	1	24	0	4154283	eight relatively short articles or briefs covering a broad array of topics ; CIA	null	null	null	null	UNANN	6653386	null	null	null	null
+195	25397	1	25	0	4154284	staff decides which subjects are the most important on any given day .	null	null	null	null	UNANN	6653387	null	null	null	null
+195	25397	2	25	0	4154285	There were	null	null	null	null	UNANN	6653388	null	null	null	null
+195	25397	1	26	0	4154286	more than 40 intelligence articles in the PDBs from January 20 to September 10 ,	null	null	null	null	UNANN	6653389	null	null	null	null
+195	25397	1	27	0	4154287	2001 , that related to Bin Ladin .	null	null	null	null	UNANN	6653390	null	null	null	null
+195	25397	2	27	0	4154288	The PDB is considered highly sensitive and is	null	null	null	null	UNANN	6653391	null	null	null	null
+195	25397	1	28	0	4154289	distributed to only a handful of high-level officials .	null	null	null	null	UNANN	6653392	null	null	null	null
+195	25397	1	30	0	4154290	The Senior Executive Intelligence Brief ( SEIB ) , distributed to a broader group of	null	null	null	null	UNANN	6653393	null	null	null	null
+195	25397	1	31	0	4154291	officials , has a similar format and generally covers the same subjects as the PDB .	null	null	null	null	UNANN	6653394	null	null	null	null
+195	25397	1	32	0	4154292	It usually contains less information so as to protect sources and methods .	null	null	null	null	UNANN	6653395	null	null	null	null
+195	25397	2	32	0	4154293	Like	null	null	null	null	UNANN	6653396	null	null	null	null
+195	25397	1	33	0	4154294	their predecessors , the Attorney General , the FBI Director , and Richard Clarke , the	null	null	null	null	UNANN	6653397	null	null	null	null
+195	25397	1	34	0	4154295	National Security Council ( NSC ) counterterrorism coordinator , all received the SEIB ,	null	null	null	null	UNANN	6653398	null	null	null	null
+195	25397	1	35	0	4154296	not the PDB .	null	null	null	null	UNANN	6653399	null	null	null	null
+195	25397	1	37	0	4154297	Clarke and his staff had extensive access to terrorism reporting , but they did not	null	null	null	null	UNANN	6653400	null	null	null	null
+195	25397	1	38	0	4154298	have access to internal , nondisseminated information at the National Security Agency	null	null	null	null	UNANN	6653401	null	null	null	null
+195	25397	1	39	0	4154299	( NSA ) , CIA , or FBI .	null	null	null	null	UNANN	6653402	null	null	null	null
+195	25397	2	39	0	4154300	The Drumbeat Begins In the spring of 2001 , the level of	null	null	null	null	UNANN	6653403	null	null	null	null
+195	25397	1	40	0	4154301	reporting on terrorist threats and planned attacks increased dramatically to its	null	null	null	null	UNANN	6653404	null	null	null	null
+195	25397	1	41	0	4154302	highest level since the millennium alert .	null	null	null	null	UNANN	6653405	null	null	null	null
+195	25397	2	41	0	4154303	At the end of March , the intelligence	null	null	null	null	UNANN	6653406	null	null	null	null
+195	25397	1	42	0	4154304	community disseminated a terrorist threat advisory , indicating a heightened threat	null	null	null	null	UNANN	6653407	null	null	null	null
+195	25397	1	43	0	4154305	of Sunni extremist terrorist attacks against U.S. facilities , personnel , and other	null	null	null	null	UNANN	6653408	null	null	null	null
+195	25397	1	44	0	4154306	interests .	null	null	null	null	UNANN	6653409	null	null	null	null
+195	25397	1	46	0	4154307	On March 23 , in connection with discussions about possibly reopening Pennsylvania	null	null	null	null	UNANN	6653410	null	null	null	null
+195	25397	1	47	0	4154308	Avenue in front of the White House , Clarke warned National Security Advisor	null	null	null	null	UNANN	6653411	null	null	null	null
+195	25397	1	48	0	4154309	Condoleezza Rice that domestic or foreign terrorists might use a truck bomb-their	null	null	null	null	UNANN	6653412	null	null	null	null
+195	25397	1	49	0	4154310	'' weapon of choice '' -on Pennsylvania Avenue .	null	null	null	null	UNANN	6653413	null	null	null	null
+195	25397	2	49	0	4154311	That would result , he said , in the	null	null	null	null	UNANN	6653414	null	null	null	null
+195	25397	1	50	0	4154312	destruction of the West Wing and parts of the residence .	null	null	null	null	UNANN	6653415	null	null	null	null
+195	25397	2	50	0	4154313	5 He also told her that he	null	null	null	null	UNANN	6653416	null	null	null	null
+195	25397	1	51	0	4154314	thought there were terrorist cells within the United States , including al Qaeda .	null	null	null	null	UNANN	6653417	null	null	null	null
+195	25397	1	52	0	4154315	The next week , Rice was briefed on the activities of Abu Zubaydah and on CIA efforts	null	null	null	null	UNANN	6653418	null	null	null	null
+195	25397	1	53	0	4154316	to locate him .	null	null	null	null	UNANN	6653419	null	null	null	null
+195	25397	2	53	0	4154317	As pointed out in chapter 6 , Abu Zubaydah had been a major figure in	null	null	null	null	UNANN	6653420	null	null	null	null
+195	25397	1	54	0	4154318	the millennium plots .	null	null	null	null	UNANN	6653421	null	null	null	null
+195	25397	2	54	0	4154319	Over the next few weeks , the CIA repeatedly issued	null	null	null	null	UNANN	6653422	null	null	null	null
+195	25397	1	55	0	4154320	warnings-including calls from DCI Tenet to Clarke -that Abu Zubaydah was planning an	null	null	null	null	UNANN	6653423	null	null	null	null
+195	25397	1	56	0	4154321	operation in the near future .	null	null	null	null	UNANN	6653424	null	null	null	null
+195	25397	2	56	0	4154322	One report cited a source indicating that Abu Zubaydah	null	null	null	null	UNANN	6653425	null	null	null	null
+195	25397	1	57	0	4154323	was planning an attack in a country that CIA analysts thought might be Israel , or	null	null	null	null	UNANN	6653426	null	null	null	null
+195	25397	1	58	0	4154324	perhaps Saudi Arabia or India .	null	null	null	null	UNANN	6653427	null	null	null	null
+195	25397	2	58	0	4154325	Clarke relayed these reports to Rice .	null	null	null	null	UNANN	6653428	null	null	null	null
+195	25397	1	60	0	4154326	In response to these threats , the FBI sent a message to all its field offices on	null	null	null	null	UNANN	6653429	null	null	null	null
+195	25397	1	61	0	4154327	April 13 , summarizing reporting to date .	null	null	null	null	UNANN	6653430	null	null	null	null
+195	25397	2	61	0	4154328	It asked the offices to task all resources,	null	null	null	null	UNANN	6653431	null	null	null	null
+195	25397	1	62	0	4154329	including human sources and electronic databases , for any information pertaining to	null	null	null	null	UNANN	6653432	null	null	null	null
+195	25397	1	63	0	4154330	'' current operational activities relating to Sunni extremism . ''	null	null	null	null	UNANN	6653433	null	null	null	null
+195	25397	2	63	0	4154331	It did not suggest	null	null	null	null	UNANN	6653434	null	null	null	null
+195	25397	1	64	0	4154332	that there was a domestic threat .	null	null	null	null	UNANN	6653435	null	null	null	null
+195	25397	1	66	0	4154333	The interagency Counterterrorism Security Group ( CSG ) that Clarke chaired discussed	null	null	null	null	UNANN	6653436	null	null	null	null
+195	25397	1	67	0	4154334	the Abu Zubaydah reports on April 19 .	null	null	null	null	UNANN	6653437	null	null	null	null
+195	25397	2	67	0	4154335	The next day , a briefing to top officials	null	null	null	null	UNANN	6653438	null	null	null	null
+195	25397	1	68	0	4154336	reported `` Bin Ladin planning multiple operations . ''	null	null	null	null	UNANN	6653439	null	null	null	null
+195	25397	2	68	0	4154337	When the deputies discussed al	null	null	null	null	UNANN	6653440	null	null	null	null
+195	25397	1	69	0	4154338	Qaeda policy on April 30 , they began with a briefing on the threat .	null	null	null	null	UNANN	6653441	null	null	null	null
+195	25397	1	71	0	4154339	In May 2001 , the drumbeat of reporting grew louder with reports to top officials that	null	null	null	null	UNANN	6653442	null	null	null	null
+195	25397	1	72	0	4154340	'' Bin Ladin public profile may presage attack '' and `` Bin Ladin network 's plans	null	null	null	null	UNANN	6653443	null	null	null	null
+195	25397	1	73	0	4154341	advancing . ''	null	null	null	null	UNANN	6653444	null	null	null	null
+195	25397	2	73	0	4154342	In early May , a walk-in to the FBI claimed there was a plan to launch	null	null	null	null	UNANN	6653445	null	null	null	null
+195	25397	1	74	0	4154343	attacks on London , Boston , and New York .	null	null	null	null	UNANN	6653446	null	null	null	null
+195	25397	2	74	0	4154344	Attorney General John Ashcroft was briefed	null	null	null	null	UNANN	6653447	null	null	null	null
+195	25397	1	75	0	4154345	by the CIA on May 15 regarding al Qaeda generally and the current threat reporting	null	null	null	null	UNANN	6653448	null	null	null	null
+195	25397	1	76	0	4154346	specifically .	null	null	null	null	UNANN	6653449	null	null	null	null
+195	25397	2	76	0	4154347	The next day brought a report that a phone call to a U.S. embassy had	null	null	null	null	UNANN	6653450	null	null	null	null
+195	25397	1	77	0	4154348	warned that Bin Ladin supporters were planning an attack in the United States using	null	null	null	null	UNANN	6653451	null	null	null	null
+195	25397	1	78	0	4154349	'' high explosives . ''	null	null	null	null	UNANN	6653452	null	null	null	null
+195	25397	2	78	0	4154350	On May 17 , based on the previous day 's report , the first item on	null	null	null	null	UNANN	6653453	null	null	null	null
+195	25397	1	79	0	4154351	the CSG 's agenda was `` UBL : Operation Planned in U.S. ''	null	null	null	null	UNANN	6653454	null	null	null	null
+195	25397	2	79	0	4154352	The	null	null	null	null	UNANN	6653455	null	null	null	null
+195	25397	1	80	0	4154353	anonymous caller 's tip could not be corroborated .	null	null	null	null	UNANN	6653456	null	null	null	null
+195	25397	1	81	0	4154354	Late May brought reports of a possible hostage plot against Americans abroad to force	null	null	null	null	UNANN	6653457	null	null	null	null
+195	25397	1	82	0	4154355	the release of prisoners , including Sheikh Omar Abdel Rahman , the `` Blind Sheikh , ''	null	null	null	null	UNANN	6653458	null	null	null	null
+195	25397	1	83	0	4154356	who was serving a life sentence for his role in the 1993 plot to blow up sites in	null	null	null	null	UNANN	6653459	null	null	null	null
+195	25397	1	84	0	4154357	New York City .	null	null	null	null	UNANN	6653460	null	null	null	null
+195	25397	2	84	0	4154358	The reporting noted that operatives might opt to hijack an aircraft	null	null	null	null	UNANN	6653461	null	null	null	null
+195	25397	1	85	0	4154359	or storm a U.S. embassy .	null	null	null	null	UNANN	6653462	null	null	null	null
+195	25397	2	85	0	4154360	This report led to a Federal Aviation Administration ( FAA )	null	null	null	null	UNANN	6653463	null	null	null	null
+195	25397	1	86	0	4154361	information circular to airlines noting the potential for `` an airline hijacking to	null	null	null	null	UNANN	6653464	null	null	null	null
+195	25397	1	87	0	4154362	free terrorists incarcerated in the United States . ''	null	null	null	null	UNANN	6653465	null	null	null	null
+195	25397	2	87	0	4154363	Other reporting mentioned that	null	null	null	null	UNANN	6653466	null	null	null	null
+195	25397	1	88	0	4154364	Abu Zubaydah was planning an attack , possibly against Israel , and expected to carry	null	null	null	null	UNANN	6653467	null	null	null	null
+195	25397	1	89	0	4154365	out several more if things went well .	null	null	null	null	UNANN	6653468	null	null	null	null
+195	25397	2	89	0	4154366	On May 24 alone , counterterrorism officials	null	null	null	null	UNANN	6653469	null	null	null	null
+195	25397	1	90	0	4154367	grappled with reports alleging plots in Yemen and Italy , as well as a report about a	null	null	null	null	UNANN	6653470	null	null	null	null
+195	25397	1	91	0	4154368	cell in Canada that an anonymous caller had claimed might be planning an attack	null	null	null	null	UNANN	6653471	null	null	null	null
+195	25397	1	92	0	4154369	against the United States .	null	null	null	null	UNANN	6653472	null	null	null	null
+195	25397	1	94	0	4154370	Reports similar to many of these were made available to President Bush in morning	null	null	null	null	UNANN	6653473	null	null	null	null
+195	25397	1	95	0	4154371	intelligence briefings with DCI Tenet , usually attended by Vice President Dick	null	null	null	null	UNANN	6653474	null	null	null	null
+195	25397	1	96	0	4154372	Cheney and National Security Advisor Rice .	null	null	null	null	UNANN	6653475	null	null	null	null
+195	25397	2	96	0	4154373	While these briefings discussed general	null	null	null	null	UNANN	6653476	null	null	null	null
+195	25397	1	97	0	4154374	threats to attack America and American interests , the specific threats mentioned in	null	null	null	null	UNANN	6653477	null	null	null	null
+195	25397	1	98	0	4154375	these briefings were all overseas .	null	null	null	null	UNANN	6653478	null	null	null	null
+195	25397	1	99	0	4154376	On May 29 , Clarke suggested that Rice ask DCI Tenet what more the United States could	null	null	null	null	UNANN	6653479	null	null	null	null
+195	25397	1	100	0	4154377	do to stop Abu Zubaydah from launching '' a series of major terrorist attacks , ''	null	null	null	null	UNANN	6653480	null	null	null	null
+195	25397	1	101	0	4154378	probably on Israeli targets , but possibly on U.S. facilities .	null	null	null	null	UNANN	6653481	null	null	null	null
+195	25397	2	101	0	4154379	Clarke wrote to Rice	null	null	null	null	UNANN	6653482	null	null	null	null
+195	25397	1	102	0	4154380	and her deputy , Stephen Hadley , `` When these attacks occur , as they likely will , we	null	null	null	null	UNANN	6653483	null	null	null	null
+195	25397	1	103	0	4154381	will wonder what more we could have done to stop them . ''	null	null	null	null	UNANN	6653484	null	null	null	null
+195	25397	2	103	0	4154382	In May , CIA Counterterrorist	null	null	null	null	UNANN	6653485	null	null	null	null
+195	25397	1	104	0	4154383	Center ( CTC ) Chief Cofer Black told Rice that the current threat level was a 7 on a	null	null	null	null	UNANN	6653486	null	null	null	null
+195	25397	1	105	0	4154384	scale of 1 to 10 , as compared to an 8 during the millennium .	null	null	null	null	UNANN	6653487	null	null	null	null
+195	25397	1	107	0	4154385	High Probability of Near-Term `` Spectacular ''	null	null	null	null	UNANN	6653488	null	null	null	null
+195	25397	2	107	0	4154386	Attacks	null	null	null	null	UNANN	6653489	null	null	null	null
+195	25397	1	108	0	4154387	Threat reports surged in June and July , reaching an even higher peak of urgency .	null	null	null	null	UNANN	6653490	null	null	null	null
+195	25397	2	108	0	4154388	The	null	null	null	null	UNANN	6653491	null	null	null	null
+195	25397	1	109	0	4154389	summer threats seemed to be focused on Saudi Arabia , Israel , Bahrain , Kuwait , Yemen ,	null	null	null	null	UNANN	6653492	null	null	null	null
+195	25397	1	110	0	4154390	and possibly Rome , but the danger could be anywhere- including a possible attack on	null	null	null	null	UNANN	6653493	null	null	null	null
+195	25397	1	111	0	4154391	the G-8 summit in Genoa .	null	null	null	null	UNANN	6653494	null	null	null	null
+195	25397	2	111	0	4154392	A June 12 CIA report passing along biographical background	null	null	null	null	UNANN	6653495	null	null	null	null
+195	25397	1	112	0	4154393	information on several terrorists mentioned , in commenting on Khalid Sheikh	null	null	null	null	UNANN	6653496	null	null	null	null
+195	25397	1	113	0	4154394	Mohammed , that he was recruiting people to travel to the United States to meet with	null	null	null	null	UNANN	6653497	null	null	null	null
+195	25397	1	114	0	4154395	colleagues already there so that they might conduct terrorist attacks on Bin Ladin 's	null	null	null	null	UNANN	6653498	null	null	null	null
+195	25397	1	115	0	4154396	behalf .	null	null	null	null	UNANN	6653499	null	null	null	null
+195	25397	2	115	0	4154397	On June 22 , the CIA notified all its station chiefs about intelligence	null	null	null	null	UNANN	6653500	null	null	null	null
+195	25397	1	116	0	4154398	suggesting a possible al Qaeda suicide attack on a U.S. target over the next few	null	null	null	null	UNANN	6653501	null	null	null	null
+195	25397	1	117	0	4154399	days .	null	null	null	null	UNANN	6653502	null	null	null	null
+195	25397	2	117	0	4154400	DCITenet asked that all U.S. ambassadors be briefed .	null	null	null	null	UNANN	6653503	null	null	null	null
+195	25397	1	119	0	4154401	That same day , the State Department notified all embassies of the terrorist threat	null	null	null	null	UNANN	6653504	null	null	null	null
+195	25397	1	120	0	4154402	and updated its worldwide public warning .	null	null	null	null	UNANN	6653505	null	null	null	null
+195	25397	2	120	0	4154403	In June , the State Department initiated	null	null	null	null	UNANN	6653506	null	null	null	null
+195	25397	1	121	0	4154404	the Visa Express program in Saudi Arabia as a security measure , in order to keep	null	null	null	null	UNANN	6653507	null	null	null	null
+195	25397	1	122	0	4154405	long lines of foreigners away from vulnerable embassy spaces .	null	null	null	null	UNANN	6653508	null	null	null	null
+195	25397	2	122	0	4154406	The program permitted	null	null	null	null	UNANN	6653509	null	null	null	null
+195	25397	1	123	0	4154407	visa applications to be made through travel agencies , instead of directly at the	null	null	null	null	UNANN	6653510	null	null	null	null
+195	25397	1	124	0	4154408	embassy or consulate .	null	null	null	null	UNANN	6653511	null	null	null	null
+195	25397	1	126	0	4154409	A terrorist threat advisory distributed in late June indicated a high probability of	null	null	null	null	UNANN	6653512	null	null	null	null
+195	25397	1	127	0	4154410	near-term `` spectacular '' terrorist attacks resulting in numerous casualties .	null	null	null	null	UNANN	6653513	null	null	null	null
+195	25397	2	127	0	4154411	Other	null	null	null	null	UNANN	6653514	null	null	null	null
+195	25397	1	128	0	4154412	reports ' titles warned , '' Bin Ladin Attacks May be Imminent '' and `` Bin Ladin and	null	null	null	null	UNANN	6653515	null	null	null	null
+195	25397	1	129	0	4154413	Associates Making Near-Term Threats . ''	null	null	null	null	UNANN	6653516	null	null	null	null
+195	25397	2	129	0	4154414	The latter reported multiple attacks planned	null	null	null	null	UNANN	6653517	null	null	null	null
+195	25397	1	130	0	4154415	over the coming days , including a `` severe blow '' against U.S. and Israeli `` interests ''	null	null	null	null	UNANN	6653518	null	null	null	null
+195	25397	1	131	0	4154416	during the next two weeks .	null	null	null	null	UNANN	6653519	null	null	null	null
+195	25397	1	133	0	4154417	On June 21 , near the height of the threat reporting , U.S. Central Command raised the	null	null	null	null	UNANN	6653520	null	null	null	null
+195	25397	1	134	0	4154418	force protection condition level for U.S. troops in six countries to the highest	null	null	null	null	UNANN	6653521	null	null	null	null
+195	25397	1	135	0	4154419	possible level , Delta .	null	null	null	null	UNANN	6653522	null	null	null	null
+195	25397	2	135	0	4154420	The U.S. Fifth Fleet moved out of its port in Bahrain , and a	null	null	null	null	UNANN	6653523	null	null	null	null
+195	25397	1	136	0	4154421	U.S. Marine Corps exercise in Jordan was halted . U.S. embassies in the Persian Gulf	null	null	null	null	UNANN	6653524	null	null	null	null
+195	25397	1	137	0	4154422	conducted an emergency security review , and the embassy in Yemen was closed .	null	null	null	null	UNANN	6653525	null	null	null	null
+195	25397	2	137	0	4154423	The CSG	null	null	null	null	UNANN	6653526	null	null	null	null
+195	25397	1	138	0	4154424	had foreign emergency response teams , known as FESTs , ready to move on four hours '	null	null	null	null	UNANN	6653527	null	null	null	null
+195	25397	1	139	0	4154425	notice and kept up the terrorism alert posture on a `` rolling 24 hour basis . ''	null	null	null	null	UNANN	6653528	null	null	null	null
+195	25397	1	141	0	4154426	On June 25 , Clarke warned Rice and Hadley that six separate intelligence reports	null	null	null	null	UNANN	6653529	null	null	null	null
+195	25397	1	142	0	4154427	showed al Qaeda personnel warning of a pending attack .	null	null	null	null	UNANN	6653530	null	null	null	null
+195	25397	2	142	0	4154428	An Arabic television station	null	null	null	null	UNANN	6653531	null	null	null	null
+195	25397	1	143	0	4154429	reported Bin Ladin 's pleasure with al Qaeda leaders who were saying that the next	null	null	null	null	UNANN	6653532	null	null	null	null
+195	25397	1	144	0	4154430	weeks `` will witness important surprises '' and that U.S. and Israeli interests will be	null	null	null	null	UNANN	6653533	null	null	null	null
+195	25397	1	145	0	4154431	targeted .	null	null	null	null	UNANN	6653534	null	null	null	null
+195	25397	2	145	0	4154432	Al Qaeda also released a new recruitment and fund-raising tape .	null	null	null	null	UNANN	6653535	null	null	null	null
+195	25397	3	145	0	4154433	Clarke	null	null	null	null	UNANN	6653536	null	null	null	null
+195	25397	1	146	0	4154434	wrote that this was all too sophisticated to be merely a psychological operation to	null	null	null	null	UNANN	6653537	null	null	null	null
+195	25397	1	147	0	4154435	keep the United States on edge , and the CIA agreed .	null	null	null	null	UNANN	6653538	null	null	null	null
+195	25397	2	147	0	4154436	The intelligence reporting	null	null	null	null	UNANN	6653539	null	null	null	null
+195	25397	1	148	0	4154437	consistently described the upcoming attacks as occurring on a calamitous level,	null	null	null	null	UNANN	6653540	null	null	null	null
+195	25397	1	149	0	4154438	indicating that they would cause the world to be in turmoil and that they would	null	null	null	null	UNANN	6653541	null	null	null	null
+195	25397	1	150	0	4154439	consist of possible multiple-but not necessarily simultaneous-attacks .	null	null	null	null	UNANN	6653542	null	null	null	null
+195	25397	1	152	0	4154440	On June 28 , Clarke wrote Rice that the pattern of al Qaeda activity indicating attack	null	null	null	null	UNANN	6653543	null	null	null	null
+195	25397	1	153	0	4154441	planning over the past six weeks `` had reached a crescendo. '' '' A series of new reports	null	null	null	null	UNANN	6653544	null	null	null	null
+195	25397	1	154	0	4154442	continue to convince me and analysts at State, CIA , DIA [Defense Intelligence	null	null	null	null	UNANN	6653545	null	null	null	null
+195	25397	1	155	0	4154443	Agency ] , and NSA that a major terrorist attack or series of attacks is likely in	null	null	null	null	UNANN	6653546	null	null	null	null
+195	25397	1	156	0	4154444	July , '' he noted .	null	null	null	null	UNANN	6653547	null	null	null	null
+195	25397	2	156	0	4154445	One al Qaeda intelligence report warned that something `` very , very,	null	null	null	null	UNANN	6653548	null	null	null	null
+195	25397	1	157	0	4154446	very , very '' big was about to happen , and most of Bin Ladin 's network was reportedly	null	null	null	null	UNANN	6653549	null	null	null	null
+195	25397	1	158	0	4154447	anticipating the attack .	null	null	null	null	UNANN	6653550	null	null	null	null
+195	25397	2	158	0	4154448	In late June , the CIA ordered all its station chiefs to	null	null	null	null	UNANN	6653551	null	null	null	null
+195	25397	1	159	0	4154449	share information on al Qaeda with their host governments and to push for immediate	null	null	null	null	UNANN	6653552	null	null	null	null
+195	25397	1	160	0	4154450	disruptions of cells .	null	null	null	null	UNANN	6653553	null	null	null	null
+195	25397	1	162	0	4154451	The headline of a June 30 briefing to top officials was stark: '' Bin Ladin Planning	null	null	null	null	UNANN	6653554	null	null	null	null
+195	25397	1	163	0	4154452	High-Profile Attacks . ''	null	null	null	null	UNANN	6653555	null	null	null	null
+195	25397	2	163	0	4154453	The report stated that Bin Ladin operatives expected	null	null	null	null	UNANN	6653556	null	null	null	null
+195	25397	1	164	0	4154454	near-term attacks to have dramatic consequences of catastrophic proportions .	null	null	null	null	UNANN	6653557	null	null	null	null
+195	25397	2	164	0	4154455	That	null	null	null	null	UNANN	6653558	null	null	null	null
+195	25397	1	165	0	4154456	same day , Saudi Arabia declared its highest level of terror alert .	null	null	null	null	UNANN	6653559	null	null	null	null
+195	25397	2	165	0	4154457	Despite evidence	null	null	null	null	UNANN	6653560	null	null	null	null
+195	25397	1	166	0	4154458	of delays possibly caused by heightened U.S. security , the planning for attacks was	null	null	null	null	UNANN	6653561	null	null	null	null
+195	25397	1	167	0	4154459	continuing .	null	null	null	null	UNANN	6653562	null	null	null	null
+195	25397	1	169	0	4154460	On July 2 , the FBI Counterterrorism Division sent a message to federal agencies and	null	null	null	null	UNANN	6653563	null	null	null	null
+195	25397	1	170	0	4154461	state and local law enforcement agencies summarizing information regarding threats	null	null	null	null	UNANN	6653564	null	null	null	null
+195	25397	1	171	0	4154462	from Bin Ladin .	null	null	null	null	UNANN	6653565	null	null	null	null
+195	25397	2	171	0	4154463	It warned that there was an increased volume of threat reporting,	null	null	null	null	UNANN	6653566	null	null	null	null
+195	25397	1	172	0	4154464	indicating a potential for attacks against U.S. targets abroad from groups `` aligned	null	null	null	null	UNANN	6653567	null	null	null	null
+195	25397	1	173	0	4154465	with or sympathetic to Usama Bin Ladin . ''	null	null	null	null	UNANN	6653568	null	null	null	null
+195	25397	2	173	0	4154466	Despite the general warnings , the message	null	null	null	null	UNANN	6653569	null	null	null	null
+195	25397	1	174	0	4154467	further stated , `` The FBI has no information indicating a credible threat of	null	null	null	null	UNANN	6653570	null	null	null	null
+195	25397	1	175	0	4154468	terrorist attack in the United States . ''	null	null	null	null	UNANN	6653571	null	null	null	null
+195	25397	2	175	0	4154469	However , it went on to emphasize that the	null	null	null	null	UNANN	6653572	null	null	null	null
+195	25397	1	176	0	4154470	possibility of attack in the United States could not be discounted .	null	null	null	null	UNANN	6653573	null	null	null	null
+195	25397	2	176	0	4154471	It also noted	null	null	null	null	UNANN	6653574	null	null	null	null
+195	25397	1	177	0	4154472	that the July 4 holiday might heighten the threats .	null	null	null	null	UNANN	6653575	null	null	null	null
+195	25397	2	177	0	4154473	The report asked recipients	null	null	null	null	UNANN	6653576	null	null	null	null
+195	25397	1	178	0	4154474	to '' exercise extreme vigilance '' and `` report suspicious activities '' to the FBI .	null	null	null	null	UNANN	6653577	null	null	null	null
+195	25397	2	178	0	4154475	It did	null	null	null	null	UNANN	6653578	null	null	null	null
+195	25397	1	179	0	4154476	not suggest specific actions that they should take to prevent attacks .	null	null	null	null	UNANN	6653579	null	null	null	null
+195	25397	1	181	0	4154477	Disruption operations against al Qaeda -affiliated cells were launched involving 20	null	null	null	null	UNANN	6653580	null	null	null	null
+195	25397	1	182	0	4154478	countries .	null	null	null	null	UNANN	6653581	null	null	null	null
+195	25397	2	182	0	4154479	Several terrorist operatives were detained by foreign governments,	null	null	null	null	UNANN	6653582	null	null	null	null
+195	25397	1	183	0	4154480	possibly disrupting operations in the Gulf and Italy and perhaps averting attacks	null	null	null	null	UNANN	6653583	null	null	null	null
+195	25397	1	184	0	4154481	against two or three U.S. embassies .	null	null	null	null	UNANN	6653584	null	null	null	null
+195	25397	2	184	0	4154482	Clarke and others told us of a particular	null	null	null	null	UNANN	6653585	null	null	null	null
+195	25397	1	185	0	4154483	concern about possible attacks on the Fourth of July .	null	null	null	null	UNANN	6653586	null	null	null	null
+195	25397	2	185	0	4154484	After it passed uneventfully,	null	null	null	null	UNANN	6653587	null	null	null	null
+195	25397	1	186	0	4154485	the CSG decided to maintain the alert .	null	null	null	null	UNANN	6653588	null	null	null	null
+195	25397	1	188	0	4154486	To enlist more international help , Vice President Cheney contacted Saudi Crown Prince	null	null	null	null	UNANN	6653589	null	null	null	null
+195	25397	1	189	0	4154487	Abdullah on July 5 .	null	null	null	null	UNANN	6653590	null	null	null	null
+195	25397	2	189	0	4154488	Hadley apparently called European counterparts , while Clarke	null	null	null	null	UNANN	6653591	null	null	null	null
+195	25397	1	190	0	4154489	worked with senior officials in the Gulf .	null	null	null	null	UNANN	6653592	null	null	null	null
+195	25397	2	190	0	4154490	In late July , because of threats , Italy	null	null	null	null	UNANN	6653593	null	null	null	null
+195	25397	1	191	0	4154491	closed the airspace over Genoa and mounted antiaircraft batteries at the Genoa	null	null	null	null	UNANN	6653594	null	null	null	null
+195	25397	1	192	0	4154492	airport during the G-8 summit , which President Bush attended .	null	null	null	null	UNANN	6653595	null	null	null	null
+195	25397	1	194	0	4154493	At home , the CSG arranged for the CIA to brief intelligence and security officials	null	null	null	null	UNANN	6653596	null	null	null	null
+195	25397	1	195	0	4154494	from several domestic agencies .	null	null	null	null	UNANN	6653597	null	null	null	null
+195	25397	2	195	0	4154495	On July 5 , representatives from the Immigration and	null	null	null	null	UNANN	6653598	null	null	null	null
+195	25397	1	196	0	4154496	Naturalization Service ( INS ) , the FAA , the Coast Guard , the Secret Service , Customs ,	null	null	null	null	UNANN	6653599	null	null	null	null
+195	25397	1	197	0	4154497	the CIA , and the FBI met with Clarke to discuss the current threat .	null	null	null	null	UNANN	6653600	null	null	null	null
+195	25397	2	197	0	4154498	Attendees report	null	null	null	null	UNANN	6653601	null	null	null	null
+195	25397	1	198	0	4154499	that they were told not to disseminate the threat information they received at the	null	null	null	null	UNANN	6653602	null	null	null	null
+195	25397	1	199	0	4154500	meeting .	null	null	null	null	UNANN	6653603	null	null	null	null
+195	25397	2	199	0	4154501	They interpreted this direction to mean that although they could brief	null	null	null	null	UNANN	6653604	null	null	null	null
+195	25397	1	200	0	4154502	their superiors , they could not send out advisories to the field .	null	null	null	null	UNANN	6653605	null	null	null	null
+195	25397	2	200	0	4154503	An NSC official	null	null	null	null	UNANN	6653606	null	null	null	null
+195	25397	1	201	0	4154504	recalls a somewhat different emphasis , saying that attendees were asked to take the	null	null	null	null	UNANN	6653607	null	null	null	null
+195	25397	1	202	0	4154505	information back to their home agencies and `` do what you can '' with it , subject to	null	null	null	null	UNANN	6653608	null	null	null	null
+195	25397	1	203	0	4154506	classification and distribution restrictions .	null	null	null	null	UNANN	6653609	null	null	null	null
+195	25397	2	203	0	4154507	A representative from the INS asked	null	null	null	null	UNANN	6653610	null	null	null	null
+195	25397	1	204	0	4154508	for a summary of the information that she could share with field offices .	null	null	null	null	UNANN	6653611	null	null	null	null
+195	25397	2	204	0	4154509	She never	null	null	null	null	UNANN	6653612	null	null	null	null
+195	25397	1	205	0	4154510	received one .	null	null	null	null	UNANN	6653613	null	null	null	null
+195	25397	1	207	0	4154511	That same day , the CIA briefed Attorney General Ashcroft on the al Qaeda threat,	null	null	null	null	UNANN	6653614	null	null	null	null
+195	25397	1	208	0	4154512	warning that a significant terrorist attack was imminent .	null	null	null	null	UNANN	6653615	null	null	null	null
+195	25397	2	208	0	4154513	Ashcroft was told that	null	null	null	null	UNANN	6653616	null	null	null	null
+195	25397	1	209	0	4154514	preparations for multiple attacks were in late stages or already complete and that	null	null	null	null	UNANN	6653617	null	null	null	null
+195	25397	1	210	0	4154515	little additional warning could be expected .	null	null	null	null	UNANN	6653618	null	null	null	null
+195	25397	2	210	0	4154516	The briefing addressed only threats	null	null	null	null	UNANN	6653619	null	null	null	null
+195	25397	1	211	0	4154517	outside the United States .	null	null	null	null	UNANN	6653620	null	null	null	null
+195	25397	1	213	0	4154518	The next day , the CIA representative told the CSG that al Qaeda members believed the	null	null	null	null	UNANN	6653621	null	null	null	null
+195	25397	1	214	0	4154519	upcoming attack would be `` spectacular , '' qualitatively different from anything they	null	null	null	null	UNANN	6653622	null	null	null	null
+195	25397	1	215	0	4154520	had done to date .	null	null	null	null	UNANN	6653623	null	null	null	null
+195	25397	1	217	0	4154521	Apparently as a result of the July 5 meeting with Clarke , the interagency committee	null	null	null	null	UNANN	6653624	null	null	null	null
+195	25397	1	218	0	4154522	on federal building security was tasked to examine security measures .	null	null	null	null	UNANN	6653625	null	null	null	null
+195	25397	2	218	0	4154523	This committee	null	null	null	null	UNANN	6653626	null	null	null	null
+195	25397	1	219	0	4154524	met on July 9 , when 37 officials from 27 agencies and organizations were briefed on	null	null	null	null	UNANN	6653627	null	null	null	null
+195	25397	1	220	0	4154525	the `` current threat level '' in the United States .	null	null	null	null	UNANN	6653628	null	null	null	null
+195	25397	2	220	0	4154526	They were told that not only the	null	null	null	null	UNANN	6653629	null	null	null	null
+195	25397	1	221	0	4154527	threat reports from abroad but also the recent convictions in the East Africa	null	null	null	null	UNANN	6653630	null	null	null	null
+195	25397	1	222	0	4154528	bombings trial , the conviction of Ahmed Ressam , and the just-returned KhobarTowers	null	null	null	null	UNANN	6653631	null	null	null	null
+195	25397	1	223	0	4154529	indictments reinforced the need to `` exercise extreme vigilance . ''	null	null	null	null	UNANN	6653632	null	null	null	null
+195	25397	2	223	0	4154530	Attendees were	null	null	null	null	UNANN	6653633	null	null	null	null
+195	25397	1	224	0	4154531	expected to determine whether their respective agencies needed enhanced security	null	null	null	null	UNANN	6653634	null	null	null	null
+195	25397	1	225	0	4154532	measures .	null	null	null	null	UNANN	6653635	null	null	null	null
+195	25397	1	227	0	4154533	On July 18, 2001 , the State Department provided a warning to the public regarding	null	null	null	null	UNANN	6653636	null	null	null	null
+195	25397	1	228	0	4154534	possible terrorist attacks in the Arabian Peninsula .	null	null	null	null	UNANN	6653637	null	null	null	null
+195	25397	1	230	0	4154535	Acting FBI Director Thomas Pickard told us he had one of his periodic conference	null	null	null	null	UNANN	6653638	null	null	null	null
+195	25397	1	231	0	4154536	calls with all special agents in charge on July 19 .	null	null	null	null	UNANN	6653639	null	null	null	null
+195	25397	2	231	0	4154537	He said one of the items he	null	null	null	null	UNANN	6653640	null	null	null	null
+195	25397	1	232	0	4154538	mentioned was the need , in light of increased threat reporting , to have evidence	null	null	null	null	UNANN	6653641	null	null	null	null
+195	25397	1	233	0	4154539	response teams ready to move at a moment 's notice , in case of an attack .	null	null	null	null	UNANN	6653642	null	null	null	null
+195	25397	1	235	0	4154540	He did not task field offices to try to determine whether any plots were being	null	null	null	null	UNANN	6653643	null	null	null	null
+195	25397	1	236	0	4154541	considered within the United States or to take any action to disrupt any such plots .	null	null	null	null	UNANN	6653644	null	null	null	null
+195	25397	1	237	0	4154542	In mid-July , reporting started to indicate that Bin Ladin 's plans had been delayed,	null	null	null	null	UNANN	6653645	null	null	null	null
+195	25397	1	238	0	4154543	maybe for as long as two months , but not abandoned .	null	null	null	null	UNANN	6653646	null	null	null	null
+195	25397	2	238	0	4154544	On July 23 , the lead item for	null	null	null	null	UNANN	6653647	null	null	null	null
+195	25397	1	239	0	4154545	CSG discussion was still the al Qaeda threat , and it included mention of suspected	null	null	null	null	UNANN	6653648	null	null	null	null
+195	25397	1	240	0	4154546	terrorist travel to the United States .	null	null	null	null	UNANN	6653649	null	null	null	null
+195	25397	1	242	0	4154547	On July 31 , an FAA circular appeared alerting the aviation community to `` reports of	null	null	null	null	UNANN	6653650	null	null	null	null
+195	25397	1	243	0	4154548	possible near-term terrorist operations . . . particularly on the Arabian Peninsula	null	null	null	null	UNANN	6653651	null	null	null	null
+195	25397	1	244	0	4154549	and/or Israel . ''	null	null	null	null	UNANN	6653652	null	null	null	null
+195	25397	2	244	0	4154550	It stated that the FAA had no credible evidence of specific plans to	null	null	null	null	UNANN	6653653	null	null	null	null
+195	25397	1	245	0	4154551	attack U.S. civil aviation , though it noted that some of the `` currently active ''	null	null	null	null	UNANN	6653654	null	null	null	null
+195	25397	1	246	0	4154552	terrorist groups were known to `` plan and train for hijackings '' and were able to build	null	null	null	null	UNANN	6653655	null	null	null	null
+195	25397	1	247	0	4154553	and conceal sophisticated explosive devices in luggage and consumer products .	null	null	null	null	UNANN	6653656	null	null	null	null
+195	25397	1	249	0	4154554	Tenet told us that in his world `` the system was blinking red . ''	null	null	null	null	UNANN	6653657	null	null	null	null
+195	25397	2	249	0	4154555	By late July , Tenet	null	null	null	null	UNANN	6653658	null	null	null	null
+195	25397	1	250	0	4154556	said , it could not `` get any worse . ''	null	null	null	null	UNANN	6653659	null	null	null	null
+195	25397	2	250	0	4154557	Not everyone was	null	null	null	null	UNANN	6653660	null	null	null	null
+195	25397	1	251	0	4154558	convinced .	null	null	null	null	UNANN	6653661	null	null	null	null
+195	25397	2	251	0	4154559	Some asked whether all these threats might just be deception .	null	null	null	null	UNANN	6653662	null	null	null	null
+195	25397	3	251	0	4154560	On June 30 ,	null	null	null	null	UNANN	6653663	null	null	null	null
+195	25397	1	252	0	4154561	the SEIB contained an article titled `` Bin Ladin Threats Are Real . ''	null	null	null	null	UNANN	6653664	null	null	null	null
+195	25397	2	252	0	4154562	Yet Hadley told	null	null	null	null	UNANN	6653665	null	null	null	null
+195	25397	1	253	0	4154563	Tenet in July that Deputy Secretary of Defense Paul Wolfowitz questioned the	null	null	null	null	UNANN	6653666	null	null	null	null
+195	25397	1	254	0	4154564	reporting .	null	null	null	null	UNANN	6653667	null	null	null	null
+195	25397	2	254	0	4154565	Perhaps Bin Ladin was trying to study U.S. reactions .	null	null	null	null	UNANN	6653668	null	null	null	null
+195	25397	3	254	0	4154566	Tenet replied that	null	null	null	null	UNANN	6653669	null	null	null	null
+195	25397	1	255	0	4154567	he had already addressed the Defense Department 's questions on this point ; the	null	null	null	null	UNANN	6653670	null	null	null	null
+195	25397	1	256	0	4154568	reporting was convincing .	null	null	null	null	UNANN	6653671	null	null	null	null
+195	25397	2	256	0	4154569	To give a sense of his anxiety at the time , one senior	null	null	null	null	UNANN	6653672	null	null	null	null
+195	25397	1	257	0	4154570	official in the Counterterrorist Center told us that he and a colleague were	null	null	null	null	UNANN	6653673	null	null	null	null
+195	25397	1	258	0	4154571	considering resigning in order to go public with their concerns .	null	null	null	null	UNANN	6653674	null	null	null	null
+195	25397	1	260	0	4154572	The Calm Before the Storm	null	null	null	null	UNANN	6653675	null	null	null	null
+195	25397	1	261	0	4154573	On July 27 , Clarke informed Rice and Hadley that the spike in intelligence about a	null	null	null	null	UNANN	6653676	null	null	null	null
+195	25397	1	262	0	4154574	near-term al Qaeda attack had stopped .	null	null	null	null	UNANN	6653677	null	null	null	null
+195	25397	2	262	0	4154575	He urged keeping readiness high during the	null	null	null	null	UNANN	6653678	null	null	null	null
+195	25397	1	263	0	4154576	August vacation period , warning that another report suggested an attack had just	null	null	null	null	UNANN	6653679	null	null	null	null
+195	25397	1	264	0	4154577	been postponed for a few months `` but will still happen . ''	null	null	null	null	UNANN	6653680	null	null	null	null
+195	25397	1	266	0	4154578	On August 1 , the FBI issued an advisory that in light of the increased volume of	null	null	null	null	UNANN	6653681	null	null	null	null
+195	25397	1	267	0	4154579	threat reporting and the upcoming anniversary of the East Africa embassy bombings,	null	null	null	null	UNANN	6653682	null	null	null	null
+195	25397	1	268	0	4154580	increased attention should be paid to security planning .	null	null	null	null	UNANN	6653683	null	null	null	null
+195	25397	2	268	0	4154581	It noted that although most	null	null	null	null	UNANN	6653684	null	null	null	null
+195	25397	1	269	0	4154582	of the reporting indicated a potential for attacks on U.S. interests abroad , the	null	null	null	null	UNANN	6653685	null	null	null	null
+195	25397	1	270	0	4154583	possibility of an attack in the United States could not be discounted .	null	null	null	null	UNANN	6653686	null	null	null	null
+195	25397	1	272	0	4154584	On August 3 , the intelligence community issued an advisory concluding that the threat	null	null	null	null	UNANN	6653687	null	null	null	null
+195	25397	1	273	0	4154585	of impending al Qaeda attacks would likely continue indefinitely .	null	null	null	null	UNANN	6653688	null	null	null	null
+195	25397	2	273	0	4154586	Citing threats in	null	null	null	null	UNANN	6653689	null	null	null	null
+195	25397	1	274	0	4154587	the Arabian Peninsula , Jordan , Israel , and Europe , the advisory suggested that al	null	null	null	null	UNANN	6653690	null	null	null	null
+195	25397	1	275	0	4154588	Qaeda was lying in wait and searching for gaps in security before moving forward	null	null	null	null	UNANN	6653691	null	null	null	null
+195	25397	1	276	0	4154589	with the planned attacks .	null	null	null	null	UNANN	6653692	null	null	null	null
+195	25397	1	278	0	4154590	During the spring and summer of 2001 , President Bush had on several occasions asked	null	null	null	null	UNANN	6653693	null	null	null	null
+195	25397	1	279	0	4154591	his briefers whether any of the threats pointed to the United States .	null	null	null	null	UNANN	6653694	null	null	null	null
+195	25397	2	279	0	4154592	Reflecting on	null	null	null	null	UNANN	6653695	null	null	null	null
+195	25397	1	280	0	4154593	these questions , the CIA decided to write a briefing article summarizing its	null	null	null	null	UNANN	6653696	null	null	null	null
+195	25397	1	281	0	4154594	understanding of this danger .	null	null	null	null	UNANN	6653697	null	null	null	null
+195	25397	2	281	0	4154595	Two CIA analysts involved in preparing this briefing	null	null	null	null	UNANN	6653698	null	null	null	null
+195	25397	1	282	0	4154596	article believed it represented an opportunity to communicate their view that the	null	null	null	null	UNANN	6653699	null	null	null	null
+195	25397	1	283	0	4154597	threat of a Bin Ladin attack in the United States remained both current and	null	null	null	null	UNANN	6653700	null	null	null	null
+195	25397	1	284	0	4154598	serious .	null	null	null	null	UNANN	6653701	null	null	null	null
+195	25397	1	286	0	4154599	The result was an article in the August 6 Presidential Daily Brief titled `` Bin Ladin	null	null	null	null	UNANN	6653702	null	null	null	null
+195	25397	1	287	0	4154600	Determined to Strike in US . ''	null	null	null	null	UNANN	6653703	null	null	null	null
+195	25397	2	287	0	4154601	It was the 36th PDB item briefed so far that year that	null	null	null	null	UNANN	6653704	null	null	null	null
+195	25397	1	288	0	4154602	related to Bin Ladin or al Qaeda , and the first devoted to the possibility of an	null	null	null	null	UNANN	6653705	null	null	null	null
+195	25397	1	289	0	4154603	attack in the United States .	null	null	null	null	UNANN	6653706	null	null	null	null
+195	25397	2	289	0	4154604	The President told us the August 6 report was	null	null	null	null	UNANN	6653707	null	null	null	null
+195	25397	1	290	0	4154605	historical in nature .	null	null	null	null	UNANN	6653708	null	null	null	null
+195	25397	2	290	0	4154606	President Bush said the article told him that al Qaeda was	null	null	null	null	UNANN	6653709	null	null	null	null
+195	25397	1	291	0	4154607	dangerous , which he said he had known since he had become President .	null	null	null	null	UNANN	6653710	null	null	null	null
+195	25397	2	291	0	4154608	The President	null	null	null	null	UNANN	6653711	null	null	null	null
+195	25397	1	292	0	4154609	said Bin Ladin had long been talking about his desire to attack America .	null	null	null	null	UNANN	6653712	null	null	null	null
+195	25397	2	292	0	4154610	He recalled	null	null	null	null	UNANN	6653713	null	null	null	null
+195	25397	1	293	0	4154611	some operational data on the FBI , and remembered thinking it was heartening that 70	null	null	null	null	UNANN	6653714	null	null	null	null
+195	25397	1	294	0	4154612	investigations were under way .	null	null	null	null	UNANN	6653715	null	null	null	null
+195	25397	2	294	0	4154613	As best he could recollect , Rice had mentioned that	null	null	null	null	UNANN	6653716	null	null	null	null
+195	25397	1	295	0	4154614	the Yemenis ' surveillance of a federal building in New York had been looked into in	null	null	null	null	UNANN	6653717	null	null	null	null
+195	25397	1	296	0	4154615	May and June , but there was no actionable intelligence .	null	null	null	null	UNANN	6653718	null	null	null	null
+195	25397	2	296	0	4154616	He did not recall discussing	null	null	null	null	UNANN	6653719	null	null	null	null
+195	25397	1	297	0	4154617	the August 6 report with the Attorney General or whether Rice had done so .	null	null	null	null	UNANN	6653720	null	null	null	null
+195	25397	2	297	0	4154618	He said	null	null	null	null	UNANN	6653721	null	null	null	null
+195	25397	1	298	0	4154619	that if his advisers had told him there was a cell in the United States , they would	null	null	null	null	UNANN	6653722	null	null	null	null
+195	25397	1	299	0	4154620	have moved to take care of it .	null	null	null	null	UNANN	6653723	null	null	null	null
+195	25397	2	299	0	4154621	That never happened .	null	null	null	null	UNANN	6653724	null	null	null	null
+195	25397	1	301	0	4154622	Although the following day 's SEIB repeated the title of this PDB , it did not contain	null	null	null	null	UNANN	6653725	null	null	null	null
+195	25397	1	302	0	4154623	the reference to hijackings , the alert in New York , the alleged casing of buildings	null	null	null	null	UNANN	6653726	null	null	null	null
+195	25397	1	303	0	4154624	in New York , the threat phoned in to the embassy , or the fact that the FBI had	null	null	null	null	UNANN	6653727	null	null	null	null
+195	25397	1	304	0	4154625	approximately 70 ongoing bin Ladin-related investigations .	null	null	null	null	UNANN	6653728	null	null	null	null
+195	25397	1	306	0	4154626	The following is the text of an item from the Presidential Daily Brief received by	null	null	null	null	UNANN	6653729	null	null	null	null
+195	25397	1	307	0	4154627	President George W. Bush on August 6 , 2001.37 Redacted material is indicated by	null	null	null	null	UNANN	6653730	null	null	null	null
+195	25397	1	308	0	4154628	brackets .	null	null	null	null	UNANN	6653731	null	null	null	null
+195	25397	1	310	0	4154629	Bin Ladin Determined To Strike in US Clandestine , foreign government , and media	null	null	null	null	UNANN	6653732	null	null	null	null
+195	25397	1	311	0	4154630	reports indicate Bin Ladin since 1997 has wanted to conduct terrorist attacks in	null	null	null	null	UNANN	6653733	null	null	null	null
+195	25397	1	312	0	4154631	the US .	null	null	null	null	UNANN	6653734	null	null	null	null
+195	25397	2	312	0	4154632	Bin Ladin implied in US television interviews in 1997 and 1998 that his	null	null	null	null	UNANN	6653735	null	null	null	null
+195	25397	1	313	0	4154633	followers would follow the example of World Trade Center bomber Ramzi Yousef and	null	null	null	null	UNANN	6653736	null	null	null	null
+195	25397	1	314	0	4154634	'' bring the fighting to America . ''	null	null	null	null	UNANN	6653737	null	null	null	null
+195	25397	2	314	0	4154635	After US missile strikes on his base in	null	null	null	null	UNANN	6653738	null	null	null	null
+195	25397	1	315	0	4154636	Afghanistan in 1998 , Bin Ladin told followers he wanted to retaliate in	null	null	null	null	UNANN	6653739	null	null	null	null
+195	25397	1	316	0	4154637	Washington , according to a [ - ] service .	null	null	null	null	UNANN	6653740	null	null	null	null
+195	25397	1	317	0	4154638	An Egyptian Islamic Jihad ( EIJ ) operative told an [ - ] service at the same time	null	null	null	null	UNANN	6653741	null	null	null	null
+195	25397	1	318	0	4154639	that Bin Ladin was planning to exploit the operative 's access to the US to mount	null	null	null	null	UNANN	6653742	null	null	null	null
+195	25397	1	319	0	4154640	a terrorist strike .	null	null	null	null	UNANN	6653743	null	null	null	null
+195	25397	1	320	0	4154641	The millennium plotting in Canada in 1999 may have been part of Bin Ladin 's first	null	null	null	null	UNANN	6653744	null	null	null	null
+195	25397	1	321	0	4154642	serious attempt to implement a terrorist strike in the US .	null	null	null	null	UNANN	6653745	null	null	null	null
+195	25397	2	321	0	4154643	Convicted plotter	null	null	null	null	UNANN	6653746	null	null	null	null
+195	25397	1	322	0	4154644	Ahmed Ressam has told the FBI that he conceived the idea to attack Los Angeles	null	null	null	null	UNANN	6653747	null	null	null	null
+195	25397	1	323	0	4154645	International Airport himself , but that Bin Ladin lieutenant Abu Zubaydah	null	null	null	null	UNANN	6653748	null	null	null	null
+195	25397	1	324	0	4154646	encouraged him and helped facilitate the operation .	null	null	null	null	UNANN	6653749	null	null	null	null
+195	25397	2	324	0	4154647	Ressam also said that in	null	null	null	null	UNANN	6653750	null	null	null	null
+195	25397	1	325	0	4154648	1998 Abu Zubaydah was planning his own US attack .	null	null	null	null	UNANN	6653751	null	null	null	null
+195	25397	1	326	0	4154649	Ressam says Bin Ladin was aware of the Los Angeles operation .	null	null	null	null	UNANN	6653752	null	null	null	null
+195	25397	1	327	0	4154650	Although Bin Ladin has not succeeded , his attacks against the US Embassies in	null	null	null	null	UNANN	6653753	null	null	null	null
+195	25397	1	328	0	4154651	Kenya and Tanzania in 1998 demonstrate that he prepares operations years in	null	null	null	null	UNANN	6653754	null	null	null	null
+195	25397	1	329	0	4154652	advance and is not deterred by setbacks .	null	null	null	null	UNANN	6653755	null	null	null	null
+195	25397	2	329	0	4154653	Bin Ladin associates surveilled our	null	null	null	null	UNANN	6653756	null	null	null	null
+195	25397	1	330	0	4154654	Embassies in Nairobi and Dar es Salaam as early as 1993 , and some members of the	null	null	null	null	UNANN	6653757	null	null	null	null
+195	25397	1	331	0	4154655	Nairobi cell planning the bombings were arrested and deported in 1997 .	null	null	null	null	UNANN	6653758	null	null	null	null
+195	25397	1	332	0	4154656	Al-Qa'ida members-including some who are US citizens-have resided in or traveled	null	null	null	null	UNANN	6653759	null	null	null	null
+195	25397	1	333	0	4154657	to the US for years , and the group apparently maintains a support structure that	null	null	null	null	UNANN	6653760	null	null	null	null
+195	25397	1	334	0	4154658	could aid attacks .	null	null	null	null	UNANN	6653761	null	null	null	null
+195	25397	2	334	0	4154659	Two al-Qua ' da members found guilty in the conspiracy to bomb	null	null	null	null	UNANN	6653762	null	null	null	null
+195	25397	1	335	0	4154660	our embassies in East Africa were US citizens , and a senior EIJ member lived in	null	null	null	null	UNANN	6653763	null	null	null	null
+195	25397	1	336	0	4154661	California in the mid- 1990s .	null	null	null	null	UNANN	6653764	null	null	null	null
+195	25397	2	336	0	4154662	A clandestine source said in 1998 that a Bin Ladin	null	null	null	null	UNANN	6653765	null	null	null	null
+195	25397	1	337	0	4154663	cell in New York was recruiting Muslim-American youth for attacks .	null	null	null	null	UNANN	6653766	null	null	null	null
+195	25397	1	338	0	4154664	We have not been able to corroborate some of the more sensational threat	null	null	null	null	UNANN	6653767	null	null	null	null
+195	25397	1	339	0	4154665	reporting , such as that from a [ - ] service in 1998 saying that Bin Ladin wanted	null	null	null	null	UNANN	6653768	null	null	null	null
+195	25397	1	340	0	4154666	to hijack a US aircraft to gain the release of `` Blind Shaykh ''	null	null	null	null	UNANN	6653769	null	null	null	null
+195	25397	2	340	0	4154667	'Umar 'Abd	null	null	null	null	UNANN	6653770	null	null	null	null
+195	25397	1	341	0	4154668	al-Rahman and other US -held extremists .	null	null	null	null	UNANN	6653771	null	null	null	null
+195	25397	1	342	0	4154669	Nevertheless , FBI information since that time indicates patterns of suspicious	null	null	null	null	UNANN	6653772	null	null	null	null
+195	25397	1	343	0	4154670	activity in this country consistent with preparations for hijackings or other	null	null	null	null	UNANN	6653773	null	null	null	null
+195	25397	1	344	0	4154671	types of attacks , including recent surveillance of federal buildings in New	null	null	null	null	UNANN	6653774	null	null	null	null
+195	25397	1	345	0	4154672	York .	null	null	null	null	UNANN	6653775	null	null	null	null
+195	25397	1	346	0	4154673	The FBI is conducting approximately 70 full field investigations throughout the	null	null	null	null	UNANN	6653776	null	null	null	null
+195	25397	1	347	0	4154674	US that it considers Bin Ladin -related .	null	null	null	null	UNANN	6653777	null	null	null	null
+195	25397	2	347	0	4154675	CIA and the FBI are investigating a call	null	null	null	null	UNANN	6653778	null	null	null	null
+195	25397	1	348	0	4154676	to our Embassy in the UAE in May saying that a group of Bin Ladin supporters was	null	null	null	null	UNANN	6653779	null	null	null	null
+195	25397	1	349	0	4154677	in the US planning attacks with explosives .	null	null	null	null	UNANN	6653780	null	null	null	null
+195	25397	1	351	0	4154678	No CSG or other NSC meeting was held to discuss the possible threat of a strike in	null	null	null	null	UNANN	6653781	null	null	null	null
+195	25397	1	352	0	4154679	the United States as a result of this report .	null	null	null	null	UNANN	6653782	null	null	null	null
+195	25397	1	353	0	4154680	Late in the month , a foreign service reported that Abu Zubaydah was considering	null	null	null	null	UNANN	6653783	null	null	null	null
+195	25397	1	354	0	4154681	mounting terrorist attacks in the United States , after postponing possible	null	null	null	null	UNANN	6653784	null	null	null	null
+195	25397	1	355	0	4154682	operations in Europe .	null	null	null	null	UNANN	6653785	null	null	null	null
+195	25397	2	355	0	4154683	No targets , timing , or method of attack were provided .	null	null	null	null	UNANN	6653786	null	null	null	null
+195	25397	1	357	0	4154684	We have found no indication of any further discussion before September 11 among the	null	null	null	null	UNANN	6653787	null	null	null	null
+195	25397	1	358	0	4154685	President and his top advisers of the possibility of a threat of an al Qaeda attack	null	null	null	null	UNANN	6653788	null	null	null	null
+195	25397	1	359	0	4154686	in the United States .	null	null	null	null	UNANN	6653789	null	null	null	null
+195	25397	2	359	0	4154687	DCI Tenet visited President Bush in Crawford , Texas , on August	null	null	null	null	UNANN	6653790	null	null	null	null
+195	25397	1	360	0	4154688	17 and participated in PDB briefings of the President between August 31 ( after the	null	null	null	null	UNANN	6653791	null	null	null	null
+195	25397	1	361	0	4154689	President had returned to Washington ) and September 10 .	null	null	null	null	UNANN	6653792	null	null	null	null
+195	25397	2	361	0	4154690	But Tenet does not recall	null	null	null	null	UNANN	6653793	null	null	null	null
+195	25397	1	362	0	4154691	any discussions with the President of the domestic threat during this period .	null	null	null	null	UNANN	6653794	null	null	null	null
+195	25397	1	364	0	4154692	Most of the intelligence community recognized in the summer of 2001 that the number	null	null	null	null	UNANN	6653795	null	null	null	null
+195	25397	1	365	0	4154693	and severity of threat reports were unprecedented .	null	null	null	null	UNANN	6653796	null	null	null	null
+195	25397	2	365	0	4154694	Many officials told us that they	null	null	null	null	UNANN	6653797	null	null	null	null
+195	25397	1	366	0	4154695	knew something terrible was planned , and they were desperate to stop it .	null	null	null	null	UNANN	6653798	null	null	null	null
+195	25397	2	366	0	4154696	Despite	null	null	null	null	UNANN	6653799	null	null	null	null
+195	25397	1	367	0	4154697	their large number , the threats received contained few specifics regarding time,	null	null	null	null	UNANN	6653800	null	null	null	null
+195	25397	1	368	0	4154698	place , method , or target .	null	null	null	null	UNANN	6653801	null	null	null	null
+195	25397	2	368	0	4154699	Most suggested that attacks were planned against targets	null	null	null	null	UNANN	6653802	null	null	null	null
+195	25397	1	369	0	4154700	overseas ; others indicated threats against unspecified `` U.S. interests . ''	null	null	null	null	UNANN	6653803	null	null	null	null
+195	25397	2	369	0	4154701	We can not	null	null	null	null	UNANN	6653804	null	null	null	null
+195	25397	1	370	0	4154702	say for certain whether these reports , as dramatic as they were , related to the 9/11	null	null	null	null	UNANN	6653805	null	null	null	null
+195	25397	1	371	0	4154703	attacks .	null	null	null	null	UNANN	6653806	null	null	null	null
+195	25397	1	372	0	4154704	Government Response to the Threats	null	null	null	null	UNANN	6653807	null	null	null	null
+195	25397	1	373	0	4154705	National Security Advisor Rice told us that the CSG was the `` nerve center '' for	null	null	null	null	UNANN	6653808	null	null	null	null
+195	25397	1	374	0	4154706	running the crisis , although other senior officials were involved over the course of	null	null	null	null	UNANN	6653809	null	null	null	null
+195	25397	1	375	0	4154707	the summer .	null	null	null	null	UNANN	6653810	null	null	null	null
+195	25397	2	375	0	4154708	In addition to his daily meetings with President Bush , and weekly	null	null	null	null	UNANN	6653811	null	null	null	null
+195	25397	1	376	0	4154709	meetings to go over other issues with Rice , Tenet was speaking regularly with	null	null	null	null	UNANN	6653812	null	null	null	null
+195	25397	1	377	0	4154710	Secretary of State Colin Powell and Secretary of Defense Donald Rumsfeld .	null	null	null	null	UNANN	6653813	null	null	null	null
+195	25397	2	377	0	4154711	The	null	null	null	null	UNANN	6653814	null	null	null	null
+195	25397	1	378	0	4154712	foreign policy principals routinely talked on the telephone every day on a variety	null	null	null	null	UNANN	6653815	null	null	null	null
+195	25397	1	379	0	4154713	of topics .	null	null	null	null	UNANN	6653816	null	null	null	null
+195	25397	1	381	0	4154714	Hadley told us that before 9/11 , he and Rice did not feel they had the job of	null	null	null	null	UNANN	6653817	null	null	null	null
+195	25397	1	382	0	4154715	coordinating domestic agencies .	null	null	null	null	UNANN	6653818	null	null	null	null
+195	25397	2	382	0	4154716	They felt that Clarke and the CSG ( part of the NSC )	null	null	null	null	UNANN	6653819	null	null	null	null
+195	25397	1	383	0	4154717	were the NSC 's bridge between foreign and domestic threats .	null	null	null	null	UNANN	6653820	null	null	null	null
+195	25397	1	385	0	4154718	There was a clear disparity in the levels of response to foreign versus domestic	null	null	null	null	UNANN	6653821	null	null	null	null
+195	25397	1	386	0	4154719	threats .	null	null	null	null	UNANN	6653822	null	null	null	null
+195	25397	2	386	0	4154720	Numerous actions were taken overseas to disrupt possible attacks- enlisting	null	null	null	null	UNANN	6653823	null	null	null	null
+195	25397	1	387	0	4154721	foreign partners to upset terrorist plans , closing embassies , moving military assets	null	null	null	null	UNANN	6653824	null	null	null	null
+195	25397	1	388	0	4154722	out of the way of possible harm .	null	null	null	null	UNANN	6653825	null	null	null	null
+195	25397	2	388	0	4154723	Far less was done domestically- in part , surely,	null	null	null	null	UNANN	6653826	null	null	null	null
+195	25397	1	389	0	4154724	because to the extent that specifics did exist , they pertained to threats overseas .	null	null	null	null	UNANN	6653827	null	null	null	null
+195	25397	1	390	0	4154725	As noted earlier , a threat against the embassy in Yemen quickly resulted in its	null	null	null	null	UNANN	6653828	null	null	null	null
+195	25397	1	391	0	4154726	closing .	null	null	null	null	UNANN	6653829	null	null	null	null
+195	25397	2	391	0	4154727	Possible domestic threats were more vague .	null	null	null	null	UNANN	6653830	null	null	null	null
+195	25397	3	391	0	4154728	When reports did not specify	null	null	null	null	UNANN	6653831	null	null	null	null
+195	25397	1	392	0	4154729	where the attacks were to take place , officials presumed that they would again be	null	null	null	null	UNANN	6653832	null	null	null	null
+195	25397	1	393	0	4154730	overseas , though they did not rule out a target in the United States .	null	null	null	null	UNANN	6653833	null	null	null	null
+195	25397	2	393	0	4154731	Each of the	null	null	null	null	UNANN	6653834	null	null	null	null
+195	25397	1	394	0	4154732	FBI threat advisories made this point .	null	null	null	null	UNANN	6653835	null	null	null	null
+195	25397	1	396	0	4154733	Clarke mentioned to National Security Advisor Rice at least twice that al Qaeda	null	null	null	null	UNANN	6653836	null	null	null	null
+195	25397	1	397	0	4154734	sleeper cells were likely in the United States .	null	null	null	null	UNANN	6653837	null	null	null	null
+195	25397	2	397	0	4154735	In January 2001 , Clarke forwarded a	null	null	null	null	UNANN	6653838	null	null	null	null
+195	25397	1	398	0	4154736	strategy paper to Rice warning that al Qaeda had a presence in the United States .	null	null	null	null	UNANN	6653839	null	null	null	null
+195	25397	2	398	0	4154737	He	null	null	null	null	UNANN	6653840	null	null	null	null
+195	25397	1	399	0	4154738	noted that two key al Qaeda members in the Jordanian cell involved in the millennium	null	null	null	null	UNANN	6653841	null	null	null	null
+195	25397	1	400	0	4154739	plot were naturalized U.S. citizens and that one jihadist suspected in the East	null	null	null	null	UNANN	6653842	null	null	null	null
+195	25397	1	401	0	4154740	Africa bombings had `` informed the FBI that an extensive network of al Qida 'sleeper	null	null	null	null	UNANN	6653843	null	null	null	null
+195	25397	1	402	0	4154741	agents ' currently exists in the US . ''	null	null	null	null	UNANN	6653844	null	null	null	null
+195	25397	2	402	0	4154742	He added that Ressam 's abortive December 1999	null	null	null	null	UNANN	6653845	null	null	null	null
+195	25397	1	403	0	4154743	attack revealed al Qaeda supporters in the United States .	null	null	null	null	UNANN	6653846	null	null	null	null
+195	25397	1	405	0	4154744	His analysis , however , was based not on new threat reporting but on past experience .	null	null	null	null	UNANN	6653847	null	null	null	null
+195	25397	1	406	0	4154745	The September 11 attacks fell into the void between the foreign and domestic threats .	null	null	null	null	UNANN	6653848	null	null	null	null
+195	25397	1	407	0	4154746	The foreign intelligence agencies were watching overseas , alert to foreign threats	null	null	null	null	UNANN	6653849	null	null	null	null
+195	25397	1	408	0	4154747	to U.S. interests there .	null	null	null	null	UNANN	6653850	null	null	null	null
+195	25397	2	408	0	4154748	The domestic agencies were waiting for evidence of a	null	null	null	null	UNANN	6653851	null	null	null	null
+195	25397	1	409	0	4154749	domestic threat from sleeper cells within the United States .	null	null	null	null	UNANN	6653852	null	null	null	null
+195	25397	2	409	0	4154750	No one was looking for	null	null	null	null	UNANN	6653853	null	null	null	null
+195	25397	1	410	0	4154751	a foreign threat to domestic targets .	null	null	null	null	UNANN	6653854	null	null	null	null
+195	25397	2	410	0	4154752	The threat that was coming was not from	null	null	null	null	UNANN	6653855	null	null	null	null
+195	25397	1	411	0	4154753	sleeper cells .	null	null	null	null	UNANN	6653856	null	null	null	null
+195	25397	2	411	0	4154754	It was foreign-but from foreigners who had infiltrated into the	null	null	null	null	UNANN	6653857	null	null	null	null
+195	25397	1	412	0	4154755	United States .	null	null	null	null	UNANN	6653858	null	null	null	null
+195	25397	1	413	0	4154756	A second cause of this disparity in response is that domestic agencies did not know	null	null	null	null	UNANN	6653859	null	null	null	null
+195	25397	1	414	0	4154757	what to do , and no one gave them direction .	null	null	null	null	UNANN	6653860	null	null	null	null
+195	25397	2	414	0	4154758	Cressey told us that the CSG did not	null	null	null	null	UNANN	6653861	null	null	null	null
+195	25397	1	415	0	4154759	tell the agencies how to respond to the threats .	null	null	null	null	UNANN	6653862	null	null	null	null
+195	25397	2	415	0	4154760	He noted that the agencies that	null	null	null	null	UNANN	6653863	null	null	null	null
+195	25397	1	416	0	4154761	were operating overseas did not need direction on how to respond ; they had	null	null	null	null	UNANN	6653864	null	null	null	null
+195	25397	1	417	0	4154762	experience with such threats and had a `` playbook . ''	null	null	null	null	UNANN	6653865	null	null	null	null
+195	25397	2	417	0	4154763	In contrast , the domestic	null	null	null	null	UNANN	6653866	null	null	null	null
+195	25397	1	418	0	4154764	agencies did not have a game plan .	null	null	null	null	UNANN	6653867	null	null	null	null
+195	25397	2	418	0	4154765	Neither the NSC ( including the CSG ) nor anyone	null	null	null	null	UNANN	6653868	null	null	null	null
+195	25397	1	419	0	4154766	else instructed them to create one .	null	null	null	null	UNANN	6653869	null	null	null	null
+195	25397	1	421	0	4154767	This lack of direction was evident in the July 5 meeting with representatives from	null	null	null	null	UNANN	6653870	null	null	null	null
+195	25397	1	422	0	4154768	the domestic agencies .	null	null	null	null	UNANN	6653871	null	null	null	null
+195	25397	2	422	0	4154769	The briefing focused on overseas threats .	null	null	null	null	UNANN	6653872	null	null	null	null
+195	25397	3	422	0	4154770	The domestic	null	null	null	null	UNANN	6653873	null	null	null	null
+195	25397	1	423	0	4154771	agencies were not questioned about how they planned to address the threat and were	null	null	null	null	UNANN	6653874	null	null	null	null
+195	25397	1	424	0	4154772	not told what was expected of them .	null	null	null	null	UNANN	6653875	null	null	null	null
+195	25397	2	424	0	4154773	Indeed , as noted earlier , they were specifically	null	null	null	null	UNANN	6653876	null	null	null	null
+195	25397	1	425	0	4154774	told they could not issue advisories based on the briefing .	null	null	null	null	UNANN	6653877	null	null	null	null
+195	25397	2	425	0	4154775	46 The domestic	null	null	null	null	UNANN	6653878	null	null	null	null
+195	25397	1	426	0	4154776	agencies ' limited response indicates that they did not perceive a call to action .	null	null	null	null	UNANN	6653879	null	null	null	null
+195	25397	1	427	0	4154777	Clarke reflected a different perspective in an email to Rice on September 15, 2001 .	null	null	null	null	UNANN	6653880	null	null	null	null
+195	25397	1	428	0	4154778	He summarized the steps taken by the CSG to alert domestic agencies to the	null	null	null	null	UNANN	6653881	null	null	null	null
+195	25397	1	429	0	4154779	possibility of an attack in the United States .	null	null	null	null	UNANN	6653882	null	null	null	null
+195	25397	2	429	0	4154780	Clarke concluded that domestic	null	null	null	null	UNANN	6653883	null	null	null	null
+195	25397	1	430	0	4154781	agencies , including the FAA , knew that the CSG believed a major al Qaeda attack was	null	null	null	null	UNANN	6653884	null	null	null	null
+195	25397	1	431	0	4154782	coming and could be in the United States .	null	null	null	null	UNANN	6653885	null	null	null	null
+195	25397	1	432	0	4154783	Although the FAA had authority to issue security directives mandating new security	null	null	null	null	UNANN	6653886	null	null	null	null
+195	25397	1	433	0	4154784	procedures , none of the few that were released during the summer of 2001 increased	null	null	null	null	UNANN	6653887	null	null	null	null
+195	25397	1	434	0	4154785	security at checkpoints or on board aircraft .	null	null	null	null	UNANN	6653888	null	null	null	null
+195	25397	2	434	0	4154786	The information circulars mostly urged	null	null	null	null	UNANN	6653889	null	null	null	null
+195	25397	1	435	0	4154787	air carriers to `` exercise prudence '' and be alert .	null	null	null	null	UNANN	6653890	null	null	null	null
+195	25397	2	435	0	4154788	Prior to 9/11 , the FAA did present	null	null	null	null	UNANN	6653891	null	null	null	null
+195	25397	1	436	0	4154789	a CD-ROM to air carriers and airport authorities describing the increased threat to	null	null	null	null	UNANN	6653892	null	null	null	null
+195	25397	1	437	0	4154790	civil aviation .	null	null	null	null	UNANN	6653893	null	null	null	null
+195	25397	2	437	0	4154791	The presentation mentioned the possibility of suicide hijackings but	null	null	null	null	UNANN	6653894	null	null	null	null
+195	25397	1	438	0	4154792	said that `` fortunately , we have no indication that any group is currently thinking	null	null	null	null	UNANN	6653895	null	null	null	null
+195	25397	1	439	0	4154793	in that direction . ''	null	null	null	null	UNANN	6653896	null	null	null	null
+195	25397	2	439	0	4154794	The FAA conducted 27 special security	null	null	null	null	UNANN	6653897	null	null	null	null
+195	25397	1	440	0	4154795	briefings for specific air carriers between May 1, 2001 , and September 11, 2001 .	null	null	null	null	UNANN	6653898	null	null	null	null
+195	25397	2	440	0	4154796	Two	null	null	null	null	UNANN	6653899	null	null	null	null
+195	25397	1	441	0	4154797	of these briefings discussed the hijacking threat overseas .	null	null	null	null	UNANN	6653900	null	null	null	null
+195	25397	2	441	0	4154798	None discussed the	null	null	null	null	UNANN	6653901	null	null	null	null
+195	25397	1	442	0	4154799	possibility of suicide hijackings or the use of aircraft as weapons .	null	null	null	null	UNANN	6653902	null	null	null	null
+195	25397	2	442	0	4154800	No new security	null	null	null	null	UNANN	6653903	null	null	null	null
+195	25397	1	443	0	4154801	measures were instituted .	null	null	null	null	UNANN	6653904	null	null	null	null
+195	25397	1	445	0	4154802	Rice told us she understood that the FBI had tasked its 56 U.S. field offices to	null	null	null	null	UNANN	6653905	null	null	null	null
+195	25397	1	446	0	4154803	increase surveillance of suspected terrorists and to reach out to informants who	null	null	null	null	UNANN	6653906	null	null	null	null
+195	25397	1	447	0	4154804	might have information about terrorist plots .	null	null	null	null	UNANN	6653907	null	null	null	null
+195	25397	2	447	0	4154805	An NSC staff document at the time	null	null	null	null	UNANN	6653908	null	null	null	null
+195	25397	1	448	0	4154806	describes such a tasking as having occurred in late June but does not indicate	null	null	null	null	UNANN	6653909	null	null	null	null
+195	25397	1	449	0	4154807	whether it was generated by the NSC or the FBI .	null	null	null	null	UNANN	6653910	null	null	null	null
+195	25397	2	449	0	4154808	Other than the previously described	null	null	null	null	UNANN	6653911	null	null	null	null
+195	25397	1	450	0	4154809	April 13 communication sent to all FBI field offices , however , the FBI could not	null	null	null	null	UNANN	6653912	null	null	null	null
+195	25397	1	451	0	4154810	find any record of having received such a directive .	null	null	null	null	UNANN	6653913	null	null	null	null
+195	25397	2	451	0	4154811	The April 13 document asking	null	null	null	null	UNANN	6653914	null	null	null	null
+195	25397	1	452	0	4154812	field offices to gather information on Sunni extremism did not mention any possible	null	null	null	null	UNANN	6653915	null	null	null	null
+195	25397	1	453	0	4154813	threat within the United States and did not order surveillance of suspected	null	null	null	null	UNANN	6653916	null	null	null	null
+195	25397	1	454	0	4154814	operatives .	null	null	null	null	UNANN	6653917	null	null	null	null
+195	25397	2	454	0	4154815	The NSC did not specify what the FBI 's directives should contain and did	null	null	null	null	UNANN	6653918	null	null	null	null
+195	25397	1	455	0	4154816	not review what had been issued earlier .	null	null	null	null	UNANN	6653919	null	null	null	null
+195	25397	1	457	0	4154817	Acting FBI Director Pickard told us that in addition to his July 19 conference call,	null	null	null	null	UNANN	6653920	null	null	null	null
+195	25397	1	458	0	4154818	he mentioned the heightened terrorist threat in individual calls with the special	null	null	null	null	UNANN	6653921	null	null	null	null
+195	25397	1	459	0	4154819	agents in charge of field offices during their annual performance review	null	null	null	null	UNANN	6653922	null	null	null	null
+195	25397	1	460	0	4154820	discussions .	null	null	null	null	UNANN	6653923	null	null	null	null
+195	25397	2	460	0	4154821	In speaking with agents around the country , we found little evidence	null	null	null	null	UNANN	6653924	null	null	null	null
+195	25397	1	461	0	4154822	that any such concerns had reached FBI personnel beyond the New York Field	null	null	null	null	UNANN	6653925	null	null	null	null
+195	25397	1	462	0	4154823	Office .	null	null	null	null	UNANN	6653926	null	null	null	null
+195	25397	1	464	0	4154824	The head of counterterrorism at the FBI , Dale Watson , said he had many discussions	null	null	null	null	UNANN	6653927	null	null	null	null
+195	25397	1	465	0	4154825	about possible attacks with Cofer Black at the CIA .	null	null	null	null	UNANN	6653928	null	null	null	null
+195	25397	2	465	0	4154826	They had expected an attack on	null	null	null	null	UNANN	6653929	null	null	null	null
+195	25397	1	466	0	4154827	July 4 .	null	null	null	null	UNANN	6653930	null	null	null	null
+195	25397	2	466	0	4154828	Watson said he felt deeply that something was going to happen .	null	null	null	null	UNANN	6653931	null	null	null	null
+195	25397	3	466	0	4154829	But he told	null	null	null	null	UNANN	6653932	null	null	null	null
+195	25397	1	467	0	4154830	us the threat information was `` nebulous . ''	null	null	null	null	UNANN	6653933	null	null	null	null
+195	25397	2	467	0	4154831	He wished he had known more .	null	null	null	null	UNANN	6653934	null	null	null	null
+195	25397	3	467	0	4154832	He wished he	null	null	null	null	UNANN	6653935	null	null	null	null
+195	25397	1	468	0	4154833	had had `` 500 analysts looking at Usama Bin Ladin threat information instead of	null	null	null	null	UNANN	6653936	null	null	null	null
+195	25397	1	469	0	4154834	two . ''	null	null	null	null	UNANN	6653937	null	null	null	null
+195	25397	1	471	0	4154835	Attorney General Ashcroft was briefed by the CIA in May and by Pickard in early July	null	null	null	null	UNANN	6653938	null	null	null	null
+195	25397	1	472	0	4154836	about the danger .	null	null	null	null	UNANN	6653939	null	null	null	null
+195	25397	2	472	0	4154837	Pickard said he met with Ashcroft once a week in late June ,	null	null	null	null	UNANN	6653940	null	null	null	null
+195	25397	1	473	0	4154838	through July , and twice in August .	null	null	null	null	UNANN	6653941	null	null	null	null
+195	25397	2	473	0	4154839	There is a dispute regarding Ashcroft 's interest	null	null	null	null	UNANN	6653942	null	null	null	null
+195	25397	1	474	0	4154840	in Pickard 's briefings about the terrorist threat situation .	null	null	null	null	UNANN	6653943	null	null	null	null
+195	25397	2	474	0	4154841	Pickard told us that	null	null	null	null	UNANN	6653944	null	null	null	null
+195	25397	1	475	0	4154842	after two such briefings Ashcroft told him that he did not want to hear about the	null	null	null	null	UNANN	6653945	null	null	null	null
+195	25397	1	476	0	4154843	threats anymore .	null	null	null	null	UNANN	6653946	null	null	null	null
+195	25397	2	476	0	4154844	Ashcroft denies Pickard 's charge .	null	null	null	null	UNANN	6653947	null	null	null	null
+195	25397	3	476	0	4154845	Pickard says he continued to	null	null	null	null	UNANN	6653948	null	null	null	null
+195	25397	1	477	0	4154846	present terrorism information during further briefings that summer , but nothing	null	null	null	null	UNANN	6653949	null	null	null	null
+195	25397	1	478	0	4154847	further on the `` chatter '' the U.S. government was receiving .	null	null	null	null	UNANN	6653950	null	null	null	null
+195	25397	1	480	0	4154848	The Attorney General told us he asked Pickard whether there was intelligence about	null	null	null	null	UNANN	6653951	null	null	null	null
+195	25397	1	481	0	4154849	attacks in the United States and that Pickard said no . Pickard said he replied that	null	null	null	null	UNANN	6653952	null	null	null	null
+195	25397	1	482	0	4154850	he could not assure Ashcroft that there would be no attacks in the United States ,	null	null	null	null	UNANN	6653953	null	null	null	null
+195	25397	1	483	0	4154851	although the reports of threats were related to overseas targets .	null	null	null	null	UNANN	6653954	null	null	null	null
+195	25397	2	483	0	4154852	Ashcroft said he	null	null	null	null	UNANN	6653955	null	null	null	null
+195	25397	1	484	0	4154853	therefore assumed the FBI was doing what it needed to do .	null	null	null	null	UNANN	6653956	null	null	null	null
+195	25397	2	484	0	4154854	He acknowledged that in	null	null	null	null	UNANN	6653957	null	null	null	null
+195	25397	1	485	0	4154855	retrospect , this was a dangerous assumption .	null	null	null	null	UNANN	6653958	null	null	null	null
+195	25397	2	485	0	4154856	He did not ask the FBI what it was	null	null	null	null	UNANN	6653959	null	null	null	null
+195	25397	1	486	0	4154857	doing in response to the threats and did not task it to take any specific action .	null	null	null	null	UNANN	6653960	null	null	null	null
+195	25397	2	486	0	4154858	He	null	null	null	null	UNANN	6653961	null	null	null	null
+195	25397	1	487	0	4154859	also did not direct the INS , then still part of the Department of Justice , to take	null	null	null	null	UNANN	6653962	null	null	null	null
+195	25397	1	488	0	4154860	any specific action .	null	null	null	null	UNANN	6653963	null	null	null	null
+195	25397	1	490	0	4154861	In sum , the domestic agencies never mobilized in response to the threat .	null	null	null	null	UNANN	6653964	null	null	null	null
+195	25397	2	490	0	4154862	They did not	null	null	null	null	UNANN	6653965	null	null	null	null
+195	25397	1	491	0	4154863	have direction , and did not have a plan to institute .	null	null	null	null	UNANN	6653966	null	null	null	null
+195	25397	2	491	0	4154864	The borders were not hardened .	null	null	null	null	UNANN	6653967	null	null	null	null
+195	25397	1	492	0	4154865	Transportation systems were not fortified .	null	null	null	null	UNANN	6653968	null	null	null	null
+195	25397	2	492	0	4154866	Electronic surveillance was not targeted	null	null	null	null	UNANN	6653969	null	null	null	null
+195	25397	1	493	0	4154867	against a domestic threat .	null	null	null	null	UNANN	6653970	null	null	null	null
+195	25397	1	495	0	4154868	State and local law enforcement were not marshaled to augment the FBI 's efforts .	null	null	null	null	UNANN	6653971	null	null	null	null
+195	25397	2	495	0	4154869	The	null	null	null	null	UNANN	6653972	null	null	null	null
+195	25397	1	496	0	4154870	public was not warned .	null	null	null	null	UNANN	6653973	null	null	null	null
+195	25397	1	497	0	4154871	The terrorists exploited deep institutional failings within our government .	null	null	null	null	UNANN	6653974	null	null	null	null
+195	25397	2	497	0	4154872	The	null	null	null	null	UNANN	6653975	null	null	null	null
+195	25397	1	498	0	4154873	question is whether extra vigilance might have turned up an opportunity to disrupt	null	null	null	null	UNANN	6653976	null	null	null	null
+195	25397	1	499	0	4154874	the plot .	null	null	null	null	UNANN	6653977	null	null	null	null
+195	25397	2	499	0	4154875	As seen in chapter 7 , al Qaeda's operatives made mistakes .	null	null	null	null	UNANN	6653978	null	null	null	null
+195	25397	3	499	0	4154876	At least two	null	null	null	null	UNANN	6653979	null	null	null	null
+195	25397	1	500	0	4154877	such mistakes created opportunities during 2001 , especially in late August .	null	null	null	null	UNANN	6653980	null	null	null	null
+195	25397	1	501	0	4154878	LATE LEADS-MIHDHAR , MOUSSAOUI , AND KSM	null	null	null	null	UNANN	6653981	null	null	null	null
+195	25397	1	502	0	4154879	In chapter 6 we discussed how intelligence agencies successfully detected some of the	null	null	null	null	UNANN	6653982	null	null	null	null
+195	25397	1	503	0	4154880	early travel in the planes operation , picking up the movements of Khalid al Mihdhar	null	null	null	null	UNANN	6653983	null	null	null	null
+195	25397	1	504	0	4154881	and identifying him , and seeing his travel converge with someone they perhaps could	null	null	null	null	UNANN	6653984	null	null	null	null
+195	25397	1	505	0	4154882	have identified but did not- Nawaf al Hazmi -as well as with less easily identifiable	null	null	null	null	UNANN	6653985	null	null	null	null
+195	25397	1	506	0	4154883	people such as Khallad and Abu Bara .	null	null	null	null	UNANN	6653986	null	null	null	null
+195	25397	2	506	0	4154884	These observations occurred in December 1999	null	null	null	null	UNANN	6653987	null	null	null	null
+195	25397	1	507	0	4154885	and January 2000 .	null	null	null	null	UNANN	6653988	null	null	null	null
+195	25397	2	507	0	4154886	The trail had been lost in January 2000 without a clear	null	null	null	null	UNANN	6653989	null	null	null	null
+195	25397	1	508	0	4154887	realization that it had been lost , and without much effort to pick it up again .	null	null	null	null	UNANN	6653990	null	null	null	null
+195	25397	2	508	0	4154888	Nor	null	null	null	null	UNANN	6653991	null	null	null	null
+195	25397	1	509	0	4154889	had the CIA placed Mihdhar on the State Department 's watchlist for suspected	null	null	null	null	UNANN	6653992	null	null	null	null
+195	25397	1	510	0	4154890	terrorists , so that either an embassy or a port of entry might take note if Mihdhar	null	null	null	null	UNANN	6653993	null	null	null	null
+195	25397	1	511	0	4154891	showed up again .	null	null	null	null	UNANN	6653994	null	null	null	null
+195	25397	1	512	0	4154892	On four occasions in 2001 , the CIA , the FBI , or both had apparent opportunities to	null	null	null	null	UNANN	6653995	null	null	null	null
+195	25397	1	513	0	4154893	refocus on the significance of Hazmi and Mihdhar and reinvigorate the search for	null	null	null	null	UNANN	6653996	null	null	null	null
+195	25397	1	514	0	4154894	them .	null	null	null	null	UNANN	6653997	null	null	null	null
+195	25397	2	514	0	4154895	After reviewing those episodes we will turn to the handling of the Moussaoui	null	null	null	null	UNANN	6653998	null	null	null	null
+195	25397	1	515	0	4154896	case and some late leads regarding Khalid Sheikh Mohammed .	null	null	null	null	UNANN	6653999	null	null	null	null
+195	25397	1	516	0	4154897	January 2001 : Identification of Khallad	null	null	null	null	UNANN	6654000	null	null	null	null
+195	25397	1	517	0	4154898	Almost one year after the original trail had been lost in Bangkok , the FBI and the	null	null	null	null	UNANN	6654001	null	null	null	null
+195	25397	1	518	0	4154899	CIA were working on the investigation of the Cole bombing .	null	null	null	null	UNANN	6654002	null	null	null	null
+195	25397	2	518	0	4154900	They learned of the link	null	null	null	null	UNANN	6654003	null	null	null	null
+195	25397	1	519	0	4154901	between a captured conspirator and a person called `` Khallad . ''	null	null	null	null	UNANN	6654004	null	null	null	null
+195	25397	2	519	0	4154902	They also learned that	null	null	null	null	UNANN	6654005	null	null	null	null
+195	25397	1	520	0	4154903	Khallad was a senior security official for Bin Ladin who had helped direct the	null	null	null	null	UNANN	6654006	null	null	null	null
+195	25397	1	521	0	4154904	bombing ( we introduced Khallad in chapter 5 , and returned to his role in the Cole	null	null	null	null	UNANN	6654007	null	null	null	null
+195	25397	1	522	0	4154905	bombing in chapter 6 ) .55 One of the members of the FBI 's investigative team in Yemen	null	null	null	null	UNANN	6654008	null	null	null	null
+195	25397	1	523	0	4154906	realized that he had heard of Khallad before , from a joint FBI / CIA source four	null	null	null	null	UNANN	6654009	null	null	null	null
+195	25397	1	524	0	4154907	months earlier .	null	null	null	null	UNANN	6654010	null	null	null	null
+195	25397	2	524	0	4154908	The FBI agent obtained from a foreign government a photo of the	null	null	null	null	UNANN	6654011	null	null	null	null
+195	25397	1	525	0	4154909	person believed to have directed the Cole bombing .	null	null	null	null	UNANN	6654012	null	null	null	null
+195	25397	2	525	0	4154910	It was shown to the source , and	null	null	null	null	UNANN	6654013	null	null	null	null
+195	25397	1	526	0	4154911	he confirmed that the man in that photograph was the same Khallad he had	null	null	null	null	UNANN	6654014	null	null	null	null
+195	25397	1	527	0	4154912	described .	null	null	null	null	UNANN	6654015	null	null	null	null
+195	25397	1	529	0	4154913	In December 2000 , on the basis of some links associated with Khalid al Mihdhar , the	null	null	null	null	UNANN	6654016	null	null	null	null
+195	25397	1	530	0	4154914	CIA 's Bin Ladin unit speculated that Khallad and Khalid al Mihdhar might be one and	null	null	null	null	UNANN	6654017	null	null	null	null
+195	25397	1	531	0	4154915	the same .	null	null	null	null	UNANN	6654018	null	null	null	null
+195	25397	1	533	0	4154916	The CIA asked that a Kuala Lumpur surveillance photo of Mihdhar be shown to the joint	null	null	null	null	UNANN	6654019	null	null	null	null
+195	25397	1	534	0	4154917	source who had identified Khallad .	null	null	null	null	UNANN	6654020	null	null	null	null
+195	25397	2	534	0	4154918	In early January 2001 , two photographs from the	null	null	null	null	UNANN	6654021	null	null	null	null
+195	25397	1	535	0	4154919	Kuala Lumpur meeting were shown to the source .	null	null	null	null	UNANN	6654022	null	null	null	null
+195	25397	2	535	0	4154920	One was a known photograph of	null	null	null	null	UNANN	6654023	null	null	null	null
+195	25397	1	536	0	4154921	Mihdhar , the other a photograph of a then unknown subject .	null	null	null	null	UNANN	6654024	null	null	null	null
+195	25397	2	536	0	4154922	The source did not	null	null	null	null	UNANN	6654025	null	null	null	null
+195	25397	1	537	0	4154923	recognize Mihdhar .	null	null	null	null	UNANN	6654026	null	null	null	null
+195	25397	2	537	0	4154924	But he indicated he was 90 percent certain that the other	null	null	null	null	UNANN	6654027	null	null	null	null
+195	25397	1	538	0	4154925	individual was Khallad .	null	null	null	null	UNANN	6654028	null	null	null	null
+195	25397	1	540	0	4154926	This meant that Khallad and Mihdhar were two different people .	null	null	null	null	UNANN	6654029	null	null	null	null
+195	25397	2	540	0	4154927	It also meant that	null	null	null	null	UNANN	6654030	null	null	null	null
+195	25397	1	541	0	4154928	there was a link between Khallad and Mihdhar , making Mihdhar seem even more	null	null	null	null	UNANN	6654031	null	null	null	null
+195	25397	1	542	0	4154929	suspicious.59Yet we found no effort by the CIA to renew the long-abandoned search	null	null	null	null	UNANN	6654032	null	null	null	null
+195	25397	1	543	0	4154930	for Mihdhar or his travel companions .	null	null	null	null	UNANN	6654033	null	null	null	null
+195	25397	1	544	0	4154931	In addition , we found that the CIA did not notify the FBI of this identification .	null	null	null	null	UNANN	6654034	null	null	null	null
+195	25397	1	545	0	4154932	DCITenet and Cofer Black testified before Congress 's Joint Inquiry into 9/11 that	null	null	null	null	UNANN	6654035	null	null	null	null
+195	25397	1	546	0	4154933	the FBI had access to this identification from the beginning .	null	null	null	null	UNANN	6654036	null	null	null	null
+195	25397	2	546	0	4154934	But drawing on an	null	null	null	null	UNANN	6654037	null	null	null	null
+195	25397	1	547	0	4154935	extensive record , including documents that were not available to the CIA personnel	null	null	null	null	UNANN	6654038	null	null	null	null
+195	25397	1	548	0	4154936	who drafted that testimony , we conclude this was not the case .	null	null	null	null	UNANN	6654039	null	null	null	null
+195	25397	2	548	0	4154937	The FBI 's primary	null	null	null	null	UNANN	6654040	null	null	null	null
+195	25397	1	549	0	4154938	Cole investigators had no knowledge that Khallad had been in Kuala Lumpur with	null	null	null	null	UNANN	6654041	null	null	null	null
+195	25397	1	550	0	4154939	Mihdhar and others until after the September 11 attacks .	null	null	null	null	UNANN	6654042	null	null	null	null
+195	25397	2	550	0	4154940	Because the FBI had not	null	null	null	null	UNANN	6654043	null	null	null	null
+195	25397	1	551	0	4154941	been informed in January 2000 about Mihdhar 's possession of a U.S. visa , it had not	null	null	null	null	UNANN	6654044	null	null	null	null
+195	25397	1	552	0	4154942	then started looking for him in the United States .	null	null	null	null	UNANN	6654045	null	null	null	null
+195	25397	2	552	0	4154943	Because it did not know of the	null	null	null	null	UNANN	6654046	null	null	null	null
+195	25397	1	553	0	4154944	links between Khallad and Mihdhar , it did not start looking for him in January	null	null	null	null	UNANN	6654047	null	null	null	null
+195	25397	1	554	0	4154945	2001 .	null	null	null	null	UNANN	6654048	null	null	null	null
+195	25397	1	556	0	4154946	This incident is an example of how day-to-day gaps in information sharing can emerge	null	null	null	null	UNANN	6654049	null	null	null	null
+195	25397	1	557	0	4154947	even when there is mutual goodwill .	null	null	null	null	UNANN	6654050	null	null	null	null
+195	25397	2	557	0	4154948	The information was from a joint FBI / CIA source	null	null	null	null	UNANN	6654051	null	null	null	null
+195	25397	1	558	0	4154949	who spoke essentially no English and whose languages were not understood by the FBI	null	null	null	null	UNANN	6654052	null	null	null	null
+195	25397	1	559	0	4154950	agent on the scene overseas .	null	null	null	null	UNANN	6654053	null	null	null	null
+195	25397	2	559	0	4154951	Issues of travel and security necessarily kept short	null	null	null	null	UNANN	6654054	null	null	null	null
+195	25397	1	560	0	4154952	the amount of time spent with the source .	null	null	null	null	UNANN	6654055	null	null	null	null
+195	25397	2	560	0	4154953	As a result , the CIA officer usually did	null	null	null	null	UNANN	6654056	null	null	null	null
+195	25397	1	561	0	4154954	not translate either questions or answers for his FBI colleague and friend .	null	null	null	null	UNANN	6654057	null	null	null	null
+195	25397	1	563	0	4154955	For interviews without simultaneous translation , the FBI agent on the scene received	null	null	null	null	UNANN	6654058	null	null	null	null
+195	25397	1	564	0	4154956	copies of the reports that the CIA disseminated to other agencies regarding the	null	null	null	null	UNANN	6654059	null	null	null	null
+195	25397	1	565	0	4154957	interviews .	null	null	null	null	UNANN	6654060	null	null	null	null
+195	25397	2	565	0	4154958	But he was not given access to the CIA 's internal operational reports,	null	null	null	null	UNANN	6654061	null	null	null	null
+195	25397	1	566	0	4154959	which contained more detail .	null	null	null	null	UNANN	6654062	null	null	null	null
+195	25397	2	566	0	4154960	It was there-in reporting to which FBI investigators	null	null	null	null	UNANN	6654063	null	null	null	null
+195	25397	1	567	0	4154961	did not have access-that information regarding the January 2001 identification of	null	null	null	null	UNANN	6654064	null	null	null	null
+195	25397	1	568	0	4154962	Khallad appeared .	null	null	null	null	UNANN	6654065	null	null	null	null
+195	25397	2	568	0	4154963	The CIA officer does not recall this particular identification and	null	null	null	null	UNANN	6654066	null	null	null	null
+195	25397	1	569	0	4154964	thus can not say why it was not shared with his FBI colleague .	null	null	null	null	UNANN	6654067	null	null	null	null
+195	25397	2	569	0	4154965	He might not have	null	null	null	null	UNANN	6654068	null	null	null	null
+195	25397	1	570	0	4154966	understood the possible significance of the new identification .	null	null	null	null	UNANN	6654069	null	null	null	null
+195	25397	1	572	0	4154967	In June 2000 , Mihdhar left California and returned to Yemen .	null	null	null	null	UNANN	6654070	null	null	null	null
+195	25397	2	572	0	4154968	It is possible that if,	null	null	null	null	UNANN	6654071	null	null	null	null
+195	25397	1	573	0	4154969	in January 2001 , the CIA had resumed its search for him , placed him on the State	null	null	null	null	UNANN	6654072	null	null	null	null
+195	25397	1	574	0	4154970	Department's TIPOFF watchlist , or provided the FBI with the information , he might	null	null	null	null	UNANN	6654073	null	null	null	null
+195	25397	1	575	0	4154971	have been found-either before or at the time he applied for a new visa in June 2001 ,	null	null	null	null	UNANN	6654074	null	null	null	null
+195	25397	1	576	0	4154972	or when he returned to the United States on July 4 .	null	null	null	null	UNANN	6654075	null	null	null	null
+195	25397	1	577	0	4154973	Spring 2001 : Looking Again at Kuala Lumpur	null	null	null	null	UNANN	6654076	null	null	null	null
+195	25397	1	578	0	4154974	By mid- May 2001 , as the threat reports were surging , a CIA official detailed to the	null	null	null	null	UNANN	6654077	null	null	null	null
+195	25397	1	579	0	4154975	International Terrorism Operations Section at the FBI wondered where the attacks	null	null	null	null	UNANN	6654078	null	null	null	null
+195	25397	1	580	0	4154976	might occur .	null	null	null	null	UNANN	6654079	null	null	null	null
+195	25397	2	580	0	4154977	We will call him `` John . ''	null	null	null	null	UNANN	6654080	null	null	null	null
+195	25397	3	580	0	4154978	Recalling the episode about the Kuala Lumpur	null	null	null	null	UNANN	6654081	null	null	null	null
+195	25397	1	581	0	4154979	travel of Mihdhar and his associates , `` John '' searched the CIA 's databases for	null	null	null	null	UNANN	6654082	null	null	null	null
+195	25397	1	582	0	4154980	information regarding the travel .	null	null	null	null	UNANN	6654083	null	null	null	null
+195	25397	2	582	0	4154981	On May 15 , he and an official at the CIA	null	null	null	null	UNANN	6654084	null	null	null	null
+195	25397	1	583	0	4154982	reexamined many of the old cables from early 2000 , including the information that	null	null	null	null	UNANN	6654085	null	null	null	null
+195	25397	1	584	0	4154983	Mihdhar had a U.S. visa , and that Hazmi had come to Los Angeles on January 15 ,	null	null	null	null	UNANN	6654086	null	null	null	null
+195	25397	1	585	0	4154984	2000 .	null	null	null	null	UNANN	6654087	null	null	null	null
+195	25397	1	587	0	4154985	The CIA official who reviewed the cables took no action regarding them .	null	null	null	null	UNANN	6654088	null	null	null	null
+195	25397	2	587	0	4154986	'' John , ''	null	null	null	null	UNANN	6654089	null	null	null	null
+195	25397	1	588	0	4154987	however , began a lengthy exchange with a CIA analyst , whom we will call `` Dave , '' to	null	null	null	null	UNANN	6654090	null	null	null	null
+195	25397	1	589	0	4154988	figure out what these cables meant .	null	null	null	null	UNANN	6654091	null	null	null	null
+195	25397	2	589	0	4154989	'' John '' was aware of how dangerous Khallad was-at	null	null	null	null	UNANN	6654092	null	null	null	null
+195	25397	1	590	0	4154990	one point calling him a `` major league killer . ''	null	null	null	null	UNANN	6654093	null	null	null	null
+195	25397	2	590	0	4154991	He concluded that `` something bad was	null	null	null	null	UNANN	6654094	null	null	null	null
+195	25397	1	591	0	4154992	definitely up . ''	null	null	null	null	UNANN	6654095	null	null	null	null
+195	25397	2	591	0	4154993	Despite the U.S. links evident in this traffic , '' John '' made no effort	null	null	null	null	UNANN	6654096	null	null	null	null
+195	25397	1	592	0	4154994	to determine whether any of these individuals was in the United States .	null	null	null	null	UNANN	6654097	null	null	null	null
+195	25397	2	592	0	4154995	He did not	null	null	null	null	UNANN	6654098	null	null	null	null
+195	25397	1	593	0	4154996	raise that possibility with his FBI counterpart .	null	null	null	null	UNANN	6654099	null	null	null	null
+195	25397	2	593	0	4154997	He was focused on Malaysia .	null	null	null	null	UNANN	6654100	null	null	null	null
+195	25397	1	595	0	4154998	'' John&quot; described the CIA as an agency that tended to play a `` zone defense . ''	null	null	null	null	UNANN	6654101	null	null	null	null
+195	25397	2	595	0	4154999	He was	null	null	null	null	UNANN	6654102	null	null	null	null
+195	25397	1	596	0	4155000	worrying solely about Southeast Asia , not the United States .	null	null	null	null	UNANN	6654103	null	null	null	null
+195	25397	2	596	0	4155001	In contrast , he told	null	null	null	null	UNANN	6654104	null	null	null	null
+195	25397	1	597	0	4155002	us , the FBI tends to play `` man-to-man . ''	null	null	null	null	UNANN	6654105	null	null	null	null
+195	25397	1	599	0	4155003	Desk officers at the CIA 's Bin Ladin unit did not have `` cases '' in the same sense as	null	null	null	null	UNANN	6654106	null	null	null	null
+195	25397	1	600	0	4155004	an FBI agent who works an investigation from beginning to end .	null	null	null	null	UNANN	6654107	null	null	null	null
+195	25397	2	600	0	4155005	Thus , when the trail	null	null	null	null	UNANN	6654108	null	null	null	null
+195	25397	1	601	0	4155006	went cold after the Kuala Lumpur meeting in January 2000 , the desk officer moved on	null	null	null	null	UNANN	6654109	null	null	null	null
+195	25397	1	602	0	4155007	to different things .	null	null	null	null	UNANN	6654110	null	null	null	null
+195	25397	2	602	0	4155008	By the time the March 2000 cable arrived with information that	null	null	null	null	UNANN	6654111	null	null	null	null
+195	25397	1	603	0	4155009	one of the travelers had flown to Los Angeles , the case officer was no longer	null	null	null	null	UNANN	6654112	null	null	null	null
+195	25397	1	604	0	4155010	responsible for follow-up .	null	null	null	null	UNANN	6654113	null	null	null	null
+195	25397	2	604	0	4155011	While several individuals at the Bin Ladin unit opened	null	null	null	null	UNANN	6654114	null	null	null	null
+195	25397	1	605	0	4155012	the cable when it arrived in March 2000 , no action was taken .	null	null	null	null	UNANN	6654115	null	null	null	null
+195	25397	1	607	0	4155013	The CIA 's zone defense concentrated on `` where , '' not `` who . ''	null	null	null	null	UNANN	6654116	null	null	null	null
+195	25397	2	607	0	4155014	Had its information been	null	null	null	null	UNANN	6654117	null	null	null	null
+195	25397	1	608	0	4155015	shared with the FBI , a combination of the CIA 's zone defense and the FBI 's	null	null	null	null	UNANN	6654118	null	null	null	null
+195	25397	1	609	0	4155016	man-to-man approach might have been productive .	null	null	null	null	UNANN	6654119	null	null	null	null
+195	25397	1	610	0	4155017	June 2001 : The Meeting in New York	null	null	null	null	UNANN	6654120	null	null	null	null
+195	25397	1	611	0	4155018	'' John 's '' review of the Kuala Lumpur meeting did set off some more sharing of	null	null	null	null	UNANN	6654121	null	null	null	null
+195	25397	1	612	0	4155019	information , getting the attention of an FBI analyst whom we will call `` Jane . ''	null	null	null	null	UNANN	6654122	null	null	null	null
+195	25397	1	613	0	4155020	'' Jane '' was assigned to the FBI 's Cole investigation .	null	null	null	null	UNANN	6654123	null	null	null	null
+195	25397	2	613	0	4155021	She knew that another terrorist	null	null	null	null	UNANN	6654124	null	null	null	null
+195	25397	1	614	0	4155022	involved in that operation , Fahd al Quso , had traveled to Bangkok in January 2000 to	null	null	null	null	UNANN	6654125	null	null	null	null
+195	25397	1	615	0	4155023	give money to Khallad .	null	null	null	null	UNANN	6654126	null	null	null	null
+195	25397	1	617	0	4155024	'' Jane '' and the CIA analyst , '' Dave , '' had been working together on Colerelated issues .	null	null	null	null	UNANN	6654127	null	null	null	null
+195	25397	1	618	0	4155025	Chasing Quso 's trail , `` Dave '' suggested showing some photographs to FBI agents in New	null	null	null	null	UNANN	6654128	null	null	null	null
+195	25397	1	619	0	4155026	York who were working on the Cole case and had interviewed Quso .	null	null	null	null	UNANN	6654129	null	null	null	null
+195	25397	1	621	0	4155027	'' John '' gave three Kuala Lumpur surveillance pictures to `` Jane '' to show to the New	null	null	null	null	UNANN	6654130	null	null	null	null
+195	25397	1	622	0	4155028	York agents .	null	null	null	null	UNANN	6654131	null	null	null	null
+195	25397	2	622	0	4155029	She was told that one of the individuals in the photographs was someone	null	null	null	null	UNANN	6654132	null	null	null	null
+195	25397	1	623	0	4155030	named Khalid al Mihdhar .	null	null	null	null	UNANN	6654133	null	null	null	null
+195	25397	2	623	0	4155031	She did not know why the photographs had been taken or why	null	null	null	null	UNANN	6654134	null	null	null	null
+195	25397	1	624	0	4155032	the Kuala Lumpur travel might be significant , and she was not told that someone had	null	null	null	null	UNANN	6654135	null	null	null	null
+195	25397	1	625	0	4155033	identified Khallad in the photographs .	null	null	null	null	UNANN	6654136	null	null	null	null
+195	25397	2	625	0	4155034	When `` Jane '' did some research in a database	null	null	null	null	UNANN	6654137	null	null	null	null
+195	25397	1	626	0	4155035	for intelligence reports , Intelink , she found the original NSA reports on the	null	null	null	null	UNANN	6654138	null	null	null	null
+195	25397	1	627	0	4155036	planning for the meeting .	null	null	null	null	UNANN	6654139	null	null	null	null
+195	25397	2	627	0	4155037	Because the CIA had not disseminated reports on its	null	null	null	null	UNANN	6654140	null	null	null	null
+195	25397	1	628	0	4155038	tracking of Mihdhar , `` Jane '' did not pull up any information about Mihdhar 's U.S. visa	null	null	null	null	UNANN	6654141	null	null	null	null
+195	25397	1	629	0	4155039	or about travel to the United States by Hazmi or Mihdhar .	null	null	null	null	UNANN	6654142	null	null	null	null
+195	25397	1	631	0	4155040	'' Jane , '' '' Dave , '' and an FBI analyst who was on detail to the CIA 's Bin Ladin unit went	null	null	null	null	UNANN	6654143	null	null	null	null
+195	25397	1	632	0	4155041	to New York on June 11 to meet with the agents about the Cole case .	null	null	null	null	UNANN	6654144	null	null	null	null
+195	25397	2	632	0	4155042	'' Jane '' brought	null	null	null	null	UNANN	6654145	null	null	null	null
+195	25397	1	633	0	4155043	the surveillance pictures .	null	null	null	null	UNANN	6654146	null	null	null	null
+195	25397	2	633	0	4155044	At some point in the meeting she showed the photographs	null	null	null	null	UNANN	6654147	null	null	null	null
+195	25397	1	634	0	4155045	to the agents and asked whether they recognized Quso in any of them .	null	null	null	null	UNANN	6654148	null	null	null	null
+195	25397	2	634	0	4155046	The agents	null	null	null	null	UNANN	6654149	null	null	null	null
+195	25397	1	635	0	4155047	asked questions about the photographs- Why were they taken ?	null	null	null	null	UNANN	6654150	null	null	null	null
+195	25397	2	635	0	4155048	Why were these people	null	null	null	null	UNANN	6654151	null	null	null	null
+195	25397	1	636	0	4155049	being followed ?	null	null	null	null	UNANN	6654152	null	null	null	null
+195	25397	2	636	0	4155050	Where are the rest of the photographs ?	null	null	null	null	UNANN	6654153	null	null	null	null
+195	25397	1	638	0	4155051	The only information `` Jane '' had about the meeting-other than the photographs-were the	null	null	null	null	UNANN	6654154	null	null	null	null
+195	25397	1	639	0	4155052	NSA reports that she had found on Intelink .	null	null	null	null	UNANN	6654155	null	null	null	null
+195	25397	2	639	0	4155053	These reports , however , contained	null	null	null	null	UNANN	6654156	null	null	null	null
+195	25397	1	640	0	4155054	caveats that their contents could not be shared with criminal investigators without	null	null	null	null	UNANN	6654157	null	null	null	null
+195	25397	1	641	0	4155055	the permission of the Justice Department 's Office of Intelligence Policy and Review	null	null	null	null	UNANN	6654158	null	null	null	null
+195	25397	1	642	0	4155056	( OIPR ) .	null	null	null	null	UNANN	6654159	null	null	null	null
+195	25397	2	642	0	4155057	Therefore `` Jane '' concluded that she could not pass on information from those	null	null	null	null	UNANN	6654160	null	null	null	null
+195	25397	1	643	0	4155058	reports to the agents .	null	null	null	null	UNANN	6654161	null	null	null	null
+195	25397	2	643	0	4155059	This decision was potentially significant , because the	null	null	null	null	UNANN	6654162	null	null	null	null
+195	25397	1	644	0	4155060	signals intelligence she did not share linked Mihdhar to a suspected terrorist	null	null	null	null	UNANN	6654163	null	null	null	null
+195	25397	1	645	0	4155061	facility in the Middle East .	null	null	null	null	UNANN	6654164	null	null	null	null
+195	25397	2	645	0	4155062	The agents would have established a link to the	null	null	null	null	UNANN	6654165	null	null	null	null
+195	25397	1	646	0	4155063	suspected facility from their work on the embassy bombings case .	null	null	null	null	UNANN	6654166	null	null	null	null
+195	25397	2	646	0	4155064	This link would	null	null	null	null	UNANN	6654167	null	null	null	null
+195	25397	1	647	0	4155065	have made them very interested in learning more about Mihdhar .	null	null	null	null	UNANN	6654168	null	null	null	null
+195	25397	1	649	0	4155066	The sad irony is that the agents who found the source were being kept from obtaining	null	null	null	null	UNANN	6654169	null	null	null	null
+195	25397	1	650	0	4155067	the fruits of their own work .	null	null	null	null	UNANN	6654170	null	null	null	null
+195	25397	2	650	0	4155068	'' Dave , '' the CIA analyst , knew more about the Kuala	null	null	null	null	UNANN	6654171	null	null	null	null
+195	25397	1	651	0	4155069	Lumpur meeting .	null	null	null	null	UNANN	6654172	null	null	null	null
+195	25397	2	651	0	4155070	He knew that Mihdhar possessed a U.S. visa , that his visa	null	null	null	null	UNANN	6654173	null	null	null	null
+195	25397	1	652	0	4155071	application indicated that he intended to travel to New York , that Hazmi had	null	null	null	null	UNANN	6654174	null	null	null	null
+195	25397	1	653	0	4155072	traveled to Los Angeles , and that a source had put Mihdhar in the company of	null	null	null	null	UNANN	6654175	null	null	null	null
+195	25397	1	654	0	4155073	Khallad .	null	null	null	null	UNANN	6654176	null	null	null	null
+195	25397	2	654	0	4155074	No one at the meeting asked him what he knew ; he did not volunteer	null	null	null	null	UNANN	6654177	null	null	null	null
+195	25397	1	655	0	4155075	anything .	null	null	null	null	UNANN	6654178	null	null	null	null
+195	25397	2	655	0	4155076	He told investigators that as a CIA analyst , he was not authorized to	null	null	null	null	UNANN	6654179	null	null	null	null
+195	25397	1	656	0	4155077	answer FBI questions regarding CIA information . ''	null	null	null	null	UNANN	6654180	null	null	null	null
+195	25397	2	656	0	4155078	Jane '' said she assumed that if	null	null	null	null	UNANN	6654181	null	null	null	null
+195	25397	1	657	0	4155079	'' Dave '' knew the answers to questions , he would have volunteered them .	null	null	null	null	UNANN	6654182	null	null	null	null
+195	25397	2	657	0	4155080	The New York	null	null	null	null	UNANN	6654183	null	null	null	null
+195	25397	1	658	0	4155081	agents left the meeting without obtaining information that might have started them	null	null	null	null	UNANN	6654184	null	null	null	null
+195	25397	1	659	0	4155082	looking for Mihdhar .	null	null	null	null	UNANN	6654185	null	null	null	null
+195	25397	1	661	0	4155083	Mihdhar had been a weak link in al Qaeda 's operational planning .	null	null	null	null	UNANN	6654186	null	null	null	null
+195	25397	2	661	0	4155084	He had left the	null	null	null	null	UNANN	6654187	null	null	null	null
+195	25397	1	662	0	4155085	United States in June 2000 , a mistake KSM realized could endanger the entire	null	null	null	null	UNANN	6654188	null	null	null	null
+195	25397	1	663	0	4155086	plan-for to continue with the operation , Mihdhar would have to travel to the United	null	null	null	null	UNANN	6654189	null	null	null	null
+195	25397	1	664	0	4155087	States again .	null	null	null	null	UNANN	6654190	null	null	null	null
+195	25397	2	664	0	4155088	And unlike other operatives , Mihdhar was not `` clean '' : he had jihadist	null	null	null	null	UNANN	6654191	null	null	null	null
+195	25397	1	665	0	4155089	connections .	null	null	null	null	UNANN	6654192	null	null	null	null
+195	25397	2	665	0	4155090	It was just such connections that had brought him to the attention of	null	null	null	null	UNANN	6654193	null	null	null	null
+195	25397	1	666	0	4155091	U.S. officials .	null	null	null	null	UNANN	6654194	null	null	null	null
+195	25397	1	667	0	4155092	Nevertheless , in this case KSM 's fears were not realized .	null	null	null	null	UNANN	6654195	null	null	null	null
+195	25397	2	667	0	4155093	Mihdhar received a new U.S.	null	null	null	null	UNANN	6654196	null	null	null	null
+195	25397	1	668	0	4155094	visa two days after the CIA - FBI meeting in New York .	null	null	null	null	UNANN	6654197	null	null	null	null
+195	25397	2	668	0	4155095	He flew to New York City on	null	null	null	null	UNANN	6654198	null	null	null	null
+195	25397	1	669	0	4155096	July 4 .	null	null	null	null	UNANN	6654199	null	null	null	null
+195	25397	2	669	0	4155097	No one was looking for him .	null	null	null	null	UNANN	6654200	null	null	null	null
+195	25397	1	670	0	4155098	August 2001 : The Search for Mihdhar and Hazmi Begins and Fails	null	null	null	null	UNANN	6654201	null	null	null	null
+195	25397	1	671	0	4155099	During the summer of 2001 `` John , '' following a good instinct but not as part of any	null	null	null	null	UNANN	6654202	null	null	null	null
+195	25397	1	672	0	4155100	formal assignment , asked `` Mary , '' an FBI analyst detailed to the CIA 's Bin Ladin	null	null	null	null	UNANN	6654203	null	null	null	null
+195	25397	1	673	0	4155101	unit , to review all the Kuala Lumpur materials one more time .	null	null	null	null	UNANN	6654204	null	null	null	null
+195	25397	2	673	0	4155102	She had been at the	null	null	null	null	UNANN	6654205	null	null	null	null
+195	25397	1	674	0	4155103	New York meeting with `` Jane '' and `` Dave '' but had not looked into the issues yet	null	null	null	null	UNANN	6654206	null	null	null	null
+195	25397	1	675	0	4155104	herself . ''	null	null	null	null	UNANN	6654207	null	null	null	null
+195	25397	2	675	0	4155105	John '' asked her to do the research in her free time .	null	null	null	null	UNANN	6654208	null	null	null	null
+195	25397	1	677	0	4155106	'' Mary '' began her work on July 24 .	null	null	null	null	UNANN	6654209	null	null	null	null
+195	25397	2	677	0	4155107	That day , she found the cable reporting that	null	null	null	null	UNANN	6654210	null	null	null	null
+195	25397	1	678	0	4155108	Mihdhar had a visa to the United States .	null	null	null	null	UNANN	6654211	null	null	null	null
+195	25397	2	678	0	4155109	A week later , she found the cable reporting	null	null	null	null	UNANN	6654212	null	null	null	null
+195	25397	1	679	0	4155110	that Mihdhar 's visa application-what was later discovered to be his first	null	null	null	null	UNANN	6654213	null	null	null	null
+195	25397	1	680	0	4155111	application-listed New York as his destination .	null	null	null	null	UNANN	6654214	null	null	null	null
+195	25397	2	680	0	4155112	On August 21 , she located the March	null	null	null	null	UNANN	6654215	null	null	null	null
+195	25397	1	681	0	4155113	2000 cable that `` noted with interest '' that Hazmi had flown to Los Angeles in January	null	null	null	null	UNANN	6654216	null	null	null	null
+195	25397	1	682	0	4155114	2000 .	null	null	null	null	UNANN	6654217	null	null	null	null
+195	25397	2	682	0	4155115	She immediately grasped the significance of this information .	null	null	null	null	UNANN	6654218	null	null	null	null
+195	25397	1	684	0	4155116	'' Mary '' and `` Jane '' promptly met with an INS representative at FBI headquarters .	null	null	null	null	UNANN	6654219	null	null	null	null
+195	25397	2	684	0	4155117	On	null	null	null	null	UNANN	6654220	null	null	null	null
+195	25397	1	685	0	4155118	August 22 , the INS told them that Mihdhar had entered the United States on January	null	null	null	null	UNANN	6654221	null	null	null	null
+195	25397	1	686	0	4155119	15, 2000 , and again on July 4, 2001 .	null	null	null	null	UNANN	6654222	null	null	null	null
+195	25397	2	686	0	4155120	'' Jane '' and `` Mary '' also learned that there was	null	null	null	null	UNANN	6654223	null	null	null	null
+195	25397	1	687	0	4155121	no record that Hazmi had left the country since January 2000 , and they assumed he	null	null	null	null	UNANN	6654224	null	null	null	null
+195	25397	1	688	0	4155122	had left with Mihdhar in June 2000 .	null	null	null	null	UNANN	6654225	null	null	null	null
+195	25397	2	688	0	4155123	They decided that if Mihdhar was in the United	null	null	null	null	UNANN	6654226	null	null	null	null
+195	25397	1	689	0	4155124	States , he should be found .	null	null	null	null	UNANN	6654227	null	null	null	null
+195	25397	1	691	0	4155125	They divided up the work . ''	null	null	null	null	UNANN	6654228	null	null	null	null
+195	25397	2	691	0	4155126	Mary '' asked the Bin Ladin unit to draft a cable requesting	null	null	null	null	UNANN	6654229	null	null	null	null
+195	25397	1	692	0	4155127	that Mihdhar and Hazmi be put on the TIPOFF watchlist .	null	null	null	null	UNANN	6654230	null	null	null	null
+195	25397	2	692	0	4155128	Both Hazmi and Mihdhar were	null	null	null	null	UNANN	6654231	null	null	null	null
+195	25397	1	693	0	4155129	added to this watchlist on August 24 .	null	null	null	null	UNANN	6654232	null	null	null	null
+195	25397	1	695	0	4155130	'' Jane '' took responsibility for the search effort inside the United States .	null	null	null	null	UNANN	6654233	null	null	null	null
+195	25397	2	695	0	4155131	As the	null	null	null	null	UNANN	6654234	null	null	null	null
+195	25397	1	696	0	4155132	information indicated that Mihdhar had last arrived in New York , she began drafting	null	null	null	null	UNANN	6654235	null	null	null	null
+195	25397	1	697	0	4155133	what is known as a lead for the FBI 's New York Field Office .	null	null	null	null	UNANN	6654236	null	null	null	null
+195	25397	2	697	0	4155134	A lead relays	null	null	null	null	UNANN	6654237	null	null	null	null
+195	25397	1	698	0	4155135	information from one part of the FBI to another and requests that a particular	null	null	null	null	UNANN	6654238	null	null	null	null
+195	25397	1	699	0	4155136	action be taken .	null	null	null	null	UNANN	6654239	null	null	null	null
+195	25397	2	699	0	4155137	She called an agent in New York to give him a `` headsup '' on the	null	null	null	null	UNANN	6654240	null	null	null	null
+195	25397	1	700	0	4155138	matter , but her draft lead was not sent until August 28 .	null	null	null	null	UNANN	6654241	null	null	null	null
+195	25397	2	700	0	4155139	Her email told the New York	null	null	null	null	UNANN	6654242	null	null	null	null
+195	25397	1	701	0	4155140	agent that she wanted him to get started as soon as possible , but she labeled the	null	null	null	null	UNANN	6654243	null	null	null	null
+195	25397	1	702	0	4155141	lead as `` Routine '' -a designation that informs the receiving office that it has 30	null	null	null	null	UNANN	6654244	null	null	null	null
+195	25397	1	703	0	4155142	days to respond .	null	null	null	null	UNANN	6654245	null	null	null	null
+195	25397	1	705	0	4155143	The agent who received the lead forwarded it to his squad supervisor .	null	null	null	null	UNANN	6654246	null	null	null	null
+195	25397	2	705	0	4155144	That same day,	null	null	null	null	UNANN	6654247	null	null	null	null
+195	25397	1	706	0	4155145	the supervisor forwarded the lead to an intelligence agent to open an intelligence	null	null	null	null	UNANN	6654248	null	null	null	null
+195	25397	1	707	0	4155146	case-an agent who thus was behind `` the wall '' keeping FBI intelligence information	null	null	null	null	UNANN	6654249	null	null	null	null
+195	25397	1	708	0	4155147	from being shared with criminal prosecutors .	null	null	null	null	UNANN	6654250	null	null	null	null
+195	25397	2	708	0	4155148	He also sent it to the Cole case agents	null	null	null	null	UNANN	6654251	null	null	null	null
+195	25397	1	709	0	4155149	and an agent who had spent significant time in Malaysia searching for another	null	null	null	null	UNANN	6654252	null	null	null	null
+195	25397	1	710	0	4155150	Khalid : Khalid Sheikh Mohammad .	null	null	null	null	UNANN	6654253	null	null	null	null
+195	25397	1	712	0	4155151	The suggested goal of the investigation was to locate Mihdhar , determine his contacts	null	null	null	null	UNANN	6654254	null	null	null	null
+195	25397	1	713	0	4155152	and reasons for being in the United States , and possibly conduct an interview .	null	null	null	null	UNANN	6654255	null	null	null	null
+195	25397	1	714	0	4155153	Before sending the lead , `` Jane '' had discussed it with `` John , '' the CIA official on	null	null	null	null	UNANN	6654256	null	null	null	null
+195	25397	1	715	0	4155154	detail to the FBI .	null	null	null	null	UNANN	6654257	null	null	null	null
+195	25397	2	715	0	4155155	She had also checked with the acting head of the FBI 's Bin Ladin	null	null	null	null	UNANN	6654258	null	null	null	null
+195	25397	1	716	0	4155156	unit .	null	null	null	null	UNANN	6654259	null	null	null	null
+195	25397	2	716	0	4155157	The discussion seems to have been limited to whether the search should be	null	null	null	null	UNANN	6654260	null	null	null	null
+195	25397	1	717	0	4155158	classified as an intelligence investigation or as a criminal one .	null	null	null	null	UNANN	6654261	null	null	null	null
+195	25397	2	717	0	4155159	It appears that no	null	null	null	null	UNANN	6654262	null	null	null	null
+195	25397	1	718	0	4155160	one informed higher levels of management in either the FBI or CIA about the	null	null	null	null	UNANN	6654263	null	null	null	null
+195	25397	1	719	0	4155161	case .	null	null	null	null	UNANN	6654264	null	null	null	null
+195	25397	1	721	0	4155162	There is no evidence that the lead , or the search for these terrorist suspects , was	null	null	null	null	UNANN	6654265	null	null	null	null
+195	25397	1	722	0	4155163	substantively discussed at any level above deputy chief of a section within the	null	null	null	null	UNANN	6654266	null	null	null	null
+195	25397	1	723	0	4155164	Counterterrorism Division at FBI headquarters .	null	null	null	null	UNANN	6654267	null	null	null	null
+195	25397	1	724	0	4155165	One of the Cole case agents read the lead with interest , and contacted `` Jane '' to	null	null	null	null	UNANN	6654268	null	null	null	null
+195	25397	1	725	0	4155166	obtain more information . ''	null	null	null	null	UNANN	6654269	null	null	null	null
+195	25397	2	725	0	4155167	Jane '' argued , however , that because the agent was	null	null	null	null	UNANN	6654270	null	null	null	null
+195	25397	1	726	0	4155168	designated a `` criminal ''	null	null	null	null	UNANN	6654271	null	null	null	null
+195	25397	2	726	0	4155169	FBI agent , not an intelligence FBI agent , the wall kept him	null	null	null	null	UNANN	6654272	null	null	null	null
+195	25397	1	727	0	4155170	from participating in any search for Mihdhar .	null	null	null	null	UNANN	6654273	null	null	null	null
+195	25397	2	727	0	4155171	In fact , she felt he had to destroy	null	null	null	null	UNANN	6654274	null	null	null	null
+195	25397	1	728	0	4155172	his copy of the lead because it contained NSA information from reports that included	null	null	null	null	UNANN	6654275	null	null	null	null
+195	25397	1	729	0	4155173	caveats ordering that the information not be shared without OIPR 's permission .	null	null	null	null	UNANN	6654276	null	null	null	null
+195	25397	2	729	0	4155174	The	null	null	null	null	UNANN	6654277	null	null	null	null
+195	25397	1	730	0	4155175	agent asked `` Jane '' to get an opinion from the FBI 's National Security Law Unit	null	null	null	null	UNANN	6654278	null	null	null	null
+195	25397	1	731	0	4155176	( NSLU ) on whether he could open a criminal case on Mihdhar .	null	null	null	null	UNANN	6654279	null	null	null	null
+195	25397	1	733	0	4155177	'' Jane '' sent an email to the Cole case agent explaining that according to the NSLU ,	null	null	null	null	UNANN	6654280	null	null	null	null
+195	25397	1	734	0	4155178	the case could be opened only as an intelligence matter , and that if Mihdhar was	null	null	null	null	UNANN	6654281	null	null	null	null
+195	25397	1	735	0	4155179	found , only designated intelligence agents could conduct or even be present at any	null	null	null	null	UNANN	6654282	null	null	null	null
+195	25397	1	736	0	4155180	interview .	null	null	null	null	UNANN	6654283	null	null	null	null
+195	25397	2	736	0	4155181	She appears to have misunderstood the complex rules that could apply to	null	null	null	null	UNANN	6654284	null	null	null	null
+195	25397	1	737	0	4155182	this situation .	null	null	null	null	UNANN	6654285	null	null	null	null
+195	25397	1	739	0	4155183	The FBI agent angrily responded:	null	null	null	null	UNANN	6654286	null	null	null	null
+195	25397	1	741	0	4155184	Whatever has happened to this-someday someone will die-and wall or not-the	null	null	null	null	UNANN	6654287	null	null	null	null
+195	25397	1	742	0	4155185	public will not understand why we were not more effective and throwing every	null	null	null	null	UNANN	6654288	null	null	null	null
+195	25397	1	743	0	4155186	resource we had at certain `` problems . ''	null	null	null	null	UNANN	6654289	null	null	null	null
+195	25397	2	743	0	4155187	Let 's hope the National Security Law Unit	null	null	null	null	UNANN	6654290	null	null	null	null
+195	25397	1	744	0	4155188	will stand behind their decisions then , especially since the biggest threat to	null	null	null	null	UNANN	6654291	null	null	null	null
+195	25397	1	745	0	4155189	us now , UBL , is getting the most `` protection . ''	null	null	null	null	UNANN	6654292	null	null	null	null
+195	25397	1	747	0	4155190	'' Jane&quot; replied that she was not making up the rules ; she claimed that they were in	null	null	null	null	UNANN	6654293	null	null	null	null
+195	25397	1	748	0	4155191	the relevant manual and `` ordered by the [ FISA ] Court and every office of the FBI is	null	null	null	null	UNANN	6654294	null	null	null	null
+195	25397	1	749	0	4155192	required to follow them including FBI NY . ''	null	null	null	null	UNANN	6654295	null	null	null	null
+195	25397	1	751	0	4155193	It is now clear that everyone involved was confused about the rules governing the	null	null	null	null	UNANN	6654296	null	null	null	null
+195	25397	1	752	0	4155194	sharing and use of information gathered in intelligence channels .	null	null	null	null	UNANN	6654297	null	null	null	null
+195	25397	2	752	0	4155195	Because Mihdhar	null	null	null	null	UNANN	6654298	null	null	null	null
+195	25397	1	753	0	4155196	was being sought for his possible connection to or knowledge of the Cole bombing , he	null	null	null	null	UNANN	6654299	null	null	null	null
+195	25397	1	754	0	4155197	could be investigated or tracked under the existing Cole criminal case .	null	null	null	null	UNANN	6654300	null	null	null	null
+195	25397	2	754	0	4155198	No new	null	null	null	null	UNANN	6654301	null	null	null	null
+195	25397	1	755	0	4155199	criminal case was needed for the criminal agent to begin searching for Mihdhar .	null	null	null	null	UNANN	6654302	null	null	null	null
+195	25397	2	755	0	4155200	And	null	null	null	null	UNANN	6654303	null	null	null	null
+195	25397	1	756	0	4155201	as NSA had approved the passage of its information to the criminal agent , he could	null	null	null	null	UNANN	6654304	null	null	null	null
+195	25397	1	757	0	4155202	have conducted a search using all available information .	null	null	null	null	UNANN	6654305	null	null	null	null
+195	25397	2	757	0	4155203	As a result of this	null	null	null	null	UNANN	6654306	null	null	null	null
+195	25397	1	758	0	4155204	confusion , the criminal agents who were knowledgeable about al Qaeda and experienced	null	null	null	null	UNANN	6654307	null	null	null	null
+195	25397	1	759	0	4155205	with criminal investigative techniques , including finding suspects and possible	null	null	null	null	UNANN	6654308	null	null	null	null
+195	25397	1	760	0	4155206	criminal charges , were thus excluded from the search .	null	null	null	null	UNANN	6654309	null	null	null	null
+195	25397	1	762	0	4155207	The search was assigned to one FBI agent , and it was his very first counterterrorism	null	null	null	null	UNANN	6654310	null	null	null	null
+195	25397	1	763	0	4155208	lead .	null	null	null	null	UNANN	6654311	null	null	null	null
+195	25397	2	763	0	4155209	Because the lead was `` routine , '' he was given 30 days to open an intelligence	null	null	null	null	UNANN	6654312	null	null	null	null
+195	25397	1	764	0	4155210	case and make some unspecified efforts to locate Mihdhar .	null	null	null	null	UNANN	6654313	null	null	null	null
+195	25397	2	764	0	4155211	He started the process a	null	null	null	null	UNANN	6654314	null	null	null	null
+195	25397	1	765	0	4155212	few days later .	null	null	null	null	UNANN	6654315	null	null	null	null
+195	25397	2	765	0	4155213	He checked local New York databases for criminal record and driver 's	null	null	null	null	UNANN	6654316	null	null	null	null
+195	25397	1	766	0	4155214	license information and checked the hotel listed on Mihdhar 's U.S. entry form .	null	null	null	null	UNANN	6654317	null	null	null	null
+195	25397	1	767	0	4155215	Finally , on September 11 , the agent sent a lead to Los Angeles , because Mihdhar had	null	null	null	null	UNANN	6654318	null	null	null	null
+195	25397	1	768	0	4155216	initially arrived in Los Angeles in January 2000 .	null	null	null	null	UNANN	6654319	null	null	null	null
+195	25397	1	770	0	4155217	We believe that if more resources had been applied and a significantly different	null	null	null	null	UNANN	6654320	null	null	null	null
+195	25397	1	771	0	4155218	approach taken , Mihdhar and Hazmi might have been found .	null	null	null	null	UNANN	6654321	null	null	null	null
+195	25397	2	771	0	4155219	They had used their true	null	null	null	null	UNANN	6654322	null	null	null	null
+195	25397	1	772	0	4155220	names in the United States .	null	null	null	null	UNANN	6654323	null	null	null	null
+195	25397	2	772	0	4155221	Still , the investigators would have needed luck as well	null	null	null	null	UNANN	6654324	null	null	null	null
+195	25397	1	773	0	4155222	as skill to find them prior to September 11 even if such searches had begun as early	null	null	null	null	UNANN	6654325	null	null	null	null
+195	25397	1	774	0	4155223	as August 23 , when the lead was first drafted .	null	null	null	null	UNANN	6654326	null	null	null	null
+195	25397	1	776	0	4155224	Many FBI witnesses have suggested that even if Mihdhar had been found , there was	null	null	null	null	UNANN	6654327	null	null	null	null
+195	25397	1	777	0	4155225	nothing the agents could have done except follow him onto the planes .	null	null	null	null	UNANN	6654328	null	null	null	null
+195	25397	2	777	0	4155226	We believe	null	null	null	null	UNANN	6654329	null	null	null	null
+195	25397	1	778	0	4155227	this is incorrect .	null	null	null	null	UNANN	6654330	null	null	null	null
+195	25397	2	778	0	4155228	Both Hazmi and Mihdhar could have been held for immigration	null	null	null	null	UNANN	6654331	null	null	null	null
+195	25397	1	779	0	4155229	violations or as material witnesses in the Cole bombing case .	null	null	null	null	UNANN	6654332	null	null	null	null
+195	25397	2	779	0	4155230	Investigation or	null	null	null	null	UNANN	6654333	null	null	null	null
+195	25397	1	780	0	4155231	interrogation of them , and investigation of their travel and financial activities,	null	null	null	null	UNANN	6654334	null	null	null	null
+195	25397	1	781	0	4155232	could have yielded evidence of connections to other participants in the 9/11 plot .	null	null	null	null	UNANN	6654335	null	null	null	null
+195	25397	1	782	0	4155233	The simple fact of their detention could have derailed the plan .	null	null	null	null	UNANN	6654336	null	null	null	null
+195	25397	2	782	0	4155234	In any case , the	null	null	null	null	UNANN	6654337	null	null	null	null
+195	25397	1	783	0	4155235	opportunity did not arise .	null	null	null	null	UNANN	6654338	null	null	null	null
+195	25397	1	784	0	4155236	Phoenix Memo	null	null	null	null	UNANN	6654339	null	null	null	null
+195	25397	1	785	0	4155237	The Phoenix memo was investigated thoroughly by the Joint Inquiry and the Department	null	null	null	null	UNANN	6654340	null	null	null	null
+195	25397	1	786	0	4155238	of Justice Inspector General.86We will recap it briefly here .	null	null	null	null	UNANN	6654341	null	null	null	null
+195	25397	2	786	0	4155239	In July 2001 , an FBI	null	null	null	null	UNANN	6654342	null	null	null	null
+195	25397	1	787	0	4155240	agent in the Phoenix field office sent a memo to FBI headquarters and to two agents	null	null	null	null	UNANN	6654343	null	null	null	null
+195	25397	1	788	0	4155241	on international terrorism squads in the New York Field Office , advising of the	null	null	null	null	UNANN	6654344	null	null	null	null
+195	25397	1	789	0	4155242	'' possibility of a coordinated effort by Usama Bin Ladin '' to send students to the	null	null	null	null	UNANN	6654345	null	null	null	null
+195	25397	1	790	0	4155243	United States to attend civil aviation schools .	null	null	null	null	UNANN	6654346	null	null	null	null
+195	25397	2	790	0	4155244	The agent based his theory on the	null	null	null	null	UNANN	6654347	null	null	null	null
+195	25397	1	791	0	4155245	'' inordinate number of individuals of investigative interest '' attending such schools	null	null	null	null	UNANN	6654348	null	null	null	null
+195	25397	1	792	0	4155246	in Arizona .	null	null	null	null	UNANN	6654349	null	null	null	null
+195	25397	1	794	0	4155247	The agent made four recommendations to FBI headquarters : to compile a list of civil	null	null	null	null	UNANN	6654350	null	null	null	null
+195	25397	1	795	0	4155248	aviation schools , establish liaison with those schools , discuss his theories about	null	null	null	null	UNANN	6654351	null	null	null	null
+195	25397	1	796	0	4155249	Bin Ladin with the intelligence community , and seek authority to obtain visa	null	null	null	null	UNANN	6654352	null	null	null	null
+195	25397	1	797	0	4155250	information on persons applying to flight schools .	null	null	null	null	UNANN	6654353	null	null	null	null
+195	25397	2	797	0	4155251	His recommendations were not	null	null	null	null	UNANN	6654354	null	null	null	null
+195	25397	1	798	0	4155252	acted on .	null	null	null	null	UNANN	6654355	null	null	null	null
+195	25397	2	798	0	4155253	His memo was forwarded to one field office .	null	null	null	null	UNANN	6654356	null	null	null	null
+195	25397	3	798	0	4155254	Managers of the Usama Bin	null	null	null	null	UNANN	6654357	null	null	null	null
+195	25397	1	799	0	4155255	Ladin unit and the Radical Fundamentalist unit at FBI headquarters were addressees,	null	null	null	null	UNANN	6654358	null	null	null	null
+195	25397	1	800	0	4155256	but they did not even see the memo until after September 11 .	null	null	null	null	UNANN	6654359	null	null	null	null
+195	25397	2	800	0	4155257	No managers at	null	null	null	null	UNANN	6654360	null	null	null	null
+195	25397	1	801	0	4155258	headquarters saw the memo before September 11 , and the New York Field Office took no	null	null	null	null	UNANN	6654361	null	null	null	null
+195	25397	1	802	0	4155259	action .	null	null	null	null	UNANN	6654362	null	null	null	null
+195	25397	1	804	0	4155260	As its author told investigators , the Phoenix memo was not an alert about suicide	null	null	null	null	UNANN	6654363	null	null	null	null
+195	25397	1	805	0	4155261	pilots .	null	null	null	null	UNANN	6654364	null	null	null	null
+195	25397	2	805	0	4155262	His worry was more about a Pan Am Flight 103 scenario in which explosives	null	null	null	null	UNANN	6654365	null	null	null	null
+195	25397	1	806	0	4155263	were placed on an aircraft .	null	null	null	null	UNANN	6654366	null	null	null	null
+195	25397	2	806	0	4155264	The memo 's references to aviation training were broad,	null	null	null	null	UNANN	6654367	null	null	null	null
+195	25397	1	807	0	4155265	including aeronautical engineering .	null	null	null	null	UNANN	6654368	null	null	null	null
+195	25397	1	809	0	4155266	If the memo had been distributed in a timely fashion and its recommendations acted on	null	null	null	null	UNANN	6654369	null	null	null	null
+195	25397	1	810	0	4155267	promptly , we do not believe it would have uncovered the plot .	null	null	null	null	UNANN	6654370	null	null	null	null
+195	25397	2	810	0	4155268	It might well,	null	null	null	null	UNANN	6654371	null	null	null	null
+195	25397	1	811	0	4155269	however , have sensitized the FBI so that it might have taken the Moussaoui matter	null	null	null	null	UNANN	6654372	null	null	null	null
+195	25397	1	812	0	4155270	more seriously the next month .	null	null	null	null	UNANN	6654373	null	null	null	null
+195	25397	1	813	0	4155271	Zacarias Moussaoui	null	null	null	null	UNANN	6654374	null	null	null	null
+195	25397	1	814	0	4155272	On August 15, 2001 , the Minneapolis FBI Field Office initiated an intelligence	null	null	null	null	UNANN	6654375	null	null	null	null
+195	25397	1	815	0	4155273	investigation on Zacarias Moussaoui .	null	null	null	null	UNANN	6654376	null	null	null	null
+195	25397	2	815	0	4155274	As mentioned in chapter 7 , he had entered the	null	null	null	null	UNANN	6654377	null	null	null	null
+195	25397	1	816	0	4155275	United States in February 2001 , and had begun flight lessons at Airman Flight School	null	null	null	null	UNANN	6654378	null	null	null	null
+195	25397	1	817	0	4155276	in Norman , Oklahoma .	null	null	null	null	UNANN	6654379	null	null	null	null
+195	25397	2	817	0	4155277	He resumed his training at the Pan Am International Flight	null	null	null	null	UNANN	6654380	null	null	null	null
+195	25397	1	818	0	4155278	Academy in Eagan , Minnesota , starting on August 13 .	null	null	null	null	UNANN	6654381	null	null	null	null
+195	25397	2	818	0	4155279	He had none of the usual	null	null	null	null	UNANN	6654382	null	null	null	null
+195	25397	1	819	0	4155280	qualifications for flight training on Pan Am 's Boeing 747 flight simulators .	null	null	null	null	UNANN	6654383	null	null	null	null
+195	25397	2	819	0	4155281	He said	null	null	null	null	UNANN	6654384	null	null	null	null
+195	25397	1	820	0	4155282	he did not intend to become a commercial pilot but wanted the training as an `` ego	null	null	null	null	UNANN	6654385	null	null	null	null
+195	25397	1	821	0	4155283	boosting thing . ''	null	null	null	null	UNANN	6654386	null	null	null	null
+195	25397	2	821	0	4155284	Moussaoui stood out because , with little knowledge of flying , he	null	null	null	null	UNANN	6654387	null	null	null	null
+195	25397	1	822	0	4155285	wanted to learn how to `` take off and land '' a Boeing 747 .	null	null	null	null	UNANN	6654388	null	null	null	null
+195	25397	1	824	0	4155286	The agent in Minneapolis quickly learned that Moussaoui possessed jihadist beliefs .	null	null	null	null	UNANN	6654389	null	null	null	null
+195	25397	1	825	0	4155287	Moreover , Moussaoui had $32,000 in a bank account but did not provide a plausible	null	null	null	null	UNANN	6654390	null	null	null	null
+195	25397	1	826	0	4155288	explanation for this sum of money .	null	null	null	null	UNANN	6654391	null	null	null	null
+195	25397	2	826	0	4155289	He had traveled to Pakistan but became agitated	null	null	null	null	UNANN	6654392	null	null	null	null
+195	25397	1	827	0	4155290	when asked if he had traveled to nearby countries while in Pakistan ( Pakistan was	null	null	null	null	UNANN	6654393	null	null	null	null
+195	25397	1	828	0	4155291	the customary route to the training camps in Afghanistan ) .	null	null	null	null	UNANN	6654394	null	null	null	null
+195	25397	2	828	0	4155292	He planned to receive	null	null	null	null	UNANN	6654395	null	null	null	null
+195	25397	1	829	0	4155293	martial arts training , and intended to purchase a global positioning receiver .	null	null	null	null	UNANN	6654396	null	null	null	null
+195	25397	2	829	0	4155294	The	null	null	null	null	UNANN	6654397	null	null	null	null
+195	25397	1	830	0	4155295	agent also noted that Moussaoui became extremely agitated whenever he was questioned	null	null	null	null	UNANN	6654398	null	null	null	null
+195	25397	1	831	0	4155296	regarding his religious beliefs .	null	null	null	null	UNANN	6654399	null	null	null	null
+195	25397	2	831	0	4155297	The agent concluded that Moussaoui was `` an Islamic	null	null	null	null	UNANN	6654400	null	null	null	null
+195	25397	1	832	0	4155298	extremist preparing for some future act in furtherance of radical fundamentalist	null	null	null	null	UNANN	6654401	null	null	null	null
+195	25397	1	833	0	4155299	goals . ''	null	null	null	null	UNANN	6654402	null	null	null	null
+195	25397	2	833	0	4155300	He also believed Moussaoui 's plan was related to his flight training .	null	null	null	null	UNANN	6654403	null	null	null	null
+195	25397	1	835	0	4155301	Moussaoui can be seen as an al Qaeda mistake and a missed opportunity .	null	null	null	null	UNANN	6654404	null	null	null	null
+195	25397	2	835	0	4155302	An apparently	null	null	null	null	UNANN	6654405	null	null	null	null
+195	25397	1	836	0	4155303	unreliable operative , he had fallen into the hands of the FBI .	null	null	null	null	UNANN	6654406	null	null	null	null
+195	25397	2	836	0	4155304	As discussed in	null	null	null	null	UNANN	6654407	null	null	null	null
+195	25397	1	837	0	4155305	chapter 7 , Moussaoui had been in contact with and received money from Ramzi	null	null	null	null	UNANN	6654408	null	null	null	null
+195	25397	1	838	0	4155306	Binalshibh .	null	null	null	null	UNANN	6654409	null	null	null	null
+195	25397	2	838	0	4155307	If Moussaoui had been connected to al Qaeda , questions should instantly	null	null	null	null	UNANN	6654410	null	null	null	null
+195	25397	1	839	0	4155308	have arisen about a possible al Qaeda plot that involved piloting airliners , a	null	null	null	null	UNANN	6654411	null	null	null	null
+195	25397	1	840	0	4155309	possibility that had never been seriously analyzed by the intelligence community .	null	null	null	null	UNANN	6654412	null	null	null	null
+195	25397	1	841	0	4155310	The FBI agent who handled the case in conjunction with the INS representative on the	null	null	null	null	UNANN	6654413	null	null	null	null
+195	25397	1	842	0	4155311	Minneapolis Joint Terrorism Task Force suspected that Moussaoui might be planning to	null	null	null	null	UNANN	6654414	null	null	null	null
+195	25397	1	843	0	4155312	hijack a plane .	null	null	null	null	UNANN	6654415	null	null	null	null
+195	25397	2	843	0	4155313	Minneapolis and FBI headquarters debated whether Moussaoui should be	null	null	null	null	UNANN	6654416	null	null	null	null
+195	25397	1	844	0	4155314	arrested immediately or surveilled to obtain additional information .	null	null	null	null	UNANN	6654417	null	null	null	null
+195	25397	2	844	0	4155315	Because it was	null	null	null	null	UNANN	6654418	null	null	null	null
+195	25397	1	845	0	4155316	not clear whether Moussaoui could be imprisoned , the FBI case agent decided the most	null	null	null	null	UNANN	6654419	null	null	null	null
+195	25397	1	846	0	4155317	important thing was to prevent Moussaoui from obtaining any further training that he	null	null	null	null	UNANN	6654420	null	null	null	null
+195	25397	1	847	0	4155318	could use to carry out a potential attack .	null	null	null	null	UNANN	6654421	null	null	null	null
+195	25397	1	849	0	4155319	As a French national who had overstayed his visa , Moussaoui could be detained	null	null	null	null	UNANN	6654422	null	null	null	null
+195	25397	1	850	0	4155320	immediately .	null	null	null	null	UNANN	6654423	null	null	null	null
+195	25397	2	850	0	4155321	The INS arrested Moussaoui on the immigration violation .	null	null	null	null	UNANN	6654424	null	null	null	null
+195	25397	3	850	0	4155322	A deportation	null	null	null	null	UNANN	6654425	null	null	null	null
+195	25397	1	851	0	4155323	order was signed on August 17, 2001 .	null	null	null	null	UNANN	6654426	null	null	null	null
+195	25397	1	853	0	4155324	The agents in Minnesota were concerned that the U.S. Attorney's Office in Minneapolis	null	null	null	null	UNANN	6654427	null	null	null	null
+195	25397	1	854	0	4155325	would find insufficient probable cause of a crime to obtain a criminal warrant to	null	null	null	null	UNANN	6654428	null	null	null	null
+195	25397	1	855	0	4155326	search Moussaoui 's laptop computer .	null	null	null	null	UNANN	6654429	null	null	null	null
+195	25397	1	857	0	4155327	Agents at FBI headquarters believed there was insufficient probable cause .	null	null	null	null	UNANN	6654430	null	null	null	null
+195	25397	1	858	0	4155328	Minneapolis therefore sought a special warrant under the Foreign Intelligence	null	null	null	null	UNANN	6654431	null	null	null	null
+195	25397	1	859	0	4155329	Surveillance Act to conduct the search ( we introduced FISA in chapter 3 ) .	null	null	null	null	UNANN	6654432	null	null	null	null
+195	25397	1	860	0	4155330	To do so , however , the FBI needed to demonstrate probable cause that Moussaoui was an	null	null	null	null	UNANN	6654433	null	null	null	null
+195	25397	1	861	0	4155331	agent of a foreign power , a demonstration that was not required to obtain a criminal	null	null	null	null	UNANN	6654434	null	null	null	null
+195	25397	1	862	0	4155332	warrant but was a statutory requirement for a FISA warrant .	null	null	null	null	UNANN	6654435	null	null	null	null
+195	25397	1	864	0	4155333	The case agent did not have sufficient information to connect Moussaoui to a `` foreign	null	null	null	null	UNANN	6654436	null	null	null	null
+195	25397	1	865	0	4155334	power , '' so he reached out for help , in the United States and overseas .	null	null	null	null	UNANN	6654437	null	null	null	null
+195	25397	1	866	0	4155335	The FBI agent 's August 18 message requested assistance from the FBI legal attach� in	null	null	null	null	UNANN	6654438	null	null	null	null
+195	25397	1	867	0	4155336	Paris .	null	null	null	null	UNANN	6654439	null	null	null	null
+195	25397	2	867	0	4155337	Moussaoui had lived in London , so the Minneapolis agent sought assistance	null	null	null	null	UNANN	6654440	null	null	null	null
+195	25397	1	868	0	4155338	from the legal attach� there as well .	null	null	null	null	UNANN	6654441	null	null	null	null
+195	25397	2	868	0	4155339	By August 24 , the Minneapolis agent had also	null	null	null	null	UNANN	6654442	null	null	null	null
+195	25397	1	869	0	4155340	contacted an FBI detailee and a CIA desk officer at the Counterterrorist Center	null	null	null	null	UNANN	6654443	null	null	null	null
+195	25397	1	870	0	4155341	about the case .	null	null	null	null	UNANN	6654444	null	null	null	null
+195	25397	1	872	0	4155342	The FBI legal attach� 's office in Paris first contacted the French government on	null	null	null	null	UNANN	6654445	null	null	null	null
+195	25397	1	873	0	4155343	August 16 or 17 , shortly after speaking to the Minneapolis case agent on the	null	null	null	null	UNANN	6654446	null	null	null	null
+195	25397	1	874	0	4155344	telephone .	null	null	null	null	UNANN	6654447	null	null	null	null
+195	25397	2	874	0	4155345	On August 22 and 27 , the French provided information that made a	null	null	null	null	UNANN	6654448	null	null	null	null
+195	25397	1	875	0	4155346	connection between Moussaoui and a rebel leader in Chechnya , Ibn al Khattab .	null	null	null	null	UNANN	6654449	null	null	null	null
+195	25397	2	875	0	4155347	This	null	null	null	null	UNANN	6654450	null	null	null	null
+195	25397	1	876	0	4155348	set off a spirited debate between the Minneapolis Field Office , FBI headquarters,	null	null	null	null	UNANN	6654451	null	null	null	null
+195	25397	1	877	0	4155349	and the CIA as to whether the Chechen rebels and Khattab were sufficiently	null	null	null	null	UNANN	6654452	null	null	null	null
+195	25397	1	878	0	4155350	associated with a terrorist organization to constitute a `` foreign power '' for	null	null	null	null	UNANN	6654453	null	null	null	null
+195	25397	1	879	0	4155351	purposes of the FISA statute .	null	null	null	null	UNANN	6654454	null	null	null	null
+195	25397	2	879	0	4155352	FBI headquarters did not believe this was good enough,	null	null	null	null	UNANN	6654455	null	null	null	null
+195	25397	1	880	0	4155353	and its National Security Law Unit declined to submit a FISA application .	null	null	null	null	UNANN	6654456	null	null	null	null
+195	25397	1	882	0	4155354	After receiving the written request for assistance , the legal attach� in London had	null	null	null	null	UNANN	6654457	null	null	null	null
+195	25397	1	883	0	4155355	promptly forwarded it to his counterparts in the British government , hand-delivering	null	null	null	null	UNANN	6654458	null	null	null	null
+195	25397	1	884	0	4155356	the request on August 21 .	null	null	null	null	UNANN	6654459	null	null	null	null
+195	25397	2	884	0	4155357	On August 24 , the CIA also sent a cable to London and	null	null	null	null	UNANN	6654460	null	null	null	null
+195	25397	1	885	0	4155358	Paris regarding `` subjects involved in suspicious 747 flight training '' that described	null	null	null	null	UNANN	6654461	null	null	null	null
+195	25397	1	886	0	4155359	Moussaoui as a possible `` suicide hijacker . ''	null	null	null	null	UNANN	6654462	null	null	null	null
+195	25397	2	886	0	4155360	On August 28 , the CIA sent a request for	null	null	null	null	UNANN	6654463	null	null	null	null
+195	25397	1	887	0	4155361	information to a different service of the British government ; this communication	null	null	null	null	UNANN	6654464	null	null	null	null
+195	25397	1	888	0	4155362	warned that Moussaoui might be expelled to Britain by the end of August .	null	null	null	null	UNANN	6654465	null	null	null	null
+195	25397	2	888	0	4155363	The FBI	null	null	null	null	UNANN	6654466	null	null	null	null
+195	25397	1	889	0	4155364	office in London raised the matter briefly with British officials as an aside , after	null	null	null	null	UNANN	6654467	null	null	null	null
+195	25397	1	890	0	4155365	a meeting about a more urgent matter on September 3 , and sent the British service a	null	null	null	null	UNANN	6654468	null	null	null	null
+195	25397	1	891	0	4155366	written update on September 5 .	null	null	null	null	UNANN	6654469	null	null	null	null
+195	25397	2	891	0	4155367	The case was not handled by the British as a priority	null	null	null	null	UNANN	6654470	null	null	null	null
+195	25397	1	892	0	4155368	amid a large number of other terrorist-related inquiries .	null	null	null	null	UNANN	6654471	null	null	null	null
+195	25397	1	894	0	4155369	On September 4 , the FBI sent a teletype to the CIA , the FAA , the Customs Service , the	null	null	null	null	UNANN	6654472	null	null	null	null
+195	25397	1	895	0	4155370	State Department , the INS , and the Secret Service summarizing the known facts	null	null	null	null	UNANN	6654473	null	null	null	null
+195	25397	1	896	0	4155371	regarding Moussaoui .	null	null	null	null	UNANN	6654474	null	null	null	null
+195	25397	2	896	0	4155372	It did not report the case agent 's personal assessment that	null	null	null	null	UNANN	6654475	null	null	null	null
+195	25397	1	897	0	4155373	Moussaoui planned to hijack an airplane .	null	null	null	null	UNANN	6654476	null	null	null	null
+195	25397	2	897	0	4155374	It did contain the FAA 's comment that it	null	null	null	null	UNANN	6654477	null	null	null	null
+195	25397	1	898	0	4155375	was not unusual for Middle Easterners to attend flight training schools in the	null	null	null	null	UNANN	6654478	null	null	null	null
+195	25397	1	899	0	4155376	United States .	null	null	null	null	UNANN	6654479	null	null	null	null
+195	25397	1	901	0	4155377	Although the Minneapolis agents wanted to tell the FAA from the beginning about	null	null	null	null	UNANN	6654480	null	null	null	null
+195	25397	1	902	0	4155378	Moussaoui , FBI headquarters instructed Minneapolis that it could not share the more	null	null	null	null	UNANN	6654481	null	null	null	null
+195	25397	1	903	0	4155379	complete report the case agent had prepared for the FAA .	null	null	null	null	UNANN	6654482	null	null	null	null
+195	25397	2	903	0	4155380	The Minneapolis supervisor	null	null	null	null	UNANN	6654483	null	null	null	null
+195	25397	1	904	0	4155381	sent the case agent in person to the local FAA office to fill in what he thought	null	null	null	null	UNANN	6654484	null	null	null	null
+195	25397	1	905	0	4155382	were gaps in the FBI headquarters teletype .	null	null	null	null	UNANN	6654485	null	null	null	null
+195	25397	1	907	0	4155383	No FAA actions seem to have been taken in response .	null	null	null	null	UNANN	6654486	null	null	null	null
+195	25397	1	908	0	4155384	There was substantial disagreement between Minneapolis agents and FBI headquarters as	null	null	null	null	UNANN	6654487	null	null	null	null
+195	25397	1	909	0	4155385	to what Moussaoui was planning to do .	null	null	null	null	UNANN	6654488	null	null	null	null
+195	25397	2	909	0	4155386	In one conversation between a Minneapolis	null	null	null	null	UNANN	6654489	null	null	null	null
+195	25397	1	910	0	4155387	supervisor and a headquarters agent , the latter complained that Minneapolis 's FISA	null	null	null	null	UNANN	6654490	null	null	null	null
+195	25397	1	911	0	4155388	request was couched in a manner intended to get people `` spun up . ''	null	null	null	null	UNANN	6654491	null	null	null	null
+195	25397	2	911	0	4155389	The supervisor	null	null	null	null	UNANN	6654492	null	null	null	null
+195	25397	1	912	0	4155390	replied that was precisely his intent .	null	null	null	null	UNANN	6654493	null	null	null	null
+195	25397	2	912	0	4155391	He said he was `` trying to keep someone from	null	null	null	null	UNANN	6654494	null	null	null	null
+195	25397	1	913	0	4155392	taking a plane and crashing into the World Trade Center . ''	null	null	null	null	UNANN	6654495	null	null	null	null
+195	25397	2	913	0	4155393	The headquarters agent	null	null	null	null	UNANN	6654496	null	null	null	null
+195	25397	1	914	0	4155394	replied that this was not going to happen and that they did not know if Moussaoui	null	null	null	null	UNANN	6654497	null	null	null	null
+195	25397	1	915	0	4155395	was a terrorist .	null	null	null	null	UNANN	6654498	null	null	null	null
+195	25397	1	917	0	4155396	There is no evidence that either FBI Acting Director Pickard or Assistant Director	null	null	null	null	UNANN	6654499	null	null	null	null
+195	25397	1	918	0	4155397	for Counterterrorism Dale Watson was briefed on the Moussaoui case prior to 9/11 .	null	null	null	null	UNANN	6654500	null	null	null	null
+195	25397	1	919	0	4155398	Michael Rolince , the FBI assistant director heading the Bureau 's	null	null	null	null	UNANN	6654501	null	null	null	null
+195	25397	1	920	0	4155399	InternationalTerrorism Operations Section ( ITOS ) , recalled being told about	null	null	null	null	UNANN	6654502	null	null	null	null
+195	25397	1	921	0	4155400	Moussaoui in two passing hallway conversations but only in the context that he might	null	null	null	null	UNANN	6654503	null	null	null	null
+195	25397	1	922	0	4155401	be receiving telephone calls from Minneapolis complaining about how headquarters was	null	null	null	null	UNANN	6654504	null	null	null	null
+195	25397	1	923	0	4155402	handling the matter .	null	null	null	null	UNANN	6654505	null	null	null	null
+195	25397	2	923	0	4155403	He never received such a call .	null	null	null	null	UNANN	6654506	null	null	null	null
+195	25397	3	923	0	4155404	Although the acting special	null	null	null	null	UNANN	6654507	null	null	null	null
+195	25397	1	924	0	4155405	agent in charge of Minneapolis called the ITOS supervisors to discuss the Moussaoui	null	null	null	null	UNANN	6654508	null	null	null	null
+195	25397	1	925	0	4155406	case on August 27 , he declined to go up the chain of command at FBI headquarters and	null	null	null	null	UNANN	6654509	null	null	null	null
+195	25397	1	926	0	4155407	call Rolince .	null	null	null	null	UNANN	6654510	null	null	null	null
+195	25397	1	928	0	4155408	On August 23 , DCI Tenet was briefed about the Moussaoui case in a briefing titled	null	null	null	null	UNANN	6654511	null	null	null	null
+195	25397	1	929	0	4155409	'' Islamic Extremist Learns to Fly . ''	null	null	null	null	UNANN	6654512	null	null	null	null
+195	25397	2	929	0	4155410	Tenet was also told	null	null	null	null	UNANN	6654513	null	null	null	null
+195	25397	1	930	0	4155411	that Moussaoui wanted to learn to fly a 747 , paid for his training in cash , was	null	null	null	null	UNANN	6654514	null	null	null	null
+195	25397	1	931	0	4155412	interested to learn the doors do not open in flight , and wanted to fly a simulated	null	null	null	null	UNANN	6654515	null	null	null	null
+195	25397	1	932	0	4155413	flight from London to New York .	null	null	null	null	UNANN	6654516	null	null	null	null
+195	25397	2	932	0	4155414	He was told that the FBI had arrested Moussaoui	null	null	null	null	UNANN	6654517	null	null	null	null
+195	25397	1	933	0	4155415	because of a visa overstay and that the CIA was working the case with the FBI .	null	null	null	null	UNANN	6654518	null	null	null	null
+195	25397	2	933	0	4155416	Tenet	null	null	null	null	UNANN	6654519	null	null	null	null
+195	25397	1	934	0	4155417	told us that no connection to al Qaeda was apparent to him at the time .	null	null	null	null	UNANN	6654520	null	null	null	null
+195	25397	2	934	0	4155418	Seeing it as	null	null	null	null	UNANN	6654521	null	null	null	null
+195	25397	1	935	0	4155419	an FBI case , he did not discuss the matter with anyone at the White House or the	null	null	null	null	UNANN	6654522	null	null	null	null
+195	25397	1	936	0	4155420	FBI .	null	null	null	null	UNANN	6654523	null	null	null	null
+195	25397	2	936	0	4155421	No connection was made between Moussaoui 's presence in the United States and	null	null	null	null	UNANN	6654524	null	null	null	null
+195	25397	1	937	0	4155422	the threat reporting during the summer of 2001 .	null	null	null	null	UNANN	6654525	null	null	null	null
+195	25397	1	939	0	4155423	On September 11 , after the attacks , the FBI office in London renewed their appeal for	null	null	null	null	UNANN	6654526	null	null	null	null
+195	25397	1	940	0	4155424	information about Moussaoui .	null	null	null	null	UNANN	6654527	null	null	null	null
+195	25397	2	940	0	4155425	In response to U.S. requests , the British government	null	null	null	null	UNANN	6654528	null	null	null	null
+195	25397	1	941	0	4155426	supplied some basic biographical information about Moussaoui .	null	null	null	null	UNANN	6654529	null	null	null	null
+195	25397	2	941	0	4155427	The British government	null	null	null	null	UNANN	6654530	null	null	null	null
+195	25397	1	942	0	4155428	informed us that it also immediately tasked intelligence collection facilities for	null	null	null	null	UNANN	6654531	null	null	null	null
+195	25397	1	943	0	4155429	information about Moussaoui .	null	null	null	null	UNANN	6654532	null	null	null	null
+195	25397	2	943	0	4155430	On September 13 , the British government received new,	null	null	null	null	UNANN	6654533	null	null	null	null
+195	25397	1	944	0	4155431	sensitive intelligence that Moussaoui had attended an al Qaeda training camp in	null	null	null	null	UNANN	6654534	null	null	null	null
+195	25397	1	945	0	4155432	Afghanistan .	null	null	null	null	UNANN	6654535	null	null	null	null
+195	25397	2	945	0	4155433	It passed this intelligence to the United States on the same day .	null	null	null	null	UNANN	6654536	null	null	null	null
+195	25397	3	945	0	4155434	Had	null	null	null	null	UNANN	6654537	null	null	null	null
+195	25397	1	946	0	4155435	this information been available in late August 2001 , the Moussaoui case would almost	null	null	null	null	UNANN	6654538	null	null	null	null
+195	25397	1	947	0	4155436	certainly have received intense , high-level attention .	null	null	null	null	UNANN	6654539	null	null	null	null
+195	25397	1	949	0	4155437	The FBI also learned after 9/11 that the millennium terrorist Ressam , who by 2001 was	null	null	null	null	UNANN	6654540	null	null	null	null
+195	25397	1	950	0	4155438	cooperating with investigators , recognized Moussaoui as someone who had been in the	null	null	null	null	UNANN	6654541	null	null	null	null
+195	25397	1	951	0	4155439	Afghan camps .	null	null	null	null	UNANN	6654542	null	null	null	null
+195	25397	1	953	0	4155440	As mentioned above , before 9/11 the FBI agents in Minneapolis had failed to persuade	null	null	null	null	UNANN	6654543	null	null	null	null
+195	25397	1	954	0	4155441	supervisors at headquarters that there was enough evidence to seek a FISA warrant to	null	null	null	null	UNANN	6654544	null	null	null	null
+195	25397	1	955	0	4155442	search Moussaoui 's computer hard drive and belongings .	null	null	null	null	UNANN	6654545	null	null	null	null
+195	25397	2	955	0	4155443	Either the British	null	null	null	null	UNANN	6654546	null	null	null	null
+195	25397	1	956	0	4155444	information or the Ressam identification would have broken the logjam .	null	null	null	null	UNANN	6654547	null	null	null	null
+195	25397	1	957	0	4155445	A maximum U.S. effort to investigate Moussaoui conceivably could have unearthed his	null	null	null	null	UNANN	6654548	null	null	null	null
+195	25397	1	958	0	4155446	connections to Binalshibh .	null	null	null	null	UNANN	6654549	null	null	null	null
+195	25397	2	958	0	4155447	Those connections might have brought investigators to the	null	null	null	null	UNANN	6654550	null	null	null	null
+195	25397	1	959	0	4155448	core of the 9/11 plot .	null	null	null	null	UNANN	6654551	null	null	null	null
+195	25397	2	959	0	4155449	The Binalshibh connection was recognized shortly after 9/11,	null	null	null	null	UNANN	6654552	null	null	null	null
+195	25397	1	960	0	4155450	though it was not an easy trail to find .	null	null	null	null	UNANN	6654553	null	null	null	null
+195	25397	2	960	0	4155451	Discovering it would have required quick	null	null	null	null	UNANN	6654554	null	null	null	null
+195	25397	1	961	0	4155452	and very substantial cooperation from the German government , which might well have	null	null	null	null	UNANN	6654555	null	null	null	null
+195	25397	1	962	0	4155453	been difficult to obtain .	null	null	null	null	UNANN	6654556	null	null	null	null
+195	25397	2	962	0	4155454	However , publicity about Moussaoui 's arrest and a possible	null	null	null	null	UNANN	6654557	null	null	null	null
+195	25397	1	963	0	4155455	hijacking threat might have derailed the plot.107With time , the search for Mihdhar	null	null	null	null	UNANN	6654558	null	null	null	null
+195	25397	1	964	0	4155456	and Hazmi and the investigation of Moussaoui might also have led to a breakthrough	null	null	null	null	UNANN	6654559	null	null	null	null
+195	25397	1	965	0	4155457	that would have disrupted the plot .	null	null	null	null	UNANN	6654560	null	null	null	null
+195	25397	1	966	0	4155458	Khalid Sheikh Mohammed	null	null	null	null	UNANN	6654561	null	null	null	null
+195	25397	1	967	0	4155459	Another late opportunity was presented by a confluence of information regarding	null	null	null	null	UNANN	6654562	null	null	null	null
+195	25397	1	968	0	4155460	Khalid Sheikh Mohammed received by the intelligence community in the summer of 2001 .	null	null	null	null	UNANN	6654563	null	null	null	null
+195	25397	1	969	0	4155461	The possible links between KSM , Moussaoui , and an individual only later identified	null	null	null	null	UNANN	6654564	null	null	null	null
+195	25397	1	970	0	4155462	as Ramzi Binalshibh would remain undiscovered , however .	null	null	null	null	UNANN	6654565	null	null	null	null
+195	25397	1	971	0	4155463	Although we readily equate KSM with al Qaeda today , this was not the case before	null	null	null	null	UNANN	6654566	null	null	null	null
+195	25397	1	972	0	4155464	9/11 .	null	null	null	null	UNANN	6654567	null	null	null	null
+195	25397	2	972	0	4155465	KSM , who had been indicted in January 1996 for his role in the Manila air	null	null	null	null	UNANN	6654568	null	null	null	null
+195	25397	1	973	0	4155466	plot , was seen primarily as another freelance terrorist , associated with Ramzi	null	null	null	null	UNANN	6654569	null	null	null	null
+195	25397	1	974	0	4155467	Yousef .	null	null	null	null	UNANN	6654570	null	null	null	null
+195	25397	2	974	0	4155468	Because the links between KSM and Bin Ladin or al Qaeda were not recognized	null	null	null	null	UNANN	6654571	null	null	null	null
+195	25397	1	975	0	4155469	at the time , responsibility for KSM remained in the small Islamic Extremist Branch	null	null	null	null	UNANN	6654572	null	null	null	null
+195	25397	1	976	0	4155470	of the Counterterrorist Center , not in the Bin Ladin unit .	null	null	null	null	UNANN	6654573	null	null	null	null
+195	25397	1	977	0	4155471	Moreover , because KSM had already been indicted , he became targeted for arrest .	null	null	null	null	UNANN	6654574	null	null	null	null
+195	25397	2	977	0	4155472	In	null	null	null	null	UNANN	6654575	null	null	null	null
+195	25397	1	978	0	4155473	1997 , the Counterterrorist Center added a Renditions Branch to help find wanted	null	null	null	null	UNANN	6654576	null	null	null	null
+195	25397	1	979	0	4155474	fugitives .	null	null	null	null	UNANN	6654577	null	null	null	null
+195	25397	2	979	0	4155475	Responsibility for KSM was transferred to this branch , which gave the CIA	null	null	null	null	UNANN	6654578	null	null	null	null
+195	25397	1	980	0	4155476	a `` man-to-man '' focus but was not an analytical unit .	null	null	null	null	UNANN	6654579	null	null	null	null
+195	25397	2	980	0	4155477	When subsequent information	null	null	null	null	UNANN	6654580	null	null	null	null
+195	25397	1	981	0	4155478	came , more critical for analysis than for tracking , no unit had the job of following	null	null	null	null	UNANN	6654581	null	null	null	null
+195	25397	1	982	0	4155479	up on what the information might mean .	null	null	null	null	UNANN	6654582	null	null	null	null
+195	25397	1	984	0	4155480	For example , in September 2000 , a source had reported that an individual named Khalid	null	null	null	null	UNANN	6654583	null	null	null	null
+195	25397	1	985	0	4155481	al-Shaykh al-Ballushi was a key lieutenant in al Qaeda .	null	null	null	null	UNANN	6654584	null	null	null	null
+195	25397	2	985	0	4155482	Al- Ballushi means `` from	null	null	null	null	UNANN	6654585	null	null	null	null
+195	25397	1	986	0	4155483	Baluchistan , '' and KSM is from Baluchistan .	null	null	null	null	UNANN	6654586	null	null	null	null
+195	25397	2	986	0	4155484	Recognizing the possible significance of	null	null	null	null	UNANN	6654587	null	null	null	null
+195	25397	1	987	0	4155485	this information , the Bin Ladin unit sought more information .	null	null	null	null	UNANN	6654588	null	null	null	null
+195	25397	2	987	0	4155486	When no information	null	null	null	null	UNANN	6654589	null	null	null	null
+195	25397	1	988	0	4155487	was forthcoming , the Bin Ladin unit dropped the matter .	null	null	null	null	UNANN	6654590	null	null	null	null
+195	25397	1	990	0	4155488	When additional pieces of the puzzle arrived in the spring and summer of 2001 , they	null	null	null	null	UNANN	6654591	null	null	null	null
+195	25397	1	991	0	4155489	were not put together .	null	null	null	null	UNANN	6654592	null	null	null	null
+195	25397	1	992	0	4155490	The first piece of the puzzle concerned some intriguing information associated with a	null	null	null	null	UNANN	6654593	null	null	null	null
+195	25397	1	993	0	4155491	person known as `` Mukhtar '' that the CIA had begun analyzing in April 2001 .	null	null	null	null	UNANN	6654594	null	null	null	null
+195	25397	2	993	0	4155492	The CIA	null	null	null	null	UNANN	6654595	null	null	null	null
+195	25397	1	994	0	4155493	did not know who Mukhtar was at the time-only that he associated with al Qaeda	null	null	null	null	UNANN	6654596	null	null	null	null
+195	25397	1	995	0	4155494	lieutenant Abu Zubaydah and that , based on the nature of the information , he was	null	null	null	null	UNANN	6654597	null	null	null	null
+195	25397	1	996	0	4155495	evidently involved in planning possible terrorist activities .	null	null	null	null	UNANN	6654598	null	null	null	null
+195	25397	1	998	0	4155496	The second piece of the puzzle was some alarming information regarding KSM .	null	null	null	null	UNANN	6654599	null	null	null	null
+195	25397	2	998	0	4155497	On June	null	null	null	null	UNANN	6654600	null	null	null	null
+195	25397	1	999	0	4155498	12, 2001 , a CIA report said that `` Khaled '' was actively recruiting people to travel	null	null	null	null	UNANN	6654601	null	null	null	null
+195	25397	1	1000	0	4155499	outside Afghanistan , including to the United States where colleagues were reportedly	null	null	null	null	UNANN	6654602	null	null	null	null
+195	25397	1	1001	0	4155500	already in the country to meet them , to carry out terrorist-related activities for	null	null	null	null	UNANN	6654603	null	null	null	null
+195	25397	1	1002	0	4155501	Bin Ladin .	null	null	null	null	UNANN	6654604	null	null	null	null
+195	25397	2	1002	0	4155502	CIA headquarters presumed from the details of the reporting that this	null	null	null	null	UNANN	6654605	null	null	null	null
+195	25397	1	1003	0	4155503	person was Khalid Sheikh Mohammed .	null	null	null	null	UNANN	6654606	null	null	null	null
+195	25397	2	1003	0	4155504	In July , the same source was shown a series of	null	null	null	null	UNANN	6654607	null	null	null	null
+195	25397	1	1004	0	4155505	photographs and identified a photograph of Khalid Sheikh Mohammed as the Khaled he	null	null	null	null	UNANN	6654608	null	null	null	null
+195	25397	1	1005	0	4155506	had previously discussed .	null	null	null	null	UNANN	6654609	null	null	null	null
+195	25397	1	1007	0	4155507	The final piece of the puzzle arrived at the CIA 's Bin Ladin unit on August 28 in a	null	null	null	null	UNANN	6654610	null	null	null	null
+195	25397	1	1008	0	4155508	cable reporting that KSM 's nickname was Mukhtar .	null	null	null	null	UNANN	6654611	null	null	null	null
+195	25397	2	1008	0	4155509	No one made the connection to the	null	null	null	null	UNANN	6654612	null	null	null	null
+195	25397	1	1009	0	4155510	reports about Mukhtar that had been circulated in the spring .	null	null	null	null	UNANN	6654613	null	null	null	null
+195	25397	2	1009	0	4155511	This connection might	null	null	null	null	UNANN	6654614	null	null	null	null
+195	25397	1	1010	0	4155512	also have underscored concern about the June reporting that KSM was recruiting	null	null	null	null	UNANN	6654615	null	null	null	null
+195	25397	1	1011	0	4155513	terrorists to travel , including to the United States .	null	null	null	null	UNANN	6654616	null	null	null	null
+195	25397	2	1011	0	4155514	Only after 9/11 would it be	null	null	null	null	UNANN	6654617	null	null	null	null
+195	25397	1	1012	0	4155515	discovered that Muhktar/KSM had communicated with a phone that was used by	null	null	null	null	UNANN	6654618	null	null	null	null
+195	25397	1	1013	0	4155516	Binalshibh , and that Binalshibh had used the same phone to communicate with	null	null	null	null	UNANN	6654619	null	null	null	null
+195	25397	1	1014	0	4155517	Moussaoui , as discussed in chapter 7 .	null	null	null	null	UNANN	6654620	null	null	null	null
+195	25397	2	1014	0	4155518	As in the Moussaoui situation already	null	null	null	null	UNANN	6654621	null	null	null	null
+195	25397	1	1015	0	4155519	described , the links to Binalshibh might not have been an easy trail to find and	null	null	null	null	UNANN	6654622	null	null	null	null
+195	25397	1	1016	0	4155520	would have required substantial cooperation from the German government .	null	null	null	null	UNANN	6654623	null	null	null	null
+195	25397	2	1016	0	4155521	But time was	null	null	null	null	UNANN	6654624	null	null	null	null
+195	25397	1	1017	0	4155522	short , and running out .	null	null	null	null	UNANN	6654625	null	null	null	null
+195	25397	1	1019	0	4155523	Time Runs Out	null	null	null	null	UNANN	6654626	null	null	null	null
+195	25397	1	1020	0	4155524	As Tenet told us , `` the system was blinking red '' during the summer of 2001 .	null	null	null	null	UNANN	6654627	null	null	null	null
+195	25397	2	1020	0	4155525	Officials	null	null	null	null	UNANN	6654628	null	null	null	null
+195	25397	1	1021	0	4155526	were alerted across the world .	null	null	null	null	UNANN	6654629	null	null	null	null
+195	25397	2	1021	0	4155527	Many were doing everything they possibly could to	null	null	null	null	UNANN	6654630	null	null	null	null
+195	25397	1	1022	0	4155528	respond to the threats .	null	null	null	null	UNANN	6654631	null	null	null	null
+195	25397	1	1023	0	4155529	Yet no one working on these late leads in the summer of 2001 connected the case in	null	null	null	null	UNANN	6654632	null	null	null	null
+195	25397	1	1024	0	4155530	his or her in-box to the threat reports agitating senior officials and being briefed	null	null	null	null	UNANN	6654633	null	null	null	null
+195	25397	1	1025	0	4155531	to the President .	null	null	null	null	UNANN	6654634	null	null	null	null
+195	25397	2	1025	0	4155532	Thus , these individual cases did not become national priorities .	null	null	null	null	UNANN	6654635	null	null	null	null
+195	25397	1	1026	0	4155533	As the CIA supervisor `` John&quot; told us , no one looked at the bigger picture ; no	null	null	null	null	UNANN	6654636	null	null	null	null
+195	25397	1	1027	0	4155534	analytic work foresaw the lightning that could connect the thundercloud to the	null	null	null	null	UNANN	6654637	null	null	null	null
+195	25397	1	1028	0	4155535	ground .	null	null	null	null	UNANN	6654638	null	null	null	null
+195	25397	1	1030	0	4155536	We see little evidence that the progress of the plot was disturbed by any government	null	null	null	null	UNANN	6654639	null	null	null	null
+195	25397	1	1031	0	4155537	action .	null	null	null	null	UNANN	6654640	null	null	null	null
+195	25397	2	1031	0	4155538	The U.S. government was unable to capitalize on mistakes made by al Qaeda .	null	null	null	null	UNANN	6654641	null	null	null	null
+195	25397	1	1032	0	4155539	Time ran out .	null	null	null	null	UNANN	6654642	null	null	null	null

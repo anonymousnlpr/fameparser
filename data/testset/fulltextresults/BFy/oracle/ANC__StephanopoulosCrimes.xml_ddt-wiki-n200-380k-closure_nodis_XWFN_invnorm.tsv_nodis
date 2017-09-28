@@ -1,0 +1,16 @@
+filename	ANC__StephanopoulosCrimes.xml
+docAnnotations	188
+docManual	149
+docUnannotated	39
+sentences	35
+paragraphs	8
+Overlapping	115
+Disambiguated	61
+TP	47
+TN	39
+FP	0
+FN	88
+P	1.0
+R	0.34814814814814815
+F	0.5164835164835165
+A	0.4942528735632184

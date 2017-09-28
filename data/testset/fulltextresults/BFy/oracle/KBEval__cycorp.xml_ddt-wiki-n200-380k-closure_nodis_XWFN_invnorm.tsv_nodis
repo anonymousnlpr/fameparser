@@ -1,0 +1,16 @@
+filename	KBEval__cycorp.xml
+docAnnotations	128
+docManual	20
+docUnannotated	108
+sentences	108
+paragraphs	36
+Overlapping	16
+Disambiguated	9
+TP	5
+TN	108
+FP	0
+FN	11
+P	1.0
+R	0.3125
+F	0.47619047619047616
+A	0.9112903225806451

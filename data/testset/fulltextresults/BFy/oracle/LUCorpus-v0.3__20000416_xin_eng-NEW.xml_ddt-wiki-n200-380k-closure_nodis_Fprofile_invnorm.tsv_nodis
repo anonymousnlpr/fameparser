@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__20000416_xin_eng-NEW.xml
+docAnnotations	143
+docManual	128
+docUnannotated	15
+sentences	15
+paragraphs	14
+Overlapping	94
+Disambiguated	65
+TP	49
+TN	15
+FP	0
+FN	63
+P	1.0
+R	0.4375
+F	0.6086956521739131
+A	0.5039370078740157

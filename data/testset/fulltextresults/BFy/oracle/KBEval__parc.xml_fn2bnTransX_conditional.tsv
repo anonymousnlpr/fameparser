@@ -1,0 +1,641 @@
+SILVER:185	23575	2	1	0	4098324	Some students came to school by car .	941	come.v	54	Arriving	MANUAL	6533223	14	17	MJE	came
+LINKED:[2	2	14	17	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43086 ===
+	Arriving: 0.004566210045662128
+	Motion: 0.001773049645390089
+	Travel: 0.0011876484560570037
+	Change_position_on_a_scale: 0.0010940919037199237
+	Cause_change_of_position_on_a_scale: 0.0010395010395010604
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	3	1	0	4098325	QN : Did any students come to school ?	941	come.v	54	Arriving	MANUAL	6533224	22	25	MJE	come
+LINKED:[5	5	22	25	bn:00085320v		http://babelnet.org/rdf/s00085320v	1.0	0.33333334	0.25	BABELFY]
+RANK:=== COUNTER  Counter 43088 ===
+	Eventive_affecting: 0.024390243902439015
+	Coincidence: 0.019607843137254888
+	Take_place_of: 0.015151515151515164
+	Event: 8.904719501335603E-4
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	3	2	0	4098328	QN : Did any students come to school ?	941	come.v	54	Arriving	MANUAL	6533514	22	25	Hay	come
+LINKED:[5	5	22	25	bn:00085320v		http://babelnet.org/rdf/s00085320v	1.0	0.33333334	0.25	BABELFY]
+RANK:=== COUNTER  Counter 43090 ===
+	Eventive_affecting: 0.024390243902439015
+	Coincidence: 0.019607843137254888
+	Take_place_of: 0.015151515151515164
+	Event: 8.904719501335603E-4
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	11	0	4098354	Jones arrived in Paris in September last year .	940	arrive.v	54	Arriving	MANUAL	6532477	6	12	RLG	arrived
+LINKED:[1	1	6	12	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43092 ===
+	Arriving: 0.004566210045662128
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	2	11	0	4098354	Jones arrived in Paris in September last year .	4074	year.n	229	Calendric_unit	MANUAL	6532478	41	44	RLG	year
+LINKED:[7	7	41	44	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43094 ===
+	Measure_duration: 0.010526315789473672
+	Calendric_unit: 0.004854368932038836
+	Location_in_time: 0.0014880952380952428
+	Timespan: 0.0012531328320802212
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:185	23575	3	11	0	4098355	QN : Did Jones arrive in Paris last year ?	940	arrive.v	54	Arriving	MANUAL	6532483	15	20	RLG	arrive
+LINKED:[4	4	15	20	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43096 ===
+	Arriving: 0.004566210045662128
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	2	12	0	4098357	Jones arrived in Paris in September last year .	940	arrive.v	54	Arriving	MANUAL	6533515	6	12	Hay	arrived
+LINKED:[1	1	6	12	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43098 ===
+	Arriving: 0.004566210045662128
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	2	12	0	4098357	Jones arrived in Paris in September last year .	4074	year.n	229	Calendric_unit	MANUAL	6533516	41	44	Hay	year
+LINKED:[7	7	41	44	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43100 ===
+	Measure_duration: 0.010526315789473672
+	Calendric_unit: 0.004854368932038836
+	Location_in_time: 0.0014880952380952428
+	Timespan: 0.0012531328320802212
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:185	23575	3	12	0	4098358	QN : Did Jones arrive in Paris in September ?	940	arrive.v	54	Arriving	MANUAL	6533415	15	20	MJE	arrive
+LINKED:[4	4	15	20	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43102 ===
+	Arriving: 0.004566210045662128
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	2	13	0	4098360	Jones arrived on a Sunday in September .	940	arrive.v	54	Arriving	MANUAL	6533416	6	12	MJE	arrived
+LINKED:[1	1	6	12	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43104 ===
+	Arriving: 0.004566210045662128
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	3	13	0	4098361	QN : Did Jones arrive on a Sunday ?	940	arrive.v	54	Arriving	MANUAL	6533417	15	20	MJE	arrive
+LINKED:[4	4	15	20	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43106 ===
+	Arriving: 0.004566210045662128
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	2	14	0	4098363	Jones arrived on a Sunday in September .	940	arrive.v	54	Arriving	MANUAL	6533517	6	12	Hay	arrived
+LINKED:[1	1	6	12	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43108 ===
+	Arriving: 0.004566210045662128
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	3	14	0	4098364	QN : Did Jones arrive in September ?	940	arrive.v	54	Arriving	MANUAL	6533418	15	20	MJE	arrive
+LINKED:[4	4	15	20	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43110 ===
+	Arriving: 0.004566210045662128
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	2	15	0	4098366	The president left after the diplomat arrived .	8622	leave.v	57	Departing	MANUAL	6533315	14	17	RLG	left
+LINKED:[2	2	14	17	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43112 ===
+	Abandonment: 0.017241379310344817
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	15	0	4098366	The president left after the diplomat arrived .	1599	president	73	Leadership	MANUAL	6533316	4	12	RLG	president
+LINKED:[1	1	4	12	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43114 ===
+	First_rank: 0.0023474178403755743
+	Leadership: 0.0011248593925759407
+	People: 9.580379383024174E-5
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23575	3	15	0	4098367	QN : Did the diplomat arrive before the president left ?	940	arrive.v	54	Arriving	MANUAL	6533395	22	27	RLG	arrive
+LINKED:[5	5	22	27	bn:00082788v		http://babelnet.org/rdf/s00082788v	1.0	0.33333334	0.3888889	BABELFY]
+RANK:=== COUNTER  Counter 43116 ===
+	Arriving: 0.004566210045662128
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	3	15	0	4098367	QN : Did the diplomat arrive before the president left ?	1599	president	73	Leadership	MANUAL	6533397	40	48	RLG	president
+LINKED:[8	8	40	48	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43118 ===
+	First_rank: 0.0023474178403755743
+	Leadership: 0.0011248593925759407
+	People: 9.580379383024174E-5
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23575	3	15	0	4098367	QN : Did the diplomat arrive before the president left ?	8622	leave.v	57	Departing	MANUAL	6533398	50	53	RLG	left
+LINKED:[9	9	50	53	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43120 ===
+	Abandonment: 0.017241379310344817
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	19	0	4098378	Some students arrived at the school on Sunday .	940	arrive.v	54	Arriving	MANUAL	6533419	14	20	MJE	arrived
+LINKED:[2	2	14	20	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43122 ===
+	Arriving: 0.004566210045662128
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	2	20	0	4098381	No students arrived at the school on Sunday .	940	arrive.v	54	Arriving	MANUAL	6533421	12	18	MJE	arrived
+LINKED:[2	2	12	18	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43124 ===
+	Arriving: 0.004566210045662128
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	3	21	0	4098385	QN : Did any students arrive at the school on Sunday ?	940	arrive.v	54	Arriving	MANUAL	6533423	22	27	MJE	arrive
+LINKED:[5	5	22	27	bn:00082788v		http://babelnet.org/rdf/s00082788v	1.0	0.25	0.040816326	BABELFY]
+RANK:=== COUNTER  Counter 43126 ===
+	Arriving: 0.004566210045662128
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	2	22	0	4098387	The diplomat left Baghdad last week .	8622	leave.v	57	Departing	MANUAL	6533319	13	16	RLG	left
+LINKED:[2	2	13	16	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43128 ===
+	Abandonment: 0.017241379310344817
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	23	0	4098390	The diplomat will arrive in Baghdad next week .	940	arrive.v	54	Arriving	MANUAL	6533424	18	23	MJE	arrive
+LINKED:[3	3	18	23	bn:00082788v		http://babelnet.org/rdf/s00082788v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43130 ===
+	Arriving: 0.004566210045662128
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23575	2	24	0	4098393	The president knows that the diplomat left Baghdad .	160	know.v	19	Awareness	MANUAL	6533320	14	18	RLG	knows
+LINKED:[2	2	14	18	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43132 ===
+	Certainty: 0.019607843137254888
+	Awareness: 0.0029673590504451113
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:185	23575	2	24	0	4098393	The president knows that the diplomat left Baghdad .	8622	leave.v	57	Departing	MANUAL	6533322	38	41	RLG	left
+LINKED:[6	6	38	41	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43134 ===
+	Abandonment: 0.017241379310344817
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	25	0	4098396	The president has n't gone to Iraq since the diplomat left Baghdad .	1599	president	73	Leadership	MANUAL	6533323	4	12	RLG	president
+LINKED:[1	1	4	12	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43136 ===
+	First_rank: 0.0023474178403755743
+	Leadership: 0.0011248593925759407
+	People: 9.580379383024174E-5
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23575	2	25	0	4098396	The president has n't gone to Iraq since the diplomat left Baghdad .	8622	leave.v	57	Departing	MANUAL	6533399	54	57	RLG	left
+LINKED:[11	11	54	57	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43138 ===
+	Abandonment: 0.017241379310344817
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	26	0	4098399	The president has n't gone to Iraq since the diplomat left Baghdad .	1599	president	73	Leadership	MANUAL	6533519	4	12	Hay	president
+LINKED:[1	1	4	12	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43140 ===
+	First_rank: 0.0023474178403755743
+	Leadership: 0.0011248593925759407
+	People: 9.580379383024174E-5
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23575	2	26	0	4098399	The president has n't gone to Iraq since the diplomat left Baghdad .	8622	leave.v	57	Departing	MANUAL	6533521	54	57	Hay	left
+LINKED:[11	11	54	57	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43142 ===
+	Abandonment: 0.017241379310344817
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	27	0	4098402	The diplomat did n't manage to leave Baghdad .	8622	leave.v	57	Departing	MANUAL	6533282	31	35	RLG	leave
+LINKED:[7	7	31	35	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43144 ===
+	Abandonment: 0.017241379310344817
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	28	0	4098405	The diplomat has n't managed to leave Baghdad .	8622	leave.v	57	Departing	MANUAL	6533426	32	36	MJE	leave
+LINKED:[7	7	32	36	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43146 ===
+	Abandonment: 0.017241379310344817
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	28	0	4098405	The diplomat has n't managed to leave Baghdad .	12830	manage.v	1388	Success_or_failure	MANUAL	6533776	21	27	JKR	managed
+LINKED:[5	5	21	27	bn:00084092v		http://babelnet.org/rdf/s00084092v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43148 ===
+	Operating_a_system: 0.04545454545454547
+	Successful_action: 0.0169491525423729
+	Success_or_failure: 0.012658227848101283
+
+SELECTED:[Success_or_failure]
+MATCH!
+SILVER:185	23575	2	29	0	4098408	The room was full of intelligent women .	407	intelligent.a	29	Mental_property	MANUAL	6533428	21	31	MJE	intelligent
+LINKED:[5	5	21	31	bn:00105243a		http://babelnet.org/rdf/s00105243a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43150 ===
+	Mental_property: 8.077544426494239E-4
+
+SELECTED:[Mental_property]
+MATCH!
+SILVER:185	23575	2	29	0	4098408	The room was full of intelligent women .	7010	full.a	262	Abounding_with	MANUAL	6533429	13	16	MJE	full
+LINKED:[3	3	13	16	bn:00103391a		http://babelnet.org/rdf/s00103391a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43152 ===
+	Abounding_with: 0.05263157894736844
+	Fullness: 0.030303030303030325
+	Feeling: 0.0019762845849802466
+
+SELECTED:[Abounding_with]
+MATCH!
+SILVER:185	23575	3	29	0	4098409	QN : Was the room full of women ?	7010	full.a	262	Abounding_with	MANUAL	6533430	18	21	MJE	full
+LINKED:[5	5	18	21	bn:00103391a		http://babelnet.org/rdf/s00103391a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43154 ===
+	Abounding_with: 0.05263157894736844
+	Fullness: 0.030303030303030325
+	Feeling: 0.0019762845849802466
+
+SELECTED:[Abounding_with]
+MATCH!
+SILVER:185	23575	2	30	0	4098411	The room was full of women .	7010	full.a	262	Abounding_with	MANUAL	6533431	13	16	MJE	full
+LINKED:[3	3	13	16	bn:00103391a		http://babelnet.org/rdf/s00103391a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43156 ===
+	Abounding_with: 0.05263157894736844
+	Fullness: 0.030303030303030325
+	Feeling: 0.0019762845849802466
+
+SELECTED:[Abounding_with]
+MATCH!
+SILVER:185	23575	3	30	0	4098412	QN : Was the room full of intelligent women ?	7010	full.a	262	Abounding_with	MANUAL	6533432	18	21	MJE	full
+LINKED:[5	5	18	21	bn:00103391a		http://babelnet.org/rdf/s00103391a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43158 ===
+	Abounding_with: 0.05263157894736844
+	Fullness: 0.030303030303030325
+	Feeling: 0.0019762845849802466
+
+SELECTED:[Abounding_with]
+MATCH!
+SILVER:185	23575	3	30	0	4098412	QN : Was the room full of intelligent women ?	407	intelligent.a	29	Mental_property	MANUAL	6533433	26	36	MJE	intelligent
+LINKED:[7	7	26	36	bn:00105243a		http://babelnet.org/rdf/s00105243a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43160 ===
+	Mental_property: 8.077544426494239E-4
+
+SELECTED:[Mental_property]
+MATCH!
+SILVER:185	23575	2	37	0	4098432	No delegates finished the report .	4483	finish.v	165	Activity_finish	MANUAL	6533194	13	20	MJE	finished
+LINKED:[2	2	13	20	bn:00085475v		http://babelnet.org/rdf/s00085475v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43162 ===
+	Activity_finish: 0.024390243902439015
+	Cause_to_end: 0.011627906976744174
+	Activity_stop: 0.010101010101010123
+	Cause_change: 2.9886431560074067E-4
+
+SELECTED:[Activity_finish]
+MATCH!
+SILVER:185	23575	3	37	0	4098433	QN : Did any delegate finish the report on time ?	4483	finish.v	165	Activity_finish	MANUAL	6533193	22	27	MJE	finish
+LINKED:[5	5	22	27	bn:00020194n	http://dbpedia.org/resource/Finishing_(textiles)	http://babelnet.org/rdf/s00020194n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43164 ===
+	Differentiation: 5.841121495327253E-4
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	44	0	4098453	Bush said that it was Khan who sold centrifuges to North Korea .	751	say.v	43	Statement	MANUAL	6532486	5	8	RLG	said
+LINKED:[1	1	5	8	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43166 ===
+	Spelling_and_pronouncing: 0.004081632653061203
+	Speak_on_topic: 0.003984063745019924
+	Becoming_aware: 0.003124999999999982
+	Text_creation: 0.0023419203747072578
+	Statement: 5.720823798626811E-4
+	Communication: 4.063388866314588E-4
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23575	2	44	0	4098453	Bush said that it was Khan who sold centrifuges to North Korea .	2986	sell.v	172	Commerce_sell	MANUAL	6532487	31	34	RLG	sold
+LINKED:[7	7	31	34	bn:00083456v		http://babelnet.org/rdf/s00083456v	1.0	0.2	0.004784689	BABELFY]
+RANK:=== COUNTER  Counter 43168 ===
+	Manipulate_into_doing: 0.010204081632653052
+	Reporting: 0.002994011976047915
+	Intentionally_act: 1.980198019801979E-4
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	3	44	0	4098454	QN : Were centrifuges sold to North Korea ?	2986	sell.v	172	Commerce_sell	MANUAL	6532492	22	25	RLG	sold
+LINKED:[4	4	22	25	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43170 ===
+	Exchange: 0.024390243902439015
+	Commerce_sell: 0.017857142857142835
+	Change_tool: 0.01492537313432834
+	Replacing: 0.01315789473684209
+	Commerce_scenario: 0.0012019230769230531
+
+SELECTED:[Commerce_sell]
+MATCH!
+SILVER:185	23575	2	45	0	4098456	Bush said that Khan sold centrifuges to North Korea .	751	say.v	43	Statement	MANUAL	6532494	5	8	RLG	said
+LINKED:[1	1	5	8	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43172 ===
+	Spelling_and_pronouncing: 0.004081632653061203
+	Speak_on_topic: 0.003984063745019924
+	Becoming_aware: 0.003124999999999982
+	Text_creation: 0.0023419203747072578
+	Statement: 5.720823798626811E-4
+	Communication: 4.063388866314588E-4
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23575	2	45	0	4098456	Bush said that Khan sold centrifuges to North Korea .	2986	sell.v	172	Commerce_sell	MANUAL	6532495	20	23	RLG	sold
+LINKED:[4	4	20	23	bn:00083456v		http://babelnet.org/rdf/s00083456v	1.0	0.2	0.004784689	BABELFY]
+RANK:=== COUNTER  Counter 43174 ===
+	Manipulate_into_doing: 0.010204081632653052
+	Reporting: 0.002994011976047915
+	Intentionally_act: 1.980198019801979E-4
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	3	45	0	4098457	QN : Were centrifuges sold to North Korea ?	2986	sell.v	172	Commerce_sell	MANUAL	6533522	22	25	Hay	sold
+LINKED:[4	4	22	25	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43176 ===
+	Exchange: 0.024390243902439015
+	Commerce_sell: 0.017857142857142835
+	Change_tool: 0.01492537313432834
+	Replacing: 0.01315789473684209
+	Commerce_scenario: 0.0012019230769230531
+
+SELECTED:[Commerce_sell]
+MATCH!
+SILVER:185	23575	2	46	0	4098459	What we found in Iraq was rusted shrapnel .	11227	find.v	792	Locating	MANUAL	6532501	8	12	RLG	found
+LINKED:[2	2	8	12	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43178 ===
+	Locating: 0.14285714285714288
+	Becoming_aware: 0.003124999999999982
+
+SELECTED:[Locating]
+MATCH!
+SILVER:185	23575	3	46	0	4098460	QN : Did we find anything in Iraq ?	11227	find.v	792	Locating	MANUAL	6532502	12	15	RLG	find
+LINKED:[4	4	12	15	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43180 ===
+	Locating: 0.14285714285714288
+	Becoming_aware: 0.003124999999999982
+
+SELECTED:[Locating]
+MATCH!
+SILVER:185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	8591	lead	5	Causation	MANUAL	6532503	41	43	RLG	led
+LINKED:[9	9	41	43	bn:00085567v		http://babelnet.org/rdf/s00085567v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43182 ===
+	Cotheme: 0.009345794392523364
+	First_rank: 0.0023474178403755743
+	Leadership: 0.0011248593925759407
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	168	suspicion.n	19	Awareness	MANUAL	6532504	52	60	RLG	suspicion
+LINKED:[12	12	52	60	bn:00045216n		http://babelnet.org/rdf/s00045216n	1.0	0.2	0.029411765	BABELFY]
+RANK:=== COUNTER  Counter 43184 ===
+	Regard: 0.013698630136986273
+	Awareness: 0.0029673590504451113
+	Opinion: 0.0027700831024930943
+	Containing: 0.002020202020202009
+	Inclusion: 0.00191938579654508
+	Cogitation: 0.0015105740181268715
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	8591	lead	5	Causation	MANUAL	6533524	41	43	Hay	led
+LINKED:[9	9	41	43	bn:00085567v		http://babelnet.org/rdf/s00085567v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43186 ===
+	Cotheme: 0.009345794392523364
+	First_rank: 0.0023474178403755743
+	Leadership: 0.0011248593925759407
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	168	suspicion.n	19	Awareness	MANUAL	6533525	52	60	Hay	suspicion
+LINKED:[12	12	52	60	bn:00045216n		http://babelnet.org/rdf/s00045216n	1.0	0.2	0.029411765	BABELFY]
+RANK:=== COUNTER  Counter 43188 ===
+	Regard: 0.013698630136986273
+	Awareness: 0.0029673590504451113
+	Opinion: 0.0027700831024930943
+	Containing: 0.002020202020202009
+	Inclusion: 0.00191938579654508
+	Cogitation: 0.0015105740181268715
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:185	23575	2	55	0	4098486	There is a belief that the US will invade Syria .	11960	belief.n	1412	Opinion	MANUAL	6533239	11	16	MJE	belief
+LINKED:[3	3	11	16	bn:00009716n	http://dbpedia.org/resource/Belief	http://babelnet.org/rdf/s00009716n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43190 ===
+	Opinion: 0.0027700831024930943
+	Containing: 0.002020202020202009
+	Inclusion: 0.00191938579654508
+
+SELECTED:[Opinion]
+MATCH!
+SILVER:185	23575	2	55	0	4098486	There is a belief that the US will invade Syria .	14806	invade.v	2022	Invading	MANUAL	6559225	35	40	AnW	invade
+LINKED:[8	8	35	40	bn:00089874v		http://babelnet.org/rdf/s00089874v	1.0	0.5	0.05	BABELFY]
+RANK:=== COUNTER  Counter 43192 ===
+	Invading: 0.10000000000000002
+	Quarreling: 0.0072463768115941934
+	Hostile_encounter: 0.0062111801242235925
+	Attack: 0.005681818181818159
+
+SELECTED:[Invading]
+MATCH!
+SILVER:185	23575	3	55	0	4098487	QN : Will the US invade Syria ?	14806	invade.v	2022	Invading	MANUAL	6559226	17	22	AnW	invade
+LINKED:[5	5	17	22	bn:00089874v		http://babelnet.org/rdf/s00089874v	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 43194 ===
+	Invading: 0.10000000000000002
+	Quarreling: 0.0072463768115941934
+	Hostile_encounter: 0.0062111801242235925
+	Attack: 0.005681818181818159
+
+SELECTED:[Invading]
+MATCH!
+SILVER:185	23575	2	57	0	4098492	It is not likely that Bush has the lead in Ohio .	2278	likely.a	114	Likelihood	MANUAL	6533401	10	15	RLG	likely
+LINKED:[3	3	10	15	bn:00105983a		http://babelnet.org/rdf/s00105983a	1.0	0.25	0.025641026	BABELFY]
+RANK:=== COUNTER  Counter 43196 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	58	0	4098495	Kerry knew that Edwards would accept the nomination .	160	know.v	19	Awareness	MANUAL	6533435	6	9	MJE	knew
+LINKED:[1	1	6	9	bn:00082272v		http://babelnet.org/rdf/s00082272v	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 43198 ===
+	Assessing: 0.002976190476190485
+	Cogitation: 0.0015105740181268715
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	3	58	0	4098496	QN : Did Kerry know whether Edwards would accept the nomination ?	160	know.v	19	Awareness	MANUAL	6533436	15	18	MJE	know
+LINKED:[4	4	15	18	bn:00082272v		http://babelnet.org/rdf/s00082272v	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 43200 ===
+	Assessing: 0.002976190476190485
+	Cogitation: 0.0015105740181268715
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	59	0	4098498	Tom knows that Naples is in Campania .	160	know.v	19	Awareness	MANUAL	6533437	4	8	MJE	knows
+LINKED:[1	1	4	8	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43202 ===
+	Certainty: 0.019607843137254888
+	Awareness: 0.0029673590504451113
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:185	23575	3	59	0	4098499	QN : Does Tom know where Naples is ?	160	know.v	19	Awareness	MANUAL	6533439	14	17	MJE	know
+LINKED:[4	4	14	17	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43204 ===
+	Certainty: 0.019607843137254888
+	Awareness: 0.0029673590504451113
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:185	23575	3	60	0	4098502	QN : Did the feast take place in September ?	4888	take	187	Event	MANUAL	6533202	24	28	EGp	place
+LINKED:[6	6	24	28	bn:00062699n	http://dbpedia.org/resource/Location_(geography)	http://babelnet.org/rdf/s00062699n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43206 ===
+	Locale: 5.167958656330983E-4
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	3	60	0	4098502	QN : Did the feast take place in September ?	3382	feast.n	125	Social_event	MANUAL	6533210	13	17	MJE	feast
+LINKED:[4	4	13	17	bn:00033858n		http://babelnet.org/rdf/s00033858n	1.0	0.5	0.11111111	BABELFY]
+RANK:=== COUNTER  Counter 43208 ===
+	Event: 8.904719501335603E-4
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	61	0	4098504	It is false that Bin Laden was seen in Tora Bora .	1535	see.v	70	Perception_experience	MANUAL	6532511	31	34	RLG	seen
+LINKED:[7	7	31	34	bn:00093430v		http://babelnet.org/rdf/s00093430v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43210 ===
+	Perception: 0.017241379310344817
+	Perception_experience: 0.005714285714285731
+	Becoming_aware: 0.003124999999999982
+
+SELECTED:[Perception_experience]
+MATCH!
+SILVER:185	23575	3	61	0	4098505	QN : Was Bin Laden seen in Tora Bora ?	1535	see.v	70	Perception_experience	MANUAL	6532513	19	22	RLG	seen
+LINKED:[5	5	19	22	bn:00093430v		http://babelnet.org/rdf/s00093430v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43212 ===
+	Perception: 0.017241379310344817
+	Perception_experience: 0.005714285714285731
+	Becoming_aware: 0.003124999999999982
+
+SELECTED:[Perception_experience]
+MATCH!
+SILVER:185	23575	2	63	0	4098510	It is likely that Bin Laden was in Tora Bora .	2278	likely.a	114	Likelihood	MANUAL	6533402	6	11	RLG	likely
+LINKED:[2	2	6	11	bn:00105981a		http://babelnet.org/rdf/s00105981a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43214 ===
+	Likelihood: 0.01315789473684209
+
+SELECTED:[Likelihood]
+MATCH!
+SILVER:185	23575	2	64	0	4098513	Tony Hall left Amman on Sunday .	8622	leave.v	57	Departing	MANUAL	6533325	10	13	RLG	left
+LINKED:[2	2	10	13	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43216 ===
+	Abandonment: 0.017241379310344817
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	65	0	4098516	Tony Hall left Amman on Sunday .	8622	leave.v	57	Departing	MANUAL	6533529	10	13	Hay	left
+LINKED:[2	2	10	13	bn:00090271v		http://babelnet.org/rdf/s00090271v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43218 ===
+	Abandonment: 0.017241379310344817
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	66	0	4098519	Khan sold 10 centrifuges to North Korea .	2986	sell.v	172	Commerce_sell	MANUAL	6532514	5	8	RLG	sold
+LINKED:[1	1	5	8	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43220 ===
+	Exchange: 0.024390243902439015
+	Commerce_sell: 0.017857142857142835
+	Change_tool: 0.01492537313432834
+	Replacing: 0.01315789473684209
+	Commerce_scenario: 0.0012019230769230531
+
+SELECTED:[Commerce_sell]
+MATCH!
+SILVER:185	23575	3	66	0	4098520	QN : Did North Korea buy 10 centrifuges ?	2966	buy.v	171	Commerce_buy	MANUAL	6532519	21	23	RLG	buy
+LINKED:[5	5	21	23	bn:00084040v		http://babelnet.org/rdf/s00084040v	1.0	0.33333334	0.012820513	BABELFY]
+RANK:=== COUNTER  Counter 43222 ===
+	Commerce_pay: 0.00862068965517243
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	67	0	4098522	The US invasion of Afghanistan prevented Al-Qaida from attacking Ryad in 2002 .	8087	prevent.v	516	Preventing_or_letting	MANUAL	6533235	31	39	MJE	prevented
+LINKED:[5	5	31	39	bn:00090033v		http://babelnet.org/rdf/s00090033v	1.0	0.14285715	0.013157895	BABELFY]
+RANK:=== COUNTER  Counter 43224 ===
+	Detaining: 0.047619047619047596
+	Inhibit_movement: 0.01851851851851854
+
+SELECTED:[]
+WRONG!
+SILVER:185	23575	2	67	0	4098522	The US invasion of Afghanistan prevented Al-Qaida from attacking Ryad in 2002 .	7742	attack.v	424	Attack	MANUAL	6533236	55	63	MJE	attacking
+LINKED:[8	8	55	63	bn:00082838v		http://babelnet.org/rdf/s00082838v	0.85714287	0.2857143	0.039473683	BABELFY]
+RANK:=== COUNTER  Counter 43226 ===
+	Quarreling: 0.0072463768115941934
+	Hostile_encounter: 0.0062111801242235925
+	Attack: 0.005681818181818159
+
+SELECTED:[Attack]
+MATCH!
+SILVER:185	23575	2	74	0	4098543	Many soldiers were killed in the ambush .	7772	ambush.n	424	Attack	MANUAL	6533242	33	38	MJE	ambush
+LINKED:[6	6	33	38	bn:00003300n	http://dbpedia.org/resource/Ambush	http://babelnet.org/rdf/s00003300n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 43228 ===
+	Attack: 0.005681818181818159
+	Intentionally_act: 1.980198019801979E-4
+
+SELECTED:[Attack]
+MATCH!
+SILVER:185	23575	2	74	0	4098543	Many soldiers were killed in the ambush .	8630	kill.v	590	Killing	MANUAL	6533243	19	24	MJE	killed
+LINKED:[3	3	19	24	bn:00090098v		http://babelnet.org/rdf/s00090098v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43230 ===
+	Killing: 0.0072463768115941934
+
+SELECTED:[Killing]
+MATCH!
+SILVER:185	23575	3	74	0	4098544	QN : Were all soldiers killed in the ambush ?	8630	kill.v	590	Killing	MANUAL	6533244	23	28	MJE	killed
+LINKED:[5	5	23	28	bn:00090098v		http://babelnet.org/rdf/s00090098v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43232 ===
+	Killing: 0.0072463768115941934
+
+SELECTED:[Killing]
+MATCH!
+SILVER:185	23575	3	74	0	4098544	QN : Were all soldiers killed in the ambush ?	7772	ambush.n	424	Attack	MANUAL	6533440	37	42	MJE	ambush
+LINKED:[8	8	37	42	bn:00003300n	http://dbpedia.org/resource/Ambush	http://babelnet.org/rdf/s00003300n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 43234 ===
+	Attack: 0.005681818181818159
+	Intentionally_act: 1.980198019801979E-4
+
+SELECTED:[Attack]
+MATCH!
+filename	KBEval__parc.xml
+docAnnotations	330
+docManual	90
+docUnannotated	240
+sentences	228
+paragraphs	76
+Overlapping	75
+Disambiguated	74
+TP	33
+TN	240
+FP	0
+FN	16
+P	1.0
+R	0.673469387755102
+F	0.8048780487804877
+A	0.9446366782006921

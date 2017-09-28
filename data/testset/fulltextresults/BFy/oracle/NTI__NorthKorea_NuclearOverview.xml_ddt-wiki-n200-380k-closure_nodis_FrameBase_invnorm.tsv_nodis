@@ -1,0 +1,16 @@
+filename	NTI__NorthKorea_NuclearOverview.xml
+docAnnotations	1021
+docManual	872
+docUnannotated	149
+sentences	121
+paragraphs	33
+Overlapping	823
+Disambiguated	581
+TP	499
+TN	149
+FP	0
+FN	291
+P	1.0
+R	0.6316455696202532
+F	0.7742435996896819
+A	0.6900958466453674

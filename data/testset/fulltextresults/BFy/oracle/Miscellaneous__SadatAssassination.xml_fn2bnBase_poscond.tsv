@@ -1,0 +1,73 @@
+SILVER:175	23551	1	1	0	4097598	In 1945 , the twenty - seven - year - old Anwar al-Sadat and his friends decided to assassinate the on - and - off prime minister of Egypt , Nahhas Pasha .	7431	decide.v	363	Deciding	MANUAL	6528524	73	79	RLG	decided
+LINKED:[16	16	73	79	bn:00086370v		http://babelnet.org/rdf/s00086370v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17298 ===
+	Choosing: -0.015625
+	Eventive_cognizer_affecting: -0.25
+	Deciding: -0.25
+
+SELECTED:[Deciding]
+MATCH!
+SILVER:175	23551	1	1	0	4097598	In 1945 , the twenty - seven - year - old Anwar al-Sadat and his friends decided to assassinate the on - and - off prime minister of Egypt , Nahhas Pasha .	10822	prime	73	Leadership	MANUAL	6528526	115	119	EGp	prime
+LINKED:[25	25	115	119	bn:00108959a		http://babelnet.org/rdf/s00108959a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17302 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23551	1	2	0	4097599	Religious decrees were used to justify the assassination of Egyptian president Anwar Sadat .	10619	use.v	1141	Using	MANUAL	6528527	23	26	RLG	used
+LINKED:[3	3	23	26	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17306 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23551	1	2	0	4097599	Religious decrees were used to justify the assassination of Egyptian president Anwar Sadat .	1599	president	73	Leadership	MANUAL	6528530	69	77	RLG	president
+LINKED:[10	10	69	77	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17312 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23551	1	3	0	4097600	The Islambouli Brigades is named after Lt . Khaled Islambouli , the leader of a group of militant Islamists who assassinated Sadat during a 1981 military parade in Cairo .	1593	leader.n	73	Leadership	MANUAL	6528532	68	73	RLG	leader
+LINKED:[12	12	68	73	bn:00050371n		http://babelnet.org/rdf/s00050371n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17314 ===
+	Leadership: -1.8765246762994932E-4
+	First_rank: -0.25
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:175	23551	1	3	0	4097600	The Islambouli Brigades is named after Lt . Khaled Islambouli , the leader of a group of militant Islamists who assassinated Sadat during a 1981 military parade in Cairo .	2112	group.n	103	Aggregate	MANUAL	6528533	80	84	RLG	group
+LINKED:[15	15	80	84	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17316 ===
+	Aggregate: -4.0E-4
+	Organization: -0.00510204081632653
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:175	23551	1	4	0	4097601	Islambouli and four associates were captured and executed for the plot to kill Sadat , which was carried out by Egyptian Islamic Jihad and another Egyptian militant group , al-Gamaa al-Islamiyya .	11705	carry	198	Intentionally_act	MANUAL	6528539	97	103	RLG	carried
+LINKED:[17	17	97	103	bn:00084589v		http://babelnet.org/rdf/s00084589v	0.8181818	0.2	0.025787966	BABELFY]
+RANK:=== COUNTER  Counter 17328 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23551	1	4	0	4097601	Islambouli and four associates were captured and executed for the plot to kill Sadat , which was carried out by Egyptian Islamic Jihad and another Egyptian militant group , al-Gamaa al-Islamiyya .	2112	group.n	103	Aggregate	MANUAL	6528541	165	169	RLG	group
+LINKED:[27	27	165	169	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17330 ===
+	Aggregate: -4.0E-4
+	Organization: -0.00510204081632653
+
+SELECTED:[Aggregate]
+MATCH!
+filename	Miscellaneous__SadatAssassination.xml
+docAnnotations	34
+docManual	24
+docUnannotated	10
+sentences	10
+paragraphs	10
+Overlapping	21
+Disambiguated	4
+TP	4
+TN	10
+FP	0
+FN	20
+P	1.0
+R	0.16666666666666666
+F	0.2857142857142857
+A	0.4117647058823529

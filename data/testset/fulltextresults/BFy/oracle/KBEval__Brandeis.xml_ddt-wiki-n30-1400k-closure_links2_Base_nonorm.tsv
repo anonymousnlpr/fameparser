@@ -1,0 +1,228 @@
+SILVER:185	23573	2	5	0	4098070	Program trading is hurting the market 's efforts to bring back small investors .	10187	effort.n	116	Attempt	MANUAL	6533248	41	47	MJE	efforts
+LINKED:[7	7	41	47	bn:00015051n		http://babelnet.org/rdf/s00015051n	1.0	0.14285715	0.009009009	BABELFY]
+RANK:=== COUNTER  Counter 4457 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	3	5	0	4098071	QN : Are there any efforts to bring back small investors ?	10187	effort.n	116	Attempt	MANUAL	6533249	19	25	MJE	efforts
+LINKED:[5	5	19	25	bn:00007011n		http://babelnet.org/rdf/s00007011n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4458 ===
+	Seeking_to_achieve: 480.0
+	Attempt: 1.0
+
+SELECTED:[Attempt]
+MATCH!
+SILVER:185	23573	3	5	0	4098071	QN : Are there any efforts to bring back small investors ?	9920	bring.v	240	Bringing	MANUAL	6544185	30	34	MJE	bring
+LINKED:[7	7	30	34	bn:00084059v		http://babelnet.org/rdf/s00084059v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4459 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	6	0	4098073	Thirty-two of the 159 U.N. members were honoring the sanctions against Iraq .	10279	member.n	1026	Membership	MANUAL	6532298	27	33	RLG	members
+LINKED:[5	5	27	33	bn:00034004n		http://babelnet.org/rdf/s00034004n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4460 ===
+	Membership: 270.0
+
+SELECTED:[Membership]
+MATCH!
+SILVER:185	23573	2	6	0	4098073	Thirty-two of the 159 U.N. members were honoring the sanctions against Iraq .	12694	honor.v	117	Compliance	MANUAL	6532299	40	47	RLG	honoring
+LINKED:[7	7	40	47	bn:00089449v		http://babelnet.org/rdf/s00089449v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4461 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	6	0	4098073	Thirty-two of the 159 U.N. members were honoring the sanctions against Iraq .	10676	sanction.n	347	Revenge	MANUAL	6532301	53	61	RLG	sanctions
+LINKED:[9	9	53	61	bn:01390975n	http://dbpedia.org/resource/Sanctions_(law)	http://babelnet.org/rdf/s01390975n	1.0	0.75	0.10344828	BABELFY]
+RANK:=== COUNTER  Counter 4462 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	3	6	0	4098074	QN : Were there sanctions against Iraq ?	10676	sanction.n	347	Revenge	MANUAL	6532304	16	24	RLG	sanctions
+LINKED:[4	4	16	24	bn:01390975n	http://dbpedia.org/resource/Sanctions_(law)	http://babelnet.org/rdf/s01390975n	1.0	1.0	0.33333334	BABELFY]
+RANK:=== COUNTER  Counter 4463 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	9	0	4098082	The US is bolstering its military presence in the Gulf .	12390	military.a	1514	Military	MANUAL	6532310	25	32	RLG	military
+LINKED:[5	5	25	32	bn:00106724a		http://babelnet.org/rdf/s00106724a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4464 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	3	9	0	4098083	QN : Does the US have a military presence in the Gulf .	12390	military.a	1514	Military	MANUAL	6532312	24	31	RLG	military
+LINKED:[7	7	24	31	bn:00106724a		http://babelnet.org/rdf/s00106724a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4465 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	11	0	4098088	The court nullified a standstill agreement between DPC Acquisition and Dataproducts .	12625	court.n	1607	Judicial_body	MANUAL	6533327	4	8	MiL	court
+LINKED:[1	1	4	8	bn:00023308n	http://dbpedia.org/resource/Court	http://babelnet.org/rdf/s00023308n	1.0	1.0	0.54545456	BABELFY]
+RANK:=== COUNTER  Counter 4466 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	12	0	4098091	The court nullified a standstill agreement between DPC Acquisition and Dataproducts .	12625	court.n	1607	Judicial_body	MANUAL	6533447	4	8	Hay	court
+LINKED:[1	1	4	8	bn:00023308n	http://dbpedia.org/resource/Court	http://babelnet.org/rdf/s00023308n	1.0	1.0	0.54545456	BABELFY]
+RANK:=== COUNTER  Counter 4467 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	13	0	4098094	Sardar Patel faced imprisonment for the first time when he was assisting Gandhiji in the Salt Satyagraha .	7040	assist.v	391	Assistance	MANUAL	6533227	63	71	MJE	assisting
+LINKED:[11	11	63	71	bn:00082866v		http://babelnet.org/rdf/s00082866v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4468 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	14	0	4098097	Sardar Patel faced imprisonment for the first time when he was assisting Gandhiji in the Salt Satyagraha .	7040	assist.v	391	Assistance	MANUAL	6533448	63	71	Hay	assisting
+LINKED:[11	11	63	71	bn:00082866v		http://babelnet.org/rdf/s00082866v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4469 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	17	0	4098106	Three patients declined further surgery .	12759	decline.v	1625	Agree_or_refuse_to_act	MANUAL	6533219	15	22	MJE	declined
+LINKED:[2	2	15	22	bn:00086392v		http://babelnet.org/rdf/s00086392v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4470 ===
+	Change_position_on_a_scale: 1.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	3	20	0	4098116	QN : Has the transaction taken place ?	4888	take	187	Event	MANUAL	6533200	31	35	EGp	place
+LINKED:[6	6	31	35	bn:00062699n	http://dbpedia.org/resource/Location_(geography)	http://babelnet.org/rdf/s00062699n	0.8	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 4471 ===
+	Locale: 1.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	3	20	0	4098116	QN : Has the transaction taken place ?	11459	transaction.n	177	Commercial_transaction	MANUAL	6533212	13	23	MJE	transaction
+LINKED:[4	4	13	23	bn:00025567n		http://babelnet.org/rdf/s00025567n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4472 ===
+	Commercial_transaction: 1.0
+
+SELECTED:[Commercial_transaction]
+MATCH!
+SILVER:185	23573	3	21	0	4098119	QN : Has the transaction taken place ?	4888	take	187	Event	MANUAL	6533449	31	35	EGp	place
+LINKED:[6	6	31	35	bn:00062699n	http://dbpedia.org/resource/Location_(geography)	http://babelnet.org/rdf/s00062699n	0.8	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 4473 ===
+	Locale: 1.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	3	21	0	4098119	QN : Has the transaction taken place ?	11459	transaction.n	177	Commercial_transaction	MANUAL	6533450	13	23	Hay	transaction
+LINKED:[4	4	13	23	bn:00025567n		http://babelnet.org/rdf/s00025567n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4474 ===
+	Commercial_transaction: 1.0
+
+SELECTED:[Commercial_transaction]
+MATCH!
+SILVER:185	23573	3	23	0	4098125	QN : Did the purchase take place ?	4888	take	187	Event	MANUAL	6533201	27	31	EGp	place
+LINKED:[6	6	27	31	bn:00062699n	http://dbpedia.org/resource/Location_(geography)	http://babelnet.org/rdf/s00062699n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4475 ===
+	Locale: 1.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	3	23	0	4098125	QN : Did the purchase take place ?	2973	purchase	171	Commerce_buy	MANUAL	6533211	13	20	MJE	purchase
+LINKED:[4	4	13	20	bn:00065265n		http://babelnet.org/rdf/s00065265n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4476 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	25	0	4098130	Milton Roy disclosed in May that it was approached for a possible acquisition by Thermo Electron .	10666	disclose.v	1146	Reveal_secret	MANUAL	6533300	11	19	RLG	disclosed
+LINKED:[2	2	11	19	bn:00083912v		http://babelnet.org/rdf/s00083912v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4477 ===
+	Reveal_secret: 1.0
+	Render_nonfunctional: 1.0
+	Evidence: 1.0
+
+SELECTED:[Reveal_secret]
+MATCH!
+SILVER:185	23573	2	26	0	4098133	Milton Roy disclosed in May that it was approached for a possible acquisition by Thermo Electron .	10666	disclose.v	1146	Reveal_secret	MANUAL	6533451	11	19	Hay	disclosed
+LINKED:[2	2	11	19	bn:00083912v		http://babelnet.org/rdf/s00083912v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4478 ===
+	Reveal_secret: 1.0
+	Render_nonfunctional: 1.0
+	Evidence: 1.0
+
+SELECTED:[Reveal_secret]
+MATCH!
+SILVER:185	23573	2	30	0	4098145	President Clinton and Blair will stand together on arresting the terrorists suspected of blowing up Pan Am flight 103 over Scotland .	4733	arrest.v	202	Arrest	MANUAL	6533221	51	59	MJE	arresting
+LINKED:[8	8	51	59	bn:00082787v		http://babelnet.org/rdf/s00082787v	1.0	0.071428575	9.0009003E-4	BABELFY]
+RANK:=== COUNTER  Counter 4479 ===
+	Activity_stop: 170.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	30	0	4098145	President Clinton and Blair will stand together on arresting the terrorists suspected of blowing up Pan Am flight 103 over Scotland .	7975	suspect.v	503	Suspicion	MANUAL	6533341	76	84	MJE	suspected
+LINKED:[11	11	76	84	bn:00094625v		http://babelnet.org/rdf/s00094625v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4480 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	32	0	4098151	48 Kuwaiti jet fighters managed to escape the Iraqi invasion .	4999	escape.v	274	Avoiding	MANUAL	6533230	35	40	MJE	escape
+LINKED:[6	6	35	40	bn:00087723v		http://babelnet.org/rdf/s00087723v	1.0	0.14285715	0.016129032	BABELFY]
+RANK:=== COUNTER  Counter 4481 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	32	0	4098151	48 Kuwaiti jet fighters managed to escape the Iraqi invasion .	12830	manage.v	1388	Success_or_failure	MANUAL	6533775	24	30	JKR	managed
+LINKED:[4	4	24	30	bn:00084092v		http://babelnet.org/rdf/s00084092v	1.0	0.14285715	0.016129032	BABELFY]
+RANK:=== COUNTER  Counter 4482 ===
+	Operating_a_system: 1.0
+	Success_or_failure: 1.0
+	Successful_action: 1.0
+
+SELECTED:[Success_or_failure]
+MATCH!
+SILVER:185	23573	3	32	0	4098152	QN : Did any Kuwaiti jet fighters escape the Iraqi invasion ?	4999	escape.v	274	Avoiding	MANUAL	6533232	34	39	MJE	escape
+LINKED:[7	7	34	39	bn:00087723v		http://babelnet.org/rdf/s00087723v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4483 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	39	0	4098172	The Administration is trying to decide whether Saddam Hussein has WMD .	2465	try.v	116	Attempt	MANUAL	6532319	22	27	RLG	trying
+LINKED:[3	3	22	27	bn:00087731v		http://babelnet.org/rdf/s00087731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4484 ===
+	Examination: 1.0
+	Operational_testing: 1.0
+	Trying_out: 1.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	40	0	4098175	Helicopters are trying to locate people stranded without food .	2465	try.v	116	Attempt	MANUAL	6533333	16	21	MJE	trying
+LINKED:[2	2	16	21	bn:00092793v		http://babelnet.org/rdf/s00092793v	1.0	0.25	0.125	BABELFY]
+RANK:=== COUNTER  Counter 4485 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23573	2	40	0	4098175	Helicopters are trying to locate people stranded without food .	11226	locate.v	792	Locating	MANUAL	6533334	26	31	MJE	locate
+LINKED:[4	4	26	31	bn:00090423v		http://babelnet.org/rdf/s00090423v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4486 ===
+	Locating: 140.0
+	Becoming_aware: 1.0
+
+SELECTED:[Locating]
+MATCH!
+SILVER:185	23573	3	40	0	4098176	QN : Are helicopters locating people stranded without food ?	11226	locate.v	792	Locating	MANUAL	6533335	21	28	MJE	locating
+LINKED:[4	4	21	28	bn:00090423v		http://babelnet.org/rdf/s00090423v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4487 ===
+	Locating: 140.0
+	Becoming_aware: 1.0
+
+SELECTED:[Locating]
+MATCH!
+filename	KBEval__Brandeis.xml
+docAnnotations	171
+docManual	39
+docUnannotated	132
+sentences	126
+paragraphs	42
+Overlapping	31
+Disambiguated	15
+TP	9
+TN	132
+FP	0
+FN	24
+P	1.0
+R	0.2727272727272727
+F	0.42857142857142855
+A	0.8545454545454545

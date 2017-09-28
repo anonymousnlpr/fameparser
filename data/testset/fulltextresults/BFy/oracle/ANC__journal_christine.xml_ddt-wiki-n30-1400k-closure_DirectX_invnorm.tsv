@@ -1,0 +1,16 @@
+filename	ANC__journal_christine.xml
+docAnnotations	112
+docManual	76
+docUnannotated	36
+sentences	32
+paragraphs	11
+Overlapping	60
+Disambiguated	44
+TP	13
+TN	36
+FP	0
+FN	32
+P	1.0
+R	0.28888888888888886
+F	0.4482758620689655
+A	0.6049382716049383

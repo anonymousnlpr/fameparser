@@ -1,0 +1,522 @@
+SILVER:205	23701	1	1	0	4101308	Iraq clears visit by Ohio official By Scott Montgomery	14224	visit.n	1911	Visiting	MANUAL	6544777	12	16	MJE	visit
+LINKED:[2	2	12	16	bn:00080111n		http://babelnet.org/rdf/s00080111n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38686 ===
+	Arriving: 196.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	1	0	4101308	Iraq clears visit by Ohio official By Scott Montgomery	10625	official.n	73	Leadership	MANUAL	6544778	26	33	MJE	official
+LINKED:[5	5	26	33	bn:00107770a		http://babelnet.org/rdf/s00107770a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38688 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	1	0	4101308	Iraq clears visit by Ohio official By Scott Montgomery	18764	clear.v	520	Deny_or_grant_permission	MANUAL	6548955	5	10	KmG	clears
+LINKED:[1	1	5	10	bn:00085077v		http://babelnet.org/rdf/s00085077v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38690 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	12761	agree.v	1625	Agree_or_refuse_to_act	MANUAL	6544779	25	30	MJE	agreed
+LINKED:[4	4	25	30	bn:00082475v		http://babelnet.org/rdf/s00082475v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38692 ===
+	Make_agreement_on_action: 16.0
+	Be_in_agreement_on_assessment: 4.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	18787	let.v	516	Preventing_or_letting	MANUAL	6544780	35	37	MJE	let
+LINKED:[6	6	35	37	bn:00082536v		http://babelnet.org/rdf/s00082536v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38694 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	8131	assess.v	519	Assessing	MANUAL	6544782	91	96	MJE	assess
+LINKED:[18	18	91	96	bn:00082720v		http://babelnet.org/rdf/s00082720v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38696 ===
+	Assessing: 49.0
+
+SELECTED:[Assessing]
+MATCH!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	5955	fester.v	340	Rotting	MANUAL	6544784	129	136	MJE	festered
+LINKED:[24	24	129	136	bn:00088133v		http://babelnet.org/rdf/s00088133v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38698 ===
+	Rotting: 64.0
+
+SELECTED:[Rotting]
+MATCH!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	751	say.v	43	Statement	MANUAL	6544818	182	185	MJE	said
+LINKED:[35	35	182	185	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38700 ===
+	Statement: 3969.0
+	Text_creation: 100.0
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	3683	country.n	195	Political_locales	MANUAL	6544822	70	76	MJE	country
+LINKED:[14	14	70	76	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.7698777	0.82608694	0.2047164	BABELFY]
+RANK:=== COUNTER  Counter 38702 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	12182	government.n	73	Leadership	MANUAL	6545078	10	19	RLG	government
+LINKED:[2	2	10	19	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38704 ===
+	Leadership: 3136.0
+	Organization: 49.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	3947	week.n	229	Calendric_unit	MANUAL	6545079	83	86	RLG	week
+LINKED:[16	16	83	86	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38706 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	3196	office.n	188	Building_subparts	MANUAL	6545285	175	180	KmG	office
+LINKED:[34	34	175	180	bn:00001961n	http://dbpedia.org/resource/Government_agency	http://babelnet.org/rdf/s00001961n	0.8	0.3478261	0.03577963	BABELFY]
+RANK:=== COUNTER  Counter 38708 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	14524	crisis.n	115	Catastrophe	MANUAL	6548555	113	118	JKs	crisis
+LINKED:[21	21	113	118	bn:00023844n	http://dbpedia.org/resource/Crisis	http://babelnet.org/rdf/s00023844n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38710 ===
+	Hostile_encounter: 961.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	3994	Monday.n	229	Calendric_unit	MANUAL	6548556	187	192	JKs	Monday
+LINKED:[36	36	187	192	bn:00055609n	http://dbpedia.org/resource/Monday	http://babelnet.org/rdf/s00055609n	0.7241379	0.13043478	0.0042691603	BABELFY]
+RANK:=== COUNTER  Counter 38712 ===
+	Calendric_unit: 1849.0
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	14535	gulf.n	191	Natural_features	MANUAL	6548889	148	151	JKs	Gulf
+LINKED:[27	27	148	151	bn:00042160n		http://babelnet.org/rdf/s00042160n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38714 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	1939	war.n	93	Hostile_encounter	MANUAL	6548890	153	155	JKs	War
+LINKED:[28	28	153	155	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.90140843	0.3478261	0.039032325	BABELFY]
+RANK:=== COUNTER  Counter 38716 ===
+	Hostile_encounter: 961.0
+
+SELECTED:[Hostile_encounter]
+MATCH!
+SILVER:205	23701	1	3	0	4101310	The Iraqi government has agreed to let U.S. Rep . Tony Hall visit the country next week to assess a humanitarian crisis that has festered since the Gulf War of 1990 , Hall 's office said Monday .	947	visit.v	54	Arriving	MANUAL	6548983	60	64	JKs	visit
+LINKED:[12	12	60	64	bn:00093433v		http://babelnet.org/rdf/s00093433v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38718 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	5957	travel.v	343	Travel	MANUAL	6544786	30	37	KmG	traveled
+LINKED:[6	6	30	37	bn:00088912v		http://babelnet.org/rdf/s00088912v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38720 ===
+	Change_position_on_a_scale: 1296.0
+	Motion: 225.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	13340	including.prep	1153	Inclusion	MANUAL	6544790	62	70	KmG	including
+LINKED:[11	11	62	70	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38722 ===
+	Inclusion: 25.0
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	3875	day.n	224	Measure_duration	MANUAL	6544792	120	123	KmG	days
+LINKED:[21	21	120	123	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.7741935	0.14285715	0.01904762	BABELFY]
+RANK:=== COUNTER  Counter 38724 ===
+	Calendric_unit: 1849.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	3013	hospital.n	173	Buildings	MANUAL	6544794	134	142	KmG	hospitals
+LINKED:[23	23	134	142	bn:00044896n	http://dbpedia.org/resource/Hospital	http://babelnet.org/rdf/s00044896n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38726 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	10662	facility.n	196	Locale_by_use	MANUAL	6544796	154	163	KmG	facilities
+LINKED:[26	26	154	163	bn:00032645n	http://dbpedia.org/resource/Installation_art	http://babelnet.org/rdf/s00032645n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38728 ===
+	Locale_by_use: 729.0
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	12161	seek.v	1480	Seeking_to_achieve	MANUAL	6544798	168	171	KmG	seek
+LINKED:[28	28	168	171	bn:00093452v		http://babelnet.org/rdf/s00093452v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38730 ===
+	Seeking_to_achieve: 1.0
+
+SELECTED:[Seeking_to_achieve]
+MATCH!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	172	understanding.n	19	Awareness	MANUAL	6544799	173	185	KmG	understanding
+LINKED:[29	29	173	185	bn:00095375v		http://babelnet.org/rdf/s00095375v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38732 ===
+	Awareness: 529.0
+	Categorization: 256.0
+	Grasp: 49.0
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	13123	aid	391	Assistance	MANUAL	6544801	191	193	KmG	aid
+LINKED:[31	31	191	193	bn:00002154n		http://babelnet.org/rdf/s00002154n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38734 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	7356	problem.n	300	Predicament	MANUAL	6544803	261	268	KmG	problems
+LINKED:[41	41	261	268	bn:00048242n	http://dbpedia.org/resource/Problem	http://babelnet.org/rdf/s00048242n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38736 ===
+	Predicament: 81.0
+
+SELECTED:[Predicament]
+MATCH!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	947	visit.v	54	Arriving	MANUAL	6544968	125	132	KmG	visiting
+LINKED:[22	22	125	132	bn:00095130v		http://babelnet.org/rdf/s00095130v	0.71428573	0.04761905	0.003968254	BABELFY]
+RANK:=== COUNTER  Counter 38738 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	14524	crisis.n	115	Catastrophe	MANUAL	6548805	48	53	JKs	crisis
+LINKED:[9	9	48	53	bn:00023844n	http://dbpedia.org/resource/Crisis	http://babelnet.org/rdf/s00023844n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38740 ===
+	Hostile_encounter: 961.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	14523	ineffective.a	726	Usefulness	MANUAL	6548806	204	214	JKs	ineffective
+LINKED:[34	34	204	214	bn:00105004a		http://babelnet.org/rdf/s00105004a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38742 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	14521	malnourishment.n	239	Medical_conditions	MANUAL	6548807	228	241	JKs	malnourishment
+LINKED:[37	37	228	241	bn:00053027n		http://babelnet.org/rdf/s00053027n	1.0	0.0952381	0.0031746032	BABELFY]
+RANK:=== COUNTER  Counter 38744 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	4	0	4101311	The Dayton Democrat , who has traveled to other crisis points including Sierra Leone and North Korea , will spend three days visiting hospitals and other facilities to seek understanding why aid has been ineffective in stemming malnourishment and other medical problems .	14526	point.n	192	Locale	MANUAL	6548809	55	60	JKs	points
+LINKED:[10	10	55	60	bn:00063213n		http://babelnet.org/rdf/s00063213n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38746 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	5	0	4101312	Iraq has been under economic sanctions since the war ended , which some say have thwarted the country 's ability to recover from the devastation of the bombing campaign .	12490	economic.a	1572	Economy	MANUAL	6544805	20	27	KmG	economic
+LINKED:[4	4	20	27	bn:00102001a		http://babelnet.org/rdf/s00102001a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38748 ===
+	Economy: 4.0
+
+SELECTED:[Economy]
+MATCH!
+SILVER:205	23701	1	5	0	4101312	Iraq has been under economic sanctions since the war ended , which some say have thwarted the country 's ability to recover from the devastation of the bombing campaign .	1939	war.n	93	Hostile_encounter	MANUAL	6544807	49	51	KmG	war
+LINKED:[8	8	49	51	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.849162	0.72727275	0.22619048	BABELFY]
+RANK:=== COUNTER  Counter 38750 ===
+	Hostile_encounter: 961.0
+
+SELECTED:[Hostile_encounter]
+MATCH!
+SILVER:205	23701	1	5	0	4101312	Iraq has been under economic sanctions since the war ended , which some say have thwarted the country 's ability to recover from the devastation of the bombing campaign .	751	say.v	43	Statement	MANUAL	6544809	72	74	KmG	say
+LINKED:[13	13	72	74	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38752 ===
+	Statement: 3969.0
+	Text_creation: 100.0
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23701	1	5	0	4101312	Iraq has been under economic sanctions since the war ended , which some say have thwarted the country 's ability to recover from the devastation of the bombing campaign .	8094	thwart.v	518	Thwarting	MANUAL	6544810	81	88	KmG	thwarted
+LINKED:[15	15	81	88	bn:00083024v		http://babelnet.org/rdf/s00083024v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38754 ===
+	Preventing: 81.0
+	Thwarting: 36.0
+
+SELECTED:[Thwarting]
+MATCH!
+SILVER:205	23701	1	5	0	4101312	Iraq has been under economic sanctions since the war ended , which some say have thwarted the country 's ability to recover from the devastation of the bombing campaign .	3683	country.n	195	Political_locales	MANUAL	6544811	94	100	KmG	country
+LINKED:[17	17	94	100	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.80689657	0.8181818	0.3482143	BABELFY]
+RANK:=== COUNTER  Counter 38756 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	5	0	4101312	Iraq has been under economic sanctions since the war ended , which some say have thwarted the country 's ability to recover from the devastation of the bombing campaign .	10158	ability.n	990	Capability	MANUAL	6544812	105	111	KmG	ability
+LINKED:[19	19	105	111	bn:00000317n		http://babelnet.org/rdf/s00000317n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38758 ===
+	Capability: 64.0
+
+SELECTED:[Capability]
+MATCH!
+SILVER:205	23701	1	5	0	4101312	Iraq has been under economic sanctions since the war ended , which some say have thwarted the country 's ability to recover from the devastation of the bombing campaign .	910	recover.v	51	Recovery	MANUAL	6544813	116	122	KmG	recover
+LINKED:[21	21	116	122	bn:00088210v		http://babelnet.org/rdf/s00088210v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38760 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	5	0	4101312	Iraq has been under economic sanctions since the war ended , which some say have thwarted the country 's ability to recover from the devastation of the bombing campaign .	7627	devastation.n	417	Destroying	MANUAL	6544814	133	143	KmG	devastation
+LINKED:[24	24	133	143	bn:00026610n		http://babelnet.org/rdf/s00026610n	0.9	0.27272728	0.026785715	BABELFY]
+RANK:=== COUNTER  Counter 38762 ===
+	Destroying: 196.0
+
+SELECTED:[Destroying]
+MATCH!
+SILVER:205	23701	1	5	0	4101312	Iraq has been under economic sanctions since the war ended , which some say have thwarted the country 's ability to recover from the devastation of the bombing campaign .	12380	bombing.n	424	Attack	MANUAL	6544815	152	158	KmG	bombing
+LINKED:[27	27	152	158	bn:00083756v		http://babelnet.org/rdf/s00083756v	1.0	0.18181819	0.005952381	BABELFY]
+RANK:=== COUNTER  Counter 38764 ===
+	Attack: 441.0
+
+SELECTED:[Attack]
+MATCH!
+SILVER:205	23701	1	5	0	4101312	Iraq has been under economic sanctions since the war ended , which some say have thwarted the country 's ability to recover from the devastation of the bombing campaign .	10676	sanction.n	347	Revenge	MANUAL	6545080	29	37	RLG	sanctions
+LINKED:[5	5	29	37	bn:01390975n	http://dbpedia.org/resource/Sanctions_(law)	http://babelnet.org/rdf/s01390975n	0.8888889	0.36363637	0.035714287	BABELFY]
+RANK:=== COUNTER  Counter 38766 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	5	0	4101312	Iraq has been under economic sanctions since the war ended , which some say have thwarted the country 's ability to recover from the devastation of the bombing campaign .	4426	end.v	232	Process_end	MANUAL	6545081	53	57	RLG	ended
+LINKED:[9	9	53	57	bn:00087608v		http://babelnet.org/rdf/s00087608v	0.7894737	0.27272728	0.02232143	BABELFY]
+RANK:=== COUNTER  Counter 38768 ===
+	Activity_stop: 36.0
+	Activity_finish: 25.0
+	Cause_to_end: 9.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	6	0	4101313	The Persian Gulf War destroyed much of the country 's medical infrastructure , according to a report by the World Health Organization .	1939	war.n	93	Hostile_encounter	MANUAL	6544816	17	19	KmG	War
+LINKED:[3	3	17	19	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.9411765	0.53333336	0.088251516	BABELFY]
+RANK:=== COUNTER  Counter 38770 ===
+	Hostile_encounter: 961.0
+
+SELECTED:[Hostile_encounter]
+MATCH!
+SILVER:205	23701	1	6	0	4101313	The Persian Gulf War destroyed much of the country 's medical infrastructure , according to a report by the World Health Organization .	7622	destroy.v	417	Destroying	MANUAL	6544817	21	29	KmG	destroyed
+LINKED:[4	4	21	29	bn:00086700v		http://babelnet.org/rdf/s00086700v	1.0	0.13333334	0.0022062878	BABELFY]
+RANK:=== COUNTER  Counter 38772 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	6	0	4101313	The Persian Gulf War destroyed much of the country 's medical infrastructure , according to a report by the World Health Organization .	3683	country.n	195	Political_locales	MANUAL	6544819	43	49	KmG	country
+LINKED:[8	8	43	49	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.73300165	0.8666667	0.24379481	BABELFY]
+RANK:=== COUNTER  Counter 38774 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	6	0	4101313	The Persian Gulf War destroyed much of the country 's medical infrastructure , according to a report by the World Health Organization .	12168	infrastructure.n	1481	Infrastructure	MANUAL	6544820	62	75	KmG	infrastructure
+LINKED:[11	11	62	75	bn:00008794n	http://dbpedia.org/resource/Infrastructure	http://babelnet.org/rdf/s00008794n	0.969697	0.26666668	0.017650302	BABELFY]
+RANK:=== COUNTER  Counter 38776 ===
+	Locale_by_use: 729.0
+	Infrastructure: 4.0
+
+SELECTED:[Infrastructure]
+MATCH!
+SILVER:205	23701	1	6	0	4101313	The Persian Gulf War destroyed much of the country 's medical infrastructure , according to a report by the World Health Organization .	10677	according	1148	Attributed_information	MANUAL	6544821	79	87	CVa	according
+LINKED:[13	13	79	87	bn:00082227v		http://babelnet.org/rdf/s00082227v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38778 ===
+	Compatibility: 324.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	6	0	4101313	The Persian Gulf War destroyed much of the country 's medical infrastructure , according to a report by the World Health Organization .	5845	report.n	298	Text	MANUAL	6544823	94	99	KmG	report
+LINKED:[16	16	94	99	bn:00067181n	http://dbpedia.org/resource/Report	http://babelnet.org/rdf/s00067181n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38780 ===
+	Text: 4489.0
+	Statement: 3969.0
+
+SELECTED:[Text]
+MATCH!
+SILVER:205	23701	1	6	0	4101313	The Persian Gulf War destroyed much of the country 's medical infrastructure , according to a report by the World Health Organization .	10179	world.n	195	Political_locales	MANUAL	6544824	108	112	KmG	World
+LINKED:[19	19	108	112	bn:00022991n	http://dbpedia.org/resource/Macrocosm_and_microcosm	http://babelnet.org/rdf/s00022991n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38782 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	6	0	4101313	The Persian Gulf War destroyed much of the country 's medical infrastructure , according to a report by the World Health Organization .	13091	health.n	239	Medical_conditions	MANUAL	6544825	114	119	KmG	Health
+LINKED:[20	20	114	119	bn:00043358n	http://dbpedia.org/resource/Health	http://babelnet.org/rdf/s00043358n	0.9166667	0.53333336	0.048538335	BABELFY]
+RANK:=== COUNTER  Counter 38784 ===
+	Medical_conditions: 3844.0
+
+SELECTED:[Medical_conditions]
+MATCH!
+SILVER:205	23701	1	6	0	4101313	The Persian Gulf War destroyed much of the country 's medical infrastructure , according to a report by the World Health Organization .	13059	organization.n	1371	Organization	MANUAL	6544826	121	132	KmG	Organization
+LINKED:[21	21	121	132	bn:00059480n	http://dbpedia.org/resource/Organization	http://babelnet.org/rdf/s00059480n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38786 ===
+	Intentionally_create: 121.0
+	Organization: 49.0
+
+SELECTED:[Organization]
+MATCH!
+SILVER:205	23701	1	6	0	4101313	The Persian Gulf War destroyed much of the country 's medical infrastructure , according to a report by the World Health Organization .	14535	gulf.n	191	Natural_features	MANUAL	6548892	12	15	JKs	Gulf
+LINKED:[2	2	12	15	bn:00042160n		http://babelnet.org/rdf/s00042160n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38788 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	2	6	0	4101314	In 1996 the WHO found that much of the population existed in a state of `` semi starvation .''	175	find.v	20	Becoming_aware	MANUAL	6544829	16	20	KmG	found
+LINKED:[4	4	16	20	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38790 ===
+	Becoming_aware: 144.0
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:205	23701	2	6	0	4101314	In 1996 the WHO found that much of the population existed in a state of `` semi starvation .''	2926	population.n	103	Aggregate	MANUAL	6544830	39	48	KmG	population
+LINKED:[9	9	39	48	bn:00063595n		http://babelnet.org/rdf/s00063595n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38792 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	2	6	0	4101314	In 1996 the WHO found that much of the population existed in a state of `` semi starvation .''	12596	state.n	1600	State_of_entity	MANUAL	6544832	63	67	KmG	state
+LINKED:[13	13	63	67	bn:00074009n		http://babelnet.org/rdf/s00074009n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38794 ===
+	State_of_entity: 4.0
+
+SELECTED:[State_of_entity]
+MATCH!
+SILVER:205	23701	2	6	0	4101314	In 1996 the WHO found that much of the population existed in a state of `` semi starvation .''	2230	starvation.n	53	Death	MANUAL	6544833	80	89	KmG	starvation
+LINKED:[17	17	80	89	bn:00033596n		http://babelnet.org/rdf/s00033596n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38796 ===
+	Death: 100.0
+
+SELECTED:[Death]
+MATCH!
+SILVER:205	23701	2	6	0	4101314	In 1996 the WHO found that much of the population existed in a state of `` semi starvation .''	8570	exist.v	660	Existence	MANUAL	6548894	50	56	JKs	existed
+LINKED:[10	10	50	56	bn:00087844v		http://babelnet.org/rdf/s00087844v	1.0	0.25	0.0091743115	BABELFY]
+RANK:=== COUNTER  Counter 38798 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	7	0	4101315	Hall will be only the second member of Congress to travel in Iraq since the war , according to Hall 's office .	11249	second.a	1147	Ordinal_numbers	MANUAL	6544834	22	27	KmG	second
+LINKED:[5	5	22	27	bn:00095974a		http://babelnet.org/rdf/s00095974a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38800 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	7	0	4101315	Hall will be only the second member of Congress to travel in Iraq since the war , according to Hall 's office .	10279	member.n	1026	Membership	MANUAL	6544835	29	34	KmG	member
+LINKED:[6	6	29	34	bn:00034004n		http://babelnet.org/rdf/s00034004n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38802 ===
+	Membership: 16.0
+
+SELECTED:[Membership]
+MATCH!
+SILVER:205	23701	1	7	0	4101315	Hall will be only the second member of Congress to travel in Iraq since the war , according to Hall 's office .	5957	travel.v	343	Travel	MANUAL	6544836	51	56	KmG	travel
+LINKED:[10	10	51	56	bn:00088912v		http://babelnet.org/rdf/s00088912v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38804 ===
+	Change_position_on_a_scale: 1296.0
+	Motion: 225.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	7	0	4101315	Hall will be only the second member of Congress to travel in Iraq since the war , according to Hall 's office .	1939	war.n	93	Hostile_encounter	MANUAL	6544838	76	78	KmG	war
+LINKED:[15	15	76	78	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.9230769	0.42857143	0.14814815	BABELFY]
+RANK:=== COUNTER  Counter 38806 ===
+	Hostile_encounter: 961.0
+
+SELECTED:[Hostile_encounter]
+MATCH!
+SILVER:205	23701	1	7	0	4101315	Hall will be only the second member of Congress to travel in Iraq since the war , according to Hall 's office .	10677	according	1148	Attributed_information	MANUAL	6544839	82	90	KmG	according
+LINKED:[17	17	82	90	bn:00082227v		http://babelnet.org/rdf/s00082227v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38808 ===
+	Compatibility: 324.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	7	0	4101315	Hall will be only the second member of Congress to travel in Iraq since the war , according to Hall 's office .	3196	office.n	188	Building_subparts	MANUAL	6548896	103	108	JKs	office
+LINKED:[21	21	103	108	bn:00001961n	http://dbpedia.org/resource/Government_agency	http://babelnet.org/rdf/s00001961n	0.9782609	0.71428573	0.2777778	BABELFY]
+RANK:=== COUNTER  Counter 38810 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	2	7	0	4101316	The last visitor was then- U.S. Rep . Bill Richardson of New Mexico , who went to help a pair of U.S. oilmen in diplomatic trouble .	14215	visitor.n	1911	Visiting	MANUAL	6544841	9	15	KmG	visitor
+LINKED:[2	2	9	15	bn:00080115n		http://babelnet.org/rdf/s00080115n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38812 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	2	7	0	4101316	The last visitor was then- U.S. Rep . Bill Richardson of New Mexico , who went to help a pair of U.S. oilmen in diplomatic trouble .	7041	help.v	391	Assistance	MANUAL	6544843	82	85	KmG	help
+LINKED:[18	18	82	85	bn:00082481v		http://babelnet.org/rdf/s00082481v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38814 ===
+	Assistance: 64.0
+
+SELECTED:[Assistance]
+MATCH!
+SILVER:205	23701	2	7	0	4101316	The last visitor was then- U.S. Rep . Bill Richardson of New Mexico , who went to help a pair of U.S. oilmen in diplomatic trouble .	8079	pair.n	218	Cardinal_numbers	MANUAL	6544844	89	92	KmG	pair
+LINKED:[20	20	89	92	bn:00012597n	http://dbpedia.org/resource/Ordered_pair	http://babelnet.org/rdf/s00012597n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38816 ===
+	Cardinal_numbers: 9.0
+
+SELECTED:[Cardinal_numbers]
+MATCH!
+SILVER:205	23701	2	7	0	4101316	The last visitor was then- U.S. Rep . Bill Richardson of New Mexico , who went to help a pair of U.S. oilmen in diplomatic trouble .	7357	trouble.n	300	Predicament	MANUAL	6544845	123	129	KmG	trouble
+LINKED:[26	26	123	129	bn:00064527n		http://babelnet.org/rdf/s00064527n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38818 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	8	0	4101317	Hall flies to Amman , Jordan , on Friday , where he 'll spend the night before driving to Iraq .	8754	fly.v	690	Ride_vehicle	MANUAL	6548559	5	9	JKs	flies
+LINKED:[1	1	5	9	bn:00088387v		http://babelnet.org/rdf/s00088387v	0.75	0.125	0.0234375	BABELFY]
+RANK:=== COUNTER  Counter 38820 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	1	8	0	4101317	Hall flies to Amman , Jordan , on Friday , where he 'll spend the night before driving to Iraq .	3999	Friday.n	229	Calendric_unit	MANUAL	6548562	34	39	JKs	Friday
+LINKED:[8	8	34	39	bn:00036512n	http://dbpedia.org/resource/Friday	http://babelnet.org/rdf/s00036512n	0.85714287	0.25	0.046875	BABELFY]
+RANK:=== COUNTER  Counter 38822 ===
+	Calendric_unit: 1849.0
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23701	1	8	0	4101317	Hall flies to Amman , Jordan , on Friday , where he 'll spend the night before driving to Iraq .	4064	night.n	229	Calendric_unit	MANUAL	6548563	66	70	JKs	night
+LINKED:[15	15	66	70	bn:00025236n	http://dbpedia.org/resource/Night	http://babelnet.org/rdf/s00025236n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38824 ===
+	Calendric_unit: 1849.0
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23701	1	8	0	4101317	Hall flies to Amman , Jordan , on Friday , where he 'll spend the night before driving to Iraq .	8863	drive.v	65	Operate_vehicle	MANUAL	6548570	79	85	JKs	driving
+LINKED:[17	17	79	85	bn:00087327v		http://babelnet.org/rdf/s00087327v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38826 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	2	8	0	4101318	Flights are not permitted into Iraq .	18771	permit.v	520	Deny_or_grant_permission	MANUAL	6548571	16	24	JKs	permitted
+LINKED:[3	3	16	24	bn:00082544v		http://babelnet.org/rdf/s00082544v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38828 ===
+	Grant_permission: 64.0
+	Permitting: 16.0
+
+SELECTED:[]
+WRONG!
+SILVER:205	23701	3	8	0	4101319	Hall is to return to Washington on April 22 .	945	return.v	54	Arriving	MANUAL	6548572	11	16	JKs	return
+LINKED:[3	3	11	16	bn:00092969v		http://babelnet.org/rdf/s00092969v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38830 ===
+	Arriving: 196.0
+	Resurrection: 25.0
+	Going_back_on_a_commitment: 9.0
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:205	23701	3	8	0	4101319	Hall is to return to Washington on April 22 .	4646	April.n	229	Calendric_unit	MANUAL	6548573	35	39	JKs	April
+LINKED:[7	7	35	39	bn:00005169n	http://dbpedia.org/resource/April	http://babelnet.org/rdf/s00005169n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 38832 ===
+	Calendric_unit: 1849.0
+
+SELECTED:[Calendric_unit]
+MATCH!
+filename	LUCorpus-v0.3__20000410_nyt-NEW.xml
+docAnnotations	115
+docManual	102
+docUnannotated	13
+sentences	13
+paragraphs	9
+Overlapping	74
+Disambiguated	45
+TP	34
+TN	13
+FP	0
+FN	57
+P	1.0
+R	0.37362637362637363
+F	0.544
+A	0.4519230769230769

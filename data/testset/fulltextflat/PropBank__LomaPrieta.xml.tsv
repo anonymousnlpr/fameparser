@@ -1,0 +1,621 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	null	null	null	null	UNANN	4528418	null	null	null	null
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	6369	frightening.a	364	Stimulus_focus	MANUAL	4528605	14	24	MHa	frightening
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	6715	after.prep	379	Time_vector	MANUAL	4528606	32	36	MHa	after
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	7626	devastate.v	417	Destroying	MANUAL	4528685	49	59	MHa	devastating
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	4916	search.v	269	Seeking	MANUAL	4528687	93	100	MHa	searched
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	2214	resident.n	110	Residence	MANUAL	4529982	83	91	JKR	residents
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	10902	comfort.n	48	Experiencer_focus	MANUAL	4530013	106	112	JKR	comfort
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	10903	solace.n	48	Experiencer_focus	MANUAL	4530014	118	123	JKR	solace
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	4064	night.n	229	Calendric_unit	MANUAL	4530095	26	30	JKR	night
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	14080	in.prep	1895	Temporal_collocation	MANUAL	4531187	0	1	AlK	In
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	3995	Tuesday.n	229	Calendric_unit	MANUAL	4531188	38	44	AlK	Tuesday
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	13726	earthquake.n	670	Moving_in_place	MANUAL	4531189	61	70	AlK	earthquake
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	13915	long.a	79	Duration_description	MANUAL	4531582	7	10	AnW	long
+115	23013	1	1	0	2824423	In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .	15260	can.v	2120	Possibility	MANUAL	6683823	139	143	WMcQ	could
+115	23013	2	1	0	2824424	Some found it on the screen of a personal computer .	null	null	null	null	UNANN	4528419	null	null	null	null
+115	23013	2	1	0	2824424	Some found it on the screen of a personal computer .	175	find.v	20	Becoming_aware	MANUAL	4528692	5	9	MHa	found
+115	23013	1	2	0	2824425	Hundreds of Californians made their way to their computers after the quake , and checked in with each other on electronic bulletin boards , which link computers CB-radio-style , via phone lines .	null	null	null	null	UNANN	4528420	null	null	null	null
+115	23013	1	2	0	2824425	Hundreds of Californians made their way to their computers after the quake , and checked in with each other on electronic bulletin boards , which link computers CB-radio-style , via phone lines .	3327	hundreds.n	189	Quantified_mass	MANUAL	4528696	0	7	JKR	Hundreds
+115	23013	1	2	0	2824425	Hundreds of Californians made their way to their computers after the quake , and checked in with each other on electronic bulletin boards , which link computers CB-radio-style , via phone lines .	10547	Californian.n	974	People_by_origin	MANUAL	4528720	12	23	MHa	Californians
+115	23013	1	2	0	2824425	Hundreds of Californians made their way to their computers after the quake , and checked in with each other on electronic bulletin boards , which link computers CB-radio-style , via phone lines .	6404	make.v	64	Self_motion	MANUAL	4528725	25	28	MHa	made
+115	23013	1	2	0	2824425	Hundreds of Californians made their way to their computers after the quake , and checked in with each other on electronic bulletin boards , which link computers CB-radio-style , via phone lines .	6715	after.prep	379	Time_vector	MANUAL	4528728	59	63	MHa	after
+115	23013	1	2	0	2824425	Hundreds of Californians made their way to their computers after the quake , and checked in with each other on electronic bulletin boards , which link computers CB-radio-style , via phone lines .	11914	link.v	197	Attaching	MANUAL	4530680	146	149	KmG	link
+115	23013	1	2	0	2824425	Hundreds of Californians made their way to their computers after the quake , and checked in with each other on electronic bulletin boards , which link computers CB-radio-style , via phone lines .	14180	way.n	64	Self_motion	MANUAL	4531191	36	38	AlK	way
+115	23013	1	2	0	2824425	Hundreds of Californians made their way to their computers after the quake , and checked in with each other on electronic bulletin boards , which link computers CB-radio-style , via phone lines .	10799	to.prep	1177	Goal	MANUAL	4531192	40	41	AlK	to
+115	23013	1	2	0	2824425	Hundreds of Californians made their way to their computers after the quake , and checked in with each other on electronic bulletin boards , which link computers CB-radio-style , via phone lines .	13728	quake.n	670	Moving_in_place	MANUAL	4531193	69	73	AlK	quake
+115	23013	1	2	0	2824425	Hundreds of Californians made their way to their computers after the quake , and checked in with each other on electronic bulletin boards , which link computers CB-radio-style , via phone lines .	17780	on.prep	2890	Spatial_contact	MANUAL	4531194	108	109	AlK	on
+115	23013	1	2	0	2824425	Hundreds of Californians made their way to their computers after the quake , and checked in with each other on electronic bulletin boards , which link computers CB-radio-style , via phone lines .	5848	bulletin.n	298	Text	MANUAL	4531195	122	129	AlK	bulletin
+115	23013	1	3	0	2824426	Some of the most vivid bulletins came over The Well , a Sausalito , Calif. , board that is one of the liveliest outposts of the electronic underground .	null	null	null	null	UNANN	4528421	null	null	null	null
+115	23013	1	3	0	2824426	Some of the most vivid bulletins came over The Well , a Sausalito , Calif. , board that is one of the liveliest outposts of the electronic underground .	5848	bulletin.n	298	Text	MANUAL	4528746	23	31	MHa	bulletins
+115	23013	1	3	0	2824426	Some of the most vivid bulletins came over The Well , a Sausalito , Calif. , board that is one of the liveliest outposts of the electronic underground .	10190	of.prep	1010	Partitive	MANUAL	4528759	95	96	MHa	of
+115	23013	1	3	0	2824426	Some of the most vivid bulletins came over The Well , a Sausalito , Calif. , board that is one of the liveliest outposts of the electronic underground .	10190	of.prep	1010	Partitive	MANUAL	4528760	5	6	MHa	of
+115	23013	1	3	0	2824426	Some of the most vivid bulletins came over The Well , a Sausalito , Calif. , board that is one of the liveliest outposts of the electronic underground .	941	come.v	54	Arriving	MANUAL	4529585	33	36	MJE	came
+115	23013	1	3	0	2824426	Some of the most vivid bulletins came over The Well , a Sausalito , Calif. , board that is one of the liveliest outposts of the electronic underground .	3843	one.num	218	Cardinal_numbers	MANUAL	4531201	91	93	AlK	one
+115	23013	1	3	0	2824426	Some of the most vivid bulletins came over The Well , a Sausalito , Calif. , board that is one of the liveliest outposts of the electronic underground .	14152	lively.a	1904	Lively_place	MANUAL	4531202	102	110	AlK	liveliest
+115	23013	2	3	0	2824427	About two-thirds of the Well 's 3,000 subscribers live in the Bay Area .	null	null	null	null	UNANN	4528422	null	null	null	null
+115	23013	2	3	0	2824427	About two-thirds of the Well 's 3,000 subscribers live in the Bay Area .	10190	of.prep	1010	Partitive	MANUAL	4528742	17	18	MHa	of
+115	23013	2	3	0	2824427	About two-thirds of the Well 's 3,000 subscribers live in the Bay Area .	2220	live.v	110	Residence	MANUAL	4528744	50	53	MHa	live
+115	23013	2	3	0	2824427	About two-thirds of the Well 's 3,000 subscribers live in the Bay Area .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4529957	55	56	JKR	in
+115	23013	2	3	0	2824427	About two-thirds of the Well 's 3,000 subscribers live in the Bay Area .	14273	about.prep	1923	Proportional_quantity	MANUAL	4531203	0	4	AlK	About
+115	23013	1	4	0	2824428	The quake knocked The Well out for six hours , but when it came back up , it teemed with emotional first-hand reports .	null	null	null	null	UNANN	4528423	null	null	null	null
+115	23013	1	4	0	2824428	The quake knocked The Well out for six hours , but when it came back up , it teemed with emotional first-hand reports .	2356	knock.v	112	Cause_harm	MANUAL	4528762	10	16	MHa	knocked
+115	23013	1	4	0	2824428	The quake knocked The Well out for six hours , but when it came back up , it teemed with emotional first-hand reports .	3872	hour.n	224	Measure_duration	MANUAL	4528764	39	43	MHa	hours
+115	23013	1	4	0	2824428	The quake knocked The Well out for six hours , but when it came back up , it teemed with emotional first-hand reports .	4765	teem.v	262	Abounding_with	MANUAL	4528767	77	82	MHa	teemed
+115	23013	1	4	0	2824428	The quake knocked The Well out for six hours , but when it came back up , it teemed with emotional first-hand reports .	747	report.n	43	Statement	MANUAL	4528768	110	116	MHa	reports
+115	23013	1	4	0	2824428	The quake knocked The Well out for six hours , but when it came back up , it teemed with emotional first-hand reports .	13728	quake.n	670	Moving_in_place	MANUAL	4531204	4	8	AlK	quake
+115	23013	1	4	0	2824428	The quake knocked The Well out for six hours , but when it came back up , it teemed with emotional first-hand reports .	14578	six.num	218	Cardinal_numbers	MANUAL	4531205	35	37	AlK	six
+115	23013	1	4	0	2824428	The quake knocked The Well out for six hours , but when it came back up , it teemed with emotional first-hand reports .	15429	but.c	2150	Concessive	MANUAL	4531206	47	49	AlK	but
+115	23013	1	4	0	2824428	The quake knocked The Well out for six hours , but when it came back up , it teemed with emotional first-hand reports .	14147	when.adv	1895	Temporal_collocation	MANUAL	4531207	51	54	AlK	when
+115	23013	1	5	0	2824429	Following are excerpts from the electronic traffic that night .	null	null	null	null	UNANN	4528424	null	null	null	null
+115	23013	1	5	0	2824429	Following are excerpts from the electronic traffic that night .	10640	from.prep	1103	Origin	MANUAL	4528787	23	26	MHa	from
+115	23013	1	5	0	2824429	Following are excerpts from the electronic traffic that night .	4064	night.n	229	Calendric_unit	MANUAL	4530096	56	60	JKR	night
+115	23013	2	5	0	2824430	The time is Pacific Daylight Time , and the initials or nicknames are those subscribers use to identify themselves .	null	null	null	null	UNANN	4528425	null	null	null	null
+115	23013	2	5	0	2824430	The time is Pacific Daylight Time , and the initials or nicknames are those subscribers use to identify themselves .	3932	nickname.n	228	Being_named	MANUAL	4528788	56	64	MHa	nicknames
+115	23013	2	5	0	2824430	The time is Pacific Daylight Time , and the initials or nicknames are those subscribers use to identify themselves .	10619	use.v	1141	Using	MANUAL	4528790	88	90	MHa	use
+115	23013	1	6	0	2824431	11:54 p.m. JCKC : Wow !	null	null	null	null	UNANN	4528426	null	null	null	null
+115	23013	2	6	0	2824432	I was in the avenues , on the third floor of an old building , and except for my heart ( Beat , BEAT ! ) I 'm OK .	null	null	null	null	UNANN	4528427	null	null	null	null
+115	23013	2	6	0	2824432	I was in the avenues , on the third floor of an old building , and except for my heart ( Beat , BEAT ! ) I 'm OK .	3776	avenue.n	203	Roadways	MANUAL	4528802	13	19	MHa	avenues
+115	23013	2	6	0	2824432	I was in the avenues , on the third floor of an old building , and except for my heart ( Beat , BEAT ! ) I 'm OK .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4528806	6	7	MHa	in
+115	23013	2	6	0	2824432	I was in the avenues , on the third floor of an old building , and except for my heart ( Beat , BEAT ! ) I 'm OK .	17780	on.prep	2890	Spatial_contact	MANUAL	4528807	23	24	MHa	on
+115	23013	2	6	0	2824432	I was in the avenues , on the third floor of an old building , and except for my heart ( Beat , BEAT ! ) I 'm OK .	10065	floor.n	971	Architectural_part	MANUAL	4528813	36	40	MHa	floor
+115	23013	2	6	0	2824432	I was in the avenues , on the third floor of an old building , and except for my heart ( Beat , BEAT ! ) I 'm OK .	10071	old.a	972	Age	MANUAL	4528815	48	50	MHa	old
+115	23013	2	6	0	2824432	I was in the avenues , on the third floor of an old building , and except for my heart ( Beat , BEAT ! ) I 'm OK .	10869	building.n	173	Buildings	MANUAL	4530006	52	59	JKR	building
+115	23013	2	6	0	2824432	I was in the avenues , on the third floor of an old building , and except for my heart ( Beat , BEAT ! ) I 'm OK .	11251	third.a	1147	Ordinal_numbers	MANUAL	4530397	30	34	RLG	third
+115	23013	2	6	0	2824432	I was in the avenues , on the third floor of an old building , and except for my heart ( Beat , BEAT ! ) I 'm OK .	10190	of.prep	1010	Partitive	MANUAL	4531208	42	43	AlK	of
+115	23013	3	6	0	2824433	Got back to Bolinas , and everything had fallen : broken poster frames with glass on the floor , file cabinets open or dumped onto the floor .	null	null	null	null	UNANN	4528428	null	null	null	null
+115	23013	3	6	0	2824433	Got back to Bolinas , and everything had fallen : broken poster frames with glass on the floor , file cabinets open or dumped onto the floor .	6257	fall.v	362	Motion_directional	MANUAL	4528816	41	46	MHa	fallen
+115	23013	3	6	0	2824433	Got back to Bolinas , and everything had fallen : broken poster frames with glass on the floor , file cabinets open or dumped onto the floor .	4885	get.v	54	Arriving	MANUAL	4529586	0	2	JKR	Got
+115	23013	3	6	0	2824433	Got back to Bolinas , and everything had fallen : broken poster frames with glass on the floor , file cabinets open or dumped onto the floor .	10848	broken.a	1200	Being_operational	MANUAL	4529651	50	55	MJE	broken
+115	23013	3	6	0	2824433	Got back to Bolinas , and everything had fallen : broken poster frames with glass on the floor , file cabinets open or dumped onto the floor .	10065	floor.n	971	Architectural_part	MANUAL	4529991	135	139	JKR	floor
+115	23013	3	6	0	2824433	Got back to Bolinas , and everything had fallen : broken poster frames with glass on the floor , file cabinets open or dumped onto the floor .	17780	on.prep	2890	Spatial_contact	MANUAL	4531209	82	83	AlK	on
+115	23013	3	6	0	2824433	Got back to Bolinas , and everything had fallen : broken poster frames with glass on the floor , file cabinets open or dumped onto the floor .	10065	floor.n	971	Architectural_part	MANUAL	4531210	89	93	AlK	floor
+115	23013	3	6	0	2824433	Got back to Bolinas , and everything had fallen : broken poster frames with glass on the floor , file cabinets open or dumped onto the floor .	13722	open.a	1872	Openness	MANUAL	4531211	111	114	AlK	open
+115	23013	1	7	0	2824434	11:59 p.m. JKD : I was in my favorite watering hole , waiting for the game to start .	null	null	null	null	UNANN	4528429	null	null	null	null
+115	23013	1	7	0	2824434	11:59 p.m. JKD : I was in my favorite watering hole , waiting for the game to start .	4447	start.v	146	Activity_start	MANUAL	4528823	78	82	MHa	start
+115	23013	1	7	0	2824434	11:59 p.m. JKD : I was in my favorite watering hole , waiting for the game to start .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4529104	23	24	MHa	in
+115	23013	1	7	0	2824434	11:59 p.m. JKD : I was in my favorite watering hole , waiting for the game to start .	12449	wait.v	1561	Waiting	MANUAL	4531197	54	60	AlK	waiting
+115	23013	2	7	0	2824435	I felt the temblor begin and glanced at the table next to mine , smiled that guilty smile and we both mouthed the words , `` Earth-quake ! '' together .	null	null	null	null	UNANN	4528430	null	null	null	null
+115	23013	2	7	0	2824435	I felt the temblor begin and glanced at the table next to mine , smiled that guilty smile and we both mouthed the words , `` Earth-quake ! '' together .	1531	feel.v	70	Perception_experience	MANUAL	4528913	2	5	MHa	felt
+115	23013	2	7	0	2824435	I felt the temblor begin and glanced at the table next to mine , smiled that guilty smile and we both mouthed the words , `` Earth-quake ! '' together .	1299	glance.v	66	Perception_active	MANUAL	4528954	29	35	MHa	glanced
+115	23013	2	7	0	2824435	I felt the temblor begin and glanced at the table next to mine , smiled that guilty smile and we both mouthed the words , `` Earth-quake ! '' together .	2656	begin.v	133	Process_start	MANUAL	4528956	19	23	MHa	begin
+115	23013	2	7	0	2824435	I felt the temblor begin and glanced at the table next to mine , smiled that guilty smile and we both mouthed the words , `` Earth-quake ! '' together .	9738	smile.v	794	Making_faces	MANUAL	4528957	65	70	MHa	smiled
+115	23013	2	7	0	2824435	I felt the temblor begin and glanced at the table next to mine , smiled that guilty smile and we both mouthed the words , `` Earth-quake ! '' together .	6818	guilty.a	382	Contrition	MANUAL	4528958	77	82	MHa	guilty
+115	23013	2	7	0	2824435	I felt the temblor begin and glanced at the table next to mine , smiled that guilty smile and we both mouthed the words , `` Earth-quake ! '' together .	2916	smile.n	161	Facial_expression	MANUAL	4528959	84	88	MHa	smile
+115	23013	2	7	0	2824435	I felt the temblor begin and glanced at the table next to mine , smiled that guilty smile and we both mouthed the words , `` Earth-quake ! '' together .	553	mouth.v	38	Communication_manner	MANUAL	4528964	102	108	MHa	mouthed
+115	23013	2	7	0	2824435	I felt the temblor begin and glanced at the table next to mine , smiled that guilty smile and we both mouthed the words , `` Earth-quake ! '' together .	17806	next	2891	Adjacency	MANUAL	4530284	50	53	EGp	next
+115	23013	2	7	0	2824435	I felt the temblor begin and glanced at the table next to mine , smiled that guilty smile and we both mouthed the words , `` Earth-quake ! '' together .	17806	next	2891	Adjacency	MANUAL	4530284	55	56	EGp	to
+115	23013	2	7	0	2824435	I felt the temblor begin and glanced at the table next to mine , smiled that guilty smile and we both mouthed the words , `` Earth-quake ! '' together .	13727	temblor.n	670	Moving_in_place	MANUAL	4531212	11	17	AlK	temblor
+115	23013	3	7	0	2824436	That 's usually how long it takes for the temblors to pass .	null	null	null	null	UNANN	4528431	null	null	null	null
+115	23013	3	7	0	2824436	That 's usually how long it takes for the temblors to pass .	10042	take.v	967	Taking_time	MANUAL	4528966	28	32	MHa	takes
+115	23013	3	7	0	2824436	That 's usually how long it takes for the temblors to pass .	10865	pass.v	232	Process_end	MANUAL	4529995	54	57	JKR	pass
+115	23013	3	7	0	2824436	That 's usually how long it takes for the temblors to pass .	13915	long.a	79	Duration_description	MANUAL	4531583	20	23	AnW	long
+115	23013	4	7	0	2824437	This time , it just got stronger and then the building started shaking violently up and down as though it were a child 's toy block that was being tossed .	null	null	null	null	UNANN	4528432	null	null	null	null
+115	23013	4	7	0	2824437	This time , it just got stronger and then the building started shaking violently up and down as though it were a child 's toy block that was being tossed .	4447	start.v	146	Activity_start	MANUAL	4528973	55	61	MHa	started
+115	23013	4	7	0	2824437	This time , it just got stronger and then the building started shaking violently up and down as though it were a child 's toy block that was being tossed .	962	toss.v	55	Cause_motion	MANUAL	4528985	147	152	MHa	tossed
+115	23013	4	7	0	2824437	This time , it just got stronger and then the building started shaking violently up and down as though it were a child 's toy block that was being tossed .	10393	get.v	1070	Transition_to_state	MANUAL	4529589	20	22	MJE	got
+115	23013	4	7	0	2824437	This time , it just got stronger and then the building started shaking violently up and down as though it were a child 's toy block that was being tossed .	9107	shake.v	670	Moving_in_place	MANUAL	4529590	63	69	MJE	shaking
+115	23013	4	7	0	2824437	This time , it just got stronger and then the building started shaking violently up and down as though it were a child 's toy block that was being tossed .	10083	child.n	973	People_by_age	MANUAL	4529592	113	117	MJE	child
+115	23013	4	7	0	2824437	This time , it just got stronger and then the building started shaking violently up and down as though it were a child 's toy block that was being tossed .	10869	building.n	173	Buildings	UNANN	4529996	null	null	null	null
+115	23013	4	7	0	2824437	This time , it just got stronger and then the building started shaking violently up and down as though it were a child 's toy block that was being tossed .	10869	building.n	173	Buildings	UNANN	4529996	46	53	JKR	building
+115	23013	4	7	0	2824437	This time , it just got stronger and then the building started shaking violently up and down as though it were a child 's toy block that was being tossed .	12473	strong.a	1563	Level_of_force_exertion	MANUAL	4530563	24	31	RLG	stronger
+115	23013	4	7	0	2824437	This time , it just got stronger and then the building started shaking violently up and down as though it were a child 's toy block that was being tossed .	15396	time.n	2140	Event_instance	MANUAL	4531213	5	8	AlK	time
+115	23013	1	8	0	2824438	12:06 a.m. HRH : I was in the Berkeley Main library when it hit .	null	null	null	null	UNANN	4528433	null	null	null	null
+115	23013	1	8	0	2824438	12:06 a.m. HRH : I was in the Berkeley Main library when it hit .	10232	library.n	173	Buildings	MANUAL	4528986	44	50	MHa	library
+115	23013	1	8	0	2824438	12:06 a.m. HRH : I was in the Berkeley Main library when it hit .	5626	hit.v	311	Impact	MANUAL	4529015	60	62	MHa	hit
+115	23013	1	8	0	2824438	12:06 a.m. HRH : I was in the Berkeley Main library when it hit .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4529106	23	24	MHa	in
+115	23013	1	8	0	2824438	12:06 a.m. HRH : I was in the Berkeley Main library when it hit .	14147	when.adv	1895	Temporal_collocation	MANUAL	4531214	52	55	AlK	when
+115	23013	2	8	0	2824439	Endless seconds wondering if those huge windows would buckle and shower us with glass .	null	null	null	null	UNANN	4528434	null	null	null	null
+115	23013	2	8	0	2824439	Endless seconds wondering if those huge windows would buckle and shower us with glass .	3874	second.n	224	Measure_duration	MANUAL	4529020	8	14	MHa	seconds
+115	23013	2	8	0	2824439	Endless seconds wondering if those huge windows would buckle and shower us with glass .	10274	window.n	1025	Connecting_architecture	MANUAL	4529021	40	46	MHa	windows
+115	23013	2	8	0	2824439	Endless seconds wondering if those huge windows would buckle and shower us with glass .	2592	shower.v	59	Filling	MANUAL	4529594	65	70	MJE	shower
+115	23013	2	8	0	2824439	Endless seconds wondering if those huge windows would buckle and shower us with glass .	10866	wonder.v	22	Cogitation	MANUAL	4530002	16	24	JKR	wondering
+115	23013	2	8	0	2824439	Endless seconds wondering if those huge windows would buckle and shower us with glass .	15772	huge.a	2282	Size	MANUAL	4531215	35	38	AlK	huge
+115	23013	3	8	0	2824440	Only a few books fell in the reading room .	null	null	null	null	UNANN	4528435	null	null	null	null
+115	23013	3	8	0	2824440	Only a few books fell in the reading room .	5453	book.n	298	Text	MANUAL	4529036	11	15	MHa	books
+115	23013	3	8	0	2824440	Only a few books fell in the reading room .	6257	fall.v	362	Motion_directional	MANUAL	4529037	17	20	MHa	fell
+115	23013	3	8	0	2824440	Only a few books fell in the reading room .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4529107	22	23	MHa	in
+115	23013	3	8	0	2824440	Only a few books fell in the reading room .	3159	room.n	188	Building_subparts	MANUAL	4529595	37	40	MJE	room
+115	23013	3	8	0	2824440	Only a few books fell in the reading room .	17474	read.v	2836	Reading_activity	MANUAL	4530581	29	35	RLG	reading
+115	23013	3	8	0	2824440	Only a few books fell in the reading room .	13370	a	189	Quantified_mass	MANUAL	4531216	7	9	AlK	few
+115	23013	3	8	0	2824440	Only a few books fell in the reading room .	13370	a	189	Quantified_mass	MANUAL	4531216	5	5	AlK	a
+115	23013	4	8	0	2824441	Then the auto paint shop fire sent an evil-looking cloud of black smoke into the air .	null	null	null	null	UNANN	4528436	null	null	null	null
+115	23013	4	8	0	2824441	Then the auto paint shop fire sent an evil-looking cloud of black smoke into the air .	6357	shop.n	365	Businesses	MANUAL	4529039	20	23	MHa	shop
+115	23013	4	8	0	2824441	Then the auto paint shop fire sent an evil-looking cloud of black smoke into the air .	7737	black.a	423	Color	MANUAL	4529042	60	64	MHa	black
+115	23013	4	8	0	2824441	Then the auto paint shop fire sent an evil-looking cloud of black smoke into the air .	10916	send.v	5	Causation	MANUAL	4530012	30	33	JKR	sent
+115	23013	1	9	0	2824442	12:07 a.m. ONEZIE : My younger daughter and I are fine .	null	null	null	null	UNANN	4528437	null	null	null	null
+115	23013	1	9	0	2824442	12:07 a.m. ONEZIE : My younger daughter and I are fine .	2145	daughter.n	104	Kinship	MANUAL	4529047	31	38	MHa	daughter
+115	23013	1	9	0	2824442	12:07 a.m. ONEZIE : My younger daughter and I are fine .	10073	young.a	972	Age	MANUAL	4529613	23	29	MJE	younger
+115	23013	2	9	0	2824443	This building shook like hell and it kept getting stronger .	null	null	null	null	UNANN	4528438	null	null	null	null
+115	23013	2	9	0	2824443	This building shook like hell and it kept getting stronger .	9107	shake.v	670	Moving_in_place	MANUAL	4529052	14	18	MHa	shook
+115	23013	2	9	0	2824443	This building shook like hell and it kept getting stronger .	4347	keep.v	164	Activity_ongoing	MANUAL	4529066	37	40	MHa	kept
+115	23013	2	9	0	2824443	This building shook like hell and it kept getting stronger .	10393	get.v	1070	Transition_to_state	MANUAL	4529069	42	48	MHa	getting
+115	23013	2	9	0	2824443	This building shook like hell and it kept getting stronger .	10869	building.n	173	Buildings	MANUAL	4530089	5	12	JKR	building
+115	23013	2	9	0	2824443	This building shook like hell and it kept getting stronger .	12473	strong.a	1563	Level_of_force_exertion	MANUAL	4530564	50	57	RLG	stronger
+115	23013	3	9	0	2824444	Except for the gas tank at Hustead 's Towing Service exploding and burning in downtown Berkeley , things here are quite peaceful .	null	null	null	null	UNANN	4528439	null	null	null	null
+115	23013	3	9	0	2824444	Except for the gas tank at Hustead 's Towing Service exploding and burning in downtown Berkeley , things here are quite peaceful .	4453	tank.n	78	Containers	MANUAL	4529074	19	22	MHa	tank
+115	23013	3	9	0	2824444	Except for the gas tank at Hustead 's Towing Service exploding and burning in downtown Berkeley , things here are quite peaceful .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4529597	75	76	MJE	in
+115	23013	3	9	0	2824444	Except for the gas tank at Hustead 's Towing Service exploding and burning in downtown Berkeley , things here are quite peaceful .	11601	gas.n	1321	Substance	MANUAL	4530298	15	17	RLG	gas
+115	23013	3	9	0	2824444	Except for the gas tank at Hustead 's Towing Service exploding and burning in downtown Berkeley , things here are quite peaceful .	14661	downtown.n	196	Locale_by_use	MANUAL	4531217	78	85	AlK	downtown
+115	23013	3	9	0	2824444	Except for the gas tank at Hustead 's Towing Service exploding and burning in downtown Berkeley , things here are quite peaceful .	14175	here.adv	199	Locative_relation	MANUAL	4531218	105	108	AlK	here
+115	23013	4	9	0	2824445	A lot of car alarms went off .	null	null	null	null	UNANN	4528440	null	null	null	null
+115	23013	4	9	0	2824445	A lot of car alarms went off .	7808	car.n	429	Vehicle	MANUAL	4529080	9	11	MHa	car
+115	23013	4	9	0	2824445	A lot of car alarms went off .	13232	a	189	Quantified_mass	MANUAL	4531219	2	4	AlK	lot
+115	23013	4	9	0	2824445	A lot of car alarms went off .	13232	a	189	Quantified_mass	MANUAL	4531219	0	0	AlK	A
+115	23013	5	9	0	2824446	The cats are fine , although nervous .	null	null	null	null	UNANN	4528441	null	null	null	null
+115	23013	5	9	0	2824446	The cats are fine , although nervous .	6852	nervous.a	48	Experiencer_focus	MANUAL	4529085	29	35	MHa	nervous
+115	23013	5	9	0	2824446	The cats are fine , although nervous .	15425	although.scon	2150	Concessive	MANUAL	4531220	20	27	AlK	although
+115	23013	1	10	0	2824447	12:15 a.m. DHAWK : Huge fire from broken gas main in the Marina in SF .	null	null	null	null	UNANN	4528442	null	null	null	null
+115	23013	1	10	0	2824447	12:15 a.m. DHAWK : Huge fire from broken gas main in the Marina in SF .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4530004	50	51	JKR	in
+115	23013	1	10	0	2824447	12:15 a.m. DHAWK : Huge fire from broken gas main in the Marina in SF .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4530005	64	65	JKR	in
+115	23013	1	10	0	2824447	12:15 a.m. DHAWK : Huge fire from broken gas main in the Marina in SF .	11601	gas.n	1321	Substance	MANUAL	4530299	41	43	RLG	gas
+115	23013	1	10	0	2824447	12:15 a.m. DHAWK : Huge fire from broken gas main in the Marina in SF .	15772	huge.a	2282	Size	MANUAL	4531221	19	22	AlK	Huge
+115	23013	1	10	0	2824447	12:15 a.m. DHAWK : Huge fire from broken gas main in the Marina in SF .	10848	broken.a	1200	Being_operational	MANUAL	4531222	34	39	AlK	broken
+115	23013	2	10	0	2824448	Areas that are made of ` fill ' liquefy .	null	null	null	null	UNANN	4528443	null	null	null	null
+115	23013	2	10	0	2824448	Areas that are made of ` fill ' liquefy .	5923	liquefy.v	336	Change_of_phase	MANUAL	4529096	32	38	MHa	liquefy
+115	23013	2	10	0	2824448	Areas that are made of ` fill ' liquefy .	3694	area.n	192	Locale	MANUAL	4530017	0	4	JKR	Areas
+115	23013	3	10	0	2824449	A woman in a three-story apartment was able to walk out the window of the third floor onto street level after the quake .	null	null	null	null	UNANN	4528444	null	null	null	null
+115	23013	3	10	0	2824449	A woman in a three-story apartment was able to walk out the window of the third floor onto street level after the quake .	5527	woman.n	304	People	MANUAL	4529099	2	6	MHa	woman
+115	23013	3	10	0	2824449	A woman in a three-story apartment was able to walk out the window of the third floor onto street level after the quake .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4529110	8	9	MHa	in
+115	23013	3	10	0	2824449	A woman in a three-story apartment was able to walk out the window of the third floor onto street level after the quake .	10154	able.a	990	Capability	MANUAL	4529113	39	42	MHa	able
+115	23013	3	10	0	2824449	A woman in a three-story apartment was able to walk out the window of the third floor onto street level after the quake .	8350	walk.v	64	Self_motion	MANUAL	4529115	47	50	MHa	walk
+115	23013	3	10	0	2824449	A woman in a three-story apartment was able to walk out the window of the third floor onto street level after the quake .	10274	window.n	1025	Connecting_architecture	MANUAL	4529119	60	65	MHa	window
+115	23013	3	10	0	2824449	A woman in a three-story apartment was able to walk out the window of the third floor onto street level after the quake .	3775	street.n	203	Roadways	MANUAL	4529121	91	96	MHa	street
+115	23013	3	10	0	2824449	A woman in a three-story apartment was able to walk out the window of the third floor onto street level after the quake .	6715	after.prep	379	Time_vector	MANUAL	4529123	104	108	MHa	after
+115	23013	3	10	0	2824449	A woman in a three-story apartment was able to walk out the window of the third floor onto street level after the quake .	10065	floor.n	971	Architectural_part	MANUAL	4530016	80	84	JKR	floor
+115	23013	3	10	0	2824449	A woman in a three-story apartment was able to walk out the window of the third floor onto street level after the quake .	11251	third.a	1147	Ordinal_numbers	MANUAL	4530398	74	78	RLG	third
+115	23013	3	10	0	2824449	A woman in a three-story apartment was able to walk out the window of the third floor onto street level after the quake .	13728	quake.n	670	Moving_in_place	MANUAL	4531225	114	118	AlK	quake
+115	23013	4	10	0	2824450	The house just settled right down into the ground .	null	null	null	null	UNANN	4528445	null	null	null	null
+115	23013	4	10	0	2824450	The house just settled right down into the ground .	2999	house.n	173	Buildings	MANUAL	4529127	4	8	MHa	house
+115	23013	1	11	0	2824451	12:38 a.m. DAYAC : I was driving my truck , stopped at a red light at the corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it hit .	null	null	null	null	UNANN	4528446	null	null	null	null
+115	23013	1	11	0	2824451	12:38 a.m. DAYAC : I was driving my truck , stopped at a red light at the corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it hit .	8863	drive.v	65	Operate_vehicle	MANUAL	4529129	25	31	MHa	driving
+115	23013	1	11	0	2824451	12:38 a.m. DAYAC : I was driving my truck , stopped at a red light at the corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it hit .	7833	truck.n	429	Vehicle	MANUAL	4529130	36	40	MHa	truck
+115	23013	1	11	0	2824451	12:38 a.m. DAYAC : I was driving my truck , stopped at a red light at the corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it hit .	6735	at.prep	199	Locative_relation	MANUAL	4529133	52	53	MHa	at
+115	23013	1	11	0	2824451	12:38 a.m. DAYAC : I was driving my truck , stopped at a red light at the corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it hit .	7721	red.a	423	Color	MANUAL	4529134	57	59	MHa	red
+115	23013	1	11	0	2824451	12:38 a.m. DAYAC : I was driving my truck , stopped at a red light at the corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it hit .	6735	at.prep	199	Locative_relation	MANUAL	4529136	67	68	MHa	at
+115	23013	1	11	0	2824451	12:38 a.m. DAYAC : I was driving my truck , stopped at a red light at the corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it hit .	6735	at.prep	199	Locative_relation	MANUAL	4529137	106	107	MHa	at
+115	23013	1	11	0	2824451	12:38 a.m. DAYAC : I was driving my truck , stopped at a red light at the corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it hit .	5626	hit.v	311	Impact	MANUAL	4529139	145	147	MHa	hit
+115	23013	1	11	0	2824451	12:38 a.m. DAYAC : I was driving my truck , stopped at a red light at the corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it hit .	10264	stop.v	1024	Halt	MANUAL	4530018	44	50	JKR	stopped
+115	23013	1	11	0	2824451	12:38 a.m. DAYAC : I was driving my truck , stopped at a red light at the corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it hit .	11332	border.n	329	Boundary	MANUAL	4530285	130	135	RLG	border
+115	23013	1	11	0	2824451	12:38 a.m. DAYAC : I was driving my truck , stopped at a red light at the corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it hit .	14147	when.adv	1895	Temporal_collocation	MANUAL	4531226	137	140	AlK	when
+115	23013	2	11	0	2824452	Worst part was watching power lines waving above my head and no way to drive away .	null	null	null	null	UNANN	4528447	null	null	null	null
+115	23013	2	11	0	2824452	Worst part was watching power lines waving above my head and no way to drive away .	6288	bad.a	354	Desirability	MANUAL	4529144	0	4	MJE	Worst
+115	23013	2	11	0	2824452	Worst part was watching power lines waving above my head and no way to drive away .	2784	part.n	140	Part_whole	MANUAL	4529147	6	9	MHa	part
+115	23013	2	11	0	2824452	Worst part was watching power lines waving above my head and no way to drive away .	1320	watch.v	66	Perception_active	MANUAL	4529148	15	22	MHa	watching
+115	23013	2	11	0	2824452	Worst part was watching power lines waving above my head and no way to drive away .	17961	above.prep	2912	Directional_locative_relation	MANUAL	4529151	43	47	MHa	above
+115	23013	2	11	0	2824452	Worst part was watching power lines waving above my head and no way to drive away .	2410	head.n	119	Body_parts	MANUAL	4529162	52	55	MHa	head
+115	23013	2	11	0	2824452	Worst part was watching power lines waving above my head and no way to drive away .	8863	drive.v	65	Operate_vehicle	MANUAL	4529163	71	75	MHa	drive
+115	23013	2	11	0	2824452	Worst part was watching power lines waving above my head and no way to drive away .	10877	wave.v	670	Moving_in_place	MANUAL	4530019	36	41	JKR	waving
+115	23013	2	11	0	2824452	Worst part was watching power lines waving above my head and no way to drive away .	12355	power.n	1535	Electricity	MANUAL	4530368	24	28	RLG	power
+115	23013	2	11	0	2824452	Worst part was watching power lines waving above my head and no way to drive away .	13557	way.n	1790	Means	MANUAL	4531227	64	66	AlK	way
+115	23013	1	12	0	2824453	12:48 a.m. LMEYER : Was 300 ft. out on a pier in San Rafael .	null	null	null	null	UNANN	4528448	null	null	null	null
+115	23013	1	12	0	2824453	12:48 a.m. LMEYER : Was 300 ft. out on a pier in San Rafael .	17780	on.prep	2890	Spatial_contact	MANUAL	4529325	36	37	MHa	on
+115	23013	1	12	0	2824453	12:48 a.m. LMEYER : Was 300 ft. out on a pier in San Rafael .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4529326	46	47	MHa	in
+115	23013	2	12	0	2824454	It flopped all around , real dramatic !	null	null	null	null	UNANN	4528449	null	null	null	null
+115	23013	2	12	0	2824454	It flopped all around , real dramatic !	10870	flop.v	670	Moving_in_place	MANUAL	4530021	3	9	JKR	flopped
+115	23013	3	12	0	2824455	Many hairline cracks in the concrete slabs afterwards .	null	null	null	null	UNANN	4528450	null	null	null	null
+115	23013	3	12	0	2824455	Many hairline cracks in the concrete slabs afterwards .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4529327	21	22	MHa	in
+115	23013	3	12	0	2824455	Many hairline cracks in the concrete slabs afterwards .	13746	many.a	189	Quantified_mass	MANUAL	4531228	0	3	AlK	Many
+115	23013	3	12	0	2824455	Many hairline cracks in the concrete slabs afterwards .	10919	afterwards.adv	379	Time_vector	MANUAL	4531229	43	52	AlK	afterwards
+115	23013	4	12	0	2824456	Ruined the damn fishing !	null	null	null	null	UNANN	4528451	null	null	null	null
+115	23013	4	12	0	2824456	Ruined the damn fishing !	4853	ruin.v	266	Bungling	MANUAL	4531230	0	5	AlK	Ruined
+115	23013	1	13	0	2824457	1:00 a.m. HEYNOW : I rode it out on the second floor of Leo 's at 55th and Telegraph in Oakland .	null	null	null	null	UNANN	4528452	null	null	null	null
+115	23013	1	13	0	2824457	1:00 a.m. HEYNOW : I rode it out on the second floor of Leo 's at 55th and Telegraph in Oakland .	10065	floor.n	971	Architectural_part	MANUAL	4529165	47	51	MHa	floor
+115	23013	1	13	0	2824457	1:00 a.m. HEYNOW : I rode it out on the second floor of Leo 's at 55th and Telegraph in Oakland .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4529166	85	86	MHa	in
+115	23013	1	13	0	2824457	1:00 a.m. HEYNOW : I rode it out on the second floor of Leo 's at 55th and Telegraph in Oakland .	6735	at.prep	199	Locative_relation	MANUAL	4529167	63	64	MHa	at
+115	23013	1	13	0	2824457	1:00 a.m. HEYNOW : I rode it out on the second floor of Leo 's at 55th and Telegraph in Oakland .	13572	ride	1792	Surviving	MANUAL	4531232	21	24	AlK	rode
+115	23013	1	13	0	2824457	1:00 a.m. HEYNOW : I rode it out on the second floor of Leo 's at 55th and Telegraph in Oakland .	13572	ride	1792	Surviving	MANUAL	4531232	29	31	AlK	out
+115	23013	1	13	0	2824457	1:00 a.m. HEYNOW : I rode it out on the second floor of Leo 's at 55th and Telegraph in Oakland .	17780	on.prep	2890	Spatial_contact	MANUAL	4531233	33	34	AlK	on
+115	23013	1	13	0	2824457	1:00 a.m. HEYNOW : I rode it out on the second floor of Leo 's at 55th and Telegraph in Oakland .	11249	second.a	1147	Ordinal_numbers	MANUAL	4531235	40	45	AlK	second
+115	23013	2	13	0	2824458	I heard parts of the building above my head cracking .	null	null	null	null	UNANN	4528453	null	null	null	null
+115	23013	2	13	0	2824458	I heard parts of the building above my head cracking .	1532	hear.v	70	Perception_experience	MANUAL	4529168	2	6	MHa	heard
+115	23013	2	13	0	2824458	I heard parts of the building above my head cracking .	2784	part.n	140	Part_whole	MANUAL	4529218	8	12	MHa	parts
+115	23013	2	13	0	2824458	I heard parts of the building above my head cracking .	17961	above.prep	2912	Directional_locative_relation	MANUAL	4529219	30	34	MHa	above
+115	23013	2	13	0	2824458	I heard parts of the building above my head cracking .	2410	head.n	119	Body_parts	MANUAL	4529220	39	42	MHa	head
+115	23013	2	13	0	2824458	I heard parts of the building above my head cracking .	10869	building.n	173	Buildings	MANUAL	4530086	21	28	JKR	building
+115	23013	3	13	0	2824459	I actually thought that I might die .	null	null	null	null	UNANN	4528454	null	null	null	null
+115	23013	3	13	0	2824459	I actually thought that I might die .	169	think.v	19	Awareness	MANUAL	4529227	11	17	MHa	thought
+115	23013	3	13	0	2824459	I actually thought that I might die .	6506	might.v	114	Likelihood	MANUAL	4529229	26	30	MHa	might
+115	23013	3	13	0	2824459	I actually thought that I might die .	924	die.v	53	Death	MANUAL	4529230	32	34	MHa	die
+115	23013	4	13	0	2824460	I could n't decide if I should come home to Marin , because my house is on stilts .	null	null	null	null	UNANN	4528455	null	null	null	null
+115	23013	4	13	0	2824460	I could n't decide if I should come home to Marin , because my house is on stilts .	941	come.v	54	Arriving	MANUAL	4529233	31	34	MHa	come
+115	23013	4	13	0	2824460	I could n't decide if I should come home to Marin , because my house is on stilts .	2999	house.n	173	Buildings	MANUAL	4529234	63	67	MHa	house
+115	23013	4	13	0	2824460	I could n't decide if I should come home to Marin , because my house is on stilts .	17780	on.prep	2890	Spatial_contact	MANUAL	4530027	72	73	JKR	on
+115	23013	4	13	0	2824460	I could n't decide if I should come home to Marin , because my house is on stilts .	11820	should.v	1383	Desirable_event	MANUAL	4531236	24	29	AlK	should
+115	23013	4	13	0	2824460	I could n't decide if I should come home to Marin , because my house is on stilts .	10799	to.prep	1177	Goal	MANUAL	4531237	41	42	AlK	to
+115	23013	4	13	0	2824460	I could n't decide if I should come home to Marin , because my house is on stilts .	13419	because.c	5	Causation	MANUAL	4531238	52	58	AlK	because
+115	23013	4	13	0	2824460	I could n't decide if I should come home to Marin , because my house is on stilts .	15260	can.v	2120	Possibility	MANUAL	6683824	2	6	WMcQ	could
+115	23013	4	13	0	2824460	I could n't decide if I should come home to Marin , because my house is on stilts .	7431	decide.v	363	Deciding	MANUAL	6767880	12	17	HPh	decide
+115	23013	5	13	0	2824461	I decided to brave the storm .	null	null	null	null	UNANN	4528456	null	null	null	null
+115	23013	5	13	0	2824461	I decided to brave the storm .	5691	storm.n	303	Weather	UNANN	4530056	null	null	null	null
+115	23013	5	13	0	2824461	I decided to brave the storm .	5691	storm.n	303	Weather	UNANN	4530056	23	27	JKR	storm
+115	23013	5	13	0	2824461	I decided to brave the storm .	7431	decide.v	363	Deciding	MANUAL	6767881	2	8	HPh	decided
+115	23013	6	13	0	2824462	There was a horrible smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge .	null	null	null	null	UNANN	4528457	null	null	null	null
+115	23013	6	13	0	2824462	There was a horrible smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge .	10329	there	660	Existence	MANUAL	4529241	0	4	JKR	There
+115	23013	6	13	0	2824462	There was a horrible smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge .	10329	there	660	Existence	MANUAL	4529241	6	8	JKR	was
+115	23013	6	13	0	2824462	There was a horrible smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge .	6272	horrible.a	354	Desirability	MANUAL	4529243	12	19	MHa	horrible
+115	23013	6	13	0	2824462	There was a horrible smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge .	1556	smell.n	71	Sensation	MANUAL	4529245	21	25	MHa	smell
+115	23013	6	13	0	2824462	There was a horrible smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge .	6716	before.prep	379	Time_vector	MANUAL	4529246	67	72	MHa	before
+115	23013	6	13	0	2824462	There was a horrible smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge .	3790	bridge.n	203	Roadways	MANUAL	4529247	107	112	MHa	Bridge
+115	23013	6	13	0	2824462	There was a horrible smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge .	11601	gas.n	1321	Substance	MANUAL	4530286	30	32	RLG	gas
+115	23013	6	13	0	2824462	There was a horrible smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge .	12878	pass.v	1310	Traversing	MANUAL	4530612	39	44	MJE	passed
+115	23013	6	13	0	2824462	There was a horrible smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge .	11535	cross.v	1310	Traversing	MANUAL	4530613	74	81	MJE	crossing
+115	23013	6	13	0	2824462	There was a horrible smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge .	16143	as.adv	1895	Temporal_collocation	MANUAL	6639299	34	35	CVa	as
+115	23013	7	13	0	2824463	I could also see the clouds across the bay from the horrible fire in the Marina District of San Francisco .	null	null	null	null	UNANN	4528458	null	null	null	null
+115	23013	7	13	0	2824463	I could also see the clouds across the bay from the horrible fire in the Marina District of San Francisco .	1535	see.v	70	Perception_experience	MANUAL	4529249	13	15	MHa	see
+115	23013	7	13	0	2824463	I could also see the clouds across the bay from the horrible fire in the Marina District of San Francisco .	3511	bay.n	191	Natural_features	MANUAL	4529250	39	41	MHa	bay
+115	23013	7	13	0	2824463	I could also see the clouds across the bay from the horrible fire in the Marina District of San Francisco .	6272	horrible.a	354	Desirability	MANUAL	4529251	52	59	MHa	horrible
+115	23013	7	13	0	2824463	I could also see the clouds across the bay from the horrible fire in the Marina District of San Francisco .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4529252	66	67	MHa	in
+115	23013	7	13	0	2824463	I could also see the clouds across the bay from the horrible fire in the Marina District of San Francisco .	15260	can.v	2120	Possibility	MANUAL	6683825	2	6	WMcQ	could
+115	23013	1	14	0	2824464	I have felt many aftershocks .	null	null	null	null	UNANN	4528459	null	null	null	null
+115	23013	1	14	0	2824464	I have felt many aftershocks .	1531	feel.v	70	Perception_experience	MANUAL	4529253	7	10	MHa	felt
+115	23013	2	14	0	2824465	My back is still in knots and my hands are still shaking .	null	null	null	null	UNANN	4528460	null	null	null	null
+115	23013	2	14	0	2824465	My back is still in knots and my hands are still shaking .	2383	back.n	119	Body_parts	MANUAL	4529254	3	6	MHa	back
+115	23013	2	14	0	2824465	My back is still in knots and my hands are still shaking .	2409	hand.n	119	Body_parts	MANUAL	4529256	33	37	MHa	hands
+115	23013	2	14	0	2824465	My back is still in knots and my hands are still shaking .	9107	shake.v	670	Moving_in_place	MANUAL	4529622	49	55	MJE	shaking
+115	23013	2	14	0	2824465	My back is still in knots and my hands are still shaking .	13044	still.adv	1594	Continued_state_of_affairs	MANUAL	4531240	11	15	AlK	still
+115	23013	2	14	0	2824465	My back is still in knots and my hands are still shaking .	13044	still.adv	1594	Continued_state_of_affairs	MANUAL	4531241	43	47	AlK	still
+115	23013	3	14	0	2824466	I think a few of the aftershocks might just be my body shaking .	null	null	null	null	UNANN	4528461	null	null	null	null
+115	23013	3	14	0	2824466	I think a few of the aftershocks might just be my body shaking .	169	think.v	19	Awareness	MANUAL	4529258	2	6	MHa	think
+115	23013	3	14	0	2824466	I think a few of the aftershocks might just be my body shaking .	2387	body.n	119	Body_parts	MANUAL	4529259	50	53	MHa	body
+115	23013	3	14	0	2824466	I think a few of the aftershocks might just be my body shaking .	9107	shake.v	670	Moving_in_place	MANUAL	4529623	55	61	MJE	shaking
+115	23013	3	14	0	2824466	I think a few of the aftershocks might just be my body shaking .	6506	might.v	114	Likelihood	MANUAL	4529624	33	37	MJE	might
+115	23013	3	14	0	2824466	I think a few of the aftershocks might just be my body shaking .	13370	a	189	Quantified_mass	MANUAL	4531242	10	12	AlK	few
+115	23013	3	14	0	2824466	I think a few of the aftershocks might just be my body shaking .	13370	a	189	Quantified_mass	MANUAL	4531242	8	8	AlK	a
+115	23013	1	15	0	2824467	1:11 a.m. GR8FLRED : I could see the flames from San Francisco from my house across the bay .	null	null	null	null	UNANN	4528462	null	null	null	null
+115	23013	1	15	0	2824467	1:11 a.m. GR8FLRED : I could see the flames from San Francisco from my house across the bay .	1535	see.v	70	Perception_experience	MANUAL	4529260	29	31	MHa	see
+115	23013	1	15	0	2824467	1:11 a.m. GR8FLRED : I could see the flames from San Francisco from my house across the bay .	2999	house.n	173	Buildings	MANUAL	4529274	71	75	MHa	house
+115	23013	1	15	0	2824467	1:11 a.m. GR8FLRED : I could see the flames from San Francisco from my house across the bay .	3511	bay.n	191	Natural_features	MANUAL	4529275	88	90	MHa	bay
+115	23013	1	15	0	2824467	1:11 a.m. GR8FLRED : I could see the flames from San Francisco from my house across the bay .	10640	from.prep	1103	Origin	MANUAL	4531243	44	47	AlK	from
+115	23013	1	15	0	2824467	1:11 a.m. GR8FLRED : I could see the flames from San Francisco from my house across the bay .	15260	can.v	2120	Possibility	MANUAL	6683826	23	27	WMcQ	could
+115	23013	2	15	0	2824468	It 's hard to believe this really is happening .	null	null	null	null	UNANN	4528463	null	null	null	null
+115	23013	2	15	0	2824468	It 's hard to believe this really is happening .	6569	hard.a	375	Difficulty	MANUAL	4529278	6	9	MHa	hard
+115	23013	2	15	0	2824468	It 's hard to believe this really is happening .	150	believe.v	19	Awareness	MANUAL	4529280	14	20	MHa	believe
+115	23013	2	15	0	2824468	It 's hard to believe this really is happening .	4886	happen.v	187	Event	MANUAL	4529289	37	45	MHa	happening
+115	23013	1	16	0	2824469	1:11 a.m. RD : Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .	null	null	null	null	UNANN	4528464	null	null	null	null
+115	23013	1	16	0	2824469	1:11 a.m. RD : Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .	17780	on.prep	2890	Spatial_contact	MANUAL	4529294	24	25	MHa	on
+115	23013	1	16	0	2824469	1:11 a.m. RD : Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .	10071	old.a	972	Age	MANUAL	4529295	63	65	MHa	old
+115	23013	1	16	0	2824469	1:11 a.m. RD : Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .	5525	lady.n	304	People	MANUAL	4529296	67	70	MHa	lady
+115	23013	1	16	0	2824469	1:11 a.m. RD : Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .	10071	old.a	972	Age	MANUAL	4529298	85	87	MHa	old
+115	23013	1	16	0	2824469	1:11 a.m. RD : Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .	2143	mother.n	104	Kinship	MANUAL	4529300	89	94	MHa	mother
+115	23013	1	16	0	2824469	1:11 a.m. RD : Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4529301	100	101	MHa	in
+115	23013	1	16	0	2824469	1:11 a.m. RD : Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .	3221	guest	188	Building_subparts	MANUAL	4529625	113	116	MJE	room
+115	23013	1	16	0	2824469	1:11 a.m. RD : Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .	3221	guest	188	Building_subparts	MANUAL	4529625	107	111	MJE	guest
+115	23013	1	16	0	2824469	1:11 a.m. RD : Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .	10869	building.n	173	Buildings	MANUAL	4530287	15	22	RLG	Building
+115	23013	1	16	0	2824469	1:11 a.m. RD : Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .	15329	so.c	5	Causation	MANUAL	4531244	57	58	AlK	so
+115	23013	1	16	0	2824469	1:11 a.m. RD : Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .	14745	very.adv	2001	Degree	MANUAL	4531245	80	83	AlK	very
+115	23013	1	16	0	2824469	1:11 a.m. RD : Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .	7594	damage.v	415	Damaging	MANUAL	6774325	47	53	CFB	damaged
+115	23013	2	16	0	2824470	Books and software everywhere .	null	null	null	null	UNANN	4528465	null	null	null	null
+115	23013	2	16	0	2824470	Books and software everywhere .	5453	book.n	298	Text	MANUAL	4529302	0	4	MJE	Books
+115	23013	3	16	0	2824471	This being typed in a standing position .	null	null	null	null	UNANN	4528466	null	null	null	null
+115	23013	3	16	0	2824471	This being typed in a standing position .	5214	type.v	278	Text_creation	MANUAL	4529303	11	15	MHa	typed
+115	23013	3	16	0	2824471	This being typed in a standing position .	141	stand.v	18	Posture	UNANN	4530116	null	null	null	null
+115	23013	3	16	0	2824471	This being typed in a standing position .	141	stand.v	18	Posture	UNANN	4530116	22	29	JKR	standing
+115	23013	3	16	0	2824471	This being typed in a standing position .	10871	position.n	18	Posture	MANUAL	4530300	31	38	RLG	position
+115	23013	1	17	0	2824472	1:20 a.m. DGAULT : Bolinas -- astride the San Andreas Fault .	null	null	null	null	UNANN	4528467	null	null	null	null
+115	23013	1	17	0	2824472	1:20 a.m. DGAULT : Bolinas -- astride the San Andreas Fault .	7714	astride.prep	199	Locative_relation	MANUAL	4529308	30	36	MHa	astride
+115	23013	2	17	0	2824473	Did n't feel a thing , but noticed some strange bird behavior .	null	null	null	null	UNANN	4528468	null	null	null	null
+115	23013	2	17	0	2824473	Did n't feel a thing , but noticed some strange bird behavior .	1531	feel.v	70	Perception_experience	MANUAL	4529317	8	11	MHa	feel
+115	23013	2	17	0	2824473	Did n't feel a thing , but noticed some strange bird behavior .	177	notice.v	20	Becoming_aware	MANUAL	4529323	27	33	MHa	noticed
+115	23013	2	17	0	2824473	Did n't feel a thing , but noticed some strange bird behavior .	15429	but.c	2150	Concessive	MANUAL	4531247	23	25	AlK	but
+115	23013	2	17	0	2824473	Did n't feel a thing , but noticed some strange bird behavior .	14290	some.art	1923	Proportional_quantity	MANUAL	4531248	35	38	AlK	some
+115	23013	2	17	0	2824473	Did n't feel a thing , but noticed some strange bird behavior .	8001	behavior.n	491	Conduct	MANUAL	4531249	53	60	AlK	behavior
+115	23013	3	17	0	2824474	Duck swarms .	null	null	null	null	UNANN	4528469	null	null	null	null
+115	23013	3	17	0	2824474	Duck swarms .	2117	swarm.n	103	Aggregate	MANUAL	4529329	5	10	MHa	swarms
+115	23013	1	18	0	2824475	3:25 a.m. SAMURAI : I just felt another aftershock a few seconds ago .	null	null	null	null	UNANN	4528470	null	null	null	null
+115	23013	1	18	0	2824475	3:25 a.m. SAMURAI : I just felt another aftershock a few seconds ago .	1531	feel.v	70	Perception_experience	MANUAL	4529328	27	30	MHa	felt
+115	23013	1	18	0	2824475	3:25 a.m. SAMURAI : I just felt another aftershock a few seconds ago .	10175	another.a	1001	Increment	MANUAL	4529627	32	38	MJE	another
+115	23013	1	18	0	2824475	3:25 a.m. SAMURAI : I just felt another aftershock a few seconds ago .	9154	ago.idio	379	Time_vector	MANUAL	4529628	65	67	MJE	ago
+115	23013	1	18	0	2824475	3:25 a.m. SAMURAI : I just felt another aftershock a few seconds ago .	3874	second.n	224	Measure_duration	MANUAL	4530115	57	63	JKR	seconds
+115	23013	1	18	0	2824475	3:25 a.m. SAMURAI : I just felt another aftershock a few seconds ago .	13370	a	189	Quantified_mass	MANUAL	4531250	53	55	AlK	few
+115	23013	1	18	0	2824475	3:25 a.m. SAMURAI : I just felt another aftershock a few seconds ago .	13370	a	189	Quantified_mass	MANUAL	4531250	51	51	AlK	a
+115	23013	2	18	0	2824476	I 'm just numb .	null	null	null	null	UNANN	4528471	null	null	null	null
+115	23013	1	19	0	2824477	3:25 a.m. MACPOST : Downtown Bolinas seems to be the part of town that 's worst off .	null	null	null	null	UNANN	4528472	null	null	null	null
+115	23013	1	19	0	2824477	3:25 a.m. MACPOST : Downtown Bolinas seems to be the part of town that 's worst off .	1325	seem.v	67	Give_impression	MANUAL	4528603	37	41	cir	seems
+115	23013	1	19	0	2824477	3:25 a.m. MACPOST : Downtown Bolinas seems to be the part of town that 's worst off .	2784	part.n	140	Part_whole	MANUAL	4528608	53	56	cir	part
+115	23013	1	19	0	2824477	3:25 a.m. MACPOST : Downtown Bolinas seems to be the part of town that 's worst off .	3691	town.n	195	Political_locales	MANUAL	4528611	61	64	cir	town
+115	23013	2	19	0	2824478	No power , minimal phones , and a mess of mayonnaise , wine , and everything else all over the floors of the big old general store and the People 's Co-op .	null	null	null	null	UNANN	4528473	null	null	null	null
+115	23013	2	19	0	2824478	No power , minimal phones , and a mess of mayonnaise , wine , and everything else all over the floors of the big old general store and the People 's Co-op .	5133	mayonnaise.n	277	Food	UNANN	4528614	null	null	null	null
+115	23013	2	19	0	2824478	No power , minimal phones , and a mess of mayonnaise , wine , and everything else all over the floors of the big old general store and the People 's Co-op .	5133	mayonnaise.n	277	Food	UNANN	4528614	42	51	cir	mayonnaise
+115	23013	2	19	0	2824478	No power , minimal phones , and a mess of mayonnaise , wine , and everything else all over the floors of the big old general store and the People 's Co-op .	10065	floor.n	971	Architectural_part	MANUAL	4528615	95	100	cir	floors
+115	23013	2	19	0	2824478	No power , minimal phones , and a mess of mayonnaise , wine , and everything else all over the floors of the big old general store and the People 's Co-op .	10071	old.a	972	Age	MANUAL	4528616	113	115	cir	old
+115	23013	2	19	0	2824478	No power , minimal phones , and a mess of mayonnaise , wine , and everything else all over the floors of the big old general store and the People 's Co-op .	12355	power.n	1535	Electricity	MANUAL	4530366	3	7	RLG	power
+115	23013	2	19	0	2824478	No power , minimal phones , and a mess of mayonnaise , wine , and everything else all over the floors of the big old general store and the People 's Co-op .	15771	big.a	2282	Size	MANUAL	4531252	109	111	AlK	big
+115	23013	3	19	0	2824479	The quivers move through my house every few minutes at unpredictable intervals , and the mouse that 's been living in my kitchen has taken refuge under my desk .	null	null	null	null	UNANN	4528474	null	null	null	null
+115	23013	3	19	0	2824479	The quivers move through my house every few minutes at unpredictable intervals , and the mouse that 's been living in my kitchen has taken refuge under my desk .	6	move.v	7	Motion	MANUAL	4528676	12	15	cir	move
+115	23013	3	19	0	2824479	The quivers move through my house every few minutes at unpredictable intervals , and the mouse that 's been living in my kitchen has taken refuge under my desk .	2999	house.n	173	Buildings	MANUAL	4528677	28	32	cir	house
+115	23013	3	19	0	2824479	The quivers move through my house every few minutes at unpredictable intervals , and the mouse that 's been living in my kitchen has taken refuge under my desk .	3873	minute.n	224	Measure_duration	MANUAL	4528680	44	50	cir	minutes
+115	23013	3	19	0	2824479	The quivers move through my house every few minutes at unpredictable intervals , and the mouse that 's been living in my kitchen has taken refuge under my desk .	8750	interval.n	80	Frequency	MANUAL	4528683	69	77	cir	intervals
+115	23013	3	19	0	2824479	The quivers move through my house every few minutes at unpredictable intervals , and the mouse that 's been living in my kitchen has taken refuge under my desk .	2220	live.v	110	Residence	MANUAL	4528684	108	113	cir	living
+115	23013	3	19	0	2824479	The quivers move through my house every few minutes at unpredictable intervals , and the mouse that 's been living in my kitchen has taken refuge under my desk .	17754	under.prep	2880	Non-gradable_proximity	MANUAL	4529633	146	150	MJE	under
+115	23013	3	19	0	2824479	The quivers move through my house every few minutes at unpredictable intervals , and the mouse that 's been living in my kitchen has taken refuge under my desk .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4529635	115	116	MJE	in
+115	23013	3	19	0	2824479	The quivers move through my house every few minutes at unpredictable intervals , and the mouse that 's been living in my kitchen has taken refuge under my desk .	3187	kitchen.n	188	Building_subparts	MANUAL	4530288	121	127	RLG	kitchen
+115	23013	3	19	0	2824479	The quivers move through my house every few minutes at unpredictable intervals , and the mouse that 's been living in my kitchen has taken refuge under my desk .	3586	unpredictable.a	26	Expectation	MANUAL	4530301	55	67	RLG	unpredictable
+115	23013	3	19	0	2824479	The quivers move through my house every few minutes at unpredictable intervals , and the mouse that 's been living in my kitchen has taken refuge under my desk .	10873	quiver.n	670	Moving_in_place	MANUAL	4531254	4	10	AlK	quivers
+115	23013	4	19	0	2824480	It runs out frantically now and then , and is clearly pretty distressed .	null	null	null	null	UNANN	4528475	null	null	null	null
+115	23013	4	19	0	2824480	It runs out frantically now and then , and is clearly pretty distressed .	1207	run.v	64	Self_motion	MANUAL	4528690	3	6	cir	runs
+115	23013	4	19	0	2824480	It runs out frantically now and then , and is clearly pretty distressed .	8802	distressed.a	46	Emotion_directed	MANUAL	4528693	61	70	cir	distressed
+115	23013	4	19	0	2824480	It runs out frantically now and then , and is clearly pretty distressed .	13814	clearly.adv	1360	Obviousness	MANUAL	4531255	46	52	AlK	clearly
+115	23013	1	20	0	2824481	I was in Stinson Beach when the quake rolled through town .	null	null	null	null	UNANN	4528476	null	null	null	null
+115	23013	1	20	0	2824481	I was in Stinson Beach when the quake rolled through town .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4528704	6	7	cir	in
+115	23013	1	20	0	2824481	I was in Stinson Beach when the quake rolled through town .	6263	roll.v	7	Motion	MANUAL	4528705	38	43	cir	rolled
+115	23013	1	20	0	2824481	I was in Stinson Beach when the quake rolled through town .	14147	when.adv	1895	Temporal_collocation	MANUAL	4531256	23	26	AlK	when
+115	23013	1	20	0	2824481	I was in Stinson Beach when the quake rolled through town .	13728	quake.n	670	Moving_in_place	MANUAL	4531257	32	36	AlK	quake
+115	23013	1	20	0	2824481	I was in Stinson Beach when the quake rolled through town .	3691	town.n	195	Political_locales	MANUAL	4531258	53	56	AlK	town
+115	23013	2	20	0	2824482	At first , we were unfazed .	null	null	null	null	UNANN	4528477	null	null	null	null
+115	23013	2	20	0	2824482	At first , we were unfazed .	10875	unfazed.a	48	Experiencer_focus	MANUAL	4530289	19	25	RLG	unfazed
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	null	null	null	null	UNANN	4528478	null	null	null	null
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	10393	get.v	1070	Transition_to_state	MANUAL	4528706	15	17	cir	got
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	1207	run.v	64	Self_motion	MANUAL	4528707	32	34	cir	ran
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	10268	door.n	1025	Connecting_architecture	MANUAL	4528708	44	47	cir	door
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	3873	minute.n	224	Measure_duration	MANUAL	4528709	72	78	cir	minutes
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	5832	outside.n	327	Part_inner_outer	MANUAL	4528732	80	86	cir	outside
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	1320	watch.v	66	Perception_active	MANUAL	4528733	88	95	cir	watching
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	3781	sidewalk.n	203	Roadways	MANUAL	4528734	107	114	cir	sidewalk
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	17754	under.prep	2880	Non-gradable_proximity	MANUAL	4528736	116	120	cir	under
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	2404	foot.n	119	Body_parts	MANUAL	4528737	126	129	cir	feet
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	6025	ooze.v	345	Fluidic_motion	MANUAL	4528738	131	136	cir	oozing
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	10330	rhythm.n	1040	Temporal_pattern	MANUAL	4528743	187	192	cir	rhythm
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	10877	wave.v	670	Moving_in_place	MANUAL	4530290	168	173	RLG	waving
+115	23013	3	20	0	2824483	Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .	13369	few.a	189	Quantified_mass	MANUAL	4531259	68	70	AlK	few
+115	23013	4	20	0	2824484	Amazing what it does to one 's heart rate and one 's short-term memory .	null	null	null	null	UNANN	4528479	null	null	null	null
+115	23013	4	20	0	2824484	Amazing what it does to one 's heart rate and one 's short-term memory .	7653	amazing.a	364	Stimulus_focus	MANUAL	4528763	0	6	cir	Amazing
+115	23013	4	20	0	2824484	Amazing what it does to one 's heart rate and one 's short-term memory .	2670	memory.n	135	Memory	MANUAL	4528766	64	69	cir	memory
+115	23013	4	20	0	2824484	Amazing what it does to one 's heart rate and one 's short-term memory .	13290	rate.n	966	Speed_description	MANUAL	4531260	37	40	AlK	rate
+115	23013	5	20	0	2824485	Everyone looked calm , but there was this surreal low level of confusion as the aftershocks continued .	null	null	null	null	UNANN	4528480	null	null	null	null
+115	23013	5	20	0	2824485	Everyone looked calm , but there was this surreal low level of confusion as the aftershocks continued .	1323	look.v	67	Give_impression	MANUAL	4528769	9	14	cir	looked
+115	23013	5	20	0	2824485	Everyone looked calm , but there was this surreal low level of confusion as the aftershocks continued .	10329	there	660	Existence	MANUAL	4528770	27	31	EGp	there
+115	23013	5	20	0	2824485	Everyone looked calm , but there was this surreal low level of confusion as the aftershocks continued .	10329	there	660	Existence	MANUAL	4528770	33	35	EGp	was
+115	23013	5	20	0	2824485	Everyone looked calm , but there was this surreal low level of confusion as the aftershocks continued .	2799	continue.v	145	Process_continue	MANUAL	4528791	92	100	cir	continued
+115	23013	5	20	0	2824485	Everyone looked calm , but there was this surreal low level of confusion as the aftershocks continued .	1981	low.a	95	Position_on_a_scale	MANUAL	4530588	50	52	RLG	low
+115	23013	5	20	0	2824485	Everyone looked calm , but there was this surreal low level of confusion as the aftershocks continued .	10876	calm.a	48	Experiencer_focus	MANUAL	4531261	16	19	AlK	calm
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	null	null	null	null	UNANN	4528481	null	null	null	null
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	10661	center.n	196	Locale_by_use	MANUAL	4528803	58	63	cir	center
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	1325	seem.v	67	Give_impression	MANUAL	4528804	67	71	cir	seems
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	9149	quiet	731	Becoming_silent	MANUAL	4528808	81	87	CVa	quieted
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	9149	quiet	731	Becoming_silent	MANUAL	4528808	89	92	CVa	down
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	10612	do.v	198	Intentionally_act	MANUAL	4528814	120	124	cir	doing
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	4064	night.n	229	Calendric_unit	UNANN	4530104	null	null	null	null
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	4064	night.n	229	Calendric_unit	UNANN	4530104	102	106	JKR	night
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	12355	power.n	1535	Electricity	MANUAL	4530367	20	24	RLG	Power
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	10906	sound.n	850	Sounds	MANUAL	4530573	165	169	RLG	sound
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	9912	on.prep	880	Being_in_operation	MANUAL	4531262	34	35	AlK	on
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4531263	137	138	AlK	in
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	12739	parking	196	Locale_by_use	MANUAL	4531264	144	150	EGp	parking
+115	23013	1	21	0	2824486	4:02 a.m. SHIBUMI : Power is back on , and UCSF { medical center } seems to have quieted down for the night ( they were doing triage out in the parking lot from the sound and lights of it ) .	12739	parking	196	Locale_by_use	MANUAL	4531264	152	154	EGp	lot
+115	23013	2	21	0	2824487	A friend of mine was in an underground computer center in downtown SF when the quake hit .	null	null	null	null	UNANN	4528482	null	null	null	null
+115	23013	2	21	0	2824487	A friend of mine was in an underground computer center in downtown SF when the quake hit .	2177	friend.n	102	Personal_relationship	MANUAL	4528820	2	7	cir	friend
+115	23013	2	21	0	2824487	A friend of mine was in an underground computer center in downtown SF when the quake hit .	10661	center.n	196	Locale_by_use	MANUAL	4528824	48	53	cir	center
+115	23013	2	21	0	2824487	A friend of mine was in an underground computer center in downtown SF when the quake hit .	5626	hit.v	311	Impact	MANUAL	4528884	85	87	cir	hit
+115	23013	2	21	0	2824487	A friend of mine was in an underground computer center in downtown SF when the quake hit .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4531265	21	22	AlK	in
+115	23013	2	21	0	2824487	A friend of mine was in an underground computer center in downtown SF when the quake hit .	13961	underground.a	199	Locative_relation	MANUAL	4531266	27	37	AlK	underground
+115	23013	2	21	0	2824487	A friend of mine was in an underground computer center in downtown SF when the quake hit .	14147	when.adv	1895	Temporal_collocation	MANUAL	4531267	70	73	AlK	when
+115	23013	2	21	0	2824487	A friend of mine was in an underground computer center in downtown SF when the quake hit .	13728	quake.n	670	Moving_in_place	MANUAL	4531268	79	83	AlK	quake
+115	23013	3	21	0	2824488	He said that one of the computers took a three-foot trip sliding across the floor .	null	null	null	null	UNANN	4528483	null	null	null	null
+115	23013	3	21	0	2824488	He said that one of the computers took a three-foot trip sliding across the floor .	751	say.v	43	Statement	MANUAL	4528885	3	6	cir	said
+115	23013	3	21	0	2824488	He said that one of the computers took a three-foot trip sliding across the floor .	6064	trip.n	343	Travel	MANUAL	4528887	52	55	cir	trip
+115	23013	3	21	0	2824488	He said that one of the computers took a three-foot trip sliding across the floor .	10065	floor.n	971	Architectural_part	MANUAL	4528889	76	80	cir	floor
+115	23013	3	21	0	2824488	He said that one of the computers took a three-foot trip sliding across the floor .	10922	slide.v	7	Motion	MANUAL	4530127	57	63	JKR	sliding
+115	23013	3	21	0	2824488	He said that one of the computers took a three-foot trip sliding across the floor .	3843	one.num	218	Cardinal_numbers	MANUAL	4531269	13	15	AlK	one
+115	23013	1	22	0	2824489	Today should be interesting as people realize how hard life is going to be here for a while .	null	null	null	null	UNANN	4528484	null	null	null	null
+115	23013	1	22	0	2824489	Today should be interesting as people realize how hard life is going to be here for a while .	14920	interesting.a	2046	Mental_stimulus_stimulus_focus	MANUAL	4528890	16	26	cir	interesting
+115	23013	1	22	0	2824489	Today should be interesting as people realize how hard life is going to be here for a while .	5511	people.n	304	People	MANUAL	4528891	31	36	cir	people
+115	23013	1	22	0	2824489	Today should be interesting as people realize how hard life is going to be here for a while .	232	realize.v	23	Coming_to_believe	MANUAL	4528892	38	44	cir	realize
+115	23013	1	22	0	2824489	Today should be interesting as people realize how hard life is going to be here for a while .	6569	hard.a	375	Difficulty	MANUAL	4528893	50	53	cir	hard
+115	23013	1	22	0	2824489	Today should be interesting as people realize how hard life is going to be here for a while .	4054	today.n	229	Calendric_unit	MANUAL	4530402	0	4	RLG	Today
+115	23013	1	22	0	2824489	Today should be interesting as people realize how hard life is going to be here for a while .	14571	a	224	Measure_duration	MANUAL	4531271	86	90	AlK	while
+115	23013	1	22	0	2824489	Today should be interesting as people realize how hard life is going to be here for a while .	14571	a	224	Measure_duration	MANUAL	4531271	84	84	AlK	a
+115	23013	1	22	0	2824489	Today should be interesting as people realize how hard life is going to be here for a while .	14175	here.adv	199	Locative_relation	MANUAL	4531272	75	78	AlK	here
+115	23013	1	23	0	2824490	4:30 a.m. KIM : I got home , let the dogs into the house and noticed some sounds above my head , as if someone were walking on the roof , or upstairs .	null	null	null	null	UNANN	4528485	null	null	null	null
+115	23013	1	23	0	2824490	4:30 a.m. KIM : I got home , let the dogs into the house and noticed some sounds above my head , as if someone were walking on the roof , or upstairs .	3012	home.n	173	Buildings	MANUAL	4528894	22	25	cir	home
+115	23013	1	23	0	2824490	4:30 a.m. KIM : I got home , let the dogs into the house and noticed some sounds above my head , as if someone were walking on the roof , or upstairs .	2999	house.n	173	Buildings	MANUAL	4528895	51	55	cir	house
+115	23013	1	23	0	2824490	4:30 a.m. KIM : I got home , let the dogs into the house and noticed some sounds above my head , as if someone were walking on the roof , or upstairs .	177	notice.v	20	Becoming_aware	MANUAL	4528896	61	67	cir	noticed
+115	23013	1	23	0	2824490	4:30 a.m. KIM : I got home , let the dogs into the house and noticed some sounds above my head , as if someone were walking on the roof , or upstairs .	1557	sound.n	71	Sensation	MANUAL	4528899	74	79	cir	sounds
+115	23013	1	23	0	2824490	4:30 a.m. KIM : I got home , let the dogs into the house and noticed some sounds above my head , as if someone were walking on the roof , or upstairs .	17961	above.prep	2912	Directional_locative_relation	MANUAL	4528903	81	85	cir	above
+115	23013	1	23	0	2824490	4:30 a.m. KIM : I got home , let the dogs into the house and noticed some sounds above my head , as if someone were walking on the roof , or upstairs .	2410	head.n	119	Body_parts	MANUAL	4528904	90	93	cir	head
+115	23013	1	23	0	2824490	4:30 a.m. KIM : I got home , let the dogs into the house and noticed some sounds above my head , as if someone were walking on the roof , or upstairs .	8350	walk.v	64	Self_motion	MANUAL	4528905	116	122	cir	walking
+115	23013	1	23	0	2824490	4:30 a.m. KIM : I got home , let the dogs into the house and noticed some sounds above my head , as if someone were walking on the roof , or upstairs .	10068	roof.n	971	Architectural_part	MANUAL	4528906	131	134	cir	roof
+115	23013	1	23	0	2824490	4:30 a.m. KIM : I got home , let the dogs into the house and noticed some sounds above my head , as if someone were walking on the roof , or upstairs .	4885	get.v	54	Arriving	MANUAL	4529637	18	20	MJE	got
+115	23013	1	23	0	2824490	4:30 a.m. KIM : I got home , let the dogs into the house and noticed some sounds above my head , as if someone were walking on the roof , or upstairs .	17780	on.prep	2890	Spatial_contact	MANUAL	4531273	124	125	AlK	on
+115	23013	2	23	0	2824491	Then I noticed the car was bouncing up and down as if someone were jumping on it .	null	null	null	null	UNANN	4528486	null	null	null	null
+115	23013	2	23	0	2824491	Then I noticed the car was bouncing up and down as if someone were jumping on it .	177	notice.v	20	Becoming_aware	MANUAL	4528907	7	13	cir	noticed
+115	23013	2	23	0	2824491	Then I noticed the car was bouncing up and down as if someone were jumping on it .	7808	car.n	429	Vehicle	MANUAL	4528908	19	21	cir	car
+115	23013	2	23	0	2824491	Then I noticed the car was bouncing up and down as if someone were jumping on it .	1185	jump.v	64	Self_motion	MANUAL	4528909	67	73	cir	jumping
+115	23013	3	23	0	2824492	I realized what was happening and screamed into the house for the dogs .	null	null	null	null	UNANN	4528487	null	null	null	null
+115	23013	3	23	0	2824492	I realized what was happening and screamed into the house for the dogs .	232	realize.v	23	Coming_to_believe	MANUAL	4528910	2	9	cir	realized
+115	23013	3	23	0	2824492	I realized what was happening and screamed into the house for the dogs .	4886	happen.v	187	Event	MANUAL	4528911	20	28	cir	happening
+115	23013	3	23	0	2824492	I realized what was happening and screamed into the house for the dogs .	9174	scream.v	69	Make_noise	MANUAL	4528912	34	41	cir	screamed
+115	23013	3	23	0	2824492	I realized what was happening and screamed into the house for the dogs .	2999	house.n	173	Buildings	MANUAL	4528917	52	56	cir	house
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	null	null	null	null	UNANN	4528488	null	null	null	null
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	10268	door.n	1025	Connecting_architecture	MANUAL	4528918	9	13	cir	doors
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	6268	fly.v	7	Motion	MANUAL	4528919	20	25	cir	flying
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	1667	can.n	78	Containers	MANUAL	4528924	39	41	cir	can
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	8350	walk.v	64	Self_motion	MANUAL	4528928	58	63	cir	walked
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	941	come.v	54	Arriving	MANUAL	4528930	87	90	cir	came
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	1320	watch.v	66	Perception_active	MANUAL	4528934	172	179	cir	watching
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	1667	can.n	78	Containers	MANUAL	4528935	199	202	cir	cans
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	1167	dance.v	64	Self_motion	MANUAL	4528936	204	208	cir	dance
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	1207	run.v	64	Self_motion	MANUAL	4530291	92	98	RLG	running
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	10904	scoot.v	55	Cause_motion	MANUAL	4530292	108	114	RLG	scooted
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	3187	kitchen.n	188	Building_subparts	MANUAL	4530302	50	56	RLG	kitchen
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4531274	43	44	AlK	in
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	13370	a	189	Quantified_mass	MANUAL	4531275	65	65	EGp	a
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	13370	a	189	Quantified_mass	MANUAL	4531275	67	69	EGp	few
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	2815	foot.n	154	Measure_linear_extent	MANUAL	4531276	71	74	AlK	feet
+115	23013	4	23	0	2824493	Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .	141	stand.v	18	Posture	MANUAL	4531277	142	146	AlK	stood
+115	23013	1	24	0	2824494	When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .	null	null	null	null	UNANN	4528489	null	null	null	null
+115	23013	1	24	0	2824494	When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .	232	realize.v	23	Coming_to_believe	MANUAL	4528955	7	14	cir	realized
+115	23013	1	24	0	2824494	When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .	4345	go.v	7	Motion	MANUAL	4528965	32	35	cir	went
+115	23013	1	24	0	2824494	When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .	2999	house.n	173	Buildings	MANUAL	4528969	67	71	cir	house
+115	23013	1	24	0	2824494	When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .	941	come.v	54	Arriving	MANUAL	4528976	110	113	cir	come
+115	23013	1	24	0	2824494	When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .	3012	home.n	173	Buildings	MANUAL	4528977	115	118	cir	home
+115	23013	1	24	0	2824494	When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .	4084	shiver.v	16	Body_movement	MANUAL	4528979	122	130	cir	shivering
+115	23013	1	24	0	2824494	When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .	4885	get.v	54	Arriving	MANUAL	4528981	169	171	cir	got
+115	23013	1	24	0	2824494	When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .	5767	over.a	234	Process_completed_state	MANUAL	4530293	23	26	RLG	over
+115	23013	1	24	0	2824494	When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .	12449	wait.v	1561	Waiting	MANUAL	4531198	75	81	AlK	waiting
+115	23013	1	24	0	2824494	When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .	141	stand.v	18	Posture	MANUAL	4531278	41	45	AlK	stood
+115	23013	1	24	0	2824494	When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .	5488	pray.v	301	Rite	MANUAL	4531279	87	93	AlK	praying
+115	23013	1	24	0	2824494	When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .	14602	until.prep	379	Time_vector	MANUAL	4531282	160	164	AlK	until
+115	23013	2	24	0	2824495	Never in my life have I been so frightened .	null	null	null	null	UNANN	4528490	null	null	null	null
+115	23013	2	24	0	2824495	Never in my life have I been so frightened .	14944	frightened.a	2052	Fear	MANUAL	4530917	32	41	AlK	frightened
+115	23013	2	24	0	2824495	Never in my life have I been so frightened .	14104	never.adv	80	Frequency	MANUAL	4531284	0	4	AlK	Never
+115	23013	2	24	0	2824495	Never in my life have I been so frightened .	14080	in.prep	1895	Temporal_collocation	MANUAL	4531285	6	7	AlK	in
+115	23013	2	24	0	2824495	Never in my life have I been so frightened .	14742	so.adv	2001	Degree	MANUAL	4531286	29	30	AlK	so
+115	23013	3	24	0	2824496	When I saw the pictures of 880 and the Bay Bridge , I began to cry .	null	null	null	null	UNANN	4528491	null	null	null	null
+115	23013	3	24	0	2824496	When I saw the pictures of 880 and the Bay Bridge , I began to cry .	1535	see.v	70	Perception_experience	MANUAL	4528982	7	9	cir	saw
+115	23013	3	24	0	2824496	When I saw the pictures of 880 and the Bay Bridge , I began to cry .	584	cry.v	39	Communication_noise	MANUAL	4528983	63	65	cir	cry
+115	23013	3	24	0	2824496	When I saw the pictures of 880 and the Bay Bridge , I began to cry .	2656	begin.v	133	Process_start	MANUAL	4529640	54	58	MJE	began
+115	23013	3	24	0	2824496	When I saw the pictures of 880 and the Bay Bridge , I began to cry .	14147	when.adv	1895	Temporal_collocation	MANUAL	4531287	0	3	AlK	When
+115	23013	3	24	0	2824496	When I saw the pictures of 880 and the Bay Bridge , I began to cry .	12952	picture.n	1656	Physical_artworks	MANUAL	4531288	15	22	AlK	pictures
+115	23013	3	24	0	2824496	When I saw the pictures of 880 and the Bay Bridge , I began to cry .	3790	bridge.n	203	Roadways	MANUAL	4531289	43	48	AlK	Bridge
+115	23013	1	25	0	2824497	5:09 a.m. JROE : The Sunset { District } was more or less like a pajama party all evening , lots of people &amp; dogs walking around , drinking beer .	null	null	null	null	UNANN	4528492	null	null	null	null
+115	23013	1	25	0	2824497	5:09 a.m. JROE : The Sunset { District } was more or less like a pajama party all evening , lots of people &amp; dogs walking around , drinking beer .	8995	like.prep	481	Similarity	MANUAL	4528988	58	61	cir	like
+115	23013	1	25	0	2824497	5:09 a.m. JROE : The Sunset { District } was more or less like a pajama party all evening , lots of people &amp; dogs walking around , drinking beer .	2521	party.n	125	Social_event	MANUAL	4528990	72	76	cir	party
+115	23013	1	25	0	2824497	5:09 a.m. JROE : The Sunset { District } was more or less like a pajama party all evening , lots of people &amp; dogs walking around , drinking beer .	5511	people.n	304	People	MANUAL	4528991	100	105	cir	people
+115	23013	1	25	0	2824497	5:09 a.m. JROE : The Sunset { District } was more or less like a pajama party all evening , lots of people &amp; dogs walking around , drinking beer .	8350	walk.v	64	Self_motion	MANUAL	4528992	114	120	cir	ogs wal
+115	23013	1	25	0	2824497	5:09 a.m. JROE : The Sunset { District } was more or less like a pajama party all evening , lots of people &amp; dogs walking around , drinking beer .	4808	drink.v	263	Ingestion	MANUAL	4528993	131	138	cir	d , drin
+115	23013	1	25	0	2824497	5:09 a.m. JROE : The Sunset { District } was more or less like a pajama party all evening , lots of people &amp; dogs walking around , drinking beer .	4062	evening.n	229	Calendric_unit	MANUAL	4530108	82	88	JKR	evening
+115	23013	1	25	0	2824497	5:09 a.m. JROE : The Sunset { District } was more or less like a pajama party all evening , lots of people &amp; dogs walking around , drinking beer .	6753	around.prep	199	Locative_relation	MANUAL	4531290	122	127	AlK	ing ar
+115	23013	1	26	0	2824498	6:50 a.m. CAROLG : I was just sitting down to meet with some new therapy clients , a couple , and the building started shaking like crazy .	null	null	null	null	UNANN	4528493	null	null	null	null
+115	23013	1	26	0	2824498	6:50 a.m. CAROLG : I was just sitting down to meet with some new therapy clients , a couple , and the building started shaking like crazy .	9381	sit	770	Change_posture	MANUAL	4529013	30	36	EGp	sitting
+115	23013	1	26	0	2824498	6:50 a.m. CAROLG : I was just sitting down to meet with some new therapy clients , a couple , and the building started shaking like crazy .	9381	sit	770	Change_posture	MANUAL	4529013	38	41	EGp	down
+115	23013	1	26	0	2824498	6:50 a.m. CAROLG : I was just sitting down to meet with some new therapy clients , a couple , and the building started shaking like crazy .	4629	therapy.n	256	Medical_specialties	MANUAL	4529016	65	71	cir	therapy
+115	23013	1	26	0	2824498	6:50 a.m. CAROLG : I was just sitting down to meet with some new therapy clients , a couple , and the building started shaking like crazy .	2031	couple.n	102	Personal_relationship	MANUAL	4529017	85	90	cir	couple
+115	23013	1	26	0	2824498	6:50 a.m. CAROLG : I was just sitting down to meet with some new therapy clients , a couple , and the building started shaking like crazy .	2655	start.v	133	Process_start	MANUAL	4529019	111	117	cir	started
+115	23013	1	26	0	2824498	6:50 a.m. CAROLG : I was just sitting down to meet with some new therapy clients , a couple , and the building started shaking like crazy .	9107	shake.v	670	Moving_in_place	MANUAL	4529022	119	125	cir	shaking
+115	23013	1	26	0	2824498	6:50 a.m. CAROLG : I was just sitting down to meet with some new therapy clients , a couple , and the building started shaking like crazy .	10869	building.n	173	Buildings	MANUAL	4530101	102	109	Hay	building
+115	23013	1	26	0	2824498	6:50 a.m. CAROLG : I was just sitting down to meet with some new therapy clients , a couple , and the building started shaking like crazy .	15664	meet	2238	Meet_with	MANUAL	4531291	46	49	EGp	meet
+115	23013	1	26	0	2824498	6:50 a.m. CAROLG : I was just sitting down to meet with some new therapy clients , a couple , and the building started shaking like crazy .	15664	meet	2238	Meet_with	MANUAL	4531291	51	54	EGp	with
+115	23013	1	26	0	2824498	6:50 a.m. CAROLG : I was just sitting down to meet with some new therapy clients , a couple , and the building started shaking like crazy .	14290	some.art	1923	Proportional_quantity	MANUAL	4531292	56	59	AlK	some
+115	23013	1	26	0	2824498	6:50 a.m. CAROLG : I was just sitting down to meet with some new therapy clients , a couple , and the building started shaking like crazy .	12566	new.a	1597	Familiarity	MANUAL	4531293	61	63	AlK	new
+115	23013	2	26	0	2824499	It 's a flimsy structure , built up on supports , and it was really rocking around .	null	null	null	null	UNANN	4528494	null	null	null	null
+115	23013	2	26	0	2824499	It 's a flimsy structure , built up on supports , and it was really rocking around .	10921	structure.n	173	Buildings	MANUAL	4530125	15	23	JKR	structure
+115	23013	2	26	0	2824499	It 's a flimsy structure , built up on supports , and it was really rocking around .	10880	rock.v	670	Moving_in_place	MANUAL	4530294	68	74	RLG	rocking
+115	23013	2	26	0	2824499	It 's a flimsy structure , built up on supports , and it was really rocking around .	4738	build.v	259	Building	MANUAL	4531294	27	31	AlK	built
+115	23013	2	26	0	2824499	It 's a flimsy structure , built up on supports , and it was really rocking around .	17780	on.prep	2890	Spatial_contact	MANUAL	4531295	36	37	AlK	on
+115	23013	3	26	0	2824500	The three of us stopped breathing for a moment , and then when it kept on coming we lunged for the doorway .	null	null	null	null	UNANN	4528495	null	null	null	null
+115	23013	3	26	0	2824500	The three of us stopped breathing for a moment , and then when it kept on coming we lunged for the doorway .	3845	three.num	218	Cardinal_numbers	MANUAL	4529025	4	8	cir	three
+115	23013	3	26	0	2824500	The three of us stopped breathing for a moment , and then when it kept on coming we lunged for the doorway .	2788	stop.v	144	Process_stop	MANUAL	4529026	16	22	cir	stopped
+115	23013	3	26	0	2824500	The three of us stopped breathing for a moment , and then when it kept on coming we lunged for the doorway .	4957	breathe.v	272	Breathing	MANUAL	4529027	24	32	cir	breathing
+115	23013	3	26	0	2824500	The three of us stopped breathing for a moment , and then when it kept on coming we lunged for the doorway .	4347	keep.v	164	Activity_ongoing	MANUAL	4529028	66	69	cir	kept
+115	23013	3	26	0	2824500	The three of us stopped breathing for a moment , and then when it kept on coming we lunged for the doorway .	941	come.v	54	Arriving	MANUAL	4529029	74	79	cir	coming
+115	23013	3	26	0	2824500	The three of us stopped breathing for a moment , and then when it kept on coming we lunged for the doorway .	1190	lunge.v	64	Self_motion	MANUAL	4529030	84	89	cir	lunged
+115	23013	3	26	0	2824500	The three of us stopped breathing for a moment , and then when it kept on coming we lunged for the doorway .	14147	when.adv	1895	Temporal_collocation	MANUAL	4531296	58	61	AlK	when
+115	23013	4	26	0	2824501	Needless to say , it was an interesting first session !	null	null	null	null	UNANN	4528496	null	null	null	null
+115	23013	4	26	0	2824501	Needless to say , it was an interesting first session !	14920	interesting.a	2046	Mental_stimulus_stimulus_focus	MANUAL	4529031	28	38	cir	interesting
+115	23013	4	26	0	2824501	Needless to say , it was an interesting first session !	11248	first.a	1147	Ordinal_numbers	MANUAL	4530365	40	44	RLG	first
+115	23013	4	26	0	2824501	Needless to say , it was an interesting first session !	751	say.v	43	Statement	MANUAL	4531297	12	14	AlK	say
+115	23013	1	27	0	2824502	7:13 a.m. CALLIOPE : Albany escaped embarrassingly unscathed .	null	null	null	null	UNANN	4528497	null	null	null	null
+115	23013	1	27	0	2824502	7:13 a.m. CALLIOPE : Albany escaped embarrassingly unscathed .	4999	escape.v	274	Avoiding	MANUAL	4529032	28	34	cir	escaped
+115	23013	2	27	0	2824503	Biggest trouble was scared family who could n't get a phone line through , and spent a really horrible hour not knowing .	null	null	null	null	UNANN	4528498	null	null	null	null
+115	23013	2	27	0	2824503	Biggest trouble was scared family who could n't get a phone line through , and spent a really horrible hour not knowing .	7357	trouble.n	300	Predicament	MANUAL	4529033	8	14	cir	trouble
+115	23013	2	27	0	2824503	Biggest trouble was scared family who could n't get a phone line through , and spent a really horrible hour not knowing .	6302	scared.a	48	Experiencer_focus	MANUAL	4529034	20	25	cir	scared
+115	23013	2	27	0	2824503	Biggest trouble was scared family who could n't get a phone line through , and spent a really horrible hour not knowing .	2307	family.n	104	Kinship	MANUAL	4529035	27	32	cir	family
+115	23013	2	27	0	2824503	Biggest trouble was scared family who could n't get a phone line through , and spent a really horrible hour not knowing .	6272	horrible.a	354	Desirability	MANUAL	4529038	94	101	cir	horrible
+115	23013	2	27	0	2824503	Biggest trouble was scared family who could n't get a phone line through , and spent a really horrible hour not knowing .	3872	hour.n	224	Measure_duration	MANUAL	4529040	103	106	cir	hour
+115	23013	2	27	0	2824503	Biggest trouble was scared family who could n't get a phone line through , and spent a really horrible hour not knowing .	160	know.v	19	Awareness	MANUAL	4529041	112	118	cir	knowing
+115	23013	2	27	0	2824503	Biggest trouble was scared family who could n't get a phone line through , and spent a really horrible hour not knowing .	10156	can.v	990	Capability	MANUAL	4530295	38	42	RLG	could
+115	23013	1	28	0	2824504	8:01 a.m. HLR : Judy and I were in our back yard when the lawn started rolling like ocean waves .	null	null	null	null	UNANN	4528499	null	null	null	null
+115	23013	1	28	0	2824504	8:01 a.m. HLR : Judy and I were in our back yard when the lawn started rolling like ocean waves .	2655	start.v	133	Process_start	MANUAL	4529043	63	69	cir	started
+115	23013	1	28	0	2824504	8:01 a.m. HLR : Judy and I were in our back yard when the lawn started rolling like ocean waves .	3499	ocean.n	191	Natural_features	MANUAL	4529045	84	88	cir	ocean
+115	23013	1	28	0	2824504	8:01 a.m. HLR : Judy and I were in our back yard when the lawn started rolling like ocean waves .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4529643	32	33	MJE	in
+115	23013	1	28	0	2824504	8:01 a.m. HLR : Judy and I were in our back yard when the lawn started rolling like ocean waves .	10881	roll.v	670	Moving_in_place	MANUAL	4530576	71	77	RLG	rolling
+115	23013	1	28	0	2824504	8:01 a.m. HLR : Judy and I were in our back yard when the lawn started rolling like ocean waves .	14147	when.adv	1895	Temporal_collocation	MANUAL	4531298	49	52	AlK	when
+115	23013	2	28	0	2824505	We ran into the house to get Mame , but the next tremor threw me in the air and bounced me as I tried to get to my feet .	null	null	null	null	UNANN	4528500	null	null	null	null
+115	23013	2	28	0	2824505	We ran into the house to get Mame , but the next tremor threw me in the air and bounced me as I tried to get to my feet .	1207	run.v	64	Self_motion	MANUAL	4529046	3	5	cir	ran
+115	23013	2	28	0	2824505	We ran into the house to get Mame , but the next tremor threw me in the air and bounced me as I tried to get to my feet .	2999	house.n	173	Buildings	MANUAL	4529048	16	20	cir	house
+115	23013	2	28	0	2824505	We ran into the house to get Mame , but the next tremor threw me in the air and bounced me as I tried to get to my feet .	960	throw.v	55	Cause_motion	MANUAL	4529049	56	60	cir	threw
+115	23013	2	28	0	2824505	We ran into the house to get Mame , but the next tremor threw me in the air and bounced me as I tried to get to my feet .	2465	try.v	116	Attempt	MANUAL	4529050	96	100	cir	tried
+115	23013	2	28	0	2824505	We ran into the house to get Mame , but the next tremor threw me in the air and bounced me as I tried to get to my feet .	2404	foot.n	119	Body_parts	MANUAL	4529051	115	118	cir	feet
+115	23013	2	28	0	2824505	We ran into the house to get Mame , but the next tremor threw me in the air and bounced me as I tried to get to my feet .	12028	get.v	240	Bringing	MANUAL	4531299	25	27	AlK	get
+115	23013	3	28	0	2824506	We are all fine here , although Mame was extremely freaked .	null	null	null	null	UNANN	4528501	null	null	null	null
+115	23013	3	28	0	2824506	We are all fine here , although Mame was extremely freaked .	14948	freaked.a	2052	Fear	MANUAL	4530918	51	57	AlK	freaked
+115	23013	3	28	0	2824506	We are all fine here , although Mame was extremely freaked .	13747	all.a	189	Quantified_mass	MANUAL	4531301	7	9	AlK	all
+115	23013	3	28	0	2824506	We are all fine here , although Mame was extremely freaked .	14175	here.adv	199	Locative_relation	MANUAL	4531302	16	19	AlK	here
+115	23013	3	28	0	2824506	We are all fine here , although Mame was extremely freaked .	15425	although.scon	2150	Concessive	MANUAL	4531303	23	30	AlK	although
+115	23013	4	28	0	2824507	Kitchen full of broken crystal .	null	null	null	null	UNANN	4528502	null	null	null	null
+115	23013	4	28	0	2824507	Kitchen full of broken crystal .	7010	full.a	262	Abounding_with	MANUAL	4529053	8	11	cir	full
+115	23013	4	28	0	2824507	Kitchen full of broken crystal .	10848	broken.a	1200	Being_operational	MANUAL	4529650	16	21	MJE	broken
+115	23013	4	28	0	2824507	Kitchen full of broken crystal .	3187	kitchen.n	188	Building_subparts	MANUAL	4531304	0	6	AlK	Kitchen
+115	23013	5	28	0	2824508	Books and tapes all over my room .	null	null	null	null	UNANN	4528503	null	null	null	null
+115	23013	5	28	0	2824508	Books and tapes all over my room .	5453	book.n	298	Text	MANUAL	4529054	0	4	cir	Books
+115	23013	5	28	0	2824508	Books and tapes all over my room .	3159	room.n	188	Building_subparts	MANUAL	4530114	28	31	JKR	room
+115	23013	5	28	0	2824508	Books and tapes all over my room .	10883	all	199	Locative_relation	MANUAL	4531305	16	18	EGp	all
+115	23013	5	28	0	2824508	Books and tapes all over my room .	10883	all	199	Locative_relation	MANUAL	4531305	20	23	EGp	over
+115	23013	6	28	0	2824509	Not one thing in the house is where it is supposed to be , but the structure is fine .	null	null	null	null	UNANN	4528504	null	null	null	null
+115	23013	6	28	0	2824509	Not one thing in the house is where it is supposed to be , but the structure is fine .	2999	house.n	173	Buildings	MANUAL	4529058	21	25	cir	house
+115	23013	6	28	0	2824509	Not one thing in the house is where it is supposed to be , but the structure is fine .	3843	one.num	218	Cardinal_numbers	MANUAL	4531306	4	6	AlK	one
+115	23013	6	28	0	2824509	Not one thing in the house is where it is supposed to be , but the structure is fine .	10801	in.prep	1178	Interior_profile_relation	MANUAL	4531307	14	15	AlK	in
+115	23013	6	28	0	2824509	Not one thing in the house is where it is supposed to be , but the structure is fine .	15429	but.c	2150	Concessive	MANUAL	4531308	59	61	AlK	but
+115	23013	7	28	0	2824510	While I was standing on the lawn with Mame , waiting for another tremor , I noticed that all the earthworms were emerging from the ground and slithering across the lawn !	null	null	null	null	UNANN	4528505	null	null	null	null
+115	23013	7	28	0	2824510	While I was standing on the lawn with Mame , waiting for another tremor , I noticed that all the earthworms were emerging from the ground and slithering across the lawn !	4685	with.prep	258	Accompaniment	MANUAL	4529060	33	36	cir	with
+115	23013	7	28	0	2824510	While I was standing on the lawn with Mame , waiting for another tremor , I noticed that all the earthworms were emerging from the ground and slithering across the lawn !	10175	another.a	1001	Increment	MANUAL	4529062	57	63	cir	another
+115	23013	7	28	0	2824510	While I was standing on the lawn with Mame , waiting for another tremor , I noticed that all the earthworms were emerging from the ground and slithering across the lawn !	177	notice.v	20	Becoming_aware	MANUAL	4529064	76	82	cir	noticed
+115	23013	7	28	0	2824510	While I was standing on the lawn with Mame , waiting for another tremor , I noticed that all the earthworms were emerging from the ground and slithering across the lawn !	9104	emerge.v	57	Departing	MANUAL	4529068	113	120	cir	emerging
+115	23013	7	28	0	2824510	While I was standing on the lawn with Mame , waiting for another tremor , I noticed that all the earthworms were emerging from the ground and slithering across the lawn !	1224	slither.v	64	Self_motion	MANUAL	4529070	142	151	cir	slithering
+115	23013	7	28	0	2824510	While I was standing on the lawn with Mame , waiting for another tremor , I noticed that all the earthworms were emerging from the ground and slithering across the lawn !	12449	wait.v	1561	Waiting	MANUAL	4531199	45	51	AlK	waiting
+115	23013	7	28	0	2824510	While I was standing on the lawn with Mame , waiting for another tremor , I noticed that all the earthworms were emerging from the ground and slithering across the lawn !	17228	while.c	1895	Temporal_collocation	MANUAL	4531309	0	4	AlK	While
+115	23013	7	28	0	2824510	While I was standing on the lawn with Mame , waiting for another tremor , I noticed that all the earthworms were emerging from the ground and slithering across the lawn !	141	stand.v	18	Posture	MANUAL	4531310	12	19	AlK	standing
+115	23013	7	28	0	2824510	While I was standing on the lawn with Mame , waiting for another tremor , I noticed that all the earthworms were emerging from the ground and slithering across the lawn !	17780	on.prep	2890	Spatial_contact	MANUAL	4531311	21	22	AlK	on
+115	23013	7	28	0	2824510	While I was standing on the lawn with Mame , waiting for another tremor , I noticed that all the earthworms were emerging from the ground and slithering across the lawn !	13747	all.a	189	Quantified_mass	MANUAL	4531312	89	91	AlK	all
+115	23013	1	29	0	2824511	9:31 a.m. GR8FLRED : It 's amazing how one second can so completely change your life .	null	null	null	null	UNANN	4528506	null	null	null	null
+115	23013	1	29	0	2824511	9:31 a.m. GR8FLRED : It 's amazing how one second can so completely change your life .	7653	amazing.a	364	Stimulus_focus	MANUAL	4529071	27	33	cir	amazing
+115	23013	1	29	0	2824511	9:31 a.m. GR8FLRED : It 's amazing how one second can so completely change your life .	3874	second.n	224	Measure_duration	MANUAL	4529072	43	48	cir	second
+115	23013	1	29	0	2824511	9:31 a.m. GR8FLRED : It 's amazing how one second can so completely change your life .	9269	change.v	683	Cause_change	MANUAL	4529646	68	73	MJE	change
+115	23013	1	29	0	2824511	9:31 a.m. GR8FLRED : It 's amazing how one second can so completely change your life .	15260	can.v	2120	Possibility	MANUAL	6683813	50	52	WMcQ	can
+115	23013	1	30	0	2824512	9:38 a.m. FIG : I guess we 're all living very tentatively here , waiting for the expected but dreaded aftershock .	null	null	null	null	UNANN	4528507	null	null	null	null
+115	23013	1	30	0	2824512	9:38 a.m. FIG : I guess we 're all living very tentatively here , waiting for the expected but dreaded aftershock .	227	guess.v	23	Coming_to_believe	MANUAL	4529076	18	22	cir	guess
+115	23013	1	30	0	2824512	9:38 a.m. FIG : I guess we 're all living very tentatively here , waiting for the expected but dreaded aftershock .	2220	live.v	110	Residence	MANUAL	4529079	35	40	cir	living
+115	23013	1	30	0	2824512	9:38 a.m. FIG : I guess we 're all living very tentatively here , waiting for the expected but dreaded aftershock .	255	expect.v	26	Expectation	MANUAL	4529647	82	89	MJE	expected
+115	23013	1	30	0	2824512	9:38 a.m. FIG : I guess we 're all living very tentatively here , waiting for the expected but dreaded aftershock .	12449	wait.v	1561	Waiting	MANUAL	4531200	66	72	AlK	waiting
+115	23013	1	30	0	2824512	9:38 a.m. FIG : I guess we 're all living very tentatively here , waiting for the expected but dreaded aftershock .	13747	all.a	189	Quantified_mass	MANUAL	4531349	31	33	AlK	all
+115	23013	1	30	0	2824512	9:38 a.m. FIG : I guess we 're all living very tentatively here , waiting for the expected but dreaded aftershock .	14745	very.adv	2001	Degree	MANUAL	4531350	42	45	AlK	very
+115	23013	2	30	0	2824513	It 's hard to accept that it 's over and only took 15 seconds .	null	null	null	null	UNANN	4528508	null	null	null	null
+115	23013	2	30	0	2824513	It 's hard to accept that it 's over and only took 15 seconds .	6569	hard.a	375	Difficulty	MANUAL	4529086	6	9	cir	hard
+115	23013	2	30	0	2824513	It 's hard to accept that it 's over and only took 15 seconds .	5767	over.a	234	Process_completed_state	MANUAL	4529088	32	35	cir	over
+115	23013	2	30	0	2824513	It 's hard to accept that it 's over and only took 15 seconds .	10042	take.v	967	Taking_time	MANUAL	4529089	46	49	cir	took
+115	23013	2	30	0	2824513	It 's hard to accept that it 's over and only took 15 seconds .	3874	second.n	224	Measure_duration	MANUAL	4529090	54	60	cir	seconds
+115	23013	2	30	0	2824513	It 's hard to accept that it 's over and only took 15 seconds .	14339	fifteen.num	218	Cardinal_numbers	MANUAL	4531348	51	52	AlK	15
+115	23013	3	30	0	2824514	I wonder when we 'll be able to relax .	null	null	null	null	UNANN	4528509	null	null	null	null
+115	23013	3	30	0	2824514	I wonder when we 'll be able to relax .	10154	able.a	990	Capability	MANUAL	4529091	24	27	cir	able
+115	23013	3	30	0	2824514	I wonder when we 'll be able to relax .	10866	wonder.v	22	Cogitation	MANUAL	4530654	2	7	Amy	wonder
+115	23013	1	31	0	2824515	9:53 a.m. PANDA : Flesh goes to total alert for flight or fight .	null	null	null	null	UNANN	4528510	null	null	null	null
+115	23013	1	31	0	2824515	9:53 a.m. PANDA : Flesh goes to total alert for flight or fight .	2403	flesh.n	119	Body_parts	MANUAL	4529092	18	22	cir	Flesh
+115	23013	1	31	0	2824515	9:53 a.m. PANDA : Flesh goes to total alert for flight or fight .	18224	go.v	2972	Transition_to_a_quality	MANUAL	4529094	24	27	cir	goes
+115	23013	1	31	0	2824515	9:53 a.m. PANDA : Flesh goes to total alert for flight or fight .	9726	alert.a	791	Attention	MANUAL	4529098	38	42	cir	alert
+115	23013	1	31	0	2824515	9:53 a.m. PANDA : Flesh goes to total alert for flight or fight .	1910	fight.n	93	Hostile_encounter	MANUAL	4529101	58	62	cir	fight
+115	23013	2	31	0	2824516	Nausea seems a commonplace symptom .	null	null	null	null	UNANN	4528511	null	null	null	null
+115	23013	2	31	0	2824516	Nausea seems a commonplace symptom .	7244	nausea.n	394	Biological_urge	MANUAL	4529102	0	5	MJE	Nausea
+115	23013	2	31	0	2824516	Nausea seems a commonplace symptom .	1325	seem.v	67	Give_impression	MANUAL	4529103	7	11	cir	seems
+115	23013	2	31	0	2824516	Nausea seems a commonplace symptom .	7803	symptom.n	428	Sign	MANUAL	4529105	27	33	cir	symptom
+115	23013	2	31	0	2824516	Nausea seems a commonplace symptom .	10884	commonplace.a	1134	Typicality	MANUAL	4531353	15	25	AlK	commonplace
+115	23013	3	31	0	2824517	Berkeley very quiet right now .	null	null	null	null	UNANN	4528512	null	null	null	null
+115	23013	3	31	0	2824517	Berkeley very quiet right now .	14745	very.adv	2001	Degree	MANUAL	4531354	9	12	AlK	very
+115	23013	3	31	0	2824517	Berkeley very quiet right now .	14083	now.adv	1895	Temporal_collocation	MANUAL	4531355	26	28	AlK	now
+115	23013	4	31	0	2824518	I walked along Shattuck between Delaware and Cedar at a few minutes before eight this morning .	null	null	null	null	UNANN	4528513	null	null	null	null
+115	23013	4	31	0	2824518	I walked along Shattuck between Delaware and Cedar at a few minutes before eight this morning .	8350	walk.v	64	Self_motion	MANUAL	4529108	2	7	cir	walked
+115	23013	4	31	0	2824518	I walked along Shattuck between Delaware and Cedar at a few minutes before eight this morning .	6765	along.prep	199	Locative_relation	MANUAL	4529109	9	13	cir	along
+115	23013	4	31	0	2824518	I walked along Shattuck between Delaware and Cedar at a few minutes before eight this morning .	3873	minute.n	224	Measure_duration	MANUAL	4529111	60	66	cir	minutes
+115	23013	4	31	0	2824518	I walked along Shattuck between Delaware and Cedar at a few minutes before eight this morning .	6716	before.prep	379	Time_vector	MANUAL	4529112	68	73	cir	before
+115	23013	4	31	0	2824518	I walked along Shattuck between Delaware and Cedar at a few minutes before eight this morning .	3956	morning.n	229	Calendric_unit	MANUAL	4530297	86	92	RLG	morning
+115	23013	4	31	0	2824518	I walked along Shattuck between Delaware and Cedar at a few minutes before eight this morning .	17226	between.prep	1178	Interior_profile_relation	MANUAL	4531356	24	30	AlK	between
+115	23013	4	31	0	2824518	I walked along Shattuck between Delaware and Cedar at a few minutes before eight this morning .	14082	at.prep	1895	Temporal_collocation	MANUAL	4531357	51	52	AlK	at
+115	23013	4	31	0	2824518	I walked along Shattuck between Delaware and Cedar at a few minutes before eight this morning .	13370	a	189	Quantified_mass	MANUAL	4531358	54	54	EGp	a
+115	23013	4	31	0	2824518	I walked along Shattuck between Delaware and Cedar at a few minutes before eight this morning .	13370	a	189	Quantified_mass	MANUAL	4531358	56	58	EGp	few
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	null	null	null	null	UNANN	4528514	null	null	null	null
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	2031	couple.n	102	Personal_relationship	MANUAL	4529114	32	37	cir	couple
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	7730	blue.a	423	Color	MANUAL	4529116	56	59	cir	blue
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	9382	sit	770	Change_posture	MANUAL	4529118	76	78	EGp	sat
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	9382	sit	770	Change_posture	MANUAL	4529118	80	81	EGp	up
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	751	say.v	43	Statement	MANUAL	4529120	85	88	cir	said
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	5527	woman.n	304	People	MANUAL	4529124	124	128	cir	woman
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	9738	smile.v	794	Making_faces	MANUAL	4529126	130	135	cir	smiled
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	751	say.v	43	Statement	MANUAL	4529128	139	142	cir	said
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	6316	great.a	354	Desirability	MANUAL	4529648	159	163	MJE	great
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	5644	alive.a	310	Dead_or_alive	MANUAL	4529649	176	180	MJE	alive
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	17806	next	2891	Adjacency	MANUAL	4530400	0	3	RLG	Next
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	17806	next	2891	Adjacency	MANUAL	4530400	5	6	RLG	to
+115	23013	5	31	0	2824519	Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning '' and then the woman smiled , said , `` Is n't it great just to be alive ? '' I agreed .	12256	agree.v	1496	Be_in_agreement_on_assessment	MANUAL	4530566	189	194	RLG	agreed
+115	23013	6	31	0	2824520	It is .	null	null	null	null	UNANN	4528515	null	null	null	null
+115	23013	7	31	0	2824521	Great .	null	null	null	null	UNANN	4528516	null	null	null	null
+115	23013	7	31	0	2824521	Great .	6316	great.a	354	Desirability	MANUAL	4529132	0	4	cir	Great

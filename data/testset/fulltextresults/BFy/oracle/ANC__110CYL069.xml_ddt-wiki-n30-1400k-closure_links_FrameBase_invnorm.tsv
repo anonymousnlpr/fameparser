@@ -1,0 +1,2512 @@
+SILVER:195	23794	1	1	0	4106450	November 15 , 1996	4653	November.n	229	Calendric_unit	MANUAL	6557102	0	7	AlK	November
+LINKED:[0	0	0	7	bn:00058192n	http://dbpedia.org/resource/November	http://babelnet.org/rdf/s00058192n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 13097 ===
+	Calendric_unit: 0.1018867924528302
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23794	1	2	0	4106451	Dear Personal Donor :	5346	donor.n	139	Giving	MANUAL	6557100	14	18	AlK	Donor
+LINKED:[2	2	14	18	bn:00028236n		http://babelnet.org/rdf/s00028236n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13098 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	3	0	4106452	In the short while since Goodwill helped him find his job , Robert has learned to thoroughly clean a motel room in about 40 minutes .	1723	short.a	79	Duration_description	MANUAL	6556754	7	11	AlK	short
+LINKED:[2	2	7	11	bn:00110561a		http://babelnet.org/rdf/s00110561a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13099 ===
+	Duration_attribute: 4.0
+	Dimension: 0.10909090909090909
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	3	0	4106452	In the short while since Goodwill helped him find his job , Robert has learned to thoroughly clean a motel room in about 40 minutes .	7041	help.v	391	Assistance	MANUAL	6556756	34	39	AlK	helped
+LINKED:[6	6	34	39	bn:00082948v		http://babelnet.org/rdf/s00082948v	1.0	0.11111111	0.015625	BABELFY]
+RANK:=== COUNTER  Counter 13100 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	3	0	4106452	In the short while since Goodwill helped him find his job , Robert has learned to thoroughly clean a motel room in about 40 minutes .	5785	job.n	282	Being_employed	MANUAL	6556757	54	56	AlK	job
+LINKED:[10	10	54	56	bn:00014138n	http://dbpedia.org/resource/Job	http://babelnet.org/rdf/s00014138n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13101 ===
+	Being_employed: 0.027450980392156862
+
+SELECTED:[Being_employed]
+MATCH!
+SILVER:195	23794	1	3	0	4106452	In the short while since Goodwill helped him find his job , Robert has learned to thoroughly clean a motel room in about 40 minutes .	10147	learn.v	111	Education_teaching	MANUAL	6556758	71	77	AlK	learned
+LINKED:[14	14	71	77	bn:00082281v		http://babelnet.org/rdf/s00082281v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13102 ===
+	Coming_to_believe: 0.04047619047619048
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	3	0	4106452	In the short while since Goodwill helped him find his job , Robert has learned to thoroughly clean a motel room in about 40 minutes .	3020	motel.n	173	Buildings	MANUAL	6556759	101	105	AlK	motel
+LINKED:[19	19	101	105	bn:00055995n	http://dbpedia.org/resource/Motel	http://babelnet.org/rdf/s00055995n	1.0	0.22222222	0.0625	BABELFY]
+RANK:=== COUNTER  Counter 13103 ===
+	Buildings: 0.22972972972972974
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23794	1	3	0	4106452	In the short while since Goodwill helped him find his job , Robert has learned to thoroughly clean a motel room in about 40 minutes .	3159	room.n	188	Building_subparts	MANUAL	6556760	107	110	AlK	room
+LINKED:[20	20	107	110	bn:00068233n	http://dbpedia.org/resource/Room	http://babelnet.org/rdf/s00068233n	1.0	0.22222222	0.0625	BABELFY]
+RANK:=== COUNTER  Counter 13104 ===
+	Building_subparts: 0.15135135135135136
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:195	23794	1	3	0	4106452	In the short while since Goodwill helped him find his job , Robert has learned to thoroughly clean a motel room in about 40 minutes .	3873	minute.n	224	Measure_duration	MANUAL	6556763	124	130	AlK	minutes
+LINKED:[24	24	124	130	bn:00055094n	http://dbpedia.org/resource/Minute	http://babelnet.org/rdf/s00055094n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13105 ===
+	Calendric_unit: 0.13846153846153847
+	Measure_duration: 0.035897435897435895
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:195	23794	2	3	0	4106453	His job objectives call for him to do it in 30 .	5785	job.n	282	Being_employed	MANUAL	6556764	4	6	AlK	job
+LINKED:[1	1	4	6	bn:00018756n		http://babelnet.org/rdf/s00018756n	1.0	1.0	0.10526316	BABELFY]
+RANK:=== COUNTER  Counter 13106 ===
+	Being_obligated: 0.015
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	3	0	4106453	His job objectives call for him to do it in 30 .	8050	objective.n	513	Purpose	MANUAL	6556765	8	17	AlK	objectives
+LINKED:[2	2	8	17	bn:00002179n		http://babelnet.org/rdf/s00002179n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13107 ===
+	Purpose: 0.017857142857142856
+	Aiming: 0.008928571428571428
+
+SELECTED:[Purpose]
+MATCH!
+SILVER:195	23794	1	4	0	4106454	He has no time to waste .	5338	waste.v	84	Frugality	MANUAL	6556770	18	22	AlK	waste
+LINKED:[5	5	18	22	bn:00080543n	http://dbpedia.org/resource/Waste	http://babelnet.org/rdf/s00080543n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13108 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	5	0	4106456	With the help of friends like you , Goodwill has continued to adapt our services to meet the human needs of our changing society .	12165	help.n	391	Assistance	MANUAL	6556772	9	12	AlK	help
+LINKED:[2	2	9	12	bn:00002155n		http://babelnet.org/rdf/s00002155n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13109 ===
+	Forgiveness: 0.00819672131147541
+	Assistance: 0.006557377049180328
+	Supporting: 0.006557377049180328
+	Reassuring: 0.004918032786885246
+	Pardon: 0.004918032786885246
+	Clemency: 0.003278688524590164
+
+SELECTED:[Assistance]
+MATCH!
+SILVER:195	23794	2	5	0	4106456	With the help of friends like you , Goodwill has continued to adapt our services to meet the human needs of our changing society .	2177	friend.n	102	Personal_relationship	MANUAL	6556773	17	23	AlK	friends
+LINKED:[4	4	17	23	bn:00036538n		http://babelnet.org/rdf/s00036538n	1.0	0.36363637	0.05464481	BABELFY]
+RANK:=== COUNTER  Counter 13110 ===
+	Personal_relationship: 0.14333333333333334
+
+SELECTED:[Personal_relationship]
+MATCH!
+SILVER:195	23794	2	5	0	4106456	With the help of friends like you , Goodwill has continued to adapt our services to meet the human needs of our changing society .	5435	continue.v	164	Activity_ongoing	MANUAL	6556775	49	57	AlK	continued
+LINKED:[10	10	49	57	bn:00083242v		http://babelnet.org/rdf/s00083242v	0.8181818	0.27272728	0.024590164	BABELFY]
+RANK:=== COUNTER  Counter 13111 ===
+	Activity_ongoing: 0.01951219512195122
+
+SELECTED:[Activity_ongoing]
+MATCH!
+SILVER:195	23794	2	5	0	4106456	With the help of friends like you , Goodwill has continued to adapt our services to meet the human needs of our changing society .	12616	service.n	1605	Public_services	MANUAL	6556776	72	79	AlK	services
+LINKED:[14	14	72	79	bn:00070651n	http://dbpedia.org/resource/Service_(economics)	http://babelnet.org/rdf/s00070651n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13112 ===
+	Public_services: 0.00909090909090909
+
+SELECTED:[Public_services]
+MATCH!
+SILVER:195	23794	2	5	0	4106456	With the help of friends like you , Goodwill has continued to adapt our services to meet the human needs of our changing society .	11740	human.n	304	People	MANUAL	6556777	93	97	AlK	human
+LINKED:[18	18	93	97	bn:00104385a		http://babelnet.org/rdf/s00104385a	1.0	0.18181819	0.010928961	BABELFY]
+RANK:=== COUNTER  Counter 13113 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	5	0	4106456	With the help of friends like you , Goodwill has continued to adapt our services to meet the human needs of our changing society .	13554	need.n	1375	Needing	MANUAL	6556778	99	103	AlK	needs
+LINKED:[19	19	99	103	bn:00026107n	http://dbpedia.org/resource/Need	http://babelnet.org/rdf/s00026107n	0.72727275	0.45454547	0.10928962	BABELFY]
+RANK:=== COUNTER  Counter 13114 ===
+	Needing: 0.008823529411764706
+
+SELECTED:[Needing]
+MATCH!
+SILVER:195	23794	2	5	0	4106456	With the help of friends like you , Goodwill has continued to adapt our services to meet the human needs of our changing society .	10802	change.v	1172	Undergo_change	MANUAL	6556779	112	119	AlK	changing
+LINKED:[22	22	112	119	bn:00082553v		http://babelnet.org/rdf/s00082553v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13115 ===
+	Cause_change: 0.046153846153846156
+	Replacing: 0.026923076923076925
+	Exchange_currency: 0.011538461538461539
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	6	0	4106457	We do n't waste time as we are helping the community .	5338	waste.v	84	Frugality	MANUAL	6556780	10	14	AlK	waste
+LINKED:[4	4	10	14	bn:00080543n	http://dbpedia.org/resource/Waste	http://babelnet.org/rdf/s00080543n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13116 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	6	0	4106457	We do n't waste time as we are helping the community .	7041	help.v	391	Assistance	MANUAL	6556782	31	37	AlK	helping
+LINKED:[9	9	31	37	bn:00082481v		http://babelnet.org/rdf/s00082481v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13117 ===
+	Assistance: 0.034782608695652174
+
+SELECTED:[Assistance]
+MATCH!
+SILVER:195	23794	1	6	0	4106457	We do n't waste time as we are helping the community .	10697	community.n	103	Aggregate	MANUAL	6556783	43	51	AlK	community
+LINKED:[11	11	43	51	bn:00021248n	http://dbpedia.org/resource/Community	http://babelnet.org/rdf/s00021248n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13118 ===
+	Aggregate: 0.10204081632653061
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:195	23794	2	6	0	4106458	And we do n't waste money .	5338	waste.v	84	Frugality	MANUAL	6556784	14	18	AlK	waste
+LINKED:[5	5	14	18	bn:00080543n	http://dbpedia.org/resource/Waste	http://babelnet.org/rdf/s00080543n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13119 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	6	0	4106458	And we do n't waste money .	13361	money.n	1761	Money	MANUAL	6556785	20	24	AlK	money
+LINKED:[6	6	20	24	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 13120 ===
+	Money: 0.013207547169811321
+
+SELECTED:[Money]
+MATCH!
+SILVER:195	23794	3	6	0	4106459	The gift that I am asking you to make will be used to continue our mission of helping people prepare for , find and keep jobs .	5372	gift.n	139	Giving	MANUAL	6556786	4	7	AlK	gift
+LINKED:[1	1	4	7	bn:00040436n	http://dbpedia.org/resource/Gift	http://babelnet.org/rdf/s00040436n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13121 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	3	6	0	4106459	The gift that I am asking you to make will be used to continue our mission of helping people prepare for , find and keep jobs .	639	ask.v	41	Request	MANUAL	6556787	19	24	AlK	asking
+LINKED:[5	5	19	24	bn:00082820v		http://babelnet.org/rdf/s00082820v	1.0	0.11111111	0.005235602	BABELFY]
+RANK:=== COUNTER  Counter 13122 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	3	6	0	4106459	The gift that I am asking you to make will be used to continue our mission of helping people prepare for , find and keep jobs .	10619	use.v	1141	Using	MANUAL	6556788	46	49	AlK	used
+LINKED:[11	11	46	49	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13123 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	3	6	0	4106459	The gift that I am asking you to make will be used to continue our mission of helping people prepare for , find and keep jobs .	5435	continue.v	164	Activity_ongoing	MANUAL	6556789	54	61	AlK	continue
+LINKED:[13	13	54	61	bn:00085714v		http://babelnet.org/rdf/s00085714v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13124 ===
+	Activity_ongoing: 0.02666666666666667
+	Process_continue: 0.02
+
+SELECTED:[Activity_ongoing]
+MATCH!
+SILVER:195	23794	3	6	0	4106459	The gift that I am asking you to make will be used to continue our mission of helping people prepare for , find and keep jobs .	7041	help.v	391	Assistance	MANUAL	6556790	78	84	AlK	helping
+LINKED:[17	17	78	84	bn:00082481v		http://babelnet.org/rdf/s00082481v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13125 ===
+	Assistance: 0.034782608695652174
+
+SELECTED:[Assistance]
+MATCH!
+SILVER:195	23794	3	6	0	4106459	The gift that I am asking you to make will be used to continue our mission of helping people prepare for , find and keep jobs .	5511	people.n	304	People	MANUAL	6556791	86	91	AlK	people
+LINKED:[18	18	86	91	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	1.0	0.33333334	0.04712042	BABELFY]
+RANK:=== COUNTER  Counter 13126 ===
+	Education_teaching: 0.04716981132075472
+	Subordinates_and_superiors: 0.024528301886792454
+	People_by_religion: 0.020754716981132074
+	Attention_getting: 0.018867924528301886
+	Colonization: 0.013207547169811321
+	Secrecy_status: 0.013207547169811321
+	Dead_or_alive: 0.011320754716981131
+	People: 0.011320754716981131
+	People_by_jurisdiction: 0.009433962264150943
+	Indigenous_origin: 0.007547169811320755
+	People_by_residence: 0.007547169811320755
+	Dying: 0.0037735849056603774
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23794	3	6	0	4106459	The gift that I am asking you to make will be used to continue our mission of helping people prepare for , find and keep jobs .	5507	prepare.v	170	Activity_prepare	MANUAL	6556792	93	99	AlK	prepare
+LINKED:[19	19	93	99	bn:00085784v		http://babelnet.org/rdf/s00085784v	1.0	0.11111111	0.015706806	BABELFY]
+RANK:=== COUNTER  Counter 13127 ===
+	Cooking_creation: 0.01818181818181818
+	Activity_prepare: 0.015151515151515152
+
+SELECTED:[Activity_prepare]
+MATCH!
+SILVER:195	23794	3	6	0	4106459	The gift that I am asking you to make will be used to continue our mission of helping people prepare for , find and keep jobs .	11227	find.v	792	Locating	MANUAL	6556793	107	110	AlK	find
+LINKED:[22	22	107	110	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13128 ===
+	Becoming_aware: 0.05925925925925926
+	Verdict: 0.040740740740740744
+	Locating: 0.011111111111111112
+
+SELECTED:[Locating]
+MATCH!
+SILVER:195	23794	3	6	0	4106459	The gift that I am asking you to make will be used to continue our mission of helping people prepare for , find and keep jobs .	4347	keep.v	164	Activity_ongoing	MANUAL	6556794	116	119	AlK	keep
+LINKED:[24	24	116	119	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13129 ===
+	Defend: 6.0
+	Compliance: 0.041935483870967745
+	Inhibit_movement: 0.016129032258064516
+	Activity_ongoing: 0.012903225806451613
+	Storing: 0.01129032258064516
+	Detaining: 0.01129032258064516
+	Cause_to_continue: 0.0032258064516129032
+
+SELECTED:[Activity_ongoing]
+MATCH!
+SILVER:195	23794	3	6	0	4106459	The gift that I am asking you to make will be used to continue our mission of helping people prepare for , find and keep jobs .	5785	job.n	282	Being_employed	MANUAL	6556795	121	124	AlK	jobs
+LINKED:[25	25	121	124	bn:00014138n	http://dbpedia.org/resource/Job	http://babelnet.org/rdf/s00014138n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13130 ===
+	Being_employed: 0.027450980392156862
+
+SELECTED:[Being_employed]
+MATCH!
+SILVER:195	23794	1	7	0	4106460	In their December , 1995 review of the nation 's best charities , U.S. News and World Report called Goodwill one of the five `` Standout Good Guys . ''	4654	December.n	229	Calendric_unit	MANUAL	6556797	9	16	AlK	December
+LINKED:[2	2	9	16	bn:00025645n	http://dbpedia.org/resource/December	http://babelnet.org/rdf/s00025645n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13131 ===
+	Calendric_unit: 0.14594594594594595
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23794	1	7	0	4106460	In their December , 1995 review of the nation 's best charities , U.S. News and World Report called Goodwill one of the five `` Standout Good Guys . ''	12775	nation.n	195	Political_locales	MANUAL	6556870	39	44	AlK	nation
+LINKED:[8	8	39	44	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.83090377	0.9375	0.24358974	BABELFY]
+RANK:=== COUNTER  Counter 13132 ===
+	Political_locales: 0.03368421052631579
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:195	23794	1	7	0	4106460	In their December , 1995 review of the nation 's best charities , U.S. News and World Report called Goodwill one of the five `` Standout Good Guys . ''	9110	good.a	726	Usefulness	MANUAL	6556871	49	52	AlK	best
+LINKED:[10	10	49	52	bn:00098274a		http://babelnet.org/rdf/s00098274a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13133 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	7	0	4106460	In their December , 1995 review of the nation 's best charities , U.S. News and World Report called Goodwill one of the five `` Standout Good Guys . ''	11195	call.v	1250	Labeling	MANUAL	6556872	93	98	AlK	called
+LINKED:[18	18	93	98	bn:00084385v		http://babelnet.org/rdf/s00084385v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13134 ===
+	Being_named: 0.12941176470588237
+	Deserving: 0.041176470588235294
+	Name_conferral: 0.03529411764705882
+	Referring_by_name: 0.029411764705882353
+	Labeling: 0.029411764705882353
+	Claim_ownership: 0.029411764705882353
+	Simple_naming: 0.01764705882352941
+
+SELECTED:[Labeling]
+MATCH!
+SILVER:195	23794	1	7	0	4106460	In their December , 1995 review of the nation 's best charities , U.S. News and World Report called Goodwill one of the five `` Standout Good Guys . ''	6645	good.a	370	Morality_evaluation	MANUAL	6556876	137	140	AlK	Good
+LINKED:[26	26	137	140	bn:00041059n		http://babelnet.org/rdf/s00041059n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13135 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	7	0	4106460	In their December , 1995 review of the nation 's best charities , U.S. News and World Report called Goodwill one of the five `` Standout Good Guys . ''	5520	guy.n	304	People	MANUAL	6556877	142	145	AlK	Guys
+LINKED:[27	27	142	145	bn:00012592n		http://babelnet.org/rdf/s00012592n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13136 ===
+	People: 0.05217391304347826
+	Attention_getting: 0.043478260869565216
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23794	2	7	0	4106461	The magazine stated that Goodwill ( as well as the other standouts ) is `` uniquely effective , innovative or valuable . ''	5454	magazine.n	298	Text	MANUAL	6556878	4	11	AlK	magazine
+LINKED:[1	1	4	11	bn:00052671n	http://dbpedia.org/resource/Magazine	http://babelnet.org/rdf/s00052671n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13137 ===
+	Text: 0.11538461538461539
+
+SELECTED:[Text]
+MATCH!
+SILVER:195	23794	2	7	0	4106461	The magazine stated that Goodwill ( as well as the other standouts ) is `` uniquely effective , innovative or valuable . ''	753	state.v	43	Statement	MANUAL	6556879	13	18	AlK	stated
+LINKED:[2	2	13	18	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13138 ===
+	Statement: 0.275
+	Prevarication: 0.0875
+	Becoming_aware: 0.06666666666666667
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.041666666666666664
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:195	23794	2	7	0	4106461	The magazine stated that Goodwill ( as well as the other standouts ) is `` uniquely effective , innovative or valuable . ''	9194	effective.a	726	Usefulness	MANUAL	6556881	84	92	AlK	effective
+LINKED:[16	16	84	92	bn:00102038a		http://babelnet.org/rdf/s00102038a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13139 ===
+	Usefulness: 0.02127659574468085
+
+SELECTED:[Usefulness]
+MATCH!
+SILVER:195	23794	2	7	0	4106461	The magazine stated that Goodwill ( as well as the other standouts ) is `` uniquely effective , innovative or valuable . ''	13426	valuable.a	726	Usefulness	MANUAL	6556882	110	117	AlK	valuable
+LINKED:[20	20	110	117	bn:00113489a		http://babelnet.org/rdf/s00113489a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13140 ===
+	Usefulness: 0.1
+
+SELECTED:[Usefulness]
+MATCH!
+SILVER:195	23794	1	8	0	4106462	While I appreciate U.S. News and World Report 's endorsement , the true value of your support is measured by the way Goodwill takes on problems that affect all of us .	12865	appreciate.v	1400	Regard	MANUAL	6556884	8	17	AlK	appreciate
+LINKED:[2	2	8	17	bn:00082722v		http://babelnet.org/rdf/s00082722v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13141 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	8	0	4106462	While I appreciate U.S. News and World Report 's endorsement , the true value of your support is measured by the way Goodwill takes on problems that affect all of us .	13424	value.n	726	Usefulness	MANUAL	6556885	72	76	AlK	value
+LINKED:[13	13	72	76	bn:00079508n	http://dbpedia.org/resource/Value_(computer_science)	http://babelnet.org/rdf/s00079508n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13142 ===
+	Usefulness: 0.038461538461538464
+
+SELECTED:[Usefulness]
+MATCH!
+SILVER:195	23794	1	8	0	4106462	While I appreciate U.S. News and World Report 's endorsement , the true value of your support is measured by the way Goodwill takes on problems that affect all of us .	14738	support.v	2000	Supporting	MANUAL	6556886	86	92	AlK	support
+LINKED:[16	16	86	92	bn:00075330n		http://babelnet.org/rdf/s00075330n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13143 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	8	0	4106462	While I appreciate U.S. News and World Report 's endorsement , the true value of your support is measured by the way Goodwill takes on problems that affect all of us .	2202	measure.v	108	Dimension	MANUAL	6556887	97	104	AlK	measured
+LINKED:[18	18	97	104	bn:00090714v		http://babelnet.org/rdf/s00090714v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13144 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	8	0	4106462	While I appreciate U.S. News and World Report 's endorsement , the true value of your support is measured by the way Goodwill takes on problems that affect all of us .	7356	problem.n	300	Predicament	MANUAL	6556890	135	142	AlK	problems
+LINKED:[25	25	135	142	bn:00048242n	http://dbpedia.org/resource/Problem	http://babelnet.org/rdf/s00048242n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13145 ===
+	Predicament: 0.03461538461538462
+
+SELECTED:[Predicament]
+MATCH!
+SILVER:195	23794	1	8	0	4106462	While I appreciate U.S. News and World Report 's endorsement , the true value of your support is measured by the way Goodwill takes on problems that affect all of us .	11090	affect.v	1084	Objective_influence	MANUAL	6556891	149	154	AlK	affect
+LINKED:[27	27	149	154	bn:00082426v		http://babelnet.org/rdf/s00082426v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13146 ===
+	Impact: 0.3090909090909091
+	Subjective_influence: 0.10909090909090909
+	Objective_influence: 0.045454545454545456
+
+SELECTED:[Objective_influence]
+MATCH!
+SILVER:195	23794	1	9	0	4106463	Every time we help someone find a solution to their employment barrier , the positive effects radiate throughout our community : The business community welcomes not only another worker , but a consumer with increased purchasing power .	7041	help.v	391	Assistance	MANUAL	6556894	14	17	AlK	help
+LINKED:[3	3	14	17	bn:00082481v		http://babelnet.org/rdf/s00082481v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13147 ===
+	Assistance: 0.034782608695652174
+
+SELECTED:[Assistance]
+MATCH!
+SILVER:195	23794	1	9	0	4106463	Every time we help someone find a solution to their employment barrier , the positive effects radiate throughout our community : The business community welcomes not only another worker , but a consumer with increased purchasing power .	175	find.v	20	Becoming_aware	MANUAL	6556896	27	30	AlK	find
+LINKED:[5	5	27	30	bn:00085393v		http://babelnet.org/rdf/s00085393v	1.0	0.11764706	0.0038350911	BABELFY]
+RANK:=== COUNTER  Counter 13148 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	9	0	4106463	Every time we help someone find a solution to their employment barrier , the positive effects radiate throughout our community : The business community welcomes not only another worker , but a consumer with increased purchasing power .	10450	effect.n	1084	Objective_influence	MANUAL	6556898	86	92	AlK	effects
+LINKED:[15	15	86	92	bn:00021961n	http://dbpedia.org/resource/Result	http://babelnet.org/rdf/s00021961n	0.75	0.1764706	0.008628955	BABELFY]
+RANK:=== COUNTER  Counter 13149 ===
+	Self_motion: 0.15352112676056337
+	Experiencer_obj: 0.12112676056338029
+	Statement: 0.09295774647887324
+	Judgment_communication: 0.07887323943661972
+	Body_movement: 0.0676056338028169
+	Change_position_on_a_scale: 0.06338028169014084
+	Personal_relationship: 0.06056338028169014
+	Removing: 0.059154929577464786
+	Scrutiny: 0.056338028169014086
+	Stimulus_focus: 0.04929577464788732
+	Judgment: 0.04929577464788732
+	Expertise: 0.04788732394366197
+	Path_shape: 0.04788732394366197
+	Impact: 0.04788732394366197
+	Mental_property: 0.04507042253521127
+	Hostile_encounter: 0.04366197183098591
+	Motion_noise: 0.04225352112676056
+	Quantity: 0.04225352112676056
+	Attack: 0.03943661971830986
+	Cause_motion: 0.03943661971830986
+	Desiring: 0.03943661971830986
+	Documents: 0.038028169014084505
+	Compliance: 0.036619718309859155
+	Social_interaction_evaluation: 0.03380281690140845
+	Similarity: 0.030985915492957747
+	Awareness: 0.030985915492957747
+	Request: 0.030985915492957747
+	Social_event: 0.030985915492957747
+	Categorization: 0.030985915492957747
+	Cause_impact: 0.029577464788732393
+	Evidence: 0.029577464788732393
+	Prevarication: 0.029577464788732393
+	Fluidic_motion: 0.028169014084507043
+	Cause_change_of_position_on_a_scale: 0.028169014084507043
+	Cure: 0.028169014084507043
+	Frequency: 0.02676056338028169
+	Discussion: 0.02676056338028169
+	Morality_evaluation: 0.02676056338028169
+	Likelihood: 0.02676056338028169
+	Compatibility: 0.02676056338028169
+	Cause_expansion: 0.02676056338028169
+	Arriving: 0.02676056338028169
+	Giving: 0.02535211267605634
+	Quitting_a_place: 0.02535211267605634
+	Cause_to_fragment: 0.02535211267605634
+	Change_posture: 0.02535211267605634
+	Coming_to_believe: 0.023943661971830985
+	Moving_in_place: 0.023943661971830985
+	Posture: 0.023943661971830985
+	Motion: 0.023943661971830985
+	Cotheme: 0.022535211267605635
+	Becoming_aware: 0.022535211267605635
+	Attempt_suasion: 0.022535211267605635
+	Destroying: 0.022535211267605635
+	Damaging: 0.02112676056338028
+	Communicate_categorization: 0.02112676056338028
+	Quarreling: 0.02112676056338028
+	Hindering: 0.02112676056338028
+	Ingest_substance: 0.02112676056338028
+	Intentionally_act: 0.01971830985915493
+	Manipulate_into_doing: 0.01971830985915493
+	Being_employed: 0.01971830985915493
+	Text_creation: 0.01971830985915493
+	Traversing: 0.01971830985915493
+	Forming_relationships: 0.01971830985915493
+	Speak_on_topic: 0.01971830985915493
+	Possession: 0.01971830985915493
+	Frugality: 0.018309859154929577
+	Importance: 0.018309859154929577
+	Means: 0.018309859154929577
+	Avoiding: 0.018309859154929577
+	Perception_experience: 0.018309859154929577
+	Taking_sides: 0.018309859154929577
+	Wearing: 0.018309859154929577
+	Undergo_change: 0.018309859154929577
+	Sleep: 0.018309859154929577
+	Expansion: 0.018309859154929577
+	Chatting: 0.016901408450704224
+	Cause_to_start: 0.016901408450704224
+	Cause_change: 0.016901408450704224
+	Weather: 0.016901408450704224
+	Coming_up_with: 0.016901408450704224
+	Cogitation: 0.016901408450704224
+	Certainty: 0.016901408450704224
+	Behind_the_scenes: 0.016901408450704224
+	Reporting: 0.016901408450704224
+	Obviousness: 0.015492957746478873
+	Death: 0.015492957746478873
+	Verdict: 0.015492957746478873
+	Protecting: 0.015492957746478873
+	Expectation: 0.015492957746478873
+	Linguistic_meaning: 0.015492957746478873
+	Facial_expression: 0.015492957746478873
+	Execution: 0.015492957746478873
+	Causation: 0.015492957746478873
+	Opinion: 0.015492957746478873
+	Reveal_secret: 0.015492957746478873
+	Purpose: 0.014084507042253521
+	Dispersal: 0.014084507042253521
+	Separating: 0.014084507042253521
+	Questioning: 0.014084507042253521
+	Cause_to_make_noise: 0.014084507042253521
+	Omen: 0.014084507042253521
+	Creating: 0.014084507042253521
+	Cause_to_move_in_place: 0.014084507042253521
+	Communication: 0.014084507042253521
+	Success_or_failure: 0.014084507042253521
+	Assessing: 0.014084507042253521
+	Successful_action: 0.014084507042253521
+	Bungling: 0.014084507042253521
+	Being_at_risk: 0.014084507042253521
+	Usefulness: 0.014084507042253521
+	Conduct: 0.014084507042253521
+	Custom: 0.014084507042253521
+	Type: 0.014084507042253521
+	Beat_opponent: 0.01267605633802817
+	Grasp: 0.01267605633802817
+	Participation: 0.01267605633802817
+	Sign: 0.01267605633802817
+	Performers_and_roles: 0.01267605633802817
+	Motion_directional: 0.01267605633802817
+	Accuracy: 0.01267605633802817
+	Trust: 0.01267605633802817
+	Emotions_of_mental_activity: 0.01267605633802817
+	Choosing: 0.01267605633802817
+	Capability: 0.01267605633802817
+	Predicament: 0.01267605633802817
+	Law: 0.01267605633802817
+	Temporal_subregion: 0.01267605633802817
+	Activity_start: 0.01267605633802817
+	Reasoning: 0.01267605633802817
+	Risky_situation: 0.011267605633802818
+	Topic: 0.011267605633802818
+	Range: 0.011267605633802818
+	Legality: 0.011267605633802818
+	Justifying: 0.011267605633802818
+	Bragging: 0.011267605633802818
+	Coincidence: 0.011267605633802818
+	Criminal_investigation: 0.011267605633802818
+	Unattributed_information: 0.011267605633802818
+	Ambient_temperature: 0.011267605633802818
+	Suitability: 0.011267605633802818
+	Telling: 0.011267605633802818
+	Getting: 0.011267605633802818
+	Verification: 0.011267605633802818
+	Touring: 0.011267605633802818
+	Cause_temperature_change: 0.011267605633802818
+	Attempt: 0.011267605633802818
+	Coming_to_be: 0.011267605633802818
+	Change_direction: 0.011267605633802818
+	Competition: 0.011267605633802818
+	Thriving: 0.011267605633802818
+	Change_event_time: 0.009859154929577466
+	Daring: 0.009859154929577466
+	Respond_to_proposal: 0.009859154929577466
+	Capacity: 0.009859154929577466
+	Temporary_stay: 0.009859154929577466
+	Ceasing_to_be: 0.009859154929577466
+	Imposing_obligation: 0.009859154929577466
+	Forgoing: 0.009859154929577466
+	Expressing_publicly: 0.009859154929577466
+	Social_connection: 0.009859154929577466
+	Deserving: 0.009859154929577466
+	Distinctiveness: 0.009859154929577466
+	Getting_vehicle_underway: 0.009859154929577466
+	Talking_into: 0.009859154929577466
+	Fairness_evaluation: 0.009859154929577466
+	Visiting: 0.009859154929577466
+	Adjusting: 0.009859154929577466
+	Terms_of_agreement: 0.009859154929577466
+	Predicting: 0.009859154929577466
+	Proliferating_in_number: 0.009859154929577466
+	Giving_in: 0.009859154929577466
+	Differentiation: 0.009859154929577466
+	Becoming: 0.009859154929577466
+	Replacing: 0.009859154929577466
+	Come_together: 0.009859154929577466
+	Process_start: 0.009859154929577466
+	Taking_time: 0.008450704225352112
+	Practice: 0.008450704225352112
+	Simultaneity: 0.008450704225352112
+	Process_continue: 0.008450704225352112
+	Evading: 0.008450704225352112
+	Gesture: 0.008450704225352112
+	Encoding: 0.008450704225352112
+	Evoking: 0.008450704225352112
+	Fall_asleep: 0.008450704225352112
+	Subjective_influence: 0.008450704225352112
+	Reforming_a_system: 0.008450704225352112
+	Emotion_active: 0.008450704225352112
+	Feigning: 0.008450704225352112
+	Process_stop: 0.008450704225352112
+	Surpassing: 0.008450704225352112
+	Regard: 0.008450704225352112
+	Inclusion: 0.008450704225352112
+	Others_situation_as_stimulus: 0.008450704225352112
+	Render_nonfunctional: 0.008450704225352112
+	Temperature: 0.008450704225352112
+	Process_end: 0.008450704225352112
+	Bail_decision: 0.008450704225352112
+	Attention: 0.008450704225352112
+	Using: 0.008450704225352112
+	Earnings_and_losses: 0.007746478873239437
+	Withdraw_from_participation: 0.007042253521126761
+	Commutative_process: 0.007042253521126761
+	Surrendering_possession: 0.007042253521126761
+	Exclude_member: 0.007042253521126761
+	Fear: 0.007042253521126761
+	Losing_it: 0.007042253521126761
+	Change_event_duration: 0.007042253521126761
+	Shoot_projectiles: 0.007042253521126761
+	Probability: 0.007042253521126761
+	Suasion: 0.007042253521126761
+	Claim_ownership: 0.007042253521126761
+	Fighting_activity: 0.007042253521126761
+	Surviving: 0.007042253521126761
+	Memory: 0.007042253521126761
+	Aiming: 0.007042253521126761
+	Sequence: 0.007042253521126761
+	Make_cognitive_connection: 0.007042253521126761
+	Recovery: 0.007042253521126761
+	Cause_to_perceive: 0.007042253521126761
+	Taking: 0.007042253521126761
+	Meet_specifications: 0.007042253521126761
+	Abandonment: 0.007042253521126761
+	Exchange: 0.007042253521126761
+	Hit_or_miss: 0.007042253521126761
+	Becoming_a_member: 0.007042253521126761
+	Correctness: 0.007042253521126761
+	Event: 0.007042253521126761
+	Activity_pause: 0.007042253521126761
+	Activity_finish: 0.007042253521126761
+	Emanating: 0.007042253521126761
+	Institutionalization: 0.007042253521126761
+	Sign_agreement: 0.007042253521126761
+	Escaping: 0.007042253521126761
+	Activity_prepare: 0.007042253521126761
+	Besieging: 0.007042253521126761
+	Reason: 0.007042253521126761
+	Difficulty: 0.007042253521126761
+	Accomplishment: 0.007042253521126761
+	Going_back_on_a_commitment: 0.005633802816901409
+	Tolerating: 0.005633802816901409
+	Adopt_selection: 0.005633802816901409
+	Project: 0.005633802816901409
+	Interrupt_process: 0.005633802816901409
+	Undergoing: 0.005633802816901409
+	Remainder: 0.005633802816901409
+	Receiving: 0.005633802816901409
+	Preliminaries: 0.005633802816901409
+	Seeking_to_achieve: 0.005633802816901409
+	Operational_testing: 0.005633802816901409
+	Hit_target: 0.005633802816901409
+	Completeness: 0.005633802816901409
+	Opportunity: 0.005633802816901409
+	Rest: 0.005633802816901409
+	Change_resistance: 0.005633802816901409
+	Color_qualities: 0.005633802816901409
+	Be_in_agreement_on_assessment: 0.005633802816901409
+	Identicality: 0.005633802816901409
+	Point_of_dispute: 0.005633802816901409
+	Assemble: 0.005633802816901409
+	Exercising: 0.005633802816901409
+	Dominate_situation: 0.005633802816901409
+	Cause_to_end: 0.005633802816901409
+	Agree_or_refuse_to_act: 0.005633802816901409
+	Holding_off_on: 0.005633802816901409
+	Being_awake: 0.005633802816901409
+	Cause_to_wake: 0.005633802816901409
+	Exemplar: 0.005633802816901409
+	Explaining_the_facts: 0.005633802816901409
+	Adducing: 0.005633802816901409
+	Activity_ready_state: 0.005633802816901409
+	Event_instance: 0.005633802816901409
+	Fleeing: 0.005633802816901409
+	Sidereal_appearance: 0.005633802816901409
+	Instance: 0.005633802816901409
+	Waking_up: 0.005633802816901409
+	Setting_out: 0.005633802816901409
+	Breaking_off: 0.005633802816901409
+	Run_risk: 0.005633802816901409
+	Encounter: 0.005633802816901409
+	Change_tool: 0.005633802816901409
+	Attending: 0.005633802816901409
+	Turning_out: 0.005633802816901409
+	Use_firearm: 0.004225352112676056
+	Deciding: 0.004225352112676056
+	Sharpness: 0.004225352112676056
+	Meet_with_response: 0.004225352112676056
+	Eventive_affecting: 0.004225352112676056
+	Cognitive_connection: 0.004225352112676056
+	Offering: 0.004225352112676056
+	Renting: 0.004225352112676056
+	Exchange_currency: 0.004225352112676056
+	Remembering_to_do: 0.004225352112676056
+	Left_to_do: 0.004225352112676056
+	Trying_out: 0.004225352112676056
+	Pattern: 0.004225352112676056
+	Change_of_quantity_of_possession: 0.004225352112676056
+	Commerce_collect: 0.004225352112676056
+	Location_in_time: 0.004225352112676056
+	Non-commutative_statement: 0.004225352112676056
+	Tasting: 0.004225352112676056
+	Jury_deliberation: 0.004225352112676056
+	Remembering_information: 0.004225352112676056
+	Commerce_buy: 0.004225352112676056
+	Preference: 0.004225352112676056
+	Rank: 0.004225352112676056
+	Locating: 0.004225352112676056
+	Needing: 0.004225352112676056
+	Ratification: 0.004225352112676056
+	Cause_to_be_included: 0.004225352112676056
+	Endangering: 0.004225352112676056
+	Execute_plan: 0.0035211267605633804
+	Objective_influence: 0.0035211267605633804
+	Try_defendant: 0.0028169014084507044
+	Being_operational: 0.0028169014084507044
+	Have_as_requirement: 0.0028169014084507044
+	Being_in_operation: 0.0028169014084507044
+	Get_a_job: 0.0028169014084507044
+	Scope: 0.0028169014084507044
+	Getting_up: 0.0028169014084507044
+	Representing: 0.0028169014084507044
+	Rising_to_a_challenge: 0.0028169014084507044
+	Studying: 0.0028169014084507044
+	Dough_rising: 0.0028169014084507044
+	Waiting: 0.0028169014084507044
+	Commercial_transaction: 0.0028169014084507044
+	State_continue: 0.0028169014084507044
+	Attempt_means: 0.0028169014084507044
+	Process: 0.0028169014084507044
+	Social_event_collective: 0.0028169014084507044
+	Relation: 0.0028169014084507044
+	Being_in_effect: 0.002112676056338028
+
+SELECTED:[Objective_influence]
+MATCH!
+SILVER:195	23794	1	9	0	4106463	Every time we help someone find a solution to their employment barrier , the positive effects radiate throughout our community : The business community welcomes not only another worker , but a consumer with increased purchasing power .	6256	radiate.v	361	Emanating	MANUAL	6556899	94	100	AlK	radiate
+LINKED:[16	16	94	100	bn:00087095v		http://babelnet.org/rdf/s00087095v	0.8	0.11764706	0.0038350911	BABELFY]
+RANK:=== COUNTER  Counter 13150 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	9	0	4106463	Every time we help someone find a solution to their employment barrier , the positive effects radiate throughout our community : The business community welcomes not only another worker , but a consumer with increased purchasing power .	10697	community.n	103	Aggregate	MANUAL	6556900	117	125	AlK	community
+LINKED:[19	19	117	125	bn:00021248n	http://dbpedia.org/resource/Community	http://babelnet.org/rdf/s00021248n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13151 ===
+	Aggregate: 0.10204081632653061
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:195	23794	1	9	0	4106463	Every time we help someone find a solution to their employment barrier , the positive effects radiate throughout our community : The business community welcomes not only another worker , but a consumer with increased purchasing power .	6355	business.n	365	Businesses	MANUAL	6556901	133	140	AlK	business
+LINKED:[22	22	133	140	bn:00014137n	http://dbpedia.org/resource/Business	http://babelnet.org/rdf/s00014137n	0.8341463	0.5294118	0.16395015	BABELFY]
+RANK:=== COUNTER  Counter 13152 ===
+	Commerce_sell: 0.012857142857142857
+	Shopping: 0.004285714285714286
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	9	0	4106463	Every time we help someone find a solution to their employment barrier , the positive effects radiate throughout our community : The business community welcomes not only another worker , but a consumer with increased purchasing power .	13351	worker.n	323	Employing	MANUAL	6556905	178	183	AlK	worker
+LINKED:[28	28	178	183	bn:00047795n	http://dbpedia.org/resource/Laborer	http://babelnet.org/rdf/s00047795n	0.71428573	0.29411766	0.07190796	BABELFY]
+RANK:=== COUNTER  Counter 13153 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	9	0	4106463	Every time we help someone find a solution to their employment barrier , the positive effects radiate throughout our community : The business community welcomes not only another worker , but a consumer with increased purchasing power .	1870	increase.v	91	Change_position_on_a_scale	MANUAL	6556906	207	215	AlK	increased
+LINKED:[34	34	207	215	bn:00089666v		http://babelnet.org/rdf/s00089666v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13154 ===
+	Change_position_on_a_scale: 0.9
+
+SELECTED:[Change_position_on_a_scale]
+MATCH!
+SILVER:195	23794	2	9	0	4106464	Parents act as role models of self - sufficiency instead of dependency .	2238	parent.n	104	Kinship	MANUAL	6556908	0	6	AlK	Parents
+LINKED:[0	0	0	6	bn:00060643n	http://dbpedia.org/resource/Parent	http://babelnet.org/rdf/s00060643n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13155 ===
+	Kinship: 0.09423076923076923
+
+SELECTED:[Kinship]
+MATCH!
+SILVER:195	23794	2	9	0	4106464	Parents act as role models of self - sufficiency instead of dependency .	7564	act.v	413	Performers_and_roles	MANUAL	6556909	8	10	AlK	act
+LINKED:[1	1	8	10	bn:00082285v		http://babelnet.org/rdf/s00082285v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13156 ===
+	Intentionally_act: 0.04375
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	9	0	4106464	Parents act as role models of self - sufficiency instead of dependency .	12619	dependency.n	901	Reliance	MANUAL	6556912	60	69	AlK	dependency
+LINKED:[11	11	60	69	bn:01335185n	http://dbpedia.org/resource/Dependency_(project_management)	http://babelnet.org/rdf/s01335185n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13157 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	3	9	0	4106465	Tax dollars that would have been spent on public assistance are saved .	12633	public	1605	Public_services	MANUAL	6559879	42	47	MLC	public
+LINKED:[8	8	42	47	bn:00109211a		http://babelnet.org/rdf/s00109211a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13158 ===
+	Secrecy_status: 0.021875
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	10	0	4106466	You and I know that solutions to difficult problems do n't just happen .	160	know.v	19	Awareness	MANUAL	6556914	10	13	AlK	know
+LINKED:[3	3	10	13	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13159 ===
+	Awareness: 0.06285714285714286
+	Certainty: 0.03428571428571429
+	Differentiation: 0.02
+	Familiarity: 0.017142857142857144
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:195	23794	1	10	0	4106466	You and I know that solutions to difficult problems do n't just happen .	6567	difficult.a	375	Difficulty	MANUAL	6556915	33	41	AlK	difficult
+LINKED:[7	7	33	41	bn:00101358a		http://babelnet.org/rdf/s00101358a	1.0	1.0	0.115384616	BABELFY]
+RANK:=== COUNTER  Counter 13160 ===
+	Difficulty: 0.010869565217391304
+
+SELECTED:[Difficulty]
+MATCH!
+SILVER:195	23794	1	10	0	4106466	You and I know that solutions to difficult problems do n't just happen .	7356	problem.n	300	Predicament	MANUAL	6556916	43	50	AlK	problems
+LINKED:[8	8	43	50	bn:00048242n	http://dbpedia.org/resource/Problem	http://babelnet.org/rdf/s00048242n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13161 ===
+	Predicament: 0.03461538461538462
+
+SELECTED:[Predicament]
+MATCH!
+SILVER:195	23794	1	10	0	4106466	You and I know that solutions to difficult problems do n't just happen .	13635	happen.v	1812	Coincidence	MANUAL	6556917	64	69	AlK	happen
+LINKED:[13	13	64	69	bn:00083286v		http://babelnet.org/rdf/s00083286v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13162 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	6569	hard.a	375	Difficulty	MANUAL	6556918	24	27	AlK	hard
+LINKED:[6	6	24	27	bn:00101358a		http://babelnet.org/rdf/s00101358a	1.0	0.08	0.0037278659	BABELFY]
+RANK:=== COUNTER  Counter 13163 ===
+	Difficulty: 0.010869565217391304
+
+SELECTED:[Difficulty]
+MATCH!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	5781	work.n	282	Being_employed	MANUAL	6556920	29	32	AlK	work
+LINKED:[7	7	29	32	bn:00081568n		http://babelnet.org/rdf/s00081568n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13164 ===
+	Being_employed: 0.0875
+
+SELECTED:[Being_employed]
+MATCH!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	11771	staff.n	323	Employing	MANUAL	6556921	37	41	AlK	staff
+LINKED:[9	9	37	41	bn:00073801n	http://dbpedia.org/resource/Staff_(military)	http://babelnet.org/rdf/s00073801n	0.9	0.12	0.008387698	BABELFY]
+RANK:=== COUNTER  Counter 13165 ===
+	Employing: 0.015254237288135594
+
+SELECTED:[Employing]
+MATCH!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	12616	service.n	1605	Public_services	MANUAL	6556922	74	81	AlK	services
+LINKED:[16	16	74	81	bn:00070651n	http://dbpedia.org/resource/Service_(economics)	http://babelnet.org/rdf/s00070651n	0.72727275	0.4	0.14911464	BABELFY]
+RANK:=== COUNTER  Counter 13166 ===
+	Public_services: 0.00909090909090909
+
+SELECTED:[Public_services]
+MATCH!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	11686	produce.v	319	Creating	MANUAL	6556923	88	95	AlK	produces
+LINKED:[18	18	88	95	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13167 ===
+	Behind_the_scenes: 0.075
+	Manufacturing: 0.05625
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	2557	kind.n	128	Type	MANUAL	6556924	101	104	AlK	kind
+LINKED:[20	20	101	104	bn:00035907n		http://babelnet.org/rdf/s00035907n	1.0	0.08	0.0037278659	BABELFY]
+RANK:=== COUNTER  Counter 13168 ===
+	Sufficiency: 0.05142857142857143
+	Diversity: 0.04857142857142857
+	Word_relations: 0.04
+	Achieving_first: 0.03428571428571429
+	Type: 0.02857142857142857
+	Amounting_to: 0.014285714285714285
+	Scarcity: 0.011428571428571429
+	Being_in_category: 0.011428571428571429
+	Be_subset_of: 0.008571428571428572
+	Memorization: 0.008571428571428572
+
+SELECTED:[Type]
+MATCH!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	10440	inspire.v	1083	Subjective_influence	MANUAL	6556925	109	117	AlK	inspiring
+LINKED:[22	22	109	117	bn:00082627v		http://babelnet.org/rdf/s00082627v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13169 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	14552	result.n	5	Causation	MANUAL	6556926	119	125	AlK	results
+LINKED:[23	23	119	125	bn:00021961n	http://dbpedia.org/resource/Result	http://babelnet.org/rdf/s00021961n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13170 ===
+	Self_motion: 0.15352112676056337
+	Experiencer_obj: 0.12112676056338029
+	Statement: 0.09295774647887324
+	Judgment_communication: 0.07887323943661972
+	Body_movement: 0.0676056338028169
+	Change_position_on_a_scale: 0.06338028169014084
+	Personal_relationship: 0.06056338028169014
+	Removing: 0.059154929577464786
+	Scrutiny: 0.056338028169014086
+	Stimulus_focus: 0.04929577464788732
+	Judgment: 0.04929577464788732
+	Expertise: 0.04788732394366197
+	Path_shape: 0.04788732394366197
+	Impact: 0.04788732394366197
+	Mental_property: 0.04507042253521127
+	Hostile_encounter: 0.04366197183098591
+	Motion_noise: 0.04225352112676056
+	Quantity: 0.04225352112676056
+	Attack: 0.03943661971830986
+	Cause_motion: 0.03943661971830986
+	Desiring: 0.03943661971830986
+	Documents: 0.038028169014084505
+	Compliance: 0.036619718309859155
+	Social_interaction_evaluation: 0.03380281690140845
+	Similarity: 0.030985915492957747
+	Awareness: 0.030985915492957747
+	Request: 0.030985915492957747
+	Social_event: 0.030985915492957747
+	Categorization: 0.030985915492957747
+	Cause_impact: 0.029577464788732393
+	Evidence: 0.029577464788732393
+	Prevarication: 0.029577464788732393
+	Fluidic_motion: 0.028169014084507043
+	Cause_change_of_position_on_a_scale: 0.028169014084507043
+	Cure: 0.028169014084507043
+	Frequency: 0.02676056338028169
+	Discussion: 0.02676056338028169
+	Morality_evaluation: 0.02676056338028169
+	Likelihood: 0.02676056338028169
+	Compatibility: 0.02676056338028169
+	Cause_expansion: 0.02676056338028169
+	Arriving: 0.02676056338028169
+	Giving: 0.02535211267605634
+	Quitting_a_place: 0.02535211267605634
+	Cause_to_fragment: 0.02535211267605634
+	Change_posture: 0.02535211267605634
+	Coming_to_believe: 0.023943661971830985
+	Moving_in_place: 0.023943661971830985
+	Posture: 0.023943661971830985
+	Motion: 0.023943661971830985
+	Cotheme: 0.022535211267605635
+	Becoming_aware: 0.022535211267605635
+	Attempt_suasion: 0.022535211267605635
+	Destroying: 0.022535211267605635
+	Damaging: 0.02112676056338028
+	Communicate_categorization: 0.02112676056338028
+	Quarreling: 0.02112676056338028
+	Hindering: 0.02112676056338028
+	Ingest_substance: 0.02112676056338028
+	Intentionally_act: 0.01971830985915493
+	Manipulate_into_doing: 0.01971830985915493
+	Being_employed: 0.01971830985915493
+	Text_creation: 0.01971830985915493
+	Traversing: 0.01971830985915493
+	Forming_relationships: 0.01971830985915493
+	Speak_on_topic: 0.01971830985915493
+	Possession: 0.01971830985915493
+	Frugality: 0.018309859154929577
+	Importance: 0.018309859154929577
+	Means: 0.018309859154929577
+	Avoiding: 0.018309859154929577
+	Perception_experience: 0.018309859154929577
+	Taking_sides: 0.018309859154929577
+	Wearing: 0.018309859154929577
+	Undergo_change: 0.018309859154929577
+	Sleep: 0.018309859154929577
+	Expansion: 0.018309859154929577
+	Chatting: 0.016901408450704224
+	Cause_to_start: 0.016901408450704224
+	Cause_change: 0.016901408450704224
+	Weather: 0.016901408450704224
+	Coming_up_with: 0.016901408450704224
+	Cogitation: 0.016901408450704224
+	Certainty: 0.016901408450704224
+	Behind_the_scenes: 0.016901408450704224
+	Reporting: 0.016901408450704224
+	Obviousness: 0.015492957746478873
+	Death: 0.015492957746478873
+	Verdict: 0.015492957746478873
+	Protecting: 0.015492957746478873
+	Expectation: 0.015492957746478873
+	Linguistic_meaning: 0.015492957746478873
+	Facial_expression: 0.015492957746478873
+	Execution: 0.015492957746478873
+	Causation: 0.015492957746478873
+	Opinion: 0.015492957746478873
+	Reveal_secret: 0.015492957746478873
+	Purpose: 0.014084507042253521
+	Dispersal: 0.014084507042253521
+	Separating: 0.014084507042253521
+	Questioning: 0.014084507042253521
+	Cause_to_make_noise: 0.014084507042253521
+	Omen: 0.014084507042253521
+	Creating: 0.014084507042253521
+	Cause_to_move_in_place: 0.014084507042253521
+	Communication: 0.014084507042253521
+	Success_or_failure: 0.014084507042253521
+	Assessing: 0.014084507042253521
+	Successful_action: 0.014084507042253521
+	Bungling: 0.014084507042253521
+	Being_at_risk: 0.014084507042253521
+	Usefulness: 0.014084507042253521
+	Conduct: 0.014084507042253521
+	Custom: 0.014084507042253521
+	Type: 0.014084507042253521
+	Beat_opponent: 0.01267605633802817
+	Grasp: 0.01267605633802817
+	Participation: 0.01267605633802817
+	Sign: 0.01267605633802817
+	Performers_and_roles: 0.01267605633802817
+	Motion_directional: 0.01267605633802817
+	Accuracy: 0.01267605633802817
+	Trust: 0.01267605633802817
+	Emotions_of_mental_activity: 0.01267605633802817
+	Choosing: 0.01267605633802817
+	Capability: 0.01267605633802817
+	Predicament: 0.01267605633802817
+	Law: 0.01267605633802817
+	Temporal_subregion: 0.01267605633802817
+	Activity_start: 0.01267605633802817
+	Reasoning: 0.01267605633802817
+	Risky_situation: 0.011267605633802818
+	Topic: 0.011267605633802818
+	Range: 0.011267605633802818
+	Legality: 0.011267605633802818
+	Justifying: 0.011267605633802818
+	Bragging: 0.011267605633802818
+	Coincidence: 0.011267605633802818
+	Criminal_investigation: 0.011267605633802818
+	Unattributed_information: 0.011267605633802818
+	Ambient_temperature: 0.011267605633802818
+	Suitability: 0.011267605633802818
+	Telling: 0.011267605633802818
+	Getting: 0.011267605633802818
+	Verification: 0.011267605633802818
+	Touring: 0.011267605633802818
+	Cause_temperature_change: 0.011267605633802818
+	Attempt: 0.011267605633802818
+	Coming_to_be: 0.011267605633802818
+	Change_direction: 0.011267605633802818
+	Competition: 0.011267605633802818
+	Thriving: 0.011267605633802818
+	Change_event_time: 0.009859154929577466
+	Daring: 0.009859154929577466
+	Respond_to_proposal: 0.009859154929577466
+	Capacity: 0.009859154929577466
+	Temporary_stay: 0.009859154929577466
+	Ceasing_to_be: 0.009859154929577466
+	Imposing_obligation: 0.009859154929577466
+	Forgoing: 0.009859154929577466
+	Expressing_publicly: 0.009859154929577466
+	Social_connection: 0.009859154929577466
+	Deserving: 0.009859154929577466
+	Distinctiveness: 0.009859154929577466
+	Getting_vehicle_underway: 0.009859154929577466
+	Talking_into: 0.009859154929577466
+	Fairness_evaluation: 0.009859154929577466
+	Visiting: 0.009859154929577466
+	Adjusting: 0.009859154929577466
+	Terms_of_agreement: 0.009859154929577466
+	Predicting: 0.009859154929577466
+	Proliferating_in_number: 0.009859154929577466
+	Giving_in: 0.009859154929577466
+	Differentiation: 0.009859154929577466
+	Becoming: 0.009859154929577466
+	Replacing: 0.009859154929577466
+	Come_together: 0.009859154929577466
+	Process_start: 0.009859154929577466
+	Taking_time: 0.008450704225352112
+	Practice: 0.008450704225352112
+	Simultaneity: 0.008450704225352112
+	Process_continue: 0.008450704225352112
+	Evading: 0.008450704225352112
+	Gesture: 0.008450704225352112
+	Encoding: 0.008450704225352112
+	Evoking: 0.008450704225352112
+	Fall_asleep: 0.008450704225352112
+	Subjective_influence: 0.008450704225352112
+	Reforming_a_system: 0.008450704225352112
+	Emotion_active: 0.008450704225352112
+	Feigning: 0.008450704225352112
+	Process_stop: 0.008450704225352112
+	Surpassing: 0.008450704225352112
+	Regard: 0.008450704225352112
+	Inclusion: 0.008450704225352112
+	Others_situation_as_stimulus: 0.008450704225352112
+	Render_nonfunctional: 0.008450704225352112
+	Temperature: 0.008450704225352112
+	Process_end: 0.008450704225352112
+	Bail_decision: 0.008450704225352112
+	Attention: 0.008450704225352112
+	Using: 0.008450704225352112
+	Earnings_and_losses: 0.007746478873239437
+	Withdraw_from_participation: 0.007042253521126761
+	Commutative_process: 0.007042253521126761
+	Surrendering_possession: 0.007042253521126761
+	Exclude_member: 0.007042253521126761
+	Fear: 0.007042253521126761
+	Losing_it: 0.007042253521126761
+	Change_event_duration: 0.007042253521126761
+	Shoot_projectiles: 0.007042253521126761
+	Probability: 0.007042253521126761
+	Suasion: 0.007042253521126761
+	Claim_ownership: 0.007042253521126761
+	Fighting_activity: 0.007042253521126761
+	Surviving: 0.007042253521126761
+	Memory: 0.007042253521126761
+	Aiming: 0.007042253521126761
+	Sequence: 0.007042253521126761
+	Make_cognitive_connection: 0.007042253521126761
+	Recovery: 0.007042253521126761
+	Cause_to_perceive: 0.007042253521126761
+	Taking: 0.007042253521126761
+	Meet_specifications: 0.007042253521126761
+	Abandonment: 0.007042253521126761
+	Exchange: 0.007042253521126761
+	Hit_or_miss: 0.007042253521126761
+	Becoming_a_member: 0.007042253521126761
+	Correctness: 0.007042253521126761
+	Event: 0.007042253521126761
+	Activity_pause: 0.007042253521126761
+	Activity_finish: 0.007042253521126761
+	Emanating: 0.007042253521126761
+	Institutionalization: 0.007042253521126761
+	Sign_agreement: 0.007042253521126761
+	Escaping: 0.007042253521126761
+	Activity_prepare: 0.007042253521126761
+	Besieging: 0.007042253521126761
+	Reason: 0.007042253521126761
+	Difficulty: 0.007042253521126761
+	Accomplishment: 0.007042253521126761
+	Going_back_on_a_commitment: 0.005633802816901409
+	Tolerating: 0.005633802816901409
+	Adopt_selection: 0.005633802816901409
+	Project: 0.005633802816901409
+	Interrupt_process: 0.005633802816901409
+	Undergoing: 0.005633802816901409
+	Remainder: 0.005633802816901409
+	Receiving: 0.005633802816901409
+	Preliminaries: 0.005633802816901409
+	Seeking_to_achieve: 0.005633802816901409
+	Operational_testing: 0.005633802816901409
+	Hit_target: 0.005633802816901409
+	Completeness: 0.005633802816901409
+	Opportunity: 0.005633802816901409
+	Rest: 0.005633802816901409
+	Change_resistance: 0.005633802816901409
+	Color_qualities: 0.005633802816901409
+	Be_in_agreement_on_assessment: 0.005633802816901409
+	Identicality: 0.005633802816901409
+	Point_of_dispute: 0.005633802816901409
+	Assemble: 0.005633802816901409
+	Exercising: 0.005633802816901409
+	Dominate_situation: 0.005633802816901409
+	Cause_to_end: 0.005633802816901409
+	Agree_or_refuse_to_act: 0.005633802816901409
+	Holding_off_on: 0.005633802816901409
+	Being_awake: 0.005633802816901409
+	Cause_to_wake: 0.005633802816901409
+	Exemplar: 0.005633802816901409
+	Explaining_the_facts: 0.005633802816901409
+	Adducing: 0.005633802816901409
+	Activity_ready_state: 0.005633802816901409
+	Event_instance: 0.005633802816901409
+	Fleeing: 0.005633802816901409
+	Sidereal_appearance: 0.005633802816901409
+	Instance: 0.005633802816901409
+	Waking_up: 0.005633802816901409
+	Setting_out: 0.005633802816901409
+	Breaking_off: 0.005633802816901409
+	Run_risk: 0.005633802816901409
+	Encounter: 0.005633802816901409
+	Change_tool: 0.005633802816901409
+	Attending: 0.005633802816901409
+	Turning_out: 0.005633802816901409
+	Use_firearm: 0.004225352112676056
+	Deciding: 0.004225352112676056
+	Sharpness: 0.004225352112676056
+	Meet_with_response: 0.004225352112676056
+	Eventive_affecting: 0.004225352112676056
+	Cognitive_connection: 0.004225352112676056
+	Offering: 0.004225352112676056
+	Renting: 0.004225352112676056
+	Exchange_currency: 0.004225352112676056
+	Remembering_to_do: 0.004225352112676056
+	Left_to_do: 0.004225352112676056
+	Trying_out: 0.004225352112676056
+	Pattern: 0.004225352112676056
+	Change_of_quantity_of_possession: 0.004225352112676056
+	Commerce_collect: 0.004225352112676056
+	Location_in_time: 0.004225352112676056
+	Non-commutative_statement: 0.004225352112676056
+	Tasting: 0.004225352112676056
+	Jury_deliberation: 0.004225352112676056
+	Remembering_information: 0.004225352112676056
+	Commerce_buy: 0.004225352112676056
+	Preference: 0.004225352112676056
+	Rank: 0.004225352112676056
+	Locating: 0.004225352112676056
+	Needing: 0.004225352112676056
+	Ratification: 0.004225352112676056
+	Cause_to_be_included: 0.004225352112676056
+	Endangering: 0.004225352112676056
+	Execute_plan: 0.0035211267605633804
+	Objective_influence: 0.0035211267605633804
+	Try_defendant: 0.0028169014084507044
+	Being_operational: 0.0028169014084507044
+	Have_as_requirement: 0.0028169014084507044
+	Being_in_operation: 0.0028169014084507044
+	Get_a_job: 0.0028169014084507044
+	Scope: 0.0028169014084507044
+	Getting_up: 0.0028169014084507044
+	Representing: 0.0028169014084507044
+	Rising_to_a_challenge: 0.0028169014084507044
+	Studying: 0.0028169014084507044
+	Dough_rising: 0.0028169014084507044
+	Waiting: 0.0028169014084507044
+	Commercial_transaction: 0.0028169014084507044
+	State_continue: 0.0028169014084507044
+	Attempt_means: 0.0028169014084507044
+	Process: 0.0028169014084507044
+	Social_event_collective: 0.0028169014084507044
+	Relation: 0.0028169014084507044
+	Being_in_effect: 0.002112676056338028
+
+SELECTED:[Causation]
+MATCH!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	1535	see.v	70	Perception_experience	MANUAL	6556927	129	131	AlK	see
+LINKED:[25	25	129	131	bn:00093430v		http://babelnet.org/rdf/s00093430v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13171 ===
+	Categorization: 0.1
+	Causation: 0.1
+	Perception_experience: 0.05909090909090909
+	Grasp: 0.04090909090909091
+	Touring: 0.03636363636363636
+	Reference_text: 0.00909090909090909
+
+SELECTED:[Perception_experience]
+MATCH!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	3946	day.n	229	Calendric_unit	MANUAL	6556928	139	141	AlK	day
+LINKED:[27	27	139	141	bn:00025420n		http://babelnet.org/rdf/s00025420n	0.8	0.08	0.0037278659	BABELFY]
+RANK:=== COUNTER  Counter 13172 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	11771	staff.n	323	Employing	MANUAL	6556929	156	160	AlK	staff
+LINKED:[31	31	156	160	bn:00073801n	http://dbpedia.org/resource/Staff_(military)	http://babelnet.org/rdf/s00073801n	0.9	0.12	0.008387698	BABELFY]
+RANK:=== COUNTER  Counter 13173 ===
+	Employing: 0.015254237288135594
+
+SELECTED:[Employing]
+MATCH!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	10279	member.n	1026	Membership	MANUAL	6556930	162	167	AlK	member
+LINKED:[32	32	162	167	bn:00034004n		http://babelnet.org/rdf/s00034004n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13174 ===
+	Membership: 0.022222222222222223
+	Appellations: 0.014814814814814815
+
+SELECTED:[Membership]
+MATCH!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	675	address.v	43	Statement	MANUAL	6556931	169	177	AlK	addresses
+LINKED:[33	33	169	177	bn:00001302n	http://dbpedia.org/resource/Address_space	http://babelnet.org/rdf/s00001302n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13175 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	13730	earn.v	1873	Earnings_and_losses	MANUAL	6556933	222	225	AlK	earn
+LINKED:[43	43	222	225	bn:00084089v		http://babelnet.org/rdf/s00084089v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13176 ===
+	Earnings_and_losses: 0.016417910447761194
+
+SELECTED:[Earnings_and_losses]
+MATCH!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	13361	money.n	1761	Money	MANUAL	6556934	231	235	AlK	money
+LINKED:[45	45	231	235	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	1.0	0.48	0.23485555	BABELFY]
+RANK:=== COUNTER  Counter 13177 ===
+	Money: 0.013207547169811321
+
+SELECTED:[Money]
+MATCH!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	14738	support.v	2000	Supporting	MANUAL	6556935	240	246	AlK	support
+LINKED:[47	47	240	246	bn:00082995v		http://babelnet.org/rdf/s00082995v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13178 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	2307	family.n	104	Kinship	MANUAL	6556936	266	271	AlK	family
+LINKED:[51	51	266	271	bn:00032892n	http://dbpedia.org/resource/Household	http://babelnet.org/rdf/s00032892n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13179 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	11	0	4106467	At Goodwill , it is the hard work of staff and those who benefit from our services that produces the kind of inspiring results I see every day : A Goodwill staff member addresses a group of welfare recipients : `` You can earn the money to support yourself and your family , '' she says .	751	say.v	43	Statement	MANUAL	6556937	282	285	AlK	says
+LINKED:[54	54	282	285	bn:00093287v		http://babelnet.org/rdf/s00093287v	1.0	0.12	0.008387698	BABELFY]
+RANK:=== COUNTER  Counter 13180 ===
+	Statement: 0.275
+	Prevarication: 0.0875
+	Becoming_aware: 0.06666666666666667
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.041666666666666664
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[Statement]
+MATCH!
+SILVER:195	23794	3	11	0	4106469	I know you can ... I did . ''	160	know.v	19	Awareness	MANUAL	6556939	2	5	AlK	know
+LINKED:[1	1	2	5	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13181 ===
+	Awareness: 0.06285714285714286
+	Certainty: 0.03428571428571429
+	Differentiation: 0.02
+	Familiarity: 0.017142857142857144
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:195	23794	1	12	0	4106470	A participant in a Goodwill program rushes back from a job interview to share the results with his classmates in our desktop publishing training program .	10628	participant.n	1144	Participation	MANUAL	6556941	2	12	AlK	participant
+LINKED:[1	1	2	12	bn:00060798n		http://babelnet.org/rdf/s00060798n	1.0	0.071428575	0.008097166	BABELFY]
+RANK:=== COUNTER  Counter 13182 ===
+	Participation: 0.18
+
+SELECTED:[Participation]
+MATCH!
+SILVER:195	23794	1	12	0	4106470	A participant in a Goodwill program rushes back from a job interview to share the results with his classmates in our desktop publishing training program .	10724	program.n	1158	Project	MANUAL	6556942	28	34	AlK	program
+LINKED:[5	5	28	34	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13183 ===
+	Purpose: 0.014285714285714285
+	Project: 0.005714285714285714
+	Hospitality: 0.005714285714285714
+
+SELECTED:[Project]
+MATCH!
+SILVER:195	23794	1	12	0	4106470	A participant in a Goodwill program rushes back from a job interview to share the results with his classmates in our desktop publishing training program .	1208	rush.v	64	Self_motion	MANUAL	6556943	36	41	AlK	rushes
+LINKED:[6	6	36	41	bn:00089232v		http://babelnet.org/rdf/s00089232v	1.0	0.071428575	0.0020242915	BABELFY]
+RANK:=== COUNTER  Counter 13184 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	12	0	4106470	A participant in a Goodwill program rushes back from a job interview to share the results with his classmates in our desktop publishing training program .	14552	result.n	5	Causation	MANUAL	6556945	82	88	AlK	results
+LINKED:[15	15	82	88	bn:00021961n	http://dbpedia.org/resource/Result	http://babelnet.org/rdf/s00021961n	0.8	0.14285715	0.008097166	BABELFY]
+RANK:=== COUNTER  Counter 13185 ===
+	Self_motion: 0.15352112676056337
+	Experiencer_obj: 0.12112676056338029
+	Statement: 0.09295774647887324
+	Judgment_communication: 0.07887323943661972
+	Body_movement: 0.0676056338028169
+	Change_position_on_a_scale: 0.06338028169014084
+	Personal_relationship: 0.06056338028169014
+	Removing: 0.059154929577464786
+	Scrutiny: 0.056338028169014086
+	Stimulus_focus: 0.04929577464788732
+	Judgment: 0.04929577464788732
+	Expertise: 0.04788732394366197
+	Path_shape: 0.04788732394366197
+	Impact: 0.04788732394366197
+	Mental_property: 0.04507042253521127
+	Hostile_encounter: 0.04366197183098591
+	Motion_noise: 0.04225352112676056
+	Quantity: 0.04225352112676056
+	Attack: 0.03943661971830986
+	Cause_motion: 0.03943661971830986
+	Desiring: 0.03943661971830986
+	Documents: 0.038028169014084505
+	Compliance: 0.036619718309859155
+	Social_interaction_evaluation: 0.03380281690140845
+	Similarity: 0.030985915492957747
+	Awareness: 0.030985915492957747
+	Request: 0.030985915492957747
+	Social_event: 0.030985915492957747
+	Categorization: 0.030985915492957747
+	Cause_impact: 0.029577464788732393
+	Evidence: 0.029577464788732393
+	Prevarication: 0.029577464788732393
+	Fluidic_motion: 0.028169014084507043
+	Cause_change_of_position_on_a_scale: 0.028169014084507043
+	Cure: 0.028169014084507043
+	Frequency: 0.02676056338028169
+	Discussion: 0.02676056338028169
+	Morality_evaluation: 0.02676056338028169
+	Likelihood: 0.02676056338028169
+	Compatibility: 0.02676056338028169
+	Cause_expansion: 0.02676056338028169
+	Arriving: 0.02676056338028169
+	Giving: 0.02535211267605634
+	Quitting_a_place: 0.02535211267605634
+	Cause_to_fragment: 0.02535211267605634
+	Change_posture: 0.02535211267605634
+	Coming_to_believe: 0.023943661971830985
+	Moving_in_place: 0.023943661971830985
+	Posture: 0.023943661971830985
+	Motion: 0.023943661971830985
+	Cotheme: 0.022535211267605635
+	Becoming_aware: 0.022535211267605635
+	Attempt_suasion: 0.022535211267605635
+	Destroying: 0.022535211267605635
+	Damaging: 0.02112676056338028
+	Communicate_categorization: 0.02112676056338028
+	Quarreling: 0.02112676056338028
+	Hindering: 0.02112676056338028
+	Ingest_substance: 0.02112676056338028
+	Intentionally_act: 0.01971830985915493
+	Manipulate_into_doing: 0.01971830985915493
+	Being_employed: 0.01971830985915493
+	Text_creation: 0.01971830985915493
+	Traversing: 0.01971830985915493
+	Forming_relationships: 0.01971830985915493
+	Speak_on_topic: 0.01971830985915493
+	Possession: 0.01971830985915493
+	Frugality: 0.018309859154929577
+	Importance: 0.018309859154929577
+	Means: 0.018309859154929577
+	Avoiding: 0.018309859154929577
+	Perception_experience: 0.018309859154929577
+	Taking_sides: 0.018309859154929577
+	Wearing: 0.018309859154929577
+	Undergo_change: 0.018309859154929577
+	Sleep: 0.018309859154929577
+	Expansion: 0.018309859154929577
+	Chatting: 0.016901408450704224
+	Cause_to_start: 0.016901408450704224
+	Cause_change: 0.016901408450704224
+	Weather: 0.016901408450704224
+	Coming_up_with: 0.016901408450704224
+	Cogitation: 0.016901408450704224
+	Certainty: 0.016901408450704224
+	Behind_the_scenes: 0.016901408450704224
+	Reporting: 0.016901408450704224
+	Obviousness: 0.015492957746478873
+	Death: 0.015492957746478873
+	Verdict: 0.015492957746478873
+	Protecting: 0.015492957746478873
+	Expectation: 0.015492957746478873
+	Linguistic_meaning: 0.015492957746478873
+	Facial_expression: 0.015492957746478873
+	Execution: 0.015492957746478873
+	Causation: 0.015492957746478873
+	Opinion: 0.015492957746478873
+	Reveal_secret: 0.015492957746478873
+	Purpose: 0.014084507042253521
+	Dispersal: 0.014084507042253521
+	Separating: 0.014084507042253521
+	Questioning: 0.014084507042253521
+	Cause_to_make_noise: 0.014084507042253521
+	Omen: 0.014084507042253521
+	Creating: 0.014084507042253521
+	Cause_to_move_in_place: 0.014084507042253521
+	Communication: 0.014084507042253521
+	Success_or_failure: 0.014084507042253521
+	Assessing: 0.014084507042253521
+	Successful_action: 0.014084507042253521
+	Bungling: 0.014084507042253521
+	Being_at_risk: 0.014084507042253521
+	Usefulness: 0.014084507042253521
+	Conduct: 0.014084507042253521
+	Custom: 0.014084507042253521
+	Type: 0.014084507042253521
+	Beat_opponent: 0.01267605633802817
+	Grasp: 0.01267605633802817
+	Participation: 0.01267605633802817
+	Sign: 0.01267605633802817
+	Performers_and_roles: 0.01267605633802817
+	Motion_directional: 0.01267605633802817
+	Accuracy: 0.01267605633802817
+	Trust: 0.01267605633802817
+	Emotions_of_mental_activity: 0.01267605633802817
+	Choosing: 0.01267605633802817
+	Capability: 0.01267605633802817
+	Predicament: 0.01267605633802817
+	Law: 0.01267605633802817
+	Temporal_subregion: 0.01267605633802817
+	Activity_start: 0.01267605633802817
+	Reasoning: 0.01267605633802817
+	Risky_situation: 0.011267605633802818
+	Topic: 0.011267605633802818
+	Range: 0.011267605633802818
+	Legality: 0.011267605633802818
+	Justifying: 0.011267605633802818
+	Bragging: 0.011267605633802818
+	Coincidence: 0.011267605633802818
+	Criminal_investigation: 0.011267605633802818
+	Unattributed_information: 0.011267605633802818
+	Ambient_temperature: 0.011267605633802818
+	Suitability: 0.011267605633802818
+	Telling: 0.011267605633802818
+	Getting: 0.011267605633802818
+	Verification: 0.011267605633802818
+	Touring: 0.011267605633802818
+	Cause_temperature_change: 0.011267605633802818
+	Attempt: 0.011267605633802818
+	Coming_to_be: 0.011267605633802818
+	Change_direction: 0.011267605633802818
+	Competition: 0.011267605633802818
+	Thriving: 0.011267605633802818
+	Change_event_time: 0.009859154929577466
+	Daring: 0.009859154929577466
+	Respond_to_proposal: 0.009859154929577466
+	Capacity: 0.009859154929577466
+	Temporary_stay: 0.009859154929577466
+	Ceasing_to_be: 0.009859154929577466
+	Imposing_obligation: 0.009859154929577466
+	Forgoing: 0.009859154929577466
+	Expressing_publicly: 0.009859154929577466
+	Social_connection: 0.009859154929577466
+	Deserving: 0.009859154929577466
+	Distinctiveness: 0.009859154929577466
+	Getting_vehicle_underway: 0.009859154929577466
+	Talking_into: 0.009859154929577466
+	Fairness_evaluation: 0.009859154929577466
+	Visiting: 0.009859154929577466
+	Adjusting: 0.009859154929577466
+	Terms_of_agreement: 0.009859154929577466
+	Predicting: 0.009859154929577466
+	Proliferating_in_number: 0.009859154929577466
+	Giving_in: 0.009859154929577466
+	Differentiation: 0.009859154929577466
+	Becoming: 0.009859154929577466
+	Replacing: 0.009859154929577466
+	Come_together: 0.009859154929577466
+	Process_start: 0.009859154929577466
+	Taking_time: 0.008450704225352112
+	Practice: 0.008450704225352112
+	Simultaneity: 0.008450704225352112
+	Process_continue: 0.008450704225352112
+	Evading: 0.008450704225352112
+	Gesture: 0.008450704225352112
+	Encoding: 0.008450704225352112
+	Evoking: 0.008450704225352112
+	Fall_asleep: 0.008450704225352112
+	Subjective_influence: 0.008450704225352112
+	Reforming_a_system: 0.008450704225352112
+	Emotion_active: 0.008450704225352112
+	Feigning: 0.008450704225352112
+	Process_stop: 0.008450704225352112
+	Surpassing: 0.008450704225352112
+	Regard: 0.008450704225352112
+	Inclusion: 0.008450704225352112
+	Others_situation_as_stimulus: 0.008450704225352112
+	Render_nonfunctional: 0.008450704225352112
+	Temperature: 0.008450704225352112
+	Process_end: 0.008450704225352112
+	Bail_decision: 0.008450704225352112
+	Attention: 0.008450704225352112
+	Using: 0.008450704225352112
+	Earnings_and_losses: 0.007746478873239437
+	Withdraw_from_participation: 0.007042253521126761
+	Commutative_process: 0.007042253521126761
+	Surrendering_possession: 0.007042253521126761
+	Exclude_member: 0.007042253521126761
+	Fear: 0.007042253521126761
+	Losing_it: 0.007042253521126761
+	Change_event_duration: 0.007042253521126761
+	Shoot_projectiles: 0.007042253521126761
+	Probability: 0.007042253521126761
+	Suasion: 0.007042253521126761
+	Claim_ownership: 0.007042253521126761
+	Fighting_activity: 0.007042253521126761
+	Surviving: 0.007042253521126761
+	Memory: 0.007042253521126761
+	Aiming: 0.007042253521126761
+	Sequence: 0.007042253521126761
+	Make_cognitive_connection: 0.007042253521126761
+	Recovery: 0.007042253521126761
+	Cause_to_perceive: 0.007042253521126761
+	Taking: 0.007042253521126761
+	Meet_specifications: 0.007042253521126761
+	Abandonment: 0.007042253521126761
+	Exchange: 0.007042253521126761
+	Hit_or_miss: 0.007042253521126761
+	Becoming_a_member: 0.007042253521126761
+	Correctness: 0.007042253521126761
+	Event: 0.007042253521126761
+	Activity_pause: 0.007042253521126761
+	Activity_finish: 0.007042253521126761
+	Emanating: 0.007042253521126761
+	Institutionalization: 0.007042253521126761
+	Sign_agreement: 0.007042253521126761
+	Escaping: 0.007042253521126761
+	Activity_prepare: 0.007042253521126761
+	Besieging: 0.007042253521126761
+	Reason: 0.007042253521126761
+	Difficulty: 0.007042253521126761
+	Accomplishment: 0.007042253521126761
+	Going_back_on_a_commitment: 0.005633802816901409
+	Tolerating: 0.005633802816901409
+	Adopt_selection: 0.005633802816901409
+	Project: 0.005633802816901409
+	Interrupt_process: 0.005633802816901409
+	Undergoing: 0.005633802816901409
+	Remainder: 0.005633802816901409
+	Receiving: 0.005633802816901409
+	Preliminaries: 0.005633802816901409
+	Seeking_to_achieve: 0.005633802816901409
+	Operational_testing: 0.005633802816901409
+	Hit_target: 0.005633802816901409
+	Completeness: 0.005633802816901409
+	Opportunity: 0.005633802816901409
+	Rest: 0.005633802816901409
+	Change_resistance: 0.005633802816901409
+	Color_qualities: 0.005633802816901409
+	Be_in_agreement_on_assessment: 0.005633802816901409
+	Identicality: 0.005633802816901409
+	Point_of_dispute: 0.005633802816901409
+	Assemble: 0.005633802816901409
+	Exercising: 0.005633802816901409
+	Dominate_situation: 0.005633802816901409
+	Cause_to_end: 0.005633802816901409
+	Agree_or_refuse_to_act: 0.005633802816901409
+	Holding_off_on: 0.005633802816901409
+	Being_awake: 0.005633802816901409
+	Cause_to_wake: 0.005633802816901409
+	Exemplar: 0.005633802816901409
+	Explaining_the_facts: 0.005633802816901409
+	Adducing: 0.005633802816901409
+	Activity_ready_state: 0.005633802816901409
+	Event_instance: 0.005633802816901409
+	Fleeing: 0.005633802816901409
+	Sidereal_appearance: 0.005633802816901409
+	Instance: 0.005633802816901409
+	Waking_up: 0.005633802816901409
+	Setting_out: 0.005633802816901409
+	Breaking_off: 0.005633802816901409
+	Run_risk: 0.005633802816901409
+	Encounter: 0.005633802816901409
+	Change_tool: 0.005633802816901409
+	Attending: 0.005633802816901409
+	Turning_out: 0.005633802816901409
+	Use_firearm: 0.004225352112676056
+	Deciding: 0.004225352112676056
+	Sharpness: 0.004225352112676056
+	Meet_with_response: 0.004225352112676056
+	Eventive_affecting: 0.004225352112676056
+	Cognitive_connection: 0.004225352112676056
+	Offering: 0.004225352112676056
+	Renting: 0.004225352112676056
+	Exchange_currency: 0.004225352112676056
+	Remembering_to_do: 0.004225352112676056
+	Left_to_do: 0.004225352112676056
+	Trying_out: 0.004225352112676056
+	Pattern: 0.004225352112676056
+	Change_of_quantity_of_possession: 0.004225352112676056
+	Commerce_collect: 0.004225352112676056
+	Location_in_time: 0.004225352112676056
+	Non-commutative_statement: 0.004225352112676056
+	Tasting: 0.004225352112676056
+	Jury_deliberation: 0.004225352112676056
+	Remembering_information: 0.004225352112676056
+	Commerce_buy: 0.004225352112676056
+	Preference: 0.004225352112676056
+	Rank: 0.004225352112676056
+	Locating: 0.004225352112676056
+	Needing: 0.004225352112676056
+	Ratification: 0.004225352112676056
+	Cause_to_be_included: 0.004225352112676056
+	Endangering: 0.004225352112676056
+	Execute_plan: 0.0035211267605633804
+	Objective_influence: 0.0035211267605633804
+	Try_defendant: 0.0028169014084507044
+	Being_operational: 0.0028169014084507044
+	Have_as_requirement: 0.0028169014084507044
+	Being_in_operation: 0.0028169014084507044
+	Get_a_job: 0.0028169014084507044
+	Scope: 0.0028169014084507044
+	Getting_up: 0.0028169014084507044
+	Representing: 0.0028169014084507044
+	Rising_to_a_challenge: 0.0028169014084507044
+	Studying: 0.0028169014084507044
+	Dough_rising: 0.0028169014084507044
+	Waiting: 0.0028169014084507044
+	Commercial_transaction: 0.0028169014084507044
+	State_continue: 0.0028169014084507044
+	Attempt_means: 0.0028169014084507044
+	Process: 0.0028169014084507044
+	Social_event_collective: 0.0028169014084507044
+	Relation: 0.0028169014084507044
+	Being_in_effect: 0.002112676056338028
+
+SELECTED:[Causation]
+MATCH!
+SILVER:195	23794	1	12	0	4106470	A participant in a Goodwill program rushes back from a job interview to share the results with his classmates in our desktop publishing training program .	10724	program.n	1158	Project	MANUAL	6556947	145	151	AlK	program
+LINKED:[24	24	145	151	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13186 ===
+	Purpose: 0.014285714285714285
+	Project: 0.005714285714285714
+	Hospitality: 0.005714285714285714
+
+SELECTED:[Project]
+MATCH!
+SILVER:195	23794	1	12	0	4106470	A participant in a Goodwill program rushes back from a job interview to share the results with his classmates in our desktop publishing training program .	5785	job.n	282	Being_employed	MANUAL	6562210	55	57	MLC	job
+LINKED:[10	10	55	57	bn:00014138n	http://dbpedia.org/resource/Job	http://babelnet.org/rdf/s00014138n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13187 ===
+	Being_employed: 0.027450980392156862
+
+SELECTED:[Being_employed]
+MATCH!
+SILVER:195	23794	2	12	0	4106471	Once his tears have subsided , he confirms what his classmates have already figured out : he just received a job offer -- his first in five years .	11020	confirm.v	43	Statement	MANUAL	6556948	34	41	AlK	confirms
+LINKED:[7	7	34	41	bn:00082434v		http://babelnet.org/rdf/s00082434v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13188 ===
+	Evidence: 0.06774193548387097
+	Verification: 0.025806451612903226
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	12	0	4106471	Once his tears have subsided , he confirms what his classmates have already figured out : he just received a job offer -- his first in five years .	9731	figure	23	Coming_to_believe	MANUAL	6556950	76	82	EGp	figured
+LINKED:[13	13	76	82	bn:00084373v		http://babelnet.org/rdf/s00084373v	0.85714287	0.4	0.18181819	BABELFY]
+RANK:=== COUNTER  Counter 13189 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	12	0	4106471	Once his tears have subsided , he confirms what his classmates have already figured out : he just received a job offer -- his first in five years .	7537	receive.v	411	Receiving	MANUAL	6556951	98	105	AlK	received
+LINKED:[18	18	98	105	bn:00089246v		http://babelnet.org/rdf/s00089246v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13190 ===
+	Receiving: 0.025
+
+SELECTED:[Receiving]
+MATCH!
+SILVER:195	23794	2	12	0	4106471	Once his tears have subsided , he confirms what his classmates have already figured out : he just received a job offer -- his first in five years .	5785	job.n	282	Being_employed	MANUAL	6556952	109	111	AlK	job
+LINKED:[20	20	109	111	bn:00014138n	http://dbpedia.org/resource/Job	http://babelnet.org/rdf/s00014138n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13191 ===
+	Being_employed: 0.027450980392156862
+
+SELECTED:[Being_employed]
+MATCH!
+SILVER:195	23794	1	13	0	4106472	Addressing a meeting at a neighborhood center , a Goodwill staff member tells the audience how Goodwill can help them find and keep jobs .	675	address.v	43	Statement	MANUAL	6556957	0	9	AlK	Addressing
+LINKED:[0	0	0	9	bn:00082332v		http://babelnet.org/rdf/s00082332v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13192 ===
+	Statement: 0.9428571428571428
+
+SELECTED:[Statement]
+MATCH!
+SILVER:195	23794	1	13	0	4106472	Addressing a meeting at a neighborhood center , a Goodwill staff member tells the audience how Goodwill can help them find and keep jobs .	514	meeting.n	34	Discussion	MANUAL	6556958	13	19	AlK	meeting
+LINKED:[2	2	13	19	bn:00085339v		http://babelnet.org/rdf/s00085339v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13193 ===
+	Response: 0.02631578947368421
+	Encounter: 0.021052631578947368
+	Make_acquaintance: 0.015789473684210527
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	13	0	4106472	Addressing a meeting at a neighborhood center , a Goodwill staff member tells the audience how Goodwill can help them find and keep jobs .	10661	center.n	196	Locale_by_use	MANUAL	6556960	39	44	AlK	center
+LINKED:[6	6	39	44	bn:00017120n		http://babelnet.org/rdf/s00017120n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13194 ===
+	Part_inner_outer: 0.05517241379310345
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	13	0	4106472	Addressing a meeting at a neighborhood center , a Goodwill staff member tells the audience how Goodwill can help them find and keep jobs .	11771	staff.n	323	Employing	MANUAL	6556961	59	63	AlK	staff
+LINKED:[10	10	59	63	bn:00073801n	http://dbpedia.org/resource/Staff_(military)	http://babelnet.org/rdf/s00073801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13195 ===
+	Employing: 0.015254237288135594
+
+SELECTED:[Employing]
+MATCH!
+SILVER:195	23794	1	13	0	4106472	Addressing a meeting at a neighborhood center , a Goodwill staff member tells the audience how Goodwill can help them find and keep jobs .	10279	member.n	1026	Membership	MANUAL	6556962	65	70	AlK	member
+LINKED:[11	11	65	70	bn:00034004n		http://babelnet.org/rdf/s00034004n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13196 ===
+	Membership: 0.022222222222222223
+	Appellations: 0.014814814814814815
+
+SELECTED:[Membership]
+MATCH!
+SILVER:195	23794	1	13	0	4106472	Addressing a meeting at a neighborhood center , a Goodwill staff member tells the audience how Goodwill can help them find and keep jobs .	9177	tell.v	750	Telling	MANUAL	6556963	72	76	AlK	tells
+LINKED:[12	12	72	76	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13197 ===
+	Statement: 0.275
+	Prevarication: 0.0875
+	Becoming_aware: 0.06666666666666667
+	Text_creation: 0.058333333333333334
+	Speak_on_topic: 0.058333333333333334
+	Communication: 0.041666666666666664
+	Spelling_and_pronouncing: 0.029166666666666667
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	13	0	4106472	Addressing a meeting at a neighborhood center , a Goodwill staff member tells the audience how Goodwill can help them find and keep jobs .	7041	help.v	391	Assistance	MANUAL	6556965	108	111	AlK	help
+LINKED:[18	18	108	111	bn:00089309v		http://babelnet.org/rdf/s00089309v	1.0	0.083333336	0.018348623	BABELFY]
+RANK:=== COUNTER  Counter 13198 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	13	0	4106472	Addressing a meeting at a neighborhood center , a Goodwill staff member tells the audience how Goodwill can help them find and keep jobs .	11227	find.v	792	Locating	MANUAL	6556966	118	121	AlK	find
+LINKED:[20	20	118	121	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13199 ===
+	Becoming_aware: 0.05925925925925926
+	Verdict: 0.040740740740740744
+	Locating: 0.011111111111111112
+
+SELECTED:[Locating]
+MATCH!
+SILVER:195	23794	1	13	0	4106472	Addressing a meeting at a neighborhood center , a Goodwill staff member tells the audience how Goodwill can help them find and keep jobs .	4347	keep.v	164	Activity_ongoing	MANUAL	6556967	127	130	AlK	keep
+LINKED:[22	22	127	130	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13200 ===
+	Defend: 6.0
+	Compliance: 0.041935483870967745
+	Inhibit_movement: 0.016129032258064516
+	Activity_ongoing: 0.012903225806451613
+	Storing: 0.01129032258064516
+	Detaining: 0.01129032258064516
+	Cause_to_continue: 0.0032258064516129032
+
+SELECTED:[Activity_ongoing]
+MATCH!
+SILVER:195	23794	1	13	0	4106472	Addressing a meeting at a neighborhood center , a Goodwill staff member tells the audience how Goodwill can help them find and keep jobs .	5785	job.n	282	Being_employed	MANUAL	6556968	132	135	AlK	jobs
+LINKED:[23	23	132	135	bn:00014138n	http://dbpedia.org/resource/Job	http://babelnet.org/rdf/s00014138n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13201 ===
+	Being_employed: 0.027450980392156862
+
+SELECTED:[Being_employed]
+MATCH!
+SILVER:195	23794	2	13	0	4106473	On his way home , he shares the story with four people at a street corner .	5511	people.n	304	People	MANUAL	6557011	48	53	AlK	people
+LINKED:[11	11	48	53	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.72727275	0.5714286	0.09090909	BABELFY]
+RANK:=== COUNTER  Counter 13202 ===
+	Education_teaching: 0.04716981132075472
+	Subordinates_and_superiors: 0.024528301886792454
+	People_by_religion: 0.020754716981132074
+	Attention_getting: 0.018867924528301886
+	Colonization: 0.013207547169811321
+	Secrecy_status: 0.013207547169811321
+	Dead_or_alive: 0.011320754716981131
+	People: 0.011320754716981131
+	People_by_jurisdiction: 0.009433962264150943
+	Indigenous_origin: 0.007547169811320755
+	People_by_residence: 0.007547169811320755
+	Dying: 0.0037735849056603774
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23794	2	13	0	4106473	On his way home , he shares the story with four people at a street corner .	3775	street.n	203	Roadways	MANUAL	6557013	60	65	AlK	street
+LINKED:[14	14	60	65	bn:00074595n	http://dbpedia.org/resource/Street	http://babelnet.org/rdf/s00074595n	0.95238096	0.71428573	0.22727273	BABELFY]
+RANK:=== COUNTER  Counter 13203 ===
+	Roadways: 0.0725
+
+SELECTED:[Roadways]
+MATCH!
+SILVER:195	23794	3	13	0	4106474	At the next corner he tells five more .	9177	tell.v	750	Telling	MANUAL	6557015	22	26	AlK	tells
+LINKED:[5	5	22	26	bn:00094862v		http://babelnet.org/rdf/s00094862v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13204 ===
+	Evidence: 0.15
+	Reporting: 0.08571428571428572
+	Telling: 0.05714285714285714
+
+SELECTED:[Telling]
+MATCH!
+SILVER:195	23794	1	14	0	4106475	In order to develop job skills , a man with some serious disabilities begins working in Goodwill 's industrial division .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6557018	12	18	AlK	develop
+LINKED:[3	3	12	18	bn:00086733v		http://babelnet.org/rdf/s00086733v	1.0	0.2	0.009280742	BABELFY]
+RANK:=== COUNTER  Counter 13205 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	14	0	4106475	In order to develop job skills , a man with some serious disabilities begins working in Goodwill 's industrial division .	5785	job.n	282	Being_employed	MANUAL	6557019	20	22	AlK	job
+LINKED:[4	4	20	22	bn:00014138n	http://dbpedia.org/resource/Job	http://babelnet.org/rdf/s00014138n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13206 ===
+	Being_employed: 0.027450980392156862
+
+SELECTED:[Being_employed]
+MATCH!
+SILVER:195	23794	1	14	0	4106475	In order to develop job skills , a man with some serious disabilities begins working in Goodwill 's industrial division .	2742	skill.n	136	Expertise	MANUAL	6557020	24	29	AlK	skills
+LINKED:[5	5	24	29	bn:00000725n	http://dbpedia.org/resource/Skill	http://babelnet.org/rdf/s00000725n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13207 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	14	0	4106475	In order to develop job skills , a man with some serious disabilities begins working in Goodwill 's industrial division .	5526	man.n	304	People	MANUAL	6557021	35	37	AlK	man
+LINKED:[8	8	35	37	bn:00044576n	http://dbpedia.org/resource/Human	http://babelnet.org/rdf/s00044576n	0.8648649	0.8	0.3712297	BABELFY]
+RANK:=== COUNTER  Counter 13208 ===
+	People: 0.00916030534351145
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23794	1	14	0	4106475	In order to develop job skills , a man with some serious disabilities begins working in Goodwill 's industrial division .	4448	begin.v	146	Activity_start	MANUAL	6557024	70	75	AlK	begins
+LINKED:[13	13	70	75	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13209 ===
+	Activity_start: 0.014516129032258065
+	Process_start: 0.01129032258064516
+	Setting_out: 0.0064516129032258064
+
+SELECTED:[Activity_start]
+MATCH!
+SILVER:195	23794	1	14	0	4106475	In order to develop job skills , a man with some serious disabilities begins working in Goodwill 's industrial division .	5780	work.v	282	Being_employed	MANUAL	6557025	77	83	AlK	working
+LINKED:[14	14	77	83	bn:00095812v		http://babelnet.org/rdf/s00095812v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13210 ===
+	Working_on: 3.0
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	14	0	4106476	It takes a long time for him to gain the self - confidence to work elsewhere in the community .	13915	long.a	79	Duration_description	MANUAL	6557029	11	14	AlK	long
+LINKED:[3	3	11	14	bn:00106124a		http://babelnet.org/rdf/s00106124a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13211 ===
+	Duration_attribute: 4.0
+	Dimension: 0.06666666666666667
+	Likelihood: 0.05277777777777778
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	14	0	4106476	It takes a long time for him to gain the self - confidence to work elsewhere in the community .	7502	gain.v	179	Getting	MANUAL	6557030	32	35	AlK	gain
+LINKED:[8	8	32	35	bn:00086652v		http://babelnet.org/rdf/s00086652v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13212 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	14	0	4106476	It takes a long time for him to gain the self - confidence to work elsewhere in the community .	2749	confidence.n	141	Certainty	MANUAL	6557031	48	57	AlK	confidence
+LINKED:[12	12	48	57	bn:00006565n	http://dbpedia.org/resource/Authority_(management)	http://babelnet.org/rdf/s00006565n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13213 ===
+	Certainty: 0.020338983050847456
+
+SELECTED:[Certainty]
+MATCH!
+SILVER:195	23794	2	14	0	4106476	It takes a long time for him to gain the self - confidence to work elsewhere in the community .	5780	work.v	282	Being_employed	MANUAL	6557032	62	65	AlK	work
+LINKED:[14	14	62	65	bn:00095812v		http://babelnet.org/rdf/s00095812v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13214 ===
+	Working_on: 3.0
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	14	0	4106476	It takes a long time for him to gain the self - confidence to work elsewhere in the community .	10697	community.n	103	Aggregate	MANUAL	6557034	84	92	AlK	community
+LINKED:[18	18	84	92	bn:00021248n	http://dbpedia.org/resource/Community	http://babelnet.org/rdf/s00021248n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13215 ===
+	Aggregate: 0.10204081632653061
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:195	23794	3	14	0	4106477	Eventually , he turns your support into a payoff for all of us .	14036	eventually.adv	379	Time_vector	MANUAL	6557035	0	9	AlK	Eventually
+LINKED:[0	0	0	9	bn:03881940n	http://dbpedia.org/resource/Eventually	http://babelnet.org/rdf/s03881940n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13216 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	3	14	0	4106477	Eventually , he turns your support into a payoff for all of us .	9268	turn.v	683	Cause_change	MANUAL	6557036	16	20	AlK	turns
+LINKED:[3	3	16	20	bn:00095233v		http://babelnet.org/rdf/s00095233v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13217 ===
+	Moving_in_place: 0.0265625
+	Undergo_change: 0.0203125
+	Cause_change: 0.01875
+	Contingency: 0.01875
+	Cause_to_move_in_place: 0.015625
+	Change_direction: 0.0125
+
+SELECTED:[Cause_change]
+MATCH!
+SILVER:195	23794	1	15	0	4106479	These people and their successes are real .	5511	people.n	304	People	MANUAL	6557042	6	11	AlK	people
+LINKED:[1	1	6	11	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13218 ===
+	Education_teaching: 0.04716981132075472
+	Subordinates_and_superiors: 0.024528301886792454
+	People_by_religion: 0.020754716981132074
+	Attention_getting: 0.018867924528301886
+	Colonization: 0.013207547169811321
+	Secrecy_status: 0.013207547169811321
+	Dead_or_alive: 0.011320754716981131
+	People: 0.011320754716981131
+	People_by_jurisdiction: 0.009433962264150943
+	Indigenous_origin: 0.007547169811320755
+	People_by_residence: 0.007547169811320755
+	Dying: 0.0037735849056603774
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23794	1	15	0	4106479	These people and their successes are real .	12598	success.n	1388	Success_or_failure	MANUAL	6557043	23	31	AlK	successes
+LINKED:[4	4	23	31	bn:00075023n		http://babelnet.org/rdf/s00075023n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13219 ===
+	Success_or_failure: 0.047619047619047616
+
+SELECTED:[Success_or_failure]
+MATCH!
+SILVER:195	23794	1	15	0	4106479	These people and their successes are real .	8572	real.a	660	Existence	MANUAL	6557044	37	40	AlK	real
+LINKED:[6	6	37	40	bn:00109494a		http://babelnet.org/rdf/s00109494a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13220 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	15	0	4106480	Just like the respect we 've earned from U.S. News and World Report .	8501	respect.n	28	Judgment	MANUAL	6557046	14	20	AlK	respect
+LINKED:[3	3	14	20	bn:00031654n	http://dbpedia.org/resource/Respect	http://babelnet.org/rdf/s00031654n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13221 ===
+	Judgment: 0.07608695652173914
+	Fame: 0.013043478260869565
+
+SELECTED:[Judgment]
+MATCH!
+SILVER:195	23794	2	15	0	4106480	Just like the respect we 've earned from U.S. News and World Report .	13730	earn.v	1873	Earnings_and_losses	MANUAL	6560075	29	34	MLC	earned
+LINKED:[6	6	29	34	bn:00087452v		http://babelnet.org/rdf/s00087452v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13222 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	3	15	0	4106481	Just like the impact Goodwill 's work has on our community .	11091	impact.n	1084	Objective_influence	MANUAL	6557048	14	19	AlK	impact
+LINKED:[3	3	14	19	bn:00046064n	http://dbpedia.org/resource/Impact_(mechanics)	http://babelnet.org/rdf/s00046064n	1.0	0.5	0.25	BABELFY]
+RANK:=== COUNTER  Counter 13223 ===
+	Impact: 0.11333333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	3	15	0	4106481	Just like the impact Goodwill 's work has on our community .	14001	work.n	1892	Work	MANUAL	6557049	33	36	AlK	work
+LINKED:[6	6	33	36	bn:00081568n		http://babelnet.org/rdf/s00081568n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13224 ===
+	Being_employed: 0.0875
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	3	15	0	4106481	Just like the impact Goodwill 's work has on our community .	10697	community.n	103	Aggregate	MANUAL	6557050	49	57	AlK	community
+LINKED:[10	10	49	57	bn:12230658n		http://babelnet.org/rdf/s12230658n	1.0	0.5	0.25	BABELFY]
+RANK:=== COUNTER  Counter 13225 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	16	0	4106482	Real work .	8572	real.a	660	Existence	MANUAL	6557051	0	3	AlK	Real
+LINKED:[0	0	0	3	bn:00066395n	http://dbpedia.org/resource/Real_number	http://babelnet.org/rdf/s00066395n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13226 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	16	0	4106482	Real work .	5781	work.n	282	Being_employed	MANUAL	6562211	5	8	MLC	work
+LINKED:[1	1	5	8	bn:00081568n		http://babelnet.org/rdf/s00081568n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13227 ===
+	Being_employed: 0.0875
+
+SELECTED:[Being_employed]
+MATCH!
+SILVER:195	23794	2	16	0	4106483	Real results .	8572	real.a	660	Existence	MANUAL	6557053	0	3	AlK	Real
+LINKED:[0	0	0	3	bn:00066395n	http://dbpedia.org/resource/Real_number	http://babelnet.org/rdf/s00066395n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 13228 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	16	0	4106483	Real results .	14552	result.n	5	Causation	MANUAL	6557054	5	11	AlK	results
+LINKED:[1	1	5	11	bn:00034520n	http://dbpedia.org/resource/Outcome_(probability)	http://babelnet.org/rdf/s00034520n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 13229 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	3	16	0	4106484	A real difference in people 's lives -- in all of our lives .	8572	real.a	660	Existence	MANUAL	6557055	2	5	AlK	real
+LINKED:[1	1	2	5	bn:00109494a		http://babelnet.org/rdf/s00109494a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13230 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	3	16	0	4106484	A real difference in people 's lives -- in all of our lives .	5511	people.n	304	People	MANUAL	6557075	21	26	AlK	people
+LINKED:[4	4	21	26	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13231 ===
+	Education_teaching: 0.04716981132075472
+	Subordinates_and_superiors: 0.024528301886792454
+	People_by_religion: 0.020754716981132074
+	Attention_getting: 0.018867924528301886
+	Colonization: 0.013207547169811321
+	Secrecy_status: 0.013207547169811321
+	Dead_or_alive: 0.011320754716981131
+	People: 0.011320754716981131
+	People_by_jurisdiction: 0.009433962264150943
+	Indigenous_origin: 0.007547169811320755
+	People_by_residence: 0.007547169811320755
+	Dying: 0.0037735849056603774
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23794	1	17	0	4106485	The people who can benefit most directly from your generosity have no time to waste .	5511	people.n	304	People	MANUAL	6557077	4	9	AlK	people
+LINKED:[1	1	4	9	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13232 ===
+	Education_teaching: 0.04716981132075472
+	Subordinates_and_superiors: 0.024528301886792454
+	People_by_religion: 0.020754716981132074
+	Attention_getting: 0.018867924528301886
+	Colonization: 0.013207547169811321
+	Secrecy_status: 0.013207547169811321
+	Dead_or_alive: 0.011320754716981131
+	People: 0.011320754716981131
+	People_by_jurisdiction: 0.009433962264150943
+	Indigenous_origin: 0.007547169811320755
+	People_by_residence: 0.007547169811320755
+	Dying: 0.0037735849056603774
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23794	1	17	0	4106485	The people who can benefit most directly from your generosity have no time to waste .	5338	waste.v	84	Frugality	MANUAL	6557081	78	82	AlK	waste
+LINKED:[14	14	78	82	bn:00080543n	http://dbpedia.org/resource/Waste	http://babelnet.org/rdf/s00080543n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13233 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	2	17	0	4106486	Neither do the rest of us who feel the positive results of their success .	14552	result.n	5	Causation	MANUAL	6557086	48	54	AlK	results
+LINKED:[10	10	48	54	bn:00021961n	http://dbpedia.org/resource/Result	http://babelnet.org/rdf/s00021961n	0.75	0.6666667	0.4	BABELFY]
+RANK:=== COUNTER  Counter 13234 ===
+	Self_motion: 0.15352112676056337
+	Experiencer_obj: 0.12112676056338029
+	Statement: 0.09295774647887324
+	Judgment_communication: 0.07887323943661972
+	Body_movement: 0.0676056338028169
+	Change_position_on_a_scale: 0.06338028169014084
+	Personal_relationship: 0.06056338028169014
+	Removing: 0.059154929577464786
+	Scrutiny: 0.056338028169014086
+	Stimulus_focus: 0.04929577464788732
+	Judgment: 0.04929577464788732
+	Expertise: 0.04788732394366197
+	Path_shape: 0.04788732394366197
+	Impact: 0.04788732394366197
+	Mental_property: 0.04507042253521127
+	Hostile_encounter: 0.04366197183098591
+	Motion_noise: 0.04225352112676056
+	Quantity: 0.04225352112676056
+	Attack: 0.03943661971830986
+	Cause_motion: 0.03943661971830986
+	Desiring: 0.03943661971830986
+	Documents: 0.038028169014084505
+	Compliance: 0.036619718309859155
+	Social_interaction_evaluation: 0.03380281690140845
+	Similarity: 0.030985915492957747
+	Awareness: 0.030985915492957747
+	Request: 0.030985915492957747
+	Social_event: 0.030985915492957747
+	Categorization: 0.030985915492957747
+	Cause_impact: 0.029577464788732393
+	Evidence: 0.029577464788732393
+	Prevarication: 0.029577464788732393
+	Fluidic_motion: 0.028169014084507043
+	Cause_change_of_position_on_a_scale: 0.028169014084507043
+	Cure: 0.028169014084507043
+	Frequency: 0.02676056338028169
+	Discussion: 0.02676056338028169
+	Morality_evaluation: 0.02676056338028169
+	Likelihood: 0.02676056338028169
+	Compatibility: 0.02676056338028169
+	Cause_expansion: 0.02676056338028169
+	Arriving: 0.02676056338028169
+	Giving: 0.02535211267605634
+	Quitting_a_place: 0.02535211267605634
+	Cause_to_fragment: 0.02535211267605634
+	Change_posture: 0.02535211267605634
+	Coming_to_believe: 0.023943661971830985
+	Moving_in_place: 0.023943661971830985
+	Posture: 0.023943661971830985
+	Motion: 0.023943661971830985
+	Cotheme: 0.022535211267605635
+	Becoming_aware: 0.022535211267605635
+	Attempt_suasion: 0.022535211267605635
+	Destroying: 0.022535211267605635
+	Damaging: 0.02112676056338028
+	Communicate_categorization: 0.02112676056338028
+	Quarreling: 0.02112676056338028
+	Hindering: 0.02112676056338028
+	Ingest_substance: 0.02112676056338028
+	Intentionally_act: 0.01971830985915493
+	Manipulate_into_doing: 0.01971830985915493
+	Being_employed: 0.01971830985915493
+	Text_creation: 0.01971830985915493
+	Traversing: 0.01971830985915493
+	Forming_relationships: 0.01971830985915493
+	Speak_on_topic: 0.01971830985915493
+	Possession: 0.01971830985915493
+	Frugality: 0.018309859154929577
+	Importance: 0.018309859154929577
+	Means: 0.018309859154929577
+	Avoiding: 0.018309859154929577
+	Perception_experience: 0.018309859154929577
+	Taking_sides: 0.018309859154929577
+	Wearing: 0.018309859154929577
+	Undergo_change: 0.018309859154929577
+	Sleep: 0.018309859154929577
+	Expansion: 0.018309859154929577
+	Chatting: 0.016901408450704224
+	Cause_to_start: 0.016901408450704224
+	Cause_change: 0.016901408450704224
+	Weather: 0.016901408450704224
+	Coming_up_with: 0.016901408450704224
+	Cogitation: 0.016901408450704224
+	Certainty: 0.016901408450704224
+	Behind_the_scenes: 0.016901408450704224
+	Reporting: 0.016901408450704224
+	Obviousness: 0.015492957746478873
+	Death: 0.015492957746478873
+	Verdict: 0.015492957746478873
+	Protecting: 0.015492957746478873
+	Expectation: 0.015492957746478873
+	Linguistic_meaning: 0.015492957746478873
+	Facial_expression: 0.015492957746478873
+	Execution: 0.015492957746478873
+	Causation: 0.015492957746478873
+	Opinion: 0.015492957746478873
+	Reveal_secret: 0.015492957746478873
+	Purpose: 0.014084507042253521
+	Dispersal: 0.014084507042253521
+	Separating: 0.014084507042253521
+	Questioning: 0.014084507042253521
+	Cause_to_make_noise: 0.014084507042253521
+	Omen: 0.014084507042253521
+	Creating: 0.014084507042253521
+	Cause_to_move_in_place: 0.014084507042253521
+	Communication: 0.014084507042253521
+	Success_or_failure: 0.014084507042253521
+	Assessing: 0.014084507042253521
+	Successful_action: 0.014084507042253521
+	Bungling: 0.014084507042253521
+	Being_at_risk: 0.014084507042253521
+	Usefulness: 0.014084507042253521
+	Conduct: 0.014084507042253521
+	Custom: 0.014084507042253521
+	Type: 0.014084507042253521
+	Beat_opponent: 0.01267605633802817
+	Grasp: 0.01267605633802817
+	Participation: 0.01267605633802817
+	Sign: 0.01267605633802817
+	Performers_and_roles: 0.01267605633802817
+	Motion_directional: 0.01267605633802817
+	Accuracy: 0.01267605633802817
+	Trust: 0.01267605633802817
+	Emotions_of_mental_activity: 0.01267605633802817
+	Choosing: 0.01267605633802817
+	Capability: 0.01267605633802817
+	Predicament: 0.01267605633802817
+	Law: 0.01267605633802817
+	Temporal_subregion: 0.01267605633802817
+	Activity_start: 0.01267605633802817
+	Reasoning: 0.01267605633802817
+	Risky_situation: 0.011267605633802818
+	Topic: 0.011267605633802818
+	Range: 0.011267605633802818
+	Legality: 0.011267605633802818
+	Justifying: 0.011267605633802818
+	Bragging: 0.011267605633802818
+	Coincidence: 0.011267605633802818
+	Criminal_investigation: 0.011267605633802818
+	Unattributed_information: 0.011267605633802818
+	Ambient_temperature: 0.011267605633802818
+	Suitability: 0.011267605633802818
+	Telling: 0.011267605633802818
+	Getting: 0.011267605633802818
+	Verification: 0.011267605633802818
+	Touring: 0.011267605633802818
+	Cause_temperature_change: 0.011267605633802818
+	Attempt: 0.011267605633802818
+	Coming_to_be: 0.011267605633802818
+	Change_direction: 0.011267605633802818
+	Competition: 0.011267605633802818
+	Thriving: 0.011267605633802818
+	Change_event_time: 0.009859154929577466
+	Daring: 0.009859154929577466
+	Respond_to_proposal: 0.009859154929577466
+	Capacity: 0.009859154929577466
+	Temporary_stay: 0.009859154929577466
+	Ceasing_to_be: 0.009859154929577466
+	Imposing_obligation: 0.009859154929577466
+	Forgoing: 0.009859154929577466
+	Expressing_publicly: 0.009859154929577466
+	Social_connection: 0.009859154929577466
+	Deserving: 0.009859154929577466
+	Distinctiveness: 0.009859154929577466
+	Getting_vehicle_underway: 0.009859154929577466
+	Talking_into: 0.009859154929577466
+	Fairness_evaluation: 0.009859154929577466
+	Visiting: 0.009859154929577466
+	Adjusting: 0.009859154929577466
+	Terms_of_agreement: 0.009859154929577466
+	Predicting: 0.009859154929577466
+	Proliferating_in_number: 0.009859154929577466
+	Giving_in: 0.009859154929577466
+	Differentiation: 0.009859154929577466
+	Becoming: 0.009859154929577466
+	Replacing: 0.009859154929577466
+	Come_together: 0.009859154929577466
+	Process_start: 0.009859154929577466
+	Taking_time: 0.008450704225352112
+	Practice: 0.008450704225352112
+	Simultaneity: 0.008450704225352112
+	Process_continue: 0.008450704225352112
+	Evading: 0.008450704225352112
+	Gesture: 0.008450704225352112
+	Encoding: 0.008450704225352112
+	Evoking: 0.008450704225352112
+	Fall_asleep: 0.008450704225352112
+	Subjective_influence: 0.008450704225352112
+	Reforming_a_system: 0.008450704225352112
+	Emotion_active: 0.008450704225352112
+	Feigning: 0.008450704225352112
+	Process_stop: 0.008450704225352112
+	Surpassing: 0.008450704225352112
+	Regard: 0.008450704225352112
+	Inclusion: 0.008450704225352112
+	Others_situation_as_stimulus: 0.008450704225352112
+	Render_nonfunctional: 0.008450704225352112
+	Temperature: 0.008450704225352112
+	Process_end: 0.008450704225352112
+	Bail_decision: 0.008450704225352112
+	Attention: 0.008450704225352112
+	Using: 0.008450704225352112
+	Earnings_and_losses: 0.007746478873239437
+	Withdraw_from_participation: 0.007042253521126761
+	Commutative_process: 0.007042253521126761
+	Surrendering_possession: 0.007042253521126761
+	Exclude_member: 0.007042253521126761
+	Fear: 0.007042253521126761
+	Losing_it: 0.007042253521126761
+	Change_event_duration: 0.007042253521126761
+	Shoot_projectiles: 0.007042253521126761
+	Probability: 0.007042253521126761
+	Suasion: 0.007042253521126761
+	Claim_ownership: 0.007042253521126761
+	Fighting_activity: 0.007042253521126761
+	Surviving: 0.007042253521126761
+	Memory: 0.007042253521126761
+	Aiming: 0.007042253521126761
+	Sequence: 0.007042253521126761
+	Make_cognitive_connection: 0.007042253521126761
+	Recovery: 0.007042253521126761
+	Cause_to_perceive: 0.007042253521126761
+	Taking: 0.007042253521126761
+	Meet_specifications: 0.007042253521126761
+	Abandonment: 0.007042253521126761
+	Exchange: 0.007042253521126761
+	Hit_or_miss: 0.007042253521126761
+	Becoming_a_member: 0.007042253521126761
+	Correctness: 0.007042253521126761
+	Event: 0.007042253521126761
+	Activity_pause: 0.007042253521126761
+	Activity_finish: 0.007042253521126761
+	Emanating: 0.007042253521126761
+	Institutionalization: 0.007042253521126761
+	Sign_agreement: 0.007042253521126761
+	Escaping: 0.007042253521126761
+	Activity_prepare: 0.007042253521126761
+	Besieging: 0.007042253521126761
+	Reason: 0.007042253521126761
+	Difficulty: 0.007042253521126761
+	Accomplishment: 0.007042253521126761
+	Going_back_on_a_commitment: 0.005633802816901409
+	Tolerating: 0.005633802816901409
+	Adopt_selection: 0.005633802816901409
+	Project: 0.005633802816901409
+	Interrupt_process: 0.005633802816901409
+	Undergoing: 0.005633802816901409
+	Remainder: 0.005633802816901409
+	Receiving: 0.005633802816901409
+	Preliminaries: 0.005633802816901409
+	Seeking_to_achieve: 0.005633802816901409
+	Operational_testing: 0.005633802816901409
+	Hit_target: 0.005633802816901409
+	Completeness: 0.005633802816901409
+	Opportunity: 0.005633802816901409
+	Rest: 0.005633802816901409
+	Change_resistance: 0.005633802816901409
+	Color_qualities: 0.005633802816901409
+	Be_in_agreement_on_assessment: 0.005633802816901409
+	Identicality: 0.005633802816901409
+	Point_of_dispute: 0.005633802816901409
+	Assemble: 0.005633802816901409
+	Exercising: 0.005633802816901409
+	Dominate_situation: 0.005633802816901409
+	Cause_to_end: 0.005633802816901409
+	Agree_or_refuse_to_act: 0.005633802816901409
+	Holding_off_on: 0.005633802816901409
+	Being_awake: 0.005633802816901409
+	Cause_to_wake: 0.005633802816901409
+	Exemplar: 0.005633802816901409
+	Explaining_the_facts: 0.005633802816901409
+	Adducing: 0.005633802816901409
+	Activity_ready_state: 0.005633802816901409
+	Event_instance: 0.005633802816901409
+	Fleeing: 0.005633802816901409
+	Sidereal_appearance: 0.005633802816901409
+	Instance: 0.005633802816901409
+	Waking_up: 0.005633802816901409
+	Setting_out: 0.005633802816901409
+	Breaking_off: 0.005633802816901409
+	Run_risk: 0.005633802816901409
+	Encounter: 0.005633802816901409
+	Change_tool: 0.005633802816901409
+	Attending: 0.005633802816901409
+	Turning_out: 0.005633802816901409
+	Use_firearm: 0.004225352112676056
+	Deciding: 0.004225352112676056
+	Sharpness: 0.004225352112676056
+	Meet_with_response: 0.004225352112676056
+	Eventive_affecting: 0.004225352112676056
+	Cognitive_connection: 0.004225352112676056
+	Offering: 0.004225352112676056
+	Renting: 0.004225352112676056
+	Exchange_currency: 0.004225352112676056
+	Remembering_to_do: 0.004225352112676056
+	Left_to_do: 0.004225352112676056
+	Trying_out: 0.004225352112676056
+	Pattern: 0.004225352112676056
+	Change_of_quantity_of_possession: 0.004225352112676056
+	Commerce_collect: 0.004225352112676056
+	Location_in_time: 0.004225352112676056
+	Non-commutative_statement: 0.004225352112676056
+	Tasting: 0.004225352112676056
+	Jury_deliberation: 0.004225352112676056
+	Remembering_information: 0.004225352112676056
+	Commerce_buy: 0.004225352112676056
+	Preference: 0.004225352112676056
+	Rank: 0.004225352112676056
+	Locating: 0.004225352112676056
+	Needing: 0.004225352112676056
+	Ratification: 0.004225352112676056
+	Cause_to_be_included: 0.004225352112676056
+	Endangering: 0.004225352112676056
+	Execute_plan: 0.0035211267605633804
+	Objective_influence: 0.0035211267605633804
+	Try_defendant: 0.0028169014084507044
+	Being_operational: 0.0028169014084507044
+	Have_as_requirement: 0.0028169014084507044
+	Being_in_operation: 0.0028169014084507044
+	Get_a_job: 0.0028169014084507044
+	Scope: 0.0028169014084507044
+	Getting_up: 0.0028169014084507044
+	Representing: 0.0028169014084507044
+	Rising_to_a_challenge: 0.0028169014084507044
+	Studying: 0.0028169014084507044
+	Dough_rising: 0.0028169014084507044
+	Waiting: 0.0028169014084507044
+	Commercial_transaction: 0.0028169014084507044
+	State_continue: 0.0028169014084507044
+	Attempt_means: 0.0028169014084507044
+	Process: 0.0028169014084507044
+	Social_event_collective: 0.0028169014084507044
+	Relation: 0.0028169014084507044
+	Being_in_effect: 0.002112676056338028
+
+SELECTED:[Causation]
+MATCH!
+SILVER:195	23794	2	17	0	4106486	Neither do the rest of us who feel the positive results of their success .	12598	success.n	1388	Success_or_failure	MANUAL	6557087	65	71	AlK	success
+LINKED:[13	13	65	71	bn:00075023n		http://babelnet.org/rdf/s00075023n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13235 ===
+	Success_or_failure: 0.047619047619047616
+
+SELECTED:[Success_or_failure]
+MATCH!
+SILVER:195	23794	2	17	0	4106486	Neither do the rest of us who feel the positive results of their success .	7257	feel.v	396	Feeling	MANUAL	6560080	30	33	MLC	feel
+LINKED:[7	7	30	33	bn:00088098v		http://babelnet.org/rdf/s00088098v	1.0	0.33333334	0.06666667	BABELFY]
+RANK:=== COUNTER  Counter 13236 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	3	17	0	4106487	Your support helps provide real solutions .	14738	support.v	2000	Supporting	MANUAL	6557088	5	11	AlK	support
+LINKED:[1	1	5	11	bn:00075330n		http://babelnet.org/rdf/s00075330n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13237 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	3	17	0	4106487	Your support helps provide real solutions .	7041	help.v	391	Assistance	MANUAL	6557089	13	17	AlK	helps
+LINKED:[2	2	13	17	bn:00082481v		http://babelnet.org/rdf/s00082481v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13238 ===
+	Assistance: 0.034782608695652174
+
+SELECTED:[Assistance]
+MATCH!
+SILVER:195	23794	3	17	0	4106487	Your support helps provide real solutions .	11673	provide.v	1346	Supply	MANUAL	6557090	19	25	AlK	provide
+LINKED:[3	3	19	25	bn:00084692v		http://babelnet.org/rdf/s00084692v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13239 ===
+	Assistance: 0.025806451612903226
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	3	17	0	4106487	Your support helps provide real solutions .	8572	real.a	660	Existence	MANUAL	6560091	27	30	MLC	real
+LINKED:[4	4	27	30	bn:00109494a		http://babelnet.org/rdf/s00109494a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13240 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	18	0	4106488	Please use the enclosed response card and envelope to give generously to Goodwill today .	14796	enclose.v	62	Placing	MANUAL	6557093	15	22	AlK	enclosed
+LINKED:[3	3	15	22	bn:00102195a		http://babelnet.org/rdf/s00102195a	1.0	0.5	0.1	BABELFY]
+RANK:=== COUNTER  Counter 13241 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	18	0	4106488	Please use the enclosed response card and envelope to give generously to Goodwill today .	669	response.n	42	Communication_response	MANUAL	6557094	24	31	AlK	response
+LINKED:[4	4	24	31	bn:00067367n		http://babelnet.org/rdf/s00067367n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13242 ===
+	Response: 0.07142857142857142
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	18	0	4106488	Please use the enclosed response card and envelope to give generously to Goodwill today .	1677	envelope.n	78	Containers	MANUAL	6557095	42	49	AlK	envelope
+LINKED:[7	7	42	49	bn:00031067n		http://babelnet.org/rdf/s00031067n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13243 ===
+	Containers: 1.4714285714285715
+
+SELECTED:[Containers]
+MATCH!
+SILVER:195	23794	1	18	0	4106488	Please use the enclosed response card and envelope to give generously to Goodwill today .	4054	today.n	229	Calendric_unit	MANUAL	6557096	82	86	AlK	today
+LINKED:[13	13	82	86	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13244 ===
+	Temporal_collocation: 0.175
+
+SELECTED:[]
+WRONG!
+SILVER:195	23794	1	20	0	4106490	Jack Dustman Board Member and Former Chairman	10279	member.n	1026	Membership	MANUAL	6557097	19	24	AlK	Member
+LINKED:[3	3	19	24	bn:00034004n		http://babelnet.org/rdf/s00034004n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13245 ===
+	Membership: 0.022222222222222223
+	Appellations: 0.014814814814814815
+
+SELECTED:[Membership]
+MATCH!
+SILVER:195	23794	1	20	0	4106490	Jack Dustman Board Member and Former Chairman	1576	chairman.n	73	Leadership	MANUAL	6557099	37	44	AlK	Chairman
+LINKED:[6	6	37	44	bn:00017517n	http://dbpedia.org/resource/Chairman	http://babelnet.org/rdf/s00017517n	1.0	1.0	0.31858408	BABELFY]
+RANK:=== COUNTER  Counter 13246 ===
+	Leadership: 0.03888888888888889
+	Appointing: 0.007070707070707071
+	Membership: 0.006060606060606061
+	First_rank: 0.0030303030303030303
+
+SELECTED:[Leadership]
+MATCH!
+filename	ANC__110CYL069.xml
+docAnnotations	269
+docManual	202
+docUnannotated	67
+sentences	41
+paragraphs	20
+Overlapping	150
+Disambiguated	107
+TP	87
+TN	67
+FP	0
+FN	95
+P	1.0
+R	0.47802197802197804
+F	0.6468401486988847
+A	0.6184738955823293

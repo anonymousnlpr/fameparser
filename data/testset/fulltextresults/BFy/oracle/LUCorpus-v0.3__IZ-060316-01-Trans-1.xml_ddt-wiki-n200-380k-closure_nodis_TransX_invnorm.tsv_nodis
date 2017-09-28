@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__IZ-060316-01-Trans-1.xml
+docAnnotations	473
+docManual	287
+docUnannotated	186
+sentences	120
+paragraphs	21
+Overlapping	203
+Disambiguated	180
+TP	125
+TN	186
+FP	0
+FN	107
+P	1.0
+R	0.5387931034482759
+F	0.700280112044818
+A	0.7440191387559809

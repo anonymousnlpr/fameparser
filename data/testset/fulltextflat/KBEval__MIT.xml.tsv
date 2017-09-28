@@ -1,0 +1,359 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+185	23580	1	1	0	4099001	ID: MIT -1 .	null	null	null	null	UNANN	6531742	null	null	null	null
+185	23580	2	1	0	4099006	City workers pretended to be victims of the attack .	null	null	null	null	UNANN	6531747	null	null	null	null
+185	23580	2	1	0	4099006	City workers pretended to be victims of the attack .	7745	attack.n	424	Attack	MANUAL	6532171	44	49	JKR	attack
+185	23580	2	1	0	4099006	City workers pretended to be victims of the attack .	10204	city.n	196	Locale_by_use	MANUAL	6532173	0	3	JKR	City
+185	23580	3	1	0	4099007	QN : Were the city workers harmed by the attack ?	null	null	null	null	UNANN	6531748	null	null	null	null
+185	23580	3	1	0	4099007	QN : Were the city workers harmed by the attack ?	10204	city.n	196	Locale_by_use	MANUAL	6532174	14	17	JKR	city
+185	23580	3	1	0	4099007	QN : Were the city workers harmed by the attack ?	7745	attack.n	424	Attack	MANUAL	6532175	41	46	JKR	attack
+185	23580	1	2	0	4099008	ID: MIT -2 .	null	null	null	null	UNANN	6531749	null	null	null	null
+185	23580	2	2	0	4099009	The Defense Department has awarded BioPort Corporation a contract to manufacture , test , bottle and store anthrax vaccine , the company has announced .	null	null	null	null	UNANN	6531750	null	null	null	null
+185	23580	2	2	0	4099009	The Defense Department has awarded BioPort Corporation a contract to manufacture , test , bottle and store anthrax vaccine , the company has announced .	8394	contract.n	560	Documents	MANUAL	6532177	57	64	JKR	contract
+185	23580	2	2	0	4099009	The Defense Department has awarded BioPort Corporation a contract to manufacture , test , bottle and store anthrax vaccine , the company has announced .	7518	manufacture.v	408	Manufacturing	MANUAL	6532178	69	79	JKR	manufacture
+185	23580	2	2	0	4099009	The Defense Department has awarded BioPort Corporation a contract to manufacture , test , bottle and store anthrax vaccine , the company has announced .	11462	test.v	1301	Operational_testing	MANUAL	6532185	83	86	JKR	test
+185	23580	2	2	0	4099009	The Defense Department has awarded BioPort Corporation a contract to manufacture , test , bottle and store anthrax vaccine , the company has announced .	683	announce.v	43	Statement	MANUAL	6532188	141	149	JKR	announced
+185	23580	2	2	0	4099009	The Defense Department has awarded BioPort Corporation a contract to manufacture , test , bottle and store anthrax vaccine , the company has announced .	11113	company.n	365	Businesses	MANUAL	6532190	129	135	JKR	company
+185	23580	2	2	0	4099009	The Defense Department has awarded BioPort Corporation a contract to manufacture , test , bottle and store anthrax vaccine , the company has announced .	2440	bottle.v	62	Placing	MANUAL	6532192	90	95	JKR	bottle
+185	23580	2	2	0	4099009	The Defense Department has awarded BioPort Corporation a contract to manufacture , test , bottle and store anthrax vaccine , the company has announced .	12426	store.v	1550	Storing	MANUAL	6532194	101	105	JKR	store
+185	23580	3	2	0	4099010	QN : Does the Defense Department want BioPort Corporation to manufacture anthrax vaccine ?	null	null	null	null	UNANN	6531751	null	null	null	null
+185	23580	3	2	0	4099010	QN : Does the Defense Department want BioPort Corporation to manufacture anthrax vaccine ?	6412	want.v	366	Desiring	MANUAL	6532195	33	36	JKR	want
+185	23580	3	2	0	4099010	QN : Does the Defense Department want BioPort Corporation to manufacture anthrax vaccine ?	7518	manufacture.v	408	Manufacturing	MANUAL	6532199	61	71	JKR	manufacture
+185	23580	1	3	0	4099011	ID: MIT -3 .	null	null	null	null	UNANN	6531752	null	null	null	null
+185	23580	2	3	0	4099012	Chemical weapon projectiles contain a blasting tube which can be seen in an X-ray .	null	null	null	null	UNANN	6531753	null	null	null	null
+185	23580	2	3	0	4099012	Chemical weapon projectiles contain a blasting tube which can be seen in an X-ray .	10635	chemical	426	Weapon	MANUAL	6532200	0	7	EGp	Chemical
+185	23580	2	3	0	4099012	Chemical weapon projectiles contain a blasting tube which can be seen in an X-ray .	10635	chemical	426	Weapon	MANUAL	6532200	9	14	EGp	weapon
+185	23580	2	3	0	4099012	Chemical weapon projectiles contain a blasting tube which can be seen in an X-ray .	7296	contain.v	397	Containing	MANUAL	6532201	28	34	JKR	contain
+185	23580	2	3	0	4099012	Chemical weapon projectiles contain a blasting tube which can be seen in an X-ray .	1535	see.v	70	Perception_experience	MANUAL	6532203	65	68	JKR	seen
+185	23580	3	3	0	4099013	QN : Is the blasting tube visible outside the projectile ?	null	null	null	null	UNANN	6531754	null	null	null	null
+185	23580	3	3	0	4099013	QN : Is the blasting tube visible outside the projectile ?	12123	visible.a	1360	Obviousness	MANUAL	6532206	26	32	JKR	visible
+185	23580	1	4	0	4099014	ID: MIT -4 .	null	null	null	null	UNANN	6531755	null	null	null	null
+185	23580	2	4	0	4099015	The incident at Mayak was the third shooting in recent weeks involving nuclear weapons or facilities in Russia .	null	null	null	null	UNANN	6531756	null	null	null	null
+185	23580	2	4	0	4099015	The incident at Mayak was the third shooting in recent weeks involving nuclear weapons or facilities in Russia .	9062	shooting.n	590	Killing	MANUAL	6532210	36	43	JKR	shooting
+185	23580	2	4	0	4099015	The incident at Mayak was the third shooting in recent weeks involving nuclear weapons or facilities in Russia .	11251	third.a	1147	Ordinal_numbers	MANUAL	6532213	30	34	JKR	third
+185	23580	2	4	0	4099015	The incident at Mayak was the third shooting in recent weeks involving nuclear weapons or facilities in Russia .	3947	week.n	229	Calendric_unit	MANUAL	6532224	55	59	JKR	weeks
+185	23580	2	4	0	4099015	The incident at Mayak was the third shooting in recent weeks involving nuclear weapons or facilities in Russia .	10652	nuclear	426	Weapon	MANUAL	6532226	71	77	EGp	nuclear
+185	23580	2	4	0	4099015	The incident at Mayak was the third shooting in recent weeks involving nuclear weapons or facilities in Russia .	10652	nuclear	426	Weapon	MANUAL	6532226	79	85	EGp	weapons
+185	23580	2	4	0	4099015	The incident at Mayak was the third shooting in recent weeks involving nuclear weapons or facilities in Russia .	10662	facility.n	196	Locale_by_use	MANUAL	6532227	90	99	JKR	facilities
+185	23580	3	4	0	4099016	QN : Did the incident at Mayak involve nuclear weapons or facilities ?	null	null	null	null	UNANN	6531757	null	null	null	null
+185	23580	3	4	0	4099016	QN : Did the incident at Mayak involve nuclear weapons or facilities ?	10652	nuclear	426	Weapon	MANUAL	6532230	39	45	EGp	nuclear
+185	23580	3	4	0	4099016	QN : Did the incident at Mayak involve nuclear weapons or facilities ?	10652	nuclear	426	Weapon	MANUAL	6532230	47	53	EGp	weapons
+185	23580	3	4	0	4099016	QN : Did the incident at Mayak involve nuclear weapons or facilities ?	10662	facility.n	196	Locale_by_use	MANUAL	6532231	58	67	JKR	facilities
+185	23580	1	5	0	4099017	ID: MIT -5 .	null	null	null	null	UNANN	6531758	null	null	null	null
+185	23580	2	5	0	4099018	Utah 's Dugway Proving Ground has been chosen as a site to test military vaccines against germ warfare agents .	null	null	null	null	UNANN	6531759	null	null	null	null
+185	23580	2	5	0	4099018	Utah 's Dugway Proving Ground has been chosen as a site to test military vaccines against germ warfare agents .	6270	choose.v	352	Choosing	MANUAL	6532233	39	44	JKR	chosen
+185	23580	2	5	0	4099018	Utah 's Dugway Proving Ground has been chosen as a site to test military vaccines against germ warfare agents .	11550	site.n	196	Locale_by_use	MANUAL	6532234	51	54	JKR	site
+185	23580	2	5	0	4099018	Utah 's Dugway Proving Ground has been chosen as a site to test military vaccines against germ warfare agents .	11462	test.v	1301	Operational_testing	MANUAL	6532236	59	62	JKR	test
+185	23580	2	5	0	4099018	Utah 's Dugway Proving Ground has been chosen as a site to test military vaccines against germ warfare agents .	12390	military.a	1514	Military	MANUAL	6532238	64	71	JKR	military
+185	23580	2	5	0	4099018	Utah 's Dugway Proving Ground has been chosen as a site to test military vaccines against germ warfare agents .	11600	warfare.n	93	Hostile_encounter	MANUAL	6532239	95	101	JKR	warfare
+185	23580	2	5	0	4099018	Utah 's Dugway Proving Ground has been chosen as a site to test military vaccines against germ warfare agents .	11608	agent.n	1322	Active_substance	MANUAL	6532240	103	108	JKR	agents
+185	23580	3	5	0	4099019	QN : Who chose the Dugway Proving Ground as a site to test vaccines ?	null	null	null	null	UNANN	6531760	null	null	null	null
+185	23580	3	5	0	4099019	QN : Who chose the Dugway Proving Ground as a site to test vaccines ?	6270	choose.v	352	Choosing	MANUAL	6532259	9	13	JKR	chose
+185	23580	3	5	0	4099019	QN : Who chose the Dugway Proving Ground as a site to test vaccines ?	11550	site.n	196	Locale_by_use	MANUAL	6532261	46	49	JKR	site
+185	23580	3	5	0	4099019	QN : Who chose the Dugway Proving Ground as a site to test vaccines ?	11462	test.v	1301	Operational_testing	MANUAL	6532264	54	57	JKR	test
+185	23580	1	6	0	4099020	ID: MIT -6 .	null	null	null	null	UNANN	6531761	null	null	null	null
+185	23580	2	6	0	4099021	The Russian Emergencies Ministry predicts a further increase in 1999 of the concentration of toxic agents in marine burials of chemical weapons .	null	null	null	null	UNANN	6531762	null	null	null	null
+185	23580	2	6	0	4099021	The Russian Emergencies Ministry predicts a further increase in 1999 of the concentration of toxic agents in marine burials of chemical weapons .	7747	predict.v	425	Predicting	MANUAL	6532265	33	40	JKR	predicts
+185	23580	2	6	0	4099021	The Russian Emergencies Ministry predicts a further increase in 1999 of the concentration of toxic agents in marine burials of chemical weapons .	10289	further.a	1001	Increment	UNANN	6532266	null	null	null	null
+185	23580	2	6	0	4099021	The Russian Emergencies Ministry predicts a further increase in 1999 of the concentration of toxic agents in marine burials of chemical weapons .	10289	further.a	1001	Increment	UNANN	6532266	44	50	JKR	further
+185	23580	2	6	0	4099021	The Russian Emergencies Ministry predicts a further increase in 1999 of the concentration of toxic agents in marine burials of chemical weapons .	1871	increase.n	91	Change_position_on_a_scale	MANUAL	6532267	52	59	JKR	increase
+185	23580	2	6	0	4099021	The Russian Emergencies Ministry predicts a further increase in 1999 of the concentration of toxic agents in marine burials of chemical weapons .	10751	toxic.a	1163	Toxic_substance	MANUAL	6532268	93	97	JKR	toxic
+185	23580	2	6	0	4099021	The Russian Emergencies Ministry predicts a further increase in 1999 of the concentration of toxic agents in marine burials of chemical weapons .	11608	agent.n	1322	Active_substance	UNANN	6532269	null	null	null	null
+185	23580	2	6	0	4099021	The Russian Emergencies Ministry predicts a further increase in 1999 of the concentration of toxic agents in marine burials of chemical weapons .	11608	agent.n	1322	Active_substance	UNANN	6532269	99	104	JKR	agents
+185	23580	2	6	0	4099021	The Russian Emergencies Ministry predicts a further increase in 1999 of the concentration of toxic agents in marine burials of chemical weapons .	10635	chemical	426	Weapon	MANUAL	6532270	127	134	EGp	chemical
+185	23580	2	6	0	4099021	The Russian Emergencies Ministry predicts a further increase in 1999 of the concentration of toxic agents in marine burials of chemical weapons .	10635	chemical	426	Weapon	MANUAL	6532270	136	142	EGp	weapons
+185	23580	3	6	0	4099022	QN : Has the concentration of toxic agents in marine burials of chemical weapons increased prior to 1999 ?	null	null	null	null	UNANN	6531763	null	null	null	null
+185	23580	3	6	0	4099022	QN : Has the concentration of toxic agents in marine burials of chemical weapons increased prior to 1999 ?	10751	toxic.a	1163	Toxic_substance	MANUAL	6532281	30	34	JKR	toxic
+185	23580	3	6	0	4099022	QN : Has the concentration of toxic agents in marine burials of chemical weapons increased prior to 1999 ?	11608	agent.n	1322	Active_substance	MANUAL	6532282	36	41	JKR	agents
+185	23580	3	6	0	4099022	QN : Has the concentration of toxic agents in marine burials of chemical weapons increased prior to 1999 ?	10635	chemical	426	Weapon	MANUAL	6532284	64	71	EGp	chemical
+185	23580	3	6	0	4099022	QN : Has the concentration of toxic agents in marine burials of chemical weapons increased prior to 1999 ?	10635	chemical	426	Weapon	MANUAL	6532284	73	79	EGp	weapons
+185	23580	3	6	0	4099022	QN : Has the concentration of toxic agents in marine burials of chemical weapons increased prior to 1999 ?	1870	increase.v	91	Change_position_on_a_scale	MANUAL	6532285	81	89	JKR	increased
+185	23580	3	6	0	4099022	QN : Has the concentration of toxic agents in marine burials of chemical weapons increased prior to 1999 ?	10664	prior.adv	379	Time_vector	MANUAL	6532286	91	95	JKR	prior
+185	23580	1	7	0	4099023	ID: MIT -7 .	null	null	null	null	UNANN	6531764	null	null	null	null
+185	23580	2	7	0	4099024	The Army 's chemical weapons incinerator has passed a milestone , the destruction of 5 million pounds of GB nerve agent .	null	null	null	null	UNANN	6531765	null	null	null	null
+185	23580	2	7	0	4099024	The Army 's chemical weapons incinerator has passed a milestone , the destruction of 5 million pounds of GB nerve agent .	10635	chemical	426	Weapon	MANUAL	6532288	12	19	EGp	chemical
+185	23580	2	7	0	4099024	The Army 's chemical weapons incinerator has passed a milestone , the destruction of 5 million pounds of GB nerve agent .	10635	chemical	426	Weapon	MANUAL	6532288	21	27	EGp	weapons
+185	23580	2	7	0	4099024	The Army 's chemical weapons incinerator has passed a milestone , the destruction of 5 million pounds of GB nerve agent .	7625	destruction.n	417	Destroying	MANUAL	6532291	70	80	JKR	destruction
+185	23580	2	7	0	4099024	The Army 's chemical weapons incinerator has passed a milestone , the destruction of 5 million pounds of GB nerve agent .	2808	pound.n	147	Measure_mass	MANUAL	6532293	95	100	JKR	pounds
+185	23580	2	7	0	4099024	The Army 's chemical weapons incinerator has passed a milestone , the destruction of 5 million pounds of GB nerve agent .	11608	agent.n	1322	Active_substance	MANUAL	6532294	114	118	JKR	agent
+185	23580	2	7	0	4099024	The Army 's chemical weapons incinerator has passed a milestone , the destruction of 5 million pounds of GB nerve agent .	12878	pass.v	1310	Traversing	MANUAL	6533795	45	50	MJE	passed
+185	23580	3	7	0	4099025	QN : Who destroyed 5 million pounds of GB nerve agent ?	null	null	null	null	UNANN	6531766	null	null	null	null
+185	23580	3	7	0	4099025	QN : Who destroyed 5 million pounds of GB nerve agent ?	7622	destroy.v	417	Destroying	MANUAL	6532296	9	17	JKR	destroyed
+185	23580	3	7	0	4099025	QN : Who destroyed 5 million pounds of GB nerve agent ?	2808	pound.n	147	Measure_mass	MANUAL	6532297	29	34	JKR	pounds
+185	23580	3	7	0	4099025	QN : Who destroyed 5 million pounds of GB nerve agent ?	11608	agent.n	1322	Active_substance	MANUAL	6532300	48	52	JKR	agent
+185	23580	1	8	0	4099026	ID: MIT -8 .	null	null	null	null	UNANN	6531767	null	null	null	null
+185	23580	2	8	0	4099027	The military is training for the day a terrorist sets off not just a bomb , but a chemical or biological weapon that would spew out an invisible death .	null	null	null	null	UNANN	6531768	null	null	null	null
+185	23580	2	8	0	4099027	The military is training for the day a terrorist sets off not just a bomb , but a chemical or biological weapon that would spew out an invisible death .	12282	military.n	1514	Military	MANUAL	6532302	4	11	JKR	military
+185	23580	2	8	0	4099027	The military is training for the day a terrorist sets off not just a bomb , but a chemical or biological weapon that would spew out an invisible death .	3946	day.n	229	Calendric_unit	MANUAL	6532305	33	35	JKR	day
+185	23580	2	8	0	4099027	The military is training for the day a terrorist sets off not just a bomb , but a chemical or biological weapon that would spew out an invisible death .	7781	bomb.n	426	Weapon	MANUAL	6532307	69	72	JKR	bomb
+185	23580	2	8	0	4099027	The military is training for the day a terrorist sets off not just a bomb , but a chemical or biological weapon that would spew out an invisible death .	10635	chemical	426	Weapon	MANUAL	6532308	82	89	JKR	chemical
+185	23580	2	8	0	4099027	The military is training for the day a terrorist sets off not just a bomb , but a chemical or biological weapon that would spew out an invisible death .	10635	chemical	426	Weapon	MANUAL	6532308	105	110	JKR	weapon
+185	23580	2	8	0	4099027	The military is training for the day a terrorist sets off not just a bomb , but a chemical or biological weapon that would spew out an invisible death .	10637	biological	426	Weapon	MANUAL	6532309	94	103	EGp	biological
+185	23580	2	8	0	4099027	The military is training for the day a terrorist sets off not just a bomb , but a chemical or biological weapon that would spew out an invisible death .	10637	biological	426	Weapon	MANUAL	6532309	105	110	EGp	weapon
+185	23580	2	8	0	4099027	The military is training for the day a terrorist sets off not just a bomb , but a chemical or biological weapon that would spew out an invisible death .	5471	spew.v	270	Excreting	MANUAL	6532313	123	126	JKR	spew
+185	23580	2	8	0	4099027	The military is training for the day a terrorist sets off not just a bomb , but a chemical or biological weapon that would spew out an invisible death .	922	death.n	53	Death	MANUAL	6532316	145	149	JKR	death
+185	23580	3	8	0	4099028	QN : Will a terrorist set off a chemical or biological weapon ?	null	null	null	null	UNANN	6531769	null	null	null	null
+185	23580	3	8	0	4099028	QN : Will a terrorist set off a chemical or biological weapon ?	10635	chemical	426	Weapon	MANUAL	6532323	32	39	JKR	chemical
+185	23580	3	8	0	4099028	QN : Will a terrorist set off a chemical or biological weapon ?	10635	chemical	426	Weapon	MANUAL	6532323	55	60	JKR	weapon
+185	23580	3	8	0	4099028	QN : Will a terrorist set off a chemical or biological weapon ?	10637	biological	426	Weapon	MANUAL	6532324	44	53	EGp	biological
+185	23580	3	8	0	4099028	QN : Will a terrorist set off a chemical or biological weapon ?	10637	biological	426	Weapon	MANUAL	6532324	55	60	EGp	weapon
+185	23580	1	9	0	4099029	ID: MIT -9 .	null	null	null	null	UNANN	6531770	null	null	null	null
+185	23580	2	9	0	4099030	Virginia is ill prepared for a large-scale terrorist attack using chemical , biological or nuclear weapons , state officials say .	null	null	null	null	UNANN	6531771	null	null	null	null
+185	23580	2	9	0	4099030	Virginia is ill prepared for a large-scale terrorist attack using chemical , biological or nuclear weapons , state officials say .	7745	attack.n	424	Attack	MANUAL	6532347	53	58	JKR	attack
+185	23580	2	9	0	4099030	Virginia is ill prepared for a large-scale terrorist attack using chemical , biological or nuclear weapons , state officials say .	10619	use.v	1141	Using	MANUAL	6532356	60	64	JKR	using
+185	23580	2	9	0	4099030	Virginia is ill prepared for a large-scale terrorist attack using chemical , biological or nuclear weapons , state officials say .	10635	chemical	426	Weapon	MANUAL	6532360	66	73	JKR	chemical
+185	23580	2	9	0	4099030	Virginia is ill prepared for a large-scale terrorist attack using chemical , biological or nuclear weapons , state officials say .	10635	chemical	426	Weapon	MANUAL	6532360	99	105	JKR	weapons
+185	23580	2	9	0	4099030	Virginia is ill prepared for a large-scale terrorist attack using chemical , biological or nuclear weapons , state officials say .	10637	biological	426	Weapon	MANUAL	6532361	77	86	JKR	biological
+185	23580	2	9	0	4099030	Virginia is ill prepared for a large-scale terrorist attack using chemical , biological or nuclear weapons , state officials say .	10637	biological	426	Weapon	MANUAL	6532361	99	105	JKR	weapons
+185	23580	2	9	0	4099030	Virginia is ill prepared for a large-scale terrorist attack using chemical , biological or nuclear weapons , state officials say .	10652	nuclear	426	Weapon	MANUAL	6532362	91	97	EGp	nuclear
+185	23580	2	9	0	4099030	Virginia is ill prepared for a large-scale terrorist attack using chemical , biological or nuclear weapons , state officials say .	10652	nuclear	426	Weapon	MANUAL	6532362	99	105	EGp	weapons
+185	23580	2	9	0	4099030	Virginia is ill prepared for a large-scale terrorist attack using chemical , biological or nuclear weapons , state officials say .	751	say.v	43	Statement	MANUAL	6532363	125	127	JKR	say
+185	23580	2	9	0	4099030	Virginia is ill prepared for a large-scale terrorist attack using chemical , biological or nuclear weapons , state officials say .	10625	official.n	73	Leadership	MANUAL	6532364	115	123	JKR	officials
+185	23580	3	9	0	4099031	QN : Is Virginia prepared for a small-scale terrorist attack using chemical , biological or nuclear weapons ?	null	null	null	null	UNANN	6531772	null	null	null	null
+185	23580	3	9	0	4099031	QN : Is Virginia prepared for a small-scale terrorist attack using chemical , biological or nuclear weapons ?	7745	attack.n	424	Attack	MANUAL	6532365	54	59	JKR	attack
+185	23580	3	9	0	4099031	QN : Is Virginia prepared for a small-scale terrorist attack using chemical , biological or nuclear weapons ?	10619	use.v	1141	Using	MANUAL	6532369	61	65	JKR	using
+185	23580	3	9	0	4099031	QN : Is Virginia prepared for a small-scale terrorist attack using chemical , biological or nuclear weapons ?	10635	chemical	426	Weapon	MANUAL	6532371	67	74	JKR	chemical
+185	23580	3	9	0	4099031	QN : Is Virginia prepared for a small-scale terrorist attack using chemical , biological or nuclear weapons ?	10635	chemical	426	Weapon	MANUAL	6532371	100	106	JKR	weapons
+185	23580	3	9	0	4099031	QN : Is Virginia prepared for a small-scale terrorist attack using chemical , biological or nuclear weapons ?	10637	biological	426	Weapon	MANUAL	6532372	78	87	JKR	biological
+185	23580	3	9	0	4099031	QN : Is Virginia prepared for a small-scale terrorist attack using chemical , biological or nuclear weapons ?	10637	biological	426	Weapon	MANUAL	6532372	100	106	JKR	weapons
+185	23580	3	9	0	4099031	QN : Is Virginia prepared for a small-scale terrorist attack using chemical , biological or nuclear weapons ?	10652	nuclear	426	Weapon	MANUAL	6532373	92	98	EGp	nuclear
+185	23580	3	9	0	4099031	QN : Is Virginia prepared for a small-scale terrorist attack using chemical , biological or nuclear weapons ?	10652	nuclear	426	Weapon	MANUAL	6532373	100	106	EGp	weapons
+185	23580	1	10	0	4099032	ID: MIT -10 .	null	null	null	null	UNANN	6531773	null	null	null	null
+185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	null	null	null	null	UNANN	6531774	null	null	null	null
+185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	7526	make.v	408	Manufacturing	MANUAL	6532376	63	66	JKR	made
+185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	10652	nuclear	426	Weapon	MANUAL	6532380	7	13	JKR	nuclear
+185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	10652	nuclear	426	Weapon	MANUAL	6532380	27	33	JKR	weapons
+185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	10635	chemical	426	Weapon	MANUAL	6532381	18	25	EGp	chemical
+185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	10635	chemical	426	Weapon	MANUAL	6532381	27	33	EGp	weapons
+185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	10637	biological	426	Weapon	MANUAL	6532382	37	46	EGp	biological
+185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	10637	biological	426	Weapon	MANUAL	6532382	48	54	EGp	weapons
+185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	7992	unlike.prep	481	Similarity	MANUAL	6532385	0	5	JKR	Unlike
+185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	11684	material.n	1348	Ingredients	MANUAL	6532386	91	99	JKR	materials
+185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	2206	equipment.n	106	Gizmo	MANUAL	6532390	104	112	JKR	equipment
+185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	10156	can.v	990	Capability	MANUAL	6532406	56	58	JKR	can
+185	23580	3	10	0	4099034	QN : Can nuclear weapons be made with readily available materials or equipment ?	null	null	null	null	UNANN	6531775	null	null	null	null
+185	23580	3	10	0	4099034	QN : Can nuclear weapons be made with readily available materials or equipment ?	10652	nuclear	426	Weapon	MANUAL	6532394	9	15	EGp	nuclear
+185	23580	3	10	0	4099034	QN : Can nuclear weapons be made with readily available materials or equipment ?	10652	nuclear	426	Weapon	MANUAL	6532394	17	23	EGp	weapons
+185	23580	3	10	0	4099034	QN : Can nuclear weapons be made with readily available materials or equipment ?	11684	material.n	1348	Ingredients	MANUAL	6532395	56	64	JKR	materials
+185	23580	3	10	0	4099034	QN : Can nuclear weapons be made with readily available materials or equipment ?	7526	make.v	408	Manufacturing	MANUAL	6532398	28	31	JKR	made
+185	23580	3	10	0	4099034	QN : Can nuclear weapons be made with readily available materials or equipment ?	2206	equipment.n	106	Gizmo	MANUAL	6532404	69	77	JKR	equipment
+185	23580	3	10	0	4099034	QN : Can nuclear weapons be made with readily available materials or equipment ?	10156	can.v	990	Capability	MANUAL	6532405	5	7	JKR	Can
+185	23580	1	11	0	4099035	ID: MIT -11 .	null	null	null	null	UNANN	6531776	null	null	null	null
+185	23580	2	11	0	4099036	Sudan says it 's ready to sign the international convention banning chemical weapons .	null	null	null	null	UNANN	6531777	null	null	null	null
+185	23580	2	11	0	4099036	Sudan says it 's ready to sign the international convention banning chemical weapons .	751	say.v	43	Statement	MANUAL	6532408	6	9	JKR	says
+185	23580	2	11	0	4099036	Sudan says it 's ready to sign the international convention banning chemical weapons .	12293	ready.a	169	Activity_ready_state	MANUAL	6532413	17	21	JKR	ready
+185	23580	2	11	0	4099036	Sudan says it 's ready to sign the international convention banning chemical weapons .	10681	sign.v	1151	Sign_agreement	MANUAL	6532415	26	29	JKR	sign
+185	23580	2	11	0	4099036	Sudan says it 's ready to sign the international convention banning chemical weapons .	10238	international.a	195	Political_locales	MANUAL	6532416	35	47	JKR	international
+185	23580	2	11	0	4099036	Sudan says it 's ready to sign the international convention banning chemical weapons .	8181	ban.v	521	Prohibiting_or_licensing	MANUAL	6532417	60	66	JKR	banning
+185	23580	2	11	0	4099036	Sudan says it 's ready to sign the international convention banning chemical weapons .	10635	chemical	426	Weapon	MANUAL	6532418	68	75	EGp	chemical
+185	23580	2	11	0	4099036	Sudan says it 's ready to sign the international convention banning chemical weapons .	10635	chemical	426	Weapon	MANUAL	6532418	77	83	EGp	weapons
+185	23580	3	11	0	4099037	QN : Will Sudan produce chemical weapons in the future ?	null	null	null	null	UNANN	6531778	null	null	null	null
+185	23580	3	11	0	4099037	QN : Will Sudan produce chemical weapons in the future ?	7523	produce.v	408	Manufacturing	MANUAL	6532419	16	22	JKR	produce
+185	23580	3	11	0	4099037	QN : Will Sudan produce chemical weapons in the future ?	10635	chemical	426	Weapon	MANUAL	6532420	24	31	EGp	chemical
+185	23580	3	11	0	4099037	QN : Will Sudan produce chemical weapons in the future ?	10635	chemical	426	Weapon	MANUAL	6532420	33	39	EGp	weapons
+185	23580	1	12	0	4099038	ID: MIT -12 .	null	null	null	null	UNANN	6531779	null	null	null	null
+185	23580	2	12	0	4099039	The Scud C has a range of 500 kilometers and is manufactured in Syria with know-how from North Korea .	null	null	null	null	UNANN	6531780	null	null	null	null
+185	23580	2	12	0	4099039	The Scud C has a range of 500 kilometers and is manufactured in Syria with know-how from North Korea .	7518	manufacture.v	408	Manufacturing	MANUAL	6532421	48	59	JKR	manufactured
+185	23580	2	12	0	4099039	The Scud C has a range of 500 kilometers and is manufactured in Syria with know-how from North Korea .	11749	range.n	1350	Range	MANUAL	6532422	17	21	JKR	range
+185	23580	2	12	0	4099039	The Scud C has a range of 500 kilometers and is manufactured in Syria with know-how from North Korea .	11629	know-how.n	136	Expertise	MANUAL	6532423	75	82	JKR	know-how
+185	23580	2	12	0	4099039	The Scud C has a range of 500 kilometers and is manufactured in Syria with know-how from North Korea .	10640	from.prep	1103	Origin	MANUAL	6532424	84	87	JKR	from
+185	23580	3	12	0	4099040	QN : Can a Scud C fly 500 kilometers ?	null	null	null	null	UNANN	6531781	null	null	null	null
+185	23580	3	12	0	4099040	QN : Can a Scud C fly 500 kilometers ?	10156	can.v	990	Capability	MANUAL	6532425	5	7	JKR	Can
+185	23580	3	12	0	4099040	QN : Can a Scud C fly 500 kilometers ?	6268	fly.v	7	Motion	MANUAL	6532426	18	20	JKR	fly
+185	23580	1	13	0	4099041	ID: MIT -13 .	null	null	null	null	UNANN	6531782	null	null	null	null
+185	23580	2	13	0	4099042	Some of the 14 alleged bin Laden associates arrested in Jordan in December have begun talking to investigators .	null	null	null	null	UNANN	6531783	null	null	null	null
+185	23580	2	13	0	4099042	Some of the 14 alleged bin Laden associates arrested in Jordan in December have begun talking to investigators .	10750	alleged.a	1154	Unattributed_information	MANUAL	6532430	15	21	JKR	alleged
+185	23580	2	13	0	4099042	Some of the 14 alleged bin Laden associates arrested in Jordan in December have begun talking to investigators .	10190	of.prep	1010	Partitive	MANUAL	6532431	5	6	JKR	of
+185	23580	2	13	0	4099042	Some of the 14 alleged bin Laden associates arrested in Jordan in December have begun talking to investigators .	4733	arrest.v	202	Arrest	MANUAL	6532432	44	51	JKR	arrested
+185	23580	2	13	0	4099042	Some of the 14 alleged bin Laden associates arrested in Jordan in December have begun talking to investigators .	7646	associate.n	418	Collaboration	MANUAL	6532434	33	42	JKR	associates
+185	23580	2	13	0	4099042	Some of the 14 alleged bin Laden associates arrested in Jordan in December have begun talking to investigators .	4448	begin.v	146	Activity_start	MANUAL	6532436	80	84	JKR	begun
+185	23580	2	13	0	4099042	Some of the 14 alleged bin Laden associates arrested in Jordan in December have begun talking to investigators .	9979	talk.v	910	Chatting	MANUAL	6532438	86	92	JKR	talking
+185	23580	3	13	0	4099043	QN : Was an associate of bin Laden arrested in the Middle East ?	null	null	null	null	UNANN	6531784	null	null	null	null
+185	23580	3	13	0	4099043	QN : Was an associate of bin Laden arrested in the Middle East ?	7646	associate.n	418	Collaboration	MANUAL	6532440	12	20	JKR	associate
+185	23580	3	13	0	4099043	QN : Was an associate of bin Laden arrested in the Middle East ?	4733	arrest.v	202	Arrest	MANUAL	6532441	35	42	JKR	arrested
+185	23580	1	14	0	4099044	ID: MIT -14 .	null	null	null	null	UNANN	6531785	null	null	null	null
+185	23580	2	14	0	4099045	The U.S. Senate on Thursday unanimously approved legislation designed to punish Russia and other countries if they help Iran develop weapons of mass destruction .	null	null	null	null	UNANN	6531786	null	null	null	null
+185	23580	2	14	0	4099045	The U.S. Senate on Thursday unanimously approved legislation designed to punish Russia and other countries if they help Iran develop weapons of mass destruction .	267	design.v	27	Coming_up_with	MANUAL	6532453	61	68	JKR	designed
+185	23580	2	14	0	4099045	The U.S. Senate on Thursday unanimously approved legislation designed to punish Russia and other countries if they help Iran develop weapons of mass destruction .	3846	punish.v	216	Rewards_and_punishments	MANUAL	6532454	73	78	JKR	punish
+185	23580	2	14	0	4099045	The U.S. Senate on Thursday unanimously approved legislation designed to punish Russia and other countries if they help Iran develop weapons of mass destruction .	7041	help.v	391	Assistance	MANUAL	6532457	115	118	JKR	help
+185	23580	2	14	0	4099045	The U.S. Senate on Thursday unanimously approved legislation designed to punish Russia and other countries if they help Iran develop weapons of mass destruction .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6532458	125	131	JKR	develop
+185	23580	2	14	0	4099045	The U.S. Senate on Thursday unanimously approved legislation designed to punish Russia and other countries if they help Iran develop weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532461	133	139	EGp	weapons
+185	23580	2	14	0	4099045	The U.S. Senate on Thursday unanimously approved legislation designed to punish Russia and other countries if they help Iran develop weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532461	141	142	EGp	of
+185	23580	2	14	0	4099045	The U.S. Senate on Thursday unanimously approved legislation designed to punish Russia and other countries if they help Iran develop weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532461	144	147	EGp	mass
+185	23580	2	14	0	4099045	The U.S. Senate on Thursday unanimously approved legislation designed to punish Russia and other countries if they help Iran develop weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532461	149	159	EGp	destruction
+185	23580	2	14	0	4099045	The U.S. Senate on Thursday unanimously approved legislation designed to punish Russia and other countries if they help Iran develop weapons of mass destruction .	18762	approve.v	520	Deny_or_grant_permission	MANUAL	6532462	40	47	JKR	approved
+185	23580	3	14	0	4099046	QN : Will Russia help Iran develop weapons of mass destruction ?	null	null	null	null	UNANN	6531787	null	null	null	null
+185	23580	3	14	0	4099046	QN : Will Russia help Iran develop weapons of mass destruction ?	7041	help.v	391	Assistance	MANUAL	6532443	17	20	JKR	help
+185	23580	3	14	0	4099046	QN : Will Russia help Iran develop weapons of mass destruction ?	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6532444	27	33	JKR	develop
+185	23580	3	14	0	4099046	QN : Will Russia help Iran develop weapons of mass destruction ?	10707	weapon	426	Weapon	MANUAL	6532445	35	41	EGp	weapons
+185	23580	3	14	0	4099046	QN : Will Russia help Iran develop weapons of mass destruction ?	10707	weapon	426	Weapon	MANUAL	6532445	43	44	EGp	of
+185	23580	3	14	0	4099046	QN : Will Russia help Iran develop weapons of mass destruction ?	10707	weapon	426	Weapon	MANUAL	6532445	46	49	EGp	mass
+185	23580	3	14	0	4099046	QN : Will Russia help Iran develop weapons of mass destruction ?	10707	weapon	426	Weapon	MANUAL	6532445	51	61	EGp	destruction
+185	23580	1	15	0	4099047	ID: MIT -15 .	null	null	null	null	UNANN	6531788	null	null	null	null
+185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	null	null	null	null	UNANN	6531789	null	null	null	null
+185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	12556	to	1594	Continued_state_of_affairs	MANUAL	6532468	0	1	EGp	To
+185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	12556	to	1594	Continued_state_of_affairs	MANUAL	6532468	3	6	EGp	date
+185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	10724	program.n	1158	Project	MANUAL	6532471	66	73	JKR	programs
+185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	7041	help.v	391	Assistance	MANUAL	6532472	84	90	JKR	helping
+185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532473	168	174	EGp	weapons
+185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532473	176	177	EGp	of
+185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532473	179	182	EGp	mass
+185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532473	184	194	EGp	destruction
+185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	3688	state	195	Political_locales	MANUAL	6532474	127	132	JKR	states
+185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	10174	other.a	1001	Increment	MANUAL	6532475	103	107	JKR	other
+185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	1990	reduce.v	96	Cause_change_of_position_on_a_scale	MANUAL	6532476	134	139	JKR	reduce
+185	23580	3	15	0	4099049	QN : Does the U.S. want the threat posed by Russia 's weapons of mass destruction to be reduced ?	null	null	null	null	UNANN	6531790	null	null	null	null
+185	23580	3	15	0	4099049	QN : Does the U.S. want the threat posed by Russia 's weapons of mass destruction to be reduced ?	6412	want.v	366	Desiring	MANUAL	6532489	19	22	JKR	want
+185	23580	3	15	0	4099049	QN : Does the U.S. want the threat posed by Russia 's weapons of mass destruction to be reduced ?	10707	weapon	426	Weapon	MANUAL	6532498	54	60	EGp	weapons
+185	23580	3	15	0	4099049	QN : Does the U.S. want the threat posed by Russia 's weapons of mass destruction to be reduced ?	10707	weapon	426	Weapon	MANUAL	6532498	62	63	EGp	of
+185	23580	3	15	0	4099049	QN : Does the U.S. want the threat posed by Russia 's weapons of mass destruction to be reduced ?	10707	weapon	426	Weapon	MANUAL	6532498	65	68	EGp	mass
+185	23580	3	15	0	4099049	QN : Does the U.S. want the threat posed by Russia 's weapons of mass destruction to be reduced ?	10707	weapon	426	Weapon	MANUAL	6532498	70	80	EGp	destruction
+185	23580	3	15	0	4099049	QN : Does the U.S. want the threat posed by Russia 's weapons of mass destruction to be reduced ?	1990	reduce.v	96	Cause_change_of_position_on_a_scale	MANUAL	6532500	88	94	JKR	reduced
+185	23580	1	16	0	4099050	ID: MIT -16 .	null	null	null	null	UNANN	6531791	null	null	null	null
+185	23580	2	16	0	4099051	A father and a son were admitted to hospital with strychnine poisoning after consuming Herron products .	null	null	null	null	UNANN	6531792	null	null	null	null
+185	23580	2	16	0	4099051	A father and a son were admitted to hospital with strychnine poisoning after consuming Herron products .	3013	hospital.n	173	Buildings	MANUAL	6532505	36	43	JKR	hospital
+185	23580	2	16	0	4099051	A father and a son were admitted to hospital with strychnine poisoning after consuming Herron products .	4831	consume.v	263	Ingestion	MANUAL	6532506	77	85	JKR	consuming
+185	23580	2	16	0	4099051	A father and a son were admitted to hospital with strychnine poisoning after consuming Herron products .	9083	poisoning.n	112	Cause_harm	MANUAL	6532535	61	69	JKR	poisoning
+185	23580	3	16	0	4099052	QN : Did the Herron products contain poison ?	null	null	null	null	UNANN	6531793	null	null	null	null
+185	23580	3	16	0	4099052	QN : Did the Herron products contain poison ?	7296	contain.v	397	Containing	MANUAL	6532539	29	35	JKR	contain
+185	23580	3	16	0	4099052	QN : Did the Herron products contain poison ?	10753	poison.n	1163	Toxic_substance	MANUAL	6532541	37	42	JKR	poison
+185	23580	1	17	0	4099053	ID: MIT -17 .	null	null	null	null	UNANN	6531794	null	null	null	null
+185	23580	2	17	0	4099054	About 400 of the more than 2,600 village residents were hospitalized in July and August .	null	null	null	null	UNANN	6531795	null	null	null	null
+185	23580	2	17	0	4099054	About 400 of the more than 2,600 village residents were hospitalized in July and August .	2214	resident.n	110	Residence	MANUAL	6532543	41	49	JKR	residents
+185	23580	2	17	0	4099054	About 400 of the more than 2,600 village residents were hospitalized in July and August .	12717	hospitalize.v	1620	Institutionalization	MANUAL	6532544	56	67	JKR	hospitalized
+185	23580	2	17	0	4099054	About 400 of the more than 2,600 village residents were hospitalized in July and August .	10190	of.prep	1010	Partitive	MANUAL	6532545	10	11	JKR	of
+185	23580	2	17	0	4099054	About 400 of the more than 2,600 village residents were hospitalized in July and August .	10205	village.n	196	Locale_by_use	MANUAL	6532547	33	39	JKR	village
+185	23580	3	17	0	4099055	QN : Were some of the village residents not hospitalized in July and August ?	null	null	null	null	UNANN	6531796	null	null	null	null
+185	23580	3	17	0	4099055	QN : Were some of the village residents not hospitalized in July and August ?	2214	resident.n	110	Residence	MANUAL	6532555	30	38	JKR	residents
+185	23580	3	17	0	4099055	QN : Were some of the village residents not hospitalized in July and August ?	10190	of.prep	1010	Partitive	MANUAL	6532557	15	16	JKR	of
+185	23580	3	17	0	4099055	QN : Were some of the village residents not hospitalized in July and August ?	12717	hospitalize.v	1620	Institutionalization	MANUAL	6532559	44	55	JKR	hospitalized
+185	23580	1	18	0	4099056	ID: MIT -18 .	null	null	null	null	UNANN	6531797	null	null	null	null
+185	23580	2	18	0	4099057	The only bacterial attack in America came in 1984 , when a cult poisoned a salad bar in Oregon with salmonella , sickening 700 people .	null	null	null	null	UNANN	6531798	null	null	null	null
+185	23580	2	18	0	4099057	The only bacterial attack in America came in 1984 , when a cult poisoned a salad bar in Oregon with salmonella , sickening 700 people .	7745	attack.n	424	Attack	MANUAL	6532563	19	24	JKR	attack
+185	23580	2	18	0	4099057	The only bacterial attack in America came in 1984 , when a cult poisoned a salad bar in Oregon with salmonella , sickening 700 people .	6150	only.a	355	Sole_instance	MANUAL	6532565	4	7	JKR	only
+185	23580	2	18	0	4099057	The only bacterial attack in America came in 1984 , when a cult poisoned a salad bar in Oregon with salmonella , sickening 700 people .	12051	poison.v	112	Cause_harm	MANUAL	6532566	64	71	JKR	poisoned
+185	23580	3	18	0	4099058	QN : Has a biological attack occurred in the U.S. ?	null	null	null	null	UNANN	6531799	null	null	null	null
+185	23580	3	18	0	4099058	QN : Has a biological attack occurred in the U.S. ?	4887	occur.v	187	Event	MANUAL	6532638	29	36	JKR	occurred
+185	23580	3	18	0	4099058	QN : Has a biological attack occurred in the U.S. ?	7745	attack.n	424	Attack	MANUAL	6532639	22	27	JKR	attack
+185	23580	1	19	0	4099059	ID: MIT -19 .	null	null	null	null	UNANN	6531800	null	null	null	null
+185	23580	2	19	0	4099060	Blix said the new weapons inspection team is composed of scientists from around the world , including South America , Thailand , Bangladesh and Eastern Europe .	null	null	null	null	UNANN	6531801	null	null	null	null
+185	23580	2	19	0	4099060	Blix said the new weapons inspection team is composed of scientists from around the world , including South America , Thailand , Bangladesh and Eastern Europe .	751	say.v	43	Statement	MANUAL	6532640	5	8	JKR	said
+185	23580	2	19	0	4099060	Blix said the new weapons inspection team is composed of scientists from around the world , including South America , Thailand , Bangladesh and Eastern Europe .	7794	weapon.n	426	Weapon	MANUAL	6532641	18	24	JKR	weapons
+185	23580	2	19	0	4099060	Blix said the new weapons inspection team is composed of scientists from around the world , including South America , Thailand , Bangladesh and Eastern Europe .	2122	team.n	103	Aggregate	MANUAL	6532642	37	40	JKR	team
+185	23580	2	19	0	4099060	Blix said the new weapons inspection team is composed of scientists from around the world , including South America , Thailand , Bangladesh and Eastern Europe .	10626	scientist.n	1071	People_by_vocation	MANUAL	6532643	57	66	JKR	scientists
+185	23580	2	19	0	4099060	Blix said the new weapons inspection team is composed of scientists from around the world , including South America , Thailand , Bangladesh and Eastern Europe .	10687	include.v	1153	Inclusion	MANUAL	6532644	92	100	JKR	including
+185	23580	2	19	0	4099060	Blix said the new weapons inspection team is composed of scientists from around the world , including South America , Thailand , Bangladesh and Eastern Europe .	11268	inspection.n	1262	Inspecting	MANUAL	6532651	26	35	JKR	inspection
+185	23580	3	19	0	4099061	QN : Are scientists from Hungary members of the new weapons inspection team ?	null	null	null	null	UNANN	6531802	null	null	null	null
+185	23580	3	19	0	4099061	QN : Are scientists from Hungary members of the new weapons inspection team ?	10626	scientist.n	1071	People_by_vocation	MANUAL	6532652	9	18	JKR	scientists
+185	23580	3	19	0	4099061	QN : Are scientists from Hungary members of the new weapons inspection team ?	10279	member.n	1026	Membership	MANUAL	6532653	33	39	JKR	members
+185	23580	3	19	0	4099061	QN : Are scientists from Hungary members of the new weapons inspection team ?	11268	inspection.n	1262	Inspecting	MANUAL	6532654	60	69	JKR	inspection
+185	23580	3	19	0	4099061	QN : Are scientists from Hungary members of the new weapons inspection team ?	2122	team.n	103	Aggregate	MANUAL	6532655	71	74	JKR	team
+185	23580	1	20	0	4099062	ID: MIT -20 .	null	null	null	null	UNANN	6531803	null	null	null	null
+185	23580	2	20	0	4099063	Biological select agents include about 40 viruses , bacteria , rickettsia , fungi , and toxins whose transfer within the United States is controlled .	null	null	null	null	UNANN	6531804	null	null	null	null
+185	23580	2	20	0	4099063	Biological select agents include about 40 viruses , bacteria , rickettsia , fungi , and toxins whose transfer within the United States is controlled .	11608	agent.n	1322	Active_substance	MANUAL	6532656	18	23	JKR	agents
+185	23580	2	20	0	4099063	Biological select agents include about 40 viruses , bacteria , rickettsia , fungi , and toxins whose transfer within the United States is controlled .	10687	include.v	1153	Inclusion	MANUAL	6532657	25	31	JKR	include
+185	23580	2	20	0	4099063	Biological select agents include about 40 viruses , bacteria , rickettsia , fungi , and toxins whose transfer within the United States is controlled .	10752	toxin.n	1163	Toxic_substance	MANUAL	6532658	88	93	JKR	toxins
+185	23580	2	20	0	4099063	Biological select agents include about 40 viruses , bacteria , rickettsia , fungi , and toxins whose transfer within the United States is controlled .	10813	transfer.n	178	Transfer	MANUAL	6532659	101	108	JKR	transfer
+185	23580	3	20	0	4099064	QN : Is the transfer of biological select agents within the United States controlled ?	null	null	null	null	UNANN	6531805	null	null	null	null
+185	23580	3	20	0	4099064	QN : Is the transfer of biological select agents within the United States controlled ?	10813	transfer.n	178	Transfer	MANUAL	6532660	12	19	JKR	transfer
+185	23580	3	20	0	4099064	QN : Is the transfer of biological select agents within the United States controlled ?	11608	agent.n	1322	Active_substance	MANUAL	6532661	42	47	JKR	agents
+185	23580	1	21	0	4099065	ID: MIT -21 .	null	null	null	null	UNANN	6531806	null	null	null	null
+185	23580	2	21	0	4099066	During his trip to five Arab capitals and Israel , which ended last Monday , Powell proposed easing sanctions on Iraqi imports .	null	null	null	null	UNANN	6531807	null	null	null	null
+185	23580	2	21	0	4099066	During his trip to five Arab capitals and Israel , which ended last Monday , Powell proposed easing sanctions on Iraqi imports .	6064	trip.n	343	Travel	MANUAL	6532665	11	14	JKR	trip
+185	23580	2	21	0	4099066	During his trip to five Arab capitals and Israel , which ended last Monday , Powell proposed easing sanctions on Iraqi imports .	4426	end.v	232	Process_end	MANUAL	6532667	57	61	JKR	ended
+185	23580	2	21	0	4099066	During his trip to five Arab capitals and Israel , which ended last Monday , Powell proposed easing sanctions on Iraqi imports .	739	propose.v	43	Statement	MANUAL	6532668	84	91	JKR	proposed
+185	23580	2	21	0	4099066	During his trip to five Arab capitals and Israel , which ended last Monday , Powell proposed easing sanctions on Iraqi imports .	12472	import	1567	Importing	MANUAL	6532669	119	125	JKR	imports
+185	23580	2	21	0	4099066	During his trip to five Arab capitals and Israel , which ended last Monday , Powell proposed easing sanctions on Iraqi imports .	10676	sanction.n	347	Revenge	MANUAL	6532670	100	108	JKR	sanctions
+185	23580	3	21	0	4099067	QN : Where did Powell travel to ?	null	null	null	null	UNANN	6531808	null	null	null	null
+185	23580	3	21	0	4099067	QN : Where did Powell travel to ?	5957	travel.v	343	Travel	MANUAL	6532662	22	27	JKR	travel
+185	23580	1	22	0	4099068	ID: MIT -22 .	null	null	null	null	UNANN	6531809	null	null	null	null
+185	23580	2	22	0	4099069	The Chemlab , for instance , is about the size of a Palm Pilot and will be able to detect a range of biological agents .	null	null	null	null	UNANN	6531810	null	null	null	null
+185	23580	2	22	0	4099069	The Chemlab , for instance , is about the size of a Palm Pilot and will be able to detect a range of biological agents .	10154	able.a	990	Capability	MANUAL	6532675	75	78	JKR	able
+185	23580	2	22	0	4099069	The Chemlab , for instance , is about the size of a Palm Pilot and will be able to detect a range of biological agents .	11608	agent.n	1322	Active_substance	MANUAL	6532676	112	117	JKR	agents
+185	23580	2	22	0	4099069	The Chemlab , for instance , is about the size of a Palm Pilot and will be able to detect a range of biological agents .	11936	detect.v	20	Becoming_aware	MANUAL	6532677	83	88	JKR	detect
+185	23580	3	22	0	4099070	QN : Is the Chemlab a handheld device ?	null	null	null	null	UNANN	6531811	null	null	null	null
+185	23580	3	22	0	4099070	QN : Is the Chemlab a handheld device ?	2183	device.n	106	Gizmo	UNANN	6532678	null	null	null	null
+185	23580	3	22	0	4099070	QN : Is the Chemlab a handheld device ?	2183	device.n	106	Gizmo	UNANN	6532678	31	36	JKR	device
+185	23580	1	23	0	4099071	ID: MIT -23 .	null	null	null	null	UNANN	6531812	null	null	null	null
+185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	null	null	null	null	UNANN	6531813	null	null	null	null
+185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	11354	suspend.v	167	Activity_pause	MANUAL	6532681	13	19	JKR	suspend
+185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	7625	destruction.n	417	Destroying	MANUAL	6532682	25	35	JKR	destruction
+185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	12266	stockpile.n	1511	Store	MANUAL	6532684	44	52	JKR	stockpile
+185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	10635	chemical	426	Weapon	MANUAL	6532685	57	64	EGp	chemical
+185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	10635	chemical	426	Weapon	MANUAL	6532685	66	72	EGp	weapons
+185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	11699	aid	391	Assistance	MANUAL	6532686	85	87	JKR	aid
+185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	12180	foreign.a	1483	Foreign_or_domestic_country	MANUAL	6532687	77	83	JKR	foreign
+185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	1987	increase.v	96	Cause_change_of_position_on_a_scale	MANUAL	6532688	96	104	JKR	increased
+185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	10625	official.n	73	Leadership	MANUAL	6532689	117	124	JKR	official
+185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	751	say.v	43	Statement	MANUAL	6532690	155	160	JKR	saying
+185	23580	3	23	0	4099073	QN : Does Russia have a stockpile of chemical weapons ?	null	null	null	null	UNANN	6531814	null	null	null	null
+185	23580	3	23	0	4099073	QN : Does Russia have a stockpile of chemical weapons ?	2378	have.v	118	Possession	MANUAL	6532691	17	20	JKR	have
+185	23580	3	23	0	4099073	QN : Does Russia have a stockpile of chemical weapons ?	12266	stockpile.n	1511	Store	MANUAL	6532692	24	32	JKR	stockpile
+185	23580	3	23	0	4099073	QN : Does Russia have a stockpile of chemical weapons ?	10635	chemical	426	Weapon	MANUAL	6532693	37	44	EGp	chemical
+185	23580	3	23	0	4099073	QN : Does Russia have a stockpile of chemical weapons ?	10635	chemical	426	Weapon	MANUAL	6532693	46	52	EGp	weapons
+185	23580	1	24	0	4099074	ID: MIT -24 .	null	null	null	null	UNANN	6531815	null	null	null	null
+185	23580	2	24	0	4099075	BioPort Corp. of Lansing , Michigan is the sole U.S. manufacturer of an anthrax vaccine .	null	null	null	null	UNANN	6531816	null	null	null	null
+185	23580	2	24	0	4099075	BioPort Corp. of Lansing , Michigan is the sole U.S. manufacturer of an anthrax vaccine .	7708	manufacturer.n	408	Manufacturing	MANUAL	6532696	53	64	JKR	manufacturer
+185	23580	2	24	0	4099075	BioPort Corp. of Lansing , Michigan is the sole U.S. manufacturer of an anthrax vaccine .	6149	sole.a	355	Sole_instance	MANUAL	6532697	43	46	JKR	sole
+185	23580	3	24	0	4099076	QN : Are there three U.S. manufacturers of anthrax vaccine ?	null	null	null	null	UNANN	6531817	null	null	null	null
+185	23580	3	24	0	4099076	QN : Are there three U.S. manufacturers of anthrax vaccine ?	10329	there	660	Existence	MANUAL	6532694	9	13	JKR	there
+185	23580	3	24	0	4099076	QN : Are there three U.S. manufacturers of anthrax vaccine ?	10329	there	660	Existence	MANUAL	6532694	5	7	JKR	Are
+185	23580	3	24	0	4099076	QN : Are there three U.S. manufacturers of anthrax vaccine ?	7708	manufacturer.n	408	Manufacturing	MANUAL	6532695	26	38	JKR	manufacturers
+185	23580	1	25	0	4099078	ID: MIT -25 .	null	null	null	null	UNANN	6531819	null	null	null	null
+185	23580	2	25	0	4099079	Two Al Qaeda computers have been found in Kabul .	null	null	null	null	UNANN	6531820	null	null	null	null
+185	23580	2	25	0	4099079	Two Al Qaeda computers have been found in Kabul .	11227	find.v	792	Locating	MANUAL	6532631	33	37	RLG	found
+185	23580	3	25	0	4099080	QN : Did the computers belong to Al Qaeda ?	null	null	null	null	UNANN	6531821	null	null	null	null
+185	23580	3	25	0	4099080	QN : Did the computers belong to Al Qaeda ?	2492	belong.v	118	Possession	MANUAL	6532633	23	28	RLG	belong
+185	23580	1	26	0	4099081	ID: MIT -26 .	null	null	null	null	UNANN	6531822	null	null	null	null
+185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	null	null	null	null	UNANN	6531823	null	null	null	null
+185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	650	order.v	41	Request	MANUAL	6532603	20	26	RLG	ordered
+185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	1141	purge.n	63	Removing	MANUAL	6532604	30	34	RLG	purge
+185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	12537	information.n	1591	Information	MANUAL	6532608	39	49	RLG	information
+185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	11808	government.n	1371	Organization	MANUAL	6532610	56	65	RLG	government
+185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532616	129	135	EGp	weapons
+185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532616	137	138	EGp	of
+185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532616	140	143	EGp	mass
+185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532616	145	155	EGp	destruction
+185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	12161	seek.v	1480	Seeking_to_achieve	MANUAL	6532698	121	127	JKR	seeking
+185	23580	3	26	0	4099083	QN : Do government agency websites contain information that could be exploited by terrorists ?	null	null	null	null	UNANN	6531824	null	null	null	null
+185	23580	1	27	0	4099084	ID: MIT -27 .	null	null	null	null	UNANN	6531825	null	null	null	null
+185	23580	2	27	0	4099085	Agriculture accounts for 22 million jobs and 16.4 percent of the nation 's gross domestic product .	null	null	null	null	UNANN	6531826	null	null	null	null
+185	23580	2	27	0	4099085	Agriculture accounts for 22 million jobs and 16.4 percent of the nation 's gross domestic product .	5785	job.n	282	Being_employed	UNANN	6532597	null	null	null	null
+185	23580	2	27	0	4099085	Agriculture accounts for 22 million jobs and 16.4 percent of the nation 's gross domestic product .	5785	job.n	282	Being_employed	UNANN	6532597	36	39	RLG	jobs
+185	23580	3	27	0	4099086	QN : Are 22 million people employed in agriculture ?	null	null	null	null	UNANN	6531827	null	null	null	null
+185	23580	3	27	0	4099086	QN : Are 22 million people employed in agriculture ?	10533	employed.a	282	Being_employed	MANUAL	6532599	27	34	RLG	employed
+185	23580	1	28	0	4099087	ID: MIT -28 .	null	null	null	null	UNANN	6531828	null	null	null	null
+185	23580	2	28	0	4099088	The Pentagon is considering a resumption of anthrax vaccinations for U.S. troops .	null	null	null	null	UNANN	6531829	null	null	null	null
+185	23580	2	28	0	4099088	The Pentagon is considering a resumption of anthrax vaccinations for U.S. troops .	206	consider.v	22	Cogitation	MANUAL	6532591	16	26	RLG	considering
+185	23580	3	28	0	4099089	QN : Have anthrax vaccinations of U.S. troops occurred previously ?	null	null	null	null	UNANN	6531830	null	null	null	null
+185	23580	3	28	0	4099089	QN : Have anthrax vaccinations of U.S. troops occurred previously ?	4887	occur.v	187	Event	MANUAL	6532592	46	53	RLG	occurred
+185	23580	1	29	0	4099090	ID: MIT -29 .	null	null	null	null	UNANN	6531831	null	null	null	null
+185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	null	null	null	null	UNANN	6531832	null	null	null	null
+185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	751	say.v	43	Statement	MANUAL	6532558	6	9	RLG	said
+185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6532570	34	43	RLG	developing
+185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	10652	nuclear	426	Weapon	MANUAL	6532571	70	76	EGp	nuclear
+185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	10652	nuclear	426	Weapon	MANUAL	6532571	78	84	EGp	weapons
+185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	10637	biological	426	Weapon	MANUAL	6532573	56	65	RLG	biological
+185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	10637	biological	426	Weapon	MANUAL	6532573	78	84	RLG	weapons
+185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	10635	chemical	426	Weapon	MANUAL	6532574	45	52	RLG	chemical
+185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	10635	chemical	426	Weapon	MANUAL	6532574	78	84	RLG	weapons
+185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	18238	deny.v	2974	Affirm_or_deny	MANUAL	6532575	88	94	RLG	denying
+185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	681	allegation.n	43	Statement	MANUAL	6532576	96	106	RLG	allegations
+185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	10625	official.n	73	Leadership	MANUAL	6532579	121	128	RLG	official
+185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	null	null	null	null	UNANN	6531833	null	null	null	null
+185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	10625	official.n	73	Leadership	MANUAL	6532580	16	23	RLG	official
+185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	697	claim.v	43	Statement	MANUAL	6532582	25	29	RLG	claim
+185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6532583	45	54	RLG	developing
+185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	10652	nuclear	426	Weapon	MANUAL	6532586	81	87	EGp	nuclear
+185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	10652	nuclear	426	Weapon	MANUAL	6532586	89	95	EGp	weapons
+185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	10637	biological	426	Weapon	MANUAL	6532587	67	76	RLG	biological
+185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	10637	biological	426	Weapon	MANUAL	6532587	89	95	RLG	weapons
+185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	10635	chemical	426	Weapon	MANUAL	6532588	56	63	RLG	chemical
+185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	10635	chemical	426	Weapon	MANUAL	6532588	89	95	RLG	weapons
+185	23580	1	30	0	4099093	ID: MIT -30 .	null	null	null	null	UNANN	6531834	null	null	null	null
+185	23580	2	30	0	4099094	Al Wafa is one of the organisations whose assets have been frozen in the United States amid suspicions that it might be giving support to Osama Bin Laden 's al-Qaeda network .	null	null	null	null	UNANN	6531835	null	null	null	null
+185	23580	2	30	0	4099094	Al Wafa is one of the organisations whose assets have been frozen in the United States amid suspicions that it might be giving support to Osama Bin Laden 's al-Qaeda network .	2495	assets.n	118	Possession	MANUAL	6532538	42	47	RLG	assets
+185	23580	2	30	0	4099094	Al Wafa is one of the organisations whose assets have been frozen in the United States amid suspicions that it might be giving support to Osama Bin Laden 's al-Qaeda network .	168	suspicion.n	19	Awareness	MANUAL	6532542	92	101	RLG	suspicions
+185	23580	2	30	0	4099094	Al Wafa is one of the organisations whose assets have been frozen in the United States amid suspicions that it might be giving support to Osama Bin Laden 's al-Qaeda network .	4344	give.v	139	Giving	MANUAL	6532549	120	125	RLG	giving
+185	23580	2	30	0	4099094	Al Wafa is one of the organisations whose assets have been frozen in the United States amid suspicions that it might be giving support to Osama Bin Laden 's al-Qaeda network .	12638	network.n	1611	Network	MANUAL	6532551	166	172	RLG	network
+185	23580	3	30	0	4099095	QN : Who has given support to al-Qaeda ?	null	null	null	null	UNANN	6531836	null	null	null	null
+185	23580	3	30	0	4099095	QN : Who has given support to al-Qaeda ?	4344	give.v	139	Giving	MANUAL	6532552	13	17	RLG	given

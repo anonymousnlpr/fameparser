@@ -1,0 +1,129 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+185	23581	1	1	0	4099077	ID:Cycorp-001 .	null	null	null	null	UNANN	6531818	null	null	null	null
+185	23581	2	1	0	4099096	Sandy owns a Golden Retriever , Harley , with whom she has won a Dog World Award .	null	null	null	null	UNANN	6531837	null	null	null	null
+185	23581	2	1	0	4099096	Sandy owns a Golden Retriever , Harley , with whom she has won a Dog World Award .	2358	own.v	118	Possession	MANUAL	6533293	6	9	MiL	owns
+185	23581	3	1	0	4099097	QN : Is Harley a herding dog ?	null	null	null	null	UNANN	6531838	null	null	null	null
+185	23581	1	2	0	4099098	ID:Cycorp-002 .	null	null	null	null	UNANN	6531839	null	null	null	null
+185	23581	2	2	0	4099099	Many cellphones have built-in digital cameras .	null	null	null	null	UNANN	6531840	null	null	null	null
+185	23581	3	2	0	4099100	QN : Can some cellphones be used to take pictures ?	null	null	null	null	UNANN	6531841	null	null	null	null
+185	23581	3	2	0	4099100	QN : Can some cellphones be used to take pictures ?	10156	can.v	990	Capability	MANUAL	6533296	5	7	MiL	Can
+185	23581	1	3	0	4099101	ID:Cycorp-003 .	null	null	null	null	UNANN	6531842	null	null	null	null
+185	23581	2	3	0	4099102	One in four cellphones sold has a camera in it .	null	null	null	null	UNANN	6531843	null	null	null	null
+185	23581	2	3	0	4099102	One in four cellphones sold has a camera in it .	2986	sell.v	172	Commerce_sell	MANUAL	6533297	23	26	MiL	sold
+185	23581	3	3	0	4099103	QN : Do most cell phones have a lens ?	null	null	null	null	UNANN	6531844	null	null	null	null
+185	23581	1	4	0	4099104	ID:Cycorp-004 .	null	null	null	null	UNANN	6531845	null	null	null	null
+185	23581	2	4	0	4099105	Three in four cellphones sold has a camera in it .	null	null	null	null	UNANN	6531846	null	null	null	null
+185	23581	3	4	0	4099106	QN : Do most cell phones have a lens .	null	null	null	null	UNANN	6531847	null	null	null	null
+185	23581	1	5	0	4099107	ID:Cycorp-005 .	null	null	null	null	UNANN	6531848	null	null	null	null
+185	23581	2	5	0	4099108	Mr . Radley ordered a 16 ounce slab of slowly roasted Black Angus Prime Rib .	null	null	null	null	UNANN	6531849	null	null	null	null
+185	23581	3	5	0	4099109	QN : Is Radley a vegetarian ?	null	null	null	null	UNANN	6531850	null	null	null	null
+185	23581	1	6	0	4099110	ID:Cycorp-006 .	null	null	null	null	UNANN	6531851	null	null	null	null
+185	23581	2	6	0	4099111	Sue ran down to McDonald's and got a hamburger happy meal with a large Diet Coke .	null	null	null	null	UNANN	6531852	null	null	null	null
+185	23581	2	6	0	4099111	Sue ran down to McDonald's and got a hamburger happy meal with a large Diet Coke .	4343	get.v	179	Getting	MANUAL	6533226	31	33	MJE	got
+185	23581	3	6	0	4099112	QN : Did Sue get a cup ?	null	null	null	null	UNANN	6531853	null	null	null	null
+185	23581	3	6	0	4099112	QN : Did Sue get a cup ?	4343	get.v	179	Getting	MANUAL	6533198	13	15	MJE	get
+185	23581	1	7	0	4099113	ID:Cycorp-007 .	null	null	null	null	UNANN	6531854	null	null	null	null
+185	23581	2	7	0	4099114	Angela Drake will be moving to California with her husband , where she has accepted a full-time position with the San Diego Public Library .	null	null	null	null	UNANN	6531855	null	null	null	null
+185	23581	2	7	0	4099114	Angela Drake will be moving to California with her husband , where she has accepted a full-time position with the San Diego Public Library .	2025	husband.n	102	Personal_relationship	MANUAL	6533312	51	57	RLG	husband
+185	23581	2	7	0	4099114	Angela Drake will be moving to California with her husband , where she has accepted a full-time position with the San Diego Public Library .	7538	accept.v	411	Receiving	MANUAL	6533313	75	82	RLG	accepted
+185	23581	3	7	0	4099115	QN : Does Angela Drake live in Los Angeles ?	null	null	null	null	UNANN	6531856	null	null	null	null
+185	23581	1	8	0	4099116	ID:Cycorp-008 .	null	null	null	null	UNANN	6531857	null	null	null	null
+185	23581	2	8	0	4099117	Ambassador Richard C. Holbrooke will visit Paris , France from Saturday , April 22 until Tuesday , April 25 .	null	null	null	null	UNANN	6531858	null	null	null	null
+185	23581	3	8	0	4099118	QN : Will Ambassador Holbrooke visit France in April ?	null	null	null	null	UNANN	6531859	null	null	null	null
+185	23581	1	9	0	4099119	ID:Cycorp-009 .	null	null	null	null	UNANN	6531860	null	null	null	null
+185	23581	2	9	0	4099120	A full-time administrative assistant , Janet Smith lives close to Long Beach , where she 's worked for the past 12 years .	null	null	null	null	UNANN	6531861	null	null	null	null
+185	23581	3	9	0	4099121	QN : Does Janet Smith live in Long Beach ?	null	null	null	null	UNANN	6531862	null	null	null	null
+185	23581	1	10	0	4099122	ID:Cycorp-010 .	null	null	null	null	UNANN	6531863	null	null	null	null
+185	23581	2	10	0	4099123	Bob Appleton , 33 , lives in Sacramento but commutes to Davis in his silver Honda CRV .	null	null	null	null	UNANN	6531864	null	null	null	null
+185	23581	3	10	0	4099124	QN : Does Appleton have a California Driver 's license ?	null	null	null	null	UNANN	6531865	null	null	null	null
+185	23581	1	11	0	4099125	ID:Cycorp-011 .	null	null	null	null	UNANN	6531866	null	null	null	null
+185	23581	2	11	0	4099126	When they remodeled their house , the Kirchners transformed the original kitchen into a game room with dark cherry laminate flooring and cabinets .	null	null	null	null	UNANN	6531867	null	null	null	null
+185	23581	3	11	0	4099127	QN : Does the Krichners ' kitchen have cherry cabinets ?	null	null	null	null	UNANN	6531868	null	null	null	null
+185	23581	1	12	0	4099128	ID:Cycorp-012 .	null	null	null	null	UNANN	6531869	null	null	null	null
+185	23581	2	12	0	4099129	Mark Jacobs , who lives in Edmonds and works in Seattle , spends 2 hours a day commuting .	null	null	null	null	UNANN	6531870	null	null	null	null
+185	23581	3	12	0	4099130	QN : Does Jacobs commute to work during rush hour ?	null	null	null	null	UNANN	6531871	null	null	null	null
+185	23581	1	13	0	4099131	ID:Cycorp-013 .	null	null	null	null	UNANN	6531872	null	null	null	null
+185	23581	2	13	0	4099132	Terry Parks married Robert Paulson in 1979 .	null	null	null	null	UNANN	6531873	null	null	null	null
+185	23581	3	13	0	4099133	QN : Is Terry Parks a man ?	null	null	null	null	UNANN	6531874	null	null	null	null
+185	23581	1	14	0	4099134	ID:Cycorp-014 .	null	null	null	null	UNANN	6531875	null	null	null	null
+185	23581	2	14	0	4099135	The Paulsons celebrated their 25th anniversary on June 14, 2004 .	null	null	null	null	UNANN	6531876	null	null	null	null
+185	23581	3	14	0	4099136	QN : Did the Paulsons get married on Flag Day ?	null	null	null	null	UNANN	6531877	null	null	null	null
+185	23581	1	15	0	4099137	ID:Cycorp-015 .	null	null	null	null	UNANN	6531878	null	null	null	null
+185	23581	2	15	0	4099138	The Island Nut Sampler includes an 8 ounce box of milk chocolate covered macadamia nuts and an 8 ounce box of white chocolate covered macadamia nuts .	null	null	null	null	UNANN	6531879	null	null	null	null
+185	23581	2	15	0	4099138	The Island Nut Sampler includes an 8 ounce box of milk chocolate covered macadamia nuts and an 8 ounce box of white chocolate covered macadamia nuts .	4797	covered.a	262	Abounding_with	MANUAL	6533188	65	71	MJE	covered
+185	23581	3	15	0	4099139	QN : Does it include a pound of macadamia nuts ?	null	null	null	null	UNANN	6531880	null	null	null	null
+185	23581	1	16	0	4099140	ID:Cycorp-016 .	null	null	null	null	UNANN	6531881	null	null	null	null
+185	23581	2	16	0	4099141	Nanolab says it ca n't stay profitable if the demand for nanotubes decreases .	null	null	null	null	UNANN	6531882	null	null	null	null
+185	23581	2	16	0	4099141	Nanolab says it ca n't stay profitable if the demand for nanotubes decreases .	751	say.v	43	Statement	MANUAL	6533378	8	11	RLG	says
+185	23581	2	16	0	4099141	Nanolab says it ca n't stay profitable if the demand for nanotubes decreases .	10913	stay.v	1155	State_continue	MANUAL	6533379	23	26	RLG	stay
+185	23581	2	16	0	4099141	Nanolab says it ca n't stay profitable if the demand for nanotubes decreases .	10156	can.v	990	Capability	MANUAL	6533380	16	17	RLG	ca
+185	23581	2	16	0	4099141	Nanolab says it ca n't stay profitable if the demand for nanotubes decreases .	1877	decrease.v	91	Change_position_on_a_scale	MANUAL	6533381	67	75	RLG	decreases
+185	23581	3	16	0	4099142	QN : Does Nanolab manufacture nanotubes ?	null	null	null	null	UNANN	6531883	null	null	null	null
+185	23581	1	17	0	4099143	ID:Cycorp-017 .	null	null	null	null	UNANN	6531884	null	null	null	null
+185	23581	2	17	0	4099144	The Swedish Embassy in Bangkok will be closed April 13-17 during the Songkran Festival .	null	null	null	null	UNANN	6531885	null	null	null	null
+185	23581	3	17	0	4099145	QN : Is the Songkran Festival a Swedish holiday ?	null	null	null	null	UNANN	6531886	null	null	null	null
+185	23581	1	18	0	4099146	ID:Cycorp-018 .	null	null	null	null	UNANN	6531887	null	null	null	null
+185	23581	2	18	0	4099147	The Nut Sampler set includes two 8 ounce boxes of chocolate covered nuts .	null	null	null	null	UNANN	6531888	null	null	null	null
+185	23581	2	18	0	4099147	The Nut Sampler set includes two 8 ounce boxes of chocolate covered nuts .	4797	covered.a	262	Abounding_with	MANUAL	6533189	60	66	MJE	covered
+185	23581	3	18	0	4099148	QN : Does this set contain milk chocolate covered nuts ?	null	null	null	null	UNANN	6531889	null	null	null	null
+185	23581	3	18	0	4099148	QN : Does this set contain milk chocolate covered nuts ?	4797	covered.a	262	Abounding_with	MANUAL	6533190	42	48	MJE	covered
+185	23581	1	19	0	4099149	ID:Cycorp-019 .	null	null	null	null	UNANN	6531890	null	null	null	null
+185	23581	2	19	0	4099150	The Mini Mac was introduced by Apple CEO Steve Jobs at his keynote address on January 11 .	null	null	null	null	UNANN	6531891	null	null	null	null
+185	23581	3	19	0	4099151	QN : Did Apple Computer release a new Macintosh in January ?	null	null	null	null	UNANN	6531892	null	null	null	null
+185	23581	1	20	0	4099152	ID:Cycorp-020 .	null	null	null	null	UNANN	6531893	null	null	null	null
+185	23581	2	20	0	4099153	The Donald criticized President Bush over his decision to go to war with Iraq .	null	null	null	null	UNANN	6531894	null	null	null	null
+185	23581	2	20	0	4099153	The Donald criticized President Bush over his decision to go to war with Iraq .	7388	criticize.v	219	Judgment_communication	MANUAL	6533318	11	20	MiL	criticized
+185	23581	3	20	0	4099154	QN : Does Trump support W 's decision to go to war ?	null	null	null	null	UNANN	6531895	null	null	null	null
+185	23581	3	20	0	4099154	QN : Does Trump support W 's decision to go to war ?	11501	support.v	1306	Taking_sides	MANUAL	6533301	16	22	MJE	support
+185	23581	3	20	0	4099154	QN : Does Trump support W 's decision to go to war ?	7432	decision.n	363	Deciding	MANUAL	6533302	29	36	MJE	decision
+185	23581	1	21	0	4099224	ID:Cycorp-021 .	null	null	null	null	UNANN	6533262	null	null	null	null
+185	23581	2	21	0	4099225	LEDs can last ten years , whereas an incandescent bulb typically lasts 5000 hours .	null	null	null	null	UNANN	6533263	null	null	null	null
+185	23581	3	21	0	4099226	QN : Do incandescent bulbs last longer than LEDs ?	null	null	null	null	UNANN	6533264	null	null	null	null
+185	23581	1	22	0	4099157	ID:Cycorp-022 .	null	null	null	null	UNANN	6531898	null	null	null	null
+185	23581	2	22	0	4099158	The `` Just Picture It '' workshop , sponsored by Oceanside Photo and Video, Inc. and taught by portrait photographer Gale Carlson , has received rave reviews .	null	null	null	null	UNANN	6531899	null	null	null	null
+185	23581	3	22	0	4099159	QN : Is `` Just Picture It '' a photography workshop ?	null	null	null	null	UNANN	6531900	null	null	null	null
+185	23581	1	23	0	4099160	ID:Cycorp-023 .	null	null	null	null	UNANN	6531901	null	null	null	null
+185	23581	2	23	0	4099161	The equatorial diameter of Saturn is 10% larger than its polar diameter .	null	null	null	null	UNANN	6531902	null	null	null	null
+185	23581	3	23	0	4099162	QN : Is Saturn an ellipsoid ?	null	null	null	null	UNANN	6531903	null	null	null	null
+185	23581	1	24	0	4099163	ID:Cycorp-024 .	null	null	null	null	UNANN	6531904	null	null	null	null
+185	23581	2	24	0	4099164	The equatorial diameter of Saturn is 10% larger than its polar diameter .	null	null	null	null	UNANN	6531905	null	null	null	null
+185	23581	3	24	0	4099165	QN : Is Saturn a sphere ?	null	null	null	null	UNANN	6531906	null	null	null	null
+185	23581	1	25	0	4099166	ID:Cycorp-025 .	null	null	null	null	UNANN	6531907	null	null	null	null
+185	23581	2	25	0	4099167	Charlotte Jones gave birth to a healthy baby boy , Johnathan Daniel , on March 14th, 2004 .	null	null	null	null	UNANN	6531908	null	null	null	null
+185	23581	3	25	0	4099168	QN : Was Charlotte Jones pregnant on December 14, 2003 ?	null	null	null	null	UNANN	6531909	null	null	null	null
+185	23581	1	26	0	4099169	ID:Cycorp-026 .	null	null	null	null	UNANN	6531910	null	null	null	null
+185	23581	2	26	0	4099170	Keikaimalu , a wholphin ( whale-dolphin hybrid ) , has given birth to female calf .	null	null	null	null	UNANN	6531911	null	null	null	null
+185	23581	3	26	0	4099171	QN : Did Keikaimalu gave birth to a ruminant ?	null	null	null	null	UNANN	6531912	null	null	null	null
+185	23581	1	27	0	4099172	ID:Cycorp-027 .	null	null	null	null	UNANN	6531913	null	null	null	null
+185	23581	2	27	0	4099173	A wholphin is a whale-dolphin hybrid .	null	null	null	null	UNANN	6531914	null	null	null	null
+185	23581	3	27	0	4099174	QN : Does the term `` wholphin '' refer to a type of hybrid ?	null	null	null	null	UNANN	6531915	null	null	null	null
+185	23581	3	27	0	4099174	QN : Does the term `` wholphin '' refer to a type of hybrid ?	2555	type.n	128	Type	MANUAL	6533280	45	48	RLG	type
+185	23581	1	28	0	4099175	ID:Cycorp-028 .	null	null	null	null	UNANN	6531916	null	null	null	null
+185	23581	2	28	0	4099176	Marilyn Connors had a very difficult pregnancy and died in childbirth yesterday .	null	null	null	null	UNANN	6531917	null	null	null	null
+185	23581	3	28	0	4099177	QN : Is Marilyn Connors pregnant ?	null	null	null	null	UNANN	6531918	null	null	null	null
+185	23581	1	29	0	4099178	ID:Cycorp-029 .	null	null	null	null	UNANN	6531919	null	null	null	null
+185	23581	2	29	0	4099179	Serena Williams is a great tennis player , perhaps one of the best ever .	null	null	null	null	UNANN	6531920	null	null	null	null
+185	23581	3	29	0	4099180	QN : Does Serena Williams play tennis well ?	null	null	null	null	UNANN	6531921	null	null	null	null
+185	23581	1	30	0	4099181	ID:Cycorp-30 .	null	null	null	null	UNANN	6531922	null	null	null	null
+185	23581	2	30	0	4099182	War and Peace is a very long novel .	null	null	null	null	UNANN	6531923	null	null	null	null
+185	23581	3	30	0	4099183	QN : Does War and Peace contain more pages than the average novel ?	null	null	null	null	UNANN	6531924	null	null	null	null
+185	23581	1	31	0	4099184	ID:Cycorp-031 .	null	null	null	null	UNANN	6531925	null	null	null	null
+185	23581	2	31	0	4099185	Ambassador Richard C. Holbrooke will visit Paris , France from Saturday , April 22 until Tuesday , April 25 .	null	null	null	null	UNANN	6531926	null	null	null	null
+185	23581	3	31	0	4099186	QN : Will Ambassador Holbrooke be in Paris on April 24th ?	null	null	null	null	UNANN	6531927	null	null	null	null
+185	23581	1	32	0	4099187	ID:Cycorp-032 .	null	null	null	null	UNANN	6531928	null	null	null	null
+185	23581	2	32	0	4099188	The Island Nut Sampler includes an 8 ounce box of milk chocolate covered macadamia nuts and an 8 ounce box of white chocolate covered macadamia nuts .	null	null	null	null	UNANN	6531929	null	null	null	null
+185	23581	2	32	0	4099188	The Island Nut Sampler includes an 8 ounce box of milk chocolate covered macadamia nuts and an 8 ounce box of white chocolate covered macadamia nuts .	4797	covered.a	262	Abounding_with	MANUAL	6533758	65	71	Hay	covered
+185	23581	3	32	0	4099189	QN : Does it include any dark-chocolate covered macadamia nuts ?	null	null	null	null	UNANN	6531930	null	null	null	null
+185	23581	3	32	0	4099189	QN : Does it include any dark-chocolate covered macadamia nuts ?	4797	covered.a	262	Abounding_with	MANUAL	6533191	40	46	MJE	covered
+185	23581	1	33	0	4099190	ID:Cycorp-033 .	null	null	null	null	UNANN	6531931	null	null	null	null
+185	23581	2	33	0	4099191	A quarter of all cellphones have built-in cameras .	null	null	null	null	UNANN	6531932	null	null	null	null
+185	23581	3	33	0	4099192	QN : Do most cell phones have a lens ?	null	null	null	null	UNANN	6531933	null	null	null	null
+185	23581	1	34	0	4099193	ID:Cycorp-034 .	null	null	null	null	UNANN	6531934	null	null	null	null
+185	23581	2	34	0	4099194	Three quarters of all cellphones have a built-in camera .	null	null	null	null	UNANN	6531935	null	null	null	null
+185	23581	3	34	0	4099195	QN : Do most cell phones have a lens .	null	null	null	null	UNANN	6531936	null	null	null	null
+185	23581	1	35	0	4099196	ID:Cycorp-035 .	null	null	null	null	UNANN	6531937	null	null	null	null
+185	23581	2	35	0	4099197	Marilyn Connors had a very difficult pregnancy and died in childbirth yesterday .	null	null	null	null	UNANN	6531938	null	null	null	null
+185	23581	3	35	0	4099198	QN : Was Marilyn Connors pregnant ?	null	null	null	null	UNANN	6531939	null	null	null	null
+185	23581	1	36	0	4099199	ID:Cycorp-036 .	null	null	null	null	UNANN	6531940	null	null	null	null
+185	23581	2	36	0	4099200	Marilyn Connors had a very difficult pregnancy and died in childbirth yesterday .	null	null	null	null	UNANN	6531941	null	null	null	null
+185	23581	3	36	0	4099201	QN : Is Marilyn Connors dead ?	null	null	null	null	UNANN	6531942	null	null	null	null

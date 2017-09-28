@@ -1,0 +1,16 @@
+filename	ANC__112C-L013.xml
+docAnnotations	195
+docManual	159
+docUnannotated	36
+sentences	28
+paragraphs	10
+Overlapping	117
+Disambiguated	96
+TP	69
+TN	36
+FP	0
+FN	63
+P	1.0
+R	0.5227272727272727
+F	0.6865671641791045
+A	0.625

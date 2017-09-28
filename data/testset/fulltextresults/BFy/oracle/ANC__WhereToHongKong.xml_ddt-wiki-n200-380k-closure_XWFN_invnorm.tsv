@@ -1,0 +1,16 @@
+filename	ANC__WhereToHongKong.xml
+docAnnotations	3827
+docManual	3058
+docUnannotated	769
+sentences	511
+paragraphs	146
+Overlapping	2339
+Disambiguated	1261
+TP	986
+TN	769
+FP	0
+FN	1797
+P	1.0
+R	0.35429392741645704
+F	0.5232157070841071
+A	0.49408783783783783

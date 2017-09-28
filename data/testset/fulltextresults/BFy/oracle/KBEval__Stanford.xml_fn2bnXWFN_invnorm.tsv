@@ -1,0 +1,513 @@
+SILVER:185	23576	2	1	0	4098552	Abdul Galeel Nazeer Karori , a leading Islamist and member of Sudan 's ruling National Congress party , said in Khartoum , `` We will not allow any arrest or trial of a Sudanese official , unless they will arrest the 30 million Sudanese people and try them . ''	5678	arrest.n	202	Arrest	MANUAL	6533222	148	153	MJE	arrest
+LINKED:[28	28	148	153	bn:00005136n		http://babelnet.org/rdf/s00005136n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35052 ===
+	Arrest: 25.0
+
+SELECTED:[Arrest]
+MATCH!
+SILVER:185	23576	2	1	0	4098552	Abdul Galeel Nazeer Karori , a leading Islamist and member of Sudan 's ruling National Congress party , said in Khartoum , `` We will not allow any arrest or trial of a Sudanese official , unless they will arrest the 30 million Sudanese people and try them . ''	9131	try.v	320	Try_defendant	MANUAL	6533304	248	250	MJE	try
+LINKED:[46	46	248	250	bn:00082844v		http://babelnet.org/rdf/s00082844v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35054 ===
+	Attempt: 25.0
+	Try_defendant: 1.0
+
+SELECTED:[Try_defendant]
+MATCH!
+SILVER:185	23576	2	1	0	4098552	Abdul Galeel Nazeer Karori , a leading Islamist and member of Sudan 's ruling National Congress party , said in Khartoum , `` We will not allow any arrest or trial of a Sudanese official , unless they will arrest the 30 million Sudanese people and try them . ''	1603	rule.v	73	Leadership	MANUAL	6533400	71	76	RLG	ruling
+LINKED:[13	13	71	76	bn:00088992v		http://babelnet.org/rdf/s00088992v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35056 ===
+	Leadership: 3136.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23576	2	2	0	4098555	Abdul Galeel Nazeer Karori , a leading Islamist and member of Sudan 's ruling National Congress party , said in Khartoum , `` We will not allow any arrest or trial of a Sudanese official , unless they will arrest the 30 million Sudanese people and try them . ''	5678	arrest.n	202	Arrest	MANUAL	6533530	148	153	Hay	arrest
+LINKED:[28	28	148	153	bn:00005136n		http://babelnet.org/rdf/s00005136n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35058 ===
+	Arrest: 25.0
+
+SELECTED:[Arrest]
+MATCH!
+SILVER:185	23576	2	2	0	4098555	Abdul Galeel Nazeer Karori , a leading Islamist and member of Sudan 's ruling National Congress party , said in Khartoum , `` We will not allow any arrest or trial of a Sudanese official , unless they will arrest the 30 million Sudanese people and try them . ''	9131	try.v	320	Try_defendant	MANUAL	6533531	248	250	Hay	try
+LINKED:[46	46	248	250	bn:00082844v		http://babelnet.org/rdf/s00082844v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35060 ===
+	Attempt: 25.0
+	Try_defendant: 1.0
+
+SELECTED:[Try_defendant]
+MATCH!
+SILVER:185	23576	2	2	0	4098555	Abdul Galeel Nazeer Karori , a leading Islamist and member of Sudan 's ruling National Congress party , said in Khartoum , `` We will not allow any arrest or trial of a Sudanese official , unless they will arrest the 30 million Sudanese people and try them . ''	1603	rule.v	73	Leadership	MANUAL	6533532	71	76	Hay	ruling
+LINKED:[13	13	71	76	bn:00088992v		http://babelnet.org/rdf/s00088992v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35062 ===
+	Leadership: 3136.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23576	2	3	0	4098558	Puerto Rican legislators who want their island to become a state said Monday they would try to override a veto of a bill they believe will help resolve the territory 's relationship to the United States .	2465	try.v	116	Attempt	MANUAL	6533251	88	90	MJE	try
+LINKED:[15	15	88	90	bn:00082844v		http://babelnet.org/rdf/s00082844v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35064 ===
+	Attempt: 25.0
+	Try_defendant: 1.0
+
+SELECTED:[Attempt]
+MATCH!
+SILVER:185	23576	2	3	0	4098558	Puerto Rican legislators who want their island to become a state said Monday they would try to override a veto of a bill they believe will help resolve the territory 's relationship to the United States .	751	say.v	43	Statement	MANUAL	6533252	65	68	MJE	said
+LINKED:[11	11	65	68	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35066 ===
+	Statement: 3969.0
+	Text_creation: 100.0
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23576	2	3	0	4098558	Puerto Rican legislators who want their island to become a state said Monday they would try to override a veto of a bill they believe will help resolve the territory 's relationship to the United States .	2756	believe.v	141	Certainty	MANUAL	6533340	126	132	MJE	believe
+LINKED:[24	24	126	132	bn:00083369v		http://babelnet.org/rdf/s00083369v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35068 ===
+	Certainty: 100.0
+	Trust: 36.0
+
+SELECTED:[Certainty]
+MATCH!
+SILVER:185	23576	4	3	0	4098560	QN : Do Puerto Rico lawmakers aim to override the governor 's veto ?	8236	aim.v	513	Purpose	MANUAL	6533303	30	32	RLG	aim
+LINKED:[6	6	30	32	bn:00082490v		http://babelnet.org/rdf/s00082490v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35070 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	4	3	0	4098560	QN : Do Puerto Rico lawmakers aim to override the governor 's veto ?	1587	governor.n	73	Leadership	MANUAL	6533305	50	57	RLG	governor
+LINKED:[10	10	50	57	bn:00041204n	http://dbpedia.org/resource/Governor	http://babelnet.org/rdf/s00041204n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35072 ===
+	Leadership: 3136.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23576	3	6	0	4098569	QN : According to several cardinals , will Pope John Paul soon be canonized ?	10677	according	1148	Attributed_information	MANUAL	6533336	5	13	CVa	According
+LINKED:[2	2	5	13	bn:00082227v		http://babelnet.org/rdf/s00082227v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35074 ===
+	Compatibility: 324.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	8	0	4098574	China 's Premier told Japan today to `` face up to history '' by admitting the suffering it caused in World War II , and seriously reconsider its bid for a UN Security Council seat after protests in China and elsewhere .	658	tell.v	41	Request	MANUAL	6533326	17	20	MiL	told
+LINKED:[3	3	17	20	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35076 ===
+	Statement: 3969.0
+	Text_creation: 100.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	3	8	0	4098575	QN : Did the Chinese Premier say the protests should give Tokyo serious pause for thought about its bid for the UNSC ?	1597	premier.n	73	Leadership	MANUAL	6533382	21	27	RLG	Premier
+LINKED:[5	5	21	27	bn:00017631n	http://dbpedia.org/resource/Prime_minister	http://babelnet.org/rdf/s00017631n	1.0	0.42857143	0.18367347	BABELFY]
+RANK:=== COUNTER  Counter 35078 ===
+	Leadership: 3136.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23576	3	8	0	4098575	QN : Did the Chinese Premier say the protests should give Tokyo serious pause for thought about its bid for the UNSC ?	751	say.v	43	Statement	MANUAL	6533383	29	31	RLG	say
+LINKED:[6	6	29	31	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35080 ===
+	Statement: 3969.0
+	Text_creation: 100.0
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23576	3	8	0	4098575	QN : Did the Chinese Premier say the protests should give Tokyo serious pause for thought about its bid for the UNSC ?	11144	thought.n	22	Cogitation	MANUAL	6533384	82	88	RLG	thought
+LINKED:[15	15	82	88	bn:00089105v		http://babelnet.org/rdf/s00089105v	1.0	0.14285715	0.040816326	BABELFY]
+RANK:=== COUNTER  Counter 35082 ===
+	Opinion: 64.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	9	0	4098577	Premier Wen Jiabao told Japan yesterday to `` face up to history '' and admit to the tremendous suffering it inflicted on people in China , Asia and the rest of the world during World War II .	658	tell.v	41	Request	MANUAL	6533283	19	22	RLG	told
+LINKED:[3	3	19	22	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35084 ===
+	Statement: 3969.0
+	Text_creation: 100.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	9	0	4098577	Premier Wen Jiabao told Japan yesterday to `` face up to history '' and admit to the tremendous suffering it inflicted on people in China , Asia and the rest of the world during World War II .	13224	admit.v	1146	Reveal_secret	MANUAL	6533285	72	76	RLG	admit
+LINKED:[13	13	72	76	bn:00082201v		http://babelnet.org/rdf/s00082201v	0.9259259	0.2	0.0025725458	BABELFY]
+RANK:=== COUNTER  Counter 35086 ===
+	Hiring: 49.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	9	0	4098577	Premier Wen Jiabao told Japan yesterday to `` face up to history '' and admit to the tremendous suffering it inflicted on people in China , Asia and the rest of the world during World War II .	5511	people.n	304	People	MANUAL	6533287	122	127	RLG	people
+LINKED:[21	21	122	127	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.76582277	0.44	0.024902243	BABELFY]
+RANK:=== COUNTER  Counter 35088 ===
+	People: 144.0
+
+SELECTED:[People]
+MATCH!
+SILVER:185	23576	3	9	0	4098578	QN : Did Japan admit to the suffering it caused in World War II ?	13224	admit.v	1146	Reveal_secret	MANUAL	6533289	15	19	RLG	admit
+LINKED:[4	4	15	19	bn:00082369v		http://babelnet.org/rdf/s00082369v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35090 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	3	10	0	4098581	It attacks the gastrointestinal tract and kills rapidly .	8630	kill.v	590	Killing	MANUAL	6533332	42	46	MiL	kills
+LINKED:[6	6	42	46	bn:00090098v		http://babelnet.org/rdf/s00090098v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35092 ===
+	Killing: 1936.0
+
+SELECTED:[Killing]
+MATCH!
+SILVER:185	23576	4	10	0	4098582	It has an incubation period of three to nine days with most deaths occurring within one week after the onset of symptoms .	4887	occur.v	187	Event	MANUAL	6533245	67	75	MJE	occurring
+LINKED:[13	13	67	75	bn:00085337v		http://babelnet.org/rdf/s00085337v	1.0	0.25	0.012461059	BABELFY]
+RANK:=== COUNTER  Counter 35094 ===
+	Process_end: 25.0
+	Event: 16.0
+	Take_place_of: 9.0
+	Change_of_relation: 1.0
+
+SELECTED:[Event]
+MATCH!
+SILVER:185	23576	4	10	0	4098582	It has an incubation period of three to nine days with most deaths occurring within one week after the onset of symptoms .	4412	onset.n	133	Process_start	MANUAL	6533246	103	107	MJE	onset
+LINKED:[19	19	103	107	bn:00058967n		http://babelnet.org/rdf/s00058967n	0.75	0.25	0.018691588	BABELFY]
+RANK:=== COUNTER  Counter 35096 ===
+	Process_start: 49.0
+
+SELECTED:[Process_start]
+MATCH!
+SILVER:185	23576	2	11	0	4098585	The U.N. health agency says suspected cases of the Ebola-like Marburg virus in Angola must be detected and isolated sooner if the disease is to be brought under control .	751	say.v	43	Statement	MANUAL	6533291	23	26	RLG	says
+LINKED:[4	4	23	26	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35098 ===
+	Statement: 3969.0
+	Text_creation: 100.0
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23576	3	11	0	4098586	QN : Could the outbreak of Marburg virus be stopped if infected people were isolated sooner ?	11292	stop.v	516	Preventing_or_letting	MANUAL	6533217	44	50	MJE	stopped
+LINKED:[9	9	44	50	bn:00089154v		http://babelnet.org/rdf/s00089154v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35100 ===
+	Halt: 4.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	12	0	4098588	Apple has declared that Mac OS X version 10.4 `` Tiger `` will go on sale Friday , 29 April 2005 , beginning at 6:00 p.m. during special events at Apple 's retail stores and Apple Authorized Resellers .	714	declare.v	43	Statement	MANUAL	6533214	10	17	MJE	declared
+LINKED:[2	2	10	17	bn:00082638v		http://babelnet.org/rdf/s00082638v	1.0	0.04347826	1.6926201E-4	BABELFY]
+RANK:=== COUNTER  Counter 35102 ===
+	Statement: 3969.0
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23576	2	12	0	4098588	Apple has declared that Mac OS X version 10.4 `` Tiger `` will go on sale Friday , 29 April 2005 , beginning at 6:00 p.m. during special events at Apple 's retail stores and Apple Authorized Resellers .	8745	sale.n	172	Commerce_sell	MANUAL	6533215	69	72	MJE	sale
+LINKED:[15	15	69	72	bn:00068915n		http://babelnet.org/rdf/s00068915n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35104 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	3	12	0	4098589	QN : Did Apple announce that the Mac operating system , OS X Tiger , will be available beginning of April 2005 ?	683	announce.v	43	Statement	MANUAL	6533216	15	22	MJE	announce
+LINKED:[4	4	15	22	bn:00082637v		http://babelnet.org/rdf/s00082637v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35106 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	13	0	4098592	Apple has declared that Mac OS X version 10.4 `` Tiger `` will go on sale Friday , 29 April 2005 , beginning at 6:00 p.m. during special events at Apple 's retail stores and Apple Authorized Resellers .	714	declare.v	43	Statement	MANUAL	6533533	10	17	Hay	declared
+LINKED:[2	2	10	17	bn:00082638v		http://babelnet.org/rdf/s00082638v	1.0	0.04347826	1.6926201E-4	BABELFY]
+RANK:=== COUNTER  Counter 35108 ===
+	Statement: 3969.0
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23576	2	13	0	4098592	Apple has declared that Mac OS X version 10.4 `` Tiger `` will go on sale Friday , 29 April 2005 , beginning at 6:00 p.m. during special events at Apple 's retail stores and Apple Authorized Resellers .	8745	sale.n	172	Commerce_sell	MANUAL	6533534	69	72	Hay	sale
+LINKED:[15	15	69	72	bn:00068915n		http://babelnet.org/rdf/s00068915n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35110 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	14	0	4098595	Prime Minister Ariel Sharon of Israel urged President Bush to step up pressure on Iran to give up all elements of its nuclear program .	1805	urge.v	87	Attempt_suasion	MANUAL	6532348	38	42	RLG	urged
+LINKED:[6	6	38	42	bn:00087843v		http://babelnet.org/rdf/s00087843v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35112 ===
+	Attempt_suasion: 196.0
+
+SELECTED:[Attempt_suasion]
+MATCH!
+SILVER:185	23576	2	14	0	4098595	Prime Minister Ariel Sharon of Israel urged President Bush to step up pressure on Iran to give up all elements of its nuclear program .	1599	president	73	Leadership	MANUAL	6532351	44	52	RLG	President
+LINKED:[7	7	44	52	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35114 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	14	0	4098595	Prime Minister Ariel Sharon of Israel urged President Bush to step up pressure on Iran to give up all elements of its nuclear program .	10822	prime	73	Leadership	MANUAL	6532352	0	4	EGp	Prime
+LINKED:[0	0	0	4	bn:00064383n		http://babelnet.org/rdf/s00064383n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35116 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	14	0	4098595	Prime Minister Ariel Sharon of Israel urged President Bush to step up pressure on Iran to give up all elements of its nuclear program .	10822	prime	73	Leadership	MANUAL	6532352	6	13	EGp	Minister
+LINKED:[1	1	6	13	bn:00041200n	http://dbpedia.org/resource/Minister_(government)	http://babelnet.org/rdf/s00041200n	0.7777778	0.23529412	0.01938387	BABELFY]
+RANK:=== COUNTER  Counter 35118 ===
+	Leadership: 3136.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23576	2	14	0	4098595	Prime Minister Ariel Sharon of Israel urged President Bush to step up pressure on Iran to give up all elements of its nuclear program .	11455	pressure.n	87	Attempt_suasion	MANUAL	6532357	70	77	RLG	pressure
+LINKED:[12	12	70	77	bn:00035778n	http://dbpedia.org/resource/Pressure	http://babelnet.org/rdf/s00035778n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35120 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	14	0	4098595	Prime Minister Ariel Sharon of Israel urged President Bush to step up pressure on Iran to give up all elements of its nuclear program .	10724	program.n	1158	Project	MANUAL	6532368	126	132	RLG	program
+LINKED:[23	23	126	132	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35122 ===
+	Purpose: 81.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	3	14	0	4098596	QN : Did Sharon urge the US leader to keep pressing Iran to give up its nuclear program altogether ?	1805	urge.v	87	Attempt_suasion	MANUAL	6532370	16	19	RLG	urge
+LINKED:[4	4	16	19	bn:00087843v		http://babelnet.org/rdf/s00087843v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35124 ===
+	Attempt_suasion: 196.0
+
+SELECTED:[Attempt_suasion]
+MATCH!
+SILVER:185	23576	3	14	0	4098596	QN : Did Sharon urge the US leader to keep pressing Iran to give up its nuclear program altogether ?	10117	press.v	87	Attempt_suasion	MANUAL	6532375	43	50	RLG	pressing
+LINKED:[10	10	43	50	bn:00091986v		http://babelnet.org/rdf/s00091986v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35126 ===
+	Cause_motion: 400.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	3	14	0	4098596	QN : Did Sharon urge the US leader to keep pressing Iran to give up its nuclear program altogether ?	10724	program.n	1158	Project	MANUAL	6532377	80	86	RLG	program
+LINKED:[17	17	80	86	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35128 ===
+	Purpose: 81.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	3	14	0	4098596	QN : Did Sharon urge the US leader to keep pressing Iran to give up its nuclear program altogether ?	4347	keep.v	164	Activity_ongoing	MANUAL	6533197	38	41	MJE	keep
+LINKED:[9	9	38	41	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35130 ===
+	Activity_ongoing: 36.0
+	Cause_to_continue: 1.0
+
+SELECTED:[Activity_ongoing]
+MATCH!
+SILVER:185	23576	2	15	0	4098598	The United States and Israel have both accused Iran of using its atomic energy program as cover for a plan to develop nuclear arms .	7367	accuse.v	219	Judgment_communication	MANUAL	6532399	39	45	RLG	accused
+LINKED:[7	7	39	45	bn:00082249v		http://babelnet.org/rdf/s00082249v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35132 ===
+	Judgment_communication: 3136.0
+	Judgment: 1225.0
+
+SELECTED:[Judgment_communication]
+MATCH!
+SILVER:185	23576	2	15	0	4098598	The United States and Israel have both accused Iran of using its atomic energy program as cover for a plan to develop nuclear arms .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6532442	110	116	RLG	develop
+LINKED:[21	21	110	116	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35134 ===
+	Cause_to_make_progress: 4.0
+
+SELECTED:[Cause_to_make_progress]
+MATCH!
+SILVER:185	23576	2	15	0	4098598	The United States and Israel have both accused Iran of using its atomic energy program as cover for a plan to develop nuclear arms .	12651	arms.n	426	Weapon	MANUAL	6532448	126	129	RLG	arms
+LINKED:[23	23	126	129	bn:00005702n	http://dbpedia.org/resource/Arm	http://babelnet.org/rdf/s00005702n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35136 ===
+	Observable_bodyparts: 6084.0
+	Shaped_part: 36.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	3	15	0	4098599	QN : Is Iran running a secret weapons program under the cover of plans to build nuclear power plants for electricity ?	12215	run.v	1495	Operating_a_system	MANUAL	6532463	13	19	RLG	running
+LINKED:[4	4	13	19	bn:00093170v		http://babelnet.org/rdf/s00093170v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35138 ===
+	Self_motion: 10609.000000000002
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	3	15	0	4098599	QN : Is Iran running a secret weapons program under the cover of plans to build nuclear power plants for electricity ?	4738	build.v	259	Building	MANUAL	6532465	74	78	RLG	build
+LINKED:[15	15	74	78	bn:00084198v		http://babelnet.org/rdf/s00084198v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35140 ===
+	Building: 64.0
+
+SELECTED:[Building]
+MATCH!
+SILVER:185	23576	3	15	0	4098599	QN : Is Iran running a secret weapons program under the cover of plans to build nuclear power plants for electricity ?	12355	power.n	1535	Electricity	MANUAL	6532466	88	92	RLG	power
+LINKED:[17	17	88	92	bn:00063940n	http://dbpedia.org/resource/Power_(social_and_political)	http://babelnet.org/rdf/s00063940n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35142 ===
+	Leadership: 3136.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	3	15	0	4098599	QN : Is Iran running a secret weapons program under the cover of plans to build nuclear power plants for electricity ?	11435	plant.n	196	Locale_by_use	MANUAL	6532467	94	99	RLG	plants
+LINKED:[18	18	94	99	bn:00035324n	http://dbpedia.org/resource/Plant	http://babelnet.org/rdf/s00035324n	0.8875502	0.8666667	0.16346154	BABELFY]
+RANK:=== COUNTER  Counter 35144 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	3	15	0	4098599	QN : Is Iran running a secret weapons program under the cover of plans to build nuclear power plants for electricity ?	12353	electricity.n	1535	Electricity	MANUAL	6532469	105	115	RLG	electricity
+LINKED:[20	20	105	115	bn:00030192n	http://dbpedia.org/resource/Electricity	http://babelnet.org/rdf/s00030192n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35146 ===
+	Electricity: 81.0
+
+SELECTED:[Electricity]
+MATCH!
+SILVER:185	23576	3	15	0	4098599	QN : Is Iran running a secret weapons program under the cover of plans to build nuclear power plants for electricity ?	10644	secret.a	1145	Secrecy_status	MANUAL	6533295	23	28	RLG	secret
+LINKED:[6	6	23	28	bn:00110253a		http://babelnet.org/rdf/s00110253a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35148 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	16	0	4098601	A northern Indiana businessman has been kidnapped in Iraq and shown on a video broadcast Wednesday by the Al-Jazeera television station .	2456	kidnap.v	122	Kidnapping	MANUAL	6533329	40	48	MiL	kidnapped
+LINKED:[6	6	40	48	bn:00082131v		http://babelnet.org/rdf/s00082131v	1.0	0.07692308	0.0013513514	BABELFY]
+RANK:=== COUNTER  Counter 35150 ===
+	Kidnapping: 36.0
+
+SELECTED:[Kidnapping]
+MATCH!
+SILVER:185	23576	3	16	0	4098602	QN : Has Al-Jazeera television broadcasted a video that showed an American who had been kidnapped ?	2456	kidnap.v	122	Kidnapping	MANUAL	6533330	88	96	MiL	kidnapped
+LINKED:[15	15	88	96	bn:00082131v		http://babelnet.org/rdf/s00082131v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35152 ===
+	Kidnapping: 36.0
+
+SELECTED:[Kidnapping]
+MATCH!
+SILVER:185	23576	2	18	0	4098607	Prosecutors investigating an Iranian man who abducted four schoolgirls at knifepoint said on Wednesday they would petition the court to commit the man to a psychiatric institute .	12625	court.n	1607	Judicial_body	MANUAL	6533328	127	131	MiL	court
+LINKED:[18	18	127	131	bn:00023301n	http://dbpedia.org/resource/Tribunal	http://babelnet.org/rdf/s00023301n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35154 ===
+	Judicial_body: 4.0
+
+SELECTED:[Judicial_body]
+MATCH!
+SILVER:185	23576	3	18	0	4098608	QN : Did prosecutors say on Wednesday that the Iranian who kidnapped four schoolgirls would be taken to a psychiatric clinic for treatment ?	751	say.v	43	Statement	MANUAL	6533204	21	23	MJE	say
+LINKED:[4	4	21	23	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35156 ===
+	Statement: 3969.0
+	Text_creation: 100.0
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23576	3	18	0	4098608	QN : Did prosecutors say on Wednesday that the Iranian who kidnapped four schoolgirls would be taken to a psychiatric clinic for treatment ?	2456	kidnap.v	122	Kidnapping	MANUAL	6533205	59	67	MJE	kidnapped
+LINKED:[11	11	59	67	bn:00082131v		http://babelnet.org/rdf/s00082131v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35158 ===
+	Kidnapping: 36.0
+
+SELECTED:[Kidnapping]
+MATCH!
+SILVER:185	23576	3	19	0	4098611	QN : Were the four girls who had been kidnapped by an Iranian man freed by police ?	2456	kidnap.v	122	Kidnapping	MANUAL	6533331	38	46	MiL	kidnapped
+LINKED:[9	9	38	46	bn:00082131v		http://babelnet.org/rdf/s00082131v	1.0	0.2	0.013333334	BABELFY]
+RANK:=== COUNTER  Counter 35160 ===
+	Kidnapping: 36.0
+
+SELECTED:[Kidnapping]
+MATCH!
+SILVER:185	23576	3	21	0	4098617	QN : Did the Australian Federal Police say that the five million ecstasy tablets seized in Melbourne was the largest seizure of street-ready tablets in the world ?	751	say.v	43	Statement	MANUAL	6533385	39	41	RLG	say
+LINKED:[7	7	39	41	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35162 ===
+	Statement: 3969.0
+	Text_creation: 100.0
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23576	3	21	0	4098617	QN : Did the Australian Federal Police say that the five million ecstasy tablets seized in Melbourne was the largest seizure of street-ready tablets in the world ?	7535	seize.v	410	Taking	MANUAL	6533386	81	86	RLG	seized
+LINKED:[14	14	81	86	bn:00085207v		http://babelnet.org/rdf/s00085207v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35164 ===
+	Manipulation: 900.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	3	21	0	4098617	QN : Did the Australian Federal Police say that the five million ecstasy tablets seized in Melbourne was the largest seizure of street-ready tablets in the world ?	7536	seizure.n	410	Taking	MANUAL	6533387	117	123	RLG	seizure
+LINKED:[20	20	117	123	bn:00015774n	http://dbpedia.org/resource/Search_and_seizure	http://babelnet.org/rdf/s00015774n	0.8	0.3846154	0.04405286	BABELFY]
+RANK:=== COUNTER  Counter 35166 ===
+	Taking: 9.0
+
+SELECTED:[Taking]
+MATCH!
+SILVER:185	23576	3	21	0	4098617	QN : Did the Australian Federal Police say that the five million ecstasy tablets seized in Melbourne was the largest seizure of street-ready tablets in the world ?	10179	world.n	195	Political_locales	MANUAL	6533388	156	160	RLG	world
+LINKED:[26	26	156	160	bn:00022991n	http://dbpedia.org/resource/Macrocosm_and_microcosm	http://babelnet.org/rdf/s00022991n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35168 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	22	0	4098619	The head of Germany 's spy agency says the U-S made a mistake by letting Afghan militias chase after Osama bin Laden .	751	say.v	43	Statement	MANUAL	6533292	34	37	RLG	says
+LINKED:[7	7	34	37	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.9	0.2	0.0037205457	BABELFY]
+RANK:=== COUNTER  Counter 35170 ===
+	Statement: 3969.0
+	Text_creation: 100.0
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23576	3	22	0	4098620	QN : Does the head of German intelligence believe the United States made errors in hunting Osama bin Laden ?	2756	believe.v	141	Certainty	MANUAL	6533338	42	48	MJE	believe
+LINKED:[8	8	42	48	bn:00083369v		http://babelnet.org/rdf/s00083369v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35172 ===
+	Certainty: 100.0
+	Trust: 36.0
+
+SELECTED:[Certainty]
+MATCH!
+SILVER:185	23576	3	22	0	4098620	QN : Does the head of German intelligence believe the United States made errors in hunting Osama bin Laden ?	4906	hunt.v	269	Seeking	MANUAL	6533339	83	89	MJE	hunting
+LINKED:[15	15	83	89	bn:00089521v		http://babelnet.org/rdf/s00089521v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35174 ===
+	Seeking: 324.0
+
+SELECTED:[Seeking]
+MATCH!
+SILVER:185	23576	2	25	0	4098628	Outside the northern Iraqi city of Kirkuk , at least nine police officers were killed and three were wounded when a bomb detonated on an oil pipeline as they were trying to defuse it .	3764	city.n	195	Political_locales	MANUAL	6533268	27	30	RLG	city
+LINKED:[4	4	27	30	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.85365856	0.625	0.29661018	BABELFY]
+RANK:=== COUNTER  Counter 35176 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	25	0	4098628	Outside the northern Iraqi city of Kirkuk , at least nine police officers were killed and three were wounded when a bomb detonated on an oil pipeline as they were trying to defuse it .	8630	kill.v	590	Killing	MANUAL	6533269	79	84	RLG	killed
+LINKED:[14	14	79	84	bn:00090098v		http://babelnet.org/rdf/s00090098v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35178 ===
+	Killing: 1936.0
+
+SELECTED:[Killing]
+MATCH!
+SILVER:185	23576	2	25	0	4098628	Outside the northern Iraqi city of Kirkuk , at least nine police officers were killed and three were wounded when a bomb detonated on an oil pipeline as they were trying to defuse it .	7950	wound.v	112	Cause_harm	MANUAL	6533273	101	107	RLG	wounded
+LINKED:[18	18	101	107	bn:00089751v		http://babelnet.org/rdf/s00089751v	1.0	0.0625	0.0028248588	BABELFY]
+RANK:=== COUNTER  Counter 35180 ===
+	Cause_harm: 3136.0
+	Experience_bodily_harm: 225.0
+
+SELECTED:[Cause_harm]
+MATCH!
+SILVER:185	23576	2	25	0	4098628	Outside the northern Iraqi city of Kirkuk , at least nine police officers were killed and three were wounded when a bomb detonated on an oil pipeline as they were trying to defuse it .	7781	bomb.n	426	Weapon	MANUAL	6533275	116	119	RLG	bomb
+LINKED:[21	21	116	119	bn:00011917n	http://dbpedia.org/resource/Bomb	http://babelnet.org/rdf/s00011917n	0.88235295	0.3125	0.042372882	BABELFY]
+RANK:=== COUNTER  Counter 35182 ===
+	Weapon: 1369.0
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:185	23576	2	25	0	4098628	Outside the northern Iraqi city of Kirkuk , at least nine police officers were killed and three were wounded when a bomb detonated on an oil pipeline as they were trying to defuse it .	11603	oil.n	1321	Substance	MANUAL	6533276	137	139	RLG	oil
+LINKED:[25	25	137	139	bn:00024112n	http://dbpedia.org/resource/Petroleum	http://babelnet.org/rdf/s00024112n	0.81889766	0.5	0.14689265	BABELFY]
+RANK:=== COUNTER  Counter 35184 ===
+	Substance: 225.0
+
+SELECTED:[Substance]
+MATCH!
+SILVER:185	23576	2	25	0	4098628	Outside the northern Iraqi city of Kirkuk , at least nine police officers were killed and three were wounded when a bomb detonated on an oil pipeline as they were trying to defuse it .	2465	try.v	116	Attempt	MANUAL	6533278	163	168	RLG	trying
+LINKED:[30	30	163	168	bn:00082844v		http://babelnet.org/rdf/s00082844v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35186 ===
+	Attempt: 25.0
+	Try_defendant: 1.0
+
+SELECTED:[Attempt]
+MATCH!
+SILVER:185	23576	3	27	0	4098635	Mount Talang 's violent awakening has coincided with a string of earthquakes on Sumatra and comes as another volcano on neighbouring Java , Tangkuban Perahu , has sprung to life and been declared off-limits .	17798	neighboring.a	2891	Adjacency	MANUAL	6533403	120	131	RLG	neighbouring
+LINKED:[20	20	120	131	bn:00091039v		http://babelnet.org/rdf/s00091039v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35188 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23576	2	30	0	4098644	Theologians in Spain and elsewhere say Opus Dei is well ensconced in Rome and will probably emerge unscathed from the conclave , although this is far from certain .	751	say.v	43	Statement	MANUAL	6533389	35	37	RLG	say
+LINKED:[5	5	35	37	bn:00092425v		http://babelnet.org/rdf/s00092425v	1.0	0.14285715	0.0038610038	BABELFY]
+RANK:=== COUNTER  Counter 35190 ===
+
+SELECTED:[]
+WRONG!
+filename	KBEval__Stanford.xml
+docAnnotations	174
+docManual	78
+docUnannotated	96
+sentences	94
+paragraphs	30
+Overlapping	70
+Disambiguated	56
+TP	43
+TN	96
+FP	0
+FN	22
+P	1.0
+R	0.6615384615384615
+F	0.7962962962962964
+A	0.8633540372670807

@@ -1,0 +1,16 @@
+filename	WikiTexts__Fires_6.xml
+docAnnotations	189
+docManual	170
+docUnannotated	19
+sentences	19
+paragraphs	19
+Overlapping	128
+Disambiguated	82
+TP	55
+TN	19
+FP	0
+FN	88
+P	1.0
+R	0.38461538461538464
+F	0.5555555555555556
+A	0.4567901234567901

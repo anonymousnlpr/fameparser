@@ -1,0 +1,16 @@
+filename	PropBank__ElectionVictory.xml
+docAnnotations	243
+docManual	217
+docUnannotated	26
+sentences	26
+paragraphs	7
+Overlapping	145
+Disambiguated	88
+TP	38
+TN	26
+FP	0
+FN	129
+P	1.0
+R	0.2275449101796407
+F	0.37073170731707317
+A	0.3316062176165803

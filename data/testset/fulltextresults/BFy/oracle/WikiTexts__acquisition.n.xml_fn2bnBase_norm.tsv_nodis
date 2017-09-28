@@ -1,0 +1,88 @@
+SILVER:246	25735	1	1	0	4216631	When farmers became capable of producing food beyond the needs of their own families , others in their society were freed to devote themselves to projects other than food acquisition .	7501	acquisition	179	Getting	MANUAL	6774114	171	181	MJE	acquisition
+LINKED:[29	29	171	181	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20906 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25735	4	1	0	4216634	Glvez ' actions led to the Spanish acquisition of East and West Florida in the peace settlement , denied the British the opportunity of encircling the American rebels from the south , and kept open a vital conduit for supplies to the American frontier .	7501	acquisition	179	Getting	MANUAL	6774117	35	45	MJE	acquisition
+LINKED:[6	6	35	45	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20907 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25735	5	1	0	4216635	Except for the French acquisition of Tobago , sovereignty in the West Indies was returned to the ''status quo ante bellum '' in the peace of 1783 .	7501	acquisition	179	Getting	MANUAL	6774116	22	32	MJE	acquisition
+LINKED:[4	4	22	32	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20908 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25735	4	2	0	4216644	This reform greatly increased Rome 's net revenue from its territorial acquisitions , stabilized its flow , and regularized the financial relationship between Rome and the provinces , rather than provoking fresh resentments with each new arbitrary exaction of tribute .	7501	acquisition	179	Getting	MANUAL	6774118	71	82	MJE	acquisitions
+LINKED:[11	11	71	82	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20909 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25735	5	2	0	4216645	Its coastal acquisition may have been one reason yellow amber came to be designated by the same term as ambergris .	7501	acquisition	179	Getting	MANUAL	6774115	12	22	MJE	acquisition
+LINKED:[2	2	12	22	bn:00000725n	http://dbpedia.org/resource/Skill	http://babelnet.org/rdf/s00000725n	1.0	0.22222222	0.08	BABELFY]
+RANK:=== COUNTER  Counter 20910 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25735	2	4	0	4216662	It may take the form of a spontaneous or induced genetic mutation , or the acquisition of resistance genes from other bacterial species by horizontal gene transfer via conjugation , transduction , or transformation .	7501	acquisition	179	Getting	MANUAL	6773505	75	85	CFB	acquisition
+LINKED:[15	15	75	85	bn:00001007n		http://babelnet.org/rdf/s00001007n	0.9767442	0.33333334	0.010744436	BABELFY]
+RANK:=== COUNTER  Counter 20911 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25735	10	6	0	4216688	With the recent acquisition of Western Wireless , Alltel now takes the claim of the `` largest network in America . ''	7501	acquisition	179	Getting	MANUAL	6773624	16	26	HPh	acquisition
+LINKED:[3	3	16	26	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20912 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25735	9	7	0	4216697	The Hohenzollerns made Ansbach the seat of their dynasty until their acquisition of the Margraviate of Brandenburg in 1415 .	7501	acquisition	179	Getting	MANUAL	6773622	69	79	HPh	acquisition
+LINKED:[11	11	69	79	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20913 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25735	4	8	0	4216702	Also among Gates 's private acquisitions is the Codex Leicester , a collection of writings by Leonardo da Vinci , which Gates bought for $30.8 and nbsp ; million at an auction in 1994 .	7503	acquisition	179	Getting	MANUAL	6773621	28	39	HPh	acquisitions
+LINKED:[5	5	28	39	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20914 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25735	7	8	0	4216705	In 1992 , British Airways expanded through the acquisition of the financially troubled Dan-Air , giving BA a much larger presence at Gatwick airport .	7501	acquisition	179	Getting	MANUAL	6773620	47	57	HPh	acquisition
+LINKED:[8	8	47	57	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20915 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25735	6	9	0	4216714	For a man to spread his cloak over a woman showed acquisition of that woman .	7501	acquisition	179	Getting	MANUAL	6773618	50	60	HPh	acquisition
+LINKED:[11	11	50	60	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20916 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25735	9	9	0	4216717	Half of the annual global tropical timber acquisition comes from Borneo .	7503	acquisition	179	Getting	MANUAL	6773617	42	52	HPh	acquisition
+LINKED:[7	7	42	52	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 20917 ===
+
+SELECTED:[]
+WRONG!
+filename	WikiTexts__acquisition.n.xml
+docAnnotations	108
+docManual	12
+docUnannotated	96
+sentences	90
+paragraphs	10
+Overlapping	12
+Disambiguated	0
+TP	0
+TN	96
+FP	0
+FN	12
+P	0.0
+R	0.0
+F	0.0
+A	0.8888888888888888

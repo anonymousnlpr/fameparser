@@ -1,0 +1,331 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+185	23575	1	1	0	4098323	ID: PARC -1 .	null	null	null	null	UNANN	6531064	null	null	null	null
+185	23575	2	1	0	4098324	Some students came to school by car .	null	null	null	null	UNANN	6531065	null	null	null	null
+185	23575	2	1	0	4098324	Some students came to school by car .	941	come.v	54	Arriving	MANUAL	6533223	14	17	MJE	came
+185	23575	3	1	0	4098325	QN : Did any students come to school ?	null	null	null	null	UNANN	6531066	null	null	null	null
+185	23575	3	1	0	4098325	QN : Did any students come to school ?	941	come.v	54	Arriving	MANUAL	6533224	22	25	MJE	come
+185	23575	1	2	0	4098326	ID: PARC -2 .	null	null	null	null	UNANN	6531067	null	null	null	null
+185	23575	2	2	0	4098327	No students came to school by car .	null	null	null	null	UNANN	6531068	null	null	null	null
+185	23575	3	2	0	4098328	QN : Did any students come to school ?	null	null	null	null	UNANN	6531069	null	null	null	null
+185	23575	3	2	0	4098328	QN : Did any students come to school ?	941	come.v	54	Arriving	MANUAL	6533514	22	25	Hay	come
+185	23575	1	3	0	4098329	ID: PARC -3 .	null	null	null	null	UNANN	6531070	null	null	null	null
+185	23575	2	3	0	4098330	Ed drove legally .	null	null	null	null	UNANN	6531071	null	null	null	null
+185	23575	3	3	0	4098331	QN : Did Ed drive ?	null	null	null	null	UNANN	6531072	null	null	null	null
+185	23575	1	4	0	4098332	ID: PARC -4 .	null	null	null	null	UNANN	6531073	null	null	null	null
+185	23575	2	4	0	4098333	Ed drove predictably .	null	null	null	null	UNANN	6531074	null	null	null	null
+185	23575	3	4	0	4098334	QN : Did Ed drive ?	null	null	null	null	UNANN	6531075	null	null	null	null
+185	23575	1	5	0	4098335	ID: PARC -5 .	null	null	null	null	UNANN	6531076	null	null	null	null
+185	23575	2	5	0	4098336	Legally , Ed could drive .	null	null	null	null	UNANN	6531077	null	null	null	null
+185	23575	3	5	0	4098337	QN : Did Ed drive ?	null	null	null	null	UNANN	6531078	null	null	null	null
+185	23575	1	6	0	4098338	ID: PARC -6 .	null	null	null	null	UNANN	6531079	null	null	null	null
+185	23575	2	6	0	4098339	Predictably , Ed drove .	null	null	null	null	UNANN	6531080	null	null	null	null
+185	23575	3	6	0	4098340	QN : Did Ed drive ?	null	null	null	null	UNANN	6531081	null	null	null	null
+185	23575	1	7	0	4098341	ID: PARC -7 .	null	null	null	null	UNANN	6531082	null	null	null	null
+185	23575	2	7	0	4098342	The technician cooled the room .	null	null	null	null	UNANN	6531083	null	null	null	null
+185	23575	3	7	0	4098343	QN : Did the technician lower the temperature of the room ?	null	null	null	null	UNANN	6531084	null	null	null	null
+185	23575	1	8	0	4098344	ID: PARC -8 .	null	null	null	null	UNANN	6531085	null	null	null	null
+185	23575	2	8	0	4098345	The technician raised the temperature of the room .	null	null	null	null	UNANN	6531086	null	null	null	null
+185	23575	3	8	0	4098346	QN : Did the technician cool the room ?	null	null	null	null	UNANN	6531087	null	null	null	null
+185	23575	1	9	0	4098347	ID: PARC -9 .	null	null	null	null	UNANN	6531088	null	null	null	null
+185	23575	2	9	0	4098348	The president visited Iraq in September .	null	null	null	null	UNANN	6531089	null	null	null	null
+185	23575	3	9	0	4098349	QN : Has the president gone to Iraq ?	null	null	null	null	UNANN	6531090	null	null	null	null
+185	23575	1	10	0	4098350	ID: PARC -10 .	null	null	null	null	UNANN	6531091	null	null	null	null
+185	23575	2	10	0	4098351	Jones has visited Iraq .	null	null	null	null	UNANN	6531092	null	null	null	null
+185	23575	3	10	0	4098352	QN : Did Jones visit Iraq in September ?	null	null	null	null	UNANN	6531093	null	null	null	null
+185	23575	1	11	0	4098353	ID: PARC -11 .	null	null	null	null	UNANN	6531094	null	null	null	null
+185	23575	2	11	0	4098354	Jones arrived in Paris in September last year .	null	null	null	null	UNANN	6531095	null	null	null	null
+185	23575	2	11	0	4098354	Jones arrived in Paris in September last year .	940	arrive.v	54	Arriving	MANUAL	6532477	6	12	RLG	arrived
+185	23575	2	11	0	4098354	Jones arrived in Paris in September last year .	4074	year.n	229	Calendric_unit	MANUAL	6532478	41	44	RLG	year
+185	23575	3	11	0	4098355	QN : Did Jones arrive in Paris last year ?	null	null	null	null	UNANN	6531096	null	null	null	null
+185	23575	3	11	0	4098355	QN : Did Jones arrive in Paris last year ?	940	arrive.v	54	Arriving	MANUAL	6532483	15	20	RLG	arrive
+185	23575	1	12	0	4098356	ID: PARC -12 .	null	null	null	null	UNANN	6531097	null	null	null	null
+185	23575	2	12	0	4098357	Jones arrived in Paris in September last year .	null	null	null	null	UNANN	6531098	null	null	null	null
+185	23575	2	12	0	4098357	Jones arrived in Paris in September last year .	940	arrive.v	54	Arriving	MANUAL	6533515	6	12	Hay	arrived
+185	23575	2	12	0	4098357	Jones arrived in Paris in September last year .	4074	year.n	229	Calendric_unit	MANUAL	6533516	41	44	Hay	year
+185	23575	3	12	0	4098358	QN : Did Jones arrive in Paris in September ?	null	null	null	null	UNANN	6531099	null	null	null	null
+185	23575	3	12	0	4098358	QN : Did Jones arrive in Paris in September ?	940	arrive.v	54	Arriving	MANUAL	6533415	15	20	MJE	arrive
+185	23575	1	13	0	4098359	ID: PARC -13 .	null	null	null	null	UNANN	6531100	null	null	null	null
+185	23575	2	13	0	4098360	Jones arrived on a Sunday in September .	null	null	null	null	UNANN	6531101	null	null	null	null
+185	23575	2	13	0	4098360	Jones arrived on a Sunday in September .	940	arrive.v	54	Arriving	MANUAL	6533416	6	12	MJE	arrived
+185	23575	3	13	0	4098361	QN : Did Jones arrive on a Sunday ?	null	null	null	null	UNANN	6531102	null	null	null	null
+185	23575	3	13	0	4098361	QN : Did Jones arrive on a Sunday ?	940	arrive.v	54	Arriving	MANUAL	6533417	15	20	MJE	arrive
+185	23575	1	14	0	4098362	ID: PARC -14 .	null	null	null	null	UNANN	6531103	null	null	null	null
+185	23575	2	14	0	4098363	Jones arrived on a Sunday in September .	null	null	null	null	UNANN	6531104	null	null	null	null
+185	23575	2	14	0	4098363	Jones arrived on a Sunday in September .	940	arrive.v	54	Arriving	MANUAL	6533517	6	12	Hay	arrived
+185	23575	3	14	0	4098364	QN : Did Jones arrive in September ?	null	null	null	null	UNANN	6531105	null	null	null	null
+185	23575	3	14	0	4098364	QN : Did Jones arrive in September ?	940	arrive.v	54	Arriving	MANUAL	6533418	15	20	MJE	arrive
+185	23575	1	15	0	4098365	ID: PARC -15 .	null	null	null	null	UNANN	6531106	null	null	null	null
+185	23575	2	15	0	4098366	The president left after the diplomat arrived .	null	null	null	null	UNANN	6531107	null	null	null	null
+185	23575	2	15	0	4098366	The president left after the diplomat arrived .	8622	leave.v	57	Departing	MANUAL	6533315	14	17	RLG	left
+185	23575	2	15	0	4098366	The president left after the diplomat arrived .	1599	president	73	Leadership	MANUAL	6533316	4	12	RLG	president
+185	23575	2	15	0	4098366	The president left after the diplomat arrived .	11746	after.prep	81	Relative_time	MANUAL	6533317	19	23	RLG	after
+185	23575	3	15	0	4098367	QN : Did the diplomat arrive before the president left ?	null	null	null	null	UNANN	6531108	null	null	null	null
+185	23575	3	15	0	4098367	QN : Did the diplomat arrive before the president left ?	940	arrive.v	54	Arriving	MANUAL	6533395	22	27	RLG	arrive
+185	23575	3	15	0	4098367	QN : Did the diplomat arrive before the president left ?	6716	before.prep	379	Time_vector	MANUAL	6533396	29	34	RLG	before
+185	23575	3	15	0	4098367	QN : Did the diplomat arrive before the president left ?	1599	president	73	Leadership	MANUAL	6533397	40	48	RLG	president
+185	23575	3	15	0	4098367	QN : Did the diplomat arrive before the president left ?	8622	leave.v	57	Departing	MANUAL	6533398	50	53	RLG	left
+185	23575	1	16	0	4098368	ID: PARC -16 .	null	null	null	null	UNANN	6531109	null	null	null	null
+185	23575	2	16	0	4098369	No US congressman has visited Iraq since the war ended .	null	null	null	null	UNANN	6531110	null	null	null	null
+185	23575	3	16	0	4098370	QN : Has Jones , a US Congressman , visited Iraq after the war ended ?	null	null	null	null	UNANN	6531111	null	null	null	null
+185	23575	1	17	0	4098371	ID: PARC -17 .	null	null	null	null	UNANN	6531112	null	null	null	null
+185	23575	2	17	0	4098372	No US congressman has visited Iraq since the war .	null	null	null	null	UNANN	6531113	null	null	null	null
+185	23575	3	17	0	4098373	QN : Did Jones , a US Congressman , visit Iraq before the war ?	null	null	null	null	UNANN	6531114	null	null	null	null
+185	23575	1	18	0	4098374	ID: PARC -18 .	null	null	null	null	UNANN	6531115	null	null	null	null
+185	23575	2	18	0	4098375	No US congressman visited Iraq until the war .	null	null	null	null	UNANN	6531116	null	null	null	null
+185	23575	3	18	0	4098376	QN : Did any US congressman visit Iraq before the war ?	null	null	null	null	UNANN	6531117	null	null	null	null
+185	23575	1	19	0	4098377	ID: PARC -19 .	null	null	null	null	UNANN	6531118	null	null	null	null
+185	23575	2	19	0	4098378	Some students arrived at the school on Sunday .	null	null	null	null	UNANN	6531119	null	null	null	null
+185	23575	2	19	0	4098378	Some students arrived at the school on Sunday .	940	arrive.v	54	Arriving	MANUAL	6533419	14	20	MJE	arrived
+185	23575	3	19	0	4098379	QN : Were there any students at the school on Sunday ?	null	null	null	null	UNANN	6531120	null	null	null	null
+185	23575	3	19	0	4098379	QN : Were there any students at the school on Sunday ?	6735	at.prep	199	Locative_relation	MANUAL	6533420	29	30	MJE	at
+185	23575	1	20	0	4098380	ID: PARC -20 .	null	null	null	null	UNANN	6531121	null	null	null	null
+185	23575	2	20	0	4098381	No students arrived at the school on Sunday .	null	null	null	null	UNANN	6531122	null	null	null	null
+185	23575	2	20	0	4098381	No students arrived at the school on Sunday .	940	arrive.v	54	Arriving	MANUAL	6533421	12	18	MJE	arrived
+185	23575	3	20	0	4098382	QN : Were there any students at the school on Sunday ?	null	null	null	null	UNANN	6531123	null	null	null	null
+185	23575	3	20	0	4098382	QN : Were there any students at the school on Sunday ?	6735	at.prep	199	Locative_relation	MANUAL	6533518	29	30	Hay	at
+185	23575	1	21	0	4098383	ID: PARC -21 .	null	null	null	null	UNANN	6531124	null	null	null	null
+185	23575	2	21	0	4098384	There were no students at the school on Sunday .	null	null	null	null	UNANN	6531125	null	null	null	null
+185	23575	2	21	0	4098384	There were no students at the school on Sunday .	6735	at.prep	199	Locative_relation	MANUAL	6533422	23	24	MJE	at
+185	23575	3	21	0	4098385	QN : Did any students arrive at the school on Sunday ?	null	null	null	null	UNANN	6531126	null	null	null	null
+185	23575	3	21	0	4098385	QN : Did any students arrive at the school on Sunday ?	940	arrive.v	54	Arriving	MANUAL	6533423	22	27	MJE	arrive
+185	23575	1	22	0	4098386	ID: PARC -22 .	null	null	null	null	UNANN	6531127	null	null	null	null
+185	23575	2	22	0	4098387	The diplomat left Baghdad last week .	null	null	null	null	UNANN	6531128	null	null	null	null
+185	23575	2	22	0	4098387	The diplomat left Baghdad last week .	8622	leave.v	57	Departing	MANUAL	6533319	13	16	RLG	left
+185	23575	3	22	0	4098388	QN : Has the diplomat been to Baghdad ?	null	null	null	null	UNANN	6531129	null	null	null	null
+185	23575	1	23	0	4098389	ID: PARC -23 .	null	null	null	null	UNANN	6531130	null	null	null	null
+185	23575	2	23	0	4098390	The diplomat will arrive in Baghdad next week .	null	null	null	null	UNANN	6531131	null	null	null	null
+185	23575	2	23	0	4098390	The diplomat will arrive in Baghdad next week .	940	arrive.v	54	Arriving	MANUAL	6533424	18	23	MJE	arrive
+185	23575	3	23	0	4098391	QN : Has the diplomat been to Baghdad ?	null	null	null	null	UNANN	6531132	null	null	null	null
+185	23575	1	24	0	4098392	ID: PARC -24 .	null	null	null	null	UNANN	6531133	null	null	null	null
+185	23575	2	24	0	4098393	The president knows that the diplomat left Baghdad .	null	null	null	null	UNANN	6531134	null	null	null	null
+185	23575	2	24	0	4098393	The president knows that the diplomat left Baghdad .	160	know.v	19	Awareness	MANUAL	6533320	14	18	RLG	knows
+185	23575	2	24	0	4098393	The president knows that the diplomat left Baghdad .	8622	leave.v	57	Departing	MANUAL	6533322	38	41	RLG	left
+185	23575	3	24	0	4098394	QN : Has the diplomat been to Baghdad ?	null	null	null	null	UNANN	6531135	null	null	null	null
+185	23575	1	25	0	4098395	ID: PARC -25 .	null	null	null	null	UNANN	6531136	null	null	null	null
+185	23575	2	25	0	4098396	The president has n't gone to Iraq since the diplomat left Baghdad .	null	null	null	null	UNANN	6531137	null	null	null	null
+185	23575	2	25	0	4098396	The president has n't gone to Iraq since the diplomat left Baghdad .	1599	president	73	Leadership	MANUAL	6533323	4	12	RLG	president
+185	23575	2	25	0	4098396	The president has n't gone to Iraq since the diplomat left Baghdad .	4345	go.v	7	Motion	MANUAL	6533324	22	25	RLG	gone
+185	23575	2	25	0	4098396	The president has n't gone to Iraq since the diplomat left Baghdad .	8622	leave.v	57	Departing	MANUAL	6533399	54	57	RLG	left
+185	23575	3	25	0	4098397	QN : Has the diplomat been to Baghdad ?	null	null	null	null	UNANN	6531138	null	null	null	null
+185	23575	1	26	0	4098398	ID: PARC -26 .	null	null	null	null	UNANN	6531139	null	null	null	null
+185	23575	2	26	0	4098399	The president has n't gone to Iraq since the diplomat left Baghdad .	null	null	null	null	UNANN	6531140	null	null	null	null
+185	23575	2	26	0	4098399	The president has n't gone to Iraq since the diplomat left Baghdad .	1599	president	73	Leadership	MANUAL	6533519	4	12	Hay	president
+185	23575	2	26	0	4098399	The president has n't gone to Iraq since the diplomat left Baghdad .	4345	go.v	7	Motion	UNANN	6533520	null	null	null	null
+185	23575	2	26	0	4098399	The president has n't gone to Iraq since the diplomat left Baghdad .	4345	go.v	7	Motion	UNANN	6533520	22	25	Hay	gone
+185	23575	2	26	0	4098399	The president has n't gone to Iraq since the diplomat left Baghdad .	8622	leave.v	57	Departing	MANUAL	6533521	54	57	Hay	left
+185	23575	3	26	0	4098400	QN : Has the president been to Iraq ?	null	null	null	null	UNANN	6531141	null	null	null	null
+185	23575	1	27	0	4098401	ID: PARC -27 .	null	null	null	null	UNANN	6531142	null	null	null	null
+185	23575	2	27	0	4098402	The diplomat did n't manage to leave Baghdad .	null	null	null	null	UNANN	6531143	null	null	null	null
+185	23575	2	27	0	4098402	The diplomat did n't manage to leave Baghdad .	8622	leave.v	57	Departing	MANUAL	6533282	31	35	RLG	leave
+185	23575	3	27	0	4098403	QN : Has the diplomat been to Baghdad ?	null	null	null	null	UNANN	6531144	null	null	null	null
+185	23575	1	28	0	4098404	ID: PARC -28 .	null	null	null	null	UNANN	6531145	null	null	null	null
+185	23575	2	28	0	4098405	The diplomat has n't managed to leave Baghdad .	null	null	null	null	UNANN	6531146	null	null	null	null
+185	23575	2	28	0	4098405	The diplomat has n't managed to leave Baghdad .	8622	leave.v	57	Departing	MANUAL	6533426	32	36	MJE	leave
+185	23575	2	28	0	4098405	The diplomat has n't managed to leave Baghdad .	12830	manage.v	1388	Success_or_failure	MANUAL	6533776	21	27	JKR	managed
+185	23575	3	28	0	4098406	QN : Is the diplomat in Baghdad now ?	null	null	null	null	UNANN	6531147	null	null	null	null
+185	23575	3	28	0	4098406	QN : Is the diplomat in Baghdad now ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533427	21	22	MJE	in
+185	23575	1	29	0	4098407	ID: PARC -29 .	null	null	null	null	UNANN	6531148	null	null	null	null
+185	23575	2	29	0	4098408	The room was full of intelligent women .	null	null	null	null	UNANN	6531149	null	null	null	null
+185	23575	2	29	0	4098408	The room was full of intelligent women .	407	intelligent.a	29	Mental_property	MANUAL	6533428	21	31	MJE	intelligent
+185	23575	2	29	0	4098408	The room was full of intelligent women .	7010	full.a	262	Abounding_with	MANUAL	6533429	13	16	MJE	full
+185	23575	3	29	0	4098409	QN : Was the room full of women ?	null	null	null	null	UNANN	6531150	null	null	null	null
+185	23575	3	29	0	4098409	QN : Was the room full of women ?	7010	full.a	262	Abounding_with	MANUAL	6533430	18	21	MJE	full
+185	23575	1	30	0	4098410	ID: PARC -30 .	null	null	null	null	UNANN	6531151	null	null	null	null
+185	23575	2	30	0	4098411	The room was full of women .	null	null	null	null	UNANN	6531152	null	null	null	null
+185	23575	2	30	0	4098411	The room was full of women .	7010	full.a	262	Abounding_with	MANUAL	6533431	13	16	MJE	full
+185	23575	3	30	0	4098412	QN : Was the room full of intelligent women ?	null	null	null	null	UNANN	6531153	null	null	null	null
+185	23575	3	30	0	4098412	QN : Was the room full of intelligent women ?	7010	full.a	262	Abounding_with	MANUAL	6533432	18	21	MJE	full
+185	23575	3	30	0	4098412	QN : Was the room full of intelligent women ?	407	intelligent.a	29	Mental_property	MANUAL	6533433	26	36	MJE	intelligent
+185	23575	1	31	0	4098413	ID: PARC -31 .	null	null	null	null	UNANN	6531154	null	null	null	null
+185	23575	2	31	0	4098414	Children are not admitted to the theatre .	null	null	null	null	UNANN	6531155	null	null	null	null
+185	23575	3	31	0	4098415	QN : Are small children admitted to the theatre ?	null	null	null	null	UNANN	6531156	null	null	null	null
+185	23575	1	32	0	4098416	ID: PARC -32 .	null	null	null	null	UNANN	6531157	null	null	null	null
+185	23575	2	32	0	4098417	Small children are not admitted to the theatre .	null	null	null	null	UNANN	6531158	null	null	null	null
+185	23575	3	32	0	4098418	QN : Are children admitted to the theatre ?	null	null	null	null	UNANN	6531159	null	null	null	null
+185	23575	1	33	0	4098419	ID: PARC -33 .	null	null	null	null	UNANN	6531160	null	null	null	null
+185	23575	2	33	0	4098420	All companies have to file annual reports .	null	null	null	null	UNANN	6531161	null	null	null	null
+185	23575	3	33	0	4098421	QN : Do all Fortune 500 companies have to file annual reports ?	null	null	null	null	UNANN	6531162	null	null	null	null
+185	23575	1	34	0	4098422	ID: PARC -34 .	null	null	null	null	UNANN	6531163	null	null	null	null
+185	23575	2	34	0	4098423	All Fortune 500 companies have to file annual reports .	null	null	null	null	UNANN	6531164	null	null	null	null
+185	23575	3	34	0	4098424	QN : Do all companies have to file annual reports ?	null	null	null	null	UNANN	6531165	null	null	null	null
+185	23575	1	35	0	4098425	ID: PARC -35 .	null	null	null	null	UNANN	6531166	null	null	null	null
+185	23575	2	35	0	4098426	All companies have to file annual reports to the SEC .	null	null	null	null	UNANN	6531167	null	null	null	null
+185	23575	3	35	0	4098427	QN : Do all companies have to file annual reports ?	null	null	null	null	UNANN	6531168	null	null	null	null
+185	23575	1	36	0	4098428	ID: PARC -36 .	null	null	null	null	UNANN	6531169	null	null	null	null
+185	23575	2	36	0	4098429	All companies have to file annual reports .	null	null	null	null	UNANN	6531170	null	null	null	null
+185	23575	3	36	0	4098430	QN : Do all companies have to file annual reports to the SEC ?	null	null	null	null	UNANN	6531171	null	null	null	null
+185	23575	1	37	0	4098431	ID: PARC -37 .	null	null	null	null	UNANN	6531172	null	null	null	null
+185	23575	2	37	0	4098432	No delegates finished the report .	null	null	null	null	UNANN	6531173	null	null	null	null
+185	23575	2	37	0	4098432	No delegates finished the report .	4483	finish.v	165	Activity_finish	MANUAL	6533194	13	20	MJE	finished
+185	23575	3	37	0	4098433	QN : Did any delegate finish the report on time ?	null	null	null	null	UNANN	6531174	null	null	null	null
+185	23575	3	37	0	4098433	QN : Did any delegate finish the report on time ?	4483	finish.v	165	Activity_finish	MANUAL	6533193	22	27	MJE	finish
+185	23575	1	38	0	4098434	ID: PARC -38 .	null	null	null	null	UNANN	6531175	null	null	null	null
+185	23575	2	38	0	4098435	The US troops stayed in Iraq although the war was over .	null	null	null	null	UNANN	6531176	null	null	null	null
+185	23575	3	38	0	4098436	QN : Was the war over ?	null	null	null	null	UNANN	6531177	null	null	null	null
+185	23575	1	39	0	4098437	ID: PARC -39 .	null	null	null	null	UNANN	6531178	null	null	null	null
+185	23575	2	39	0	4098438	Since it was cold , he closed the window .	null	null	null	null	UNANN	6531179	null	null	null	null
+185	23575	3	39	0	4098439	QN : Was it cold ?	null	null	null	null	UNANN	6531180	null	null	null	null
+185	23575	1	40	0	4098440	ID: PARC -40 .	null	null	null	null	UNANN	6531181	null	null	null	null
+185	23575	2	40	0	4098441	John did n't visit us after he returned from Spain .	null	null	null	null	UNANN	6531182	null	null	null	null
+185	23575	3	40	0	4098442	QN : Did John return from Spain ?	null	null	null	null	UNANN	6531183	null	null	null	null
+185	23575	1	41	0	4098443	ID: PARC -41 .	null	null	null	null	UNANN	6531184	null	null	null	null
+185	23575	2	41	0	4098444	Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	null	null	null	null	UNANN	6531185	null	null	null	null
+185	23575	3	41	0	4098445	QN : Did Hanssen sell FBI secrets to the Russians ?	null	null	null	null	UNANN	6531186	null	null	null	null
+185	23575	1	42	0	4098446	ID: PARC -42 .	null	null	null	null	UNANN	6531187	null	null	null	null
+185	23575	2	42	0	4098447	The New York Times reported that Hanssen , who sold FBI secrets to the Russians , could face the death penalty .	null	null	null	null	UNANN	6531188	null	null	null	null
+185	23575	3	42	0	4098448	QN : Did Hanssen sell FBI secrets to the Russians ?	null	null	null	null	UNANN	6531189	null	null	null	null
+185	23575	1	43	0	4098449	ID: PARC -43 .	null	null	null	null	UNANN	6531190	null	null	null	null
+185	23575	2	43	0	4098450	The New York Times reported that Hanssen sold FBI secrets to the Russians and could face the death penalty .	null	null	null	null	UNANN	6531191	null	null	null	null
+185	23575	3	43	0	4098451	QN : Did Hanssen sell FBI secrets to the Russians ?	null	null	null	null	UNANN	6531192	null	null	null	null
+185	23575	1	44	0	4098452	ID: PARC -44 .	null	null	null	null	UNANN	6531193	null	null	null	null
+185	23575	2	44	0	4098453	Bush said that it was Khan who sold centrifuges to North Korea .	null	null	null	null	UNANN	6531194	null	null	null	null
+185	23575	2	44	0	4098453	Bush said that it was Khan who sold centrifuges to North Korea .	751	say.v	43	Statement	MANUAL	6532486	5	8	RLG	said
+185	23575	2	44	0	4098453	Bush said that it was Khan who sold centrifuges to North Korea .	2986	sell.v	172	Commerce_sell	MANUAL	6532487	31	34	RLG	sold
+185	23575	2	44	0	4098453	Bush said that it was Khan who sold centrifuges to North Korea .	10701	centrifuge.n	106	Gizmo	UNANN	6532491	null	null	null	null
+185	23575	2	44	0	4098453	Bush said that it was Khan who sold centrifuges to North Korea .	10701	centrifuge.n	106	Gizmo	UNANN	6532491	36	46	RLG	centrifuges
+185	23575	3	44	0	4098454	QN : Were centrifuges sold to North Korea ?	null	null	null	null	UNANN	6531195	null	null	null	null
+185	23575	3	44	0	4098454	QN : Were centrifuges sold to North Korea ?	2986	sell.v	172	Commerce_sell	MANUAL	6532492	22	25	RLG	sold
+185	23575	3	44	0	4098454	QN : Were centrifuges sold to North Korea ?	10701	centrifuge.n	106	Gizmo	UNANN	6533434	null	null	null	null
+185	23575	3	44	0	4098454	QN : Were centrifuges sold to North Korea ?	10701	centrifuge.n	106	Gizmo	UNANN	6533434	10	20	MJE	centrifuges
+185	23575	1	45	0	4098455	ID: PARC -45 .	null	null	null	null	UNANN	6531196	null	null	null	null
+185	23575	2	45	0	4098456	Bush said that Khan sold centrifuges to North Korea .	null	null	null	null	UNANN	6531197	null	null	null	null
+185	23575	2	45	0	4098456	Bush said that Khan sold centrifuges to North Korea .	751	say.v	43	Statement	MANUAL	6532494	5	8	RLG	said
+185	23575	2	45	0	4098456	Bush said that Khan sold centrifuges to North Korea .	2986	sell.v	172	Commerce_sell	MANUAL	6532495	20	23	RLG	sold
+185	23575	2	45	0	4098456	Bush said that Khan sold centrifuges to North Korea .	10701	centrifuge.n	106	Gizmo	UNANN	6532496	null	null	null	null
+185	23575	2	45	0	4098456	Bush said that Khan sold centrifuges to North Korea .	10701	centrifuge.n	106	Gizmo	UNANN	6532496	25	35	RLG	centrifuges
+185	23575	3	45	0	4098457	QN : Were centrifuges sold to North Korea ?	null	null	null	null	UNANN	6531198	null	null	null	null
+185	23575	3	45	0	4098457	QN : Were centrifuges sold to North Korea ?	2986	sell.v	172	Commerce_sell	MANUAL	6533522	22	25	Hay	sold
+185	23575	3	45	0	4098457	QN : Were centrifuges sold to North Korea ?	10701	centrifuge.n	106	Gizmo	UNANN	6533523	null	null	null	null
+185	23575	3	45	0	4098457	QN : Were centrifuges sold to North Korea ?	10701	centrifuge.n	106	Gizmo	UNANN	6533523	10	20	Hay	centrifuges
+185	23575	1	46	0	4098458	ID: PARC -46 .	null	null	null	null	UNANN	6531199	null	null	null	null
+185	23575	2	46	0	4098459	What we found in Iraq was rusted shrapnel .	null	null	null	null	UNANN	6531200	null	null	null	null
+185	23575	2	46	0	4098459	What we found in Iraq was rusted shrapnel .	11227	find.v	792	Locating	MANUAL	6532501	8	12	RLG	found
+185	23575	3	46	0	4098460	QN : Did we find anything in Iraq ?	null	null	null	null	UNANN	6531201	null	null	null	null
+185	23575	3	46	0	4098460	QN : Did we find anything in Iraq ?	11227	find.v	792	Locating	MANUAL	6532502	12	15	RLG	find
+185	23575	1	47	0	4098461	ID: PARC -47 .	null	null	null	null	UNANN	6531202	null	null	null	null
+185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	null	null	null	null	UNANN	6531203	null	null	null	null
+185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	8591	lead	5	Causation	MANUAL	6532503	41	43	RLG	led
+185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	168	suspicion.n	19	Awareness	MANUAL	6532504	52	60	RLG	suspicion
+185	23575	2	47	0	4098462	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6532892	28	29	RLG	in
+185	23575	3	47	0	4098463	QN : Was Bin Laden in Tora Bora ?	null	null	null	null	UNANN	6531204	null	null	null	null
+185	23575	3	47	0	4098463	QN : Was Bin Laden in Tora Bora ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6532893	19	20	RLG	in
+185	23575	1	48	0	4098464	ID: PARC -48 .	null	null	null	null	UNANN	6531205	null	null	null	null
+185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	null	null	null	null	UNANN	6531206	null	null	null	null
+185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	8591	lead	5	Causation	MANUAL	6533524	41	43	Hay	led
+185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	168	suspicion.n	19	Awareness	MANUAL	6533525	52	60	Hay	suspicion
+185	23575	2	48	0	4098465	The fact that Bin Laden was in Tora Bora led to the suspicion that the Afghan campaign was mismanaged .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533526	28	29	Hay	in
+185	23575	3	48	0	4098466	QN : Was the Afghan campaign mismanaged ?	null	null	null	null	UNANN	6531207	null	null	null	null
+185	23575	1	49	0	4098467	ID: PARC -49 .	null	null	null	null	UNANN	6531208	null	null	null	null
+185	23575	2	49	0	4098468	The paper concluded that the election had been rigged .	null	null	null	null	UNANN	6531209	null	null	null	null
+185	23575	3	49	0	4098469	QN : Was the election rigged ?	null	null	null	null	UNANN	6531210	null	null	null	null
+185	23575	1	50	0	4098470	ID: PARC -50 .	null	null	null	null	UNANN	6531211	null	null	null	null
+185	23575	2	50	0	4098471	Ames was , as the press reported , a successful spy .	null	null	null	null	UNANN	6531212	null	null	null	null
+185	23575	3	50	0	4098472	QN : Was Ames a successful spy ?	null	null	null	null	UNANN	6531213	null	null	null	null
+185	23575	1	51	0	4098473	ID: PARC -51 .	null	null	null	null	UNANN	6531214	null	null	null	null
+185	23575	2	51	0	4098474	The press reported that Ames was a successful spy .	null	null	null	null	UNANN	6531215	null	null	null	null
+185	23575	3	51	0	4098475	QN : Was Ames a successful spy ?	null	null	null	null	UNANN	6531216	null	null	null	null
+185	23575	1	52	0	4098476	ID: PARC -52 .	null	null	null	null	UNANN	6531217	null	null	null	null
+185	23575	2	52	0	4098477	The US forgot that the Afghans speak several different languages .	null	null	null	null	UNANN	6531218	null	null	null	null
+185	23575	3	52	0	4098478	QN : Do the Afghans speak several different languages ?	null	null	null	null	UNANN	6531219	null	null	null	null
+185	23575	1	53	0	4098479	ID: PARC -53 .	null	null	null	null	UNANN	6531220	null	null	null	null
+185	23575	2	53	0	4098480	Bush realized that the US Army had to be transformed to meet new threats .	null	null	null	null	UNANN	6531221	null	null	null	null
+185	23575	3	53	0	4098481	QN : Did the US Army have to be transformed to meet new threats ?	null	null	null	null	UNANN	6531222	null	null	null	null
+185	23575	1	54	0	4098482	ID: PARC -54 .	null	null	null	null	UNANN	6531223	null	null	null	null
+185	23575	2	54	0	4098483	Bush did n't realize that Afghanistan is land-locked .	null	null	null	null	UNANN	6531224	null	null	null	null
+185	23575	3	54	0	4098484	QN : Is Afghanistan land-locked ?	null	null	null	null	UNANN	6531225	null	null	null	null
+185	23575	1	55	0	4098485	ID: PARC -55 .	null	null	null	null	UNANN	6531226	null	null	null	null
+185	23575	2	55	0	4098486	There is a belief that the US will invade Syria .	null	null	null	null	UNANN	6531227	null	null	null	null
+185	23575	2	55	0	4098486	There is a belief that the US will invade Syria .	11960	belief.n	1412	Opinion	MANUAL	6533239	11	16	MJE	belief
+185	23575	2	55	0	4098486	There is a belief that the US will invade Syria .	14806	invade.v	2022	Invading	MANUAL	6559225	35	40	AnW	invade
+185	23575	3	55	0	4098487	QN : Will the US invade Syria ?	null	null	null	null	UNANN	6531228	null	null	null	null
+185	23575	3	55	0	4098487	QN : Will the US invade Syria ?	14806	invade.v	2022	Invading	MANUAL	6559226	17	22	AnW	invade
+185	23575	1	56	0	4098488	ID: PARC -56 .	null	null	null	null	UNANN	6531229	null	null	null	null
+185	23575	2	56	0	4098489	It is not surprising that Bush has the lead in Ohio .	null	null	null	null	UNANN	6531230	null	null	null	null
+185	23575	3	56	0	4098490	QN : Does Bush have the lead in Ohio ?	null	null	null	null	UNANN	6531231	null	null	null	null
+185	23575	1	57	0	4098491	ID: PARC -57 .	null	null	null	null	UNANN	6531232	null	null	null	null
+185	23575	2	57	0	4098492	It is not likely that Bush has the lead in Ohio .	null	null	null	null	UNANN	6531233	null	null	null	null
+185	23575	2	57	0	4098492	It is not likely that Bush has the lead in Ohio .	2278	likely.a	114	Likelihood	MANUAL	6533401	10	15	RLG	likely
+185	23575	3	57	0	4098493	QN : Does Bush have the lead in Ohio ?	null	null	null	null	UNANN	6531234	null	null	null	null
+185	23575	1	58	0	4098494	ID: PARC -58 .	null	null	null	null	UNANN	6531235	null	null	null	null
+185	23575	2	58	0	4098495	Kerry knew that Edwards would accept the nomination .	null	null	null	null	UNANN	6531236	null	null	null	null
+185	23575	2	58	0	4098495	Kerry knew that Edwards would accept the nomination .	160	know.v	19	Awareness	MANUAL	6533435	6	9	MJE	knew
+185	23575	3	58	0	4098496	QN : Did Kerry know whether Edwards would accept the nomination ?	null	null	null	null	UNANN	6531237	null	null	null	null
+185	23575	3	58	0	4098496	QN : Did Kerry know whether Edwards would accept the nomination ?	160	know.v	19	Awareness	MANUAL	6533436	15	18	MJE	know
+185	23575	1	59	0	4098497	ID: PARC -59 .	null	null	null	null	UNANN	6531238	null	null	null	null
+185	23575	2	59	0	4098498	Tom knows that Naples is in Campania .	null	null	null	null	UNANN	6531239	null	null	null	null
+185	23575	2	59	0	4098498	Tom knows that Naples is in Campania .	160	know.v	19	Awareness	MANUAL	6533437	4	8	MJE	knows
+185	23575	2	59	0	4098498	Tom knows that Naples is in Campania .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533438	25	26	MJE	in
+185	23575	3	59	0	4098499	QN : Does Tom know where Naples is ?	null	null	null	null	UNANN	6531240	null	null	null	null
+185	23575	3	59	0	4098499	QN : Does Tom know where Naples is ?	160	know.v	19	Awareness	MANUAL	6533439	14	17	MJE	know
+185	23575	1	60	0	4098500	ID: PARC -60 .	null	null	null	null	UNANN	6531241	null	null	null	null
+185	23575	2	60	0	4098501	We met in September during the feast .	null	null	null	null	UNANN	6531242	null	null	null	null
+185	23575	3	60	0	4098502	QN : Did the feast take place in September ?	null	null	null	null	UNANN	6531243	null	null	null	null
+185	23575	3	60	0	4098502	QN : Did the feast take place in September ?	4888	take	187	Event	MANUAL	6533202	19	22	EGp	take
+185	23575	3	60	0	4098502	QN : Did the feast take place in September ?	4888	take	187	Event	MANUAL	6533202	24	28	EGp	place
+185	23575	3	60	0	4098502	QN : Did the feast take place in September ?	3382	feast.n	125	Social_event	MANUAL	6533210	13	17	MJE	feast
+185	23575	1	61	0	4098503	ID: PARC -61 .	null	null	null	null	UNANN	6531244	null	null	null	null
+185	23575	2	61	0	4098504	It is false that Bin Laden was seen in Tora Bora .	null	null	null	null	UNANN	6531245	null	null	null	null
+185	23575	2	61	0	4098504	It is false that Bin Laden was seen in Tora Bora .	1535	see.v	70	Perception_experience	MANUAL	6532511	31	34	RLG	seen
+185	23575	3	61	0	4098505	QN : Was Bin Laden seen in Tora Bora ?	null	null	null	null	UNANN	6531246	null	null	null	null
+185	23575	3	61	0	4098505	QN : Was Bin Laden seen in Tora Bora ?	1535	see.v	70	Perception_experience	MANUAL	6532513	19	22	RLG	seen
+185	23575	1	62	0	4098506	ID: PARC -62 .	null	null	null	null	UNANN	6531247	null	null	null	null
+185	23575	2	62	0	4098507	It follows that Bin Laden was in Tora Bora .	null	null	null	null	UNANN	6531248	null	null	null	null
+185	23575	2	62	0	4098507	It follows that Bin Laden was in Tora Bora .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6532899	30	31	RLG	in
+185	23575	3	62	0	4098508	QN : Was Bin Laden in Tora Bora ?	null	null	null	null	UNANN	6531249	null	null	null	null
+185	23575	3	62	0	4098508	QN : Was Bin Laden in Tora Bora ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533527	19	20	Hay	in
+185	23575	1	63	0	4098509	ID: PARC -63 .	null	null	null	null	UNANN	6531250	null	null	null	null
+185	23575	2	63	0	4098510	It is likely that Bin Laden was in Tora Bora .	null	null	null	null	UNANN	6531251	null	null	null	null
+185	23575	2	63	0	4098510	It is likely that Bin Laden was in Tora Bora .	2278	likely.a	114	Likelihood	MANUAL	6533402	6	11	RLG	likely
+185	23575	3	63	0	4098511	QN : Was Bin Laden in Tora Bora ?	null	null	null	null	UNANN	6531252	null	null	null	null
+185	23575	3	63	0	4098511	QN : Was Bin Laden in Tora Bora ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533528	19	20	Hay	in
+185	23575	1	64	0	4098512	ID: PARC -64 .	null	null	null	null	UNANN	6531253	null	null	null	null
+185	23575	2	64	0	4098513	Tony Hall left Amman on Sunday .	null	null	null	null	UNANN	6531254	null	null	null	null
+185	23575	2	64	0	4098513	Tony Hall left Amman on Sunday .	8622	leave.v	57	Departing	MANUAL	6533325	10	13	RLG	left
+185	23575	3	64	0	4098514	QN : Was Tony Hall in Amman on Sunday ?	null	null	null	null	UNANN	6531255	null	null	null	null
+185	23575	1	65	0	4098515	ID: PARC -65 .	null	null	null	null	UNANN	6531256	null	null	null	null
+185	23575	2	65	0	4098516	Tony Hall left Amman on Sunday .	null	null	null	null	UNANN	6531257	null	null	null	null
+185	23575	2	65	0	4098516	Tony Hall left Amman on Sunday .	8622	leave.v	57	Departing	MANUAL	6533529	10	13	Hay	left
+185	23575	3	65	0	4098517	QN : Was Tony Hall in Amman on Saturday ?	null	null	null	null	UNANN	6531258	null	null	null	null
+185	23575	1	66	0	4098518	ID: PARC -66 .	null	null	null	null	UNANN	6531259	null	null	null	null
+185	23575	2	66	0	4098519	Khan sold 10 centrifuges to North Korea .	null	null	null	null	UNANN	6531260	null	null	null	null
+185	23575	2	66	0	4098519	Khan sold 10 centrifuges to North Korea .	2986	sell.v	172	Commerce_sell	MANUAL	6532514	5	8	RLG	sold
+185	23575	2	66	0	4098519	Khan sold 10 centrifuges to North Korea .	10701	centrifuge.n	106	Gizmo	UNANN	6532517	null	null	null	null
+185	23575	2	66	0	4098519	Khan sold 10 centrifuges to North Korea .	10701	centrifuge.n	106	Gizmo	UNANN	6532517	13	23	RLG	centrifuges
+185	23575	3	66	0	4098520	QN : Did North Korea buy 10 centrifuges ?	null	null	null	null	UNANN	6531261	null	null	null	null
+185	23575	3	66	0	4098520	QN : Did North Korea buy 10 centrifuges ?	2966	buy.v	171	Commerce_buy	MANUAL	6532519	21	23	RLG	buy
+185	23575	1	67	0	4098521	ID: PARC -67 .	null	null	null	null	UNANN	6531262	null	null	null	null
+185	23575	2	67	0	4098522	The US invasion of Afghanistan prevented Al-Qaida from attacking Ryad in 2002 .	null	null	null	null	UNANN	6531263	null	null	null	null
+185	23575	2	67	0	4098522	The US invasion of Afghanistan prevented Al-Qaida from attacking Ryad in 2002 .	8087	prevent.v	516	Preventing_or_letting	MANUAL	6533235	31	39	MJE	prevented
+185	23575	2	67	0	4098522	The US invasion of Afghanistan prevented Al-Qaida from attacking Ryad in 2002 .	7742	attack.v	424	Attack	MANUAL	6533236	55	63	MJE	attacking
+185	23575	3	67	0	4098523	QN : Did Al-Qaida attack Ryad in 2002 ?	null	null	null	null	UNANN	6531264	null	null	null	null
+185	23575	1	68	0	4098524	ID: PARC -68 .	null	null	null	null	UNANN	6531265	null	null	null	null
+185	23575	2	68	0	4098525	The administration managed to track down the perpetrators .	null	null	null	null	UNANN	6531266	null	null	null	null
+185	23575	3	68	0	4098526	QN : Did the administration track down the perpetrators ?	null	null	null	null	UNANN	6531267	null	null	null	null
+185	23575	1	69	0	4098527	ID: PARC -69 .	null	null	null	null	UNANN	6531268	null	null	null	null
+185	23575	2	69	0	4098528	The administration did n't manage to track down the perpetrators .	null	null	null	null	UNANN	6531269	null	null	null	null
+185	23575	3	69	0	4098529	QN : Did the administration track down the perpetrators ?	null	null	null	null	UNANN	6531270	null	null	null	null
+185	23575	1	70	0	4098530	ID: PARC -70 .	null	null	null	null	UNANN	6531271	null	null	null	null
+185	23575	2	70	0	4098531	Bush did n't have the time to read the report .	null	null	null	null	UNANN	6531272	null	null	null	null
+185	23575	3	70	0	4098532	QN : Did Bush read the report ?	null	null	null	null	UNANN	6531273	null	null	null	null
+185	23575	1	71	0	4098533	ID: PARC -71 .	null	null	null	null	UNANN	6531274	null	null	null	null
+185	23575	2	71	0	4098534	Bush had the time to read the report .	null	null	null	null	UNANN	6531275	null	null	null	null
+185	23575	3	71	0	4098535	QN : Did Bush read the report ?	null	null	null	null	UNANN	6531276	null	null	null	null
+185	23575	1	72	0	4098536	ID: PARC -72 .	null	null	null	null	UNANN	6531277	null	null	null	null
+185	23575	2	72	0	4098537	The president was n't able to attend the meeting .	null	null	null	null	UNANN	6531278	null	null	null	null
+185	23575	3	72	0	4098538	QN : Did the president attend the meeting ?	null	null	null	null	UNANN	6531279	null	null	null	null
+185	23575	1	73	0	4098539	ID: PARC -73 .	null	null	null	null	UNANN	6531280	null	null	null	null
+185	23575	2	73	0	4098540	The president was able to attend the meeting .	null	null	null	null	UNANN	6531281	null	null	null	null
+185	23575	3	73	0	4098541	QN : Did the president attend the meeting ?	null	null	null	null	UNANN	6531282	null	null	null	null
+185	23575	1	74	0	4098542	ID: PARC -74 .	null	null	null	null	UNANN	6531283	null	null	null	null
+185	23575	2	74	0	4098543	Many soldiers were killed in the ambush .	null	null	null	null	UNANN	6531284	null	null	null	null
+185	23575	2	74	0	4098543	Many soldiers were killed in the ambush .	7772	ambush.n	424	Attack	MANUAL	6533242	33	38	MJE	ambush
+185	23575	2	74	0	4098543	Many soldiers were killed in the ambush .	8630	kill.v	590	Killing	MANUAL	6533243	19	24	MJE	killed
+185	23575	3	74	0	4098544	QN : Were all soldiers killed in the ambush ?	null	null	null	null	UNANN	6531285	null	null	null	null
+185	23575	3	74	0	4098544	QN : Were all soldiers killed in the ambush ?	8630	kill.v	590	Killing	MANUAL	6533244	23	28	MJE	killed
+185	23575	3	74	0	4098544	QN : Were all soldiers killed in the ambush ?	7772	ambush.n	424	Attack	MANUAL	6533440	37	42	MJE	ambush
+185	23575	1	75	0	4098545	ID: PARC -75 .	null	null	null	null	UNANN	6531286	null	null	null	null
+185	23575	2	75	0	4098546	The man had $20 in his pocket .	null	null	null	null	UNANN	6531287	null	null	null	null
+185	23575	3	75	0	4098547	QN : Did the man have $40 in his pocket ?	null	null	null	null	UNANN	6531288	null	null	null	null
+185	23575	1	76	0	4098548	ID: PARC -76 .	null	null	null	null	UNANN	6531289	null	null	null	null
+185	23575	2	76	0	4098549	The man had $20 in his pocket .	null	null	null	null	UNANN	6531290	null	null	null	null
+185	23575	3	76	0	4098550	QN : Did the man have $10 in his pocket ?	null	null	null	null	UNANN	6531291	null	null	null	null

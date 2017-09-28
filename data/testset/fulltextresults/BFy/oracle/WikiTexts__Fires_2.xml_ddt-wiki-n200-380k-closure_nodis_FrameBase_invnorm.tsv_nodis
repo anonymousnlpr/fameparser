@@ -1,0 +1,16 @@
+filename	WikiTexts__Fires_2.xml
+docAnnotations	82
+docManual	71
+docUnannotated	11
+sentences	11
+paragraphs	11
+Overlapping	51
+Disambiguated	32
+TP	21
+TN	11
+FP	0
+FN	39
+P	1.0
+R	0.35
+F	0.5185185185185185
+A	0.4507042253521127

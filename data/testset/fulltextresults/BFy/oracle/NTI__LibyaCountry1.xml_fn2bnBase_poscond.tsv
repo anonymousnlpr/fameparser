@@ -1,0 +1,868 @@
+SILVER:135	23477	1	2	0	4096424	Libya has shown interest in and taken steps to acquire weapons of mass destruction ( WMD ) and their delivery systems . 	10707	weapon	426	Weapon	MANUAL	6521481	66	69	EGp	mass
+LINKED:[12	12	66	69	bn:00053662n	http://dbpedia.org/resource/Mass	http://babelnet.org/rdf/s00053662n	0.93333334	0.18181819	0.0979021	BABELFY]
+RANK:=== COUNTER  Counter 5158 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	2	0	4096424	Libya has shown interest in and taken steps to acquire weapons of mass destruction ( WMD ) and their delivery systems . 	11690	system.n	106	Gizmo	MANUAL	6536602	110	116	RLG	systems
+LINKED:[20	20	110	116	bn:00075759n		http://babelnet.org/rdf/s00075759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5162 ===
+	Gizmo: -0.0044444444444444444
+	System: -0.1111111111111111
+
+SELECTED:[Gizmo]
+MATCH!
+SILVER:135	23477	2	2	0	4096425	Indeed , it is one of the few states to have employed chemical weapons in a conflict ( Chad , 1987 ) . 	10635	chemical	426	Weapon	MANUAL	6521251	54	61	EGp	chemical
+LINKED:[12	12	54	61	bn:00099577a		http://babelnet.org/rdf/s00099577a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5166 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	2	0	4096426	Libya 's motivation to acquire WMD , and ballistic missiles in particular , appears in part to be a response to Israel 's clandestine nuclear program and a desire to become a more active player in Middle_Eastern and African politics . 	10636	ballistic	426	Weapon	MANUAL	6521277	41	49	EGp	ballistic
+LINKED:[8	8	41	49	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.1	0.0023904382	BABELFY]
+RANK:=== COUNTER  Counter 5178 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	2	0	4096426	Libya 's motivation to acquire WMD , and ballistic missiles in particular , appears in part to be a response to Israel 's clandestine nuclear program and a desire to become a more active player in Middle_Eastern and African politics . 	1321	appear.v	67	Give_impression	MANUAL	6521309	76	82	cir	appears
+LINKED:[13	13	76	82	bn:00082690v		http://babelnet.org/rdf/s00082690v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5182 ===
+	Coming_to_be: -0.010000000000000002
+	Appearance: -0.027777777777777776
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	2	0	4096426	Libya 's motivation to acquire WMD , and ballistic missiles in particular , appears in part to be a response to Israel 's clandestine nuclear program and a desire to become a more active player in Middle_Eastern and African politics . 	10641	clandestine.a	1145	Secrecy_status	MANUAL	6521322	122	132	cir	clandestine
+LINKED:[23	23	122	132	bn:00099743a		http://babelnet.org/rdf/s00099743a	1.0	0.1	0.0015936255	BABELFY]
+RANK:=== COUNTER  Counter 5184 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	2	0	4096426	Libya 's motivation to acquire WMD , and ballistic missiles in particular , appears in part to be a response to Israel 's clandestine nuclear program and a desire to become a more active player in Middle_Eastern and African politics . 	10724	program.n	1158	Project	MANUAL	6521459	142	148	MHa	program
+LINKED:[25	25	142	148	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5188 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23477	3	2	0	4096426	Libya 's motivation to acquire WMD , and ballistic missiles in particular , appears in part to be a response to Israel 's clandestine nuclear program and a desire to become a more active player in Middle_Eastern and African politics . 	11590	player.n	1144	Participation	MANUAL	6522241	187	192	RLG	player
+LINKED:[34	34	187	192	bn:00060799n	http://dbpedia.org/resource/Player_(game)	http://babelnet.org/rdf/s00060799n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5192 ===
+	Participation: -0.02040816326530612
+	Competition: -0.02040816326530612
+
+SELECTED:[Participation]
+MATCH!
+SILVER:135	23477	3	2	0	4096426	Libya 's motivation to acquire WMD , and ballistic missiles in particular , appears in part to be a response to Israel 's clandestine nuclear program and a desire to become a more active player in Middle_Eastern and African politics . 	12370	active.a	1540	Being_active	MANUAL	6528403	180	185	RLG	active
+LINKED:[33	33	180	185	bn:00096382a		http://babelnet.org/rdf/s00096382a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5194 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	4	2	0	4096427	On 19 December 2003 , Libyan leader Col. Muammar Qadhafi publicly confirmed his commitment to disclose and dismantle WMD programs in his country following a nine-month period of negotiations with US and UK authorities . 	1593	leader.n	73	Leadership	MANUAL	6521326	29	34	cir	leader
+LINKED:[6	6	29	34	bn:00050371n		http://babelnet.org/rdf/s00050371n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5196 ===
+	Leadership: -1.8765246762994932E-4
+	First_rank: -0.25
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:135	23477	4	2	0	4096427	On 19 December 2003 , Libyan leader Col. Muammar Qadhafi publicly confirmed his commitment to disclose and dismantle WMD programs in his country following a nine-month period of negotiations with US and UK authorities . 	10651	commitment.n	33	Commitment	MANUAL	6521328	80	89	cir	commitment
+LINKED:[13	13	80	89	bn:00021033n		http://babelnet.org/rdf/s00021033n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5198 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	4	2	0	4096427	On 19 December 2003 , Libyan leader Col. Muammar Qadhafi publicly confirmed his commitment to disclose and dismantle WMD programs in his country following a nine-month period of negotiations with US and UK authorities . 	10666	disclose.v	1146	Reveal_secret	MANUAL	6521329	94	101	cir	disclose
+LINKED:[15	15	94	101	bn:00083912v		http://babelnet.org/rdf/s00083912v	1.0	0.05	5.053057E-4	BABELFY]
+RANK:=== COUNTER  Counter 5200 ===
+	Evidence: -0.0027700831024930744
+	Reveal_secret: -0.010000000000000002
+	Render_nonfunctional: -0.0625
+
+SELECTED:[Reveal_secret]
+MATCH!
+SILVER:135	23477	4	2	0	4096427	On 19 December 2003 , Libyan leader Col. Muammar Qadhafi publicly confirmed his commitment to disclose and dismantle WMD programs in his country following a nine-month period of negotiations with US and UK authorities . 	7648	dismantle.v	417	Destroying	MANUAL	6521330	107	115	cir	dismantle
+LINKED:[17	17	107	115	bn:00086988v		http://babelnet.org/rdf/s00086988v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5202 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	4	2	0	4096427	On 19 December 2003 , Libyan leader Col. Muammar Qadhafi publicly confirmed his commitment to disclose and dismantle WMD programs in his country following a nine-month period of negotiations with US and UK authorities . 	1748	follow.v	81	Relative_time	MANUAL	6521332	145	153	cir	following
+LINKED:[23	23	145	153	bn:00088421v		http://babelnet.org/rdf/s00088421v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5206 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	4	2	0	4096427	On 19 December 2003 , Libyan leader Col. Muammar Qadhafi publicly confirmed his commitment to disclose and dismantle WMD programs in his country following a nine-month period of negotiations with US and UK authorities . 	11020	confirm.v	43	Statement	MANUAL	6522073	66	74	MiL	confirmed
+LINKED:[11	11	66	74	bn:00085585v		http://babelnet.org/rdf/s00085585v	1.0	0.1	0.0020212228	BABELFY]
+RANK:=== COUNTER  Counter 5214 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	4	2	0	4096427	On 19 December 2003 , Libyan leader Col. Muammar Qadhafi publicly confirmed his commitment to disclose and dismantle WMD programs in his country following a nine-month period of negotiations with US and UK authorities . 	8751	period.n	80	Frequency	MANUAL	6525822	168	173	RLG	period
+LINKED:[26	26	168	173	bn:00061605n		http://babelnet.org/rdf/s00061605n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5216 ===
+	Timespan: -0.04000000000000001
+	Location_in_time: -0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	4	2	0	4096427	On 19 December 2003 , Libyan leader Col. Muammar Qadhafi publicly confirmed his commitment to disclose and dismantle WMD programs in his country following a nine-month period of negotiations with US and UK authorities . 	10724	program.n	1158	Project	MANUAL	6525823	121	128	RLG	programs
+LINKED:[19	19	121	128	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5218 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23477	1	4	0	4096429	In its 19 December 2003 announcement that it was eliminating all materials , equipment and programs proscribed by the international community , Libya took the unusual step of first publicly revealing its nuclear weapons program , then renouncing it . 	8185	proscribe.v	521	Prohibiting_or_licensing	MANUAL	6521374	100	109	TRn	proscribed
+LINKED:[16	16	100	109	bn:00086877v		http://babelnet.org/rdf/s00086877v	1.0	0.0625	0.0025641026	BABELFY]
+RANK:=== COUNTER  Counter 5222 ===
+	Preventing: -0.010000000000000002
+	Prohibiting: -0.02040816326530612
+	Deny_permission: -0.25
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	4	0	4096429	In its 19 December 2003 announcement that it was eliminating all materials , equipment and programs proscribed by the international community , Libya took the unusual step of first publicly revealing its nuclear weapons program , then renouncing it . 	10606	unusual.a	1134	Typicality	MANUAL	6521376	159	165	TRn	unusual
+LINKED:[25	25	159	165	bn:00113366a		http://babelnet.org/rdf/s00113366a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5226 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	4	0	4096429	In its 19 December 2003 announcement that it was eliminating all materials , equipment and programs proscribed by the international community , Libya took the unusual step of first publicly revealing its nuclear weapons program , then renouncing it . 	1126	eliminate.v	63	Removing	MANUAL	6521467	49	59	MHa	eliminating
+LINKED:[9	9	49	59	bn:00087115v		http://babelnet.org/rdf/s00087115v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5234 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	4	0	4096429	In its 19 December 2003 announcement that it was eliminating all materials , equipment and programs proscribed by the international community , Libya took the unusual step of first publicly revealing its nuclear weapons program , then renouncing it . 	10652	nuclear	426	Weapon	MANUAL	6521472	204	210	EGp	nuclear
+LINKED:[32	32	204	210	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5236 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23477	1	4	0	4096429	In its 19 December 2003 announcement that it was eliminating all materials , equipment and programs proscribed by the international community , Libya took the unusual step of first publicly revealing its nuclear weapons program , then renouncing it . 	10724	program.n	1158	Project	MANUAL	6521474	220	226	MHa	program
+LINKED:[34	34	220	226	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5240 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23477	1	4	0	4096429	In its 19 December 2003 announcement that it was eliminating all materials , equipment and programs proscribed by the international community , Libya took the unusual step of first publicly revealing its nuclear weapons program , then renouncing it . 	11684	material.n	1348	Ingredients	MANUAL	6525821	65	73	RLG	materials
+LINKED:[11	11	65	73	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5244 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Ingredients]
+MATCH!
+SILVER:135	23477	1	4	0	4096429	In its 19 December 2003 announcement that it was eliminating all materials , equipment and programs proscribed by the international community , Libya took the unusual step of first publicly revealing its nuclear weapons program , then renouncing it . 	10724	program.n	1158	Project	MANUAL	6525824	91	98	RLG	programs
+LINKED:[15	15	91	98	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5246 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23477	1	4	0	4096429	In its 19 December 2003 announcement that it was eliminating all materials , equipment and programs proscribed by the international community , Libya took the unusual step of first publicly revealing its nuclear weapons program , then renouncing it . 	10238	international.a	195	Political_locales	MANUAL	6528244	118	130	RLG	international
+LINKED:[19	19	118	130	bn:00105294a		http://babelnet.org/rdf/s00105294a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5248 ===
+	Political_locales: -9.765625E-4
+	Foreign_or_domestic_country: -0.027777777777777776
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:135	23477	2	4	0	4096430	Libya then invited the IAEA to verify the elimination of nuclear weapon related activities in-country . 	10652	nuclear	426	Weapon	MANUAL	6521337	57	63	EGp	nuclear
+LINKED:[10	10	57	63	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5252 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23477	2	4	0	4096430	Libya then invited the IAEA to verify the elimination of nuclear weapon related activities in-country . 	10616	activity.n	198	Intentionally_act	MANUAL	6521338	80	89	cir	activities
+LINKED:[13	13	80	89	bn:00025678n	http://dbpedia.org/resource/Particle_decay	http://babelnet.org/rdf/s00025678n	0.9655172	0.6666667	0.23333333	BABELFY]
+RANK:=== COUNTER  Counter 5256 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	4	0	4096430	Libya then invited the IAEA to verify the elimination of nuclear weapon related activities in-country . 	11045	invite.v	41	Request	MANUAL	6521512	11	17	MJE	invited
+LINKED:[2	2	11	17	bn:00089889v		http://babelnet.org/rdf/s00089889v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5258 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	4	0	4096430	Libya then invited the IAEA to verify the elimination of nuclear weapon related activities in-country . 	11042	verify.v	1230	Verification	MANUAL	6521514	31	36	MJE	verify
+LINKED:[6	6	31	36	bn:00095516v		http://babelnet.org/rdf/s00095516v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5262 ===
+	Evidence: -0.0027700831024930744
+	Verification: -0.02040816326530612
+
+SELECTED:[Verification]
+MATCH!
+SILVER:135	23477	1	5	0	4096431	According to International Atomic Energy Agency Director General Mohamed ElBaradei , who led a December 2003 inspection team to Libya , Libya 's nuclear weapons program is in the very initial stages , about three to seven years away from producing a nuclear weapon . 	2122	team.n	103	Aggregate	MANUAL	6521219	120	123	KlB	team
+LINKED:[17	17	120	123	bn:00068051n	http://dbpedia.org/resource/Musical_ensemble	http://babelnet.org/rdf/s00068051n	0.8974359	0.16666667	0.016611295	BABELFY]
+RANK:=== COUNTER  Counter 5268 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	5	0	4096431	According to International Atomic Energy Agency Director General Mohamed ElBaradei , who led a December 2003 inspection team to Libya , Libya 's nuclear weapons program is in the very initial stages , about three to seven years away from producing a nuclear weapon . 	10652	nuclear	426	Weapon	MANUAL	6521229	145	151	EGp	nuclear
+LINKED:[23	23	145	151	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5270 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23477	1	5	0	4096431	According to International Atomic Energy Agency Director General Mohamed ElBaradei , who led a December 2003 inspection team to Libya , Libya 's nuclear weapons program is in the very initial stages , about three to seven years away from producing a nuclear weapon . 	4074	year.n	229	Calendric_unit	MANUAL	6521237	222	226	KlB	years
+LINKED:[37	37	222	226	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5274 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:135	23477	1	5	0	4096431	According to International Atomic Energy Agency Director General Mohamed ElBaradei , who led a December 2003 inspection team to Libya , Libya 's nuclear weapons program is in the very initial stages , about three to seven years away from producing a nuclear weapon . 	7523	produce.v	408	Manufacturing	MANUAL	6521246	238	246	KlB	producing
+LINKED:[40	40	238	246	bn:00084094v		http://babelnet.org/rdf/s00084094v	0.8181818	0.1	0.004271476	BABELFY]
+RANK:=== COUNTER  Counter 5276 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	5	0	4096431	According to International Atomic Energy Agency Director General Mohamed ElBaradei , who led a December 2003 inspection team to Libya , Libya 's nuclear weapons program is in the very initial stages , about three to seven years away from producing a nuclear weapon . 	10652	nuclear	426	Weapon	MANUAL	6521249	250	256	EGp	nuclear
+LINKED:[42	42	250	256	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5278 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23477	1	5	0	4096431	According to International Atomic Energy Agency Director General Mohamed ElBaradei , who led a December 2003 inspection team to Libya , Libya 's nuclear weapons program is in the very initial stages , about three to seven years away from producing a nuclear weapon . 	10238	international.a	195	Political_locales	MANUAL	6521363	13	25	KlB	International
+LINKED:[2	2	13	25	bn:00047146n	http://dbpedia.org/resource/Political_international	http://babelnet.org/rdf/s00047146n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5284 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	5	0	4096431	According to International Atomic Energy Agency Director General Mohamed ElBaradei , who led a December 2003 inspection team to Libya , Libya 's nuclear weapons program is in the very initial stages , about three to seven years away from producing a nuclear weapon . 	10724	program.n	1158	Project	MANUAL	6521454	161	167	KlB	program
+LINKED:[25	25	161	167	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5286 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23477	2	5	0	4096432	Libya admitted having secretly imported raw uranium and the necessary equipment to convert it for enrichment into weapons-grade material but added that the enrichment plan had been dismantled and that no highly enriched uranium had been produced over the past decade . 	13224	admit.v	1146	Reveal_secret	MANUAL	6521285	6	13	KlB	admitted
+LINKED:[1	1	6	13	bn:00082369v		http://babelnet.org/rdf/s00082369v	1.0	0.06666667	0.009259259	BABELFY]
+RANK:=== COUNTER  Counter 5292 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	5	0	4096432	Libya admitted having secretly imported raw uranium and the necessary equipment to convert it for enrichment into weapons-grade material but added that the enrichment plan had been dismantled and that no highly enriched uranium had been produced over the past decade . 	2206	equipment.n	106	Gizmo	MANUAL	6521290	70	78	KlB	equipment
+LINKED:[10	10	70	78	bn:00031322n		http://babelnet.org/rdf/s00031322n	1.0	0.06666667	0.018518519	BABELFY]
+RANK:=== COUNTER  Counter 5296 ===
+	Gizmo: -0.0044444444444444444
+	Supply: -0.012345679012345678
+
+SELECTED:[Gizmo]
+MATCH!
+SILVER:135	23477	2	5	0	4096432	Libya admitted having secretly imported raw uranium and the necessary equipment to convert it for enrichment into weapons-grade material but added that the enrichment plan had been dismantled and that no highly enriched uranium had been produced over the past decade . 	673	add.v	43	Statement	MANUAL	6521295	141	145	KlB	added
+LINKED:[20	20	141	145	bn:00082317v		http://babelnet.org/rdf/s00082317v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5302 ===
+	Cause_change_of_position_on_a_scale: -0.0027700831024930744
+	Commutative_process: -0.1111111111111111
+	Cause_to_be_included: -0.25
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	5	0	4096432	Libya admitted having secretly imported raw uranium and the necessary equipment to convert it for enrichment into weapons-grade material but added that the enrichment plan had been dismantled and that no highly enriched uranium had been produced over the past decade . 	7648	dismantle.v	417	Destroying	MANUAL	6521299	181	190	KlB	dismantled
+LINKED:[27	27	181	190	bn:00086988v		http://babelnet.org/rdf/s00086988v	1.0	0.06666667	0.018518519	BABELFY]
+RANK:=== COUNTER  Counter 5306 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	5	0	4096432	Libya admitted having secretly imported raw uranium and the necessary equipment to convert it for enrichment into weapons-grade material but added that the enrichment plan had been dismantled and that no highly enriched uranium had been produced over the past decade . 	7523	produce.v	408	Manufacturing	MANUAL	6521301	237	244	KlB	produced
+LINKED:[36	36	237	244	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5308 ===
+	Behind_the_scenes: -0.008264462809917356
+	Manufacturing: -0.015625
+
+SELECTED:[Manufacturing]
+MATCH!
+SILVER:135	23477	2	5	0	4096432	Libya admitted having secretly imported raw uranium and the necessary equipment to convert it for enrichment into weapons-grade material but added that the enrichment plan had been dismantled and that no highly enriched uranium had been produced over the past decade . 	10720	raw.a	1159	Degree_of_processing	MANUAL	6521458	40	42	KlB	raw
+LINKED:[5	5	40	42	bn:00107156a		http://babelnet.org/rdf/s00107156a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5310 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	5	0	4096433	IAEA inspectors did not found either , though they did find imported equipment and technology at a number of previously secret nuclear facilities in and around Tripoli . 	4291	inspector.n	31	Scrutiny	MANUAL	6521383	5	14	KlB	inspectors
+LINKED:[1	1	5	14	bn:00046922n	http://dbpedia.org/resource/Inspector	http://babelnet.org/rdf/s00046922n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5314 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	5	0	4096433	IAEA inspectors did not found either , though they did find imported equipment and technology at a number of previously secret nuclear facilities in and around Tripoli . 	175	find.v	20	Becoming_aware	MANUAL	6521384	24	28	KlB	found
+LINKED:[4	4	24	28	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5316 ===
+	Becoming_aware: -0.008264462809917356
+	Locating: -0.25
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:135	23477	3	5	0	4096433	IAEA inspectors did not found either , though they did find imported equipment and technology at a number of previously secret nuclear facilities in and around Tripoli . 	175	find.v	20	Becoming_aware	MANUAL	6521385	55	58	KlB	find
+LINKED:[10	10	55	58	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5318 ===
+	Becoming_aware: -0.008264462809917356
+	Locating: -0.25
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:135	23477	3	5	0	4096433	IAEA inspectors did not found either , though they did find imported equipment and technology at a number of previously secret nuclear facilities in and around Tripoli . 	2206	equipment.n	106	Gizmo	MANUAL	6521387	69	77	KlB	equipment
+LINKED:[12	12	69	77	bn:00031322n		http://babelnet.org/rdf/s00031322n	1.0	0.2	0.007936508	BABELFY]
+RANK:=== COUNTER  Counter 5320 ===
+	Gizmo: -0.0044444444444444444
+	Supply: -0.012345679012345678
+
+SELECTED:[Gizmo]
+MATCH!
+SILVER:135	23477	3	5	0	4096433	IAEA inspectors did not found either , though they did find imported equipment and technology at a number of previously secret nuclear facilities in and around Tripoli . 	10644	secret.a	1145	Secrecy_status	MANUAL	6521391	120	125	KlB	secret
+LINKED:[20	20	120	125	bn:00104150a		http://babelnet.org/rdf/s00104150a	0.8	0.2	0.007936508	BABELFY]
+RANK:=== COUNTER  Counter 5326 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	5	0	4096433	IAEA inspectors did not found either , though they did find imported equipment and technology at a number of previously secret nuclear facilities in and around Tripoli . 	12471	import.v	1567	Importing	MANUAL	6528490	60	67	RLG	imported
+LINKED:[11	11	60	67	bn:00089627v		http://babelnet.org/rdf/s00089627v	1.0	0.1	0.001984127	BABELFY]
+RANK:=== COUNTER  Counter 5332 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	4	5	0	4096434	It has been revealed that Abdul Qadeer Khan of Pakistan is responsible for providing Libya with its nuclear warhead plans , raw uranium and enrichment centrifuges through his black market network . 	10646	enrichment.n	620	Processing_materials	MANUAL	6521408	140	149	KlB	enrichment
+LINKED:[24	24	140	149	bn:15695072n		http://babelnet.org/rdf/s15695072n	1.0	0.05263158	0.0012919897	BABELFY]
+RANK:=== COUNTER  Counter 5336 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	4	5	0	4096434	It has been revealed that Abdul Qadeer Khan of Pakistan is responsible for providing Libya with its nuclear warhead plans , raw uranium and enrichment centrifuges through his black market network . 	10720	raw.a	1159	Degree_of_processing	MANUAL	6521470	124	126	KlB	raw
+LINKED:[21	21	124	126	bn:00107156a		http://babelnet.org/rdf/s00107156a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5340 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	6	0	4096435	In his 19 December 2003 announcement , Qadhafi pledged to adhere to the Nuclear Non-Proliferation Treaty which Libya ratified in 1975 , and to sign the Additional Protocol , which it did on 10 March 2004 . 	2331	adhere.v	117	Compliance	MANUAL	6521236	58	63	MHa	adhere
+LINKED:[10	10	58	63	bn:00082342v		http://babelnet.org/rdf/s00082342v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5350 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	6	0	4096435	In his 19 December 2003 announcement , Qadhafi pledged to adhere to the Nuclear Non-Proliferation Treaty which Libya ratified in 1975 , and to sign the Additional Protocol , which it did on 10 March 2004 . 	8370	treaty.n	560	Documents	MANUAL	6521244	98	103	MHa	Treaty
+LINKED:[15	15	98	103	bn:00000728n	http://dbpedia.org/resource/Pact	http://babelnet.org/rdf/s00000728n	0.9692308	0.6	0.14516129	BABELFY]
+RANK:=== COUNTER  Counter 5352 ===
+	Documents: -0.0013717421124828531
+	Make_agreement_on_action: -0.0625
+	Be_in_agreement_on_action: -0.0625
+
+SELECTED:[Documents]
+MATCH!
+SILVER:135	23477	1	6	0	4096435	In his 19 December 2003 announcement , Qadhafi pledged to adhere to the Nuclear Non-Proliferation Treaty which Libya ratified in 1975 , and to sign the Additional Protocol , which it did on 10 March 2004 . 	10292	additional.a	1001	Increment	MANUAL	6521260	152	161	MHa	Additional
+LINKED:[26	26	152	161	bn:13696085n		http://babelnet.org/rdf/s13696085n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5354 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	6	0	4096435	In his 19 December 2003 announcement , Qadhafi pledged to adhere to the Nuclear Non-Proliferation Treaty which Libya ratified in 1975 , and to sign the Additional Protocol , which it did on 10 March 2004 . 	10023	protocol.n	950	Law	MANUAL	6521298	163	170	MHa	Protocol
+LINKED:[27	27	163	170	bn:00000728n	http://dbpedia.org/resource/Pact	http://babelnet.org/rdf/s00000728n	0.95652175	0.53333336	0.10138249	BABELFY]
+RANK:=== COUNTER  Counter 5356 ===
+	Documents: -0.0013717421124828531
+	Make_agreement_on_action: -0.0625
+	Be_in_agreement_on_action: -0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	6	0	4096435	In his 19 December 2003 announcement , Qadhafi pledged to adhere to the Nuclear Non-Proliferation Treaty which Libya ratified in 1975 , and to sign the Additional Protocol , which it did on 10 March 2004 . 	10681	sign.v	1151	Sign_agreement	MANUAL	6525828	143	146	RLG	sign
+LINKED:[24	24	143	146	bn:00093731v		http://babelnet.org/rdf/s00093731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5358 ===
+	Text_creation: -0.00591715976331361
+	Sign_agreement: -0.0625
+
+SELECTED:[Sign_agreement]
+MATCH!
+SILVER:135	23477	2	6	0	4096436	IAEA chief El Baradei indicated that signing the Protocol would ensure IAEA oversight over Libya 's nuclear transition from weapons creation to peaceful purposes . 	1578	chief.n	73	Leadership	MANUAL	6521283	5	9	MHa	chief
+LINKED:[1	1	5	9	bn:00099598a		http://babelnet.org/rdf/s00099598a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5360 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	6	0	4096436	IAEA chief El Baradei indicated that signing the Protocol would ensure IAEA oversight over Libya 's nuclear transition from weapons creation to peaceful purposes . 	10023	protocol.n	950	Law	MANUAL	6521303	49	56	MHa	Protocol
+LINKED:[8	8	49	56	bn:00000728n	http://dbpedia.org/resource/Pact	http://babelnet.org/rdf/s00000728n	0.72	0.23076923	0.07964602	BABELFY]
+RANK:=== COUNTER  Counter 5364 ===
+	Documents: -0.0013717421124828531
+	Make_agreement_on_action: -0.0625
+	Be_in_agreement_on_action: -0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	6	0	4096436	IAEA chief El Baradei indicated that signing the Protocol would ensure IAEA oversight over Libya 's nuclear transition from weapons creation to peaceful purposes . 	10681	sign.v	1151	Sign_agreement	MANUAL	6521372	37	43	MHa	signing
+LINKED:[6	6	37	43	bn:00093731v		http://babelnet.org/rdf/s00093731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5368 ===
+	Text_creation: -0.00591715976331361
+	Sign_agreement: -0.0625
+
+SELECTED:[Sign_agreement]
+MATCH!
+SILVER:135	23477	1	7	0	4096437	Previously , Libya signed Comprehensive Test Ban Treaty in November 2001 and ratified it in January 2004 . 	8370	treaty.n	560	Documents	MANUAL	6521313	49	54	MHa	Treaty
+LINKED:[7	7	49	54	bn:00000728n	http://dbpedia.org/resource/Pact	http://babelnet.org/rdf/s00000728n	0.94736844	0.25	0.13953489	BABELFY]
+RANK:=== COUNTER  Counter 5374 ===
+	Documents: -0.0013717421124828531
+	Make_agreement_on_action: -0.0625
+	Be_in_agreement_on_action: -0.0625
+
+SELECTED:[Documents]
+MATCH!
+SILVER:135	23477	1	7	0	4096437	Previously , Libya signed Comprehensive Test Ban Treaty in November 2001 and ratified it in January 2004 . 	10681	sign.v	1151	Sign_agreement	MANUAL	6521353	19	24	MHa	signed
+LINKED:[3	3	19	24	bn:00093731v		http://babelnet.org/rdf/s00093731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5376 ===
+	Text_creation: -0.00591715976331361
+	Sign_agreement: -0.0625
+
+SELECTED:[Sign_agreement]
+MATCH!
+SILVER:135	23477	1	7	0	4096437	Previously , Libya signed Comprehensive Test Ban Treaty in November 2001 and ratified it in January 2004 . 	10647	previously.adv	379	Time_vector	MANUAL	6533847	0	9	RLG	Previously
+LINKED:[0	0	0	9	bn:00727729n	http://dbpedia.org/resource/Recap_sequence	http://babelnet.org/rdf/s00727729n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5384 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	7	0	4096438	In 1996 , it had signed the Treaty of Pelindaba which established a nuclear-weapon-free zone in Africa . 	8370	treaty.n	560	Documents	MANUAL	6521320	28	33	MHa	Treaty
+LINKED:[7	7	28	33	bn:00000728n	http://dbpedia.org/resource/Pact	http://babelnet.org/rdf/s00000728n	0.94736844	0.42857143	0.12857144	BABELFY]
+RANK:=== COUNTER  Counter 5386 ===
+	Documents: -0.0013717421124828531
+	Make_agreement_on_action: -0.0625
+	Be_in_agreement_on_action: -0.0625
+
+SELECTED:[Documents]
+MATCH!
+SILVER:135	23477	2	7	0	4096438	In 1996 , it had signed the Treaty of Pelindaba which established a nuclear-weapon-free zone in Africa . 	3695	zone.n	192	Locale	MANUAL	6521321	88	91	MHa	zone
+LINKED:[14	14	88	91	bn:00082075n		http://babelnet.org/rdf/s00082075n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5388 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	7	0	4096438	In 1996 , it had signed the Treaty of Pelindaba which established a nuclear-weapon-free zone in Africa . 	10681	sign.v	1151	Sign_agreement	MANUAL	6521355	17	22	MHa	signed
+LINKED:[5	5	17	22	bn:00093731v		http://babelnet.org/rdf/s00093731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5390 ===
+	Text_creation: -0.00591715976331361
+	Sign_agreement: -0.0625
+
+SELECTED:[Sign_agreement]
+MATCH!
+SILVER:135	23477	2	7	0	4096438	In 1996 , it had signed the Treaty of Pelindaba which established a nuclear-weapon-free zone in Africa . 	11430	establish.v	280	Intentionally_create	MANUAL	6522074	54	64	MiL	established
+LINKED:[11	11	54	64	bn:00087735v		http://babelnet.org/rdf/s00087735v	1.0	0.14285715	0.007142857	BABELFY]
+RANK:=== COUNTER  Counter 5392 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	7	0	4096439	Besides previously secret nuclear sites disclosed in late 2003 , Libya possesses a Soviet-supplied 10 MW research reactor in Tajura . 	10644	secret.a	1145	Secrecy_status	MANUAL	6521356	19	24	MHa	secret
+LINKED:[2	2	19	24	bn:00110253a		http://babelnet.org/rdf/s00110253a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5394 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	7	0	4096439	Besides previously secret nuclear sites disclosed in late 2003 , Libya possesses a Soviet-supplied 10 MW research reactor in Tajura . 	10666	disclose.v	1146	Reveal_secret	MANUAL	6521358	40	48	MHa	disclosed
+LINKED:[5	5	40	48	bn:00083912v		http://babelnet.org/rdf/s00083912v	0.8888889	0.2	0.12698413	BABELFY]
+RANK:=== COUNTER  Counter 5396 ===
+	Evidence: -0.0027700831024930744
+	Reveal_secret: -0.010000000000000002
+	Render_nonfunctional: -0.0625
+
+SELECTED:[Reveal_secret]
+MATCH!
+SILVER:135	23477	3	7	0	4096439	Besides previously secret nuclear sites disclosed in late 2003 , Libya possesses a Soviet-supplied 10 MW research reactor in Tajura . 	2418	possess.v	118	Possession	MANUAL	6521361	71	79	MHa	possesses
+LINKED:[11	11	71	79	bn:00091873v		http://babelnet.org/rdf/s00091873v	1.0	0.1	0.015873017	BABELFY]
+RANK:=== COUNTER  Counter 5398 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	7	0	4096439	Besides previously secret nuclear sites disclosed in late 2003 , Libya possesses a Soviet-supplied 10 MW research reactor in Tajura . 	11550	site.n	196	Locale_by_use	MANUAL	6522084	34	38	MiL	sites
+LINKED:[4	4	34	38	bn:00047172n	http://dbpedia.org/resource/Grothendieck_topology	http://babelnet.org/rdf/s00047172n	1.0	0.1	0.015873017	BABELFY]
+RANK:=== COUNTER  Counter 5402 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	4	7	0	4096440	With the lifting of UN sanctions in 1998 , Russia renewed its nuclear cooperation with Libya , providing funding for renovations to the Taruja nuclear complex . 	10698	renew.v	1156	Activity_resume	MANUAL	6525826	50	56	RLG	renewed
+LINKED:[10	10	50	56	bn:00092663v		http://babelnet.org/rdf/s00092663v	1.0	0.09090909	0.017964073	BABELFY]
+RANK:=== COUNTER  Counter 5412 ===
+	Rejuvenation: -0.008264462809917356
+	Activity_resume: -0.25
+
+SELECTED:[Activity_resume]
+MATCH!
+SILVER:135	23477	1	9	0	4096443	In 2003 , Libya admitted its previous intentions to acquire equipment needed to produce biological weapons ( BW ) . 	13224	admit.v	1146	Reveal_secret	MANUAL	6521203	16	23	CHg	admitted
+LINKED:[4	4	16	23	bn:00082201v		http://babelnet.org/rdf/s00082201v	1.0	0.11111111	0.026666667	BABELFY]
+RANK:=== COUNTER  Counter 5416 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	9	0	4096443	In 2003 , Libya admitted its previous intentions to acquire equipment needed to produce biological weapons ( BW ) . 	1757	previous.a	81	Relative_time	MANUAL	6521211	29	36	CHg	previous
+LINKED:[6	6	29	36	bn:00107791a		http://babelnet.org/rdf/s00107791a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5418 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	9	0	4096443	In 2003 , Libya admitted its previous intentions to acquire equipment needed to produce biological weapons ( BW ) . 	7523	produce.v	408	Manufacturing	MANUAL	6521235	80	86	CHg	produce
+LINKED:[13	13	80	86	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5422 ===
+	Behind_the_scenes: -0.008264462809917356
+	Manufacturing: -0.015625
+
+SELECTED:[Manufacturing]
+MATCH!
+SILVER:135	23477	1	9	0	4096443	In 2003 , Libya admitted its previous intentions to acquire equipment needed to produce biological weapons ( BW ) . 	10637	biological	426	Weapon	MANUAL	6521240	88	97	EGp	biological
+LINKED:[14	14	88	97	bn:00098417a		http://babelnet.org/rdf/s00098417a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5424 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	9	0	4096443	In 2003 , Libya admitted its previous intentions to acquire equipment needed to produce biological weapons ( BW ) . 	10718	intention.n	513	Purpose	MANUAL	6522085	38	47	MiL	intentions
+LINKED:[7	7	38	47	bn:00047048n		http://babelnet.org/rdf/s00047048n	1.0	0.11111111	0.013333334	BABELFY]
+RANK:=== COUNTER  Counter 5430 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	9	0	4096444	In October and December 2003 , Libyan officials took US and UK experts to a number of medical and agricultural research centers that had the potential to be used in BW research . 	10619	use.v	1141	Using	MANUAL	6521342	157	160	CFB	used
+LINKED:[28	28	157	160	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5432 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	9	0	4096444	In October and December 2003 , Libyan officials took US and UK experts to a number of medical and agricultural research centers that had the potential to be used in BW research . 	3338	number.n	189	Quantified_mass	MANUAL	6521367	76	81	CHg	number
+LINKED:[15	15	76	81	bn:02575658n	http://dbpedia.org/resource/Number_(sports)	http://babelnet.org/rdf/s02575658n	0.75	0.2	0.016216217	BABELFY]
+RANK:=== COUNTER  Counter 5438 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	9	0	4096445	The country acceded to the Biological and Toxin Weapons Convention on 19 January 1982 . 	3683	country.n	195	Political_locales	MANUAL	6521254	4	10	CHg	country
+LINKED:[1	1	4	10	bn:00023235n	http://dbpedia.org/resource/Administrative_divisions_of_Mexico	http://babelnet.org/rdf/s00023235n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5450 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	9	0	4096445	The country acceded to the Biological and Toxin Weapons Convention on 19 January 1982 . 	10637	biological	426	Weapon	MANUAL	6521396	27	36	CHg	Biological
+LINKED:[5	5	27	36	bn:00010543n	http://dbpedia.org/resource/Biology	http://babelnet.org/rdf/s00010543n	1.0	0.5714286	0.103626944	BABELFY]
+RANK:=== COUNTER  Counter 5452 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	9	0	4096445	The country acceded to the Biological and Toxin Weapons Convention on 19 January 1982 . 	6726	convention.n	380	Custom	MANUAL	6521398	56	65	CHg	Convention
+LINKED:[9	9	56	65	bn:00022333n	http://dbpedia.org/resource/Convention_(meeting)	http://babelnet.org/rdf/s00022333n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5456 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	4	9	0	4096446	There are allegations that the alleged chemical weapon ( CW ) plants at Rabta and Tarhunah could contain BW research facilities as well . 	681	allegation.n	43	Statement	MANUAL	6521402	10	20	CHg	allegations
+LINKED:[2	2	10	20	bn:00002812n	http://dbpedia.org/resource/Allegation	http://babelnet.org/rdf/s00002812n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5462 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	4	9	0	4096446	There are allegations that the alleged chemical weapon ( CW ) plants at Rabta and Tarhunah could contain BW research facilities as well . 	7296	contain.v	397	Containing	MANUAL	6521412	97	103	CHg	contain
+LINKED:[17	17	97	103	bn:00085499v		http://babelnet.org/rdf/s00085499v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5468 ===
+	Inclusion: -0.027777777777777776
+	Containing: -0.0625
+
+SELECTED:[Containing]
+MATCH!
+SILVER:135	23477	4	9	0	4096446	There are allegations that the alleged chemical weapon ( CW ) plants at Rabta and Tarhunah could contain BW research facilities as well . 	10750	alleged.a	1154	Unattributed_information	MANUAL	6527753	31	37	RLG	alleged
+LINKED:[5	5	31	37	bn:00096821a		http://babelnet.org/rdf/s00096821a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5474 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	5	9	0	4096447	Prior to Libya 's 19 December 2003 announcement to abandon its WMD programs , US intelligence agencies alleged that Qadhafi had attempted to recruit South African scientists to assist in the acquisition of BW , and that Libya had started to develop pathogens and toxins for weapons use . 	2303	attempt.v	116	Attempt	MANUAL	6521430	128	136	CHg	attempted
+LINKED:[21	21	128	136	bn:00082844v		http://babelnet.org/rdf/s00082844v	0.8	0.07692308	0.0047789724	BABELFY]
+RANK:=== COUNTER  Counter 5480 ===
+	Attempt: -0.02040816326530612
+	Trying_out: -0.25
+	Tasting: -0.25
+	Try_defendant: -1.0
+	Attempt_means: -1.0
+
+SELECTED:[Attempt]
+MATCH!
+SILVER:135	23477	5	9	0	4096447	Prior to Libya 's 19 December 2003 announcement to abandon its WMD programs , US intelligence agencies alleged that Qadhafi had attempted to recruit South African scientists to assist in the acquisition of BW , and that Libya had started to develop pathogens and toxins for weapons use . 	7501	acquisition	179	Getting	MANUAL	6521437	191	201	CHg	acquisition
+LINKED:[31	31	191	201	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5486 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	5	9	0	4096447	Prior to Libya 's 19 December 2003 announcement to abandon its WMD programs , US intelligence agencies alleged that Qadhafi had attempted to recruit South African scientists to assist in the acquisition of BW , and that Libya had started to develop pathogens and toxins for weapons use . 	4447	start.v	146	Activity_start	MANUAL	6521439	230	236	CHg	started
+LINKED:[39	39	230	236	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5490 ===
+	Activity_start: -0.015625
+	Process_start: -0.027777777777777776
+	Setting_out: -0.1111111111111111
+
+SELECTED:[Activity_start]
+MATCH!
+SILVER:135	23477	5	9	0	4096447	Prior to Libya 's 19 December 2003 announcement to abandon its WMD programs , US intelligence agencies alleged that Qadhafi had attempted to recruit South African scientists to assist in the acquisition of BW , and that Libya had started to develop pathogens and toxins for weapons use . 	10724	program.n	1158	Project	MANUAL	6525825	67	74	RLG	programs
+LINKED:[12	12	67	74	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5494 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23477	5	9	0	4096447	Prior to Libya 's 19 December 2003 announcement to abandon its WMD programs , US intelligence agencies alleged that Qadhafi had attempted to recruit South African scientists to assist in the acquisition of BW , and that Libya had started to develop pathogens and toxins for weapons use . 	10664	prior.adv	379	Time_vector	MANUAL	6533848	0	4	RLG	Prior
+LINKED:[0	0	0	4	bn:00064460n	http://dbpedia.org/resource/Prior	http://babelnet.org/rdf/s00064460n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5500 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	5	9	0	4096447	Prior to Libya 's 19 December 2003 announcement to abandon its WMD programs , US intelligence agencies alleged that Qadhafi had attempted to recruit South African scientists to assist in the acquisition of BW , and that Libya had started to develop pathogens and toxins for weapons use . 	13410	abandon.v	166	Activity_stop	MANUAL	6559206	51	57	AlK	abandon
+LINKED:[9	9	51	57	bn:00082118v		http://babelnet.org/rdf/s00082118v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5502 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	11	0	4096449	There is a significant amount of open-source literature concerning Libya 's acquisition and use of chemical weapons ( CW ) ; it is well documented that Libya employed Iranian-supplied mustard gas bombs against Chad , its southern neighbor , in 1987 . 	10620	employ.v	1141	Using	MANUAL	6521227	158	165	TRn	employed
+LINKED:[27	27	158	165	bn:00082705v		http://babelnet.org/rdf/s00082705v	1.0	0.05263158	0.0014771048	BABELFY]
+RANK:=== COUNTER  Counter 5508 ===
+	Employing: -0.015625
+	Using: -0.04000000000000001
+
+SELECTED:[Using]
+MATCH!
+SILVER:135	23477	1	11	0	4096449	There is a significant amount of open-source literature concerning Libya 's acquisition and use of chemical weapons ( CW ) ; it is well documented that Libya employed Iranian-supplied mustard gas bombs against Chad , its southern neighbor , in 1987 . 	7501	acquisition	179	Getting	MANUAL	6521231	76	86	TRn	acquisition
+LINKED:[11	11	76	86	bn:00001005n		http://babelnet.org/rdf/s00001005n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5512 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	11	0	4096449	There is a significant amount of open-source literature concerning Libya 's acquisition and use of chemical weapons ( CW ) ; it is well documented that Libya employed Iranian-supplied mustard gas bombs against Chad , its southern neighbor , in 1987 . 	6544	concerning.prep	373	Topic	MANUAL	6521238	56	65	TRn	concerning
+LINKED:[8	8	56	65	bn:00083240v		http://babelnet.org/rdf/s00083240v	1.0	0.10526316	0.0044313148	BABELFY]
+RANK:=== COUNTER  Counter 5514 ===
+	Topic: -0.027777777777777776
+	Cause_emotion: -0.04000000000000001
+
+SELECTED:[Topic]
+MATCH!
+SILVER:135	23477	2	11	0	4096450	In documentation provided to US and UK authorities in 2003 , Libya revealed a `` significant quantity '' of mustard agent produced more than 10 years ago at a facility near Rabta , located in the Sahara Desert about 120 km southwest of Tripoli , along with chemical munitions and equipment needed to establish a second CW production facility . 	7523	produce.v	408	Manufacturing	MANUAL	6521259	122	129	TRn	produced
+LINKED:[20	20	122	129	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5518 ===
+	Behind_the_scenes: -0.008264462809917356
+	Manufacturing: -0.015625
+
+SELECTED:[Manufacturing]
+MATCH!
+SILVER:135	23477	2	11	0	4096450	In documentation provided to US and UK authorities in 2003 , Libya revealed a `` significant quantity '' of mustard agent produced more than 10 years ago at a facility near Rabta , located in the Sahara Desert about 120 km southwest of Tripoli , along with chemical munitions and equipment needed to establish a second CW production facility . 	10024	located.a	960	Being_located	MANUAL	6521268	181	187	TRn	located
+LINKED:[32	32	181	187	bn:00106113a		http://babelnet.org/rdf/s00106113a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5520 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	11	0	4096450	In documentation provided to US and UK authorities in 2003 , Libya revealed a `` significant quantity '' of mustard agent produced more than 10 years ago at a facility near Rabta , located in the Sahara Desert about 120 km southwest of Tripoli , along with chemical munitions and equipment needed to establish a second CW production facility . 	3878	year.n	224	Measure_duration	MANUAL	6525850	144	148	RLG	years
+LINKED:[24	24	144	148	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5528 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:135	23477	2	11	0	4096450	In documentation provided to US and UK authorities in 2003 , Libya revealed a `` significant quantity '' of mustard agent produced more than 10 years ago at a facility near Rabta , located in the Sahara Desert about 120 km southwest of Tripoli , along with chemical munitions and equipment needed to establish a second CW production facility . 	11249	second.a	1147	Ordinal_numbers	MANUAL	6527901	312	317	RLG	second
+LINKED:[54	54	312	317	bn:00095974a		http://babelnet.org/rdf/s00095974a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5532 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	11	0	4096451	In December 2003 , Libya pledged to eliminate all chemical weapons stocks and munitions and accede to the Chemical Weapons Convention `` without delay. '' 	12265	stock.n	1511	Store	MANUAL	6528265	67	72	RLG	stocks
+LINKED:[11	11	67	72	bn:00074332n	http://dbpedia.org/resource/Stock	http://babelnet.org/rdf/s00074332n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5542 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	13	0	4096453	Libya first acquired Scud-B missiles in the early 1970 s from the Soviet Union . 	7500	acquire.v	179	Getting	MANUAL	6521201	12	19	MiL	acquired
+LINKED:[2	2	12	19	bn:00082279v		http://babelnet.org/rdf/s00082279v	1.0	0.14285715	0.00877193	BABELFY]
+RANK:=== COUNTER  Counter 5546 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	1	13	0	4096453	Libya first acquired Scud-B missiles in the early 1970 s from the Soviet Union . 	10633	Scud-B	426	Weapon	MANUAL	6521304	21	26	EGp	Scud-B
+LINKED:[3	3	21	26	bn:01613915n	http://dbpedia.org/resource/Scud	http://babelnet.org/rdf/s01613915n	1.0	0.42857143	0.10526316	BABELFY]
+RANK:=== COUNTER  Counter 5548 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	13	0	4096454	In the early 1980 s , Libya accelerated its efforts to obtain a longer-range ballistic missile with the al-Fatah , reportedly with a range of 950 km . 	10636	ballistic	426	Weapon	MANUAL	6521305	77	85	EGp	ballistic
+LINKED:[14	14	77	85	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.25	0.071428575	BABELFY]
+RANK:=== COUNTER  Counter 5556 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	2	13	0	4096454	In the early 1980 s , Libya accelerated its efforts to obtain a longer-range ballistic missile with the al-Fatah , reportedly with a range of 950 km . 	12156	early.a	1470	Temporal_subregion	MANUAL	6527785	7	11	RLG	early
+LINKED:[2	2	7	11	bn:00101935a		http://babelnet.org/rdf/s00101935a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5562 ===
+	Relative_time: -0.0010405827263267429
+	Temporal_collocation: -0.001736111111111111
+	Temporal_subregion: -0.015625
+
+SELECTED:[Temporal_subregion]
+MATCH!
+SILVER:135	23477	2	13	0	4096454	In the early 1980 s , Libya accelerated its efforts to obtain a longer-range ballistic missile with the al-Fatah , reportedly with a range of 950 km . 	11749	range.n	1350	Range	MANUAL	6527862	133	137	RLG	range
+LINKED:[23	23	133	137	bn:03727912n	http://dbpedia.org/resource/Range_of_a_projectile	http://babelnet.org/rdf/s03727912n	0.8	0.25	0.0952381	BABELFY]
+RANK:=== COUNTER  Counter 5564 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	13	0	4096455	Germany and China allegedly provided technical and material assistance to the al-Fatah program . 	11591	assistance.n	391	Assistance	MANUAL	6522089	60	69	MiL	assistance
+LINKED:[8	8	60	69	bn:15701400n	http://dbpedia.org/resource/Assistance_(play)	http://babelnet.org/rdf/s15701400n	1.0	0.16666667	0.0065789474	BABELFY]
+RANK:=== COUNTER  Counter 5568 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	13	0	4096455	Germany and China allegedly provided technical and material assistance to the al-Fatah program . 	10724	program.n	1158	Project	MANUAL	6522091	87	93	MiL	program
+LINKED:[12	12	87	93	bn:00064646n		http://babelnet.org/rdf/s00064646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5570 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	3	13	0	4096455	Germany and China allegedly provided technical and material assistance to the al-Fatah program . 	11673	provide.v	1346	Supply	MANUAL	6535544	28	35	KmG	provided
+LINKED:[4	4	28	35	bn:00092116v		http://babelnet.org/rdf/s00092116v	1.0	0.16666667	0.0065789474	BABELFY]
+RANK:=== COUNTER  Counter 5572 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	4	13	0	4096456	The al-Fatah missile system has not been completed and remains untested . 	10347	remain.v	1041	Left_to_do	MANUAL	6521218	55	61	MiL	remains
+LINKED:[9	9	55	61	bn:00092757v		http://babelnet.org/rdf/s00092757v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5574 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	4	13	0	4096456	The al-Fatah missile system has not been completed and remains untested . 	11352	complete.v	165	Activity_finish	MANUAL	6522090	41	49	MiL	completed
+LINKED:[7	7	41	49	bn:00084595v		http://babelnet.org/rdf/s00084595v	1.0	0.5	0.25	BABELFY]
+RANK:=== COUNTER  Counter 5578 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	5	13	0	4096457	In November 2000 , as part of a $600 million agreement , Libya allegedly acquired the first shipment of a total of 50 North Korean Nodong ballistic missiles , including launch capabilities . 	7500	acquire.v	179	Getting	MANUAL	6521228	73	80	MiL	acquired
+LINKED:[15	15	73	80	bn:00082279v		http://babelnet.org/rdf/s00082279v	1.0	0.07692308	0.008130081	BABELFY]
+RANK:=== COUNTER  Counter 5582 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	5	13	0	4096457	In November 2000 , as part of a $600 million agreement , Libya allegedly acquired the first shipment of a total of 50 North Korean Nodong ballistic missiles , including launch capabilities . 	10636	ballistic	426	Weapon	MANUAL	6521308	138	146	EGp	ballistic
+LINKED:[27	27	138	146	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.15384616	0.048780486	BABELFY]
+RANK:=== COUNTER  Counter 5584 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	5	13	0	4096457	In November 2000 , as part of a $600 million agreement , Libya allegedly acquired the first shipment of a total of 50 North Korean Nodong ballistic missiles , including launch capabilities . 	10694	shipment	243	Sending	MANUAL	6525827	92	99	RLG	shipment
+LINKED:[18	18	92	99	bn:00016047n	http://dbpedia.org/resource/Cargo	http://babelnet.org/rdf/s00016047n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5592 ===
+	Store: -0.04000000000000001
+	Sent_items: -0.25
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	5	13	0	4096457	In November 2000 , as part of a $600 million agreement , Libya allegedly acquired the first shipment of a total of 50 North Korean Nodong ballistic missiles , including launch capabilities . 	8507	total.n	602	Amounting_to	MANUAL	6527853	106	110	MiL	total
+LINKED:[21	21	106	110	bn:03683702n	http://dbpedia.org/resource/Total_S.A.	http://babelnet.org/rdf/s03683702n	1.0	0.07692308	0.008130081	BABELFY]
+RANK:=== COUNTER  Counter 5594 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	5	13	0	4096457	In November 2000 , as part of a $600 million agreement , Libya allegedly acquired the first shipment of a total of 50 North Korean Nodong ballistic missiles , including launch capabilities . 	13340	including.prep	1153	Inclusion	MANUAL	6541653	159	167	KmG	including
+LINKED:[30	30	159	167	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5596 ===
+	Inclusion: -0.027777777777777776
+	Cause_to_be_included: -0.25
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:135	23477	5	13	0	4096457	In November 2000 , as part of a $600 million agreement , Libya allegedly acquired the first shipment of a total of 50 North Korean Nodong ballistic missiles , including launch capabilities . 	11728	launch.n	289	Shoot_projectiles	MANUAL	6552416	169	174	KmG	launch
+LINKED:[31	31	169	174	bn:00050207n	http://dbpedia.org/resource/Launch_(boat)	http://babelnet.org/rdf/s00050207n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5598 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	6	13	0	4096458	North Korea also allegedly provided more than 10 scientists to work on the Libyan missile program . 	10724	program.n	1158	Project	MANUAL	6522243	90	96	RLG	program
+LINKED:[15	15	90	96	bn:00064646n		http://babelnet.org/rdf/s00064646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5608 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	6	13	0	4096458	North Korea also allegedly provided more than 10 scientists to work on the Libyan missile program . 	11673	provide.v	1346	Supply	MANUAL	6535545	27	34	KmG	provided
+LINKED:[4	4	27	34	bn:00092116v		http://babelnet.org/rdf/s00092116v	1.0	0.25	0.025641026	BABELFY]
+RANK:=== COUNTER  Counter 5610 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	7	13	0	4096459	This complemented other missile component shipments that reportedly began in 1999 . 	2656	begin.v	133	Process_start	MANUAL	6521242	68	72	MiL	began
+LINKED:[8	8	68	72	bn:00083343v		http://babelnet.org/rdf/s00083343v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5612 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	7	13	0	4096459	This complemented other missile component shipments that reportedly began in 1999 . 	10694	shipment	243	Sending	MANUAL	6521436	42	50	MHa	shipments
+LINKED:[5	5	42	50	bn:00016047n	http://dbpedia.org/resource/Cargo	http://babelnet.org/rdf/s00016047n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5616 ===
+	Store: -0.04000000000000001
+	Sent_items: -0.25
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	8	13	0	4096460	Also , after the lifting of the 1999 sanctions , reports of increased technical and structural assistance from countries like Iran , North Korea , China , India , and Russia have raised concerns over Libya 's growing ability to manufacture ballistic missiles . 	10636	ballistic	426	Weapon	MANUAL	6521310	240	248	EGp	ballistic
+LINKED:[41	41	240	248	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.09090909	5.897965E-4	BABELFY]
+RANK:=== COUNTER  Counter 5632 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	10	13	0	4096462	In December 2003 , Libya pledged to eliminate ballistic missiles capable of traveling more than 300 km with payloads of 500 kg . 	1126	eliminate.v	63	Removing	MANUAL	6521279	36	44	MiL	eliminate
+LINKED:[7	7	36	44	bn:00082634v		http://babelnet.org/rdf/s00082634v	1.0	0.1	0.007246377	BABELFY]
+RANK:=== COUNTER  Counter 5660 ===
+	Killing: -4.938271604938272E-4
+	Destroying: -0.00591715976331361
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	10	13	0	4096462	In December 2003 , Libya pledged to eliminate ballistic missiles capable of traveling more than 300 km with payloads of 500 kg . 	5957	travel.v	343	Travel	MANUAL	6521284	76	84	MiL	traveling
+LINKED:[12	12	76	84	bn:00088912v		http://babelnet.org/rdf/s00088912v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5664 ===
+	Change_position_on_a_scale: -4.938271604938272E-4
+	Cause_change_of_position_on_a_scale: -0.0027700831024930744
+	Travel: -0.0030864197530864196
+	Motion: -0.00390625
+
+SELECTED:[Travel]
+MATCH!
+SILVER:135	23477	10	13	0	4096462	In December 2003 , Libya pledged to eliminate ballistic missiles capable of traveling more than 300 km with payloads of 500 kg . 	10636	ballistic	426	Weapon	MANUAL	6521289	46	54	EGp	ballistic
+LINKED:[8	8	46	54	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.2	0.04347826	BABELFY]
+RANK:=== COUNTER  Counter 5666 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23477	11	13	0	4096463	Libya is not a member of the Missile Technology Control Regime ( MTCR ) 	10279	member.n	1026	Membership	MANUAL	6521292	15	20	MiL	member
+LINKED:[4	4	15	20	bn:00054277n		http://babelnet.org/rdf/s00054277n	1.0	0.14285715	0.018181818	BABELFY]
+RANK:=== COUNTER  Counter 5670 ===
+
+SELECTED:[]
+WRONG!
+filename	NTI__LibyaCountry1.xml
+docAnnotations	364
+docManual	301
+docUnannotated	63
+sentences	41
+paragraphs	13
+Overlapping	262
+Disambiguated	52
+TP	43
+TN	63
+FP	0
+FN	249
+P	1.0
+R	0.14726027397260275
+F	0.25671641791044775
+A	0.29859154929577464

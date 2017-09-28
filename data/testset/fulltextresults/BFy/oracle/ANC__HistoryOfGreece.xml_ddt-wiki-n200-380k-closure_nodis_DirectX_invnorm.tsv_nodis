@@ -1,0 +1,16 @@
+filename	ANC__HistoryOfGreece.xml
+docAnnotations	1105
+docManual	957
+docUnannotated	148
+sentences	140
+paragraphs	49
+Overlapping	750
+Disambiguated	576
+TP	391
+TN	148
+FP	0
+FN	381
+P	1.0
+R	0.5064766839378239
+F	0.6723989681857266
+A	0.5858695652173913

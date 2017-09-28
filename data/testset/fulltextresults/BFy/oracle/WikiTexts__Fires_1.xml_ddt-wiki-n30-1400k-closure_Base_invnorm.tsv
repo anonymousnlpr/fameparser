@@ -1,0 +1,363 @@
+SILVER:246	25616	1	1	0	4164976	Forest fires continue to rage in Spain	17455	fire.n	2824	Fire_burning	MANUAL	6669245	7	11	WMcQ	fires
+LINKED:[1	1	7	11	bn:00034623n		http://babelnet.org/rdf/s00034623n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16224 ===
+	Event: 0.105
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	1	0	4164976	Forest fires continue to rage in Spain	17589	rage.v	2824	Fire_burning	MANUAL	6669246	25	28	WMcQ	rage
+LINKED:[4	4	25	28	bn:00092316v		http://babelnet.org/rdf/s00092316v	1.0	0.8	0.12244898	BABELFY]
+RANK:=== COUNTER  Counter 16225 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	1	0	4164976	Forest fires continue to rage in Spain	2799	continue.v	145	Process_continue	MANUAL	6669247	13	20	WMcQ	continue
+LINKED:[2	2	13	20	bn:00085716v		http://babelnet.org/rdf/s00085716v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16226 ===
+	Activity_ongoing: 0.02
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	3	0	4164977	Several forest fires which have ruined well over ten thousand hectares of land are continuing to burn in the Spanish region of Galicia today .	17455	fire.n	2824	Fire_burning	MANUAL	6669248	15	19	WMcQ	fires
+LINKED:[2	2	15	19	bn:00034623n		http://babelnet.org/rdf/s00034623n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16227 ===
+	Event: 0.105
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	3	0	4164977	Several forest fires which have ruined well over ten thousand hectares of land are continuing to burn in the Spanish region of Galicia today .	17450	burn.v	2824	Fire_burning	MANUAL	6669250	97	100	WMcQ	burn
+LINKED:[16	16	97	100	bn:00084270v		http://babelnet.org/rdf/s00084270v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16228 ===
+	Experience_bodily_harm: 0.225
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	3	0	4164977	Several forest fires which have ruined well over ten thousand hectares of land are continuing to burn in the Spanish region of Galicia today .	2857	hectare.n	156	Measure_area	MANUAL	6669251	62	69	WMcQ	hectares
+LINKED:[10	10	62	69	bn:00043500n	http://dbpedia.org/resource/Hectare	http://babelnet.org/rdf/s00043500n	1.0	0.41666666	0.035810206	BABELFY]
+RANK:=== COUNTER  Counter 16229 ===
+	Measure_area: 0.002325581395348837
+
+SELECTED:[Measure_area]
+MATCH!
+SILVER:246	25616	1	3	0	4164977	Several forest fires which have ruined well over ten thousand hectares of land are continuing to burn in the Spanish region of Galicia today .	3696	region.n	192	Locale	MANUAL	6669252	117	122	WMcQ	region
+LINKED:[20	20	117	122	bn:00066884n	http://dbpedia.org/resource/Region	http://babelnet.org/rdf/s00066884n	0.9	0.33333334	0.032229185	BABELFY]
+RANK:=== COUNTER  Counter 16230 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	3	0	4164977	Several forest fires which have ruined well over ten thousand hectares of land are continuing to burn in the Spanish region of Galicia today .	17612	ruin.v	417	Destroying	MANUAL	6669253	32	37	WMcQ	ruined
+LINKED:[5	5	32	37	bn:00086699v		http://babelnet.org/rdf/s00086699v	1.0	0.16666667	0.017905103	BABELFY]
+RANK:=== COUNTER  Counter 16231 ===
+	Experiencer_obj: 0.5058823529411764
+	Bungling: 0.052941176470588235
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	3	0	4164977	Several forest fires which have ruined well over ten thousand hectares of land are continuing to burn in the Spanish region of Galicia today .	2799	continue.v	145	Process_continue	MANUAL	6669795	83	92	MJE	continuing
+LINKED:[14	14	83	92	bn:00085719v		http://babelnet.org/rdf/s00085719v	1.0	0.083333336	8.952551E-4	BABELFY]
+RANK:=== COUNTER  Counter 16232 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	3	0	4164977	Several forest fires which have ruined well over ten thousand hectares of land are continuing to burn in the Spanish region of Galicia today .	14201	today.n	1895	Temporal_collocation	MANUAL	6669814	135	139	MJE	today
+LINKED:[23	23	135	139	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16233 ===
+	Temporal_collocation: 0.3
+
+SELECTED:[Temporal_collocation]
+MATCH!
+SILVER:246	25616	1	4	0	4164978	Four people have perished so far in the blazes which the government says were started intentionally by arsonists over a week ago .	933	perish.v	53	Death	MANUAL	6669254	17	24	WMcQ	perished
+LINKED:[3	3	17	24	bn:00084343v		http://babelnet.org/rdf/s00084343v	1.0	0.1	0.029411765	BABELFY]
+RANK:=== COUNTER  Counter 16234 ===
+	Death: 0.013157894736842105
+	Rotting: 0.010526315789473684
+
+SELECTED:[Death]
+MATCH!
+SILVER:246	25616	1	4	0	4164978	Four people have perished so far in the blazes which the government says were started intentionally by arsonists over a week ago .	17489	blaze.n	2824	Fire_burning	MANUAL	6669255	40	45	WMcQ	blazes
+LINKED:[8	8	40	45	bn:00011173n		http://babelnet.org/rdf/s00011173n	1.0	0.1	0.029411765	BABELFY]
+RANK:=== COUNTER  Counter 16235 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	4	0	4164978	Four people have perished so far in the blazes which the government says were started intentionally by arsonists over a week ago .	11808	government.n	1371	Organization	MANUAL	6669257	57	66	WMcQ	government
+LINKED:[11	11	57	66	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16236 ===
+	Leadership: 0.11587301587301588
+	Organization: 0.022222222222222223
+	Law: 0.012698412698412698
+
+SELECTED:[Organization]
+MATCH!
+SILVER:246	25616	1	4	0	4164978	Four people have perished so far in the blazes which the government says were started intentionally by arsonists over a week ago .	751	say.v	43	Statement	MANUAL	6669258	68	71	WMcQ	says
+LINKED:[12	12	68	71	bn:00093287v		http://babelnet.org/rdf/s00093287v	1.0	0.2	0.11764706	BABELFY]
+RANK:=== COUNTER  Counter 16237 ===
+	Statement: 0.26666666666666666
+	Text_creation: 0.05416666666666667
+	Speak_on_topic: 0.05416666666666667
+	Communication: 0.04583333333333333
+	Becoming_aware: 0.04583333333333333
+	Spelling_and_pronouncing: 0.025
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25616	1	4	0	4164978	Four people have perished so far in the blazes which the government says were started intentionally by arsonists over a week ago .	3048	arsonist.n	138	Arson	MANUAL	6669259	103	111	WMcQ	arsonists
+LINKED:[17	17	103	111	bn:00005924n	http://dbpedia.org/resource/Arson	http://babelnet.org/rdf/s00005924n	1.0	0.1	0.029411765	BABELFY]
+RANK:=== COUNTER  Counter 16238 ===
+	Offenses: 0.04181818181818182
+	Arson: 0.0036363636363636364
+
+SELECTED:[Arson]
+MATCH!
+SILVER:246	25616	1	4	0	4164978	Four people have perished so far in the blazes which the government says were started intentionally by arsonists over a week ago .	12555	so	1594	Continued_state_of_affairs	MANUAL	6669820	26	31	MJE	so far
+LINKED:[4	5	26	31	bn:00114369r		http://babelnet.org/rdf/s00114369r	1.0	0.2	0.11764706	BABELFY]
+RANK:=== COUNTER  Counter 16239 ===
+	Continued_state_of_affairs: 0.01875
+	Concessive: 0.00625
+
+SELECTED:[Continued_state_of_affairs]
+MATCH!
+SILVER:246	25616	1	4	0	4164978	Four people have perished so far in the blazes which the government says were started intentionally by arsonists over a week ago .	17633	start.v	283	Setting_fire	MANUAL	6767875	78	84	HPh	started
+LINKED:[14	14	78	84	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16240 ===
+	Activity_start: 0.012903225806451613
+	Process_start: 0.00967741935483871
+	Setting_out: 0.004838709677419355
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	5	0	4164979	Police have arrested twenty -four people on suspicion of starting the fires .	4733	arrest.v	202	Arrest	MANUAL	6669260	12	19	WMcQ	arrested
+LINKED:[2	2	12	19	bn:00082728v		http://babelnet.org/rdf/s00082728v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16241 ===
+	Arrest: 0.022222222222222223
+
+SELECTED:[Arrest]
+MATCH!
+SILVER:246	25616	1	5	0	4164979	Police have arrested twenty -four people on suspicion of starting the fires .	5511	people.n	304	People	MANUAL	6669261	34	39	WMcQ	people
+LINKED:[6	6	34	39	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16242 ===
+	People: 0.026415094339622643
+
+SELECTED:[People]
+MATCH!
+SILVER:246	25616	1	5	0	4164979	Police have arrested twenty -four people on suspicion of starting the fires .	17633	start.v	283	Setting_fire	MANUAL	6767876	57	64	HPh	starting
+LINKED:[10	10	57	64	bn:00083342v		http://babelnet.org/rdf/s00083342v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16243 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	6	0	4164980	Among those being detained is a ninety-four year-old man .	5685	detain.v	313	Detaining	MANUAL	6669265	18	25	WMcQ	detained
+LINKED:[3	3	18	25	bn:00085581v		http://babelnet.org/rdf/s00085581v	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 16244 ===
+	Inhibit_movement: 0.16
+	Detaining: 0.1
+
+SELECTED:[Detaining]
+MATCH!
+SILVER:246	25616	1	6	0	4164980	Among those being detained is a ninety-four year-old man .	5526	man.n	304	People	MANUAL	6669266	53	55	WMcQ	man
+LINKED:[8	8	53	55	bn:00044576n	http://dbpedia.org/resource/Human	http://babelnet.org/rdf/s00044576n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 16245 ===
+	People: 0.010687022900763359
+
+SELECTED:[People]
+MATCH!
+SILVER:246	25616	1	7	0	4164981	'' Those arrested are people who knew exactly what they were doing , knew they were committing crimes and went up into the hills to start fires , sometimes more than one , '' said the president of Galicia 's regional government , Emilio Perez Tourino .	160	know.v	19	Awareness	MANUAL	6669267	33	36	WMcQ	knew
+LINKED:[5	5	33	36	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16246 ===
+	Awareness: 0.06285714285714286
+	Certainty: 0.03142857142857143
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:246	25616	1	7	0	4164981	'' Those arrested are people who knew exactly what they were doing , knew they were committing crimes and went up into the hills to start fires , sometimes more than one , '' said the president of Galicia 's regional government , Emilio Perez Tourino .	751	say.v	43	Statement	MANUAL	6669270	175	178	WMcQ	said
+LINKED:[32	32	175	178	bn:00093287v		http://babelnet.org/rdf/s00093287v	1.0	0.15789473	0.018947368	BABELFY]
+RANK:=== COUNTER  Counter 16247 ===
+	Statement: 0.26666666666666666
+	Text_creation: 0.05416666666666667
+	Speak_on_topic: 0.05416666666666667
+	Communication: 0.04583333333333333
+	Becoming_aware: 0.04583333333333333
+	Spelling_and_pronouncing: 0.025
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25616	1	7	0	4164981	'' Those arrested are people who knew exactly what they were doing , knew they were committing crimes and went up into the hills to start fires , sometimes more than one , '' said the president of Galicia 's regional government , Emilio Perez Tourino .	11808	government.n	1371	Organization	MANUAL	6669271	217	226	WMcQ	government
+LINKED:[39	39	217	226	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16248 ===
+	Leadership: 0.11587301587301588
+	Organization: 0.022222222222222223
+	Law: 0.012698412698412698
+
+SELECTED:[Organization]
+MATCH!
+SILVER:246	25616	1	7	0	4164981	'' Those arrested are people who knew exactly what they were doing , knew they were committing crimes and went up into the hills to start fires , sometimes more than one , '' said the president of Galicia 's regional government , Emilio Perez Tourino .	1599	president	73	Leadership	MANUAL	6669272	184	192	WMcQ	president
+LINKED:[34	34	184	192	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16249 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	7	0	4164981	'' Those arrested are people who knew exactly what they were doing , knew they were committing crimes and went up into the hills to start fires , sometimes more than one , '' said the president of Galicia 's regional government , Emilio Perez Tourino .	160	know.v	19	Awareness	MANUAL	6670223	69	72	MJE	knew
+LINKED:[12	12	69	72	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16250 ===
+	Awareness: 0.06285714285714286
+	Certainty: 0.03142857142857143
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:246	25616	1	7	0	4164981	'' Those arrested are people who knew exactly what they were doing , knew they were committing crimes and went up into the hills to start fires , sometimes more than one , '' said the president of Galicia 's regional government , Emilio Perez Tourino .	17633	start.v	283	Setting_fire	MANUAL	6670530	132	136	MJE	start
+LINKED:[24	24	132	136	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16251 ===
+	Activity_start: 0.012903225806451613
+	Process_start: 0.00967741935483871
+	Setting_out: 0.004838709677419355
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	8	0	4164982	Four hundred troops are currently in the northwestern county guarding densely-populated areas , airports and power stations .	16705	troop.n	2670	Member_of_military	MANUAL	6669273	13	18	WMcQ	troops
+LINKED:[2	2	13	18	bn:00054975n		http://babelnet.org/rdf/s00054975n	1.0	0.11111111	0.008928572	BABELFY]
+RANK:=== COUNTER  Counter 16252 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	8	0	4164982	Four hundred troops are currently in the northwestern county guarding densely-populated areas , airports and power stations .	14700	guard.v	1631	Protecting	MANUAL	6669274	61	68	WMcQ	guarding
+LINKED:[9	9	61	68	bn:00089102v		http://babelnet.org/rdf/s00089102v	1.0	0.11111111	0.008928572	BABELFY]
+RANK:=== COUNTER  Counter 16253 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	8	0	4164982	Four hundred troops are currently in the northwestern county guarding densely-populated areas , airports and power stations .	3694	area.n	192	Locale	MANUAL	6669275	88	92	WMcQ	areas
+LINKED:[11	11	88	92	bn:00005513n	http://dbpedia.org/resource/Area	http://babelnet.org/rdf/s00005513n	0.8	0.22222222	0.10714286	BABELFY]
+RANK:=== COUNTER  Counter 16254 ===
+	Locale: 0.1
+
+SELECTED:[Locale]
+MATCH!
+SILVER:246	25616	1	8	0	4164982	Four hundred troops are currently in the northwestern county guarding densely-populated areas , airports and power stations .	14689	airport.n	173	Buildings	MANUAL	6669276	96	103	WMcQ	airports
+LINKED:[13	13	96	103	bn:00001676n	http://dbpedia.org/resource/Aerodrome	http://babelnet.org/rdf/s00001676n	0.8333333	0.33333334	0.13392857	BABELFY]
+RANK:=== COUNTER  Counter 16255 ===
+	Buildings: 0.0912087912087912
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:246	25616	1	8	0	4164982	Four hundred troops are currently in the northwestern county guarding densely-populated areas , airports and power stations .	16624	station.n	196	Locale_by_use	MANUAL	6669277	115	122	WMcQ	stations
+LINKED:[16	16	115	122	bn:00074049n		http://babelnet.org/rdf/s00074049n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16256 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	8	0	4164982	Four hundred troops are currently in the northwestern county guarding densely-populated areas , airports and power stations .	3687	county.n	195	Political_locales	MANUAL	6669278	54	59	WMcQ	county
+LINKED:[8	8	54	59	bn:00023251n	http://dbpedia.org/resource/Counties_of_England	http://babelnet.org/rdf/s00023251n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16257 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	8	0	4164982	Four hundred troops are currently in the northwestern county guarding densely-populated areas , airports and power stations .	14085	currently.adv	1895	Temporal_collocation	MANUAL	6670815	24	32	MJE	currently
+LINKED:[4	4	24	32	bn:00114905r		http://babelnet.org/rdf/s00114905r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16258 ===
+	Temporal_collocation: 0.13333333333333333
+
+SELECTED:[Temporal_collocation]
+MATCH!
+SILVER:246	25616	1	9	0	4164983	Spain 's President of Government , Jose Luis Rodriguez Zapatero , said earlier this week that an additional 1,200 army personnel would be sent to the area to assist the fire service .	1599	president	73	Leadership	MANUAL	6669279	9	17	WMcQ	President
+LINKED:[2	2	9	17	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16259 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	9	0	4164983	Spain 's President of Government , Jose Luis Rodriguez Zapatero , said earlier this week that an additional 1,200 army personnel would be sent to the area to assist the fire service .	751	say.v	43	Statement	MANUAL	6669280	66	69	WMcQ	said
+LINKED:[11	11	66	69	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16260 ===
+	Statement: 0.26666666666666666
+	Text_creation: 0.05416666666666667
+	Speak_on_topic: 0.05416666666666667
+	Communication: 0.04583333333333333
+	Becoming_aware: 0.04583333333333333
+	Spelling_and_pronouncing: 0.025
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25616	1	9	0	4164983	Spain 's President of Government , Jose Luis Rodriguez Zapatero , said earlier this week that an additional 1,200 army personnel would be sent to the area to assist the fire service .	11685	personnel.n	323	Employing	MANUAL	6669281	119	127	WMcQ	personnel
+LINKED:[20	20	119	127	bn:00035770n		http://babelnet.org/rdf/s00035770n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16261 ===
+	Employing: 0.02857142857142857
+	Military: 0.025
+
+SELECTED:[Employing]
+MATCH!
+SILVER:246	25616	1	9	0	4164983	Spain 's President of Government , Jose Luis Rodriguez Zapatero , said earlier this week that an additional 1,200 army personnel would be sent to the area to assist the fire service .	3694	area.n	192	Locale	MANUAL	6669282	150	153	WMcQ	area
+LINKED:[26	26	150	153	bn:00005513n	http://dbpedia.org/resource/Area	http://babelnet.org/rdf/s00005513n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16262 ===
+	Locale: 0.1
+
+SELECTED:[Locale]
+MATCH!
+SILVER:246	25616	1	9	0	4164983	Spain 's President of Government , Jose Luis Rodriguez Zapatero , said earlier this week that an additional 1,200 army personnel would be sent to the area to assist the fire service .	7040	assist.v	391	Assistance	MANUAL	6669283	158	163	WMcQ	assist
+LINKED:[28	28	158	163	bn:00082867v		http://babelnet.org/rdf/s00082867v	1.0	0.05	5.1020406E-4	BABELFY]
+RANK:=== COUNTER  Counter 16263 ===
+	Assistance: 0.02368421052631579
+
+SELECTED:[Assistance]
+MATCH!
+SILVER:246	25616	1	10	0	4164984	Yesterday , flames continued to threaten Galicia , but the number of fires said to be out of control reportedly dropped thanks to the vigorous efforts of firefighters , soldiers and volunteers .	17483	flames.n	2824	Fire_burning	MANUAL	6669285	12	17	WMcQ	flames
+LINKED:[2	2	12	17	bn:00034625n	http://dbpedia.org/resource/Fire	http://babelnet.org/rdf/s00034625n	0.8	0.2	0.06282722	BABELFY]
+RANK:=== COUNTER  Counter 16264 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	10	0	4164984	Yesterday , flames continued to threaten Galicia , but the number of fires said to be out of control reportedly dropped thanks to the vigorous efforts of firefighters , soldiers and volunteers .	17504	number.n	2604	Quantity	MANUAL	6669287	59	64	WMcQ	number
+LINKED:[10	10	59	64	bn:00058285n	http://dbpedia.org/resource/Number	http://babelnet.org/rdf/s00058285n	0.8	0.13333334	0.020942409	BABELFY]
+RANK:=== COUNTER  Counter 16265 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	10	0	4164984	Yesterday , flames continued to threaten Galicia , but the number of fires said to be out of control reportedly dropped thanks to the vigorous efforts of firefighters , soldiers and volunteers .	1954	drop.v	91	Change_position_on_a_scale	MANUAL	6669288	112	118	WMcQ	dropped
+LINKED:[20	20	112	118	bn:00087364v		http://babelnet.org/rdf/s00087364v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16266 ===
+	Body_movement: 0.3357142857142857
+	Change_posture: 0.12142857142857143
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	10	0	4164984	Yesterday , flames continued to threaten Galicia , but the number of fires said to be out of control reportedly dropped thanks to the vigorous efforts of firefighters , soldiers and volunteers .	10187	effort.n	116	Attempt	MANUAL	6669289	143	149	WMcQ	efforts
+LINKED:[25	25	143	149	bn:00029899n	http://dbpedia.org/resource/Exertion	http://babelnet.org/rdf/s00029899n	0.75	0.2	0.06282722	BABELFY]
+RANK:=== COUNTER  Counter 16267 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	10	0	4164984	Yesterday , flames continued to threaten Galicia , but the number of fires said to be out of control reportedly dropped thanks to the vigorous efforts of firefighters , soldiers and volunteers .	2799	continue.v	145	Process_continue	MANUAL	6670872	19	27	MJE	continued
+LINKED:[3	3	19	27	bn:00083242v		http://babelnet.org/rdf/s00083242v	1.0	0.13333334	0.03141361	BABELFY]
+RANK:=== COUNTER  Counter 16268 ===
+	Activity_ongoing: 0.01707317073170732
+
+SELECTED:[]
+WRONG!
+SILVER:246	25616	1	11	0	4164985	Alfredo Canal , a Galician rural agency chief , told	1578	chief.n	73	Leadership	MANUAL	6669290	40	44	WMcQ	chief
+LINKED:[7	7	40	44	bn:00018320n	http://dbpedia.org/resource/Scottish_clan_chief	http://babelnet.org/rdf/s00018320n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16269 ===
+	Leadership: 0.15531914893617021
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:246	25616	2	11	0	4164986	yesterday : `` We have a situation that is noticeably better than in recent days . ''	6287	good.a	354	Desirability	MANUAL	6669292	54	59	WMcQ	better
+LINKED:[10	10	54	59	bn:00098282a		http://babelnet.org/rdf/s00098282a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16270 ===
+	Desirability: 0.03414634146341464
+
+SELECTED:[Desirability]
+MATCH!
+filename	WikiTexts__Fires_1.xml
+docAnnotations	66
+docManual	55
+docUnannotated	11
+sentences	11
+paragraphs	10
+Overlapping	47
+Disambiguated	33
+TP	24
+TN	11
+FP	0
+FN	22
+P	1.0
+R	0.5217391304347826
+F	0.6857142857142856
+A	0.6140350877192983

@@ -1,0 +1,188 @@
+SILVER:195	25398	2	7	0	4155555	Under security rules in place at the time , the only consequence of Atta 's selection by CAPPS was that his checked bags were held off the plane until it was confirmed that he had boarded the aircraft .	17433	aircraft.n	429	Vehicle	MANUAL	6655753	192	199	WMcQ	aircraft
+LINKED:[37	37	192	199	bn:00002275n	http://dbpedia.org/resource/Aircraft	http://babelnet.org/rdf/s00002275n	1.0	0.3846154	0.09322034	BABELFY]
+RANK:=== COUNTER  Counter 18891 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	25398	7	16	0	4155579	The aircraft pushed back from the gate at 7:40 .	17433	aircraft.n	429	Vehicle	MANUAL	6655754	4	11	WMcQ	aircraft
+LINKED:[1	1	4	11	bn:00002275n	http://dbpedia.org/resource/Aircraft	http://babelnet.org/rdf/s00002275n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 18892 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	25398	2	17	0	4155581	Their aircraft pushed back from the gate just before 8:00 .	17433	aircraft.n	429	Vehicle	MANUAL	6655755	6	13	WMcQ	aircraft
+LINKED:[1	1	6	13	bn:00002275n	http://dbpedia.org/resource/Aircraft	http://babelnet.org/rdf/s00002275n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 18893 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	25398	4	19	0	4155589	The only consequence of their selection was that their checked bags were held off the plane until it was confirmed that they had boarded the aircraft .	17433	aircraft.n	429	Vehicle	MANUAL	6655756	141	148	WMcQ	aircraft
+LINKED:[25	25	141	148	bn:00002275n	http://dbpedia.org/resource/Aircraft	http://babelnet.org/rdf/s00002275n	1.0	0.42857143	0.11707317	BABELFY]
+RANK:=== COUNTER  Counter 18894 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	25398	1	31	0	4155631	At that same time , American 11 had its last routine communication with the ground when it acknowledged navigational instructions from the FAA 's air traffic control ( ATC ) center in Boston .	17434	acknowledge.v	42	Communication_response	MANUAL	6655758	91	102	WMcQ	acknowledged
+LINKED:[17	17	91	102	bn:00082267v		http://babelnet.org/rdf/s00082267v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18895 ===
+	Statement: 0.16666666666666666
+	Reveal_secret: 0.028205128205128206
+
+SELECTED:[]
+WRONG!
+SILVER:195	25398	3	31	0	4155633	That message and all subsequent attempts to contact the flight were not acknowledged .	17434	acknowledge.v	42	Communication_response	MANUAL	6655759	72	83	WMcQ	acknowledged
+LINKED:[12	12	72	83	bn:00082267v		http://babelnet.org/rdf/s00082267v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18896 ===
+	Statement: 0.16666666666666666
+	Reveal_secret: 0.028205128205128206
+
+SELECTED:[]
+WRONG!
+SILVER:195	25398	1	44	0	4155679	At 8:41 , in American 's operations center , a colleague told Marquis that the air traffic controllers declared Flight 11 a hijacking and `` think he 's [ American 11 ] headed toward Kennedy [ airport in New York City ] .	714	declare.v	43	Statement	MANUAL	6655770	103	110	WMcQ	declared
+LINKED:[18	18	103	110	bn:00086380v		http://babelnet.org/rdf/s00086380v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18897 ===
+	Statement: 0.4642857142857143
+
+SELECTED:[Statement]
+MATCH!
+SILVER:195	25398	5	51	0	4155706	The eyewitness accounts came from calls made from the rear of the plane , from passengers originally seated further forward in the cabin , a sign that passengers and perhaps crew had been moved to the back of the aircraft .	16669	come	1103	Origin	MANUAL	6655747	24	27	WMcQ	came
+LINKED:[3	3	24	27	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18898 ===
+	Arriving: 0.09130434782608696
+
+SELECTED:[]
+WRONG!
+SILVER:195	25398	5	51	0	4155706	The eyewitness accounts came from calls made from the rear of the plane , from passengers originally seated further forward in the cabin , a sign that passengers and perhaps crew had been moved to the back of the aircraft .	5273	call.n	286	Contacting	MANUAL	6655749	34	38	WMcQ	calls
+LINKED:[5	5	34	38	bn:00014793n		http://babelnet.org/rdf/s00014793n	0.8	0.14285715	0.0057636886	BABELFY]
+RANK:=== COUNTER  Counter 18899 ===
+	Make_noise: 0.09545454545454546
+	Communication_noise: 0.05568181818181818
+	Communication_manner: 0.019318181818181818
+	Complaining: 0.010227272727272727
+	Friction: 0.007954545454545454
+	Vocalizations: 0.0022727272727272726
+
+SELECTED:[]
+WRONG!
+SILVER:195	25398	5	51	0	4155706	The eyewitness accounts came from calls made from the rear of the plane , from passengers originally seated further forward in the cabin , a sign that passengers and perhaps crew had been moved to the back of the aircraft .	5455	account.n	298	Text	MANUAL	6655750	15	22	WMcQ	accounts
+LINKED:[2	2	15	22	bn:00000738n	http://dbpedia.org/resource/Histories_(Herodotus)	http://babelnet.org/rdf/s00000738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18900 ===
+	Text: 0.08823529411764706
+	Out_of_existence: 0.0035294117647058825
+	History: 0.002352941176470588
+
+SELECTED:[Text]
+MATCH!
+SILVER:195	25398	5	51	0	4155706	The eyewitness accounts came from calls made from the rear of the plane , from passengers originally seated further forward in the cabin , a sign that passengers and perhaps crew had been moved to the back of the aircraft .	5736	rear.n	143	Part_orientational	MANUAL	6655751	54	57	WMcQ	rear
+LINKED:[9	9	54	57	bn:00066434n	http://dbpedia.org/resource/Rear_(military)	http://babelnet.org/rdf/s00066434n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18901 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	25398	8	62	0	4155740	Finally , a passenger reported that an announcement had been made by the `` pilot '' that the plane had been hijacked .	684	announcement.n	43	Statement	MANUAL	6655762	39	50	WMcQ	announcement
+LINKED:[7	7	39	50	bn:00004352n	http://dbpedia.org/resource/Proclamation	http://babelnet.org/rdf/s00004352n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18902 ===
+	Statement: 0.203125
+
+SELECTED:[Statement]
+MATCH!
+SILVER:195	25398	8	62	0	4155740	Finally , a passenger reported that an announcement had been made by the `` pilot '' that the plane had been hijacked .	7937	report.v	483	Reporting	MANUAL	6655763	22	29	WMcQ	reported
+LINKED:[4	4	22	29	bn:00082233v		http://babelnet.org/rdf/s00082233v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18903 ===
+	Statement: 0.23214285714285715
+	Reporting: 0.039285714285714285
+
+SELECTED:[Reporting]
+MATCH!
+SILVER:195	25398	4	83	0	4155817	During the first broadcast , the captain or first officer could be heard declaring `` Mayday '' amid the sounds of a physical struggle in the cockpit .	714	declare.v	43	Statement	MANUAL	6655774	73	81	WMcQ	declaring
+LINKED:[13	13	73	81	bn:00086384v		http://babelnet.org/rdf/s00086384v	1.0	0.1	0.00625	BABELFY]
+RANK:=== COUNTER  Counter 18904 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	25398	1	87	0	4155832	At 9:32 , a hijacker , probably Jarrah , made or attempted to make the following announcement to the passengers of Flight 93 : '' Ladies and Gentlemen : Here the captain , please sit down keep remaining sitting .	684	announcement.n	43	Statement	MANUAL	6655764	81	92	WMcQ	announcement
+LINKED:[16	16	81	92	bn:00004352n	http://dbpedia.org/resource/Proclamation	http://babelnet.org/rdf/s00004352n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18905 ===
+	Statement: 0.203125
+
+SELECTED:[Statement]
+MATCH!
+SILVER:195	25398	1	90	0	4155841	At 9:39 , the FAA 's Cleveland Air Route Traffic Control Center overheard a second announcement indicating that there was a bomb on board , that the plane was returning to the airport , and that they should remain seated .	684	announcement.n	43	Statement	MANUAL	6655765	83	94	WMcQ	announcement
+LINKED:[15	15	83	94	bn:00004352n	http://dbpedia.org/resource/Proclamation	http://babelnet.org/rdf/s00004352n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18906 ===
+	Statement: 0.203125
+
+SELECTED:[Statement]
+MATCH!
+SILVER:195	25398	3	185	0	4156105	At the same time , New York Center declared `` ATC zero '' -meaning that aircraft were not permitted to depart from , arrive at , or travel through New York Center 's airspace until further notice .	714	declare.v	43	Statement	MANUAL	6655771	35	42	WMcQ	declared
+LINKED:[8	8	35	42	bn:00086380v		http://babelnet.org/rdf/s00086380v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18907 ===
+	Statement: 0.4642857142857143
+
+SELECTED:[Statement]
+MATCH!
+SILVER:195	25398	1	215	0	4156194	The mention of a `` third aircraft '' was not a reference to American 77 .	729	mention.n	43	Statement	MANUAL	6655775	4	10	WMcQ	mention
+LINKED:[1	1	4	10	bn:00054390n		http://babelnet.org/rdf/s00054390n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18908 ===
+	Statement: 0.2826086956521739
+
+SELECTED:[Statement]
+MATCH!
+SILVER:195	25398	2	225	0	4156251	At 9:27 , after having been in the air for 45 minutes , United 93 acknowledged a transmission from the Cleveland Center controller .	17434	acknowledge.v	42	Communication_response	MANUAL	6655760	66	77	WMcQ	acknowledged
+LINKED:[15	15	66	77	bn:00082267v		http://babelnet.org/rdf/s00082267v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18909 ===
+	Statement: 0.16666666666666666
+	Reveal_secret: 0.028205128205128206
+
+SELECTED:[]
+WRONG!
+SILVER:195	25398	1	302	0	4156454	By 10:03 , when United 93 crashed in Pennsylvania , there had been no mention of its hijacking and the FAA had not yet been added to the teleconference .	729	mention.n	43	Statement	MANUAL	6655776	70	76	WMcQ	mention
+LINKED:[14	14	70	76	bn:00054390n		http://babelnet.org/rdf/s00054390n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18910 ===
+	Statement: 0.2826086956521739
+
+SELECTED:[Statement]
+MATCH!
+SILVER:195	25398	3	326	0	4156547	Eventually , the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter .	10750	alleged.a	1154	Unattributed_information	MANUAL	6655761	48	54	WMcQ	alleged
+LINKED:[8	8	48	54	bn:00096821a		http://babelnet.org/rdf/s00096821a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18911 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	25398	2	332	0	4156560	The Region Commander has declared that we can shoot down aircraft that do not respond to our direction .	714	declare.v	43	Statement	MANUAL	6655772	25	32	WMcQ	declared
+LINKED:[4	4	25	32	bn:00086380v		http://babelnet.org/rdf/s00086380v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 18912 ===
+	Statement: 0.4642857142857143
+
+SELECTED:[Statement]
+MATCH!
+SILVER:195	25398	4	358	0	4156628	It is possible that NORAD commanders would have ordered a shootdown in the absence of the authorization communicated by the Vice President , but given the gravity of the decision to shoot down a commercial airliner , and NORAD 's caution that a mistake not be made , we view this possibility as unlikely .	17435	caution.n	43	Statement	MANUAL	6655767	230	236	WMcQ	caution
+LINKED:[40	40	230	236	bn:00082376v		http://babelnet.org/rdf/s00082376v	1.0	0.11111111	0.013559322	BABELFY]
+RANK:=== COUNTER  Counter 18913 ===
+	Statement: 1.0833333333333333
+
+SELECTED:[Statement]
+MATCH!
+SILVER:195	25398	3	362	0	4156640	It had been publicly declared years earlier , most notably in a declaration faxed early in 1998 to an Arabic-language newspaper in London .	714	declare.v	43	Statement	MANUAL	6655769	21	28	WMcQ	declared
+LINKED:[4	4	21	28	bn:00082638v		http://babelnet.org/rdf/s00082638v	1.0	0.25	0.04918033	BABELFY]
+RANK:=== COUNTER  Counter 18914 ===
+	Statement: 0.5416666666666666
+
+SELECTED:[Statement]
+MATCH!
+filename	ANC__chapter1_911report.xml
+docAnnotations	1134
+docManual	25
+docUnannotated	1109
+sentences	1103
+paragraphs	362
+Overlapping	24
+Disambiguated	17
+TP	12
+TN	1109
+FP	0
+FN	8
+P	1.0
+R	0.6
+F	0.7499999999999999
+A	0.9929140832595217

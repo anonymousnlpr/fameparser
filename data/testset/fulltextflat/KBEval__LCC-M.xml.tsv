@@ -1,0 +1,287 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+185	23578	1	1	0	4098781	ID:LCC-M-1 .	null	null	null	null	UNANN	6531522	null	null	null	null
+185	23578	2	1	0	4098798	Odds changers , or jinglers , attempt to gain favorable odds by dumping large amounts of money on a particular horse , then canceling the bet at the last moment in order to make a second bet at better odds .	null	null	null	null	UNANN	6531539	null	null	null	null
+185	23578	2	1	0	4098798	Odds changers , or jinglers , attempt to gain favorable odds by dumping large amounts of money on a particular horse , then canceling the bet at the last moment in order to make a second bet at better odds .	2303	attempt.v	116	Attempt	MANUAL	6533117	30	36	JKR	attempt
+185	23578	2	1	0	4098798	Odds changers , or jinglers , attempt to gain favorable odds by dumping large amounts of money on a particular horse , then canceling the bet at the last moment in order to make a second bet at better odds .	7502	gain.v	179	Getting	MANUAL	6533118	41	44	JKR	gain
+185	23578	2	1	0	4098798	Odds changers , or jinglers , attempt to gain favorable odds by dumping large amounts of money on a particular horse , then canceling the bet at the last moment in order to make a second bet at better odds .	3381	amount.n	189	Quantified_mass	MANUAL	6533119	78	84	JKR	amounts
+185	23578	2	1	0	4098798	Odds changers , or jinglers , attempt to gain favorable odds by dumping large amounts of money on a particular horse , then canceling the bet at the last moment in order to make a second bet at better odds .	11249	second.a	1147	Ordinal_numbers	MANUAL	6533172	180	185	RLG	second
+185	23578	3	1	0	4098799	QN : Do jinglers get better odds ?	null	null	null	null	UNANN	6531540	null	null	null	null
+185	23578	3	1	0	4098799	QN : Do jinglers get better odds ?	4343	get.v	179	Getting	MANUAL	6533120	17	19	JKR	get
+185	23578	1	2	0	4098800	ID:LCC-M-3 .	null	null	null	null	UNANN	6531541	null	null	null	null
+185	23578	2	2	0	4098801	As mentioned , IBM has opted for the mouse stick in the middle of the keyboard instead of the little trackball or the little panel you diddle with your finger .	null	null	null	null	UNANN	6531542	null	null	null	null
+185	23578	2	2	0	4098801	As mentioned , IBM has opted for the mouse stick in the middle of the keyboard instead of the little trackball or the little panel you diddle with your finger .	730	mention.v	43	Statement	MANUAL	6533115	3	11	JKR	mentioned
+185	23578	2	2	0	4098801	As mentioned , IBM has opted for the mouse stick in the middle of the keyboard instead of the little trackball or the little panel you diddle with your finger .	2402	finger.n	119	Body_parts	MANUAL	6533116	152	157	JKR	finger
+185	23578	2	2	0	4098801	As mentioned , IBM has opted for the mouse stick in the middle of the keyboard instead of the little trackball or the little panel you diddle with your finger .	8853	middle.n	327	Part_inner_outer	MANUAL	6533121	56	61	JKR	middle
+185	23578	2	2	0	4098801	As mentioned , IBM has opted for the mouse stick in the middle of the keyboard instead of the little trackball or the little panel you diddle with your finger .	12787	diddle.v	17	Manipulation	MANUAL	6533404	135	140	RLG	diddle
+185	23578	2	2	0	4098801	As mentioned , IBM has opted for the mouse stick in the middle of the keyboard instead of the little trackball or the little panel you diddle with your finger .	12780	opt.v	352	Choosing	MANUAL	6533442	23	27	MJE	opted
+185	23578	3	2	0	4098802	QN : Do IBM keyboards have a mouse stick ?	null	null	null	null	UNANN	6531543	null	null	null	null
+185	23578	1	3	0	4098803	ID:LCC-M-6 .	null	null	null	null	UNANN	6531544	null	null	null	null
+185	23578	2	3	0	4098804	Born July 5, 1917 , Catherine Wood Campbell left her native Atlanta , where she had attended Sacred Heart School and graduated from the Washington Seminary , in the 1930s .	null	null	null	null	UNANN	6531545	null	null	null	null
+185	23578	2	3	0	4098804	Born July 5, 1917 , Catherine Wood Campbell left her native Atlanta , where she had attended Sacred Heart School and graduated from the Washington Seminary , in the 1930s .	8622	leave.v	57	Departing	MANUAL	6533113	44	47	JKR	left
+185	23578	2	3	0	4098804	Born July 5, 1917 , Catherine Wood Campbell left her native Atlanta , where she had attended Sacred Heart School and graduated from the Washington Seminary , in the 1930s .	9791	born.v	793	Being_born	MANUAL	6533114	0	3	JKR	Born
+185	23578	3	3	0	4098805	QN : Was Catherine Wood Campbell born in Atlanta ?	null	null	null	null	UNANN	6531546	null	null	null	null
+185	23578	3	3	0	4098805	QN : Was Catherine Wood Campbell born in Atlanta ?	9791	born.v	793	Being_born	MANUAL	6533112	33	36	JKR	born
+185	23578	1	4	0	4098806	ID:LCC-M-7 .	null	null	null	null	UNANN	6531547	null	null	null	null
+185	23578	2	4	0	4098807	The Red Sox started wearing numbers on their backs in 1931 , and first retired numbers May 29, 1984 , when they honored Williams and Cronin .	null	null	null	null	UNANN	6531548	null	null	null	null
+185	23578	2	4	0	4098807	The Red Sox started wearing numbers on their backs in 1931 , and first retired numbers May 29, 1984 , when they honored Williams and Cronin .	4447	start.v	146	Activity_start	MANUAL	6533109	12	18	JKR	started
+185	23578	2	4	0	4098807	The Red Sox started wearing numbers on their backs in 1931 , and first retired numbers May 29, 1984 , when they honored Williams and Cronin .	3748	wear.v	160	Wearing	MANUAL	6533110	20	26	JKR	wearing
+185	23578	2	4	0	4098807	The Red Sox started wearing numbers on their backs in 1931 , and first retired numbers May 29, 1984 , when they honored Williams and Cronin .	10286	first.adv	1027	First_experience	MANUAL	6533111	65	69	JKR	first
+185	23578	3	4	0	4098808	QN : Did the Red Sox wear numbers on their backs in 1984 ?	null	null	null	null	UNANN	6531549	null	null	null	null
+185	23578	3	4	0	4098808	QN : Did the Red Sox wear numbers on their backs in 1984 ?	3748	wear.v	160	Wearing	MANUAL	6533107	21	24	JKR	wear
+185	23578	3	4	0	4098808	QN : Did the Red Sox wear numbers on their backs in 1984 ?	2383	back.n	119	Body_parts	MANUAL	6533108	43	47	JKR	backs
+185	23578	1	5	0	4098809	ID:LCC-M-10 .	null	null	null	null	UNANN	6531550	null	null	null	null
+185	23578	2	5	0	4098810	Goldstein was born on Sept. 23, 1922 , in Denver and died in Chicago on June 20, 1944 .	null	null	null	null	UNANN	6531551	null	null	null	null
+185	23578	2	5	0	4098810	Goldstein was born on Sept. 23, 1922 , in Denver and died in Chicago on June 20, 1944 .	9791	born.v	793	Being_born	MANUAL	6533104	14	17	JKR	born
+185	23578	2	5	0	4098810	Goldstein was born on Sept. 23, 1922 , in Denver and died in Chicago on June 20, 1944 .	924	die.v	53	Death	MANUAL	6533105	53	56	JKR	died
+185	23578	3	5	0	4098811	QN : Was Goldstein born in Chicago ?	null	null	null	null	UNANN	6531552	null	null	null	null
+185	23578	3	5	0	4098811	QN : Was Goldstein born in Chicago ?	9791	born.v	793	Being_born	MANUAL	6533106	19	22	JKR	born
+185	23578	1	6	0	4098812	ID:LCC-M-13 .	null	null	null	null	UNANN	6531553	null	null	null	null
+185	23578	2	6	0	4098813	Walden thinks Lukas-trained Grand Slam , who is 4 for 4 at Belmont and 0 for 4 elsewhere , must be respected because of that statistic .	null	null	null	null	UNANN	6531554	null	null	null	null
+185	23578	2	6	0	4098813	Walden thinks Lukas-trained Grand Slam , who is 4 for 4 at Belmont and 0 for 4 elsewhere , must be respected because of that statistic .	11959	think.v	1412	Opinion	MANUAL	6533102	7	12	JKR	thinks
+185	23578	2	6	0	4098813	Walden thinks Lukas-trained Grand Slam , who is 4 for 4 at Belmont and 0 for 4 elsewhere , must be respected because of that statistic .	8502	respect.v	28	Judgment	MANUAL	6533103	99	107	JKR	respected
+185	23578	3	6	0	4098814	QN : Does Walden think Grand Slam deserves respect ?	null	null	null	null	UNANN	6531555	null	null	null	null
+185	23578	3	6	0	4098814	QN : Does Walden think Grand Slam deserves respect ?	11959	think.v	1412	Opinion	MANUAL	6533099	17	21	JKR	think
+185	23578	3	6	0	4098814	QN : Does Walden think Grand Slam deserves respect ?	8311	deserve.v	541	Deserving	MANUAL	6533100	34	41	JKR	deserves
+185	23578	3	6	0	4098814	QN : Does Walden think Grand Slam deserves respect ?	8501	respect.n	28	Judgment	MANUAL	6533101	43	49	JKR	respect
+185	23578	1	7	0	4098815	ID:LCC-M-14 .	null	null	null	null	UNANN	6531556	null	null	null	null
+185	23578	2	7	0	4098816	Lehr has become a major force on the Trojans ' pitching staff , despite the fact that his pitching career at this level is still in its infancy .	null	null	null	null	UNANN	6531557	null	null	null	null
+185	23578	2	7	0	4098816	Lehr has become a major force on the Trojans ' pitching staff , despite the fact that his pitching career at this level is still in its infancy .	18221	become.v	2971	Becoming	MANUAL	6533095	9	14	JKR	become
+185	23578	2	7	0	4098816	Lehr has become a major force on the Trojans ' pitching staff , despite the fact that his pitching career at this level is still in its infancy .	11801	level.n	1377	Rank	MANUAL	6533096	114	118	JKR	level
+185	23578	2	7	0	4098816	Lehr has become a major force on the Trojans ' pitching staff , despite the fact that his pitching career at this level is still in its infancy .	956	pitch.v	55	Cause_motion	MANUAL	6533097	90	97	JKR	pitching
+185	23578	2	7	0	4098816	Lehr has become a major force on the Trojans ' pitching staff , despite the fact that his pitching career at this level is still in its infancy .	11771	staff.n	323	Employing	MANUAL	6533098	56	60	JKR	staff
+185	23578	3	7	0	4098817	QN : Has Lehr had a short pitching career ?	null	null	null	null	UNANN	6531558	null	null	null	null
+185	23578	3	7	0	4098817	QN : Has Lehr had a short pitching career ?	1723	short.a	79	Duration_description	MANUAL	6533093	20	24	JKR	short
+185	23578	3	7	0	4098817	QN : Has Lehr had a short pitching career ?	956	pitch.v	55	Cause_motion	MANUAL	6533094	26	33	JKR	pitching
+185	23578	1	8	0	4098818	ID:LCC-M-17 .	null	null	null	null	UNANN	6531559	null	null	null	null
+185	23578	2	8	0	4098819	Planning for Islands of Adventure was already under way in 1990 when Universal Studios opened doors to its first Orlando park , Universal Studios Florida .	null	null	null	null	UNANN	6531560	null	null	null	null
+185	23578	2	8	0	4098819	Planning for Islands of Adventure was already under way in 1990 when Universal Studios opened doors to its first Orlando park , Universal Studios Florida .	11248	first.a	1147	Ordinal_numbers	MANUAL	6533129	107	111	RLG	first
+185	23578	3	8	0	4098820	QN : Did planning for Islands of Adventure begin after Universal Studios Florida opened ?	null	null	null	null	UNANN	6531561	null	null	null	null
+185	23578	3	8	0	4098820	QN : Did planning for Islands of Adventure begin after Universal Studios Florida opened ?	2656	begin.v	133	Process_start	MANUAL	6533157	43	47	RLG	begin
+185	23578	1	9	0	4098821	ID:LCC-M-19 .	null	null	null	null	UNANN	6531562	null	null	null	null
+185	23578	2	9	0	4098822	If truth is the first casualty in war , then dignity was the first principle to keel over in the dirty little war in Washington .	null	null	null	null	UNANN	6531563	null	null	null	null
+185	23578	2	9	0	4098822	If truth is the first casualty in war , then dignity was the first principle to keel over in the dirty little war in Washington .	1939	war.n	93	Hostile_encounter	MANUAL	6533092	110	112	JKR	war
+185	23578	2	9	0	4098822	If truth is the first casualty in war , then dignity was the first principle to keel over in the dirty little war in Washington .	11248	first.a	1147	Ordinal_numbers	UNANN	6533131	null	null	null	null
+185	23578	2	9	0	4098822	If truth is the first casualty in war , then dignity was the first principle to keel over in the dirty little war in Washington .	11248	first.a	1147	Ordinal_numbers	UNANN	6533131	16	20	RLG	first
+185	23578	2	9	0	4098822	If truth is the first casualty in war , then dignity was the first principle to keel over in the dirty little war in Washington .	11248	first.a	1147	Ordinal_numbers	MANUAL	6533134	61	65	RLG	first
+185	23578	2	9	0	4098822	If truth is the first casualty in war , then dignity was the first principle to keel over in the dirty little war in Washington .	1939	war.n	93	Hostile_encounter	MANUAL	6533150	34	36	RLG	war
+185	23578	3	9	0	4098823	QN : Is truth the first casualty in war ?	null	null	null	null	UNANN	6531564	null	null	null	null
+185	23578	3	9	0	4098823	QN : Is truth the first casualty in war ?	11248	first.a	1147	Ordinal_numbers	MANUAL	6533135	18	22	RLG	first
+185	23578	3	9	0	4098823	QN : Is truth the first casualty in war ?	1939	war.n	93	Hostile_encounter	MANUAL	6533151	36	38	RLG	war
+185	23578	1	10	0	4098824	ID:LCC-M-22 .	null	null	null	null	UNANN	6531565	null	null	null	null
+185	23578	2	10	0	4098825	The mistake most beginners make is in loading too much paint on the bristles .	null	null	null	null	UNANN	6531566	null	null	null	null
+185	23578	2	10	0	4098825	The mistake most beginners make is in loading too much paint on the bristles .	4450	beginner.n	146	Activity_start	MANUAL	6533089	17	25	JKR	beginners
+185	23578	2	10	0	4098825	The mistake most beginners make is in loading too much paint on the bristles .	1094	load.v	62	Placing	MANUAL	6533090	38	44	JKR	loading
+185	23578	3	10	0	4098826	QN : Do people who are new to painting often load too much paint on the brush ?	null	null	null	null	UNANN	6531567	null	null	null	null
+185	23578	3	10	0	4098826	QN : Do people who are new to painting often load too much paint on the brush ?	1094	load.v	62	Placing	MANUAL	6533091	45	48	JKR	load
+185	23578	1	11	0	4098827	ID:LCC-M-25 .	null	null	null	null	UNANN	6531568	null	null	null	null
+185	23578	2	11	0	4098828	In the next few decades , unless Japan somehow manages to arrest current trends , it may find that its share of global economic output has shrunk considerably .	null	null	null	null	UNANN	6531569	null	null	null	null
+185	23578	2	11	0	4098828	In the next few decades , unless Japan somehow manages to arrest current trends , it may find that its share of global economic output has shrunk considerably .	175	find.v	20	Becoming_aware	MANUAL	6533087	89	92	JKR	find
+185	23578	2	11	0	4098828	In the next few decades , unless Japan somehow manages to arrest current trends , it may find that its share of global economic output has shrunk considerably .	9501	shrink.v	725	Expansion	MANUAL	6533088	139	144	JKR	shrunk
+185	23578	2	11	0	4098828	In the next few decades , unless Japan somehow manages to arrest current trends , it may find that its share of global economic output has shrunk considerably .	4081	decade.n	229	Calendric_unit	MANUAL	6533143	16	22	RLG	decades
+185	23578	2	11	0	4098828	In the next few decades , unless Japan somehow manages to arrest current trends , it may find that its share of global economic output has shrunk considerably .	10235	global.a	195	Political_locales	MANUAL	6533146	112	117	RLG	global
+185	23578	3	11	0	4098829	QN : Will Japan 's share of global economic output decrease in the next few decades ?	null	null	null	null	UNANN	6531570	null	null	null	null
+185	23578	3	11	0	4098829	QN : Will Japan 's share of global economic output decrease in the next few decades ?	12490	economic.a	1572	Economy	MANUAL	6533085	35	42	JKR	economic
+185	23578	3	11	0	4098829	QN : Will Japan 's share of global economic output decrease in the next few decades ?	1877	decrease.v	91	Change_position_on_a_scale	MANUAL	6533086	51	58	JKR	decrease
+185	23578	3	11	0	4098829	QN : Will Japan 's share of global economic output decrease in the next few decades ?	4081	decade.n	229	Calendric_unit	MANUAL	6533144	76	82	RLG	decades
+185	23578	3	11	0	4098829	QN : Will Japan 's share of global economic output decrease in the next few decades ?	10235	global.a	195	Political_locales	MANUAL	6533147	28	33	RLG	global
+185	23578	1	12	0	4098830	ID:LCC-M-27 .	null	null	null	null	UNANN	6531571	null	null	null	null
+185	23578	2	12	0	4098831	Fiscal hawks on Capitol Hill vowed Monday to vote against the embassy security measures unless they are paid for by cuts elsewhere in the administration 's budget .	null	null	null	null	UNANN	6531572	null	null	null	null
+185	23578	2	12	0	4098831	Fiscal hawks on Capitol Hill vowed Monday to vote against the embassy security measures unless they are paid for by cuts elsewhere in the administration 's budget .	12692	vow.v	33	Commitment	MANUAL	6533080	29	33	JKR	vowed
+185	23578	2	12	0	4098831	Fiscal hawks on Capitol Hill vowed Monday to vote against the embassy security measures unless they are paid for by cuts elsewhere in the administration 's budget .	12443	security.n	1560	Being_at_risk	MANUAL	6533081	70	77	JKR	security
+185	23578	2	12	0	4098831	Fiscal hawks on Capitol Hill vowed Monday to vote against the embassy security measures unless they are paid for by cuts elsewhere in the administration 's budget .	10821	cut.n	96	Cause_change_of_position_on_a_scale	MANUAL	6533084	116	119	JKR	cuts
+185	23578	3	12	0	4098832	QN : Will fiscal hawks on Capitol Hill vote against the embassy security measures ?	null	null	null	null	UNANN	6531573	null	null	null	null
+185	23578	3	12	0	4098832	QN : Will fiscal hawks on Capitol Hill vote against the embassy security measures ?	12443	security.n	1560	Being_at_risk	MANUAL	6533083	64	71	JKR	security
+185	23578	1	13	0	4098833	ID:LCC-M-28 .	null	null	null	null	UNANN	6531574	null	null	null	null
+185	23578	2	13	0	4098834	The FDA has no authority to regulate creatine unless it 's first proved to be dangerous .	null	null	null	null	UNANN	6531575	null	null	null	null
+185	23578	2	13	0	4098834	The FDA has no authority to regulate creatine unless it 's first proved to be dangerous .	5586	prove.v	308	Reasoning	MANUAL	6533079	65	70	JKR	proved
+185	23578	2	13	0	4098834	The FDA has no authority to regulate creatine unless it 's first proved to be dangerous .	2378	have.v	118	Possession	MANUAL	6533137	8	10	RLG	has
+185	23578	3	13	0	4098835	QN : Has creatine been proven to be dangerous ?	null	null	null	null	UNANN	6531576	null	null	null	null
+185	23578	3	13	0	4098835	QN : Has creatine been proven to be dangerous ?	5586	prove.v	308	Reasoning	MANUAL	6533078	23	28	JKR	proven
+185	23578	1	14	0	4098836	ID:LCC-M-30 .	null	null	null	null	UNANN	6531577	null	null	null	null
+185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	null	null	null	null	UNANN	6531578	null	null	null	null
+185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	751	say.v	43	Statement	MANUAL	6533070	23	25	JKR	say
+185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	2756	believe.v	141	Certainty	MANUAL	6533071	32	38	JKR	believe
+185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	12182	government.n	73	Leadership	MANUAL	6533072	89	98	JKR	government
+185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	2216	stay.v	110	Residence	MANUAL	6533073	116	122	JKR	staying
+185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	10625	official.n	73	Leadership	MANUAL	6533076	9	17	JKR	officials
+185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	10174	other.a	1001	Increment	MANUAL	6533077	209	213	JKR	other
+185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	10585	american.a	1103	Origin	MANUAL	6533139	0	7	RLG	American
+185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	11673	provide.v	1346	Supply	MANUAL	6535554	188	195	KmG	provided
+185	23578	3	14	0	4098838	A former American intelligence official said bin Laden also visited bin Khalid in Qatar twice in the mid- 1990s .	null	null	null	null	UNANN	6531579	null	null	null	null
+185	23578	3	14	0	4098838	A former American intelligence official said bin Laden also visited bin Khalid in Qatar twice in the mid- 1990s .	751	say.v	43	Statement	MANUAL	6533067	40	43	JKR	said
+185	23578	3	14	0	4098838	A former American intelligence official said bin Laden also visited bin Khalid in Qatar twice in the mid- 1990s .	10625	official.n	73	Leadership	MANUAL	6533069	31	38	JKR	official
+185	23578	3	14	0	4098838	A former American intelligence official said bin Laden also visited bin Khalid in Qatar twice in the mid- 1990s .	10585	american.a	1103	Origin	MANUAL	6533141	9	16	RLG	American
+185	23578	3	14	0	4098838	A former American intelligence official said bin Laden also visited bin Khalid in Qatar twice in the mid- 1990s .	947	visit.v	54	Arriving	MANUAL	6533171	60	66	RLG	visited
+185	23578	4	14	0	4098839	QN : Was Muhammad staying at the estate of Abdallah bin Khalid ?	null	null	null	null	UNANN	6531580	null	null	null	null
+185	23578	4	14	0	4098839	QN : Was Muhammad staying at the estate of Abdallah bin Khalid ?	2216	stay.v	110	Residence	MANUAL	6533066	18	24	JKR	staying
+185	23578	1	15	0	4098840	ID:LCC-M-32 .	null	null	null	null	UNANN	6531581	null	null	null	null
+185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	null	null	null	null	UNANN	6531582	null	null	null	null
+185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	2253	professor.n	111	Education_teaching	MANUAL	6533058	47	55	JKR	professor
+185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	2680	experience.n	136	Expertise	MANUAL	6533059	73	82	JKR	experience
+185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	2247	teacher.n	111	Education_teaching	MANUAL	6533060	101	107	JKR	teacher
+185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	7636	collaborate.v	418	Collaboration	MANUAL	6533061	112	124	JKR	collaborating
+185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	5453	book.n	298	Text	MANUAL	6533062	152	156	JKR	books
+185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	10073	young.a	972	Age	MANUAL	6533063	162	166	JKR	young
+185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	924	die.v	53	Death	MANUAL	6533064	181	184	JKR	died
+185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	3012	home.n	173	Buildings	MANUAL	6533065	212	215	JKR	home
+185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	7364	acclaim.v	219	Judgment_communication	MANUAL	6533153	132	140	RLG	acclaimed
+185	23578	3	15	0	4098842	QN : Did Irwin teach high school in Iowa ?	null	null	null	null	UNANN	6531583	null	null	null	null
+185	23578	3	15	0	4098842	QN : Did Irwin teach high school in Iowa ?	10740	teach.v	111	Education_teaching	MANUAL	6533056	15	19	JKR	teach
+185	23578	1	16	0	4099221	ID:LCC-M-33 .	null	null	null	null	UNANN	6533259	null	null	null	null
+185	23578	2	16	0	4099222	The board frequently has engaged in public disputes and has been accused by the federal court of making decisions based on narrow agendas and meddling where it should n't .	null	null	null	null	UNANN	6533260	null	null	null	null
+185	23578	2	16	0	4099222	The board frequently has engaged in public disputes and has been accused by the federal court of making decisions based on narrow agendas and meddling where it should n't .	7367	accuse.v	219	Judgment_communication	MANUAL	6533321	65	71	MiL	accused
+185	23578	3	16	0	4099223	QN : Does the board often make decisions based on narrow agendas ?	null	null	null	null	UNANN	6533261	null	null	null	null
+185	23578	1	17	0	4098845	ID:LCC-M-35 .	null	null	null	null	UNANN	6531586	null	null	null	null
+185	23578	2	17	0	4098846	Fabric awning prices are more varied than aluminum awning prices , according to Kevin Tatman , owner of Merit Awnings in Dayton .	null	null	null	null	UNANN	6531587	null	null	null	null
+185	23578	2	17	0	4098846	Fabric awning prices are more varied than aluminum awning prices , according to Kevin Tatman , owner of Merit Awnings in Dayton .	2894	price.n	82	Commerce_scenario	MANUAL	6533021	14	19	JKR	prices
+185	23578	2	17	0	4098846	Fabric awning prices are more varied than aluminum awning prices , according to Kevin Tatman , owner of Merit Awnings in Dayton .	2894	price.n	82	Commerce_scenario	MANUAL	6533022	58	63	JKR	prices
+185	23578	2	17	0	4098846	Fabric awning prices are more varied than aluminum awning prices , according to Kevin Tatman , owner of Merit Awnings in Dayton .	10677	according	1148	Attributed_information	MANUAL	6533023	67	75	CVa	according
+185	23578	2	17	0	4098846	Fabric awning prices are more varied than aluminum awning prices , according to Kevin Tatman , owner of Merit Awnings in Dayton .	10677	according	1148	Attributed_information	MANUAL	6533023	77	78	CVa	to
+185	23578	2	17	0	4098846	Fabric awning prices are more varied than aluminum awning prices , according to Kevin Tatman , owner of Merit Awnings in Dayton .	2431	owner.n	118	Possession	MANUAL	6533024	95	99	JKR	owner
+185	23578	2	17	0	4098846	Fabric awning prices are more varied than aluminum awning prices , according to Kevin Tatman , owner of Merit Awnings in Dayton .	12251	aluminum.n	1321	Substance	MANUAL	6533031	42	49	JKR	aluminum
+185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	null	null	null	null	UNANN	6531588	null	null	null	null
+185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	12251	aluminum.n	1321	Substance	MANUAL	6533033	49	56	JKR	aluminum
+185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	2986	sell.v	172	Commerce_sell	MANUAL	6533034	44	47	JKR	sold
+185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	2986	sell.v	172	Commerce_sell	MANUAL	6533037	78	84	JKR	selling
+185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	4447	start.v	146	Activity_start	MANUAL	6533038	70	76	JKR	started
+185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	9154	ago.idio	379	Time_vector	MANUAL	6533040	134	136	JKR	ago
+185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	4074	year.n	229	Calendric_unit	MANUAL	6533042	128	132	JKR	years
+185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	2645	brand.n	128	Type	MANUAL	6533159	95	99	RLG	brand
+185	23578	4	17	0	4098848	QN : Are fabric awning prices more varied than aluminum awning prices ?	null	null	null	null	UNANN	6531589	null	null	null	null
+185	23578	4	17	0	4098848	QN : Are fabric awning prices more varied than aluminum awning prices ?	2894	price.n	82	Commerce_scenario	UNANN	6533019	null	null	null	null
+185	23578	4	17	0	4098848	QN : Are fabric awning prices more varied than aluminum awning prices ?	2894	price.n	82	Commerce_scenario	UNANN	6533019	23	28	JKR	prices
+185	23578	4	17	0	4098848	QN : Are fabric awning prices more varied than aluminum awning prices ?	2894	price.n	82	Commerce_scenario	UNANN	6533020	null	null	null	null
+185	23578	4	17	0	4098848	QN : Are fabric awning prices more varied than aluminum awning prices ?	2894	price.n	82	Commerce_scenario	UNANN	6533020	63	68	JKR	prices
+185	23578	4	17	0	4098848	QN : Are fabric awning prices more varied than aluminum awning prices ?	12251	aluminum.n	1321	Substance	MANUAL	6533155	47	54	RLG	aluminum
+185	23578	1	18	0	4098849	ID:LCC-M-37 .	null	null	null	null	UNANN	6531590	null	null	null	null
+185	23578	2	18	0	4098850	Increasingly , health experts and researchers are naming the nation 's penchant for large portions and `` supersizing '' as a leading cause of obesity .	null	null	null	null	UNANN	6531591	null	null	null	null
+185	23578	2	18	0	4098850	Increasingly , health experts and researchers are naming the nation 's penchant for large portions and `` supersizing '' as a leading cause of obesity .	2677	expert.n	136	Expertise	MANUAL	6533014	22	28	JKR	experts
+185	23578	2	18	0	4098850	Increasingly , health experts and researchers are naming the nation 's penchant for large portions and `` supersizing '' as a leading cause of obesity .	3	cause.n	5	Causation	MANUAL	6533018	134	138	JKR	cause
+185	23578	2	18	0	4098850	Increasingly , health experts and researchers are naming the nation 's penchant for large portions and `` supersizing '' as a leading cause of obesity .	6662	penchant.n	377	Inclination	MANUAL	6533027	71	78	JKR	penchant
+185	23578	2	18	0	4098850	Increasingly , health experts and researchers are naming the nation 's penchant for large portions and `` supersizing '' as a leading cause of obesity .	12653	portion.n	140	Part_whole	MANUAL	6533028	90	97	JKR	portions
+185	23578	3	18	0	4098851	QN : Does supersizing cause obesity ?	null	null	null	null	UNANN	6531592	null	null	null	null
+185	23578	3	18	0	4098851	QN : Does supersizing cause obesity ?	2	cause.v	5	Causation	MANUAL	6533013	22	26	JKR	cause
+185	23578	1	19	0	4098852	ID:LCC-M-39 .	null	null	null	null	UNANN	6531593	null	null	null	null
+185	23578	2	19	0	4098853	Dual-core chips can do the same work that a single-core chip can , only faster , while consuming less power and at a cooler temperature .	null	null	null	null	UNANN	6531594	null	null	null	null
+185	23578	2	19	0	4098853	Dual-core chips can do the same work that a single-core chip can , only faster , while consuming less power and at a cooler temperature .	10156	can.v	990	Capability	MANUAL	6532998	16	18	JKR	can
+185	23578	2	19	0	4098853	Dual-core chips can do the same work that a single-core chip can , only faster , while consuming less power and at a cooler temperature .	10156	can.v	990	Capability	MANUAL	6533003	61	63	JKR	can
+185	23578	2	19	0	4098853	Dual-core chips can do the same work that a single-core chip can , only faster , while consuming less power and at a cooler temperature .	12355	power.n	1535	Electricity	MANUAL	6533004	102	106	JKR	power
+185	23578	2	19	0	4098853	Dual-core chips can do the same work that a single-core chip can , only faster , while consuming less power and at a cooler temperature .	10346	cool.a	1050	Temperature	MANUAL	6533005	117	122	JKR	cooler
+185	23578	2	19	0	4098853	Dual-core chips can do the same work that a single-core chip can , only faster , while consuming less power and at a cooler temperature .	10344	temperature.n	1050	Temperature	MANUAL	6533006	124	134	JKR	temperature
+185	23578	2	19	0	4098853	Dual-core chips can do the same work that a single-core chip can , only faster , while consuming less power and at a cooler temperature .	10612	do.v	198	Intentionally_act	MANUAL	6533126	20	21	RLG	do
+185	23578	2	19	0	4098853	Dual-core chips can do the same work that a single-core chip can , only faster , while consuming less power and at a cooler temperature .	10293	same.a	1029	Identicality	MANUAL	6533173	27	30	RLG	same
+185	23578	3	19	0	4098854	QN : Do dual-core chips consume more power than single-core chips ?	null	null	null	null	UNANN	6531595	null	null	null	null
+185	23578	3	19	0	4098854	QN : Do dual-core chips consume more power than single-core chips ?	12355	power.n	1535	Electricity	MANUAL	6532996	37	41	JKR	power
+185	23578	1	20	0	4098855	ID:LCC-M-41 .	null	null	null	null	UNANN	6531596	null	null	null	null
+185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	null	null	null	null	UNANN	6531597	null	null	null	null
+185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	4344	give.v	139	Giving	MANUAL	6532984	26	31	JKR	giving
+185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	12276	plan.v	513	Purpose	MANUAL	6532985	15	21	JKR	planned
+185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	12276	plan.v	513	Purpose	MANUAL	6532987	78	82	JKR	plans
+185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	2243	student.n	111	Education_teaching	MANUAL	6532988	43	49	JKR	student
+185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	1777	free.a	83	Expensiveness	MANUAL	6532989	53	56	JKR	free
+185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	12566	new.a	1597	Familiarity	MANUAL	6532990	39	41	JKR	new
+185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	2243	student.n	111	Education_teaching	MANUAL	6532995	103	110	JKR	students
+185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	4344	give.v	139	Giving	MANUAL	6533055	87	92	JKR	giving
+185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	12683	certain.a	982	Idiosyncrasy	MANUAL	6533168	115	121	RLG	certain
+185	23578	3	20	0	4098857	QN : Does Duke plan on giving every new student a free iPod ?	null	null	null	null	UNANN	6531598	null	null	null	null
+185	23578	3	20	0	4098857	QN : Does Duke plan on giving every new student a free iPod ?	12276	plan.v	513	Purpose	MANUAL	6532980	15	18	JKR	plan
+185	23578	3	20	0	4098857	QN : Does Duke plan on giving every new student a free iPod ?	4344	give.v	139	Giving	MANUAL	6532982	23	28	JKR	giving
+185	23578	3	20	0	4098857	QN : Does Duke plan on giving every new student a free iPod ?	1777	free.a	83	Expensiveness	MANUAL	6532992	50	53	JKR	free
+185	23578	3	20	0	4098857	QN : Does Duke plan on giving every new student a free iPod ?	2243	student.n	111	Education_teaching	MANUAL	6532993	40	46	JKR	student
+185	23578	3	20	0	4098857	QN : Does Duke plan on giving every new student a free iPod ?	12566	new.a	1597	Familiarity	MANUAL	6532994	36	38	JKR	new
+185	23578	1	21	0	4098858	ID:LCC-M-43 .	null	null	null	null	UNANN	6531599	null	null	null	null
+185	23578	2	21	0	4098859	A US judge late on Thursday threw out Mr Kerkorian 's claims that Daimler had fraudulently described the 1998 deal bringing together Daimler-Benz and Chrysler as a merger rather than a takeover to avoid paying a premium .	null	null	null	null	UNANN	6531600	null	null	null	null
+185	23578	2	21	0	4098859	A US judge late on Thursday threw out Mr Kerkorian 's claims that Daimler had fraudulently described the 1998 deal bringing together Daimler-Benz and Chrysler as a merger rather than a takeover to avoid paying a premium .	4993	avoid.v	274	Avoiding	MANUAL	6533156	197	201	RLG	avoid
+185	23578	2	21	0	4098859	A US judge late on Thursday threw out Mr Kerkorian 's claims that Daimler had fraudulently described the 1998 deal bringing together Daimler-Benz and Chrysler as a merger rather than a takeover to avoid paying a premium .	12060	bring	13	Cause_to_amalgamate	MANUAL	6533166	115	122	RLG	bringing
+185	23578	2	21	0	4098859	A US judge late on Thursday threw out Mr Kerkorian 's claims that Daimler had fraudulently described the 1998 deal bringing together Daimler-Benz and Chrysler as a merger rather than a takeover to avoid paying a premium .	12060	bring	13	Cause_to_amalgamate	MANUAL	6533166	124	131	RLG	together
+185	23578	3	21	0	4098860	QN : Does the judge think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	null	null	null	null	UNANN	6531601	null	null	null	null
+185	23578	3	21	0	4098860	QN : Does the judge think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	11959	think.v	1412	Opinion	MANUAL	6532969	20	24	JKR	think
+185	23578	3	21	0	4098860	QN : Does the judge think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	9803	describe.v	796	Communicate_categorization	MANUAL	6532972	46	54	JKR	described
+185	23578	3	21	0	4098860	QN : Does the judge think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	11658	deal.n	1342	Make_agreement_on_action	MANUAL	6532973	65	68	JKR	deal
+185	23578	3	21	0	4098860	QN : Does the judge think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	4993	avoid.v	274	Avoiding	MANUAL	6532974	73	77	JKR	avoid
+185	23578	3	21	0	4098860	QN : Does the judge think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	3083	pay.v	180	Commerce_pay	MANUAL	6532975	79	84	JKR	paying
+185	23578	1	22	0	4098861	ID:LCC-M-44 .	null	null	null	null	UNANN	6531602	null	null	null	null
+185	23578	2	22	0	4098862	A US judge late on Thursday threw out Mr Kerkorian 's claims that Daimler had fraudulently described the 1998 deal bringing together Daimler-Benz and Chrysler as a merger rather than a takeover to avoid paying a premium .	null	null	null	null	UNANN	6531603	null	null	null	null
+185	23578	2	22	0	4098862	A US judge late on Thursday threw out Mr Kerkorian 's claims that Daimler had fraudulently described the 1998 deal bringing together Daimler-Benz and Chrysler as a merger rather than a takeover to avoid paying a premium .	4993	avoid.v	274	Avoiding	MANUAL	6533650	197	201	Hay	avoid
+185	23578	2	22	0	4098862	A US judge late on Thursday threw out Mr Kerkorian 's claims that Daimler had fraudulently described the 1998 deal bringing together Daimler-Benz and Chrysler as a merger rather than a takeover to avoid paying a premium .	12060	bring	13	Cause_to_amalgamate	MANUAL	6533651	115	122	Hay	bringing
+185	23578	2	22	0	4098862	A US judge late on Thursday threw out Mr Kerkorian 's claims that Daimler had fraudulently described the 1998 deal bringing together Daimler-Benz and Chrysler as a merger rather than a takeover to avoid paying a premium .	12060	bring	13	Cause_to_amalgamate	MANUAL	6533651	124	131	Hay	together
+185	23578	3	22	0	4098863	QN : Does Mr Kerkorian think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	null	null	null	null	UNANN	6531604	null	null	null	null
+185	23578	3	22	0	4098863	QN : Does Mr Kerkorian think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	11959	think.v	1412	Opinion	MANUAL	6532949	23	27	JKR	think
+185	23578	3	22	0	4098863	QN : Does Mr Kerkorian think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	9803	describe.v	796	Communicate_categorization	MANUAL	6532950	49	57	JKR	described
+185	23578	3	22	0	4098863	QN : Does Mr Kerkorian think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	11658	deal.n	1342	Make_agreement_on_action	MANUAL	6532951	68	71	JKR	deal
+185	23578	3	22	0	4098863	QN : Does Mr Kerkorian think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	4993	avoid.v	274	Avoiding	MANUAL	6532960	76	80	JKR	avoid
+185	23578	3	22	0	4098863	QN : Does Mr Kerkorian think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	3083	pay.v	180	Commerce_pay	MANUAL	6532961	82	87	JKR	paying
+185	23578	1	23	0	4098864	ID:LCC-M-46 .	null	null	null	null	UNANN	6531605	null	null	null	null
+185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	null	null	null	null	UNANN	6531606	null	null	null	null
+185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	12758	refuse.v	1625	Agree_or_refuse_to_act	MANUAL	6532933	51	57	JKR	refused
+185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	11733	component.n	1348	Ingredients	MANUAL	6532936	108	116	JKR	component
+185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	11677	supplier.n	1346	Supply	MANUAL	6532938	118	126	JKR	suppliers
+185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	1150	withdraw.v	63	Removing	MANUAL	6532939	128	135	JKR	withdrew
+185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	11358	halt.v	166	Activity_stop	MANUAL	6532940	178	181	JKR	halt
+185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	11441	production.n	408	Manufacturing	MANUAL	6532941	183	192	JKR	production
+185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	11673	provide.v	1346	Supply	MANUAL	6535555	62	68	KmG	provide
+185	23578	3	23	0	4098866	QN : Does MG Rover make cars ?	null	null	null	null	UNANN	6531607	null	null	null	null
+185	23578	3	23	0	4098866	QN : Does MG Rover make cars ?	7808	car.n	429	Vehicle	MANUAL	6532929	24	27	JKR	cars
+185	23578	3	23	0	4098866	QN : Does MG Rover make cars ?	7526	make.v	408	Manufacturing	MANUAL	6532930	19	22	JKR	make
+185	23578	1	24	0	4098867	ID:LCC-M-49 .	null	null	null	null	UNANN	6531608	null	null	null	null
+185	23578	2	24	0	4098868	A World Trade Organization ( WTO ) appeals panel Thursday ruled that although the United States can continue with its restrictions on internet gambling , some of the rules imposed by the country were discriminatory to foreign operators .	null	null	null	null	UNANN	6531609	null	null	null	null
+185	23578	2	24	0	4098868	A World Trade Organization ( WTO ) appeals panel Thursday ruled that although the United States can continue with its restrictions on internet gambling , some of the rules imposed by the country were discriminatory to foreign operators .	3683	country.n	195	Political_locales	MANUAL	6532919	187	193	JKR	country
+185	23578	2	24	0	4098868	A World Trade Organization ( WTO ) appeals panel Thursday ruled that although the United States can continue with its restrictions on internet gambling , some of the rules imposed by the country were discriminatory to foreign operators .	12180	foreign.a	1483	Foreign_or_domestic_country	MANUAL	6532920	218	224	JKR	foreign
+185	23578	2	24	0	4098868	A World Trade Organization ( WTO ) appeals panel Thursday ruled that although the United States can continue with its restrictions on internet gambling , some of the rules imposed by the country were discriminatory to foreign operators .	5435	continue.v	164	Activity_ongoing	MANUAL	6532923	100	107	JKR	continue
+185	23578	2	24	0	4098868	A World Trade Organization ( WTO ) appeals panel Thursday ruled that although the United States can continue with its restrictions on internet gambling , some of the rules imposed by the country were discriminatory to foreign operators .	10190	of.prep	1010	Partitive	MANUAL	6532925	159	160	JKR	of
+185	23578	3	24	0	4098869	QN : Does the United States have internet gambling restrictions ?	null	null	null	null	UNANN	6531610	null	null	null	null
+185	23578	1	25	0	4098870	ID:LCC-M-50 .	null	null	null	null	UNANN	6531611	null	null	null	null
+185	23578	2	25	0	4098871	Video games have provided one of the last refuges from the ubiquitous advertising that hits consumers from every direction .	null	null	null	null	UNANN	6531612	null	null	null	null
+185	23578	2	25	0	4098871	Video games have provided one of the last refuges from the ubiquitous advertising that hits consumers from every direction .	5626	hit.v	311	Impact	MANUAL	6532912	87	90	JKR	hits
+185	23578	3	25	0	4098872	QN : Do video games contain advertisements ?	null	null	null	null	UNANN	6531613	null	null	null	null
+185	23578	3	25	0	4098872	QN : Do video games contain advertisements ?	7296	contain.v	397	Containing	MANUAL	6532913	20	26	JKR	contain
+185	23578	1	26	0	4098873	ID:LCC-M-53 .	null	null	null	null	UNANN	6531614	null	null	null	null
+185	23578	2	26	0	4098874	Bocelli grew up among the vineyards and olive groves of his estate in Lajatico , a community in rural Tuscany near Pisa .	null	null	null	null	UNANN	6531615	null	null	null	null
+185	23578	2	26	0	4098874	Bocelli grew up among the vineyards and olive groves of his estate in Lajatico , a community in rural Tuscany near Pisa .	10200	rural.a	196	Locale_by_use	MANUAL	6532911	96	100	JKR	rural
+185	23578	3	26	0	4098875	QN : Does Bocelli have a home in Tuscany ?	null	null	null	null	UNANN	6531616	null	null	null	null
+185	23578	3	26	0	4098875	QN : Does Bocelli have a home in Tuscany ?	2378	have.v	118	Possession	MANUAL	6532909	18	21	JKR	have
+185	23578	3	26	0	4098875	QN : Does Bocelli have a home in Tuscany ?	3012	home.n	173	Buildings	MANUAL	6532910	25	28	JKR	home
+185	23578	1	27	0	4098876	ID:LCC-M-55 .	null	null	null	null	UNANN	6531617	null	null	null	null
+185	23578	2	27	0	4098877	Mike Campbell dented his car door in an accident on Friday .	null	null	null	null	UNANN	6531618	null	null	null	null
+185	23578	2	27	0	4098877	Mike Campbell dented his car door in an accident on Friday .	7599	dent.v	415	Damaging	MANUAL	6532906	14	19	JKR	dented
+185	23578	2	27	0	4098877	Mike Campbell dented his car door in an accident on Friday .	7808	car.n	429	Vehicle	MANUAL	6532907	25	27	JKR	car
+185	23578	3	27	0	4098878	QN : Does Mike 's car have a dent ?	null	null	null	null	UNANN	6531619	null	null	null	null
+185	23578	3	27	0	4098878	QN : Does Mike 's car have a dent ?	7808	car.n	429	Vehicle	MANUAL	6532908	18	20	JKR	car
+185	23578	1	28	0	4098879	ID:LCC-M-56 .	null	null	null	null	UNANN	6531620	null	null	null	null
+185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	null	null	null	null	UNANN	6531621	null	null	null	null
+185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	160	know.v	19	Awareness	MANUAL	6532898	16	19	JKR	know
+185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	2143	mother.n	104	Kinship	MANUAL	6532900	27	32	JKR	mother
+185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	924	die.v	53	Death	MANUAL	6532901	65	68	JKR	died
+185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	6412	want.v	366	Desiring	MANUAL	6532902	88	91	JKR	want
+185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	11949	find	20	Becoming_aware	MANUAL	6532903	96	99	JKR	find
+185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	4358	cancer.n	239	Medical_conditions	MANUAL	6532904	81	86	JKR	cancer
+185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	2156	sister.n	104	Kinship	MANUAL	6532905	4	10	JKR	sisters
+185	23578	3	28	0	4098881	QN : Did cancer cause their mother 's death ?	null	null	null	null	UNANN	6531622	null	null	null	null
+185	23578	3	28	0	4098881	QN : Did cancer cause their mother 's death ?	2	cause.v	5	Causation	MANUAL	6532894	16	20	JKR	cause
+185	23578	3	28	0	4098881	QN : Did cancer cause their mother 's death ?	922	death.n	53	Death	MANUAL	6532895	38	42	JKR	death
+185	23578	3	28	0	4098881	QN : Did cancer cause their mother 's death ?	2143	mother.n	104	Kinship	MANUAL	6532896	28	33	JKR	mother
+185	23578	3	28	0	4098881	QN : Did cancer cause their mother 's death ?	4358	cancer.n	239	Medical_conditions	UNANN	6532897	null	null	null	null
+185	23578	3	28	0	4098881	QN : Did cancer cause their mother 's death ?	4358	cancer.n	239	Medical_conditions	UNANN	6532897	9	14	JKR	cancer
+185	23578	1	29	0	4098882	ID:LCC-M-58 .	null	null	null	null	UNANN	6531623	null	null	null	null
+185	23578	2	29	0	4098883	Marc Vaughn did n't kill the four hostages with a gun , he used a knife .	null	null	null	null	UNANN	6531624	null	null	null	null
+185	23578	2	29	0	4098883	Marc Vaughn did n't kill the four hostages with a gun , he used a knife .	8630	kill.v	590	Killing	MANUAL	6532775	20	23	JKR	kill
+185	23578	2	29	0	4098883	Marc Vaughn did n't kill the four hostages with a gun , he used a knife .	10619	use.v	1141	Using	MANUAL	6532776	59	62	JKR	used
+185	23578	2	29	0	4098883	Marc Vaughn did n't kill the four hostages with a gun , he used a knife .	7779	gun.n	426	Weapon	MANUAL	6532777	50	52	JKR	gun
+185	23578	3	29	0	4098884	QN : Did Vaughn use a gun to kill the four hostages ?	null	null	null	null	UNANN	6531625	null	null	null	null
+185	23578	3	29	0	4098884	QN : Did Vaughn use a gun to kill the four hostages ?	10619	use.v	1141	Using	MANUAL	6532778	16	18	JKR	use
+185	23578	3	29	0	4098884	QN : Did Vaughn use a gun to kill the four hostages ?	8630	kill.v	590	Killing	MANUAL	6532779	29	32	JKR	kill
+185	23578	3	29	0	4098884	QN : Did Vaughn use a gun to kill the four hostages ?	7779	gun.n	426	Weapon	MANUAL	6532780	22	24	JKR	gun
+185	23578	1	30	0	4098885	ID:LCC-M-60 .	null	null	null	null	UNANN	6531626	null	null	null	null
+185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	null	null	null	null	UNANN	6531627	null	null	null	null
+185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	10625	official.n	73	Leadership	MANUAL	6532766	29	37	JKR	officials
+185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	3013	hospital.n	173	Buildings	MANUAL	6532767	69	76	JKR	hospital
+185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	4746	construction.n	259	Building	MANUAL	6532768	94	105	JKR	construction
+185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	12214	operate.v	1495	Operating_a_system	MANUAL	6532769	111	119	JKR	operating
+185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	9191	cost.n	83	Expensiveness	MANUAL	6532770	121	125	JKR	costs
+185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	12566	new.a	1597	Familiarity	MANUAL	6532774	65	67	JKR	new
+185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	10584	chinese.a	1103	Origin	MANUAL	6533169	21	27	RLG	Chinese
+185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	4	make.v	5	Causation	MANUAL	6533186	39	42	MJE	made
+185	23578	3	30	0	4098887	QN : Did officials from China make land available for a new hospital ?	null	null	null	null	UNANN	6531628	null	null	null	null
+185	23578	3	30	0	4098887	QN : Did officials from China make land available for a new hospital ?	10625	official.n	73	Leadership	MANUAL	6532771	9	17	JKR	officials
+185	23578	3	30	0	4098887	QN : Did officials from China make land available for a new hospital ?	3013	hospital.n	173	Buildings	MANUAL	6532772	60	67	JKR	hospital
+185	23578	3	30	0	4098887	QN : Did officials from China make land available for a new hospital ?	12566	new.a	1597	Familiarity	MANUAL	6532773	56	58	JKR	new

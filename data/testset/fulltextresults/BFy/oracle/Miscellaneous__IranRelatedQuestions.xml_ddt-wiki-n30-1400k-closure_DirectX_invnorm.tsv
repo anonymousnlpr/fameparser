@@ -1,0 +1,16 @@
+filename	Miscellaneous__IranRelatedQuestions.xml
+docAnnotations	1632
+docManual	1178
+docUnannotated	454
+sentences	354
+paragraphs	189
+Overlapping	1094
+Disambiguated	857
+TP	645
+TN	454
+FP	0
+FN	321
+P	1.0
+R	0.6677018633540373
+F	0.8007448789571694
+A	0.773943661971831

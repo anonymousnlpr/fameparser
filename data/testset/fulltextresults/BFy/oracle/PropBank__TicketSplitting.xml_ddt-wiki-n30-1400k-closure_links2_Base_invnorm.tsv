@@ -1,0 +1,1764 @@
+SILVER:115	23012	1	1	0	2824375	Tuesday 's rout of a GOP congressional hopeful in a Mississippi district that has n't backed a Democratic presidential candidate since Adlai Stevenson is another reminder that , at least at the federal level , political `` ticket splitting '' has been on the rise over the past half century .	10234	federal.a	195	Political_locales	MANUAL	4529495	194	200	CHg	federal
+LINKED:[33	33	194	200	bn:00102873a		http://babelnet.org/rdf/s00102873a	0.84210527	0.21052632	0.019777503	BABELFY]
+RANK:=== COUNTER  Counter 9726 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	1	0	2824375	Tuesday 's rout of a GOP congressional hopeful in a Mississippi district that has n't backed a Democratic presidential candidate since Adlai Stevenson is another reminder that , at least at the federal level , political `` ticket splitting '' has been on the rise over the past half century .	10901	reminder.n	1012	Evoking	MANUAL	4530272	162	169	MiL	reminder
+LINKED:[26	26	162	169	bn:00067074n		http://babelnet.org/rdf/s00067074n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9727 ===
+	Evoking: 5.0
+
+SELECTED:[Evoking]
+MATCH!
+SILVER:115	23012	1	1	0	2824375	Tuesday 's rout of a GOP congressional hopeful in a Mississippi district that has n't backed a Democratic presidential candidate since Adlai Stevenson is another reminder that , at least at the federal level , political `` ticket splitting '' has been on the rise over the past half century .	64	split.v	15	Separating	MANUAL	4530273	230	238	MiL	splitting
+LINKED:[39	39	230	238	bn:00084611v		http://babelnet.org/rdf/s00084611v	1.0	0.10526316	0.0049443757	BABELFY]
+RANK:=== COUNTER  Counter 9728 ===
+	Quitting_a_place: 18.0
+	Separating: 9.0
+	Becoming_separated: 0.007142857142857143
+
+SELECTED:[Separating]
+MATCH!
+SILVER:115	23012	1	1	0	2824375	Tuesday 's rout of a GOP congressional hopeful in a Mississippi district that has n't backed a Democratic presidential candidate since Adlai Stevenson is another reminder that , at least at the federal level , political `` ticket splitting '' has been on the rise over the past half century .	1875	rise.n	91	Change_position_on_a_scale	MANUAL	4530274	259	262	MiL	rise
+LINKED:[44	44	259	262	bn:00067923n		http://babelnet.org/rdf/s00067923n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9729 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	1	0	2824375	Tuesday 's rout of a GOP congressional hopeful in a Mississippi district that has n't backed a Democratic presidential candidate since Adlai Stevenson is another reminder that , at least at the federal level , political `` ticket splitting '' has been on the rise over the past half century .	12433	presidential.a	73	Leadership	MANUAL	4530364	106	117	JKR	presidential
+LINKED:[19	19	106	117	bn:00108985a		http://babelnet.org/rdf/s00108985a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9730 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	1	1	0	2824375	Tuesday 's rout of a GOP congressional hopeful in a Mississippi district that has n't backed a Democratic presidential candidate since Adlai Stevenson is another reminder that , at least at the federal level , political `` ticket splitting '' has been on the rise over the past half century .	15137	rout.v	2074	Beat_opponent	MANUAL	4530913	11	14	CFB	rout
+LINKED:[2	2	11	14	bn:00055408n		http://babelnet.org/rdf/s00055408n	1.0	0.05263158	0.0012360939	BABELFY]
+RANK:=== COUNTER  Counter 9731 ===
+	Aggregate: 0.18214285714285713
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	1	0	2824375	Tuesday 's rout of a GOP congressional hopeful in a Mississippi district that has n't backed a Democratic presidential candidate since Adlai Stevenson is another reminder that , at least at the federal level , political `` ticket splitting '' has been on the rise over the past half century .	14551	district.n	195	Political_locales	MANUAL	4530916	64	71	CFB	district
+LINKED:[11	11	64	71	bn:00027810n	http://dbpedia.org/resource/District	http://babelnet.org/rdf/s00027810n	0.8	0.21052632	0.02472188	BABELFY]
+RANK:=== COUNTER  Counter 9732 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	1	0	2824375	Tuesday 's rout of a GOP congressional hopeful in a Mississippi district that has n't backed a Democratic presidential candidate since Adlai Stevenson is another reminder that , at least at the federal level , political `` ticket splitting '' has been on the rise over the past half century .	13868	past.a	81	Relative_time	MANUAL	4530979	273	276	AnW	past
+LINKED:[47	47	273	276	bn:00108320a		http://babelnet.org/rdf/s00108320a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9733 ===
+	Relative_time: 0.1523809523809524
+
+SELECTED:[Relative_time]
+MATCH!
+SILVER:115	23012	1	1	0	2824375	Tuesday 's rout of a GOP congressional hopeful in a Mississippi district that has n't backed a Democratic presidential candidate since Adlai Stevenson is another reminder that , at least at the federal level , political `` ticket splitting '' has been on the rise over the past half century .	14795	century.n	229	Calendric_unit	MANUAL	4531019	283	289	AnW	century
+LINKED:[49	49	283	289	bn:00223392n	http://dbpedia.org/resource/The_Century_Magazine	http://babelnet.org/rdf/s00223392n	0.8	0.10526316	0.0049443757	BABELFY]
+RANK:=== COUNTER  Counter 9734 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	1	0	2824376	In only one presidential election year prior to 1948 did more than 20 % of the nation 's congressional districts choose a different party 's candidate for the White House than for the House of Representatives .	1758	prior.a	81	Relative_time	MANUAL	4529500	39	43	CHg	prior
+LINKED:[6	6	39	43	bn:13689934r		http://babelnet.org/rdf/s13689934r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9735 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	1	0	2824376	In only one presidential election year prior to 1948 did more than 20 % of the nation 's congressional districts choose a different party 's candidate for the White House than for the House of Representatives .	6270	choose.v	352	Choosing	MANUAL	4529502	113	118	CHg	choose
+LINKED:[20	20	113	118	bn:00084931v		http://babelnet.org/rdf/s00084931v	0.8888889	0.1	0.0014622555	BABELFY]
+RANK:=== COUNTER  Counter 9736 ===
+	Choosing: 0.021052631578947368
+
+SELECTED:[Choosing]
+MATCH!
+SILVER:115	23012	2	1	0	2824376	In only one presidential election year prior to 1948 did more than 20 % of the nation 's congressional districts choose a different party 's candidate for the White House than for the House of Representatives .	10294	different.a	1029	Identicality	MANUAL	4529503	122	130	CHg	different
+LINKED:[22	22	122	130	bn:00101350a		http://babelnet.org/rdf/s00101350a	1.0	0.1	7.3112774E-4	BABELFY]
+RANK:=== COUNTER  Counter 9737 ===
+	Similarity: 0.26
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	1	0	2824376	In only one presidential election year prior to 1948 did more than 20 % of the nation 's congressional districts choose a different party 's candidate for the White House than for the House of Representatives .	10900	election.n	72	Change_of_leadership	MANUAL	4530072	25	32	JKR	election
+LINKED:[4	4	25	32	bn:00030113n	http://dbpedia.org/resource/Election	http://babelnet.org/rdf/s00030113n	0.9001996	0.55	0.082434654	BABELFY]
+RANK:=== COUNTER  Counter 9738 ===
+	Change_of_leadership: 22.0
+
+SELECTED:[Change_of_leadership]
+MATCH!
+SILVER:115	23012	2	1	0	2824376	In only one presidential election year prior to 1948 did more than 20 % of the nation 's congressional districts choose a different party 's candidate for the White House than for the House of Representatives .	2124	party.n	103	Aggregate	MANUAL	4530340	132	136	Pam	party
+LINKED:[23	23	132	136	bn:00060834n	http://dbpedia.org/resource/Political_party	http://babelnet.org/rdf/s00060834n	0.888	0.6	0.08115518	BABELFY]
+RANK:=== COUNTER  Counter 9739 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	1	0	2824376	In only one presidential election year prior to 1948 did more than 20 % of the nation 's congressional districts choose a different party 's candidate for the White House than for the House of Representatives .	12433	presidential.a	73	Leadership	MANUAL	4530363	12	23	JKR	presidential
+LINKED:[3	3	12	23	bn:00108985a		http://babelnet.org/rdf/s00108985a	0.85714287	0.1	0.0010966917	BABELFY]
+RANK:=== COUNTER  Counter 9740 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	2	1	0	2824376	In only one presidential election year prior to 1948 did more than 20 % of the nation 's congressional districts choose a different party 's candidate for the White House than for the House of Representatives .	4074	year.n	229	Calendric_unit	MANUAL	4530999	34	37	AnW	year
+LINKED:[5	5	34	37	bn:00081857n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00081857n	0.72	0.3	0.0065801498	BABELFY]
+RANK:=== COUNTER  Counter 9741 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	1	0	2824376	In only one presidential election year prior to 1948 did more than 20 % of the nation 's congressional districts choose a different party 's candidate for the White House than for the House of Representatives .	12775	nation.n	195	Political_locales	MANUAL	4531000	79	84	AnW	nation
+LINKED:[16	16	79	84	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.7908497	0.8	0.35386583	BABELFY]
+RANK:=== COUNTER  Counter 9742 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	2	1	0	2824376	In only one presidential election year prior to 1948 did more than 20 % of the nation 's congressional districts choose a different party 's candidate for the White House than for the House of Representatives .	14551	district.n	195	Political_locales	MANUAL	4531001	103	111	AnW	districts
+LINKED:[19	19	103	111	bn:00027810n	http://dbpedia.org/resource/District	http://babelnet.org/rdf/s00027810n	0.8596491	0.35	0.01791263	BABELFY]
+RANK:=== COUNTER  Counter 9743 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	3	1	0	2824377	Now that percentage routinely equals a third and twice has been above 40 % .	6121	equal.v	353	Evaluative_comparison	MANUAL	4529507	30	35	CHg	equals
+LINKED:[4	4	30	35	bn:00083186v		http://babelnet.org/rdf/s00083186v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9744 ===
+	Identicality: 5.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	3	1	0	2824377	Now that percentage routinely equals a third and twice has been above 40 % .	15402	twice.adv	2140	Event_instance	MANUAL	4531003	49	53	AnW	twice
+LINKED:[8	8	49	53	bn:00117358r		http://babelnet.org/rdf/s00117358r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9745 ===
+	Event_instance: 5.0
+
+SELECTED:[Event_instance]
+MATCH!
+SILVER:115	23012	1	2	0	2824378	As we know , voters tend to favor Republicans more in races for president than in those for Congress .	160	know.v	19	Awareness	MANUAL	4529510	6	9	CHg	know
+LINKED:[2	2	6	9	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9746 ===
+	Awareness: 22.0
+	Certainty: 0.03428571428571429
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:115	23012	1	2	0	2824378	As we know , voters tend to favor Republicans more in races for president than in those for Congress .	2659	tend.v	114	Likelihood	MANUAL	4529511	20	23	CHg	tend
+LINKED:[5	5	20	23	bn:00083202v		http://babelnet.org/rdf/s00083202v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9747 ===
+	Likelihood: 19.0
+
+SELECTED:[Likelihood]
+MATCH!
+SILVER:115	23012	1	2	0	2824378	As we know , voters tend to favor Republicans more in races for president than in those for Congress .	6102	favor.v	349	Partiality	MANUAL	4529512	28	32	CHg	favor
+LINKED:[7	7	28	32	bn:00088060v		http://babelnet.org/rdf/s00088060v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9748 ===
+	Partiality: 11.0
+	Preference: 2.0
+
+SELECTED:[Partiality]
+MATCH!
+SILVER:115	23012	1	2	0	2824378	As we know , voters tend to favor Republicans more in races for president than in those for Congress .	1599	president	73	Leadership	MANUAL	4529513	64	72	CHg	president
+LINKED:[13	13	64	72	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9749 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	2	0	2824379	In every presidential election over the past half century , except for the Goldwater presidential candidacy , the GOP has captured a greater percentage of the major-party popular vote for president than it has of congressional seats or the popular vote for Congress .	10900	election.n	72	Change_of_leadership	MANUAL	4530073	22	29	JKR	election
+LINKED:[3	3	22	29	bn:00030113n	http://dbpedia.org/resource/Election	http://babelnet.org/rdf/s00030113n	0.89361703	0.5263158	0.10299166	BABELFY]
+RANK:=== COUNTER  Counter 9750 ===
+	Change_of_leadership: 22.0
+
+SELECTED:[Change_of_leadership]
+MATCH!
+SILVER:115	23012	2	2	0	2824379	In every presidential election over the past half century , except for the Goldwater presidential candidacy , the GOP has captured a greater percentage of the major-party popular vote for president than it has of congressional seats or the popular vote for Congress .	12433	presidential.a	73	Leadership	MANUAL	4530582	85	96	RLG	presidential
+LINKED:[14	14	85	96	bn:00108985a		http://babelnet.org/rdf/s00108985a	0.71428573	0.05263158	0.0012260912	BABELFY]
+RANK:=== COUNTER  Counter 9751 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	2	2	0	2824379	In every presidential election over the past half century , except for the Goldwater presidential candidacy , the GOP has captured a greater percentage of the major-party popular vote for president than it has of congressional seats or the popular vote for Congress .	12433	presidential.a	73	Leadership	MANUAL	4530953	9	20	AnW	presidential
+LINKED:[2	2	9	20	bn:00108985a		http://babelnet.org/rdf/s00108985a	0.71428573	0.05263158	0.0012260912	BABELFY]
+RANK:=== COUNTER  Counter 9752 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	2	2	0	2824379	In every presidential election over the past half century , except for the Goldwater presidential candidacy , the GOP has captured a greater percentage of the major-party popular vote for president than it has of congressional seats or the popular vote for Congress .	13868	past.a	81	Relative_time	MANUAL	4531017	40	43	AnW	past
+LINKED:[6	6	40	43	bn:00108320a		http://babelnet.org/rdf/s00108320a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9753 ===
+	Relative_time: 0.1523809523809524
+
+SELECTED:[Relative_time]
+MATCH!
+SILVER:115	23012	2	2	0	2824379	In every presidential election over the past half century , except for the Goldwater presidential candidacy , the GOP has captured a greater percentage of the major-party popular vote for president than it has of congressional seats or the popular vote for Congress .	14795	century.n	229	Calendric_unit	MANUAL	4531018	50	56	AnW	century
+LINKED:[8	8	50	56	bn:00017234n	http://dbpedia.org/resource/Century	http://babelnet.org/rdf/s00017234n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9754 ===
+	Measure_duration: 13.0
+	Calendric_unit: 0.10588235294117647
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:115	23012	2	2	0	2824379	In every presidential election over the past half century , except for the Goldwater presidential candidacy , the GOP has captured a greater percentage of the major-party popular vote for president than it has of congressional seats or the popular vote for Congress .	14805	capture.v	2021	Conquering	MANUAL	4531020	122	129	AnW	captured
+LINKED:[20	20	122	129	bn:00083288v		http://babelnet.org/rdf/s00083288v	1.0	0.10526316	0.001961746	BABELFY]
+RANK:=== COUNTER  Counter 9755 ===
+	Experiencer_obj: 86.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	2	0	2824379	In every presidential election over the past half century , except for the Goldwater presidential candidacy , the GOP has captured a greater percentage of the major-party popular vote for president than it has of congressional seats or the popular vote for Congress .	1599	president	73	Leadership	MANUAL	4531021	188	196	AnW	president
+LINKED:[30	30	188	196	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9756 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	3	2	0	2824380	Prior to 1932 , the pattern was nearly the opposite .	10664	prior.adv	379	Time_vector	MANUAL	4529516	0	4	MJE	Prior
+LINKED:[0	0	0	4	bn:00064460n	http://dbpedia.org/resource/Prior	http://babelnet.org/rdf/s00064460n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9757 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	3	2	0	2824380	Prior to 1932 , the pattern was nearly the opposite .	15335	pattern.n	2133	Pattern	MANUAL	4531022	20	26	AnW	pattern
+LINKED:[5	5	20	26	bn:00026537n	http://dbpedia.org/resource/Pattern	http://babelnet.org/rdf/s00026537n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9758 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	3	0	2824381	What accounts for the results of recent decades ?	4081	decade.n	229	Calendric_unit	MANUAL	4530111	40	46	MiL	decades
+LINKED:[7	7	40	46	bn:00025646n	http://dbpedia.org/resource/Decade	http://babelnet.org/rdf/s00025646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9759 ===
+	Measure_duration: 13.0
+	Calendric_unit: 0.23478260869565218
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:115	23012	1	3	0	2824381	What accounts for the results of recent decades ?	12140	account.v	1462	Explaining_the_facts	MANUAL	4530565	5	12	RLG	accounts
+LINKED:[1	1	5	12	bn:00082231v		http://babelnet.org/rdf/s00082231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9760 ===
+	Explaining_the_facts: 3.0
+
+SELECTED:[Explaining_the_facts]
+MATCH!
+SILVER:115	23012	1	3	0	2824381	What accounts for the results of recent decades ?	14552	result.n	5	Causation	MANUAL	4531023	22	28	AnW	results
+LINKED:[4	4	22	28	bn:00004452n		http://babelnet.org/rdf/s00004452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9761 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	3	0	2824381	What accounts for the results of recent decades ?	13771	recent.a	81	Relative_time	MANUAL	4531024	33	38	AnW	recent
+LINKED:[6	6	33	38	bn:00109521a		http://babelnet.org/rdf/s00109521a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9762 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	3	0	2824382	A simple economic theory may provide at least a partial explanation for the split personality displayed by Americans in the voting booth .	6213	explanation.n	43	Statement	MANUAL	4529520	56	66	CHg	explanation
+LINKED:[10	10	56	66	bn:00000741n	http://dbpedia.org/resource/Explanation	http://babelnet.org/rdf/s00000741n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9763 ===
+	Statement: 64.0
+	Explaining_the_facts: 3.0
+
+SELECTED:[Statement]
+MATCH!
+SILVER:115	23012	2	3	0	2824382	A simple economic theory may provide at least a partial explanation for the split personality displayed by Americans in the voting booth .	10095	American	974	People_by_origin	MANUAL	4529521	107	115	CHg	Americans
+LINKED:[17	17	107	115	bn:00003343n	http://dbpedia.org/resource/Americans	http://babelnet.org/rdf/s00003343n	1.0	0.22222222	0.07594936	BABELFY]
+RANK:=== COUNTER  Counter 9764 ===
+	People_by_origin: 15.0
+
+SELECTED:[People_by_origin]
+MATCH!
+SILVER:115	23012	2	3	0	2824382	A simple economic theory may provide at least a partial explanation for the split personality displayed by Americans in the voting booth .	12490	economic.a	1572	Economy	MANUAL	4530608	9	16	RLG	economic
+LINKED:[2	2	9	16	bn:00102002a		http://babelnet.org/rdf/s00102002a	1.0	0.22222222	0.050632913	BABELFY]
+RANK:=== COUNTER  Counter 9765 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	3	0	2824382	A simple economic theory may provide at least a partial explanation for the split personality displayed by Americans in the voting booth .	11673	provide.v	1346	Supply	MANUAL	4531419	29	35	AlK	provide
+LINKED:[5	5	29	35	bn:00088643v		http://babelnet.org/rdf/s00088643v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9766 ===
+	Supply: 9.0
+
+SELECTED:[Supply]
+MATCH!
+SILVER:115	23012	2	3	0	2824382	A simple economic theory may provide at least a partial explanation for the split personality displayed by Americans in the voting booth .	13703	split.v	1863	Becoming_separated	MANUAL	4531439	76	80	AlK	split
+LINKED:[13	13	76	80	bn:00101477a		http://babelnet.org/rdf/s00101477a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9767 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	3	3	0	2824383	The theory relies on three assumptions :	9940	rely.v	901	Reliance	MANUAL	4530275	11	16	MiL	relies
+LINKED:[2	2	11	16	bn:00083095v		http://babelnet.org/rdf/s00083095v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9768 ===
+	Reliance: 5.0
+	Certainty: 0.02608695652173913
+	Trust: 0.01956521739130435
+
+SELECTED:[Reliance]
+MATCH!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	2966	buy.v	171	Commerce_buy	MANUAL	4529524	18	20	CHg	buy
+LINKED:[5	5	18	20	bn:00084334v		http://babelnet.org/rdf/s00084334v	0.72727275	0.125	0.00655124	BABELFY]
+RANK:=== COUNTER  Counter 9769 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	6269	select.v	352	Choosing	MANUAL	4529529	53	58	CHg	select
+LINKED:[12	12	53	58	bn:00084931v		http://babelnet.org/rdf/s00084931v	1.0	0.0625	9.358914E-4	BABELFY]
+RANK:=== COUNTER  Counter 9770 ===
+	Choosing: 0.021052631578947368
+
+SELECTED:[Choosing]
+MATCH!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	2645	brand.n	128	Type	MANUAL	4529530	36	41	CHg	brands
+LINKED:[9	9	36	41	bn:00012758n	http://dbpedia.org/resource/Brand	http://babelnet.org/rdf/s00012758n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9771 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	2645	brand.n	128	Type	MANUAL	4529531	99	103	CHg	brand
+LINKED:[19	19	99	103	bn:00012758n	http://dbpedia.org/resource/Brand	http://babelnet.org/rdf/s00012758n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9772 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	150	believe.v	19	Awareness	MANUAL	4529532	110	117	CHg	believes
+LINKED:[21	21	110	117	bn:00083369v		http://babelnet.org/rdf/s00083369v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9773 ===
+	Certainty: 0.046153846153846156
+	Trust: 0.03461538461538462
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	2645	brand.n	128	Type	MANUAL	4529533	232	236	CHg	brand
+LINKED:[43	43	232	236	bn:00012758n	http://dbpedia.org/resource/Brand	http://babelnet.org/rdf/s00012758n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9774 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	150	believe.v	19	Awareness	MANUAL	4529534	243	250	CHg	believes
+LINKED:[45	45	243	250	bn:00083369v		http://babelnet.org/rdf/s00083369v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9775 ===
+	Certainty: 0.046153846153846156
+	Trust: 0.03461538461538462
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	8988	interest.n	46	Emotion_directed	MANUAL	4530179	356	363	RLG	interest
+LINKED:[63	63	356	363	bn:00047077n		http://babelnet.org/rdf/s00047077n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9776 ===
+	Emotion_directed: 68.0
+	Mental_stimulus_exp_focus: 0.008333333333333333
+
+SELECTED:[Emotion_directed]
+MATCH!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	10611	action.n	198	Intentionally_act	MANUAL	4530394	206	211	RLG	action
+LINKED:[38	38	206	211	bn:00001127n		http://babelnet.org/rdf/s00001127n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9777 ===
+	Intentionally_act: 0.15
+
+SELECTED:[Intentionally_act]
+MATCH!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	12182	government.n	73	Leadership	MANUAL	4531027	259	268	AnW	government
+LINKED:[48	48	259	268	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9778 ===
+	Leadership: 73.0
+	Law: 8.0
+	Organization: 0.022222222222222223
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	13778	pursuit.n	1480	Seeking_to_achieve	MANUAL	4531028	337	343	AnW	pursuit
+LINKED:[60	60	337	343	bn:00007481n	http://dbpedia.org/resource/Hobby	http://babelnet.org/rdf/s00007481n	0.8181818	0.09375	0.0010528779	BABELFY]
+RANK:=== COUNTER  Counter 9779 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	14688	agent.n	1071	People_by_vocation	MANUAL	4531457	76	81	AlK	agents
+LINKED:[15	15	76	81	bn:00001972n		http://babelnet.org/rdf/s00001972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9780 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	14873	remedy.v	50	Cure	MANUAL	4531462	300	305	AlK	remedy
+LINKED:[54	54	300	305	bn:00082576v		http://babelnet.org/rdf/s00082576v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9781 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	4	0	2824384	1 ) Voters can `` buy '' one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .	16331	state.n	73	Leadership	MANUAL	6563329	137	141	MLC	state
+LINKED:[25	25	137	141	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.7612436	0.8125	0.29503977	BABELFY]
+RANK:=== COUNTER  Counter 9782 ===
+	Political_locales: 32.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	5	0	2824385	2 ) Congressional representatives have two basic responsibilities while voting in office -- dealing with national issues ( programmatic actions such as casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large ) and attending to local issues ( constituency service and pork barrel ) .	7120	responsibility.n	392	Being_obligated	MANUAL	4529536	49	64	CHg	responsibilities
+LINKED:[7	7	49	64	bn:00029239n	http://dbpedia.org/resource/Obligation	http://babelnet.org/rdf/s00029239n	0.96	0.33333334	0.0804829	BABELFY]
+RANK:=== COUNTER  Counter 9783 ===
+	Being_obligated: 8.0
+
+SELECTED:[Being_obligated]
+MATCH!
+SILVER:115	23012	1	5	0	2824385	2 ) Congressional representatives have two basic responsibilities while voting in office -- dealing with national issues ( programmatic actions such as casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large ) and attending to local issues ( constituency service and pork barrel ) .	10243	national.a	195	Political_locales	MANUAL	4529537	105	112	CHg	national
+LINKED:[15	15	105	112	bn:00107136a		http://babelnet.org/rdf/s00107136a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9784 ===
+	Political_locales: 32.0
+	Origin: 4.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	5	0	2824385	2 ) Congressional representatives have two basic responsibilities while voting in office -- dealing with national issues ( programmatic actions such as casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large ) and attending to local issues ( constituency service and pork barrel ) .	2926	population.n	103	Aggregate	MANUAL	4529539	241	250	CHg	population
+LINKED:[36	36	241	250	bn:00063596n	http://dbpedia.org/resource/Population	http://babelnet.org/rdf/s00063596n	0.8433735	0.23333333	0.04694836	BABELFY]
+RANK:=== COUNTER  Counter 9785 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	5	0	2824385	2 ) Congressional representatives have two basic responsibilities while voting in office -- dealing with national issues ( programmatic actions such as casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large ) and attending to local issues ( constituency service and pork barrel ) .	9727	attend.v	791	Attention	MANUAL	4529540	267	275	CHg	attending
+LINKED:[41	41	267	275	bn:00082907v		http://babelnet.org/rdf/s00082907v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9786 ===
+	Attention: 11.0
+	Attending: 2.0
+	Perception_active: 0.1
+
+SELECTED:[Attention]
+MATCH!
+SILVER:115	23012	1	5	0	2824385	2 ) Congressional representatives have two basic responsibilities while voting in office -- dealing with national issues ( programmatic actions such as casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large ) and attending to local issues ( constituency service and pork barrel ) .	10239	local.a	195	Political_locales	MANUAL	4529541	280	284	CHg	local
+LINKED:[43	43	280	284	bn:00106108a		http://babelnet.org/rdf/s00106108a	0.75	0.033333335	0.0020120724	BABELFY]
+RANK:=== COUNTER  Counter 9787 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	5	0	2824385	2 ) Congressional representatives have two basic responsibilities while voting in office -- dealing with national issues ( programmatic actions such as casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large ) and attending to local issues ( constituency service and pork barrel ) .	12630	issue.n	1608	Point_of_dispute	MANUAL	4530592	114	119	RLG	issues
+LINKED:[16	16	114	119	bn:00047688n		http://babelnet.org/rdf/s00047688n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9788 ===
+	Point_of_dispute: 3.0
+
+SELECTED:[Point_of_dispute]
+MATCH!
+SILVER:115	23012	1	5	0	2824385	2 ) Congressional representatives have two basic responsibilities while voting in office -- dealing with national issues ( programmatic actions such as casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large ) and attending to local issues ( constituency service and pork barrel ) .	12630	issue.n	1608	Point_of_dispute	MANUAL	4530593	286	291	RLG	issues
+LINKED:[44	44	286	291	bn:00047688n		http://babelnet.org/rdf/s00047688n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9789 ===
+	Point_of_dispute: 3.0
+
+SELECTED:[Point_of_dispute]
+MATCH!
+SILVER:115	23012	1	5	0	2824385	2 ) Congressional representatives have two basic responsibilities while voting in office -- dealing with national issues ( programmatic actions such as casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large ) and attending to local issues ( constituency service and pork barrel ) .	14724	representative.n	73	Leadership	MANUAL	4531390	18	32	AlK	representatives
+LINKED:[3	3	18	32	bn:00067199n		http://babelnet.org/rdf/s00067199n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9790 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	5	0	2824385	2 ) Congressional representatives have two basic responsibilities while voting in office -- dealing with national issues ( programmatic actions such as casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large ) and attending to local issues ( constituency service and pork barrel ) .	12318	deal.v	1523	Resolve_problem	MANUAL	4531464	92	98	AlK	dealing
+LINKED:[13	13	92	98	bn:00082339v		http://babelnet.org/rdf/s00082339v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9791 ===
+	Topic: 6.0
+	Speak_on_topic: 0.04516129032258064
+	Resolve_problem: 0.025806451612903226
+
+SELECTED:[Resolve_problem]
+MATCH!
+SILVER:115	23012	1	5	0	2824385	2 ) Congressional representatives have two basic responsibilities while voting in office -- dealing with national issues ( programmatic actions such as casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large ) and attending to local issues ( constituency service and pork barrel ) .	12616	service.n	1605	Public_services	MANUAL	4531465	308	314	AlK	service
+LINKED:[47	47	308	314	bn:00070651n	http://dbpedia.org/resource/Service_(economics)	http://babelnet.org/rdf/s00070651n	0.95454544	0.2	0.056338027	BABELFY]
+RANK:=== COUNTER  Counter 9792 ===
+	Public_services: 0.00909090909090909
+
+SELECTED:[Public_services]
+MATCH!
+SILVER:115	23012	1	6	0	2824386	3 ) Republican congressional representatives , because of their belief in a minimalist state , are less willing to engage in local benefit-seeking than are Democratic members of Congress .	10239	local.a	195	Political_locales	MANUAL	4529544	125	129	CHg	local
+LINKED:[21	21	125	129	bn:00106108a		http://babelnet.org/rdf/s00106108a	0.9375	0.23076923	0.007614213	BABELFY]
+RANK:=== COUNTER  Counter 9793 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	6	0	2824386	3 ) Republican congressional representatives , because of their belief in a minimalist state , are less willing to engage in local benefit-seeking than are Democratic members of Congress .	10279	member.n	1026	Membership	MANUAL	4529545	167	173	CHg	members
+LINKED:[26	26	167	173	bn:00034004n		http://babelnet.org/rdf/s00034004n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9794 ===
+	Membership: 0.025925925925925925
+
+SELECTED:[Membership]
+MATCH!
+SILVER:115	23012	1	6	0	2824386	3 ) Republican congressional representatives , because of their belief in a minimalist state , are less willing to engage in local benefit-seeking than are Democratic members of Congress .	12777	engage.v	198	Intentionally_act	MANUAL	4530698	115	120	KmG	engage
+LINKED:[19	19	115	120	bn:00087628v		http://babelnet.org/rdf/s00087628v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9795 ===
+	Intentionally_act: 0.13636363636363635
+
+SELECTED:[Intentionally_act]
+MATCH!
+SILVER:115	23012	1	6	0	2824386	3 ) Republican congressional representatives , because of their belief in a minimalist state , are less willing to engage in local benefit-seeking than are Democratic members of Congress .	14724	representative.n	73	Leadership	MANUAL	4531391	29	43	AlK	representatives
+LINKED:[4	4	29	43	bn:00067199n		http://babelnet.org/rdf/s00067199n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9796 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	6	0	2824386	3 ) Republican congressional representatives , because of their belief in a minimalist state , are less willing to engage in local benefit-seeking than are Democratic members of Congress .	11960	belief.n	1412	Opinion	MANUAL	4531467	64	69	AlK	belief
+LINKED:[9	9	64	69	bn:00032768n	http://dbpedia.org/resource/Faith	http://babelnet.org/rdf/s00032768n	0.90909094	0.61538464	0.08121827	BABELFY]
+RANK:=== COUNTER  Counter 9797 ===
+	Religious_belief: 15.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	6	0	2824386	3 ) Republican congressional representatives , because of their belief in a minimalist state , are less willing to engage in local benefit-seeking than are Democratic members of Congress .	16331	state.n	73	Leadership	MANUAL	6563326	87	91	MLC	state
+LINKED:[13	13	87	91	bn:00064914n	http://dbpedia.org/resource/Province	http://babelnet.org/rdf/s00064914n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9798 ===
+	Political_locales: 32.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	7	0	2824387	If these assumptions hold , voters in races for Congress face what in economic theory is called a prisoner 's dilemma and have an incentive , at the margin , to lean Democratic .	12490	economic.a	1572	Economy	MANUAL	4530609	70	77	RLG	economic
+LINKED:[13	13	70	77	bn:00102001a		http://babelnet.org/rdf/s00102001a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9799 ===
+	Economy: 2.0
+
+SELECTED:[Economy]
+MATCH!
+SILVER:115	23012	1	7	0	2824387	If these assumptions hold , voters in races for Congress face what in economic theory is called a prisoner 's dilemma and have an incentive , at the margin , to lean Democratic .	11210	call.v	1253	Referring_by_name	MANUAL	4530611	89	94	RLG	called
+LINKED:[16	16	89	94	bn:00084385v		http://babelnet.org/rdf/s00084385v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9800 ===
+	Referring_by_name: 5.0
+	Name_conferral: 5.0
+	Claim_ownership: 4.0
+	Simple_naming: 2.0
+	Being_named: 0.11176470588235295
+	Labeling: 0.029411764705882353
+
+SELECTED:[Referring_by_name]
+MATCH!
+SILVER:115	23012	1	7	0	2824387	If these assumptions hold , voters in races for Congress face what in economic theory is called a prisoner 's dilemma and have an incentive , at the margin , to lean Democratic .	14979	face.v	2054	Confronting_problem	MANUAL	4531468	57	60	AlK	face
+LINKED:[10	10	57	60	bn:00085596v		http://babelnet.org/rdf/s00085596v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9801 ===
+	Confronting_problem: 0.010526315789473684
+
+SELECTED:[Confronting_problem]
+MATCH!
+SILVER:115	23012	2	7	0	2824388	If they put a Republican into office , not only will they acquire less in terms of local benefits but their selected legislator will be relatively powerless to prevent other legislators from `` bringing home the bacon '' to their respective constituencies .	7500	acquire.v	179	Getting	MANUAL	4529549	58	64	CHg	acquire
+LINKED:[12	12	58	64	bn:00082276v		http://babelnet.org/rdf/s00082276v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9802 ===
+	Getting: 7.0
+
+SELECTED:[Getting]
+MATCH!
+SILVER:115	23012	2	7	0	2824388	If they put a Republican into office , not only will they acquire less in terms of local benefits but their selected legislator will be relatively powerless to prevent other legislators from `` bringing home the bacon '' to their respective constituencies .	7819	in	430	Domain	MANUAL	4529550	74	78	EGp	terms
+LINKED:[15	15	74	78	bn:00025083n	http://dbpedia.org/resource/Price	http://babelnet.org/rdf/s00025083n	1.0	0.25	0.07531381	BABELFY]
+RANK:=== COUNTER  Counter 9803 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	7	0	2824388	If they put a Republican into office , not only will they acquire less in terms of local benefits but their selected legislator will be relatively powerless to prevent other legislators from `` bringing home the bacon '' to their respective constituencies .	8087	prevent.v	516	Preventing_or_letting	MANUAL	4529551	160	166	CHg	prevent
+LINKED:[28	28	160	166	bn:00088454v		http://babelnet.org/rdf/s00088454v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9804 ===
+	Preventing: 10.0
+	Thwarting: 7.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	7	0	2824388	If they put a Republican into office , not only will they acquire less in terms of local benefits but their selected legislator will be relatively powerless to prevent other legislators from `` bringing home the bacon '' to their respective constituencies .	9920	bring.v	240	Bringing	MANUAL	4529553	194	201	CHg	bringing
+LINKED:[33	33	194	201	bn:00084058v		http://babelnet.org/rdf/s00084058v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9805 ===
+	Bringing: 24.0
+
+SELECTED:[Bringing]
+MATCH!
+SILVER:115	23012	2	7	0	2824388	If they put a Republican into office , not only will they acquire less in terms of local benefits but their selected legislator will be relatively powerless to prevent other legislators from `` bringing home the bacon '' to their respective constituencies .	6269	select.v	352	Choosing	MANUAL	4530278	108	115	MiL	selected
+LINKED:[21	21	108	115	bn:00084931v		http://babelnet.org/rdf/s00084931v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9806 ===
+	Choosing: 0.021052631578947368
+
+SELECTED:[Choosing]
+MATCH!
+SILVER:115	23012	2	7	0	2824388	If they put a Republican into office , not only will they acquire less in terms of local benefits but their selected legislator will be relatively powerless to prevent other legislators from `` bringing home the bacon '' to their respective constituencies .	14820	legislator.n	73	Leadership	MANUAL	4531377	174	184	AlK	legislators
+LINKED:[30	30	174	184	bn:00050591n		http://babelnet.org/rdf/s00050591n	0.7058824	0.33333334	0.10041841	BABELFY]
+RANK:=== COUNTER  Counter 9807 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	2	7	0	2824388	If they put a Republican into office , not only will they acquire less in terms of local benefits but their selected legislator will be relatively powerless to prevent other legislators from `` bringing home the bacon '' to their respective constituencies .	14820	legislator.n	73	Leadership	MANUAL	4531384	117	126	AlK	legislator
+LINKED:[22	22	117	126	bn:00050591n		http://babelnet.org/rdf/s00050591n	0.7058824	0.33333334	0.10041841	BABELFY]
+RANK:=== COUNTER  Counter 9808 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	3	7	0	2824389	Each legislator , after all , is only one out of 535 when it comes to national policy making .	10243	national.a	195	Political_locales	MANUAL	4529556	70	77	CHg	national
+LINKED:[16	16	70	77	bn:00107136a		http://babelnet.org/rdf/s00107136a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9809 ===
+	Political_locales: 32.0
+	Origin: 4.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	3	7	0	2824389	Each legislator , after all , is only one out of 535 when it comes to national policy making .	14353	policy.n	950	Law	MANUAL	4531371	79	84	AlK	policy
+LINKED:[17	17	79	84	bn:00063329n		http://babelnet.org/rdf/s00063329n	0.8	0.5	0.17391305	BABELFY]
+RANK:=== COUNTER  Counter 9810 ===
+	Law: 8.0
+
+SELECTED:[Law]
+MATCH!
+SILVER:115	23012	3	7	0	2824389	Each legislator , after all , is only one out of 535 when it comes to national policy making .	14820	legislator.n	73	Leadership	MANUAL	4531385	5	14	AlK	legislator
+LINKED:[1	1	5	14	bn:00050591n		http://babelnet.org/rdf/s00050591n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9811 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	2	8	0	2824391	Although a GOP president may limit local benefits to the voter 's particular district/state , such a president is also likely to be more effective at preventing other districts/states and their legislators from bringing home the local benefits .	1599	president	73	Leadership	MANUAL	4529557	15	23	CHg	president
+LINKED:[3	3	15	23	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9812 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	8	0	2824391	Although a GOP president may limit local benefits to the voter 's particular district/state , such a president is also likely to be more effective at preventing other districts/states and their legislators from bringing home the local benefits .	10239	local.a	195	Political_locales	MANUAL	4529559	35	39	CHg	local
+LINKED:[6	6	35	39	bn:00106108a		http://babelnet.org/rdf/s00106108a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9813 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	2	8	0	2824391	Although a GOP president may limit local benefits to the voter 's particular district/state , such a president is also likely to be more effective at preventing other districts/states and their legislators from bringing home the local benefits .	1599	president	73	Leadership	MANUAL	4529560	101	109	CHg	president
+LINKED:[17	17	101	109	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9814 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	8	0	2824391	Although a GOP president may limit local benefits to the voter 's particular district/state , such a president is also likely to be more effective at preventing other districts/states and their legislators from bringing home the local benefits .	2278	likely.a	114	Likelihood	MANUAL	4529561	119	124	CHg	likely
+LINKED:[20	20	119	124	bn:00105981a		http://babelnet.org/rdf/s00105981a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9815 ===
+	Likelihood: 19.0
+
+SELECTED:[Likelihood]
+MATCH!
+SILVER:115	23012	2	8	0	2824391	Although a GOP president may limit local benefits to the voter 's particular district/state , such a president is also likely to be more effective at preventing other districts/states and their legislators from bringing home the local benefits .	9194	effective.a	726	Usefulness	MANUAL	4529562	137	145	CHg	effective
+LINKED:[24	24	137	145	bn:00102038a		http://babelnet.org/rdf/s00102038a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9816 ===
+	Usefulness: 9.0
+
+SELECTED:[Usefulness]
+MATCH!
+SILVER:115	23012	2	8	0	2824391	Although a GOP president may limit local benefits to the voter 's particular district/state , such a president is also likely to be more effective at preventing other districts/states and their legislators from bringing home the local benefits .	8087	prevent.v	516	Preventing_or_letting	MANUAL	4529563	150	159	CHg	preventing
+LINKED:[26	26	150	159	bn:00088454v		http://babelnet.org/rdf/s00088454v	1.0	0.07692308	0.0012180269	BABELFY]
+RANK:=== COUNTER  Counter 9817 ===
+	Preventing: 10.0
+	Thwarting: 7.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	8	0	2824391	Although a GOP president may limit local benefits to the voter 's particular district/state , such a president is also likely to be more effective at preventing other districts/states and their legislators from bringing home the local benefits .	9920	bring.v	240	Bringing	MANUAL	4529565	211	218	CHg	bringing
+LINKED:[33	33	211	218	bn:00084058v		http://babelnet.org/rdf/s00084058v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9818 ===
+	Bringing: 24.0
+
+SELECTED:[Bringing]
+MATCH!
+SILVER:115	23012	2	8	0	2824391	Although a GOP president may limit local benefits to the voter 's particular district/state , such a president is also likely to be more effective at preventing other districts/states and their legislators from bringing home the local benefits .	10239	local.a	195	Political_locales	MANUAL	4529566	229	233	CHg	local
+LINKED:[36	36	229	233	bn:00106108a		http://babelnet.org/rdf/s00106108a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9819 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	2	8	0	2824391	Although a GOP president may limit local benefits to the voter 's particular district/state , such a president is also likely to be more effective at preventing other districts/states and their legislators from bringing home the local benefits .	14820	legislator.n	73	Leadership	MANUAL	4531379	194	204	AlK	legislators
+LINKED:[31	31	194	204	bn:00050281n	http://dbpedia.org/resource/Legislator	http://babelnet.org/rdf/s00050281n	0.9230769	0.15384616	0.014616322	BABELFY]
+RANK:=== COUNTER  Counter 9820 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	3	8	0	2824392	The individual voter 's standing consequently will be enhanced through lower taxes .	1981	low.a	95	Position_on_a_scale	MANUAL	4529567	71	75	CHg	lower
+LINKED:[10	10	71	75	bn:13759554a		http://babelnet.org/rdf/s13759554a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9821 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	9	0	2824393	While this theory is exceedingly simple , it appears to explain several things .	1321	appear.v	67	Give_impression	MANUAL	4529568	45	51	CHg	appears
+LINKED:[8	8	45	51	bn:00082691v		http://babelnet.org/rdf/s00082691v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9822 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	9	0	2824393	While this theory is exceedingly simple , it appears to explain several things .	720	explain.v	43	Statement	MANUAL	4530414	56	62	RLG	explain
+LINKED:[10	10	56	62	bn:00087870v		http://babelnet.org/rdf/s00087870v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9823 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	9	0	2824394	First , why ticket splitting has increased and taken the peculiar pattern that it has over the past half century : Prior to the election of Franklin Roosevelt as president and the advent of the New Deal , government occupied a much smaller role in society and the prisoner 's dilemma problem confronting voters in races for Congress was considerably less severe .	1870	increase.v	91	Change_position_on_a_scale	MANUAL	4529570	33	41	CHg	increased
+LINKED:[6	6	33	41	bn:00089667v		http://babelnet.org/rdf/s00089667v	1.0	0.033333335	2.7987684E-4	BABELFY]
+RANK:=== COUNTER  Counter 9824 ===
+	Cause_change_of_position_on_a_scale: 19.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	9	0	2824394	First , why ticket splitting has increased and taken the peculiar pattern that it has over the past half century : Prior to the election of Franklin Roosevelt as president and the advent of the New Deal , government occupied a much smaller role in society and the prisoner 's dilemma problem confronting voters in races for Congress was considerably less severe .	10664	prior.adv	379	Time_vector	MANUAL	4529572	115	119	CHg	Prior
+LINKED:[21	21	115	119	bn:01312051n	http://dbpedia.org/resource/Ori_(Stargate)	http://babelnet.org/rdf/s01312051n	0.9	0.1	0.0025188916	BABELFY]
+RANK:=== COUNTER  Counter 9825 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	9	0	2824394	First , why ticket splitting has increased and taken the peculiar pattern that it has over the past half century : Prior to the election of Franklin Roosevelt as president and the advent of the New Deal , government occupied a much smaller role in society and the prisoner 's dilemma problem confronting voters in races for Congress was considerably less severe .	1599	president	73	Leadership	MANUAL	4529573	162	170	CHg	president
+LINKED:[29	29	162	170	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9826 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	9	0	2824394	First , why ticket splitting has increased and taken the peculiar pattern that it has over the past half century : Prior to the election of Franklin Roosevelt as president and the advent of the New Deal , government occupied a much smaller role in society and the prisoner 's dilemma problem confronting voters in races for Congress was considerably less severe .	7356	problem.n	300	Predicament	MANUAL	4529574	284	290	CHg	problem
+LINKED:[51	51	284	290	bn:00048242n	http://dbpedia.org/resource/Problem	http://babelnet.org/rdf/s00048242n	0.90909094	0.13333334	0.005597537	BABELFY]
+RANK:=== COUNTER  Counter 9827 ===
+	Predicament: 7.0
+
+SELECTED:[Predicament]
+MATCH!
+SILVER:115	23012	2	9	0	2824394	First , why ticket splitting has increased and taken the peculiar pattern that it has over the past half century : Prior to the election of Franklin Roosevelt as president and the advent of the New Deal , government occupied a much smaller role in society and the prisoner 's dilemma problem confronting voters in races for Congress was considerably less severe .	10900	election.n	72	Change_of_leadership	MANUAL	4530075	128	135	JKR	election
+LINKED:[24	24	128	135	bn:00030113n	http://dbpedia.org/resource/Election	http://babelnet.org/rdf/s00030113n	0.9166667	0.36666667	0.08928072	BABELFY]
+RANK:=== COUNTER  Counter 9828 ===
+	Change_of_leadership: 22.0
+
+SELECTED:[Change_of_leadership]
+MATCH!
+SILVER:115	23012	2	9	0	2824394	First , why ticket splitting has increased and taken the peculiar pattern that it has over the past half century : Prior to the election of Franklin Roosevelt as president and the advent of the New Deal , government occupied a much smaller role in society and the prisoner 's dilemma problem confronting voters in races for Congress was considerably less severe .	64	split.v	15	Separating	MANUAL	4530281	19	27	MiL	splitting
+LINKED:[4	4	19	27	bn:00084611v		http://babelnet.org/rdf/s00084611v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9829 ===
+	Quitting_a_place: 18.0
+	Separating: 9.0
+	Becoming_separated: 0.007142857142857143
+
+SELECTED:[Separating]
+MATCH!
+SILVER:115	23012	2	9	0	2824394	First , why ticket splitting has increased and taken the peculiar pattern that it has over the past half century : Prior to the election of Franklin Roosevelt as president and the advent of the New Deal , government occupied a much smaller role in society and the prisoner 's dilemma problem confronting voters in races for Congress was considerably less severe .	15335	pattern.n	2133	Pattern	MANUAL	4531398	66	72	AlK	pattern
+LINKED:[11	11	66	72	bn:00035908n	http://dbpedia.org/resource/Pattern_(architecture)	http://babelnet.org/rdf/s00035908n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9830 ===
+	Pattern: 2.0
+
+SELECTED:[Pattern]
+MATCH!
+SILVER:115	23012	2	9	0	2824394	First , why ticket splitting has increased and taken the peculiar pattern that it has over the past half century : Prior to the election of Franklin Roosevelt as president and the advent of the New Deal , government occupied a much smaller role in society and the prisoner 's dilemma problem confronting voters in races for Congress was considerably less severe .	13868	past.a	81	Relative_time	MANUAL	4531474	95	98	AlK	past
+LINKED:[17	17	95	98	bn:00108321a		http://babelnet.org/rdf/s00108321a	1.0	0.033333335	2.7987684E-4	BABELFY]
+RANK:=== COUNTER  Counter 9831 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	9	0	2824394	First , why ticket splitting has increased and taken the peculiar pattern that it has over the past half century : Prior to the election of Franklin Roosevelt as president and the advent of the New Deal , government occupied a much smaller role in society and the prisoner 's dilemma problem confronting voters in races for Congress was considerably less severe .	14795	century.n	229	Calendric_unit	MANUAL	4531476	105	111	AlK	century
+LINKED:[19	19	105	111	bn:16201757n	http://dbpedia.org/resource/Century_(novel)	http://babelnet.org/rdf/s16201757n	1.0	0.06666667	0.0011195074	BABELFY]
+RANK:=== COUNTER  Counter 9832 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	10	0	2824395	Second , it explains why voters hold Congress in disdain but generally love their own congressional representatives : Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency .	880	love.v	48	Experiencer_focus	MANUAL	4529738	71	74	CHg	love
+LINKED:[12	12	71	74	bn:00090504v		http://babelnet.org/rdf/s00090504v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9833 ===
+	Experiencer_focus: 0.235
+
+SELECTED:[Experiencer_focus]
+MATCH!
+SILVER:115	23012	1	10	0	2824395	Second , it explains why voters hold Congress in disdain but generally love their own congressional representatives : Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency .	285	appreciate.v	28	Judgment	MANUAL	4529739	160	169	CHg	appreciate
+LINKED:[23	23	160	169	bn:00082722v		http://babelnet.org/rdf/s00082722v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9834 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	10	0	2824395	Second , it explains why voters hold Congress in disdain but generally love their own congressional representatives : Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency .	11706	associated.a	720	Cognitive_connection	MANUAL	4530182	252	261	RLG	associated
+LINKED:[38	38	252	261	bn:00082317v		http://babelnet.org/rdf/s00082317v	0.8	0.083333336	0.0065789474	BABELFY]
+RANK:=== COUNTER  Counter 9835 ===
+	Cause_change_of_position_on_a_scale: 19.0
+	Cause_to_be_included: 2.0
+	Commutative_process: 0.007272727272727273
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	10	0	2824395	Second , it explains why voters hold Congress in disdain but generally love their own congressional representatives : Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency .	329	disdain.n	28	Judgment	MANUAL	4530277	49	55	MiL	disdain
+LINKED:[9	9	49	55	bn:00022146n	http://dbpedia.org/resource/Contempt	http://babelnet.org/rdf/s00022146n	1.0	0.041666668	8.223684E-4	BABELFY]
+RANK:=== COUNTER  Counter 9836 ===
+	Judgment: 34.0
+
+SELECTED:[Judgment]
+MATCH!
+SILVER:115	23012	1	10	0	2824395	Second , it explains why voters hold Congress in disdain but generally love their own congressional representatives : Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency .	9191	cost.n	83	Expensiveness	MANUAL	4530282	247	250	MiL	cost
+LINKED:[37	37	247	250	bn:00025083n	http://dbpedia.org/resource/Price	http://babelnet.org/rdf/s00025083n	0.85714287	0.125	0.014802632	BABELFY]
+RANK:=== COUNTER  Counter 9837 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	10	0	2824395	Second , it explains why voters hold Congress in disdain but generally love their own congressional representatives : Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency .	15119	win.v	2072	Win_prize	MANUAL	4530922	213	216	AlK	wins
+LINKED:[30	30	213	216	bn:00082399v		http://babelnet.org/rdf/s00082399v	1.0	0.041666668	8.223684E-4	BABELFY]
+RANK:=== COUNTER  Counter 9838 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	10	0	2824395	Second , it explains why voters hold Congress in disdain but generally love their own congressional representatives : Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency .	14820	legislator.n	73	Leadership	MANUAL	4531386	133	142	AlK	legislator
+LINKED:[20	20	133	142	bn:00050591n		http://babelnet.org/rdf/s00050591n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9839 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	1	10	0	2824395	Second , it explains why voters hold Congress in disdain but generally love their own congressional representatives : Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency .	14820	legislator.n	73	Leadership	MANUAL	4531387	202	211	AlK	legislator
+LINKED:[29	29	202	211	bn:00050591n		http://babelnet.org/rdf/s00050591n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9840 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	1	10	0	2824395	Second , it explains why voters hold Congress in disdain but generally love their own congressional representatives : Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency .	14724	representative.n	73	Leadership	MANUAL	4531392	100	114	AlK	representatives
+LINKED:[16	16	100	114	bn:00021852n	http://dbpedia.org/resource/Member_of_Congress	http://babelnet.org/rdf/s00021852n	0.8227848	0.20833333	0.05345395	BABELFY]
+RANK:=== COUNTER  Counter 9841 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	1	10	0	2824395	Second , it explains why voters hold Congress in disdain but generally love their own congressional representatives : Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency .	12139	explain.v	1462	Explaining_the_facts	MANUAL	4531479	12	19	AlK	explains
+LINKED:[3	3	12	19	bn:00087870v		http://babelnet.org/rdf/s00087870v	1.0	0.041666668	8.223684E-4	BABELFY]
+RANK:=== COUNTER  Counter 9842 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	11	0	2824396	Third , the theory suggests why legislators who pay too much attention to national policy making relative to local benefit-seeking have lower security in office .	9728	attention.n	791	Attention	MANUAL	4529752	61	69	CHg	attention
+LINKED:[11	11	61	69	bn:00007020n	http://dbpedia.org/resource/Attention	http://babelnet.org/rdf/s00007020n	1.0	0.1	0.009009009	BABELFY]
+RANK:=== COUNTER  Counter 9843 ===
+	Attention: 11.0
+
+SELECTED:[Attention]
+MATCH!
+SILVER:115	23012	1	11	0	2824396	Third , the theory suggests why legislators who pay too much attention to national policy making relative to local benefit-seeking have lower security in office .	10243	national.a	195	Political_locales	MANUAL	4529753	74	81	CHg	national
+LINKED:[13	13	74	81	bn:00107136a		http://babelnet.org/rdf/s00107136a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9844 ===
+	Political_locales: 32.0
+	Origin: 4.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	11	0	2824396	Third , the theory suggests why legislators who pay too much attention to national policy making relative to local benefit-seeking have lower security in office .	10239	local.a	195	Political_locales	MANUAL	4529754	109	113	CHg	local
+LINKED:[18	18	109	113	bn:00106108a		http://babelnet.org/rdf/s00106108a	1.0	0.1	0.027027028	BABELFY]
+RANK:=== COUNTER  Counter 9845 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	11	0	2824396	Third , the theory suggests why legislators who pay too much attention to national policy making relative to local benefit-seeking have lower security in office .	11414	suggest.v	25	Evidence	MANUAL	4530183	19	26	RLG	suggests
+LINKED:[4	4	19	26	bn:00082417v		http://babelnet.org/rdf/s00082417v	1.0	0.1	0.009009009	BABELFY]
+RANK:=== COUNTER  Counter 9846 ===
+	Statement: 64.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	11	0	2824396	Third , the theory suggests why legislators who pay too much attention to national policy making relative to local benefit-seeking have lower security in office .	14353	policy.n	950	Law	MANUAL	4531372	83	88	AlK	policy
+LINKED:[14	14	83	88	bn:00063329n		http://babelnet.org/rdf/s00063329n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9847 ===
+	Law: 8.0
+
+SELECTED:[Law]
+MATCH!
+SILVER:115	23012	1	11	0	2824396	Third , the theory suggests why legislators who pay too much attention to national policy making relative to local benefit-seeking have lower security in office .	14820	legislator.n	73	Leadership	MANUAL	4531380	32	42	AlK	legislators
+LINKED:[6	6	32	42	bn:00050591n		http://babelnet.org/rdf/s00050591n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9848 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	1	11	0	2824396	Third , the theory suggests why legislators who pay too much attention to national policy making relative to local benefit-seeking have lower security in office .	1981	low.a	95	Position_on_a_scale	MANUAL	4531399	136	140	AlK	lower
+LINKED:[21	21	136	140	bn:13759554a		http://babelnet.org/rdf/s13759554a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9849 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	11	0	2824396	Third , the theory suggests why legislators who pay too much attention to national policy making relative to local benefit-seeking have lower security in office .	12443	security.n	1560	Being_at_risk	MANUAL	4531481	142	149	AlK	security
+LINKED:[22	22	142	149	bn:00017368n	http://dbpedia.org/resource/Security_(finance)	http://babelnet.org/rdf/s00017368n	0.8181818	0.3	0.24324325	BABELFY]
+RANK:=== COUNTER  Counter 9850 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	11	0	2824397	For example , first-term members of the House , once the most vulnerable of incumbents , have become virtually immune to defeat .	10279	member.n	1026	Membership	MANUAL	4529755	25	31	CHg	members
+LINKED:[4	4	25	31	bn:00034004n		http://babelnet.org/rdf/s00034004n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9851 ===
+	Membership: 0.025925925925925925
+
+SELECTED:[Membership]
+MATCH!
+SILVER:115	23012	2	11	0	2824397	For example , first-term members of the House , once the most vulnerable of incumbents , have become virtually immune to defeat .	13391	vulnerable.a	1560	Being_at_risk	MANUAL	4531411	62	71	AlK	vulnerable
+LINKED:[12	12	62	71	bn:00113677a		http://babelnet.org/rdf/s00113677a	0.75	0.33333334	0.16666667	BABELFY]
+RANK:=== COUNTER  Counter 9852 ===
+	Being_at_risk: 9.0
+
+SELECTED:[Being_at_risk]
+MATCH!
+SILVER:115	23012	2	11	0	2824397	For example , first-term members of the House , once the most vulnerable of incumbents , have become virtually immune to defeat .	15128	defeat.n	2074	Beat_opponent	MANUAL	4531484	121	126	AlK	defeat
+LINKED:[21	21	121	126	bn:00086448v		http://babelnet.org/rdf/s00086448v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9853 ===
+	Beat_opponent: 0.04285714285714286
+
+SELECTED:[Beat_opponent]
+MATCH!
+SILVER:115	23012	3	11	0	2824398	The one exception to this recent trend was the defeat of 13 of the 52 freshman Republicans brought into office in 1980 by the Reagan revolution and running for re-election in 1982 .	9920	bring.v	240	Bringing	MANUAL	4530395	91	97	RLG	brought
+LINKED:[17	17	91	97	bn:00082319v		http://babelnet.org/rdf/s00082319v	1.0	0.125	0.0065789474	BABELFY]
+RANK:=== COUNTER  Counter 9854 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	3	11	0	2824398	The one exception to this recent trend was the defeat of 13 of the 52 freshman Republicans brought into office in 1980 by the Reagan revolution and running for re-election in 1982 .	15128	defeat.n	2074	Beat_opponent	MANUAL	4530919	47	52	AlK	defeat
+LINKED:[9	9	47	52	bn:00025855n		http://babelnet.org/rdf/s00025855n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9855 ===
+	Beat_opponent: 0.0375
+
+SELECTED:[Beat_opponent]
+MATCH!
+SILVER:115	23012	3	11	0	2824398	The one exception to this recent trend was the defeat of 13 of the 52 freshman Republicans brought into office in 1980 by the Reagan revolution and running for re-election in 1982 .	13771	recent.a	81	Relative_time	MANUAL	4531486	26	31	AlK	recent
+LINKED:[5	5	26	31	bn:00109521a		http://babelnet.org/rdf/s00109521a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9856 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	4	11	0	2824399	Because these freshmen placed far more emphasis on their partisan role -- spreading the Reagan revolution -- in national policy making , they were more vulnerable to defeat .	10243	national.a	195	Political_locales	MANUAL	4529769	112	119	CHg	national
+LINKED:[18	18	112	119	bn:00107137a		http://babelnet.org/rdf/s00107137a	1.0	0.06666667	0.02173913	BABELFY]
+RANK:=== COUNTER  Counter 9857 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	4	11	0	2824399	Because these freshmen placed far more emphasis on their partisan role -- spreading the Reagan revolution -- in national policy making , they were more vulnerable to defeat .	15128	defeat.n	2074	Beat_opponent	MANUAL	4530921	166	171	AlK	defeat
+LINKED:[27	27	166	171	bn:00086448v		http://babelnet.org/rdf/s00086448v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9858 ===
+	Beat_opponent: 0.04285714285714286
+
+SELECTED:[Beat_opponent]
+MATCH!
+SILVER:115	23012	4	11	0	2824399	Because these freshmen placed far more emphasis on their partisan role -- spreading the Reagan revolution -- in national policy making , they were more vulnerable to defeat .	14353	policy.n	950	Law	MANUAL	4531373	121	126	AlK	policy
+LINKED:[19	19	121	126	bn:00063329n		http://babelnet.org/rdf/s00063329n	0.8	0.13333334	0.08695652	BABELFY]
+RANK:=== COUNTER  Counter 9859 ===
+	Law: 8.0
+
+SELECTED:[Law]
+MATCH!
+SILVER:115	23012	4	11	0	2824399	Because these freshmen placed far more emphasis on their partisan role -- spreading the Reagan revolution -- in national policy making , they were more vulnerable to defeat .	13391	vulnerable.a	1560	Being_at_risk	MANUAL	4531413	152	161	AlK	vulnerable
+LINKED:[25	25	152	161	bn:00113677a		http://babelnet.org/rdf/s00113677a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9860 ===
+	Being_at_risk: 9.0
+
+SELECTED:[Being_at_risk]
+MATCH!
+SILVER:115	23012	4	11	0	2824399	Because these freshmen placed far more emphasis on their partisan role -- spreading the Reagan revolution -- in national policy making , they were more vulnerable to defeat .	12413	emphasis.n	1542	Emphasizing	MANUAL	4531487	39	46	AlK	emphasis
+LINKED:[6	6	39	46	bn:00000641n	http://dbpedia.org/resource/Stress_(linguistics)	http://babelnet.org/rdf/s00000641n	1.0	0.06666667	0.02173913	BABELFY]
+RANK:=== COUNTER  Counter 9861 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	12	0	2824400	Fourth , the theory indicates why the Republican Party may have a difficult time attracting viable candidates for congressional office .	6567	difficult.a	375	Difficulty	MANUAL	4529772	66	74	CHg	difficult
+LINKED:[12	12	66	74	bn:00101358a		http://babelnet.org/rdf/s00101358a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9862 ===
+	Difficulty: 0.015217391304347827
+
+SELECTED:[Difficulty]
+MATCH!
+SILVER:115	23012	1	12	0	2824400	Fourth , the theory indicates why the Republican Party may have a difficult time attracting viable candidates for congressional office .	11448	indicate.v	25	Evidence	MANUAL	4530283	20	28	MiL	indicates
+LINKED:[4	4	20	28	bn:00082756v		http://babelnet.org/rdf/s00082756v	0.8	0.2	0.007843138	BABELFY]
+RANK:=== COUNTER  Counter 9863 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	12	0	2824400	Fourth , the theory indicates why the Republican Party may have a difficult time attracting viable candidates for congressional office .	11252	fourth.a	1147	Ordinal_numbers	MANUAL	4531545	0	5	AlK	Fourth
+LINKED:[0	0	0	5	bn:00068672n	http://dbpedia.org/resource/Second	http://babelnet.org/rdf/s00068672n	1.0	0.1	0.01372549	BABELFY]
+RANK:=== COUNTER  Counter 9864 ===
+	Measure_duration: 13.0
+	Calendric_unit: 0.09
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	12	0	2824401	Potential candidates may be discouraged from running less by the congressional salary than by the prospect of defeat at the hands of a Democratic opponent .	18512	discourage.v	1083	Subjective_influence	MANUAL	4530185	28	38	RLG	discouraged
+LINKED:[4	4	28	38	bn:00086709v		http://babelnet.org/rdf/s00086709v	1.0	0.22222222	0.026845638	BABELFY]
+RANK:=== COUNTER  Counter 9865 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	12	0	2824401	Potential candidates may be discouraged from running less by the congressional salary than by the prospect of defeat at the hands of a Democratic opponent .	15128	defeat.n	2074	Beat_opponent	MANUAL	4530920	110	115	AlK	defeat
+LINKED:[17	17	110	115	bn:00025855n		http://babelnet.org/rdf/s00025855n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9866 ===
+	Beat_opponent: 0.0375
+
+SELECTED:[Beat_opponent]
+MATCH!
+SILVER:115	23012	2	12	0	2824401	Potential candidates may be discouraged from running less by the congressional salary than by the prospect of defeat at the hands of a Democratic opponent .	14723	potential.a	990	Capability	MANUAL	4531417	0	8	AlK	Potential
+LINKED:[0	0	0	8	bn:00063864n		http://babelnet.org/rdf/s00063864n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9867 ===
+	Capability: 8.0
+
+SELECTED:[Capability]
+MATCH!
+SILVER:115	23012	2	12	0	2824401	Potential candidates may be discouraged from running less by the congressional salary than by the prospect of defeat at the hands of a Democratic opponent .	2409	hand.n	119	Body_parts	MANUAL	4531437	124	128	AlK	hands
+LINKED:[20	20	124	128	bn:00042833n	http://dbpedia.org/resource/Human_resources	http://babelnet.org/rdf/s00042833n	1.0	0.33333334	0.1409396	BABELFY]
+RANK:=== COUNTER  Counter 9868 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	12	0	2824401	Potential candidates may be discouraged from running less by the congressional salary than by the prospect of defeat at the hands of a Democratic opponent .	13140	opponent.n	1306	Taking_sides	MANUAL	4531511	146	153	AlK	opponent
+LINKED:[24	24	146	153	bn:00001582n		http://babelnet.org/rdf/s00001582n	1.0	0.11111111	0.0067114094	BABELFY]
+RANK:=== COUNTER  Counter 9869 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	3	12	0	2824402	To the extent that potential Republican candidates and their financial backers realize that the congressional prisoner 's dilemma game works to their disadvantage , the Republican Party will be hindered in its attempts to field a competitive slate of congressional candidates .	232	realize.v	23	Coming_to_believe	MANUAL	4529775	79	85	CHg	realize
+LINKED:[11	11	79	85	bn:00082311v		http://babelnet.org/rdf/s00082311v	1.0	0.04347826	0.0013149244	BABELFY]
+RANK:=== COUNTER  Counter 9870 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	3	12	0	2824402	To the extent that potential Republican candidates and their financial backers realize that the congressional prisoner 's dilemma game works to their disadvantage , the Republican Party will be hindered in its attempts to field a competitive slate of congressional candidates .	7920	hinder.v	480	Hindering	MANUAL	4529777	194	201	CHg	hindered
+LINKED:[29	29	194	201	bn:00089161v		http://babelnet.org/rdf/s00089161v	1.0	0.13043478	0.007889546	BABELFY]
+RANK:=== COUNTER  Counter 9871 ===
+	Hindering: 15.0
+
+SELECTED:[Hindering]
+MATCH!
+SILVER:115	23012	3	12	0	2824402	To the extent that potential Republican candidates and their financial backers realize that the congressional prisoner 's dilemma game works to their disadvantage , the Republican Party will be hindered in its attempts to field a competitive slate of congressional candidates .	2301	attempt.n	116	Attempt	MANUAL	4529780	210	217	CHg	attempts
+LINKED:[32	32	210	217	bn:00007011n		http://babelnet.org/rdf/s00007011n	1.0	0.08695652	0.002629849	BABELFY]
+RANK:=== COUNTER  Counter 9872 ===
+	Attempt: 7.0
+	Seeking_to_achieve: 0.008333333333333333
+
+SELECTED:[Attempt]
+MATCH!
+SILVER:115	23012	3	12	0	2824402	To the extent that potential Republican candidates and their financial backers realize that the congressional prisoner 's dilemma game works to their disadvantage , the Republican Party will be hindered in its attempts to field a competitive slate of congressional candidates .	14723	potential.a	990	Capability	MANUAL	4531418	19	27	AlK	potential
+LINKED:[4	4	19	27	bn:00108830a		http://babelnet.org/rdf/s00108830a	1.0	0.04347826	0.0013149244	BABELFY]
+RANK:=== COUNTER  Counter 9873 ===
+	Capability: 8.0
+
+SELECTED:[Capability]
+MATCH!
+SILVER:115	23012	1	13	0	2824403	Fifth , the theory may provide at least a partial reason for why ticket splitting has been particularly pronounced in the South .	8054	reason.n	514	Reason	MANUAL	4530186	50	55	RLG	reason
+LINKED:[10	10	50	55	bn:00041881n		http://babelnet.org/rdf/s00041881n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9874 ===
+	Reason: 0.03636363636363636
+
+SELECTED:[Reason]
+MATCH!
+SILVER:115	23012	1	13	0	2824403	Fifth , the theory may provide at least a partial reason for why ticket splitting has been particularly pronounced in the South .	11673	provide.v	1346	Supply	MANUAL	4531421	23	29	AlK	provide
+LINKED:[5	5	23	29	bn:00088643v		http://babelnet.org/rdf/s00088643v	1.0	0.2	0.03846154	BABELFY]
+RANK:=== COUNTER  Counter 9875 ===
+	Supply: 9.0
+
+SELECTED:[Supply]
+MATCH!
+SILVER:115	23012	1	13	0	2824403	Fifth , the theory may provide at least a partial reason for why ticket splitting has been particularly pronounced in the South .	64	split.v	15	Separating	MANUAL	4531441	72	80	AlK	splitting
+LINKED:[14	14	72	80	bn:00084611v		http://babelnet.org/rdf/s00084611v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9876 ===
+	Quitting_a_place: 18.0
+	Separating: 9.0
+	Becoming_separated: 0.007142857142857143
+
+SELECTED:[Separating]
+MATCH!
+SILVER:115	23012	1	13	0	2824403	Fifth , the theory may provide at least a partial reason for why ticket splitting has been particularly pronounced in the South .	11253	fifth.a	1147	Ordinal_numbers	MANUAL	4531546	0	4	AlK	Fifth
+LINKED:[0	0	0	4	bn:00034351n	http://dbpedia.org/resource/Fifth_(unit)	http://babelnet.org/rdf/s00034351n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9877 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	13	0	2824404	To the extent that Democratic legislators from the South have held a disproportionate share of power in Congress since 1932 and have been able to translate such clout into relatively more local benefits for their respective constituencies , voters in the South have had an especially strong incentive to keep such Democrats in office .	10154	able.a	990	Capability	MANUAL	4529884	138	141	CHg	able
+LINKED:[23	23	138	141	bn:00096151a		http://babelnet.org/rdf/s00096151a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9878 ===
+	Expertise: 33.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	13	0	2824404	To the extent that Democratic legislators from the South have held a disproportionate share of power in Congress since 1932 and have been able to translate such clout into relatively more local benefits for their respective constituencies , voters in the South have had an especially strong incentive to keep such Democrats in office .	10239	local.a	195	Political_locales	MANUAL	4529893	188	192	CHg	local
+LINKED:[31	31	188	192	bn:00106108a		http://babelnet.org/rdf/s00106108a	1.0	0.083333336	0.001772264	BABELFY]
+RANK:=== COUNTER  Counter 9879 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	2	13	0	2824404	To the extent that Democratic legislators from the South have held a disproportionate share of power in Congress since 1932 and have been able to translate such clout into relatively more local benefits for their respective constituencies , voters in the South have had an especially strong incentive to keep such Democrats in office .	10380	keep.v	1060	Cause_to_continue	MANUAL	4530081	304	307	CHg	keep
+LINKED:[49	49	304	307	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9880 ===
+	Activity_ongoing: 7.0
+	Cause_to_continue: 1.0
+
+SELECTED:[Cause_to_continue]
+MATCH!
+SILVER:115	23012	2	13	0	2824404	To the extent that Democratic legislators from the South have held a disproportionate share of power in Congress since 1932 and have been able to translate such clout into relatively more local benefits for their respective constituencies , voters in the South have had an especially strong incentive to keep such Democrats in office .	14820	legislator.n	73	Leadership	MANUAL	4531381	30	40	AlK	legislators
+LINKED:[5	5	30	40	bn:00050591n		http://babelnet.org/rdf/s00050591n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9881 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	2	13	0	2824404	To the extent that Democratic legislators from the South have held a disproportionate share of power in Congress since 1932 and have been able to translate such clout into relatively more local benefits for their respective constituencies , voters in the South have had an especially strong incentive to keep such Democrats in office .	12473	strong.a	1563	Level_of_force_exertion	MANUAL	4531500	284	289	AlK	strong
+LINKED:[46	46	284	289	bn:00111312a		http://babelnet.org/rdf/s00111312a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9882 ===
+	Exertive_force: 2.0
+	Being_strong: 1.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	13	0	2824404	To the extent that Democratic legislators from the South have held a disproportionate share of power in Congress since 1932 and have been able to translate such clout into relatively more local benefits for their respective constituencies , voters in the South have had an especially strong incentive to keep such Democrats in office .	13595	power	73	Leadership	MANUAL	4531502	95	99	AlK	power
+LINKED:[15	15	95	99	bn:00063940n	http://dbpedia.org/resource/Power_(social_and_political)	http://babelnet.org/rdf/s00063940n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9883 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	14	0	2824405	Finally , the theory suggests why Republicans generally have fared better in Senate races than in campaigns for the House .	11414	suggest.v	25	Evidence	MANUAL	4531499	21	28	AlK	suggests
+LINKED:[4	4	21	28	bn:00082417v		http://babelnet.org/rdf/s00082417v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9884 ===
+	Statement: 64.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	14	0	2824406	Since local benefit-seeking matters more and national policy making matters less in the lower chamber of Congress , this is precisely the pattern one would expect if Republicans are less willing to engage in local benefit-seeking than their Democratic counterparts .	10239	local.a	195	Political_locales	MANUAL	4529895	6	10	CHg	local
+LINKED:[1	1	6	10	bn:00106108a		http://babelnet.org/rdf/s00106108a	1.0	0.125	0.024922118	BABELFY]
+RANK:=== COUNTER  Counter 9885 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	2	14	0	2824406	Since local benefit-seeking matters more and national policy making matters less in the lower chamber of Congress , this is precisely the pattern one would expect if Republicans are less willing to engage in local benefit-seeking than their Democratic counterparts .	10243	national.a	195	Political_locales	MANUAL	4529896	45	52	CHg	national
+LINKED:[6	6	45	52	bn:00107136a		http://babelnet.org/rdf/s00107136a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9886 ===
+	Political_locales: 32.0
+	Origin: 4.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	2	14	0	2824406	Since local benefit-seeking matters more and national policy making matters less in the lower chamber of Congress , this is precisely the pattern one would expect if Republicans are less willing to engage in local benefit-seeking than their Democratic counterparts .	3176	chamber.n	188	Building_subparts	MANUAL	4529897	94	100	CHg	chamber
+LINKED:[14	14	94	100	bn:00009495n	http://dbpedia.org/resource/Bedroom	http://babelnet.org/rdf/s00009495n	1.0	0.0625	0.0031152647	BABELFY]
+RANK:=== COUNTER  Counter 9887 ===
+	Building_subparts: 55.0
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:115	23012	2	14	0	2824406	Since local benefit-seeking matters more and national policy making matters less in the lower chamber of Congress , this is precisely the pattern one would expect if Republicans are less willing to engage in local benefit-seeking than their Democratic counterparts .	255	expect.v	26	Expectation	MANUAL	4529898	156	161	CHg	expect
+LINKED:[25	25	156	161	bn:00082665v		http://babelnet.org/rdf/s00082665v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9888 ===
+	Opinion: 10.0
+	Expectation: 10.0
+
+SELECTED:[Expectation]
+MATCH!
+SILVER:115	23012	2	14	0	2824406	Since local benefit-seeking matters more and national policy making matters less in the lower chamber of Congress , this is precisely the pattern one would expect if Republicans are less willing to engage in local benefit-seeking than their Democratic counterparts .	10239	local.a	195	Political_locales	MANUAL	4529900	208	212	CHg	local
+LINKED:[34	34	208	212	bn:00106108a		http://babelnet.org/rdf/s00106108a	1.0	0.125	0.024922118	BABELFY]
+RANK:=== COUNTER  Counter 9889 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	2	14	0	2824406	Since local benefit-seeking matters more and national policy making matters less in the lower chamber of Congress , this is precisely the pattern one would expect if Republicans are less willing to engage in local benefit-seeking than their Democratic counterparts .	12777	engage.v	198	Intentionally_act	MANUAL	4530699	198	203	KmG	engage
+LINKED:[32	32	198	203	bn:00087628v		http://babelnet.org/rdf/s00087628v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9890 ===
+	Intentionally_act: 0.13636363636363635
+
+SELECTED:[Intentionally_act]
+MATCH!
+SILVER:115	23012	2	14	0	2824406	Since local benefit-seeking matters more and national policy making matters less in the lower chamber of Congress , this is precisely the pattern one would expect if Republicans are less willing to engage in local benefit-seeking than their Democratic counterparts .	14353	policy.n	950	Law	MANUAL	4531374	54	59	AlK	policy
+LINKED:[7	7	54	59	bn:00063329n		http://babelnet.org/rdf/s00063329n	0.8181818	0.1875	0.028037382	BABELFY]
+RANK:=== COUNTER  Counter 9891 ===
+	Law: 8.0
+
+SELECTED:[Law]
+MATCH!
+SILVER:115	23012	2	14	0	2824406	Since local benefit-seeking matters more and national policy making matters less in the lower chamber of Congress , this is precisely the pattern one would expect if Republicans are less willing to engage in local benefit-seeking than their Democratic counterparts .	15335	pattern.n	2133	Pattern	MANUAL	4531397	138	144	AlK	pattern
+LINKED:[22	22	138	144	bn:00035908n	http://dbpedia.org/resource/Pattern_(architecture)	http://babelnet.org/rdf/s00035908n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9892 ===
+	Pattern: 2.0
+
+SELECTED:[Pattern]
+MATCH!
+SILVER:115	23012	2	15	0	2824408	Three pieces of evidence corroborate the key assumption that Democratic legislators are more willing to engage in local benefit-seeking than their Republican colleagues .	3845	three.num	218	Cardinal_numbers	MANUAL	4529903	0	4	MJE	Three
+LINKED:[0	0	0	4	bn:00000100n	http://dbpedia.org/resource/3_(number)	http://babelnet.org/rdf/s00000100n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9893 ===
+	Cardinal_numbers: 0.06461538461538462
+
+SELECTED:[Cardinal_numbers]
+MATCH!
+SILVER:115	23012	2	15	0	2824408	Three pieces of evidence corroborate the key assumption that Democratic legislators are more willing to engage in local benefit-seeking than their Republican colleagues .	10843	evidence.n	25	Evidence	MANUAL	4529905	16	23	CHg	evidence
+LINKED:[3	3	16	23	bn:00032045n	http://dbpedia.org/resource/Evidence	http://babelnet.org/rdf/s00032045n	0.72727275	0.2857143	0.1495327	BABELFY]
+RANK:=== COUNTER  Counter 9894 ===
+	Evidence: 19.0
+
+SELECTED:[Evidence]
+MATCH!
+SILVER:115	23012	2	15	0	2824408	Three pieces of evidence corroborate the key assumption that Democratic legislators are more willing to engage in local benefit-seeking than their Republican colleagues .	243	corroborate.v	25	Evidence	MANUAL	4529910	25	35	CHg	corroborate
+LINKED:[4	4	25	35	bn:00082434v		http://babelnet.org/rdf/s00082434v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9895 ===
+	Evidence: 19.0
+	Verification: 7.0
+
+SELECTED:[Evidence]
+MATCH!
+SILVER:115	23012	2	15	0	2824408	Three pieces of evidence corroborate the key assumption that Democratic legislators are more willing to engage in local benefit-seeking than their Republican colleagues .	7508	key.a	407	Importance	MANUAL	4529911	41	43	CHg	key
+LINKED:[6	6	41	43	bn:00099258a		http://babelnet.org/rdf/s00099258a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9896 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	15	0	2824408	Three pieces of evidence corroborate the key assumption that Democratic legislators are more willing to engage in local benefit-seeking than their Republican colleagues .	10239	local.a	195	Political_locales	MANUAL	4529913	114	118	CHg	local
+LINKED:[17	17	114	118	bn:00106108a		http://babelnet.org/rdf/s00106108a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9897 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	2	15	0	2824408	Three pieces of evidence corroborate the key assumption that Democratic legislators are more willing to engage in local benefit-seeking than their Republican colleagues .	12777	engage.v	198	Intentionally_act	MANUAL	4530700	104	109	KmG	engage
+LINKED:[15	15	104	109	bn:00087628v		http://babelnet.org/rdf/s00087628v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9898 ===
+	Intentionally_act: 0.13636363636363635
+
+SELECTED:[Intentionally_act]
+MATCH!
+SILVER:115	23012	2	15	0	2824408	Three pieces of evidence corroborate the key assumption that Democratic legislators are more willing to engage in local benefit-seeking than their Republican colleagues .	14820	legislator.n	73	Leadership	MANUAL	4531382	72	82	AlK	legislators
+LINKED:[10	10	72	82	bn:00050591n		http://babelnet.org/rdf/s00050591n	0.85714287	0.2857143	0.056074765	BABELFY]
+RANK:=== COUNTER  Counter 9899 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	3	15	0	2824409	First , economists James Bennett and Thomas DiLorenzo find that GOP senators turn back roughly 10 % more of their allocated personal staff budgets than Democrats do .	175	find.v	20	Becoming_aware	MANUAL	4529924	54	57	CHg	find
+LINKED:[8	8	54	57	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9900 ===
+	Becoming_aware: 11.0
+	Locating: 0.011111111111111112
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:115	23012	3	15	0	2824409	First , economists James Bennett and Thomas DiLorenzo find that GOP senators turn back roughly 10 % more of their allocated personal staff budgets than Democrats do .	11771	staff.n	323	Employing	MANUAL	4530701	133	137	KmG	staff
+LINKED:[22	22	133	137	bn:00073801n	http://dbpedia.org/resource/Staff_(military)	http://babelnet.org/rdf/s00073801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9901 ===
+	Employing: 8.0
+
+SELECTED:[Employing]
+MATCH!
+SILVER:115	23012	4	15	0	2824410	To the extent that the primary duty of personal staff involves local benefit-seeking , this indicates that political philosophy leads congressional Republicans to pay less attention to narrow constituent concerns .	7433	primary.a	402	First_rank	MANUAL	4529930	23	29	CHg	primary
+LINKED:[5	5	23	29	bn:00109011a		http://babelnet.org/rdf/s00109011a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9902 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	4	15	0	2824410	To the extent that the primary duty of personal staff involves local benefit-seeking , this indicates that political philosophy leads congressional Republicans to pay less attention to narrow constituent concerns .	7116	duty.n	392	Being_obligated	MANUAL	4529931	31	34	CHg	duty
+LINKED:[6	6	31	34	bn:00029239n	http://dbpedia.org/resource/Obligation	http://babelnet.org/rdf/s00029239n	0.8684211	0.3529412	0.087765954	BABELFY]
+RANK:=== COUNTER  Counter 9903 ===
+	Being_obligated: 8.0
+
+SELECTED:[Being_obligated]
+MATCH!
+SILVER:115	23012	4	15	0	2824410	To the extent that the primary duty of personal staff involves local benefit-seeking , this indicates that political philosophy leads congressional Republicans to pay less attention to narrow constituent concerns .	10239	local.a	195	Political_locales	MANUAL	4529983	63	67	CHg	local
+LINKED:[11	11	63	67	bn:00106108a		http://babelnet.org/rdf/s00106108a	0.8	0.11764706	0.005319149	BABELFY]
+RANK:=== COUNTER  Counter 9904 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	4	15	0	2824410	To the extent that the primary duty of personal staff involves local benefit-seeking , this indicates that political philosophy leads congressional Republicans to pay less attention to narrow constituent concerns .	9728	attention.n	791	Attention	MANUAL	4529984	172	180	CHg	attention
+LINKED:[25	25	172	180	bn:00007020n	http://dbpedia.org/resource/Attention	http://babelnet.org/rdf/s00007020n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9905 ===
+	Attention: 11.0
+
+SELECTED:[Attention]
+MATCH!
+SILVER:115	23012	4	15	0	2824410	To the extent that the primary duty of personal staff involves local benefit-seeking , this indicates that political philosophy leads congressional Republicans to pay less attention to narrow constituent concerns .	8591	lead	5	Causation	MANUAL	4530589	128	132	RLG	leads
+LINKED:[19	19	128	132	bn:00088927v		http://babelnet.org/rdf/s00088927v	1.0	0.05882353	0.0013297872	BABELFY]
+RANK:=== COUNTER  Counter 9906 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	4	15	0	2824410	To the extent that the primary duty of personal staff involves local benefit-seeking , this indicates that political philosophy leads congressional Republicans to pay less attention to narrow constituent concerns .	11448	indicate.v	25	Evidence	MANUAL	4530602	92	100	RLG	indicates
+LINKED:[15	15	92	100	bn:00083436v		http://babelnet.org/rdf/s00083436v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9907 ===
+	Evidence: 19.0
+	Sign: 8.0
+	Communication: 0.05789473684210526
+
+SELECTED:[Evidence]
+MATCH!
+SILVER:115	23012	4	15	0	2824410	To the extent that the primary duty of personal staff involves local benefit-seeking , this indicates that political philosophy leads congressional Republicans to pay less attention to narrow constituent concerns .	11771	staff.n	323	Employing	MANUAL	4530702	48	52	KmG	staff
+LINKED:[9	9	48	52	bn:00073801n	http://dbpedia.org/resource/Staff_(military)	http://babelnet.org/rdf/s00073801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9908 ===
+	Employing: 8.0
+
+SELECTED:[Employing]
+MATCH!
+SILVER:115	23012	1	16	0	2824411	Second , if the key assumption is valid , Democrats should have lower attendance rates on roll-call votes than Republicans do to the extent that such votes reflect national policy making and that participating in such votes takes away from the time a legislator could otherwise devote to local benefit-seeking .	7508	key.a	407	Importance	MANUAL	4529985	16	18	CHg	key
+LINKED:[4	4	16	18	bn:00099258a		http://babelnet.org/rdf/s00099258a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9909 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	16	0	2824411	Second , if the key assumption is valid , Democrats should have lower attendance rates on roll-call votes than Republicans do to the extent that such votes reflect national policy making and that participating in such votes takes away from the time a legislator could otherwise devote to local benefit-seeking .	1981	low.a	95	Position_on_a_scale	MANUAL	4529987	64	68	CHg	lower
+LINKED:[12	12	64	68	bn:13759554a		http://babelnet.org/rdf/s13759554a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9910 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	16	0	2824411	Second , if the key assumption is valid , Democrats should have lower attendance rates on roll-call votes than Republicans do to the extent that such votes reflect national policy making and that participating in such votes takes away from the time a legislator could otherwise devote to local benefit-seeking .	10243	national.a	195	Political_locales	MANUAL	4529988	164	171	CHg	national
+LINKED:[28	28	164	171	bn:00107136a		http://babelnet.org/rdf/s00107136a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9911 ===
+	Political_locales: 32.0
+	Origin: 4.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	16	0	2824411	Second , if the key assumption is valid , Democrats should have lower attendance rates on roll-call votes than Republicans do to the extent that such votes reflect national policy making and that participating in such votes takes away from the time a legislator could otherwise devote to local benefit-seeking .	10627	participate.v	1144	Participation	MANUAL	4529989	196	208	CHg	participating
+LINKED:[33	33	196	208	bn:00091451v		http://babelnet.org/rdf/s00091451v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9912 ===
+	Participation: 7.0
+
+SELECTED:[Participation]
+MATCH!
+SILVER:115	23012	1	16	0	2824411	Second , if the key assumption is valid , Democrats should have lower attendance rates on roll-call votes than Republicans do to the extent that such votes reflect national policy making and that participating in such votes takes away from the time a legislator could otherwise devote to local benefit-seeking .	10239	local.a	195	Political_locales	MANUAL	4529993	288	292	CHg	local
+LINKED:[48	48	288	292	bn:00106108a		http://babelnet.org/rdf/s00106108a	1.0	0.05	0.0035587188	BABELFY]
+RANK:=== COUNTER  Counter 9913 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	16	0	2824411	Second , if the key assumption is valid , Democrats should have lower attendance rates on roll-call votes than Republicans do to the extent that such votes reflect national policy making and that participating in such votes takes away from the time a legislator could otherwise devote to local benefit-seeking .	14353	policy.n	950	Law	MANUAL	4531375	173	178	AlK	policy
+LINKED:[29	29	173	178	bn:00063329n		http://babelnet.org/rdf/s00063329n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9914 ===
+	Law: 8.0
+
+SELECTED:[Law]
+MATCH!
+SILVER:115	23012	1	16	0	2824411	Second , if the key assumption is valid , Democrats should have lower attendance rates on roll-call votes than Republicans do to the extent that such votes reflect national policy making and that participating in such votes takes away from the time a legislator could otherwise devote to local benefit-seeking .	14820	legislator.n	73	Leadership	MANUAL	4531388	251	260	AlK	legislator
+LINKED:[43	43	251	260	bn:00050281n	http://dbpedia.org/resource/Legislator	http://babelnet.org/rdf/s00050281n	0.8181818	0.15	0.021352313	BABELFY]
+RANK:=== COUNTER  Counter 9915 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	1	16	0	2824411	Second , if the key assumption is valid , Democrats should have lower attendance rates on roll-call votes than Republicans do to the extent that such votes reflect national policy making and that participating in such votes takes away from the time a legislator could otherwise devote to local benefit-seeking .	15397	time.n	224	Measure_duration	MANUAL	4531430	244	247	AlK	time
+LINKED:[41	41	244	247	bn:00077270n	http://dbpedia.org/resource/Time	http://babelnet.org/rdf/s00077270n	1.0	0.25	0.059311982	BABELFY]
+RANK:=== COUNTER  Counter 9916 ===
+	Timespan: 0.009615384615384616
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	16	0	2824411	Second , if the key assumption is valid , Democrats should have lower attendance rates on roll-call votes than Republicans do to the extent that such votes reflect national policy making and that participating in such votes takes away from the time a legislator could otherwise devote to local benefit-seeking .	14824	attendance.n	2030	Attending	MANUAL	4531434	70	79	AlK	attendance
+LINKED:[13	13	70	79	bn:00007013n		http://babelnet.org/rdf/s00007013n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9917 ===
+	Attending: 2.0
+
+SELECTED:[Attending]
+MATCH!
+SILVER:115	23012	1	16	0	2824411	Second , if the key assumption is valid , Democrats should have lower attendance rates on roll-call votes than Republicans do to the extent that such votes reflect national policy making and that participating in such votes takes away from the time a legislator could otherwise devote to local benefit-seeking .	12262	valid.a	1510	Being_in_effect	MANUAL	4531493	34	38	AlK	valid
+LINKED:[7	7	34	38	bn:00113486a		http://babelnet.org/rdf/s00113486a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9918 ===
+	Being_in_effect: 3.0
+
+SELECTED:[Being_in_effect]
+MATCH!
+SILVER:115	23012	1	16	0	2824411	Second , if the key assumption is valid , Democrats should have lower attendance rates on roll-call votes than Republicans do to the extent that such votes reflect national policy making and that participating in such votes takes away from the time a legislator could otherwise devote to local benefit-seeking .	11249	second.a	1147	Ordinal_numbers	MANUAL	4531567	0	5	AlK	Second
+LINKED:[0	0	0	5	bn:00030789n	http://dbpedia.org/resource/Second_(parliamentary_procedure)	http://babelnet.org/rdf/s00030789n	0.71428573	0.25	0.029655991	BABELFY]
+RANK:=== COUNTER  Counter 9919 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	16	0	2824412	This is indeed what the data indicate , particularly in the case of the House .	12687	data.n	1591	Information	MANUAL	4530594	24	27	RLG	data
+LINKED:[5	5	24	27	bn:00025314n	http://dbpedia.org/resource/Data	http://babelnet.org/rdf/s00025314n	0.8333333	1.0	0.45454547	BABELFY]
+RANK:=== COUNTER  Counter 9920 ===
+	Information: 8.0
+
+SELECTED:[Information]
+MATCH!
+SILVER:115	23012	2	16	0	2824412	This is indeed what the data indicate , particularly in the case of the House .	11448	indicate.v	25	Evidence	MANUAL	4530595	29	36	RLG	indicate
+LINKED:[6	6	29	36	bn:00089681v		http://babelnet.org/rdf/s00089681v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9921 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	16	0	2824412	This is indeed what the data indicate , particularly in the case of the House .	2654	case.n	132	Instance	MANUAL	4530722	60	63	KmG	case
+LINKED:[11	11	60	63	bn:00016413n	http://dbpedia.org/resource/Data_type	http://babelnet.org/rdf/s00016413n	1.0	0.6666667	0.3030303	BABELFY]
+RANK:=== COUNTER  Counter 9922 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	3	16	0	2824413	The Democratic House attendance rate has not exceeded the Republican House attendance rate since 1959 .	14824	attendance.n	2030	Attending	MANUAL	4531435	21	30	AlK	attendance
+LINKED:[3	3	21	30	bn:00007013n		http://babelnet.org/rdf/s00007013n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9923 ===
+	Attending: 2.0
+
+SELECTED:[Attending]
+MATCH!
+SILVER:115	23012	3	16	0	2824413	The Democratic House attendance rate has not exceeded the Republican House attendance rate since 1959 .	14824	attendance.n	2030	Attending	MANUAL	4531436	75	84	AlK	attendance
+LINKED:[11	11	75	84	bn:00007013n		http://babelnet.org/rdf/s00007013n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9924 ===
+	Attending: 2.0
+
+SELECTED:[Attending]
+MATCH!
+SILVER:115	23012	1	17	0	2824414	Finally , as shown in the table , Democrats allocate a higher proportion of their personal staffs to district offices -- where local benefit-seeking duties matter more and national policy making activities matter less relative to Washington offices .	10239	local.a	195	Political_locales	MANUAL	4529998	127	131	CHg	local
+LINKED:[22	22	127	131	bn:00106108a		http://babelnet.org/rdf/s00106108a	0.9375	0.15789473	0.026690392	BABELFY]
+RANK:=== COUNTER  Counter 9925 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	17	0	2824414	Finally , as shown in the table , Democrats allocate a higher proportion of their personal staffs to district offices -- where local benefit-seeking duties matter more and national policy making activities matter less relative to Washington offices .	7116	duty.n	392	Being_obligated	MANUAL	4529999	149	154	CHg	duties
+LINKED:[24	24	149	154	bn:00029240n		http://babelnet.org/rdf/s00029240n	0.78571427	0.15789473	0.05871886	BABELFY]
+RANK:=== COUNTER  Counter 9926 ===
+	Being_obligated: 8.0
+
+SELECTED:[Being_obligated]
+MATCH!
+SILVER:115	23012	1	17	0	2824414	Finally , as shown in the table , Democrats allocate a higher proportion of their personal staffs to district offices -- where local benefit-seeking duties matter more and national policy making activities matter less relative to Washington offices .	10243	national.a	195	Political_locales	MANUAL	4530000	172	179	CHg	national
+LINKED:[28	28	172	179	bn:00107136a		http://babelnet.org/rdf/s00107136a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9927 ===
+	Political_locales: 32.0
+	Origin: 4.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	17	0	2824414	Finally , as shown in the table , Democrats allocate a higher proportion of their personal staffs to district offices -- where local benefit-seeking duties matter more and national policy making activities matter less relative to Washington offices .	10616	activity.n	198	Intentionally_act	MANUAL	4530001	195	204	CHg	activities
+LINKED:[31	31	195	204	bn:00001128n		http://babelnet.org/rdf/s00001128n	0.8	0.10526316	0.0071174377	BABELFY]
+RANK:=== COUNTER  Counter 9928 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	17	0	2824414	Finally , as shown in the table , Democrats allocate a higher proportion of their personal staffs to district offices -- where local benefit-seeking duties matter more and national policy making activities matter less relative to Washington offices .	1980	high.a	95	Position_on_a_scale	MANUAL	4530074	55	60	CHg	higher
+LINKED:[11	11	55	60	bn:00104196a		http://babelnet.org/rdf/s00104196a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9929 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	17	0	2824414	Finally , as shown in the table , Democrats allocate a higher proportion of their personal staffs to district offices -- where local benefit-seeking duties matter more and national policy making activities matter less relative to Washington offices .	249	show.v	25	Evidence	MANUAL	4530084	13	17	CHg	shown
+LINKED:[3	3	13	17	bn:00093685v		http://babelnet.org/rdf/s00093685v	1.0	0.05263158	0.0017793594	BABELFY]
+RANK:=== COUNTER  Counter 9930 ===
+	Cotheme: 15.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	17	0	2824414	Finally , as shown in the table , Democrats allocate a higher proportion of their personal staffs to district offices -- where local benefit-seeking duties matter more and national policy making activities matter less relative to Washington offices .	14353	policy.n	950	Law	MANUAL	4531376	181	186	AlK	policy
+LINKED:[29	29	181	186	bn:00063329n		http://babelnet.org/rdf/s00063329n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9931 ===
+	Law: 8.0
+
+SELECTED:[Law]
+MATCH!
+SILVER:115	23012	1	17	0	2824414	Finally , as shown in the table , Democrats allocate a higher proportion of their personal staffs to district offices -- where local benefit-seeking duties matter more and national policy making activities matter less relative to Washington offices .	11771	staff.n	323	Employing	MANUAL	4531501	91	96	AlK	staffs
+LINKED:[16	16	91	96	bn:00073801n	http://dbpedia.org/resource/Staff_(military)	http://babelnet.org/rdf/s00073801n	0.8888889	0.10526316	0.014234875	BABELFY]
+RANK:=== COUNTER  Counter 9932 ===
+	Employing: 8.0
+
+SELECTED:[Employing]
+MATCH!
+SILVER:115	23012	2	17	0	2824415	An examination of changes in personal staffing decisions in the Senate between 1986 and 1987 ( when control of that body changed party hands ) , moreover , reveals that the personal staffing differences noted in the table can not be attributed to the disproportionate control Democrats exercise , due to their majority-party status , over other resources such as committee staff .	10804	change.n	1172	Undergo_change	MANUAL	4530088	18	24	CHg	changes
+LINKED:[3	3	18	24	bn:00053823n	http://dbpedia.org/resource/Mathematics	http://babelnet.org/rdf/s00053823n	0.7419355	0.48	0.22923589	BABELFY]
+RANK:=== COUNTER  Counter 9933 ===
+	Fields: 0.015384615384615385
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	17	0	2824415	An examination of changes in personal staffing decisions in the Senate between 1986 and 1987 ( when control of that body changed party hands ) , moreover , reveals that the personal staffing differences noted in the table can not be attributed to the disproportionate control Democrats exercise , due to their majority-party status , over other resources such as committee staff .	10853	difference	481	Similarity	MANUAL	4530097	191	201	CHg	differences
+LINKED:[33	33	191	201	bn:00027022n		http://babelnet.org/rdf/s00027022n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9934 ===
+	Similarity: 0.26
+
+SELECTED:[Similarity]
+MATCH!
+SILVER:115	23012	2	17	0	2824415	An examination of changes in personal staffing decisions in the Senate between 1986 and 1987 ( when control of that body changed party hands ) , moreover , reveals that the personal staffing differences noted in the table can not be attributed to the disproportionate control Democrats exercise , due to their majority-party status , over other resources such as committee staff .	7432	decision.n	363	Deciding	MANUAL	4530187	47	55	RLG	decisions
+LINKED:[7	7	47	55	bn:00021590n		http://babelnet.org/rdf/s00021590n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9935 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	17	0	2824415	An examination of changes in personal staffing decisions in the Senate between 1986 and 1987 ( when control of that body changed party hands ) , moreover , reveals that the personal staffing differences noted in the table can not be attributed to the disproportionate control Democrats exercise , due to their majority-party status , over other resources such as committee staff .	248	reveal.v	25	Evidence	MANUAL	4530188	156	162	RLG	reveals
+LINKED:[28	28	156	162	bn:00084097v		http://babelnet.org/rdf/s00084097v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9936 ===
+	Cause_to_perceive: 8.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	17	0	2824415	An examination of changes in personal staffing decisions in the Senate between 1986 and 1987 ( when control of that body changed party hands ) , moreover , reveals that the personal staffing differences noted in the table can not be attributed to the disproportionate control Democrats exercise , due to their majority-party status , over other resources such as committee staff .	11771	staff.n	323	Employing	MANUAL	4530703	373	377	KmG	staff
+LINKED:[61	61	373	377	bn:00032685n	http://dbpedia.org/resource/Faculty_(division)	http://babelnet.org/rdf/s00032685n	0.7894737	0.2	0.037375417	BABELFY]
+RANK:=== COUNTER  Counter 9937 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	17	0	2824415	An examination of changes in personal staffing decisions in the Senate between 1986 and 1987 ( when control of that body changed party hands ) , moreover , reveals that the personal staffing differences noted in the table can not be attributed to the disproportionate control Democrats exercise , due to their majority-party status , over other resources such as committee staff .	2124	party.n	103	Aggregate	MANUAL	4531508	129	133	AlK	party
+LINKED:[22	22	129	133	bn:00060834n	http://dbpedia.org/resource/Political_party	http://babelnet.org/rdf/s00060834n	0.9423077	0.28	0.08139535	BABELFY]
+RANK:=== COUNTER  Counter 9938 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	2	17	0	2824415	An examination of changes in personal staffing decisions in the Senate between 1986 and 1987 ( when control of that body changed party hands ) , moreover , reveals that the personal staffing differences noted in the table can not be attributed to the disproportionate control Democrats exercise , due to their majority-party status , over other resources such as committee staff .	11273	examination.n	1262	Inspecting	MANUAL	6639317	3	13	CVa	examination
+LINKED:[1	1	3	13	bn:00032093n		http://babelnet.org/rdf/s00032093n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9939 ===
+	Scrutiny: 0.43333333333333335
+	Inspecting: 0.1
+
+SELECTED:[Inspecting]
+MATCH!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	10843	evidence.n	25	Evidence	MANUAL	4530076	23	30	JKR	evidence
+LINKED:[4	4	23	30	bn:00032045n	http://dbpedia.org/resource/Evidence	http://babelnet.org/rdf/s00032045n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9940 ===
+	Evidence: 19.0
+
+SELECTED:[Evidence]
+MATCH!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	10292	additional.a	1001	Increment	MANUAL	4530077	3	12	JKR	additional
+LINKED:[1	1	3	12	bn:00096432a		http://babelnet.org/rdf/s00096432a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9941 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	10853	difference	481	Similarity	MANUAL	4530078	140	149	JKR	difference
+LINKED:[23	23	140	149	bn:00027022n		http://babelnet.org/rdf/s00027022n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9942 ===
+	Similarity: 0.26
+
+SELECTED:[Similarity]
+MATCH!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	10900	election.n	72	Change_of_leadership	MANUAL	4530139	257	264	CHg	election
+LINKED:[38	38	257	264	bn:00030113n	http://dbpedia.org/resource/Election	http://babelnet.org/rdf/s00030113n	0.7354443	0.3809524	0.017755419	BABELFY]
+RANK:=== COUNTER  Counter 9943 ===
+	Change_of_leadership: 22.0
+
+SELECTED:[Change_of_leadership]
+MATCH!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	9948	function.n	900	Contingency	MANUAL	4530140	293	300	CHg	function
+LINKED:[45	45	293	300	bn:00036821n	http://dbpedia.org/resource/Map_(mathematics)	http://babelnet.org/rdf/s00036821n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9944 ===
+	Contingency: 0.004285714285714286
+
+SELECTED:[Contingency]
+MATCH!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	10234	federal.a	195	Political_locales	MANUAL	4530141	321	327	CHg	federal
+LINKED:[50	50	321	327	bn:00102870a		http://babelnet.org/rdf/s00102870a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9945 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	12433	presidential.a	73	Leadership	MANUAL	4530392	188	199	RLG	presidential
+LINKED:[29	29	188	199	bn:00108985a		http://babelnet.org/rdf/s00108985a	0.7303371	0.11904762	0.0016029198	BABELFY]
+RANK:=== COUNTER  Counter 9946 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	12182	government.n	73	Leadership	MANUAL	4530679	329	338	KmG	government
+LINKED:[51	51	329	338	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9947 ===
+	Leadership: 73.0
+	Law: 8.0
+	Organization: 0.022222222222222223
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	13132	hold.v	245	Inhibit_movement	MANUAL	4531444	50	56	AlK	Holding
+LINKED:[9	9	50	56	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9948 ===
+	Activity_ongoing: 7.0
+	Cause_to_continue: 1.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	14311	factor.n	900	Contingency	MANUAL	4531450	64	70	AlK	factors
+LINKED:[11	11	64	70	bn:00032661n		http://babelnet.org/rdf/s00032661n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9949 ===
+	Contingency: 0.08
+
+SELECTED:[Contingency]
+MATCH!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	15564	turn	2191	Turning_out	MANUAL	4531494	266	270	AlK	turns
+LINKED:[39	39	266	270	bn:00084777v		http://babelnet.org/rdf/s00084777v	1.0	0.04761905	9.864122E-5	BABELFY]
+RANK:=== COUNTER  Counter 9950 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	16339	state	195	Political_locales	MANUAL	6563318	230	235	MLC	states
+LINKED:[34	34	230	235	bn:00064914n	http://dbpedia.org/resource/Province	http://babelnet.org/rdf/s00064914n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9951 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	16339	state	195	Political_locales	MANUAL	6563319	361	365	MLC	state
+LINKED:[57	57	361	365	bn:00064914n	http://dbpedia.org/resource/Province	http://babelnet.org/rdf/s00064914n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9952 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	18	0	2824416	An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state ( a progressive tax rate hits higher-income states harder ) .	16339	state	195	Political_locales	MANUAL	6563320	411	416	MLC	states
+LINKED:[65	65	411	416	bn:00064914n	http://dbpedia.org/resource/Province	http://babelnet.org/rdf/s00064914n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9953 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	2	18	0	2824417	Put more simply , GOP candidates for president are looked on more kindly by voters than Republican candidates for the Senate when the prisoner 's dilemma is more severe .	1599	president	73	Leadership	MANUAL	4530143	37	45	CHg	president
+LINKED:[7	7	37	45	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9954 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	19	0	2824418	Moreover , ticket splitting appears to take the same peculiar pattern at the state government level as it does at the federal level .	1321	appear.v	67	Give_impression	MANUAL	4530124	28	34	JKR	appears
+LINKED:[4	4	28	34	bn:00082696v		http://babelnet.org/rdf/s00082696v	1.0	0.1	0.0024570024	BABELFY]
+RANK:=== COUNTER  Counter 9955 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	19	0	2824418	Moreover , ticket splitting appears to take the same peculiar pattern at the state government level as it does at the federal level .	10234	federal.a	195	Political_locales	MANUAL	4530146	118	124	CHg	federal
+LINKED:[21	21	118	124	bn:00102870a		http://babelnet.org/rdf/s00102870a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9956 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	19	0	2824418	Moreover , ticket splitting appears to take the same peculiar pattern at the state government level as it does at the federal level .	12182	government.n	73	Leadership	MANUAL	4530677	83	92	KmG	government
+LINKED:[14	14	83	92	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9957 ===
+	Leadership: 73.0
+	Law: 8.0
+	Organization: 0.022222222222222223
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	1	19	0	2824418	Moreover , ticket splitting appears to take the same peculiar pattern at the state government level as it does at the federal level .	64	split.v	15	Separating	MANUAL	4531442	18	26	AlK	splitting
+LINKED:[3	3	18	26	bn:00084611v		http://babelnet.org/rdf/s00084611v	0.85714287	0.3	0.014742015	BABELFY]
+RANK:=== COUNTER  Counter 9958 ===
+	Quitting_a_place: 18.0
+	Separating: 9.0
+	Becoming_separated: 0.007142857142857143
+
+SELECTED:[Separating]
+MATCH!
+SILVER:115	23012	1	19	0	2824418	Moreover , ticket splitting appears to take the same peculiar pattern at the state government level as it does at the federal level .	15335	pattern.n	2133	Pattern	MANUAL	4531506	62	68	AlK	pattern
+LINKED:[10	10	62	68	bn:00035908n	http://dbpedia.org/resource/Pattern_(architecture)	http://babelnet.org/rdf/s00035908n	0.84210527	0.4	0.01965602	BABELFY]
+RANK:=== COUNTER  Counter 9959 ===
+	Pattern: 2.0
+
+SELECTED:[Pattern]
+MATCH!
+SILVER:115	23012	1	19	0	2824418	Moreover , ticket splitting appears to take the same peculiar pattern at the state government level as it does at the federal level .	16339	state	195	Political_locales	MANUAL	6563317	77	81	MLC	state
+LINKED:[13	13	77	81	bn:00064914n	http://dbpedia.org/resource/Province	http://babelnet.org/rdf/s00064914n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9960 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	2	19	0	2824419	State government is more typically split along Republican-governor/Democratic-legislature lines than the reverse .	12182	government.n	73	Leadership	MANUAL	4530676	6	15	KmG	government
+LINKED:[1	1	6	15	bn:00001426n	http://dbpedia.org/resource/Administration_(government)	http://babelnet.org/rdf/s00001426n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9961 ===
+	Leadership: 73.0
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23012	2	19	0	2824419	State government is more typically split along Republican-governor/Democratic-legislature lines than the reverse .	16339	state	195	Political_locales	MANUAL	6563328	0	4	MLC	State
+LINKED:[0	0	0	4	bn:00074009n		http://babelnet.org/rdf/s00074009n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9962 ===
+	State_of_entity: 10.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	3	19	0	2824420	A cross-state econometric investigation , furthermore , reveals that , holding other factors constant , the difference between a state 's major-party vote going to the Republican gubernatorial candidate and the Republican share of the lower state house is a positive function of the state tax rate .	248	reveal.v	25	Evidence	MANUAL	4530148	56	62	CHg	reveals
+LINKED:[7	7	56	62	bn:00084097v		http://babelnet.org/rdf/s00084097v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9963 ===
+	Cause_to_perceive: 8.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	3	19	0	2824420	A cross-state econometric investigation , furthermore , reveals that , holding other factors constant , the difference between a state 's major-party vote going to the Republican gubernatorial candidate and the Republican share of the lower state house is a positive function of the state tax rate .	9948	function.n	900	Contingency	MANUAL	4530153	267	274	CHg	function
+LINKED:[41	41	267	274	bn:00036821n	http://dbpedia.org/resource/Map_(mathematics)	http://babelnet.org/rdf/s00036821n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9964 ===
+	Contingency: 0.004285714285714286
+
+SELECTED:[Contingency]
+MATCH!
+SILVER:115	23012	3	19	0	2824420	A cross-state econometric investigation , furthermore , reveals that , holding other factors constant , the difference between a state 's major-party vote going to the Republican gubernatorial candidate and the Republican share of the lower state house is a positive function of the state tax rate .	11100	difference.n	481	Similarity	MANUAL	4530189	108	117	RLG	difference
+LINKED:[16	16	108	117	bn:00027022n		http://babelnet.org/rdf/s00027022n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9965 ===
+	Similarity: 0.26
+
+SELECTED:[Similarity]
+MATCH!
+SILVER:115	23012	3	19	0	2824420	A cross-state econometric investigation , furthermore , reveals that , holding other factors constant , the difference between a state 's major-party vote going to the Republican gubernatorial candidate and the Republican share of the lower state house is a positive function of the state tax rate .	13132	hold.v	245	Inhibit_movement	MANUAL	4531446	71	77	AlK	holding
+LINKED:[10	10	71	77	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9966 ===
+	Activity_ongoing: 7.0
+	Cause_to_continue: 1.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	3	19	0	2824420	A cross-state econometric investigation , furthermore , reveals that , holding other factors constant , the difference between a state 's major-party vote going to the Republican gubernatorial candidate and the Republican share of the lower state house is a positive function of the state tax rate .	14311	factor.n	900	Contingency	MANUAL	4531451	85	91	AlK	factors
+LINKED:[12	12	85	91	bn:00032661n		http://babelnet.org/rdf/s00032661n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9967 ===
+	Contingency: 0.08
+
+SELECTED:[Contingency]
+MATCH!
+SILVER:115	23012	3	19	0	2824420	A cross-state econometric investigation , furthermore , reveals that , holding other factors constant , the difference between a state 's major-party vote going to the Republican gubernatorial candidate and the Republican share of the lower state house is a positive function of the state tax rate .	16339	state	195	Political_locales	MANUAL	6563322	129	133	MLC	state
+LINKED:[19	19	129	133	bn:00064914n	http://dbpedia.org/resource/Province	http://babelnet.org/rdf/s00064914n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9968 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	3	19	0	2824420	A cross-state econometric investigation , furthermore , reveals that , holding other factors constant , the difference between a state 's major-party vote going to the Republican gubernatorial candidate and the Republican share of the lower state house is a positive function of the state tax rate .	16339	state	195	Political_locales	MANUAL	6563323	241	245	MLC	state
+LINKED:[36	36	241	245	bn:00064914n	http://dbpedia.org/resource/Province	http://babelnet.org/rdf/s00064914n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9969 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	3	19	0	2824420	A cross-state econometric investigation , furthermore , reveals that , holding other factors constant , the difference between a state 's major-party vote going to the Republican gubernatorial candidate and the Republican share of the lower state house is a positive function of the state tax rate .	16339	state	195	Political_locales	MANUAL	6563324	283	287	MLC	state
+LINKED:[44	44	283	287	bn:00064914n	http://dbpedia.org/resource/Province	http://babelnet.org/rdf/s00064914n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9970 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	20	0	2824421	In sum , at both the federal and state government levels at least part of the seemingly irrational behavior voters display in the voting booth may have an exceedingly rational explanation .	10234	federal.a	195	Political_locales	MANUAL	4530155	21	27	CHg	federal
+LINKED:[6	6	21	27	bn:00102870a		http://babelnet.org/rdf/s00102870a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9971 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	20	0	2824421	In sum , at both the federal and state government levels at least part of the seemingly irrational behavior voters display in the voting booth may have an exceedingly rational explanation .	408	irrational.a	29	Mental_property	MANUAL	4530158	88	97	CHg	irrational
+LINKED:[17	17	88	97	bn:00105427a		http://babelnet.org/rdf/s00105427a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9972 ===
+	Mental_property: 0.525
+
+SELECTED:[Mental_property]
+MATCH!
+SILVER:115	23012	1	20	0	2824421	In sum , at both the federal and state government levels at least part of the seemingly irrational behavior voters display in the voting booth may have an exceedingly rational explanation .	8001	behavior.n	491	Conduct	MANUAL	4530159	99	106	CHg	behavior
+LINKED:[18	18	99	106	bn:00009654n		http://babelnet.org/rdf/s00009654n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9973 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23012	1	20	0	2824421	In sum , at both the federal and state government levels at least part of the seemingly irrational behavior voters display in the voting booth may have an exceedingly rational explanation .	12141	explanation.n	1462	Explaining_the_facts	MANUAL	4531063	176	186	mgl	explanation
+LINKED:[30	30	176	186	bn:00000741n	http://dbpedia.org/resource/Explanation	http://babelnet.org/rdf/s00000741n	1.0	0.21428572	0.008064516	BABELFY]
+RANK:=== COUNTER  Counter 9974 ===
+	Statement: 64.0
+	Explaining_the_facts: 3.0
+
+SELECTED:[Explaining_the_facts]
+MATCH!
+SILVER:115	23012	1	20	0	2824421	In sum , at both the federal and state government levels at least part of the seemingly irrational behavior voters display in the voting booth may have an exceedingly rational explanation .	16339	state	195	Political_locales	MANUAL	6563325	33	37	MLC	state
+LINKED:[8	8	33	37	bn:00064914n	http://dbpedia.org/resource/Province	http://babelnet.org/rdf/s00064914n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9975 ===
+	Political_locales: 32.0
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:115	23012	1	21	0	2824422	Mr. Zupan teaches at the University of Southern California 's business school .	10740	teach.v	111	Education_teaching	MANUAL	4530160	10	16	CHg	teaches
+LINKED:[2	2	10	16	bn:00089791v		http://babelnet.org/rdf/s00089791v	1.0	0.22222222	0.017421603	BABELFY]
+RANK:=== COUNTER  Counter 9976 ===
+	Education_teaching: 0.13333333333333333
+
+SELECTED:[Education_teaching]
+MATCH!
+SILVER:115	23012	1	21	0	2824422	Mr. Zupan teaches at the University of Southern California 's business school .	11659	school.n	196	Locale_by_use	MANUAL	4530712	71	76	KmG	school
+LINKED:[11	11	71	76	bn:00069619n	http://dbpedia.org/resource/School	http://babelnet.org/rdf/s00069619n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 9977 ===
+	Locale_by_use: 0.10212765957446808
+
+SELECTED:[Locale_by_use]
+MATCH!
+filename	PropBank__TicketSplitting.xml
+docAnnotations	430
+docManual	362
+docUnannotated	68
+sentences	48
+paragraphs	21
+Overlapping	252
+Disambiguated	180
+TP	154
+TN	68
+FP	0
+FN	182
+P	1.0
+R	0.4583333333333333
+F	0.6285714285714286
+A	0.5495049504950495

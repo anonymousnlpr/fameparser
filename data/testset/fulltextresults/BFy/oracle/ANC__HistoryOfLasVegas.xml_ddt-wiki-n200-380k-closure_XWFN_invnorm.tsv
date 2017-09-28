@@ -1,0 +1,16 @@
+filename	ANC__HistoryOfLasVegas.xml
+docAnnotations	1022
+docManual	857
+docUnannotated	165
+sentences	145
+paragraphs	45
+Overlapping	654
+Disambiguated	354
+TP	277
+TN	165
+FP	0
+FN	503
+P	1.0
+R	0.35512820512820514
+F	0.5241248817407758
+A	0.4677248677248677

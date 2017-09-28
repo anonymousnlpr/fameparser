@@ -1,0 +1,2340 @@
+SILVER:195	23754	1	1	0	4103840	Jamaica and Its People	5511	people.n	304	People	MANUAL	6558815	16	21	AlK	People
+LINKED:[3	3	16	21	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39016 ===
+	People: 0.08333333333333333
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23754	1	2	0	4103841	The island of Jamaica will be near the top of the list for anyone planning an idyllic holiday getaway .	3504	island.n	191	Natural_features	MANUAL	6554758	4	9	KmG	island
+LINKED:[1	1	4	9	bn:00047612n	http://dbpedia.org/resource/Island	http://babelnet.org/rdf/s00047612n	0.969697	1.0	0.6037736	BABELFY]
+RANK:=== COUNTER  Counter 39018 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	1	2	0	4103841	The island of Jamaica will be near the top of the list for anyone planning an idyllic holiday getaway .	15203	idyllic.a	354	Desirability	MANUAL	6554775	78	84	KmG	idyllic
+LINKED:[16	16	78	84	bn:00104527a		http://babelnet.org/rdf/s00104527a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39020 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	2	0	4103841	The island of Jamaica will be near the top of the list for anyone planning an idyllic holiday getaway .	15204	getaway.n	343	Travel	MANUAL	6554776	94	100	KmG	getaway
+LINKED:[18	18	94	100	bn:00040341n		http://babelnet.org/rdf/s00040341n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39022 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	2	0	4103841	The island of Jamaica will be near the top of the list for anyone planning an idyllic holiday getaway .	15204	getaway.n	343	Travel	MANUAL	6558818	94	100	AlK	getaway
+LINKED:[18	18	94	100	bn:00040341n		http://babelnet.org/rdf/s00040341n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39024 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	2	0	4103841	The island of Jamaica will be near the top of the list for anyone planning an idyllic holiday getaway .	17604	plan.v	2839	Making_arrangements	MANUAL	6772972	66	73	HPh	planning
+LINKED:[14	14	66	73	bn:00083196v		http://babelnet.org/rdf/s00083196v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39026 ===
+	Purpose: 0.11111111111111108
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	2	0	4103842	With warm sunshine , beautiful beaches , lush tropical scenery , and fine hotels , it is guaranteed to provide a little rest and relaxation .	10372	warm.a	1052	Ambient_temperature	MANUAL	6554777	5	8	KmG	warm
+LINKED:[1	1	5	8	bn:00109347a		http://babelnet.org/rdf/s00109347a	0.8	0.22222222	0.0952381	BABELFY]
+RANK:=== COUNTER  Counter 39028 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	2	0	4103842	With warm sunshine , beautiful beaches , lush tropical scenery , and fine hotels , it is guaranteed to provide a little rest and relaxation .	14208	sunshine.n	303	Weather	MANUAL	6554783	10	17	KmG	sunshine
+LINKED:[2	2	10	17	bn:00075171n	http://dbpedia.org/resource/Sunlight	http://babelnet.org/rdf/s00075171n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39030 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	2	0	4103842	With warm sunshine , beautiful beaches , lush tropical scenery , and fine hotels , it is guaranteed to provide a little rest and relaxation .	10206	beautiful.a	1016	Aesthetics	MANUAL	6554785	21	29	KmG	beautiful
+LINKED:[4	4	21	29	bn:00098171a		http://babelnet.org/rdf/s00098171a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39032 ===
+	Aesthetics: 0.5
+
+SELECTED:[Aesthetics]
+MATCH!
+SILVER:195	23754	2	2	0	4103842	With warm sunshine , beautiful beaches , lush tropical scenery , and fine hotels , it is guaranteed to provide a little rest and relaxation .	7658	beach.n	191	Natural_features	MANUAL	6554786	31	37	KmG	beaches
+LINKED:[5	5	31	37	bn:00009263n	http://dbpedia.org/resource/Beach	http://babelnet.org/rdf/s00009263n	0.90909094	0.22222222	0.23809524	BABELFY]
+RANK:=== COUNTER  Counter 39034 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	2	2	0	4103842	With warm sunshine , beautiful beaches , lush tropical scenery , and fine hotels , it is guaranteed to provide a little rest and relaxation .	6312	fine.a	354	Desirability	MANUAL	6554787	69	72	KmG	fine
+LINKED:[12	12	69	72	bn:00096817a		http://babelnet.org/rdf/s00096817a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39036 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	2	0	4103842	With warm sunshine , beautiful beaches , lush tropical scenery , and fine hotels , it is guaranteed to provide a little rest and relaxation .	3015	hotel.n	173	Buildings	MANUAL	6554788	74	79	KmG	hotels
+LINKED:[13	13	74	79	bn:00044967n	http://dbpedia.org/resource/Hotel	http://babelnet.org/rdf/s00044967n	1.0	0.11111111	0.071428575	BABELFY]
+RANK:=== COUNTER  Counter 39038 ===
+	Buildings: 0.012195121951219504
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23754	2	2	0	4103842	With warm sunshine , beautiful beaches , lush tropical scenery , and fine hotels , it is guaranteed to provide a little rest and relaxation .	13670	guaranteed.a	114	Likelihood	MANUAL	6554789	89	98	KmG	guaranteed
+LINKED:[17	17	89	98	bn:00089099v		http://babelnet.org/rdf/s00089099v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39040 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	2	0	4103842	With warm sunshine , beautiful beaches , lush tropical scenery , and fine hotels , it is guaranteed to provide a little rest and relaxation .	11673	provide.v	1346	Supply	MANUAL	6554790	103	109	KmG	provide
+LINKED:[19	19	103	109	bn:00088643v		http://babelnet.org/rdf/s00088643v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39042 ===
+	Supply: 0.16666666666666669
+	Causation: 0.08333333333333333
+
+SELECTED:[Supply]
+MATCH!
+SILVER:195	23754	2	2	0	4103842	With warm sunshine , beautiful beaches , lush tropical scenery , and fine hotels , it is guaranteed to provide a little rest and relaxation .	15205	rest.n	364	Stimulus_focus	MANUAL	6554795	120	123	KmG	rest
+LINKED:[22	22	120	123	bn:00029457n		http://babelnet.org/rdf/s00029457n	0.85714287	0.22222222	0.14285715	BABELFY]
+RANK:=== COUNTER  Counter 39044 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	2	0	4103842	With warm sunshine , beautiful beaches , lush tropical scenery , and fine hotels , it is guaranteed to provide a little rest and relaxation .	14355	relaxation.n	364	Stimulus_focus	MANUAL	6554801	129	138	KmG	relaxation
+LINKED:[24	24	129	138	bn:00067013n		http://babelnet.org/rdf/s00067013n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39046 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	2	0	4103843	However , with a vibrant grassroots culture and the growing confidence of an independent nation , it defies the advertising stereotype of the deserted island .	15206	growing.a	91	Change_position_on_a_scale	MANUAL	6554815	52	58	KmG	growing
+LINKED:[9	9	52	58	bn:00088042v		http://babelnet.org/rdf/s00088042v	0.8	0.2	0.011560693	BABELFY]
+RANK:=== COUNTER  Counter 39048 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	2	0	4103843	However , with a vibrant grassroots culture and the growing confidence of an independent nation , it defies the advertising stereotype of the deserted island .	2749	confidence.n	141	Certainty	MANUAL	6554816	60	69	KmG	confidence
+LINKED:[10	10	60	69	bn:00006565n	http://dbpedia.org/resource/Authority_(management)	http://babelnet.org/rdf/s00006565n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39050 ===
+	Telling: 0.14285714285714288
+	Certainty: 0.10000000000000002
+
+SELECTED:[Certainty]
+MATCH!
+SILVER:195	23754	3	2	0	4103843	However , with a vibrant grassroots culture and the growing confidence of an independent nation , it defies the advertising stereotype of the deserted island .	12775	nation.n	195	Political_locales	MANUAL	6554817	89	94	KmG	nation
+LINKED:[14	14	89	94	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.8804348	0.9	0.4682081	BABELFY]
+RANK:=== COUNTER  Counter 39052 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	2	0	4103843	However , with a vibrant grassroots culture and the growing confidence of an independent nation , it defies the advertising stereotype of the deserted island .	3504	island.n	191	Natural_features	MANUAL	6554819	151	156	KmG	island
+LINKED:[24	24	151	156	bn:00047612n	http://dbpedia.org/resource/Island	http://babelnet.org/rdf/s00047612n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39054 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	4	2	0	4103844	Jamaica is not just a destination it is an experience .	10123	experience.n	70	Perception_experience	MANUAL	6554820	43	52	KmG	experience
+LINKED:[9	9	43	52	bn:02093276n	http://dbpedia.org/resource/Experience_(Lincoln_Thompson_album)	http://babelnet.org/rdf/s02093276n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 39056 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	3	0	4103845	The third - largest island in the Caribbean , just south of Cuba , Jamaica is 233 km ( 145 miles ) in length and 83 km ( 52 miles ) across at its widest point .	3504	island.n	191	Natural_features	MANUAL	6554831	20	25	KmG	island
+LINKED:[4	4	20	25	bn:00047612n	http://dbpedia.org/resource/Island	http://babelnet.org/rdf/s00047612n	0.9692308	0.6	0.050480768	BABELFY]
+RANK:=== COUNTER  Counter 39058 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	1	3	0	4103845	The third - largest island in the Caribbean , just south of Cuba , Jamaica is 233 km ( 145 miles ) in length and 83 km ( 52 miles ) across at its widest point .	13839	south.n	215	Direction	MANUAL	6554836	51	55	KmG	south
+LINKED:[10	10	51	55	bn:00115840r		http://babelnet.org/rdf/s00115840r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39060 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	3	0	4103845	The third - largest island in the Caribbean , just south of Cuba , Jamaica is 233 km ( 145 miles ) in length and 83 km ( 52 miles ) across at its widest point .	2813	mile.n	154	Measure_linear_extent	MANUAL	6554838	91	95	KmG	miles
+LINKED:[20	20	91	95	bn:00047159n	http://dbpedia.org/resource/Mile	http://babelnet.org/rdf/s00047159n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39062 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	3	0	4103845	The third - largest island in the Caribbean , just south of Cuba , Jamaica is 233 km ( 145 miles ) in length and 83 km ( 52 miles ) across at its widest point .	2197	length.n	108	Dimension	MANUAL	6554839	102	107	KmG	length
+LINKED:[23	23	102	107	bn:00050662n	http://dbpedia.org/resource/Length	http://babelnet.org/rdf/s00050662n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39064 ===
+	Shapes: 0.07692307692307694
+	Dimension: 0.06666666666666668
+
+SELECTED:[Dimension]
+MATCH!
+SILVER:195	23754	1	3	0	4103845	The third - largest island in the Caribbean , just south of Cuba , Jamaica is 233 km ( 145 miles ) in length and 83 km ( 52 miles ) across at its widest point .	2813	mile.n	154	Measure_linear_extent	MANUAL	6554843	124	128	KmG	miles
+LINKED:[29	29	124	128	bn:00047159n	http://dbpedia.org/resource/Mile	http://babelnet.org/rdf/s00047159n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39066 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	3	0	4103845	The third - largest island in the Caribbean , just south of Cuba , Jamaica is 233 km ( 145 miles ) in length and 83 km ( 52 miles ) across at its widest point .	14526	point.n	192	Locale	MANUAL	6554868	153	157	KmG	point
+LINKED:[35	35	153	157	bn:00063213n		http://babelnet.org/rdf/s00063213n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39068 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	3504	island.n	191	Natural_features	MANUAL	6554869	4	9	KmG	island
+LINKED:[1	1	4	9	bn:00047612n	http://dbpedia.org/resource/Island	http://babelnet.org/rdf/s00047612n	1.0	0.25	0.05612245	BABELFY]
+RANK:=== COUNTER  Counter 39070 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	5329	wake.v	293	Cause_to_wake	MANUAL	6554870	75	79	KmG	wakes
+LINKED:[16	16	75	79	bn:00095595v		http://babelnet.org/rdf/s00095595v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39072 ===
+	Cause_to_wake: 0.25
+	Waking_up: 0.16666666666666669
+
+SELECTED:[Cause_to_wake]
+MATCH!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	5875	eastern.a	143	Part_orientational	MANUAL	6554871	85	91	KmG	eastern
+LINKED:[18	18	85	91	bn:00101967a		http://babelnet.org/rdf/s00101967a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39074 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	5735	tip.n	143	Part_orientational	MANUAL	6554872	93	95	KmG	tip
+LINKED:[19	19	93	95	bn:00077365n		http://babelnet.org/rdf/s00077365n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39076 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	12445	proceed.v	164	Activity_ongoing	MANUAL	6554876	99	106	KmG	proceeds
+LINKED:[21	21	99	106	bn:00084594v		http://babelnet.org/rdf/s00084594v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39078 ===
+	Process_continue: 0.16666666666666669
+	Speak_on_topic: 0.0909090909090909
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	11005	caress.v	17	Manipulation	MANUAL	6554877	111	116	KmG	caress
+LINKED:[23	23	111	116	bn:00084536v		http://babelnet.org/rdf/s00084536v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39080 ===
+	Manipulation: 0.03333333333333334
+
+SELECTED:[Manipulation]
+MATCH!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	5867	length.n	328	Shapes	MANUAL	6554879	122	127	KmG	length
+LINKED:[25	25	122	127	bn:00050662n	http://dbpedia.org/resource/Length	http://babelnet.org/rdf/s00050662n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39082 ===
+	Shapes: 0.07692307692307694
+	Dimension: 0.06666666666666668
+
+SELECTED:[Shapes]
+MATCH!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	3504	island.n	191	Natural_features	MANUAL	6554886	136	141	KmG	island
+LINKED:[28	28	136	141	bn:00047612n	http://dbpedia.org/resource/Island	http://babelnet.org/rdf/s00047612n	0.85714287	0.1875	0.030612245	BABELFY]
+RANK:=== COUNTER  Counter 39084 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	11004	kiss.v	17	Manipulation	MANUAL	6554887	149	154	KmG	kisses
+LINKED:[31	31	149	154	bn:00014182n	http://dbpedia.org/resource/Kiss	http://babelnet.org/rdf/s00014182n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39086 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	5877	western.a	143	Part_orientational	MANUAL	6554888	160	166	KmG	western
+LINKED:[33	33	160	166	bn:00113813a		http://babelnet.org/rdf/s00113813a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39088 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	5735	tip.n	143	Part_orientational	MANUAL	6554889	168	170	KmG	tip
+LINKED:[34	34	168	170	bn:00077365n		http://babelnet.org/rdf/s00077365n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39090 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	4064	night.n	229	Calendric_unit	MANUAL	6554890	177	181	KmG	night
+LINKED:[36	36	177	181	bn:00025236n	http://dbpedia.org/resource/Night	http://babelnet.org/rdf/s00025236n	0.7173913	0.1875	0.042091835	BABELFY]
+RANK:=== COUNTER  Counter 39092 ===
+	Calendric_unit: 0.023255813953488358
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	6287	good.a	354	Desirability	MANUAL	6554891	172	175	KmG	good
+LINKED:[35	35	172	175	bn:00103672a		http://babelnet.org/rdf/s00103672a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39094 ===
+	Usefulness: 0.3333333333333333
+	Desirability: 0.125
+	Social_interaction_evaluation: 0.047619047619047596
+	Expertise: 0.030303030303030325
+
+SELECTED:[Desirability]
+MATCH!
+SILVER:195	23754	2	3	0	4103846	The island is aligned almost east - to - west in the water so that sunrise wakes the eastern tip , proceeds to caress the length of the island , and kisses the western tip good night .	13954	east.n	215	Direction	MANUAL	6558820	29	32	AlK	east
+LINKED:[5	5	29	32	bn:00101959a		http://babelnet.org/rdf/s00101959a	1.0	0.1875	0.042091835	BABELFY]
+RANK:=== COUNTER  Counter 39096 ===
+	Part_orientational: 0.039999999999999994
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	3	0	4103847	Geographically it is extremely diverse , with a central backbone of high mountains and hills blanketed with tropical rain-forest .	7813	geographically.adv	430	Domain	MANUAL	6554892	0	13	KmG	Geographically
+LINKED:[0	0	0	13	bn:00040163n	http://dbpedia.org/resource/Geography	http://babelnet.org/rdf/s00040163n	1.0	0.75	0.5283019	BABELFY]
+RANK:=== COUNTER  Counter 39098 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	3	0	4103847	Geographically it is extremely diverse , with a central backbone of high mountains and hills blanketed with tropical rain-forest .	14044	diverse.a	1893	Diversity	MANUAL	6554893	31	37	KmG	diverse
+LINKED:[4	4	31	37	bn:00101628a		http://babelnet.org/rdf/s00101628a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39100 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	3	0	4103847	Geographically it is extremely diverse , with a central backbone of high mountains and hills blanketed with tropical rain-forest .	3407	mountain.n	191	Natural_features	MANUAL	6555496	73	81	KmG	mountains
+LINKED:[12	12	73	81	bn:00056068n	http://dbpedia.org/resource/Mountain	http://babelnet.org/rdf/s00056068n	0.93333334	0.5	0.17610063	BABELFY]
+RANK:=== COUNTER  Counter 39102 ===
+	Quantity: 0.04545454545454547
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	3	3	0	4103847	Geographically it is extremely diverse , with a central backbone of high mountains and hills blanketed with tropical rain-forest .	3405	hill.n	191	Natural_features	MANUAL	6555497	87	91	KmG	hills
+LINKED:[14	14	87	91	bn:00044141n	http://dbpedia.org/resource/Hill	http://babelnet.org/rdf/s00044141n	0.72727275	0.25	0.050314464	BABELFY]
+RANK:=== COUNTER  Counter 39104 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	3	3	0	4103847	Geographically it is extremely diverse , with a central backbone of high mountains and hills blanketed with tropical rain-forest .	4798	blanketed.a	262	Abounding_with	MANUAL	6555498	93	101	KmG	blanketed
+LINKED:[15	15	93	101	bn:00083554v		http://babelnet.org/rdf/s00083554v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39106 ===
+	Adorning: 0.058823529411764705
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	3	0	4103847	Geographically it is extremely diverse , with a central backbone of high mountains and hills blanketed with tropical rain-forest .	3405	hill.n	191	Natural_features	MANUAL	6558823	87	91	AlK	hills
+LINKED:[14	14	87	91	bn:00044141n	http://dbpedia.org/resource/Hill	http://babelnet.org/rdf/s00044141n	0.72727275	0.25	0.050314464	BABELFY]
+RANK:=== COUNTER  Counter 39108 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	4	3	0	4103848	These are surrounded by areas of limestone formations , scrub and grassland , coral cliffs , and fine sand beaches .	3694	area.n	192	Locale	MANUAL	6555506	24	28	KmG	areas
+LINKED:[4	4	24	28	bn:00005513n	http://dbpedia.org/resource/Area	http://babelnet.org/rdf/s00005513n	1.0	0.5	0.06542056	BABELFY]
+RANK:=== COUNTER  Counter 39110 ===
+	Fields: 0.25
+	Locale: 0.16666666666666669
+	Locale_by_use: 0.03703703703703706
+
+SELECTED:[Locale]
+MATCH!
+SILVER:195	23754	4	3	0	4103848	These are surrounded by areas of limestone formations , scrub and grassland , coral cliffs , and fine sand beaches .	14498	scrub.n	193	Biological_area	MANUAL	6555507	56	60	KmG	scrub
+LINKED:[9	9	56	60	bn:00014097n		http://babelnet.org/rdf/s00014097n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39112 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	3	0	4103848	These are surrounded by areas of limestone formations , scrub and grassland , coral cliffs , and fine sand beaches .	3486	grassland.n	193	Biological_area	MANUAL	6555508	66	74	KmG	grassland
+LINKED:[11	11	66	74	bn:00041455n	http://dbpedia.org/resource/Grassland	http://babelnet.org/rdf/s00041455n	1.0	0.3	0.01682243	BABELFY]
+RANK:=== COUNTER  Counter 39114 ===
+	Biological_area: 0.041666666666666685
+
+SELECTED:[Biological_area]
+MATCH!
+SILVER:195	23754	4	3	0	4103848	These are surrounded by areas of limestone formations , scrub and grassland , coral cliffs , and fine sand beaches .	3513	cliff.n	191	Natural_features	MANUAL	6555509	84	89	KmG	cliffs
+LINKED:[14	14	84	89	bn:00019767n	http://dbpedia.org/resource/Cliff	http://babelnet.org/rdf/s00019767n	0.98507464	0.6	0.123364486	BABELFY]
+RANK:=== COUNTER  Counter 39116 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	4	3	0	4103848	These are surrounded by areas of limestone formations , scrub and grassland , coral cliffs , and fine sand beaches .	11602	sand.n	1321	Substance	MANUAL	6555510	102	105	KmG	sand
+LINKED:[18	18	102	105	bn:00069126n	http://dbpedia.org/resource/Sand	http://babelnet.org/rdf/s00069126n	0.94382024	0.7	0.15700935	BABELFY]
+RANK:=== COUNTER  Counter 39118 ===
+	Substance: 0.06666666666666668
+
+SELECTED:[Substance]
+MATCH!
+SILVER:195	23754	4	3	0	4103848	These are surrounded by areas of limestone formations , scrub and grassland , coral cliffs , and fine sand beaches .	7658	beach.n	191	Natural_features	MANUAL	6555511	107	113	KmG	beaches
+LINKED:[19	19	107	113	bn:00009263n	http://dbpedia.org/resource/Beach	http://babelnet.org/rdf/s00009263n	0.98717946	0.7	0.14392523	BABELFY]
+RANK:=== COUNTER  Counter 39120 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	5	3	0	4103849	Fresh water from tropical storms feeds 120 rivers and some of the most celebrated waterfalls and cascades on earth .	5691	storm.n	303	Weather	MANUAL	6555512	26	31	KmG	storms
+LINKED:[4	4	26	31	bn:00074458n	http://dbpedia.org/resource/Storm	http://babelnet.org/rdf/s00074458n	0.8888889	0.33333334	0.02631579	BABELFY]
+RANK:=== COUNTER  Counter 39122 ===
+	Weather: 0.16666666666666669
+
+SELECTED:[Weather]
+MATCH!
+SILVER:195	23754	5	3	0	4103849	Fresh water from tropical storms feeds 120 rivers and some of the most celebrated waterfalls and cascades on earth .	3497	river.n	191	Natural_features	MANUAL	6555513	43	48	KmG	rivers
+LINKED:[7	7	43	48	bn:00067948n	http://dbpedia.org/resource/River	http://babelnet.org/rdf/s00067948n	0.9952153	0.6666667	0.17105263	BABELFY]
+RANK:=== COUNTER  Counter 39124 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	5	3	0	4103849	Fresh water from tropical storms feeds 120 rivers and some of the most celebrated waterfalls and cascades on earth .	3521	waterfall.n	191	Natural_features	MANUAL	6555515	82	91	KmG	waterfalls
+LINKED:[14	14	82	91	bn:00032830n	http://dbpedia.org/resource/Waterfall	http://babelnet.org/rdf/s00032830n	0.989011	0.5	0.07401316	BABELFY]
+RANK:=== COUNTER  Counter 39126 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	5	3	0	4103849	Fresh water from tropical storms feeds 120 rivers and some of the most celebrated waterfalls and cascades on earth .	15210	cascade.n	191	Natural_features	MANUAL	6555525	97	104	KmG	cascades
+LINKED:[16	16	97	104	bn:00016388n		http://babelnet.org/rdf/s00016388n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39128 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	4	0	4103851	Rare species of butterflies and delicate hummingbirds take to the air , and crocodiles and manatees still live in and around vast tracts of mangrove swamp in the south .	14594	rare.a	80	Frequency	MANUAL	6555529	0	3	KmG	Rare
+LINKED:[0	0	0	3	bn:02397946n	http://dbpedia.org/resource/Crow_(missile)	http://babelnet.org/rdf/s02397946n	1.0	0.083333336	0.006756757	BABELFY]
+RANK:=== COUNTER  Counter 39130 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	4	0	4103851	Rare species of butterflies and delicate hummingbirds take to the air , and crocodiles and manatees still live in and around vast tracts of mangrove swamp in the south .	15211	take	64	Self_motion	MANUAL	6555535	66	68	KmG	air
+LINKED:[10	10	66	68	bn:00002185n	http://dbpedia.org/resource/Atmosphere_of_Earth	http://babelnet.org/rdf/s00002185n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39132 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	4	0	4103851	Rare species of butterflies and delicate hummingbirds take to the air , and crocodiles and manatees still live in and around vast tracts of mangrove swamp in the south .	2220	live.v	110	Residence	MANUAL	6555537	106	109	KmG	live
+LINKED:[17	17	106	109	bn:00087441v		http://babelnet.org/rdf/s00087441v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39134 ===
+	Residence: 0.07692307692307694
+
+SELECTED:[Residence]
+MATCH!
+SILVER:195	23754	2	4	0	4103851	Rare species of butterflies and delicate hummingbirds take to the air , and crocodiles and manatees still live in and around vast tracts of mangrove swamp in the south .	3466	swamp.n	193	Biological_area	MANUAL	6555538	149	153	KmG	swamp
+LINKED:[25	25	149	153	bn:00086542v		http://babelnet.org/rdf/s00086542v	1.0	0.083333336	0.006756757	BABELFY]
+RANK:=== COUNTER  Counter 39136 ===
+	Mass_motion: 0.08333333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	4	0	4103852	The island is surrounded by coral reefs and reef walls , which provide shelter to hundreds of species of sea creatures and recreation to divers and snorkelers .	3504	island.n	191	Natural_features	MANUAL	6555690	4	9	KmG	island
+LINKED:[1	1	4	9	bn:00047612n	http://dbpedia.org/resource/Island	http://babelnet.org/rdf/s00047612n	0.951049	0.53333336	0.056951422	BABELFY]
+RANK:=== COUNTER  Counter 39138 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	3	4	0	4103852	The island is surrounded by coral reefs and reef walls , which provide shelter to hundreds of species of sea creatures and recreation to divers and snorkelers .	3565	reef.n	191	Natural_features	MANUAL	6555691	34	38	KmG	reefs
+LINKED:[6	6	34	38	bn:00066763n	http://dbpedia.org/resource/Reef	http://babelnet.org/rdf/s00066763n	0.91803277	0.53333336	0.046901174	BABELFY]
+RANK:=== COUNTER  Counter 39140 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	3	4	0	4103852	The island is surrounded by coral reefs and reef walls , which provide shelter to hundreds of species of sea creatures and recreation to divers and snorkelers .	3565	reef.n	191	Natural_features	MANUAL	6555692	44	47	KmG	reef
+LINKED:[8	8	44	47	bn:00066763n	http://dbpedia.org/resource/Reef	http://babelnet.org/rdf/s00066763n	0.91803277	0.53333336	0.046901174	BABELFY]
+RANK:=== COUNTER  Counter 39142 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	3	4	0	4103852	The island is surrounded by coral reefs and reef walls , which provide shelter to hundreds of species of sea creatures and recreation to divers and snorkelers .	10070	wall.n	971	Architectural_part	MANUAL	6555693	49	53	KmG	walls
+LINKED:[9	9	49	53	bn:00080386n	http://dbpedia.org/resource/Wall	http://babelnet.org/rdf/s00080386n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39144 ===
+	Architectural_part: 0.10000000000000002
+
+SELECTED:[Architectural_part]
+MATCH!
+SILVER:195	23754	3	4	0	4103852	The island is surrounded by coral reefs and reef walls , which provide shelter to hundreds of species of sea creatures and recreation to divers and snorkelers .	3327	hundreds.n	189	Quantified_mass	MANUAL	6555696	82	89	KmG	hundreds
+LINKED:[15	15	82	89	bn:15804173n		http://babelnet.org/rdf/s15804173n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39146 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	4	0	4103852	The island is surrounded by coral reefs and reef walls , which provide shelter to hundreds of species of sea creatures and recreation to divers and snorkelers .	3498	sea.n	191	Natural_features	MANUAL	6555699	105	107	KmG	sea
+LINKED:[19	19	105	107	bn:00069946n	http://dbpedia.org/resource/Sea	http://babelnet.org/rdf/s00069946n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39148 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	3	4	0	4103852	The island is surrounded by coral reefs and reef walls , which provide shelter to hundreds of species of sea creatures and recreation to divers and snorkelers .	14354	recreation.n	364	Stimulus_focus	MANUAL	6555702	123	132	KmG	recreation
+LINKED:[22	22	123	132	bn:00027865n	http://dbpedia.org/resource/Recreation	http://babelnet.org/rdf/s00027865n	1.0	0.13333334	0.0016750419	BABELFY]
+RANK:=== COUNTER  Counter 39150 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	4	0	4103852	The island is surrounded by coral reefs and reef walls , which provide shelter to hundreds of species of sea creatures and recreation to divers and snorkelers .	11673	provide.v	1346	Supply	MANUAL	6558826	63	69	AlK	provide
+LINKED:[12	12	63	69	bn:00088643v		http://babelnet.org/rdf/s00088643v	0.8	0.06666667	0.0016750419	BABELFY]
+RANK:=== COUNTER  Counter 39152 ===
+	Supply: 0.16666666666666669
+	Causation: 0.08333333333333333
+
+SELECTED:[Supply]
+MATCH!
+SILVER:195	23754	1	5	0	4103853	Temperatures here vary only a few degrees from about 27 C ( 80 F ) , although the heat is tempered by the nearly continuous trade winds that blow across the Atlantic .	10344	temperature.n	1050	Temperature	MANUAL	6555703	0	11	KmG	Temperatures
+LINKED:[0	0	0	11	bn:00076457n	http://dbpedia.org/resource/Temperature	http://babelnet.org/rdf/s00076457n	0.93333334	0.8888889	0.26794258	BABELFY]
+RANK:=== COUNTER  Counter 39154 ===
+	Temperature: 0.25
+	Ambient_temperature: 0.16666666666666669
+
+SELECTED:[Temperature]
+MATCH!
+SILVER:195	23754	1	5	0	4103853	Temperatures here vary only a few degrees from about 27 C ( 80 F ) , although the heat is tempered by the nearly continuous trade winds that blow across the Atlantic .	12299	vary.v	481	Similarity	MANUAL	6555705	18	21	KmG	vary
+LINKED:[2	2	18	21	bn:00082554v		http://babelnet.org/rdf/s00082554v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39156 ===
+	Similarity: 0.0625
+
+SELECTED:[Similarity]
+MATCH!
+SILVER:195	23754	2	5	0	4103854	In the mountains and hills of the interior , the temperature drops with altitude and with the clouds that wrap around the highest peaks .	3407	mountain.n	191	Natural_features	MANUAL	6555743	7	15	KmG	mountains
+LINKED:[2	2	7	15	bn:00056068n	http://dbpedia.org/resource/Mountain	http://babelnet.org/rdf/s00056068n	0.989899	1.0	0.2585752	BABELFY]
+RANK:=== COUNTER  Counter 39158 ===
+	Quantity: 0.04545454545454547
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	2	5	0	4103854	In the mountains and hills of the interior , the temperature drops with altitude and with the clouds that wrap around the highest peaks .	3405	hill.n	191	Natural_features	MANUAL	6555744	21	25	KmG	hills
+LINKED:[4	4	21	25	bn:00044141n	http://dbpedia.org/resource/Hill	http://babelnet.org/rdf/s00044141n	0.93333334	0.5714286	0.07387863	BABELFY]
+RANK:=== COUNTER  Counter 39160 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	2	5	0	4103854	In the mountains and hills of the interior , the temperature drops with altitude and with the clouds that wrap around the highest peaks .	8851	interior.n	327	Part_inner_outer	MANUAL	6555745	34	41	KmG	interior
+LINKED:[7	7	34	41	bn:00046891n		http://babelnet.org/rdf/s00046891n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39162 ===
+	Part_inner_outer: 0.10000000000000002
+
+SELECTED:[Part_inner_outer]
+MATCH!
+SILVER:195	23754	2	5	0	4103854	In the mountains and hills of the interior , the temperature drops with altitude and with the clouds that wrap around the highest peaks .	11313	temperature.n	1052	Ambient_temperature	MANUAL	6555746	49	59	KmG	temperature
+LINKED:[10	10	49	59	bn:00076457n	http://dbpedia.org/resource/Temperature	http://babelnet.org/rdf/s00076457n	1.0	0.71428573	0.092348285	BABELFY]
+RANK:=== COUNTER  Counter 39164 ===
+	Temperature: 0.25
+	Ambient_temperature: 0.16666666666666669
+
+SELECTED:[Ambient_temperature]
+MATCH!
+SILVER:195	23754	2	5	0	4103854	In the mountains and hills of the interior , the temperature drops with altitude and with the clouds that wrap around the highest peaks .	1954	drop.v	91	Change_position_on_a_scale	MANUAL	6555747	61	65	KmG	drops
+LINKED:[11	11	61	65	bn:00087364v		http://babelnet.org/rdf/s00087364v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39166 ===
+	Body_movement: 0.02127659574468084
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	6	0	4103855	Much of the land is extremely fertile and produces a range of tropical fruit and vegetable crops , providing ample food for the people and such lucrative cash crops as sugar and coffee .	11686	produce.v	319	Creating	MANUAL	6555750	42	49	KmG	produces
+LINKED:[8	8	42	49	bn:00088042v		http://babelnet.org/rdf/s00088042v	0.81666666	0.4117647	0.017002081	BABELFY]
+RANK:=== COUNTER  Counter 39168 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	6	0	4103855	Much of the land is extremely fertile and produces a range of tropical fruit and vegetable crops , providing ample food for the people and such lucrative cash crops as sugar and coffee .	14048	range.n	1893	Diversity	MANUAL	6555751	53	57	KmG	range
+LINKED:[10	10	53	57	bn:00003268n	http://dbpedia.org/resource/Range_(music)	http://babelnet.org/rdf/s00003268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39170 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	6	0	4103855	Much of the land is extremely fertile and produces a range of tropical fruit and vegetable crops , providing ample food for the people and such lucrative cash crops as sugar and coffee .	5058	fruit.n	277	Food	MANUAL	6555752	71	75	KmG	fruit
+LINKED:[13	13	71	75	bn:00036686n	http://dbpedia.org/resource/Fruit	http://babelnet.org/rdf/s00036686n	0.8022923	0.5882353	0.09715475	BABELFY]
+RANK:=== COUNTER  Counter 39172 ===
+	Food: 0.015384615384615413
+
+SELECTED:[Food]
+MATCH!
+SILVER:195	23754	1	6	0	4103855	Much of the land is extremely fertile and produces a range of tropical fruit and vegetable crops , providing ample food for the people and such lucrative cash crops as sugar and coffee .	5061	vegetable.n	277	Food	MANUAL	6555753	81	89	KmG	vegetable
+LINKED:[15	15	81	89	bn:00079663n	http://dbpedia.org/resource/Vegetable	http://babelnet.org/rdf/s00079663n	0.94827586	0.5882353	0.07633588	BABELFY]
+RANK:=== COUNTER  Counter 39174 ===
+	Food: 0.015384615384615413
+
+SELECTED:[Food]
+MATCH!
+SILVER:195	23754	1	6	0	4103855	Much of the land is extremely fertile and produces a range of tropical fruit and vegetable crops , providing ample food for the people and such lucrative cash crops as sugar and coffee .	11673	provide.v	1346	Supply	MANUAL	6555755	99	107	KmG	providing
+LINKED:[18	18	99	107	bn:00088643v		http://babelnet.org/rdf/s00088643v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39176 ===
+	Supply: 0.16666666666666669
+	Causation: 0.08333333333333333
+
+SELECTED:[Supply]
+MATCH!
+SILVER:195	23754	1	6	0	4103855	Much of the land is extremely fertile and produces a range of tropical fruit and vegetable crops , providing ample food for the people and such lucrative cash crops as sugar and coffee .	6044	ample.a	342	Sufficiency	MANUAL	6555756	109	113	KmG	ample
+LINKED:[19	19	109	113	bn:00097001a		http://babelnet.org/rdf/s00097001a	0.85714287	0.11764706	0.0020818876	BABELFY]
+RANK:=== COUNTER  Counter 39178 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	6	0	4103855	Much of the land is extremely fertile and produces a range of tropical fruit and vegetable crops , providing ample food for the people and such lucrative cash crops as sugar and coffee .	5511	people.n	304	People	MANUAL	6555757	128	133	KmG	people
+LINKED:[23	23	128	133	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39180 ===
+	People: 0.08333333333333333
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23754	1	6	0	4103855	Much of the land is extremely fertile and produces a range of tropical fruit and vegetable crops , providing ample food for the people and such lucrative cash crops as sugar and coffee .	5119	sugar.n	277	Food	MANUAL	6555759	168	172	KmG	sugar
+LINKED:[30	30	168	172	bn:00066804n	http://dbpedia.org/resource/Sugar	http://babelnet.org/rdf/s00066804n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39182 ===
+	Food: 0.015384615384615413
+
+SELECTED:[Food]
+MATCH!
+SILVER:195	23754	1	6	0	4103855	Much of the land is extremely fertile and produces a range of tropical fruit and vegetable crops , providing ample food for the people and such lucrative cash crops as sugar and coffee .	5124	coffee.n	277	Food	MANUAL	6555760	178	183	KmG	coffee
+LINKED:[32	32	178	183	bn:00020414n	http://dbpedia.org/resource/Coffee	http://babelnet.org/rdf/s00020414n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39184 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	6	0	4103856	Four hundred years ago these crops brought British colonists to rule the land and African slaves to work it .	14531	four.num	218	Cardinal_numbers	MANUAL	6555761	0	3	KmG	Four
+LINKED:[0	0	0	3	bn:00000111n	http://dbpedia.org/resource/Quaternion	http://babelnet.org/rdf/s00000111n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39186 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	6	0	4103856	Four hundred years ago these crops brought British colonists to rule the land and African slaves to work it .	4074	year.n	229	Calendric_unit	MANUAL	6555764	13	17	KmG	years
+LINKED:[2	2	13	17	bn:00081857n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00081857n	0.72727275	0.30769232	0.02488336	BABELFY]
+RANK:=== COUNTER  Counter 39188 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	6	0	4103856	Four hundred years ago these crops brought British colonists to rule the land and African slaves to work it .	12012	bring.v	5	Causation	MANUAL	6555766	35	41	KmG	brought
+LINKED:[6	6	35	41	bn:00084058v		http://babelnet.org/rdf/s00084058v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39190 ===
+	Bringing: 0.04999999999999999
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	6	0	4103856	Four hundred years ago these crops brought British colonists to rule the land and African slaves to work it .	13575	colonist.n	1794	Colonization	MANUAL	6555767	51	59	KmG	colonists
+LINKED:[8	8	51	59	bn:00020714n	http://dbpedia.org/resource/Settler	http://babelnet.org/rdf/s00020714n	1.0	0.15384616	0.00933126	BABELFY]
+RANK:=== COUNTER  Counter 39192 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	6	0	4103856	Four hundred years ago these crops brought British colonists to rule the land and African slaves to work it .	1603	rule.v	73	Leadership	MANUAL	6555768	64	67	KmG	rule
+LINKED:[10	10	64	67	bn:00088992v		http://babelnet.org/rdf/s00088992v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39194 ===
+	Leadership: 0.017857142857142835
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:195	23754	2	6	0	4103856	Four hundred years ago these crops brought British colonists to rule the land and African slaves to work it .	14000	work.v	1892	Work	MANUAL	6555769	100	103	KmG	work
+LINKED:[17	17	100	103	bn:00095812v		http://babelnet.org/rdf/s00095812v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39196 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	6	0	4103857	The bitter taste of slavery is always in the background .	4942	bitter.a	271	Chemical-sense_description	MANUAL	6555770	4	9	KmG	bitter
+LINKED:[1	1	4	9	bn:00098464a		http://babelnet.org/rdf/s00098464a	1.0	1.0	0.25	BABELFY]
+RANK:=== COUNTER  Counter 39198 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	6	0	4103857	The bitter taste of slavery is always in the background .	1559	taste.n	71	Sensation	MANUAL	6555771	11	15	KmG	taste
+LINKED:[2	2	11	15	bn:00042275n	http://dbpedia.org/resource/Taste	http://babelnet.org/rdf/s00042275n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39200 ===
+	Sensation: 0.05555555555555554
+
+SELECTED:[Sensation]
+MATCH!
+SILVER:195	23754	1	7	0	4103858	Today Jamaican population is a mixture of African and English , with Spanish , Indian , and a smattering of Portuguese Jews , Germans , Welsh , and Scots .	14201	today.n	1895	Temporal_collocation	MANUAL	6555773	0	4	KmG	Today
+LINKED:[0	0	0	4	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39202 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	7	0	4103858	Today Jamaican population is a mixture of African and English , with Spanish , Indian , and a smattering of Portuguese Jews , Germans , Welsh , and Scots .	14928	jew.n	1021	People_by_religion	MANUAL	6555774	119	122	KmG	Jews
+LINKED:[21	21	119	122	bn:00043492n	http://dbpedia.org/resource/Jews	http://babelnet.org/rdf/s00043492n	0.91588783	0.5	0.0348135	BABELFY]
+RANK:=== COUNTER  Counter 39204 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	7	0	4103858	Today Jamaican population is a mixture of African and English , with Spanish , Indian , and a smattering of Portuguese Jews , Germans , Welsh , and Scots .	14019	german.n	974	People_by_origin	MANUAL	6555775	126	132	KmG	Germans
+LINKED:[23	23	126	132	bn:00040293n	http://dbpedia.org/resource/German_language	http://babelnet.org/rdf/s00040293n	0.7318087	0.78571427	0.1250444	BABELFY]
+RANK:=== COUNTER  Counter 39206 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	7	0	4103858	Today Jamaican population is a mixture of African and English , with Spanish , Indian , and a smattering of Portuguese Jews , Germans , Welsh , and Scots .	15231	smattering.n	189	Quantified_mass	MANUAL	6555785	94	103	KmG	smattering
+LINKED:[18	18	94	103	bn:00082974v		http://babelnet.org/rdf/s00082974v	0.9	0.21428572	0.003197158	BABELFY]
+RANK:=== COUNTER  Counter 39208 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	7	0	4103858	Today Jamaican population is a mixture of African and English , with Spanish , Indian , and a smattering of Portuguese Jews , Germans , Welsh , and Scots .	2926	population.n	103	Aggregate	MANUAL	6558827	15	24	AlK	population
+LINKED:[2	2	15	24	bn:00063595n		http://babelnet.org/rdf/s00063595n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39210 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	7	0	4103859	They have been melded together , giving rise to a fascinating national identity .	4832	meld.v	13	Cause_to_amalgamate	MANUAL	6555786	15	20	KmG	melded
+LINKED:[3	3	15	20	bn:00090730v		http://babelnet.org/rdf/s00090730v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39212 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	7	0	4103859	They have been melded together , giving rise to a fascinating national identity .	15233	give	5	Causation	MANUAL	6555805	40	43	EGp	rise
+LINKED:[7	7	40	43	bn:00067923n		http://babelnet.org/rdf/s00067923n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39214 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	7	0	4103859	They have been melded together , giving rise to a fascinating national identity .	14921	fascinating.a	2046	Mental_stimulus_stimulus_focus	MANUAL	6555806	50	60	KmG	fascinating
+LINKED:[10	10	50	60	bn:00088046v		http://babelnet.org/rdf/s00088046v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39216 ===
+	Experiencer_obj: 0.01315789473684209
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	7	0	4103859	They have been melded together , giving rise to a fascinating national identity .	10243	national.a	195	Political_locales	MANUAL	6555807	62	69	KmG	national
+LINKED:[11	11	62	69	bn:00107136a		http://babelnet.org/rdf/s00107136a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39218 ===
+	Origin: 0.06666666666666668
+	Political_locales: 0.041666666666666685
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:195	23754	2	7	0	4103859	They have been melded together , giving rise to a fascinating national identity .	13252	identity.n	1029	Identicality	MANUAL	6555808	71	78	KmG	identity
+LINKED:[12	12	71	78	bn:00045824n	http://dbpedia.org/resource/Personal_identity	http://babelnet.org/rdf/s00045824n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39220 ===
+	Identicality: 0.5
+
+SELECTED:[Identicality]
+MATCH!
+SILVER:195	23754	3	7	0	4103860	Since independence in 1962 , the black majority has worked to create a country based on confidence from within , working on a principle of pride in oneself and in one 's roots .	15234	independence.n	72	Change_of_leadership	MANUAL	6555815	6	17	KmG	independence
+LINKED:[1	1	6	17	bn:02119930n	http://dbpedia.org/resource/Independence_(probability_theory)	http://babelnet.org/rdf/s02119930n	1.0	0.16666667	0.0031496063	BABELFY]
+RANK:=== COUNTER  Counter 39222 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	7	0	4103860	Since independence in 1962 , the black majority has worked to create a country based on confidence from within , working on a principle of pride in oneself and in one 's roots .	14000	work.v	1892	Work	MANUAL	6555817	52	57	KmG	worked
+LINKED:[9	9	52	57	bn:00095812v		http://babelnet.org/rdf/s00095812v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39224 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	7	0	4103860	Since independence in 1962 , the black majority has worked to create a country based on confidence from within , working on a principle of pride in oneself and in one 's roots .	3683	country.n	195	Political_locales	MANUAL	6555826	71	77	KmG	country
+LINKED:[13	13	71	77	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.7472924	0.75	0.16299212	BABELFY]
+RANK:=== COUNTER  Counter 39226 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	7	0	4103860	Since independence in 1962 , the black majority has worked to create a country based on confidence from within , working on a principle of pride in oneself and in one 's roots .	2749	confidence.n	141	Certainty	MANUAL	6555827	88	97	KmG	confidence
+LINKED:[16	16	88	97	bn:00006565n	http://dbpedia.org/resource/Authority_(management)	http://babelnet.org/rdf/s00006565n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39228 ===
+	Telling: 0.14285714285714288
+	Certainty: 0.10000000000000002
+
+SELECTED:[Certainty]
+MATCH!
+SILVER:195	23754	3	7	0	4103860	Since independence in 1962 , the black majority has worked to create a country based on confidence from within , working on a principle of pride in oneself and in one 's roots .	14000	work.v	1892	Work	MANUAL	6555829	113	119	KmG	working
+LINKED:[20	20	113	119	bn:00095812v		http://babelnet.org/rdf/s00095812v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39230 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	7	0	4103860	Since independence in 1962 , the black majority has worked to create a country based on confidence from within , working on a principle of pride in oneself and in one 's roots .	5437	create.v	280	Intentionally_create	MANUAL	6675740	62	67	WMcQ	create
+LINKED:[11	11	62	67	bn:00086008v		http://babelnet.org/rdf/s00086008v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39232 ===
+	Creating: 0.14285714285714288
+	Building: 0.125
+	Intentionally_create: 0.0909090909090909
+	Causation: 0.08333333333333333
+	Invention: 0.08333333333333333
+	Cause_to_start: 0.07692307692307694
+
+SELECTED:[Intentionally_create]
+MATCH!
+SILVER:195	23754	4	7	0	4103861	This is so important for the future of the country that the national motto is `` Out of many one people . ''	14408	future.n	1931	Alternatives	MANUAL	6555831	29	34	KmG	future
+LINKED:[6	6	29	34	bn:00036941n	http://dbpedia.org/resource/Future	http://babelnet.org/rdf/s00036941n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39234 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	7	0	4103861	This is so important for the future of the country that the national motto is `` Out of many one people . ''	3683	country.n	195	Political_locales	MANUAL	6555833	43	49	KmG	country
+LINKED:[9	9	43	49	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39236 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	7	0	4103861	This is so important for the future of the country that the national motto is `` Out of many one people . ''	7528	important.a	407	Importance	MANUAL	6558828	11	19	AlK	important
+LINKED:[3	3	11	19	bn:00100716a		http://babelnet.org/rdf/s00100716a	1.0	0.2	0.0055555557	BABELFY]
+RANK:=== COUNTER  Counter 39238 ===
+	Importance: 0.10000000000000002
+
+SELECTED:[Importance]
+MATCH!
+SILVER:195	23754	4	7	0	4103861	This is so important for the future of the country that the national motto is `` Out of many one people . ''	10243	national.a	195	Political_locales	MANUAL	6558829	60	67	AlK	national
+LINKED:[12	12	60	67	bn:00107136a		http://babelnet.org/rdf/s00107136a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39240 ===
+	Origin: 0.06666666666666668
+	Political_locales: 0.041666666666666685
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:195	23754	1	8	0	4103862	It says much about the character of the Jamaican people that they have slightly changed the story of Columbus and his trip to the island in 1493 .	5511	people.n	304	People	MANUAL	6558830	49	54	AlK	people
+LINKED:[9	9	49	54	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39242 ===
+	People: 0.08333333333333333
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23754	1	8	0	4103862	It says much about the character of the Jamaican people that they have slightly changed the story of Columbus and his trip to the island in 1493 .	9269	change.v	683	Cause_change	MANUAL	6558831	80	86	AlK	changed
+LINKED:[14	14	80	86	bn:00082553v		http://babelnet.org/rdf/s00082553v	0.8	0.2	0.027586207	BABELFY]
+RANK:=== COUNTER  Counter 39244 ===
+	Change_tool: 0.3333333333333333
+	Undergo_change: 0.14285714285714288
+	Cause_change: 0.0909090909090909
+
+SELECTED:[Cause_change]
+MATCH!
+SILVER:195	23754	1	8	0	4103862	It says much about the character of the Jamaican people that they have slightly changed the story of Columbus and his trip to the island in 1493 .	6064	trip.n	343	Travel	MANUAL	6558832	118	121	AlK	trip
+LINKED:[21	21	118	121	bn:00078318n		http://babelnet.org/rdf/s00078318n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39246 ===
+	Travel: 0.06666666666666668
+
+SELECTED:[Travel]
+MATCH!
+SILVER:195	23754	1	8	0	4103862	It says much about the character of the Jamaican people that they have slightly changed the story of Columbus and his trip to the island in 1493 .	3504	island.n	191	Natural_features	MANUAL	6558833	130	135	AlK	island
+LINKED:[24	24	130	135	bn:00047612n	http://dbpedia.org/resource/Island	http://babelnet.org/rdf/s00047612n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39248 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	2	8	0	4103863	He is not held in the same high esteem here as he is in other islands .	11891	esteem.n	1400	Regard	MANUAL	6558836	32	37	AlK	esteem
+LINKED:[8	8	32	37	bn:00031653n		http://babelnet.org/rdf/s00031653n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39250 ===
+	Regard: 0.14285714285714288
+	Judgment: 0.028571428571428564
+
+SELECTED:[Regard]
+MATCH!
+SILVER:195	23754	2	8	0	4103863	He is not held in the same high esteem here as he is in other islands .	3504	island.n	191	Natural_features	MANUAL	6558838	62	68	AlK	islands
+LINKED:[15	15	62	68	bn:00047612n	http://dbpedia.org/resource/Island	http://babelnet.org/rdf/s00047612n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39252 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	3	8	0	4103864	As someone has said , Columbus only thought that he had discovered Jamaica .	15315	say.v	6	Communication	MANUAL	6558839	15	18	AlK	said
+LINKED:[3	3	15	18	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39254 ===
+	Text_creation: 0.10000000000000002
+	Statement: 0.0158730158730159
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	8	0	4103864	As someone has said , Columbus only thought that he had discovered Jamaica .	11959	think.v	1412	Opinion	MANUAL	6558840	36	42	AlK	thought
+LINKED:[7	7	36	42	bn:00089105v		http://babelnet.org/rdf/s00089105v	1.0	0.25	0.05263158	BABELFY]
+RANK:=== COUNTER  Counter 39256 ===
+	Opinion: 0.125
+
+SELECTED:[Opinion]
+MATCH!
+SILVER:195	23754	3	8	0	4103864	As someone has said , Columbus only thought that he had discovered Jamaica .	7441	discover.v	403	Achieving_first	MANUAL	6646827	56	65	CFB	discovered
+LINKED:[11	11	56	65	bn:00086935v		http://babelnet.org/rdf/s00086935v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39258 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	8	0	4103865	In actuality , it was the population of Jamaica who discovered him Columbus was really lost , thinking that he had found another route to Asia .	2926	population.n	103	Aggregate	MANUAL	6558842	26	35	AlK	population
+LINKED:[6	6	26	35	bn:00063596n	http://dbpedia.org/resource/Population	http://babelnet.org/rdf/s00063596n	0.89719623	0.54545456	0.1322314	BABELFY]
+RANK:=== COUNTER  Counter 39260 ===
+	Aggregate: 0.018181818181818177
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:195	23754	4	8	0	4103865	In actuality , it was the population of Jamaica who discovered him Columbus was really lost , thinking that he had found another route to Asia .	11959	think.v	1412	Opinion	MANUAL	6558843	94	101	AlK	thinking
+LINKED:[17	17	94	101	bn:00084733v		http://babelnet.org/rdf/s00084733v	1.0	0.09090909	0.0013774105	BABELFY]
+RANK:=== COUNTER  Counter 39262 ===
+	Cogitation: 0.125
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	8	0	4103865	In actuality , it was the population of Jamaica who discovered him Columbus was really lost , thinking that he had found another route to Asia .	3787	route.n	203	Roadways	MANUAL	6558845	129	133	AlK	route
+LINKED:[23	23	129	133	bn:00067975n	http://dbpedia.org/resource/Road	http://babelnet.org/rdf/s00067975n	0.8	0.18181819	0.005509642	BABELFY]
+RANK:=== COUNTER  Counter 39264 ===
+	Roadways: 0.03448275862068967
+
+SELECTED:[Roadways]
+MATCH!
+SILVER:195	23754	1	9	0	4103866	Vestiges of the British colonial legacy can still be found , not least in the fact that English is Jamaica 's official language : the popularity of cricket is another example .	11227	find.v	792	Locating	MANUAL	6558847	53	57	AlK	found
+LINKED:[9	9	53	57	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39266 ===
+	Becoming_aware: 0.08333333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	9	0	4103866	Vestiges of the British colonial legacy can still be found , not least in the fact that English is Jamaica 's official language : the popularity of cricket is another example .	2653	example.n	132	Instance	MANUAL	6558849	167	173	AlK	example
+LINKED:[30	30	167	173	bn:00032099n		http://babelnet.org/rdf/s00032099n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39268 ===
+	Instance: 0.3333333333333333
+
+SELECTED:[Instance]
+MATCH!
+SILVER:195	23754	2	9	0	4103867	The thirteen regional parishes and numerous towns were originally named after British settlements .	13360	regional.a	192	Locale	MANUAL	6558850	13	20	AlK	regional
+LINKED:[2	2	13	20	bn:00109623a		http://babelnet.org/rdf/s00109623a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39270 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	9	0	4103867	The thirteen regional parishes and numerous towns were originally named after British settlements .	10236	parish.n	195	Political_locales	MANUAL	6558851	22	29	AlK	parishes
+LINKED:[3	3	22	29	bn:00060680n	http://dbpedia.org/resource/Parish_(Church_of_England)	http://babelnet.org/rdf/s00060680n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39272 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	9	0	4103867	The thirteen regional parishes and numerous towns were originally named after British settlements .	13751	numerous.a	189	Quantified_mass	MANUAL	6558852	35	42	AlK	numerous
+LINKED:[5	5	35	42	bn:00105858a		http://babelnet.org/rdf/s00105858a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39274 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	9	0	4103867	The thirteen regional parishes and numerous towns were originally named after British settlements .	3691	town.n	195	Political_locales	MANUAL	6558853	44	48	AlK	towns
+LINKED:[6	6	44	48	bn:00077773n	http://dbpedia.org/resource/Town	http://babelnet.org/rdf/s00077773n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39276 ===
+	Political_locales: 0.041666666666666685
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:195	23754	2	9	0	4103867	The thirteen regional parishes and numerous towns were originally named after British settlements .	13580	settlement	1794	Colonization	MANUAL	6558854	86	96	AlK	settlements
+LINKED:[12	12	86	96	bn:00020718n	http://dbpedia.org/resource/Plantation_(settlement_or_colony)	http://babelnet.org/rdf/s00020718n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39278 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	9	0	4103868	You can find Manchester , Sheffield , and Cambridge in Jamaica , to name but three .	11227	find.v	792	Locating	MANUAL	6558855	8	11	AlK	find
+LINKED:[2	2	8	11	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39280 ===
+	Becoming_aware: 0.08333333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	9	0	4103869	However , these British influences have , even from the earliest days of colonial rule , always been tempered and molded to the Jamaican style .	10451	influence.n	1084	Objective_influence	MANUAL	6558859	24	33	AlK	influences
+LINKED:[4	4	24	33	bn:00046693n		http://babelnet.org/rdf/s00046693n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39282 ===
+	Influence_of_event_on_cognizer: 0.3333333333333333
+	Objective_influence: 0.2
+	Subjective_influence: 0.125
+
+SELECTED:[Objective_influence]
+MATCH!
+SILVER:195	23754	4	9	0	4103869	However , these British influences have , even from the earliest days of colonial rule , always been tempered and molded to the Jamaican style .	15041	early.a	1895	Temporal_collocation	MANUAL	6558861	56	63	AlK	earliest
+LINKED:[10	10	56	63	bn:00101934a		http://babelnet.org/rdf/s00101934a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39284 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	9	0	4103869	However , these British influences have , even from the earliest days of colonial rule , always been tempered and molded to the Jamaican style .	3946	day.n	229	Calendric_unit	MANUAL	6558863	65	68	AlK	days
+LINKED:[11	11	65	68	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39286 ===
+	Calendric_unit: 0.023255813953488358
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23754	4	9	0	4103869	However , these British influences have , even from the earliest days of colonial rule , always been tempered and molded to the Jamaican style .	13654	rule.n	73	Leadership	MANUAL	6558864	82	85	AlK	rule
+LINKED:[14	14	82	85	bn:00066933n		http://babelnet.org/rdf/s00066933n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39288 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	9	0	4103870	Jamaica has always had a second , unofficial language developed from the early days of slavery .	11249	second.a	1147	Ordinal_numbers	MANUAL	6558871	25	30	AlK	second
+LINKED:[5	5	25	30	bn:00095974a		http://babelnet.org/rdf/s00095974a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39290 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	9	0	4103870	Jamaica has always had a second , unofficial language developed from the early days of slavery .	5756	develop.v	316	Coming_to_be	MANUAL	6558872	54	62	AlK	developed
+LINKED:[9	9	54	62	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39292 ===
+	Cause_to_make_progress: 0.5
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	9	0	4103870	Jamaica has always had a second , unofficial language developed from the early days of slavery .	15041	early.a	1895	Temporal_collocation	MANUAL	6558874	73	77	AlK	early
+LINKED:[12	12	73	77	bn:00101939a		http://babelnet.org/rdf/s00101939a	0.85714287	0.2857143	0.046153847	BABELFY]
+RANK:=== COUNTER  Counter 39294 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	9	0	4103870	Jamaica has always had a second , unofficial language developed from the early days of slavery .	3946	day.n	229	Calendric_unit	MANUAL	6558875	79	82	AlK	days
+LINKED:[13	13	79	82	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39296 ===
+	Calendric_unit: 0.023255813953488358
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23754	7	9	0	4103872	Next to town names derived from England , you also find names such as Wait Awhile and Fruitful Vale , derived from the function and activity of the everyday lives of ordinary Jamaicans .	3691	town.n	195	Political_locales	MANUAL	6558910	8	11	AlK	town
+LINKED:[2	2	8	11	bn:00077773n	http://dbpedia.org/resource/Town	http://babelnet.org/rdf/s00077773n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39298 ===
+	Political_locales: 0.041666666666666685
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:195	23754	7	9	0	4103872	Next to town names derived from England , you also find names such as Wait Awhile and Fruitful Vale , derived from the function and activity of the everyday lives of ordinary Jamaicans .	3931	name.n	228	Being_named	MANUAL	6558912	13	17	AlK	names
+LINKED:[3	3	13	17	bn:00056758n	http://dbpedia.org/resource/Name	http://babelnet.org/rdf/s00056758n	1.0	0.25	0.047281325	BABELFY]
+RANK:=== COUNTER  Counter 39300 ===
+	Referring_by_name: 0.2
+	Being_named: 0.05555555555555554
+
+SELECTED:[Being_named]
+MATCH!
+SILVER:195	23754	7	9	0	4103872	Next to town names derived from England , you also find names such as Wait Awhile and Fruitful Vale , derived from the function and activity of the everyday lives of ordinary Jamaicans .	175	find.v	20	Becoming_aware	MANUAL	6558913	51	54	AlK	find
+LINKED:[10	10	51	54	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39302 ===
+	Becoming_aware: 0.08333333333333333
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:195	23754	7	9	0	4103872	Next to town names derived from England , you also find names such as Wait Awhile and Fruitful Vale , derived from the function and activity of the everyday lives of ordinary Jamaicans .	3931	name.n	228	Being_named	MANUAL	6558914	56	60	AlK	names
+LINKED:[11	11	56	60	bn:00056758n	http://dbpedia.org/resource/Name	http://babelnet.org/rdf/s00056758n	1.0	0.25	0.047281325	BABELFY]
+RANK:=== COUNTER  Counter 39304 ===
+	Referring_by_name: 0.2
+	Being_named: 0.05555555555555554
+
+SELECTED:[Being_named]
+MATCH!
+SILVER:195	23754	7	9	0	4103872	Next to town names derived from England , you also find names such as Wait Awhile and Fruitful Vale , derived from the function and activity of the everyday lives of ordinary Jamaicans .	9948	function.n	900	Contingency	MANUAL	6558919	119	126	AlK	function
+LINKED:[23	23	119	126	bn:00036821n	http://dbpedia.org/resource/Map_(mathematics)	http://babelnet.org/rdf/s00036821n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39306 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	7	9	0	4103872	Next to town names derived from England , you also find names such as Wait Awhile and Fruitful Vale , derived from the function and activity of the everyday lives of ordinary Jamaicans .	10607	ordinary.a	1134	Typicality	MANUAL	6558921	166	173	AlK	ordinary
+LINKED:[31	31	166	173	bn:00107963a		http://babelnet.org/rdf/s00107963a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39308 ===
+	Typicality: 0.25
+
+SELECTED:[Typicality]
+MATCH!
+SILVER:195	23754	8	9	0	4103873	And as far as cricket is concerned , Caribbean players have turned the tables on their colonial mentors and now produce some of the best players in the world , easily capable of soundly outplaying the Brits .	6535	concern.v	373	Topic	MANUAL	6558924	25	33	AlK	concerned
+LINKED:[6	6	25	33	bn:00083240v		http://babelnet.org/rdf/s00083240v	0.8	0.125	0.010840109	BABELFY]
+RANK:=== COUNTER  Counter 39310 ===
+	Topic: 0.125
+	Statement: 0.0158730158730159
+
+SELECTED:[Topic]
+MATCH!
+SILVER:195	23754	8	9	0	4103873	And as far as cricket is concerned , Caribbean players have turned the tables on their colonial mentors and now produce some of the best players in the world , easily capable of soundly outplaying the Brits .	11686	produce.v	319	Creating	MANUAL	6558926	112	118	AlK	produce
+LINKED:[20	20	112	118	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39312 ===
+	Creating: 0.14285714285714288
+	Behind_the_scenes: 0.10000000000000002
+	Intentionally_create: 0.0909090909090909
+	Birth: 0.07142857142857145
+
+SELECTED:[Creating]
+MATCH!
+SILVER:195	23754	8	9	0	4103873	And as far as cricket is concerned , Caribbean players have turned the tables on their colonial mentors and now produce some of the best players in the world , easily capable of soundly outplaying the Brits .	10179	world.n	195	Political_locales	MANUAL	6558928	152	156	AlK	world
+LINKED:[28	28	152	156	bn:00029424n	http://dbpedia.org/resource/Earth	http://babelnet.org/rdf/s00029424n	0.76237625	0.4375	0.20867209	BABELFY]
+RANK:=== COUNTER  Counter 39314 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	8	9	0	4103873	And as far as cricket is concerned , Caribbean players have turned the tables on their colonial mentors and now produce some of the best players in the world , easily capable of soundly outplaying the Brits .	10157	capable.a	990	Capability	MANUAL	6558929	167	173	AlK	capable
+LINKED:[31	31	167	173	bn:00099215a		http://babelnet.org/rdf/s00099215a	1.0	0.125	0.021680217	BABELFY]
+RANK:=== COUNTER  Counter 39316 ===
+	Capability: 0.125
+
+SELECTED:[Capability]
+MATCH!
+SILVER:195	23754	8	9	0	4103873	And as far as cricket is concerned , Caribbean players have turned the tables on their colonial mentors and now produce some of the best players in the world , easily capable of soundly outplaying the Brits .	6287	good.a	354	Desirability	MANUAL	6558930	132	135	AlK	best
+LINKED:[24	24	132	135	bn:00098274a		http://babelnet.org/rdf/s00098274a	1.0	0.0625	0.0027100272	BABELFY]
+RANK:=== COUNTER  Counter 39318 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	10	0	4103874	In recent years the influence of the United States has been much stronger than that of Britain .	4074	year.n	229	Calendric_unit	MANUAL	6558933	10	14	AlK	years
+LINKED:[2	2	10	14	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39320 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	10	0	4103874	In recent years the influence of the United States has been much stronger than that of Britain .	10451	influence.n	1084	Objective_influence	MANUAL	6558934	20	28	AlK	influence
+LINKED:[4	4	20	28	bn:00046693n		http://babelnet.org/rdf/s00046693n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39322 ===
+	Influence_of_event_on_cognizer: 0.3333333333333333
+	Objective_influence: 0.2
+	Subjective_influence: 0.125
+
+SELECTED:[Objective_influence]
+MATCH!
+SILVER:195	23754	1	10	0	4103874	In recent years the influence of the United States has been much stronger than that of Britain .	12473	strong.a	1563	Level_of_force_exertion	MANUAL	6558935	65	72	AlK	stronger
+LINKED:[12	12	65	72	bn:13708834a		http://babelnet.org/rdf/s13708834a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39324 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	10	0	4103875	Many Jamaicans head to the States for further education , and the American economic influence on areas such as business investment and planning is growing .	6387	head.v	64	Self_motion	MANUAL	6558937	15	18	AlK	head
+LINKED:[2	2	15	18	bn:00089259v		http://babelnet.org/rdf/s00089259v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39326 ===
+	Self_motion: 0.009708737864077673
+
+SELECTED:[Self_motion]
+MATCH!
+SILVER:195	23754	2	10	0	4103875	Many Jamaicans head to the States for further education , and the American economic influence on areas such as business investment and planning is growing .	10841	education.n	111	Education_teaching	MANUAL	6558939	46	54	AlK	education
+LINKED:[8	8	46	54	bn:00026980n	http://dbpedia.org/resource/Didactic_method	http://babelnet.org/rdf/s00026980n	1.0	0.6666667	0.102564104	BABELFY]
+RANK:=== COUNTER  Counter 39328 ===
+	Education_teaching: 0.05263157894736844
+
+SELECTED:[Education_teaching]
+MATCH!
+SILVER:195	23754	2	10	0	4103875	Many Jamaicans head to the States for further education , and the American economic influence on areas such as business investment and planning is growing .	12490	economic.a	1572	Economy	MANUAL	6558940	75	82	AlK	economic
+LINKED:[13	13	75	82	bn:00102001a		http://babelnet.org/rdf/s00102001a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39330 ===
+	Economy: 0.5
+
+SELECTED:[Economy]
+MATCH!
+SILVER:195	23754	2	10	0	4103875	Many Jamaicans head to the States for further education , and the American economic influence on areas such as business investment and planning is growing .	10451	influence.n	1084	Objective_influence	MANUAL	6558941	84	92	AlK	influence
+LINKED:[14	14	84	92	bn:00046693n		http://babelnet.org/rdf/s00046693n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39332 ===
+	Influence_of_event_on_cognizer: 0.3333333333333333
+	Objective_influence: 0.2
+	Subjective_influence: 0.125
+
+SELECTED:[Objective_influence]
+MATCH!
+SILVER:195	23754	2	10	0	4103875	Many Jamaicans head to the States for further education , and the American economic influence on areas such as business investment and planning is growing .	12204	area.n	1345	Fields	MANUAL	6558943	97	101	AlK	areas
+LINKED:[16	16	97	101	bn:00005513n	http://dbpedia.org/resource/Area	http://babelnet.org/rdf/s00005513n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39334 ===
+	Fields: 0.25
+	Locale: 0.16666666666666669
+	Locale_by_use: 0.03703703703703706
+
+SELECTED:[Fields]
+MATCH!
+SILVER:195	23754	2	10	0	4103875	Many Jamaicans head to the States for further education , and the American economic influence on areas such as business investment and planning is growing .	6355	business.n	365	Businesses	MANUAL	6558944	111	118	AlK	business
+LINKED:[19	19	111	118	bn:00014137n	http://dbpedia.org/resource/Business	http://babelnet.org/rdf/s00014137n	0.7368421	0.5833333	0.073426574	BABELFY]
+RANK:=== COUNTER  Counter 39336 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	10	0	4103875	Many Jamaicans head to the States for further education , and the American economic influence on areas such as business investment and planning is growing .	11175	grow.v	725	Expansion	MANUAL	6558945	147	153	AlK	growing
+LINKED:[24	24	147	153	bn:00089082v		http://babelnet.org/rdf/s00089082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39338 ===
+	Becoming: 0.2
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	10	0	4103876	Its no surprise that the US dollar is accepted as readily as the Jamaican dollar to pay for goods .	12785	surprise.n	47	Experiencer_obj	MANUAL	6558947	7	14	AlK	surprise
+LINKED:[2	2	7	14	bn:00075412n		http://babelnet.org/rdf/s00075412n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39340 ===
+	Experiencer_obj: 0.01315789473684209
+
+SELECTED:[Experiencer_obj]
+MATCH!
+SILVER:195	23754	3	10	0	4103876	Its no surprise that the US dollar is accepted as readily as the Jamaican dollar to pay for goods .	7538	accept.v	411	Receiving	MANUAL	6558948	38	45	AlK	accepted
+LINKED:[8	8	38	45	bn:00082197v		http://babelnet.org/rdf/s00082197v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39342 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	10	0	4103876	Its no surprise that the US dollar is accepted as readily as the Jamaican dollar to pay for goods .	3083	pay.v	180	Commerce_pay	MANUAL	6558949	84	86	AlK	pay
+LINKED:[16	16	84	86	bn:00091493v		http://babelnet.org/rdf/s00091493v	0.7291667	0.71428573	0.047683924	BABELFY]
+RANK:=== COUNTER  Counter 39344 ===
+	Commerce_pay: 0.25
+
+SELECTED:[Commerce_pay]
+MATCH!
+SILVER:195	23754	3	10	0	4103876	Its no surprise that the US dollar is accepted as readily as the Jamaican dollar to pay for goods .	2899	goods.n	82	Commerce_scenario	MANUAL	6558950	92	96	AlK	goods
+LINKED:[18	18	92	96	bn:00021045n	http://dbpedia.org/resource/Commodity	http://babelnet.org/rdf/s00021045n	1.0	0.71428573	0.06811989	BABELFY]
+RANK:=== COUNTER  Counter 39346 ===
+	Commerce_scenario: 0.14285714285714288
+
+SELECTED:[Commerce_scenario]
+MATCH!
+SILVER:195	23754	1	11	0	4103877	But Jamaica is not simply turning blindly into a small version of its bigger brother .	10803	turn.v	1172	Undergo_change	MANUAL	6558953	26	32	AlK	turning
+LINKED:[5	5	26	32	bn:00095233v		http://babelnet.org/rdf/s00095233v	1.0	0.5	0.125	BABELFY]
+RANK:=== COUNTER  Counter 39348 ===
+	Change_direction: 0.14285714285714288
+	Undergo_change: 0.14285714285714288
+
+SELECTED:[Undergo_change]
+MATCH!
+SILVER:195	23754	1	11	0	4103877	But Jamaica is not simply turning blindly into a small version of its bigger brother .	10121	version.n	128	Type	MANUAL	6558954	55	61	AlK	version
+LINKED:[10	10	55	61	bn:00079827n		http://babelnet.org/rdf/s00079827n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39350 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	11	0	4103877	But Jamaica is not simply turning blindly into a small version of its bigger brother .	2155	brother.n	104	Kinship	MANUAL	6558955	77	83	AlK	brother
+LINKED:[14	14	77	83	bn:00011357n		http://babelnet.org/rdf/s00011357n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39352 ===
+	Kinship: 0.02127659574468084
+
+SELECTED:[Kinship]
+MATCH!
+SILVER:195	23754	2	11	0	4103878	It still revels in its own identity , which is now internationally recognized through such influential cultural products as the Rastafarian religion and reggae music .	13252	identity.n	1029	Identicality	MANUAL	6558963	27	34	AlK	identity
+LINKED:[6	6	27	34	bn:03768830n	http://dbpedia.org/resource/Identity_(social_science)	http://babelnet.org/rdf/s03768830n	0.71428573	0.625	0.04780115	BABELFY]
+RANK:=== COUNTER  Counter 39354 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	11	0	4103878	It still revels in its own identity , which is now internationally recognized through such influential cultural products as the Rastafarian religion and reggae music .	13543	internationally.adv	195	Political_locales	MANUAL	6558964	51	65	AlK	internationally
+LINKED:[11	11	51	65	bn:00115991r		http://babelnet.org/rdf/s00115991r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39356 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	11	0	4103878	It still revels in its own identity , which is now internationally recognized through such influential cultural products as the Rastafarian religion and reggae music .	13846	music.n	405	Performing_arts	MANUAL	6558966	160	164	AlK	music
+LINKED:[24	24	160	164	bn:00056443n	http://dbpedia.org/resource/Music	http://babelnet.org/rdf/s00056443n	1.0	0.875	0.22753346	BABELFY]
+RANK:=== COUNTER  Counter 39358 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	11	0	4103878	It still revels in its own identity , which is now internationally recognized through such influential cultural products as the Rastafarian religion and reggae music .	10439	influential.a	1083	Subjective_influence	MANUAL	6558970	91	101	AlK	influential
+LINKED:[15	15	91	101	bn:00105083a		http://babelnet.org/rdf/s00105083a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39360 ===
+	Subjective_influence: 0.125
+
+SELECTED:[Subjective_influence]
+MATCH!
+SILVER:195	23754	3	11	0	4103879	The followers of Rastafarianism ( with their characteristic mane of dreadlocks ) originated in Jamaica in the 1930s and are still predominantly found here .	10596	characteristic.a	1133	Distinctiveness	MANUAL	6558978	45	58	AlK	characteristic
+LINKED:[7	7	45	58	bn:00099532a		http://babelnet.org/rdf/s00099532a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39362 ===
+	Distinctiveness: 0.16666666666666669
+
+SELECTED:[Distinctiveness]
+MATCH!
+SILVER:195	23754	3	11	0	4103879	The followers of Rastafarianism ( with their characteristic mane of dreadlocks ) originated in Jamaica in the 1930s and are still predominantly found here .	2512	mane.n	119	Body_parts	MANUAL	6558979	60	63	AlK	mane
+LINKED:[8	8	60	63	bn:00053169n		http://babelnet.org/rdf/s00053169n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39364 ===
+	Observable_bodyparts: 0.01282051282051284
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	11	0	4103879	The followers of Rastafarianism ( with their characteristic mane of dreadlocks ) originated in Jamaica in the 1930s and are still predominantly found here .	10588	originate.v	1103	Origin	MANUAL	6558980	81	90	AlK	originated
+LINKED:[12	12	81	90	bn:00082757v		http://babelnet.org/rdf/s00082757v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39366 ===
+	Coming_to_be: 0.16666666666666669
+	Origin: 0.06666666666666668
+
+SELECTED:[Origin]
+MATCH!
+SILVER:195	23754	3	11	0	4103879	The followers of Rastafarianism ( with their characteristic mane of dreadlocks ) originated in Jamaica in the 1930s and are still predominantly found here .	11227	find.v	792	Locating	MANUAL	6558982	144	148	AlK	found
+LINKED:[22	22	144	148	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39368 ===
+	Becoming_aware: 0.08333333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	11	0	4103880	Jamaican music ska -- and , especially , reggae -- has since the 1970s been exported and enjoyed around the world .	13846	music.n	405	Performing_arts	MANUAL	6558988	9	13	AlK	music
+LINKED:[1	1	9	13	bn:00056443n	http://dbpedia.org/resource/Music	http://babelnet.org/rdf/s00056443n	0.8717949	0.8888889	0.2042042	BABELFY]
+RANK:=== COUNTER  Counter 39370 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	11	0	4103880	Jamaican music ska -- and , especially , reggae -- has since the 1970s been exported and enjoyed around the world .	12469	export.v	1568	Exporting	MANUAL	6558990	76	83	AlK	exported
+LINKED:[15	15	76	83	bn:00087887v		http://babelnet.org/rdf/s00087887v	1.0	0.11111111	0.0015015015	BABELFY]
+RANK:=== COUNTER  Counter 39372 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	11	0	4103880	Jamaican music ska -- and , especially , reggae -- has since the 1970s been exported and enjoyed around the world .	14913	enjoy.v	2045	Emotions_of_mental_activity	MANUAL	6558991	89	95	AlK	enjoyed
+LINKED:[17	17	89	95	bn:00087646v		http://babelnet.org/rdf/s00087646v	1.0	0.11111111	0.0015015015	BABELFY]
+RANK:=== COUNTER  Counter 39374 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	11	0	4103880	Jamaican music ska -- and , especially , reggae -- has since the 1970s been exported and enjoyed around the world .	10179	world.n	195	Political_locales	MANUAL	6558993	108	112	AlK	world
+LINKED:[20	20	108	112	bn:00022991n	http://dbpedia.org/resource/Macrocosm_and_microcosm	http://babelnet.org/rdf/s00022991n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39376 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	11	0	4103881	The strong beat and earthy lyrics seem to symbolize and celebrate the character of this young and lively country .	10332	beat.n	1040	Temporal_pattern	MANUAL	6558996	11	14	AlK	beat
+LINKED:[2	2	11	14	bn:00009394n		http://babelnet.org/rdf/s00009394n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39378 ===
+	Path_travelled: 0.25
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	11	0	4103881	The strong beat and earthy lyrics seem to symbolize and celebrate the character of this young and lively country .	5401	lyric.n	298	Text	MANUAL	6558997	27	32	AlK	lyrics
+LINKED:[5	5	27	32	bn:00049912n		http://babelnet.org/rdf/s00049912n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39380 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	11	0	4103881	The strong beat and earthy lyrics seem to symbolize and celebrate the character of this young and lively country .	10073	young.a	972	Age	MANUAL	6558998	88	92	AlK	young
+LINKED:[15	15	88	92	bn:00104589a		http://babelnet.org/rdf/s00104589a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39382 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	11	0	4103881	The strong beat and earthy lyrics seem to symbolize and celebrate the character of this young and lively country .	14152	lively.a	1904	Lively_place	MANUAL	6558999	98	103	AlK	lively
+LINKED:[17	17	98	103	bn:00106080a		http://babelnet.org/rdf/s00106080a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39384 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	11	0	4103881	The strong beat and earthy lyrics seem to symbolize and celebrate the character of this young and lively country .	3683	country.n	195	Political_locales	MANUAL	6559000	105	111	AlK	country
+LINKED:[18	18	105	111	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.7692308	0.5555556	0.42735043	BABELFY]
+RANK:=== COUNTER  Counter 39386 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	11	0	4103881	The strong beat and earthy lyrics seem to symbolize and celebrate the character of this young and lively country .	1325	seem.v	67	Give_impression	MANUAL	6559002	34	37	AlK	seem
+LINKED:[6	6	34	37	bn:00082693v		http://babelnet.org/rdf/s00082693v	1.0	0.11111111	0.008547009	BABELFY]
+RANK:=== COUNTER  Counter 39388 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	12	0	4103882	Jamaicans are sociable people , living their lives out in the open and knowing everything about their neighbor business .	1623	sociable.a	74	Sociability	MANUAL	6559029	14	21	AlK	sociable
+LINKED:[2	2	14	21	bn:00110840a		http://babelnet.org/rdf/s00110840a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39390 ===
+	Sociability: 0.125
+	Social_interaction_evaluation: 0.047619047619047596
+
+SELECTED:[Sociability]
+MATCH!
+SILVER:195	23754	1	12	0	4103882	Jamaicans are sociable people , living their lives out in the open and knowing everything about their neighbor business .	5511	people.n	304	People	MANUAL	6559030	23	28	AlK	people
+LINKED:[3	3	23	28	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.7826087	0.6	0.144	BABELFY]
+RANK:=== COUNTER  Counter 39392 ===
+	People: 0.08333333333333333
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23754	1	12	0	4103882	Jamaicans are sociable people , living their lives out in the open and knowing everything about their neighbor business .	160	know.v	19	Awareness	MANUAL	6559031	71	77	AlK	knowing
+LINKED:[13	13	71	77	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39394 ===
+	Familiarity: 0.25
+	Awareness: 0.04347826086956524
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:195	23754	1	12	0	4103882	Jamaicans are sociable people , living their lives out in the open and knowing everything about their neighbor business .	11261	neighbor.n	1143	People_by_residence	MANUAL	6559033	102	109	AlK	neighbor
+LINKED:[17	17	102	109	bn:00057219n		http://babelnet.org/rdf/s00057219n	1.0	0.2	0.016	BABELFY]
+RANK:=== COUNTER  Counter 39396 ===
+	People_by_residence: 0.5
+
+SELECTED:[People_by_residence]
+MATCH!
+SILVER:195	23754	2	12	0	4103883	There 's nothing they like better than having a good chat about the latest bit of gossip : who is doing what , where , and why .	6287	good.a	354	Desirability	MANUAL	6559034	48	51	AlK	good
+LINKED:[9	9	48	51	bn:00103672a		http://babelnet.org/rdf/s00103672a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39398 ===
+	Usefulness: 0.3333333333333333
+	Desirability: 0.125
+	Social_interaction_evaluation: 0.047619047619047596
+	Expertise: 0.030303030303030325
+
+SELECTED:[Desirability]
+MATCH!
+SILVER:195	23754	2	12	0	4103883	There 's nothing they like better than having a good chat about the latest bit of gossip : who is doing what , where , and why .	9967	chat.n	910	Chatting	MANUAL	6559035	53	56	AlK	chat
+LINKED:[10	10	53	56	bn:00017937n	http://dbpedia.org/resource/Confabulation	http://babelnet.org/rdf/s00017937n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39400 ===
+	Chatting: 0.10000000000000002
+
+SELECTED:[Chatting]
+MATCH!
+SILVER:195	23754	2	12	0	4103883	There 's nothing they like better than having a good chat about the latest bit of gossip : who is doing what , where , and why .	14794	latest.a	81	Relative_time	MANUAL	6559037	68	73	AlK	latest
+LINKED:[13	13	68	73	bn:00105763a		http://babelnet.org/rdf/s00105763a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39402 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	12	0	4103883	There 's nothing they like better than having a good chat about the latest bit of gossip : who is doing what , where , and why .	9981	gossip.n	910	Chatting	MANUAL	6559038	82	87	AlK	gossip
+LINKED:[16	16	82	87	bn:00016855n	http://dbpedia.org/resource/Causerie	http://babelnet.org/rdf/s00016855n	0.75	0.2	0.11111111	BABELFY]
+RANK:=== COUNTER  Counter 39404 ===
+	Chatting: 0.10000000000000002
+
+SELECTED:[Chatting]
+MATCH!
+SILVER:195	23754	3	12	0	4103884	They are very direct in their dealings with each other , as you might discover if you come across a friendly conversation among a group of friends .	173	discover.v	20	Becoming_aware	MANUAL	6559041	70	77	AlK	discover
+LINKED:[14	14	70	77	bn:00086708v		http://babelnet.org/rdf/s00086708v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39406 ===
+	Locating: 0.5
+	Perception_experience: 0.11111111111111108
+	Becoming_aware: 0.08333333333333333
+	Perception_active: 0.03125
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:195	23754	3	12	0	4103884	They are very direct in their dealings with each other , as you might discover if you come across a friendly conversation among a group of friends .	11933	come	20	Becoming_aware	MANUAL	6559042	86	89	AlK	come
+LINKED:[17	17	86	89	bn:00085323v		http://babelnet.org/rdf/s00085323v	0.8	0.25	0.024539877	BABELFY]
+RANK:=== COUNTER  Counter 39408 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	12	0	4103884	They are very direct in their dealings with each other , as you might discover if you come across a friendly conversation among a group of friends .	6611	friendly.a	372	Social_interaction_evaluation	MANUAL	6559043	100	107	AlK	friendly
+LINKED:[20	20	100	107	bn:00103344a		http://babelnet.org/rdf/s00103344a	0.85714287	0.375	0.073619634	BABELFY]
+RANK:=== COUNTER  Counter 39410 ===
+	Sociability: 0.125
+	Social_interaction_evaluation: 0.047619047619047596
+
+SELECTED:[Social_interaction_evaluation]
+MATCH!
+SILVER:195	23754	3	12	0	4103884	They are very direct in their dealings with each other , as you might discover if you come across a friendly conversation among a group of friends .	9972	conversation.n	910	Chatting	MANUAL	6559044	109	120	AlK	conversation
+LINKED:[21	21	109	120	bn:00420460n	http://dbpedia.org/resource/Conversation_(album)	http://babelnet.org/rdf/s00420460n	1.0	0.125	0.006134969	BABELFY]
+RANK:=== COUNTER  Counter 39412 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	12	0	4103884	They are very direct in their dealings with each other , as you might discover if you come across a friendly conversation among a group of friends .	2112	group.n	103	Aggregate	MANUAL	6559045	130	134	AlK	group
+LINKED:[24	24	130	134	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39414 ===
+	Aggregate: 0.018181818181818177
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:195	23754	3	12	0	4103884	They are very direct in their dealings with each other , as you might discover if you come across a friendly conversation among a group of friends .	2177	friend.n	102	Personal_relationship	MANUAL	6559046	139	145	AlK	friends
+LINKED:[26	26	139	145	bn:00036538n		http://babelnet.org/rdf/s00036538n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39416 ===
+	Personal_relationship: 0.02777777777777777
+
+SELECTED:[Personal_relationship]
+MATCH!
+SILVER:195	23754	4	12	0	4103885	The loud , raucous Jamaican English dialect and the waving hands reflect the joy with which social relations are conducted here .	540	wave.v	36	Gesture	MANUAL	6559047	52	57	AlK	waving
+LINKED:[9	9	52	57	bn:00083289v		http://babelnet.org/rdf/s00083289v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39418 ===
+	Gesture: 0.2
+
+SELECTED:[Gesture]
+MATCH!
+SILVER:195	23754	4	12	0	4103885	The loud , raucous Jamaican English dialect and the waving hands reflect the joy with which social relations are conducted here .	2409	hand.n	119	Body_parts	MANUAL	6559048	59	63	AlK	hands
+LINKED:[10	10	59	63	bn:00042759n	http://dbpedia.org/resource/Hand	http://babelnet.org/rdf/s00042759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39420 ===
+	Observable_bodyparts: 0.01282051282051284
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	12	0	4103885	The loud , raucous Jamaican English dialect and the waving hands reflect the joy with which social relations are conducted here .	7362	relation.n	248	Relation	MANUAL	6559049	99	107	AlK	relations
+LINKED:[17	17	99	107	bn:00066995n		http://babelnet.org/rdf/s00066995n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39422 ===
+	Relation: 1.0
+
+SELECTED:[Relation]
+MATCH!
+SILVER:195	23754	4	12	0	4103885	The loud , raucous Jamaican English dialect and the waving hands reflect the joy with which social relations are conducted here .	11736	conduct.v	198	Intentionally_act	MANUAL	6559050	113	121	AlK	conducted
+LINKED:[19	19	113	121	bn:00082284v		http://babelnet.org/rdf/s00082284v	0.85714287	0.16666667	0.015306123	BABELFY]
+RANK:=== COUNTER  Counter 39424 ===
+	Conduct: 0.11111111111111108
+	Intentionally_act: 0.11111111111111108
+	Compatibility: 0.05555555555555554
+
+SELECTED:[Intentionally_act]
+MATCH!
+SILVER:195	23754	5	12	0	4103886	They are equally direct in their dealings with visitors , too , so do n't expect a shy Jamaican smile as you walk by .	14215	visitor.n	1911	Visiting	MANUAL	6559052	47	54	AlK	visitors
+LINKED:[8	8	47	54	bn:00080115n		http://babelnet.org/rdf/s00080115n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39426 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	12	0	4103886	They are equally direct in their dealings with visitors , too , so do n't expect a shy Jamaican smile as you walk by .	255	expect.v	26	Expectation	MANUAL	6559053	74	79	AlK	expect
+LINKED:[16	16	74	79	bn:00082665v		http://babelnet.org/rdf/s00082665v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39428 ===
+	Opinion: 0.125
+	Expectation: 0.11111111111111108
+
+SELECTED:[Expectation]
+MATCH!
+SILVER:195	23754	5	12	0	4103886	They are equally direct in their dealings with visitors , too , so do n't expect a shy Jamaican smile as you walk by .	1622	shy.a	74	Sociability	MANUAL	6559054	83	85	AlK	shy
+LINKED:[18	18	83	85	bn:00101361a		http://babelnet.org/rdf/s00101361a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39430 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	12	0	4103886	They are equally direct in their dealings with visitors , too , so do n't expect a shy Jamaican smile as you walk by .	2916	smile.n	161	Facial_expression	MANUAL	6559055	96	100	AlK	smile
+LINKED:[20	20	96	100	bn:00041807n	http://dbpedia.org/resource/Smile	http://babelnet.org/rdf/s00041807n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39432 ===
+	Facial_expression: 0.11111111111111108
+
+SELECTED:[Facial_expression]
+MATCH!
+SILVER:195	23754	5	12	0	4103886	They are equally direct in their dealings with visitors , too , so do n't expect a shy Jamaican smile as you walk by .	8350	walk.v	64	Self_motion	MANUAL	6559056	109	112	AlK	walk
+LINKED:[23	23	109	112	bn:00095597v		http://babelnet.org/rdf/s00095597v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39434 ===
+	Self_motion: 0.009708737864077673
+
+SELECTED:[Self_motion]
+MATCH!
+SILVER:195	23754	6	12	0	4103887	Instead , be prepared for a barrage of questions about your life , offers to supply anything you need , a host of jokes at your expense , and some serious flirting if you 're single .	13001	prepared.a	169	Activity_ready_state	MANUAL	6559057	13	20	AlK	prepared
+LINKED:[3	3	13	20	bn:00088250v		http://babelnet.org/rdf/s00088250v	1.0	0.125	0.012048192	BABELFY]
+RANK:=== COUNTER  Counter 39436 ===
+	Activity_prepare: 0.2
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	6	12	0	4103887	Instead , be prepared for a barrage of questions about your life , offers to supply anything you need , a host of jokes at your expense , and some serious flirting if you 're single .	634	question.n	40	Questioning	MANUAL	6559058	39	47	AlK	questions
+LINKED:[8	8	39	47	bn:00030951n		http://babelnet.org/rdf/s00030951n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39438 ===
+	Questioning: 0.10000000000000002
+
+SELECTED:[Questioning]
+MATCH!
+SILVER:195	23754	6	12	0	4103887	Instead , be prepared for a barrage of questions about your life , offers to supply anything you need , a host of jokes at your expense , and some serious flirting if you 're single .	11672	supply.v	1346	Supply	MANUAL	6559060	77	82	AlK	supply
+LINKED:[15	15	77	82	bn:00088643v		http://babelnet.org/rdf/s00088643v	0.7619048	0.25	0.19277108	BABELFY]
+RANK:=== COUNTER  Counter 39440 ===
+	Supply: 0.16666666666666669
+	Causation: 0.08333333333333333
+
+SELECTED:[Supply]
+MATCH!
+SILVER:195	23754	6	12	0	4103887	Instead , be prepared for a barrage of questions about your life , offers to supply anything you need , a host of jokes at your expense , and some serious flirting if you 're single .	11791	need.v	1375	Needing	MANUAL	6559061	97	100	AlK	need
+LINKED:[18	18	97	100	bn:00091028v		http://babelnet.org/rdf/s00091028v	1.0	0.125	0.012048192	BABELFY]
+RANK:=== COUNTER  Counter 39442 ===
+	Needing: 0.5
+	Required_event: 0.3333333333333333
+	Possession: 0.0909090909090909
+
+SELECTED:[Needing]
+MATCH!
+SILVER:195	23754	6	12	0	4103887	Instead , be prepared for a barrage of questions about your life , offers to supply anything you need , a host of jokes at your expense , and some serious flirting if you 're single .	2118	host.n	103	Aggregate	MANUAL	6559062	106	109	AlK	host
+LINKED:[21	21	106	109	bn:00044910n	http://dbpedia.org/resource/Maître_d'hôtel	http://babelnet.org/rdf/s00044910n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39444 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	6	12	0	4103887	Instead , be prepared for a barrage of questions about your life , offers to supply anything you need , a host of jokes at your expense , and some serious flirting if you 're single .	2044	single.a	102	Personal_relationship	MANUAL	6559063	175	180	AlK	single
+LINKED:[35	35	175	180	bn:00104971a		http://babelnet.org/rdf/s00104971a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39446 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	9	12	0	4103890	Having some lines ready to throw back at them induces guffaws of laughter and an appreciative slap on the back .	12293	ready.a	169	Activity_ready_state	MANUAL	6559067	18	22	AlK	ready
+LINKED:[3	3	18	22	bn:00109485a		http://babelnet.org/rdf/s00109485a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39448 ===
+	Activity_ready_state: 0.5
+
+SELECTED:[Activity_ready_state]
+MATCH!
+SILVER:195	23754	9	12	0	4103890	Having some lines ready to throw back at them induces guffaws of laughter and an appreciative slap on the back .	960	throw.v	55	Cause_motion	MANUAL	6559068	27	31	AlK	throw
+LINKED:[5	5	27	31	bn:00088819v		http://babelnet.org/rdf/s00088819v	0.8	0.4	0.14285715	BABELFY]
+RANK:=== COUNTER  Counter 39450 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	9	12	0	4103890	Having some lines ready to throw back at them induces guffaws of laughter and an appreciative slap on the back .	12014	induce.v	5	Causation	MANUAL	6559069	46	52	AlK	induces
+LINKED:[9	9	46	52	bn:00084700v		http://babelnet.org/rdf/s00084700v	1.0	0.2	0.071428575	BABELFY]
+RANK:=== COUNTER  Counter 39452 ===
+	Board_vehicle: 0.125
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	9	12	0	4103890	Having some lines ready to throw back at them induces guffaws of laughter and an appreciative slap on the back .	9656	guffaw.n	850	Sounds	MANUAL	6559070	54	60	AlK	guffaws
+LINKED:[10	10	54	60	bn:00050198n	http://dbpedia.org/resource/Laughter	http://babelnet.org/rdf/s00050198n	0.8	0.4	0.2857143	BABELFY]
+RANK:=== COUNTER  Counter 39454 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	9	12	0	4103890	Having some lines ready to throw back at them induces guffaws of laughter and an appreciative slap on the back .	12866	appreciative.a	1400	Regard	MANUAL	6559071	81	92	AlK	appreciative
+LINKED:[15	15	81	92	bn:00097387a		http://babelnet.org/rdf/s00097387a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39456 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	10607	ordinary.a	1134	Typicality	MANUAL	6559130	32	39	AnW	ordinary
+LINKED:[4	4	32	39	bn:00107963a		http://babelnet.org/rdf/s00107963a	1.0	0.09375	0.008016032	BABELFY]
+RANK:=== COUNTER  Counter 39458 ===
+	Typicality: 0.25
+
+SELECTED:[Typicality]
+MATCH!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	1167	dance.v	64	Self_motion	MANUAL	6559133	104	110	AnW	dancing
+LINKED:[15	15	104	110	bn:00086271v		http://babelnet.org/rdf/s00086271v	1.0	0.0625	0.0026720108	BABELFY]
+RANK:=== COUNTER  Counter 39460 ===
+	Self_motion: 0.009708737864077673
+
+SELECTED:[Self_motion]
+MATCH!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	14826	heavily.adv	2001	Degree	MANUAL	6559134	119	125	AnW	heavily
+LINKED:[18	18	119	125	bn:00115628r		http://babelnet.org/rdf/s00115628r	0.75	0.09375	0.006012024	BABELFY]
+RANK:=== COUNTER  Counter 39462 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	10333	rhythmic.a	1040	Temporal_pattern	MANUAL	6559135	127	134	AnW	rhythmic
+LINKED:[19	19	127	134	bn:00109827a		http://babelnet.org/rdf/s00109827a	1.0	0.0625	0.0053440216	BABELFY]
+RANK:=== COUNTER  Counter 39464 ===
+	Temporal_pattern: 0.3333333333333333
+
+SELECTED:[Temporal_pattern]
+MATCH!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	10332	beat.n	1040	Temporal_pattern	MANUAL	6559136	144	147	AnW	beat
+LINKED:[21	21	144	147	bn:00009396n	http://dbpedia.org/resource/Rhythm	http://babelnet.org/rdf/s00009396n	0.7619048	0.1875	0.03206413	BABELFY]
+RANK:=== COUNTER  Counter 39466 ===
+	Temporal_pattern: 0.3333333333333333
+
+SELECTED:[Temporal_pattern]
+MATCH!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	7033	marijuana.n	390	Intoxicants	MANUAL	6559140	167	175	AnW	marijuana
+LINKED:[26	26	167	175	bn:00015289n	http://dbpedia.org/resource/Cannabis_sativa	http://babelnet.org/rdf/s00015289n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39468 ===
+	Information: 0.16666666666666669
+	Intoxicants: 0.041666666666666685
+
+SELECTED:[Intoxicants]
+MATCH!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	11461	known.a	228	Being_named	MANUAL	6559141	205	209	AnW	known
+LINKED:[35	35	205	209	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39470 ===
+	Familiarity: 0.25
+	Awareness: 0.04347826086956524
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	11759	view.v	21	Categorization	MANUAL	6559143	241	244	AnW	view
+LINKED:[42	42	241	244	bn:00085647v		http://babelnet.org/rdf/s00085647v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39472 ===
+	Regard: 0.14285714285714288
+	Categorization: 0.0625
+	Awareness: 0.04347826086956524
+
+SELECTED:[Categorization]
+MATCH!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	2557	kind.n	128	Type	MANUAL	6559144	251	254	AnW	kind
+LINKED:[45	45	251	254	bn:00035907n		http://babelnet.org/rdf/s00035907n	1.0	0.09375	0.006012024	BABELFY]
+RANK:=== COUNTER  Counter 39474 ===
+	Type: 0.11111111111111108
+	Aggregate: 0.018181818181818177
+
+SELECTED:[Type]
+MATCH!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	5099	herb.n	277	Food	MANUAL	6559145	269	272	AnW	herb
+LINKED:[48	48	269	272	bn:00043776n	http://dbpedia.org/resource/Herb	http://babelnet.org/rdf/s00043776n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39476 ===
+	Food: 0.015384615384615413
+
+SELECTED:[Food]
+MATCH!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	9380	sit.v	770	Change_posture	MANUAL	6559146	286	292	AnW	sitting
+LINKED:[52	52	286	292	bn:00093776v		http://babelnet.org/rdf/s00093776v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39478 ===
+	Posture: 0.06666666666666668
+	Change_posture: 0.0625
+
+SELECTED:[Change_posture]
+MATCH!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	9950	chat.v	910	Chatting	MANUAL	6559147	303	310	AnW	chatting
+LINKED:[55	55	303	310	bn:00084747v		http://babelnet.org/rdf/s00084747v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39480 ===
+	Chatting: 0.10000000000000002
+	Communication_manner: 0.058823529411764705
+
+SELECTED:[Chatting]
+MATCH!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	2177	friend.n	102	Personal_relationship	MANUAL	6559148	317	323	AnW	friends
+LINKED:[57	57	317	323	bn:00036538n		http://babelnet.org/rdf/s00036538n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39482 ===
+	Personal_relationship: 0.02777777777777777
+
+SELECTED:[Personal_relationship]
+MATCH!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	3775	street.n	203	Roadways	MANUAL	6559149	339	344	AnW	street
+LINKED:[62	62	339	344	bn:00074595n	http://dbpedia.org/resource/Street	http://babelnet.org/rdf/s00074595n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39484 ===
+	Roadways: 0.03448275862068967
+
+SELECTED:[Roadways]
+MATCH!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	9803	describe.v	796	Communicate_categorization	MANUAL	6559150	378	386	AnW	described
+LINKED:[69	69	378	386	bn:00086612v		http://babelnet.org/rdf/s00086612v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39486 ===
+	Communicate_categorization: 0.0909090909090909
+
+SELECTED:[Communicate_categorization]
+MATCH!
+SILVER:195	23754	1	13	0	4103891	The recreational pleasures that ordinary islanders enjoy have become synonymous with the name Jamaica : dancing to the heavily rhythmic musical beat ; taking a little marijuana ( or `` ganja , '' as it 's known here ) , which many Jamaicans view as a kind of medicinal herb ; or simply sitting back and chatting with friends on a bench or street corner , where the situation is described as `` Irie '' the equivalent of `` Everything 's just fine ! ''	6312	fine.a	354	Desirability	MANUAL	6559152	442	445	AnW	fine
+LINKED:[80	80	442	445	bn:00096817a		http://babelnet.org/rdf/s00096817a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39488 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	14	0	4103892	Jamaicans appear to worry little about the future ; sometimes it seems that they worry little even about what happens in the next few minutes .	1321	appear.v	67	Give_impression	MANUAL	6559100	10	15	AnW	appear
+LINKED:[1	1	10	15	bn:00082690v		http://babelnet.org/rdf/s00082690v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39490 ===
+	Appearance: 0.14285714285714288
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	14	0	4103892	Jamaicans appear to worry little about the future ; sometimes it seems that they worry little even about what happens in the next few minutes .	768	worry.v	45	Emotion_active	MANUAL	6559101	20	24	AnW	worry
+LINKED:[3	3	20	24	bn:00095829v		http://babelnet.org/rdf/s00095829v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39492 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	14	0	4103892	Jamaicans appear to worry little about the future ; sometimes it seems that they worry little even about what happens in the next few minutes .	14408	future.n	1931	Alternatives	MANUAL	6559102	43	48	AnW	future
+LINKED:[7	7	43	48	bn:00036942n	http://dbpedia.org/resource/Future_tense	http://babelnet.org/rdf/s00036942n	1.0	0.14285715	0.010526316	BABELFY]
+RANK:=== COUNTER  Counter 39494 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	14	0	4103892	Jamaicans appear to worry little about the future ; sometimes it seems that they worry little even about what happens in the next few minutes .	1325	seem.v	67	Give_impression	MANUAL	6559104	65	69	AnW	seems
+LINKED:[11	11	65	69	bn:00082690v		http://babelnet.org/rdf/s00082690v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39496 ===
+	Appearance: 0.14285714285714288
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	14	0	4103892	Jamaicans appear to worry little about the future ; sometimes it seems that they worry little even about what happens in the next few minutes .	768	worry.v	45	Emotion_active	MANUAL	6559105	81	85	AnW	worry
+LINKED:[14	14	81	85	bn:00095829v		http://babelnet.org/rdf/s00095829v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39498 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	14	0	4103892	Jamaicans appear to worry little about the future ; sometimes it seems that they worry little even about what happens in the next few minutes .	4886	happen.v	187	Event	MANUAL	6559106	110	116	AnW	happens
+LINKED:[19	19	110	116	bn:00085337v		http://babelnet.org/rdf/s00085337v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39500 ===
+	Change_of_relation: 1.0
+	Take_place_of: 0.3333333333333333
+	Event: 0.25
+	Process_end: 0.2
+
+SELECTED:[Event]
+MATCH!
+SILVER:195	23754	1	14	0	4103892	Jamaicans appear to worry little about the future ; sometimes it seems that they worry little even about what happens in the next few minutes .	3873	minute.n	224	Measure_duration	MANUAL	6559109	134	140	AnW	minutes
+LINKED:[24	24	134	140	bn:00055094n	http://dbpedia.org/resource/Minute	http://babelnet.org/rdf/s00055094n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39502 ===
+	Measure_duration: 0.14285714285714288
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:195	23754	2	14	0	4103893	The popular phrase `` Soon come '' indicates an apparent lack of concern about time and an unhurried attitude to daily tasks .	15007	popular.a	354	Desirability	MANUAL	6559110	4	10	AnW	popular
+LINKED:[1	1	4	10	bn:00108806a		http://babelnet.org/rdf/s00108806a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39504 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	14	0	4103893	The popular phrase `` Soon come '' indicates an apparent lack of concern about time and an unhurried attitude to daily tasks .	10151	indicate.v	6	Communication	MANUAL	6559111	35	43	AnW	indicates
+LINKED:[6	6	35	43	bn:00082756v		http://babelnet.org/rdf/s00082756v	0.8	0.22222222	0.034782607	BABELFY]
+RANK:=== COUNTER  Counter 39506 ===
+	Reasoning: 0.125
+	Evidence: 0.058823529411764705
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	14	0	4103893	The popular phrase `` Soon come '' indicates an apparent lack of concern about time and an unhurried attitude to daily tasks .	10660	concern.n	46	Emotion_directed	MANUAL	6559112	65	71	AnW	concern
+LINKED:[11	11	65	71	bn:00021556n		http://babelnet.org/rdf/s00021556n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39508 ===
+	Point_of_dispute: 0.3333333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	14	0	4103893	The popular phrase `` Soon come '' indicates an apparent lack of concern about time and an unhurried attitude to daily tasks .	1728	daily.a	80	Frequency	MANUAL	6559113	113	117	AnW	daily
+LINKED:[19	19	113	117	bn:00100875a		http://babelnet.org/rdf/s00100875a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39510 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	14	0	4103893	The popular phrase `` Soon come '' indicates an apparent lack of concern about time and an unhurried attitude to daily tasks .	7119	task.n	392	Being_obligated	MANUAL	6559114	119	123	AnW	tasks
+LINKED:[20	20	119	123	bn:00049573n	http://dbpedia.org/resource/Project	http://babelnet.org/rdf/s00049573n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39512 ===
+	Project: 0.25
+	Being_obligated: 0.16666666666666669
+	Commitment: 0.058823529411764705
+
+SELECTED:[Being_obligated]
+MATCH!
+SILVER:195	23754	3	14	0	4103894	Occasional hurricanes can spoil the idyllic climate and contribute to this `` laid back '' attitude : Jamaicans are aware that circumstances can suddenly alter dramatically and yet life will always carry on .	1735	occasional.a	80	Frequency	MANUAL	6559115	0	9	AnW	Occasional
+LINKED:[0	0	0	9	bn:02762140n	http://dbpedia.org/resource/Occasionalism	http://babelnet.org/rdf/s02762140n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39514 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	14	0	4103894	Occasional hurricanes can spoil the idyllic climate and contribute to this `` laid back '' attitude : Jamaicans are aware that circumstances can suddenly alter dramatically and yet life will always carry on .	15203	idyllic.a	354	Desirability	MANUAL	6559116	36	42	AnW	idyllic
+LINKED:[5	5	36	42	bn:00104527a		http://babelnet.org/rdf/s00104527a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39516 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	14	0	4103894	Occasional hurricanes can spoil the idyllic climate and contribute to this `` laid back '' attitude : Jamaicans are aware that circumstances can suddenly alter dramatically and yet life will always carry on .	13818	climate.n	303	Weather	MANUAL	6559117	44	50	AnW	climate
+LINKED:[6	6	44	50	bn:00019780n	http://dbpedia.org/resource/Climate	http://babelnet.org/rdf/s00019780n	0.75	0.25	0.06818182	BABELFY]
+RANK:=== COUNTER  Counter 39518 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	14	0	4103894	Occasional hurricanes can spoil the idyllic climate and contribute to this `` laid back '' attitude : Jamaicans are aware that circumstances can suddenly alter dramatically and yet life will always carry on .	147	aware.a	19	Awareness	MANUAL	6559118	116	120	AnW	aware
+LINKED:[18	18	116	120	bn:00097879a		http://babelnet.org/rdf/s00097879a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39520 ===
+	Awareness: 0.04347826086956524
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:195	23754	3	14	0	4103894	Occasional hurricanes can spoil the idyllic climate and contribute to this `` laid back '' attitude : Jamaicans are aware that circumstances can suddenly alter dramatically and yet life will always carry on .	10806	alter.v	683	Cause_change	MANUAL	6559120	154	158	AnW	alter
+LINKED:[23	23	154	158	bn:00082553v		http://babelnet.org/rdf/s00082553v	0.93333334	0.33333334	0.1590909	BABELFY]
+RANK:=== COUNTER  Counter 39522 ===
+	Change_tool: 0.3333333333333333
+	Undergo_change: 0.14285714285714288
+	Cause_change: 0.0909090909090909
+
+SELECTED:[Cause_change]
+MATCH!
+SILVER:195	23754	3	14	0	4103894	Occasional hurricanes can spoil the idyllic climate and contribute to this `` laid back '' attitude : Jamaicans are aware that circumstances can suddenly alter dramatically and yet life will always carry on .	11353	carry	164	Activity_ongoing	MANUAL	6559122	198	202	CVa	carry
+LINKED:[30	30	198	202	bn:00084554v		http://babelnet.org/rdf/s00084554v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39524 ===
+	Bringing: 0.04999999999999999
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	14	0	4103895	To have to wait a while for something is not the worst problem in the world .	12449	wait.v	1561	Waiting	MANUAL	6559125	11	14	AnW	wait
+LINKED:[3	3	11	14	bn:00095593v		http://babelnet.org/rdf/s00095593v	1.0	0.5	0.06666667	BABELFY]
+RANK:=== COUNTER  Counter 39526 ===
+	Waiting: 1.0
+	Holding_off_on: 0.3333333333333333
+
+SELECTED:[Waiting]
+MATCH!
+SILVER:195	23754	4	14	0	4103895	To have to wait a while for something is not the worst problem in the world .	6288	bad.a	354	Desirability	MANUAL	6559127	49	53	AnW	worst
+LINKED:[11	11	49	53	bn:00113944a		http://babelnet.org/rdf/s00113944a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39528 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	14	0	4103895	To have to wait a while for something is not the worst problem in the world .	7356	problem.n	300	Predicament	MANUAL	6559128	55	61	AnW	problem
+LINKED:[12	12	55	61	bn:00048242n	http://dbpedia.org/resource/Problem	http://babelnet.org/rdf/s00048242n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39530 ===
+	Predicament: 0.11111111111111108
+
+SELECTED:[Predicament]
+MATCH!
+SILVER:195	23754	4	14	0	4103895	To have to wait a while for something is not the worst problem in the world .	10179	world.n	195	Political_locales	MANUAL	6559129	70	74	AnW	world
+LINKED:[15	15	70	74	bn:00081622n		http://babelnet.org/rdf/s00081622n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39532 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	15	0	4103896	Since independence in 1962 , tourism has been Jamaica 's primary industry and the island has become renowned as one of the prime destinations in the Caribbean .	15234	independence.n	72	Change_of_leadership	MANUAL	6559001	6	17	AnW	independence
+LINKED:[1	1	6	17	bn:00046406n		http://babelnet.org/rdf/s00046406n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39534 ===
+	Contingency: 0.11111111111111108
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	15	0	4103896	Since independence in 1962 , tourism has been Jamaica 's primary industry and the island has become renowned as one of the prime destinations in the Caribbean .	14825	tourism.n	1907	Touring	MANUAL	6559004	29	35	AnW	tourism
+LINKED:[5	5	29	35	bn:00077747n	http://dbpedia.org/resource/Tourism	http://babelnet.org/rdf/s00077747n	1.0	0.7777778	0.33421752	BABELFY]
+RANK:=== COUNTER  Counter 39536 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	15	0	4103896	Since independence in 1962 , tourism has been Jamaica 's primary industry and the island has become renowned as one of the prime destinations in the Caribbean .	7433	primary.a	402	First_rank	MANUAL	6559005	57	63	AnW	primary
+LINKED:[10	10	57	63	bn:00109011a		http://babelnet.org/rdf/s00109011a	1.0	0.11111111	0.010610079	BABELFY]
+RANK:=== COUNTER  Counter 39538 ===
+	First_rank: 0.3333333333333333
+
+SELECTED:[First_rank]
+MATCH!
+SILVER:195	23754	1	15	0	4103896	Since independence in 1962 , tourism has been Jamaica 's primary industry and the island has become renowned as one of the prime destinations in the Caribbean .	3504	island.n	191	Natural_features	MANUAL	6559006	82	87	AnW	island
+LINKED:[14	14	82	87	bn:00047612n	http://dbpedia.org/resource/Island	http://babelnet.org/rdf/s00047612n	0.875	0.44444445	0.14854111	BABELFY]
+RANK:=== COUNTER  Counter 39540 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	1	15	0	4103896	Since independence in 1962 , tourism has been Jamaica 's primary industry and the island has become renowned as one of the prime destinations in the Caribbean .	11668	industry.n	1345	Fields	MANUAL	6559007	65	72	AnW	industry
+LINKED:[11	11	65	72	bn:00046575n		http://babelnet.org/rdf/s00046575n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39542 ===
+	Fields: 0.25
+
+SELECTED:[Fields]
+MATCH!
+SILVER:195	23754	1	15	0	4103896	Since independence in 1962 , tourism has been Jamaica 's primary industry and the island has become renowned as one of the prime destinations in the Caribbean .	13894	renowned.a	1880	Fame	MANUAL	6559009	100	107	AnW	renowned
+LINKED:[17	17	100	107	bn:00099411a		http://babelnet.org/rdf/s00099411a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39544 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	15	0	4103897	The best beaches have become home to the finest hotels , which supply almost everything needed for the perfect vacation .	6287	good.a	354	Desirability	MANUAL	6559012	4	7	AnW	best
+LINKED:[1	1	4	7	bn:00098274a		http://babelnet.org/rdf/s00098274a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39546 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	15	0	4103897	The best beaches have become home to the finest hotels , which supply almost everything needed for the perfect vacation .	7658	beach.n	191	Natural_features	MANUAL	6559013	9	15	AnW	beaches
+LINKED:[2	2	9	15	bn:00009263n	http://dbpedia.org/resource/Beach	http://babelnet.org/rdf/s00009263n	0.75	0.4	0.1	BABELFY]
+RANK:=== COUNTER  Counter 39548 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	2	15	0	4103897	The best beaches have become home to the finest hotels , which supply almost everything needed for the perfect vacation .	3015	hotel.n	173	Buildings	MANUAL	6559017	48	53	AnW	hotels
+LINKED:[9	9	48	53	bn:00044967n	http://dbpedia.org/resource/Hotel	http://babelnet.org/rdf/s00044967n	1.0	0.6	0.45	BABELFY]
+RANK:=== COUNTER  Counter 39550 ===
+	Buildings: 0.012195121951219504
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23754	2	15	0	4103897	The best beaches have become home to the finest hotels , which supply almost everything needed for the perfect vacation .	11672	supply.v	1346	Supply	MANUAL	6559018	63	68	AnW	supply
+LINKED:[12	12	63	68	bn:00088643v		http://babelnet.org/rdf/s00088643v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39552 ===
+	Supply: 0.16666666666666669
+	Causation: 0.08333333333333333
+
+SELECTED:[Supply]
+MATCH!
+SILVER:195	23754	2	15	0	4103897	The best beaches have become home to the finest hotels , which supply almost everything needed for the perfect vacation .	10709	needed.a	1157	Being_necessary	MANUAL	6559020	88	93	AnW	needed
+LINKED:[15	15	88	93	bn:00091028v		http://babelnet.org/rdf/s00091028v	1.0	0.2	0.016666668	BABELFY]
+RANK:=== COUNTER  Counter 39554 ===
+	Needing: 0.5
+	Required_event: 0.3333333333333333
+	Possession: 0.0909090909090909
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	15	0	4103898	All-inclusive packages and large resort hotels offer restaurants , sporting activities , entertainment , wide - screen sports channels in the bars , shopping , and a guaranteed suntan .	2859	package.n	103	Aggregate	MANUAL	6559021	14	21	AnW	packages
+LINKED:[1	1	14	21	bn:00021497n	http://dbpedia.org/resource/Software	http://babelnet.org/rdf/s00021497n	1.0	0.125	0.006472492	BABELFY]
+RANK:=== COUNTER  Counter 39556 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	15	0	4103898	All-inclusive packages and large resort hotels offer restaurants , sporting activities , entertainment , wide - screen sports channels in the bars , shopping , and a guaranteed suntan .	3015	hotel.n	173	Buildings	MANUAL	6559023	40	45	AnW	hotels
+LINKED:[5	5	40	45	bn:00044967n	http://dbpedia.org/resource/Hotel	http://babelnet.org/rdf/s00044967n	0.82608694	0.5	0.1639698	BABELFY]
+RANK:=== COUNTER  Counter 39558 ===
+	Buildings: 0.012195121951219504
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23754	3	15	0	4103898	All-inclusive packages and large resort hotels offer restaurants , sporting activities , entertainment , wide - screen sports channels in the bars , shopping , and a guaranteed suntan .	13795	restaurant.n	196	Locale_by_use	MANUAL	6559024	53	63	AnW	restaurants
+LINKED:[7	7	53	63	bn:00029545n	http://dbpedia.org/resource/Restaurant	http://babelnet.org/rdf/s00029545n	0.989011	0.375	0.097087376	BABELFY]
+RANK:=== COUNTER  Counter 39560 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	15	0	4103898	All-inclusive packages and large resort hotels offer restaurants , sporting activities , entertainment , wide - screen sports channels in the bars , shopping , and a guaranteed suntan .	10616	activity.n	198	Intentionally_act	MANUAL	6559025	76	85	AnW	activities
+LINKED:[10	10	76	85	bn:00001172n		http://babelnet.org/rdf/s00001172n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39562 ===
+	Intentionally_act: 0.11111111111111108
+
+SELECTED:[Intentionally_act]
+MATCH!
+SILVER:195	23754	3	15	0	4103898	All-inclusive packages and large resort hotels offer restaurants , sporting activities , entertainment , wide - screen sports channels in the bars , shopping , and a guaranteed suntan .	10228	bar.n	173	Buildings	MANUAL	6559026	142	145	AnW	bars
+LINKED:[21	21	142	145	bn:00008462n	http://dbpedia.org/resource/Bar_(establishment)	http://babelnet.org/rdf/s00008462n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39564 ===
+	Buildings: 0.012195121951219504
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23754	3	15	0	4103898	All-inclusive packages and large resort hotels offer restaurants , sporting activities , entertainment , wide - screen sports channels in the bars , shopping , and a guaranteed suntan .	13921	shopping.n	1882	Shopping	MANUAL	6559027	149	156	AnW	shopping
+LINKED:[23	23	149	156	bn:00084335v		http://babelnet.org/rdf/s00084335v	1.0	0.0625	0.0010787486	BABELFY]
+RANK:=== COUNTER  Counter 39566 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	15	0	4103898	All-inclusive packages and large resort hotels offer restaurants , sporting activities , entertainment , wide - screen sports channels in the bars , shopping , and a guaranteed suntan .	13670	guaranteed.a	114	Likelihood	MANUAL	6559028	166	175	AnW	guaranteed
+LINKED:[27	27	166	175	bn:00089099v		http://babelnet.org/rdf/s00089099v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39568 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	15	0	4103899	There is frequently a temptation never to tear oneself away from the hotel .	14106	frequently.adv	80	Frequency	MANUAL	6559078	9	18	AnW	frequently
+LINKED:[2	2	9	18	bn:00115452r		http://babelnet.org/rdf/s00115452r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39570 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	15	0	4103899	There is frequently a temptation never to tear oneself away from the hotel .	15162	tear.v	63	Removing	MANUAL	6559080	42	45	AnW	tear
+LINKED:[7	7	42	45	bn:00094841v		http://babelnet.org/rdf/s00094841v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39572 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	15	0	4103899	There is frequently a temptation never to tear oneself away from the hotel .	3015	hotel.n	173	Buildings	MANUAL	6559081	69	73	AnW	hotel
+LINKED:[12	12	69	73	bn:00430095n	http://dbpedia.org/resource/Hotel_(album)	http://babelnet.org/rdf/s00430095n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 39574 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	15	0	4103900	Yet to do this is to miss the very essence of what the island is all about .	3504	island.n	191	Natural_features	MANUAL	6559086	55	60	AnW	island
+LINKED:[13	13	55	60	bn:00047612n	http://dbpedia.org/resource/Island	http://babelnet.org/rdf/s00047612n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39576 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	6	15	0	4103901	Step out of the hotel and your senses will be bombarded by a range of sights , sounds , smells , tastes , and textures that let you know that you could only be in Jamaica .	1235	step.v	64	Self_motion	MANUAL	6559088	0	3	AnW	Step
+LINKED:[0	0	0	3	bn:00054018n		http://babelnet.org/rdf/s00054018n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39578 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	6	15	0	4103901	Step out of the hotel and your senses will be bombarded by a range of sights , sounds , smells , tastes , and textures that let you know that you could only be in Jamaica .	3015	hotel.n	173	Buildings	MANUAL	6559089	16	20	AnW	hotel
+LINKED:[4	4	16	20	bn:01874691n	http://dbpedia.org/resource/Hotel_(2004_film)	http://babelnet.org/rdf/s01874691n	1.0	0.09090909	0.0022522523	BABELFY]
+RANK:=== COUNTER  Counter 39580 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	6	15	0	4103901	Step out of the hotel and your senses will be bombarded by a range of sights , sounds , smells , tastes , and textures that let you know that you could only be in Jamaica .	14048	range.n	1893	Diversity	MANUAL	6559091	61	65	AnW	range
+LINKED:[13	13	61	65	bn:00003268n	http://dbpedia.org/resource/Range_(music)	http://babelnet.org/rdf/s00003268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39582 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	6	15	0	4103901	Step out of the hotel and your senses will be bombarded by a range of sights , sounds , smells , tastes , and textures that let you know that you could only be in Jamaica .	1555	sight.n	71	Sensation	MANUAL	6559092	70	75	AnW	sights
+LINKED:[15	15	70	75	bn:00009669n	http://dbpedia.org/resource/Visual_perception	http://babelnet.org/rdf/s00009669n	0.71428573	0.45454547	0.15765765	BABELFY]
+RANK:=== COUNTER  Counter 39584 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	6	15	0	4103901	Step out of the hotel and your senses will be bombarded by a range of sights , sounds , smells , tastes , and textures that let you know that you could only be in Jamaica .	1557	sound.n	71	Sensation	MANUAL	6559093	79	84	AnW	sounds
+LINKED:[17	17	79	84	bn:00094053v		http://babelnet.org/rdf/s00094053v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39586 ===
+	Appearance: 0.14285714285714288
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	6	15	0	4103901	Step out of the hotel and your senses will be bombarded by a range of sights , sounds , smells , tastes , and textures that let you know that you could only be in Jamaica .	1556	smell.n	71	Sensation	MANUAL	6559094	88	93	AnW	smells
+LINKED:[19	19	88	93	bn:00093929v		http://babelnet.org/rdf/s00093929v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39588 ===
+	Appearance: 0.14285714285714288
+	Perception_experience: 0.11111111111111108
+	Chemical-sense_description: 0.07692307692307694
+	Perception_active: 0.03125
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	6	15	0	4103901	Step out of the hotel and your senses will be bombarded by a range of sights , sounds , smells , tastes , and textures that let you know that you could only be in Jamaica .	1559	taste.n	71	Sensation	MANUAL	6559095	97	102	AnW	tastes
+LINKED:[21	21	97	102	bn:00042275n	http://dbpedia.org/resource/Taste	http://babelnet.org/rdf/s00042275n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39590 ===
+	Sensation: 0.05555555555555554
+
+SELECTED:[Sensation]
+MATCH!
+SILVER:195	23754	6	15	0	4103901	Step out of the hotel and your senses will be bombarded by a range of sights , sounds , smells , tastes , and textures that let you know that you could only be in Jamaica .	160	know.v	19	Awareness	MANUAL	6559096	132	135	AnW	know
+LINKED:[28	28	132	135	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39592 ===
+	Familiarity: 0.25
+	Awareness: 0.04347826086956524
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:195	23754	1	16	0	4103902	Such sights include the colorful `` tams '' -- knitted hats worn by Jamaican men to cover their mane of dreadlocks -- and the red ackee fruit that ripens at the beginning of the year .	14190	sights.n	1907	Touring	MANUAL	6558903	5	10	AnW	sights
+LINKED:[1	1	5	10	bn:00045979n	http://dbpedia.org/resource/Imagination	http://babelnet.org/rdf/s00045979n	1.0	0.11764706	0.0068259384	BABELFY]
+RANK:=== COUNTER  Counter 39594 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	16	0	4103902	Such sights include the colorful `` tams '' -- knitted hats worn by Jamaican men to cover their mane of dreadlocks -- and the red ackee fruit that ripens at the beginning of the year .	10687	include.v	1153	Inclusion	MANUAL	6558905	12	18	AnW	include
+LINKED:[2	2	12	18	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39596 ===
+	Inclusion: 0.2
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:195	23754	1	16	0	4103902	Such sights include the colorful `` tams '' -- knitted hats worn by Jamaican men to cover their mane of dreadlocks -- and the red ackee fruit that ripens at the beginning of the year .	3432	hat.n	158	Accoutrements	MANUAL	6558906	55	58	AnW	hats
+LINKED:[9	9	55	58	bn:00017718n	http://dbpedia.org/resource/Chapeau	http://babelnet.org/rdf/s00017718n	0.88235295	0.29411766	0.034129694	BABELFY]
+RANK:=== COUNTER  Counter 39598 ===
+	Accoutrements: 0.015384615384615413
+
+SELECTED:[Accoutrements]
+MATCH!
+SILVER:195	23754	1	16	0	4103902	Such sights include the colorful `` tams '' -- knitted hats worn by Jamaican men to cover their mane of dreadlocks -- and the red ackee fruit that ripens at the beginning of the year .	3748	wear.v	160	Wearing	MANUAL	6558907	60	63	AnW	worn
+LINKED:[10	10	60	63	bn:00089252v		http://babelnet.org/rdf/s00089252v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39600 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	16	0	4103902	Such sights include the colorful `` tams '' -- knitted hats worn by Jamaican men to cover their mane of dreadlocks -- and the red ackee fruit that ripens at the beginning of the year .	5526	man.n	304	People	MANUAL	6558908	77	79	AnW	men
+LINKED:[13	13	77	79	bn:00044576n	http://dbpedia.org/resource/Human	http://babelnet.org/rdf/s00044576n	0.86624205	0.9411765	0.6188851	BABELFY]
+RANK:=== COUNTER  Counter 39602 ===
+	People: 0.08333333333333333
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23754	1	16	0	4103902	Such sights include the colorful `` tams '' -- knitted hats worn by Jamaican men to cover their mane of dreadlocks -- and the red ackee fruit that ripens at the beginning of the year .	1009	cover.v	59	Filling	MANUAL	6558911	84	88	AnW	cover
+LINKED:[15	15	84	88	bn:00085903v		http://babelnet.org/rdf/s00085903v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39604 ===
+	Adorning: 0.058823529411764705
+	Filling: 0.02083333333333332
+
+SELECTED:[Filling]
+MATCH!
+SILVER:195	23754	1	16	0	4103902	Such sights include the colorful `` tams '' -- knitted hats worn by Jamaican men to cover their mane of dreadlocks -- and the red ackee fruit that ripens at the beginning of the year .	2512	mane.n	119	Body_parts	MANUAL	6558915	96	99	AnW	mane
+LINKED:[17	17	96	99	bn:00053169n		http://babelnet.org/rdf/s00053169n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39606 ===
+	Observable_bodyparts: 0.01282051282051284
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	16	0	4103902	Such sights include the colorful `` tams '' -- knitted hats worn by Jamaican men to cover their mane of dreadlocks -- and the red ackee fruit that ripens at the beginning of the year .	7721	red.a	423	Color	MANUAL	6558916	126	128	AnW	red
+LINKED:[23	23	126	128	bn:00098581a		http://babelnet.org/rdf/s00098581a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39608 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	16	0	4103902	Such sights include the colorful `` tams '' -- knitted hats worn by Jamaican men to cover their mane of dreadlocks -- and the red ackee fruit that ripens at the beginning of the year .	5058	fruit.n	277	Food	MANUAL	6558917	136	140	AnW	fruit
+LINKED:[25	25	136	140	bn:00036686n	http://dbpedia.org/resource/Fruit	http://babelnet.org/rdf/s00036686n	1.0	0.3529412	0.054607507	BABELFY]
+RANK:=== COUNTER  Counter 39610 ===
+	Food: 0.015384615384615413
+
+SELECTED:[Food]
+MATCH!
+SILVER:195	23754	1	16	0	4103902	Such sights include the colorful `` tams '' -- knitted hats worn by Jamaican men to cover their mane of dreadlocks -- and the red ackee fruit that ripens at the beginning of the year .	12872	beginning.n	1470	Temporal_subregion	MANUAL	6558922	161	169	AnW	beginning
+LINKED:[30	30	161	169	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39612 ===
+	Activity_start: 0.14285714285714288
+	Birth: 0.07142857142857145
+	Bringing: 0.04999999999999999
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	16	0	4103902	Such sights include the colorful `` tams '' -- knitted hats worn by Jamaican men to cover their mane of dreadlocks -- and the red ackee fruit that ripens at the beginning of the year .	4074	year.n	229	Calendric_unit	MANUAL	6558923	178	181	AnW	year
+LINKED:[33	33	178	181	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39614 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	16	0	4103903	Sample the taste of ackee cooked with saltfish , Jamaica 's national dish , and the smell of hot jerk pork cooked in a pit barbecue .	1559	taste.n	71	Sensation	MANUAL	6558946	11	15	AnW	taste
+LINKED:[2	2	11	15	bn:00042275n	http://dbpedia.org/resource/Taste	http://babelnet.org/rdf/s00042275n	0.8057554	0.4375	0.16816817	BABELFY]
+RANK:=== COUNTER  Counter 39616 ===
+	Sensation: 0.05555555555555554
+
+SELECTED:[Sensation]
+MATCH!
+SILVER:195	23754	2	16	0	4103903	Sample the taste of ackee cooked with saltfish , Jamaica 's national dish , and the smell of hot jerk pork cooked in a pit barbecue .	4727	cook.v	236	Apply_heat	MANUAL	6558951	26	31	AnW	cooked
+LINKED:[5	5	26	31	bn:00085783v		http://babelnet.org/rdf/s00085783v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39618 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	16	0	4103903	Sample the taste of ackee cooked with saltfish , Jamaica 's national dish , and the smell of hot jerk pork cooked in a pit barbecue .	13307	national.a	1103	Origin	MANUAL	6558956	60	67	AnW	national
+LINKED:[11	11	60	67	bn:00107136a		http://babelnet.org/rdf/s00107136a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39620 ===
+	Origin: 0.06666666666666668
+	Political_locales: 0.041666666666666685
+
+SELECTED:[Origin]
+MATCH!
+SILVER:195	23754	2	16	0	4103903	Sample the taste of ackee cooked with saltfish , Jamaica 's national dish , and the smell of hot jerk pork cooked in a pit barbecue .	1556	smell.n	71	Sensation	MANUAL	6558958	84	88	AnW	smell
+LINKED:[16	16	84	88	bn:00058653n	http://dbpedia.org/resource/Odor	http://babelnet.org/rdf/s00058653n	0.75	0.1875	0.03153153	BABELFY]
+RANK:=== COUNTER  Counter 39622 ===
+	Chemical-sense_description: 0.07692307692307694
+	Sensation: 0.05555555555555554
+
+SELECTED:[Sensation]
+MATCH!
+SILVER:195	23754	2	16	0	4103903	Sample the taste of ackee cooked with saltfish , Jamaica 's national dish , and the smell of hot jerk pork cooked in a pit barbecue .	4727	cook.v	236	Apply_heat	MANUAL	6558960	107	112	AnW	cooked
+LINKED:[21	21	107	112	bn:00085783v		http://babelnet.org/rdf/s00085783v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39624 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	16	0	4103904	Hear the songs of Bob Marley booming from a hundred cranked - up car stereos or the chorus of frogs that begin to call as evening descends .	1532	hear.v	70	Perception_experience	MANUAL	6558962	0	3	AnW	Hear
+LINKED:[0	0	0	3	bn:02332043n	http://dbpedia.org/resource/Hear_(album)	http://babelnet.org/rdf/s02332043n	1.0	0.071428575	0.0022624435	BABELFY]
+RANK:=== COUNTER  Counter 39626 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	16	0	4103904	Hear the songs of Bob Marley booming from a hundred cranked - up car stereos or the chorus of frogs that begin to call as evening descends .	5413	song.n	298	Text	MANUAL	6558967	9	13	AnW	songs
+LINKED:[2	2	9	13	bn:00072794n	http://dbpedia.org/resource/Song	http://babelnet.org/rdf/s00072794n	0.9557522	0.5714286	0.48868778	BABELFY]
+RANK:=== COUNTER  Counter 39628 ===
+	Text: 0.01492537313432834
+
+SELECTED:[Text]
+MATCH!
+SILVER:195	23754	3	16	0	4103904	Hear the songs of Bob Marley booming from a hundred cranked - up car stereos or the chorus of frogs that begin to call as evening descends .	13541	boom.v	69	Make_noise	MANUAL	6558968	29	35	AnW	booming
+LINKED:[6	6	29	35	bn:00083778v		http://babelnet.org/rdf/s00083778v	1.0	0.14285715	0.009049774	BABELFY]
+RANK:=== COUNTER  Counter 39630 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	16	0	4103904	Hear the songs of Bob Marley booming from a hundred cranked - up car stereos or the chorus of frogs that begin to call as evening descends .	7808	car.n	429	Vehicle	MANUAL	6558971	65	67	AnW	car
+LINKED:[13	13	65	67	bn:00007309n	http://dbpedia.org/resource/Car	http://babelnet.org/rdf/s00007309n	0.95652175	0.42857143	0.14932127	BABELFY]
+RANK:=== COUNTER  Counter 39632 ===
+	Vehicle: 0.03125
+
+SELECTED:[Vehicle]
+MATCH!
+SILVER:195	23754	3	16	0	4103904	Hear the songs of Bob Marley booming from a hundred cranked - up car stereos or the chorus of frogs that begin to call as evening descends .	4448	begin.v	146	Activity_start	MANUAL	6558972	105	109	AnW	begin
+LINKED:[21	21	105	109	bn:00094300v		http://babelnet.org/rdf/s00094300v	0.8888889	0.14285715	0.018099548	BABELFY]
+RANK:=== COUNTER  Counter 39634 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	16	0	4103904	Hear the songs of Bob Marley booming from a hundred cranked - up car stereos or the chorus of frogs that begin to call as evening descends .	5273	call.n	286	Contacting	MANUAL	6558973	114	117	AnW	call
+LINKED:[23	23	114	117	bn:00084385v		http://babelnet.org/rdf/s00084385v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39636 ===
+	Simple_naming: 0.5
+	Name_conferral: 0.3333333333333333
+	Labeling: 0.25
+	Referring_by_name: 0.2
+	Being_named: 0.05555555555555554
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	16	0	4103904	Hear the songs of Bob Marley booming from a hundred cranked - up car stereos or the chorus of frogs that begin to call as evening descends .	12883	descend	54	Arriving	MANUAL	6558975	130	137	AnW	descends
+LINKED:[26	26	130	137	bn:00085356v		http://babelnet.org/rdf/s00085356v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39638 ===
+	Motion_directional: 0.11111111111111108
+	Traversing: 0.06666666666666668
+	Path_shape: 0.029411764705882353
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	16	0	4103905	Feel the texture of a hand offered in greeting and try to fathom the `` Jamaican handshake , '' a ritual whose rules seem to be more complex than those of the game of cricket .	1295	feel.v	66	Perception_active	MANUAL	6558976	0	3	AnW	Feel
+LINKED:[0	0	0	3	bn:00033959n		http://babelnet.org/rdf/s00033959n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39640 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	16	0	4103905	Feel the texture of a hand offered in greeting and try to fathom the `` Jamaican handshake , '' a ritual whose rules seem to be more complex than those of the game of cricket .	2409	hand.n	119	Body_parts	MANUAL	6558977	22	25	AnW	hand
+LINKED:[5	5	22	25	bn:00042759n	http://dbpedia.org/resource/Hand	http://babelnet.org/rdf/s00042759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39642 ===
+	Observable_bodyparts: 0.01282051282051284
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	16	0	4103905	Feel the texture of a hand offered in greeting and try to fathom the `` Jamaican handshake , '' a ritual whose rules seem to be more complex than those of the game of cricket .	13540	fathom.v	979	Grasp	MANUAL	6558984	58	63	AnW	fathom
+LINKED:[12	12	58	63	bn:00033790n	http://dbpedia.org/resource/Fathom	http://babelnet.org/rdf/s00033790n	1.0	0.06666667	0.0034129692	BABELFY]
+RANK:=== COUNTER  Counter 39644 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	16	0	4103905	Feel the texture of a hand offered in greeting and try to fathom the `` Jamaican handshake , '' a ritual whose rules seem to be more complex than those of the game of cricket .	6720	ritual.n	380	Custom	MANUAL	6558985	98	103	AnW	ritual
+LINKED:[19	19	98	103	bn:00067050n	http://dbpedia.org/resource/Rite	http://babelnet.org/rdf/s00067050n	0.72727275	0.26666668	0.10921501	BABELFY]
+RANK:=== COUNTER  Counter 39646 ===
+	Rite: 0.03333333333333334
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	16	0	4103905	Feel the texture of a hand offered in greeting and try to fathom the `` Jamaican handshake , '' a ritual whose rules seem to be more complex than those of the game of cricket .	1325	seem.v	67	Give_impression	MANUAL	6558986	117	120	AnW	seem
+LINKED:[22	22	117	120	bn:00082690v		http://babelnet.org/rdf/s00082690v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39648 ===
+	Appearance: 0.14285714285714288
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	16	0	4103905	Feel the texture of a hand offered in greeting and try to fathom the `` Jamaican handshake , '' a ritual whose rules seem to be more complex than those of the game of cricket .	2465	try.v	116	Attempt	MANUAL	6774319	51	53	MJE	try
+LINKED:[10	10	51	53	bn:00082844v		http://babelnet.org/rdf/s00082844v	1.0	0.06666667	0.0034129692	BABELFY]
+RANK:=== COUNTER  Counter 39650 ===
+	Try_defendant: 1.0
+	Attempt: 0.2
+
+SELECTED:[Attempt]
+MATCH!
+SILVER:195	23754	1	17	0	4103906	Of course Jamaica has its palm - lined beaches and almost endless rum drinks , and you can enjoy a wonderful resort - based break .	7658	beach.n	191	Natural_features	MANUAL	6558866	39	45	AnW	beaches
+LINKED:[8	8	39	45	bn:00009263n	http://dbpedia.org/resource/Beach	http://babelnet.org/rdf/s00009263n	1.0	0.4	0.15384616	BABELFY]
+RANK:=== COUNTER  Counter 39652 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	1	17	0	4103906	Of course Jamaica has its palm - lined beaches and almost endless rum drinks , and you can enjoy a wonderful resort - based break .	869	enjoy.v	48	Experiencer_focus	MANUAL	6558873	91	95	AnW	enjoy
+LINKED:[18	18	91	95	bn:00083145v		http://babelnet.org/rdf/s00083145v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39654 ===
+	Experiencer_subj: 0.023255813953488358
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	1	17	0	4103906	Of course Jamaica has its palm - lined beaches and almost endless rum drinks , and you can enjoy a wonderful resort - based break .	6142	wonderful.a	354	Desirability	MANUAL	6558876	99	107	AnW	wonderful
+LINKED:[20	20	99	107	bn:00098172a		http://babelnet.org/rdf/s00098172a	1.0	0.1	0.010989011	BABELFY]
+RANK:=== COUNTER  Counter 39656 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	17	0	4103907	But once you begin to look underneath this initial veneer of a `` do - nothing - in - the - tropics '' holiday , it 's like peeling the layers of an onion .	4448	begin.v	146	Activity_start	MANUAL	6558878	13	17	AnW	begin
+LINKED:[3	3	13	17	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39658 ===
+	Activity_start: 0.14285714285714288
+	Birth: 0.07142857142857145
+	Bringing: 0.04999999999999999
+
+SELECTED:[Activity_start]
+MATCH!
+SILVER:195	23754	2	17	0	4103907	But once you begin to look underneath this initial veneer of a `` do - nothing - in - the - tropics '' holiday , it 's like peeling the layers of an onion .	1302	look.v	66	Perception_active	MANUAL	6558880	22	25	AnW	look
+LINKED:[5	5	22	25	bn:00090448v		http://babelnet.org/rdf/s00090448v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39660 ===
+	Seeking: 0.05555555555555554
+	Perception_active: 0.03125
+	Scrutiny: 0.029411764705882353
+
+SELECTED:[Perception_active]
+MATCH!
+SILVER:195	23754	2	17	0	4103907	But once you begin to look underneath this initial veneer of a `` do - nothing - in - the - tropics '' holiday , it 's like peeling the layers of an onion .	14461	initial.a	1960	Version_sequence	MANUAL	6558882	43	49	AnW	initial
+LINKED:[8	8	43	49	bn:00105119a		http://babelnet.org/rdf/s00105119a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39662 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	2	17	0	4103907	But once you begin to look underneath this initial veneer of a `` do - nothing - in - the - tropics '' holiday , it 's like peeling the layers of an onion .	2482	peel.v	58	Emptying	MANUAL	6558884	124	130	AnW	peeling
+LINKED:[27	27	124	130	bn:00091436v		http://babelnet.org/rdf/s00091436v	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 39664 ===
+	Emptying: 0.03703703703703706
+
+SELECTED:[Emptying]
+MATCH!
+SILVER:195	23754	3	17	0	4103908	There 's an abundance of nature , history , art , and modern culture to be explored and enjoyed .	3333	abundance.n	189	Quantified_mass	MANUAL	6558886	12	20	AnW	abundance
+LINKED:[3	3	12	20	bn:00840334n	http://dbpedia.org/resource/Post-scarcity_economy	http://babelnet.org/rdf/s00840334n	0.93333334	0.5714286	0.047058824	BABELFY]
+RANK:=== COUNTER  Counter 39666 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	17	0	4103908	There 's an abundance of nature , history , art , and modern culture to be explored and enjoyed .	14359	art.n	1345	Fields	MANUAL	6558888	44	46	AnW	art
+LINKED:[9	9	44	46	bn:00005927n	http://dbpedia.org/resource/Art	http://babelnet.org/rdf/s00005927n	0.9	0.85714287	0.21176471	BABELFY]
+RANK:=== COUNTER  Counter 39668 ===
+	Craft: 0.5
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	17	0	4103908	There 's an abundance of nature , history , art , and modern culture to be explored and enjoyed .	15202	history.n	2113	History	MANUAL	6558890	34	40	AnW	history
+LINKED:[7	7	34	40	bn:00044268n	http://dbpedia.org/resource/History	http://babelnet.org/rdf/s00044268n	0.7258065	0.85714287	0.15126051	BABELFY]
+RANK:=== COUNTER  Counter 39670 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	17	0	4103908	There 's an abundance of nature , history , art , and modern culture to be explored and enjoyed .	14198	modern.a	1895	Temporal_collocation	MANUAL	6558891	54	59	AnW	modern
+LINKED:[12	12	54	59	bn:00106831a		http://babelnet.org/rdf/s00106831a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39672 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	17	0	4103908	There 's an abundance of nature , history , art , and modern culture to be explored and enjoyed .	15026	explore.v	31	Scrutiny	MANUAL	6558892	75	82	AnW	explored
+LINKED:[16	16	75	82	bn:00087881v		http://babelnet.org/rdf/s00087881v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39674 ===
+	Research: 0.3333333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	3	17	0	4103908	There 's an abundance of nature , history , art , and modern culture to be explored and enjoyed .	14913	enjoy.v	2045	Emotions_of_mental_activity	MANUAL	6558893	88	94	AnW	enjoyed
+LINKED:[18	18	88	94	bn:00087646v		http://babelnet.org/rdf/s00087646v	1.0	0.42857143	0.01512605	BABELFY]
+RANK:=== COUNTER  Counter 39676 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	17	0	4103909	Jamaica is an island with a strong personality that does n't simply wait in the wings .	3504	island.n	191	Natural_features	MANUAL	6558894	14	19	AnW	island
+LINKED:[3	3	14	19	bn:00047612n	http://dbpedia.org/resource/Island	http://babelnet.org/rdf/s00047612n	0.8333333	0.6666667	0.3125	BABELFY]
+RANK:=== COUNTER  Counter 39678 ===
+	Natural_features: 0.011904761904761921
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23754	4	17	0	4103909	Jamaica is an island with a strong personality that does n't simply wait in the wings .	12473	strong.a	1563	Level_of_force_exertion	MANUAL	6558895	28	33	AnW	strong
+LINKED:[6	6	28	33	bn:00111312a		http://babelnet.org/rdf/s00111312a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39680 ===
+	Exertive_force: 1.0
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	4	17	0	4103909	Jamaica is an island with a strong personality that does n't simply wait in the wings .	12449	wait.v	1561	Waiting	MANUAL	6558896	68	71	AnW	wait
+LINKED:[13	13	68	71	bn:00095593v		http://babelnet.org/rdf/s00095593v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39682 ===
+	Waiting: 1.0
+	Holding_off_on: 0.3333333333333333
+
+SELECTED:[Waiting]
+MATCH!
+SILVER:195	23754	4	17	0	4103909	Jamaica is an island with a strong personality that does n't simply wait in the wings .	3214	wing.n	188	Building_subparts	MANUAL	6558897	80	84	AnW	wings
+LINKED:[16	16	80	84	bn:00081336n	http://dbpedia.org/resource/Insect_wing	http://babelnet.org/rdf/s00081336n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39684 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23754	5	17	0	4103910	It comes out to meet you .	941	come.v	54	Arriving	MANUAL	6558898	3	7	AnW	comes
+LINKED:[1	1	3	7	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39686 ===
+	Arriving: 0.07142857142857145
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:195	23754	5	17	0	4103910	It comes out to meet you .	10452	meet.v	1085	Make_acquaintance	MANUAL	6558901	16	19	AnW	meet
+LINKED:[4	4	16	19	bn:00085756v		http://babelnet.org/rdf/s00085756v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39688 ===
+
+SELECTED:[]
+WRONG!
+filename	ANC__IntroJamaica.xml
+docAnnotations	525
+docManual	442
+docUnannotated	83
+sentences	71
+paragraphs	17
+Overlapping	337
+Disambiguated	202
+TP	56
+TN	83
+FP	0
+FN	240
+P	1.0
+R	0.1891891891891892
+F	0.3181818181818182
+A	0.36675461741424803

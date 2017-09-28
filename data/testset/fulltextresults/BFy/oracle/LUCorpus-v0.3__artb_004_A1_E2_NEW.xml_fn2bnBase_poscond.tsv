@@ -1,0 +1,152 @@
+SILVER:205	23716	1	1	0	4101398	Launching the Electronics Free Trade Zone in Dubai	15097	launch.v	2070	Launch_process	MANUAL	6552431	0	8	KmG	Launching
+LINKED:[0	0	0	8	bn:00087823v		http://babelnet.org/rdf/s00087823v	1.0	0.14285715	0.018518519	BABELFY]
+RANK:=== COUNTER  Counter 47110 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23716	1	2	0	4101399	Dubai 01-82 ( AFP ) - Crown Prince of Dubai Al Sheikh Mohammed bin Rashid Al Maktoom crown prince of Dubai launched today , i.e. on Saturday , an electronics free e-trade zone which has been named `` Dubai Internet City ''	3695	zone.n	192	Locale	MANUAL	6549193	171	174	JKs	zone
+LINKED:[32	32	171	174	bn:15098302n		http://babelnet.org/rdf/s15098302n	1.0	0.074074075	5.8266567E-4	BABELFY]
+RANK:=== COUNTER  Counter 47114 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23716	1	3	0	4101400	The cost in the first stage of this unique project is estimated at 200 million dollars .	10133	unique.a	982	Idiosyncrasy	MANUAL	6549200	36	41	JKs	unique
+LINKED:[8	8	36	41	bn:00112899a		http://babelnet.org/rdf/s00112899a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 47118 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23716	1	4	0	4101401	Sheikh Mohammed , who is also the UAE Defence Minister , said during the launching ceremony `` we wish to make Dubai a center of modern economy '' .	751	say.v	43	Statement	MANUAL	6545171	57	60	KmG	said
+LINKED:[11	11	57	60	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 47126 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23716	1	4	0	4101401	Sheikh Mohammed , who is also the UAE Defence Minister , said during the launching ceremony `` we wish to make Dubai a center of modern economy '' .	6684	wish.v	366	Desiring	MANUAL	6545173	98	101	KmG	wish
+LINKED:[18	18	98	101	bn:00095803v		http://babelnet.org/rdf/s00095803v	1.0	0.15384616	0.025316456	BABELFY]
+RANK:=== COUNTER  Counter 47128 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23716	1	4	0	4101401	Sheikh Mohammed , who is also the UAE Defence Minister , said during the launching ceremony `` we wish to make Dubai a center of modern economy '' .	10661	center.n	196	Locale_by_use	MANUAL	6545175	119	124	KmG	center
+LINKED:[23	23	119	124	bn:00017134n	http://dbpedia.org/resource/The_Mall_(Cleveland)	http://babelnet.org/rdf/s00017134n	1.0	0.15384616	0.025316456	BABELFY]
+RANK:=== COUNTER  Counter 47130 ===
+	Buildings: -1.451589490492089E-4
+	Locale_by_use: -4.3402777777777775E-4
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:205	23716	1	5	0	4101402	The minister who has a personal website on the internet , further said that he wanted Dubai to become the best place in the world for the advanced ( hitech ) technological companies .	1595	minister.n	73	Leadership	MANUAL	6545180	4	11	KmG	minister
+LINKED:[1	1	4	11	bn:00001604n	http://dbpedia.org/resource/Counsel	http://babelnet.org/rdf/s00001604n	1.0	0.15384616	0.010335918	BABELFY]
+RANK:=== COUNTER  Counter 47136 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23716	1	5	0	4101402	The minister who has a personal website on the internet , further said that he wanted Dubai to become the best place in the world for the advanced ( hitech ) technological companies .	751	say.v	43	Statement	MANUAL	6545183	66	69	KmG	said
+LINKED:[12	12	66	69	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 47138 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23716	1	5	0	4101402	The minister who has a personal website on the internet , further said that he wanted Dubai to become the best place in the world for the advanced ( hitech ) technological companies .	6412	want.v	366	Desiring	MANUAL	6545184	79	84	KmG	wanted
+LINKED:[15	15	79	84	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 47140 ===
+	Desiring: -0.0014792899408284025
+	Possession: -0.00510204081632653
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:205	23716	1	5	0	4101402	The minister who has a personal website on the internet , further said that he wanted Dubai to become the best place in the world for the advanced ( hitech ) technological companies .	9110	good.a	726	Usefulness	MANUAL	6545186	106	109	KmG	best
+LINKED:[20	20	106	109	bn:00098274a		http://babelnet.org/rdf/s00098274a	1.0	0.07692308	0.0025839794	BABELFY]
+RANK:=== COUNTER  Counter 47142 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23716	1	5	0	4101402	The minister who has a personal website on the internet , further said that he wanted Dubai to become the best place in the world for the advanced ( hitech ) technological companies .	11650	advanced.a	1341	Stage_of_progress	MANUAL	6545190	138	145	KmG	advanced
+LINKED:[27	27	138	145	bn:00096533a		http://babelnet.org/rdf/s00096533a	0.9	0.23076923	0.023255814	BABELFY]
+RANK:=== COUNTER  Counter 47148 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23716	1	6	0	4101403	He said that it would he possible for the companies working in the electronic trade sector to make Dubai their headquarters , and to establish offices here and provide employment and own machinery in the zone opened to companies fully owned by the foreigners .	751	say.v	43	Statement	MANUAL	6545192	3	6	KmG	said
+LINKED:[1	1	3	6	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.8	0.125	0.0033057851	BABELFY]
+RANK:=== COUNTER  Counter 47152 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23716	1	6	0	4101403	He said that it would he possible for the companies working in the electronic trade sector to make Dubai their headquarters , and to establish offices here and provide employment and own machinery in the zone opened to companies fully owned by the foreigners .	11673	provide.v	1346	Supply	MANUAL	6545201	160	166	KmG	provide
+LINKED:[28	28	160	166	bn:00082540v		http://babelnet.org/rdf/s00082540v	0.71428573	0.125	0.008264462	BABELFY]
+RANK:=== COUNTER  Counter 47164 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23716	1	6	0	4101403	He said that it would he possible for the companies working in the electronic trade sector to make Dubai their headquarters , and to establish offices here and provide employment and own machinery in the zone opened to companies fully owned by the foreigners .	3695	zone.n	192	Locale	MANUAL	6545204	204	207	KmG	zone
+LINKED:[35	35	204	207	bn:00082075n		http://babelnet.org/rdf/s00082075n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 47166 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23716	1	7	0	4101404	The electronic trade free trade zone is situated in the north of Dubai , close to the free industrial zone in Jabal Ali Mountain , an area which is considered to be the first in the country , and tenth in the world for transit movement .	3695	zone.n	192	Locale	MANUAL	6549223	32	35	JKs	zone
+LINKED:[5	5	32	35	bn:00082075n		http://babelnet.org/rdf/s00082075n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 47172 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23716	1	7	0	4101404	The electronic trade free trade zone is situated in the north of Dubai , close to the free industrial zone in Jabal Ali Mountain , an area which is considered to be the first in the country , and tenth in the world for transit movement .	10025	situated.a	960	Being_located	MANUAL	6549224	40	47	JKs	situated
+LINKED:[7	7	40	47	bn:00090424v		http://babelnet.org/rdf/s00090424v	1.0	0.2173913	0.008212107	BABELFY]
+RANK:=== COUNTER  Counter 47174 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23716	1	7	0	4101404	The electronic trade free trade zone is situated in the north of Dubai , close to the free industrial zone in Jabal Ali Mountain , an area which is considered to be the first in the country , and tenth in the world for transit movement .	3695	zone.n	192	Locale	MANUAL	6549228	102	105	JKs	zone
+LINKED:[19	19	102	105	bn:00082075n		http://babelnet.org/rdf/s00082075n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 47176 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23716	1	8	0	4101405	Launching 'Dubai Internet city ' coincided with the opening of the annual information fair in Dubai which is considered to be the biggest in the Middle East - Gulf Information Technology Getix . '	14095	coincide.v	1897	Simultaneity	MANUAL	6549256	33	41	JKs	coincided
+LINKED:[4	4	33	41	bn:00085272v		http://babelnet.org/rdf/s00085272v	1.0	0.055555556	4.0783035E-4	BABELFY]
+RANK:=== COUNTER  Counter 47186 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23716	1	8	0	4101405	Launching 'Dubai Internet city ' coincided with the opening of the annual information fair in Dubai which is considered to be the biggest in the Middle East - Gulf Information Technology Getix . '	1724	annual.a	80	Frequency	MANUAL	6549258	67	72	JKs	annual
+LINKED:[10	10	67	72	bn:00097148a		http://babelnet.org/rdf/s00097148a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 47188 ===
+
+SELECTED:[]
+WRONG!
+filename	LUCorpus-v0.3__artb_004_A1_E2_NEW.xml
+docAnnotations	66
+docManual	58
+docUnannotated	8
+sentences	8
+paragraphs	8
+Overlapping	40
+Disambiguated	5
+TP	5
+TN	8
+FP	0
+FN	53
+P	1.0
+R	0.08620689655172414
+F	0.15873015873015872
+A	0.19696969696969696

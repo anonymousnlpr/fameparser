@@ -1,0 +1,16 @@
+filename	NTI__WMDNews_062606.xml
+docAnnotations	789
+docManual	689
+docUnannotated	100
+sentences	84
+paragraphs	34
+Overlapping	574
+Disambiguated	389
+TP	251
+TN	100
+FP	0
+FN	300
+P	1.0
+R	0.455535390199637
+F	0.6259351620947631
+A	0.5391705069124424

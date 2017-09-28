@@ -1,0 +1,16 @@
+filename	NTI__Iran_Biological.xml
+docAnnotations	691
+docManual	507
+docUnannotated	184
+sentences	102
+paragraphs	40
+Overlapping	471
+Disambiguated	401
+TP	255
+TN	184
+FP	0
+FN	106
+P	1.0
+R	0.7063711911357341
+F	0.8279220779220778
+A	0.8055045871559633

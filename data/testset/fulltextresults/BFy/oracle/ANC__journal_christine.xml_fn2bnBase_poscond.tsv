@@ -1,0 +1,214 @@
+SILVER:195	23936	1	5	0	4112798	Using the SCI databases produced by the Institute for Scientific Information ( ISI ) , as well as data compiled by the Red Iberoamericana de Indicadores de Ciencia y Tecnología ( RICYT ) , we examined the differences in the number and proportion of scientific publications between the developed world and the developing world from 1990 until 2000 , focusing on the Americas as a case study .	11694	produce.v	280	Intentionally_create	MANUAL	6573975	24	31	CVa	produced
+LINKED:[4	4	24	31	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35560 ===
+	Behind_the_scenes: -0.008264462809917356
+	Manufacturing: -0.015625
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	1	5	0	4112798	Using the SCI databases produced by the Institute for Scientific Information ( ISI ) , as well as data compiled by the Red Iberoamericana de Indicadores de Ciencia y Tecnología ( RICYT ) , we examined the differences in the number and proportion of scientific publications between the developed world and the developing world from 1990 until 2000 , focusing on the Americas as a case study .	12687	data.n	1591	Information	MANUAL	6573977	98	101	CVa	data
+LINKED:[18	18	98	101	bn:00025327n	http://dbpedia.org/resource/Geodetic_datum	http://babelnet.org/rdf/s00025327n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35562 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	1	5	0	4112798	Using the SCI databases produced by the Institute for Scientific Information ( ISI ) , as well as data compiled by the Red Iberoamericana de Indicadores de Ciencia y Tecnología ( RICYT ) , we examined the differences in the number and proportion of scientific publications between the developed world and the developing world from 1990 until 2000 , focusing on the Americas as a case study .	16292	publication.n	298	Text	MANUAL	6573981	260	271	CVa	publications
+LINKED:[45	45	260	271	bn:00065106n	http://dbpedia.org/resource/Publication	http://babelnet.org/rdf/s00065106n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35566 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	1	5	0	4112798	Using the SCI databases produced by the Institute for Scientific Information ( ISI ) , as well as data compiled by the Red Iberoamericana de Indicadores de Ciencia y Tecnología ( RICYT ) , we examined the differences in the number and proportion of scientific publications between the developed world and the developing world from 1990 until 2000 , focusing on the Americas as a case study .	12537	information.n	1591	Information	MANUAL	6579655	65	75	CVa	Information
+LINKED:[10	10	65	75	bn:00046705n	http://dbpedia.org/resource/Information	http://babelnet.org/rdf/s00046705n	0.7478198	0.67741936	0.077350974	BABELFY]
+RANK:=== COUNTER  Counter 35578 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	2	5	0	4112799	Not surprisingly , there was a huge disparity in the number of publications from 1990 until 2000 , with the United States contributing the lion 's share ( 84.2% ) , followed by Canada ( 10.35% ) .	15772	huge.a	2282	Size	MANUAL	6573989	31	34	CVa	huge
+LINKED:[6	6	31	34	bn:00098905a		http://babelnet.org/rdf/s00098905a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35580 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	2	5	0	4112799	Not surprisingly , there was a huge disparity in the number of publications from 1990 until 2000 , with the United States contributing the lion 's share ( 84.2% ) , followed by Canada ( 10.35% ) .	16292	publication.n	298	Text	MANUAL	6573994	63	74	CVa	publications
+LINKED:[12	12	63	74	bn:00065106n	http://dbpedia.org/resource/Publication	http://babelnet.org/rdf/s00065106n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35586 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	3	5	0	4112800	Latin America as a whole contributed only 5.45% to the total number of scientific publications in these ten years ( RICYT 2002 ) .	12046	contribute.v	139	Giving	MANUAL	6573999	25	35	CVa	contributed
+LINKED:[5	5	25	35	bn:00082319v		http://babelnet.org/rdf/s00082319v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35590 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	3	5	0	4112800	Latin America as a whole contributed only 5.45% to the total number of scientific publications in these ten years ( RICYT 2002 ) .	13174	total.a	602	Amounting_to	MANUAL	6574004	55	59	CVa	total
+LINKED:[11	11	55	59	bn:00102277a		http://babelnet.org/rdf/s00102277a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35592 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	3	5	0	4112800	Latin America as a whole contributed only 5.45% to the total number of scientific publications in these ten years ( RICYT 2002 ) .	16292	publication.n	298	Text	MANUAL	6574007	82	93	CVa	publications
+LINKED:[15	15	82	93	bn:00065106n	http://dbpedia.org/resource/Publication	http://babelnet.org/rdf/s00065106n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35596 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	3	5	0	4112800	Latin America as a whole contributed only 5.45% to the total number of scientific publications in these ten years ( RICYT 2002 ) .	3878	year.n	224	Measure_duration	MANUAL	6675730	108	112	WMcQ	years
+LINKED:[19	19	108	112	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35598 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:195	23936	1	6	0	4112801	The total number of publications , however , is not necessarily the best measure for assessing scientific productivity or technical advances ( May 1997 ) .	13174	total.a	602	Amounting_to	MANUAL	6574123	4	8	CVa	total
+LINKED:[1	1	4	8	bn:00102277a		http://babelnet.org/rdf/s00102277a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35600 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	1	6	0	4112801	The total number of publications , however , is not necessarily the best measure for assessing scientific productivity or technical advances ( May 1997 ) .	11645	advance.n	1340	Progression	MANUAL	6574129	132	139	CVa	advances
+LINKED:[20	20	132	139	bn:00001548n		http://babelnet.org/rdf/s00001548n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35604 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	1	6	0	4112801	The total number of publications , however , is not necessarily the best measure for assessing scientific productivity or technical advances ( May 1997 ) .	9110	good.a	726	Usefulness	MANUAL	6574130	68	71	CVa	best
+LINKED:[12	12	68	71	bn:00098274a		http://babelnet.org/rdf/s00098274a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35606 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	1	6	0	4112801	The total number of publications , however , is not necessarily the best measure for assessing scientific productivity or technical advances ( May 1997 ) .	16292	publication.n	298	Text	MANUAL	6575272	20	31	CVa	publications
+LINKED:[4	4	20	31	bn:00065106n	http://dbpedia.org/resource/Publication	http://babelnet.org/rdf/s00065106n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35608 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	2	6	0	4112802	More relevant measurements for these factors include the proportional change in the number of publications and the total number of publications when corrected for investment in research and development ( May 1997 ) .	16301	relevant.a	2530	Being_relevant	MANUAL	6574407	5	12	CVa	relevant
+LINKED:[1	1	5	12	bn:00109659a		http://babelnet.org/rdf/s00109659a	1.0	0.0625	6.4641243E-4	BABELFY]
+RANK:=== COUNTER  Counter 35610 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	2	6	0	4112802	More relevant measurements for these factors include the proportional change in the number of publications and the total number of publications when corrected for investment in research and development ( May 1997 ) .	10687	include.v	1153	Inclusion	MANUAL	6574420	45	51	CVa	include
+LINKED:[6	6	45	51	bn:00089662v		http://babelnet.org/rdf/s00089662v	1.0	0.0625	6.4641243E-4	BABELFY]
+RANK:=== COUNTER  Counter 35614 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	2	6	0	4112802	More relevant measurements for these factors include the proportional change in the number of publications and the total number of publications when corrected for investment in research and development ( May 1997 ) .	16292	publication.n	298	Text	MANUAL	6574424	94	105	CVa	publications
+LINKED:[14	14	94	105	bn:00065106n	http://dbpedia.org/resource/Publication	http://babelnet.org/rdf/s00065106n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35618 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	2	6	0	4112802	More relevant measurements for these factors include the proportional change in the number of publications and the total number of publications when corrected for investment in research and development ( May 1997 ) .	13174	total.a	602	Amounting_to	MANUAL	6574425	115	119	CVa	total
+LINKED:[17	17	115	119	bn:00102277a		http://babelnet.org/rdf/s00102277a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35620 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	2	6	0	4112802	More relevant measurements for these factors include the proportional change in the number of publications and the total number of publications when corrected for investment in research and development ( May 1997 ) .	16292	publication.n	298	Text	MANUAL	6574427	131	142	CVa	publications
+LINKED:[20	20	131	142	bn:00065106n	http://dbpedia.org/resource/Publication	http://babelnet.org/rdf/s00065106n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35622 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	3	6	0	4112803	The proportional change in the number of publications , using 1990 as a comparison , revealed that scientific publishing in Latin America increased the most rapidly in the Americas , far outpacing the United States and Canada ( Figure 1 ) .	16292	publication.n	298	Text	MANUAL	6574441	41	52	CVa	publications
+LINKED:[7	7	41	52	bn:00065106n	http://dbpedia.org/resource/Publication	http://babelnet.org/rdf/s00065106n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35630 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	4	6	0	4112804	Further analyses , correcting the number of overall publications for the amount of money invested in research and development for each region , also show that , in contrast to both Canada and United States , the trend in Latin America has been an increase in relative output throughout the 1990s ( Figure 2 ) .	16292	publication.n	298	Text	MANUAL	6574603	52	63	CVa	publications
+LINKED:[8	8	52	63	bn:00065108n	http://dbpedia.org/resource/Publishing	http://babelnet.org/rdf/s00065108n	0.71428573	0.4	0.008296296	BABELFY]
+RANK:=== COUNTER  Counter 35642 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	4	6	0	4112804	Further analyses , correcting the number of overall publications for the amount of money invested in research and development for each region , also show that , in contrast to both Canada and United States , the trend in Latin America has been an increase in relative output throughout the 1990s ( Figure 2 ) .	13361	money.n	1761	Money	MANUAL	6574605	83	87	CVa	money
+LINKED:[13	13	83	87	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	0.8979592	0.56	0.018251851	BABELFY]
+RANK:=== COUNTER  Counter 35644 ===
+	Money: -0.027777777777777776
+	Commerce_pay: -0.04000000000000001
+
+SELECTED:[Money]
+MATCH!
+SILVER:195	23936	4	6	0	4112804	Further analyses , correcting the number of overall publications for the amount of money invested in research and development for each region , also show that , in contrast to both Canada and United States , the trend in Latin America has been an increase in relative output throughout the 1990s ( Figure 2 ) .	1870	increase.v	91	Change_position_on_a_scale	MANUAL	6574712	247	254	CVa	increase
+LINKED:[44	44	247	254	bn:00041979n		http://babelnet.org/rdf/s00041979n	0.71428573	0.2	0.0017777778	BABELFY]
+RANK:=== COUNTER  Counter 35650 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	4	6	0	4112804	Further analyses , correcting the number of overall publications for the amount of money invested in research and development for each region , also show that , in contrast to both Canada and United States , the trend in Latin America has been an increase in relative output throughout the 1990s ( Figure 2 ) .	16300	output.n	2164	Labor_product	MANUAL	6574813	268	273	CVa	output
+LINKED:[47	47	268	273	bn:00030738n		http://babelnet.org/rdf/s00030738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35652 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	5	6	0	4112805	Moreover , when taking into account the amount of research money available to researchers , Latin America actually out-published the United States and Canada by the year 2000 ( Figure 2 ) .	13361	money.n	1761	Money	MANUAL	6574816	59	63	CVa	money
+LINKED:[10	10	59	63	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	0.8333333	0.625	0.020720618	BABELFY]
+RANK:=== COUNTER  Counter 35654 ===
+	Money: -0.027777777777777776
+	Commerce_pay: -0.04000000000000001
+
+SELECTED:[Money]
+MATCH!
+SILVER:195	23936	5	6	0	4112805	Moreover , when taking into account the amount of research money available to researchers , Latin America actually out-published the United States and Canada by the year 2000 ( Figure 2 ) .	4074	year.n	229	Calendric_unit	MANUAL	6574818	165	168	CVa	year
+LINKED:[26	26	165	168	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35658 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23936	6	6	0	4112806	Although the cost of research is undoubtedly cheaper in the developing world due to relatively low researcher salaries , overhead and other work standards , these factors do not explain the substantial increase in the number of publications per amount of money allocated to research and development in Latin America , particularly from 1995 until 2000 ( Figure 2 ) .	11647	develop.v	1340	Progression	MANUAL	6574826	60	69	CVa	developing
+LINKED:[10	10	60	69	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35662 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	6	6	0	4112806	Although the cost of research is undoubtedly cheaper in the developing world due to relatively low researcher salaries , overhead and other work standards , these factors do not explain the substantial increase in the number of publications per amount of money allocated to research and development in Latin America , particularly from 1995 until 2000 ( Figure 2 ) .	12139	explain.v	1462	Explaining_the_facts	MANUAL	6575039	178	184	CVa	explain
+LINKED:[29	29	178	184	bn:00087870v		http://babelnet.org/rdf/s00087870v	0.9677419	0.1724138	0.0034594096	BABELFY]
+RANK:=== COUNTER  Counter 35670 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	6	6	0	4112806	Although the cost of research is undoubtedly cheaper in the developing world due to relatively low researcher salaries , overhead and other work standards , these factors do not explain the substantial increase in the number of publications per amount of money allocated to research and development in Latin America , particularly from 1995 until 2000 ( Figure 2 ) .	16310	number.n	218	Cardinal_numbers	MANUAL	6575076	218	223	CVa	number
+LINKED:[35	35	218	223	bn:00058285n	http://dbpedia.org/resource/Number	http://babelnet.org/rdf/s00058285n	0.7398374	0.2413793	0.010493542	BABELFY]
+RANK:=== COUNTER  Counter 35674 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	6	6	0	4112806	Although the cost of research is undoubtedly cheaper in the developing world due to relatively low researcher salaries , overhead and other work standards , these factors do not explain the substantial increase in the number of publications per amount of money allocated to research and development in Latin America , particularly from 1995 until 2000 ( Figure 2 ) .	16292	publication.n	298	Text	MANUAL	6575077	228	239	CVa	publications
+LINKED:[37	37	228	239	bn:00065108n	http://dbpedia.org/resource/Publishing	http://babelnet.org/rdf/s00065108n	0.7105263	0.31034482	0.012453875	BABELFY]
+RANK:=== COUNTER  Counter 35676 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23936	6	6	0	4112806	Although the cost of research is undoubtedly cheaper in the developing world due to relatively low researcher salaries , overhead and other work standards , these factors do not explain the substantial increase in the number of publications per amount of money allocated to research and development in Latin America , particularly from 1995 until 2000 ( Figure 2 ) .	13361	money.n	1761	Money	MANUAL	6575079	255	259	CVa	money
+LINKED:[41	41	255	259	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	0.9445783	0.4827586	0.045202952	BABELFY]
+RANK:=== COUNTER  Counter 35678 ===
+	Money: -0.027777777777777776
+	Commerce_pay: -0.04000000000000001
+
+SELECTED:[Money]
+MATCH!
+filename	ANC__journal_christine.xml
+docAnnotations	112
+docManual	76
+docUnannotated	36
+sentences	32
+paragraphs	11
+Overlapping	60
+Disambiguated	6
+TP	5
+TN	36
+FP	0
+FN	70
+P	1.0
+R	0.06666666666666667
+F	0.125
+A	0.36936936936936937

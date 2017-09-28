@@ -1,0 +1,481 @@
+SILVER:195	23811	1	3	0	4106590	What kind of people benefit by your contribution to Pleasant Run Children 's Homes ?	12047	contribution.n	139	Giving	MANUAL	6557518	36	47	AlK	contribution
+LINKED:[7	7	36	47	bn:00022269n		http://babelnet.org/rdf/s00022269n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43224 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	1	3	0	4106590	What kind of people benefit by your contribution to Pleasant Run Children 's Homes ?	10083	child.n	973	People_by_age	MANUAL	6557519	65	72	AlK	Children
+LINKED:[11	11	65	72	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.969697	0.8	0.41558442	BABELFY]
+RANK:=== COUNTER  Counter 43226 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:195	23811	1	3	0	4106590	What kind of people benefit by your contribution to Pleasant Run Children 's Homes ?	3012	home.n	173	Buildings	MANUAL	6557520	77	81	AlK	Homes
+LINKED:[13	13	77	81	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43228 ===
+	Buildings: -1.451589490492089E-4
+	Foreign_or_domestic_country: -0.027777777777777776
+	Expected_location_of_person: -1.0
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23811	1	4	0	4106591	Little ones , like Baby Jessica , caught in the struggle between adoptive and birth parents .	1921	struggle.n	93	Hostile_encounter	MANUAL	6557523	48	55	AlK	struggle
+LINKED:[10	10	48	55	bn:00009079n		http://babelnet.org/rdf/s00009079n	1.0	0.125	0.0069444445	BABELFY]
+RANK:=== COUNTER  Counter 43232 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	2	4	0	4106592	Older kids , like Tracy and Kerry , left homeless after a recent murder - suicide in Indianapolis claimed Mom and Dad .	10087	kid.n	973	People_by_age	MANUAL	6557528	6	9	AlK	kids
+LINKED:[1	1	6	9	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.9493671	0.71428573	0.45454547	BABELFY]
+RANK:=== COUNTER  Counter 43238 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:195	23811	2	4	0	4106592	Older kids , like Tracy and Kerry , left homeless after a recent murder - suicide in Indianapolis claimed Mom and Dad .	14847	leave.v	5	Causation	MANUAL	6557530	36	39	AlK	left
+LINKED:[8	8	36	39	bn:00087695v		http://babelnet.org/rdf/s00087695v	1.0	0.14285715	0.006060606	BABELFY]
+RANK:=== COUNTER  Counter 43240 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	2	4	0	4106592	Older kids , like Tracy and Kerry , left homeless after a recent murder - suicide in Indianapolis claimed Mom and Dad .	9052	murder.n	590	Killing	MANUAL	6557533	65	70	AlK	murder
+LINKED:[13	13	65	70	bn:00032175n	http://dbpedia.org/resource/Murder	http://babelnet.org/rdf/s00032175n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43242 ===
+	Killing: -4.938271604938272E-4
+	Offenses: -0.0018903591682419658
+
+SELECTED:[Killing]
+MATCH!
+SILVER:195	23811	2	4	0	4106592	Older kids , like Tracy and Kerry , left homeless after a recent murder - suicide in Indianapolis claimed Mom and Dad .	8648	suicide.n	590	Killing	MANUAL	6557534	74	80	AlK	suicide
+LINKED:[15	15	74	80	bn:00070332n	http://dbpedia.org/resource/Suicide	http://babelnet.org/rdf/s00070332n	0.8780488	0.42857143	0.21818182	BABELFY]
+RANK:=== COUNTER  Counter 43244 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	2	4	0	4106592	Older kids , like Tracy and Kerry , left homeless after a recent murder - suicide in Indianapolis claimed Mom and Dad .	8265	claim.v	550	Claim_ownership	MANUAL	6557710	98	104	AlK	claimed
+LINKED:[18	18	98	104	bn:00085016v		http://babelnet.org/rdf/s00085016v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43250 ===
+	Statement: -2.44140625E-4
+	Predicting: -0.027777777777777776
+	Claim_ownership: -0.0625
+
+SELECTED:[Claim_ownership]
+MATCH!
+SILVER:195	23811	3	4	0	4106593	Young adults , like Mary T . , a jobless mother of three , trying desperately to keep her kids out of trouble in a crime - ridden neighborhood .	10073	young.a	972	Age	MANUAL	6557538	0	4	AlK	Young
+LINKED:[0	0	0	4	bn:00058715n		http://babelnet.org/rdf/s00058715n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43252 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	3	4	0	4106593	Young adults , like Mary T . , a jobless mother of three , trying desperately to keep her kids out of trouble in a crime - ridden neighborhood .	12594	jobless.a	282	Being_employed	MANUAL	6557541	33	39	AlK	jobless
+LINKED:[9	9	33	39	bn:00104524a		http://babelnet.org/rdf/s00104524a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43256 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	3	4	0	4106593	Young adults , like Mary T . , a jobless mother of three , trying desperately to keep her kids out of trouble in a crime - ridden neighborhood .	2465	try.v	116	Attempt	MANUAL	6557544	59	64	AlK	trying
+LINKED:[14	14	59	64	bn:00082844v		http://babelnet.org/rdf/s00082844v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43260 ===
+	Attempt: -0.02040816326530612
+	Trying_out: -0.25
+	Tasting: -0.25
+	Try_defendant: -1.0
+	Attempt_means: -1.0
+
+SELECTED:[Attempt]
+MATCH!
+SILVER:195	23811	3	4	0	4106593	Young adults , like Mary T . , a jobless mother of three , trying desperately to keep her kids out of trouble in a crime - ridden neighborhood .	15068	keep.v	1550	Storing	MANUAL	6557545	81	84	AlK	keep
+LINKED:[17	17	81	84	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43262 ===
+	Activity_ongoing: -0.02040816326530612
+	Cause_to_continue: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	3	4	0	4106593	Young adults , like Mary T . , a jobless mother of three , trying desperately to keep her kids out of trouble in a crime - ridden neighborhood .	11747	kid.n	104	Kinship	MANUAL	6557546	90	93	AlK	kids
+LINKED:[19	19	90	93	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.8	0.6666667	0.24573378	BABELFY]
+RANK:=== COUNTER  Counter 43264 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[Kinship]
+MATCH!
+SILVER:195	23811	4	4	0	4106594	Real people !	8572	real.a	660	Existence	MANUAL	6557551	0	3	AlK	Real
+LINKED:[0	0	0	3	bn:00066395n	http://dbpedia.org/resource/Real_number	http://babelnet.org/rdf/s00066395n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43270 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	2	5	0	4106596	Families are being torn apart , and too often , children are the victims .	10083	child.n	973	People_by_age	MANUAL	6557559	48	55	AlK	children
+LINKED:[10	10	48	55	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43276 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:195	23811	3	5	0	4106597	Kids like Tommie J . , made a ward of the court because of repeated beatings by an alcoholic father ; Alice , sent to a group home to get help because of severe behavior disorders ; and John H . , a recovering alcoholic , rebuilding a relationships with his family so they can live together again .	10087	kid.n	973	People_by_age	MANUAL	6557561	0	3	AlK	Kids
+LINKED:[0	0	0	3	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.8528827	0.5652174	0.14028777	BABELFY]
+RANK:=== COUNTER  Counter 43282 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:195	23811	3	5	0	4106597	Kids like Tommie J . , made a ward of the court because of repeated beatings by an alcoholic father ; Alice , sent to a group home to get help because of severe behavior disorders ; and John H . , a recovering alcoholic , rebuilding a relationships with his family so they can live together again .	12625	court.n	1607	Judicial_body	MANUAL	6557564	42	46	AlK	court
+LINKED:[11	11	42	46	bn:00023308n	http://dbpedia.org/resource/Court	http://babelnet.org/rdf/s00023308n	0.85365856	0.3043478	0.022890778	BABELFY]
+RANK:=== COUNTER  Counter 43284 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	3	5	0	4106597	Kids like Tommie J . , made a ward of the court because of repeated beatings by an alcoholic father ; Alice , sent to a group home to get help because of severe behavior disorders ; and John H . , a recovering alcoholic , rebuilding a relationships with his family so they can live together again .	3818	alcoholic.n	213	Addiction	MANUAL	6557567	83	91	AlK	alcoholic
+LINKED:[18	18	83	91	bn:00096751a		http://babelnet.org/rdf/s00096751a	1.0	0.08695652	0.0013080444	BABELFY]
+RANK:=== COUNTER  Counter 43288 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	3	5	0	4106597	Kids like Tommie J . , made a ward of the court because of repeated beatings by an alcoholic father ; Alice , sent to a group home to get help because of severe behavior disorders ; and John H . , a recovering alcoholic , rebuilding a relationships with his family so they can live together again .	4491	send.v	243	Sending	MANUAL	6557569	110	113	AlK	sent
+LINKED:[23	23	110	113	bn:00086868v		http://babelnet.org/rdf/s00086868v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43292 ===
+	Causation: -0.0025000000000000005
+	Sending: -0.00591715976331361
+
+SELECTED:[Sending]
+MATCH!
+SILVER:195	23811	3	5	0	4106597	Kids like Tommie J . , made a ward of the court because of repeated beatings by an alcoholic father ; Alice , sent to a group home to get help because of severe behavior disorders ; and John H . , a recovering alcoholic , rebuilding a relationships with his family so they can live together again .	3012	home.n	173	Buildings	MANUAL	6557571	126	129	AlK	home
+LINKED:[27	27	126	129	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43294 ===
+	Buildings: -1.451589490492089E-4
+	Foreign_or_domestic_country: -0.027777777777777776
+	Expected_location_of_person: -1.0
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23811	3	5	0	4106597	Kids like Tommie J . , made a ward of the court because of repeated beatings by an alcoholic father ; Alice , sent to a group home to get help because of severe behavior disorders ; and John H . , a recovering alcoholic , rebuilding a relationships with his family so they can live together again .	8001	behavior.n	491	Conduct	MANUAL	6557575	161	168	AlK	behavior
+LINKED:[34	34	161	168	bn:00009657n	http://dbpedia.org/resource/Behavior	http://babelnet.org/rdf/s00009657n	0.7320574	0.39130434	0.0500327	BABELFY]
+RANK:=== COUNTER  Counter 43298 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	3	5	0	4106597	Kids like Tommie J . , made a ward of the court because of repeated beatings by an alcoholic father ; Alice , sent to a group home to get help because of severe behavior disorders ; and John H . , a recovering alcoholic , rebuilding a relationships with his family so they can live together again .	910	recover.v	51	Recovery	MANUAL	6557576	199	208	AlK	recovering
+LINKED:[43	43	199	208	bn:00088210v		http://babelnet.org/rdf/s00088210v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43300 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	3	5	0	4106597	Kids like Tommie J . , made a ward of the court because of repeated beatings by an alcoholic father ; Alice , sent to a group home to get help because of severe behavior disorders ; and John H . , a recovering alcoholic , rebuilding a relationships with his family so they can live together again .	3818	alcoholic.n	213	Addiction	MANUAL	6557577	210	218	AlK	alcoholic
+LINKED:[44	44	210	218	bn:00096751a		http://babelnet.org/rdf/s00096751a	1.0	0.08695652	0.0013080444	BABELFY]
+RANK:=== COUNTER  Counter 43302 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	3	5	0	4106597	Kids like Tommie J . , made a ward of the court because of repeated beatings by an alcoholic father ; Alice , sent to a group home to get help because of severe behavior disorders ; and John H . , a recovering alcoholic , rebuilding a relationships with his family so they can live together again .	2220	live.v	110	Residence	MANUAL	6557580	277	280	AlK	live
+LINKED:[55	55	277	280	bn:00087441v		http://babelnet.org/rdf/s00087441v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43306 ===
+	Residence: -0.00591715976331361
+	Colonization: -0.027777777777777776
+
+SELECTED:[Residence]
+MATCH!
+SILVER:195	23811	3	5	0	4106597	Kids like Tommie J . , made a ward of the court because of repeated beatings by an alcoholic father ; Alice , sent to a group home to get help because of severe behavior disorders ; and John H . , a recovering alcoholic , rebuilding a relationships with his family so they can live together again .	2112	group.n	103	Aggregate	MANUAL	6557686	120	124	AlK	group
+LINKED:[26	26	120	124	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.91	0.3043478	0.029758012	BABELFY]
+RANK:=== COUNTER  Counter 43308 ===
+	Aggregate: -4.0E-4
+	Organization: -0.00510204081632653
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:195	23811	1	6	0	4106598	Pleasant Run Children 's Homes began serving children nearly 130 years ago .	10083	child.n	973	People_by_age	MANUAL	6557582	13	20	AlK	Children
+LINKED:[2	2	13	20	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.9411765	0.85714287	0.33333334	BABELFY]
+RANK:=== COUNTER  Counter 43312 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:195	23811	1	6	0	4106598	Pleasant Run Children 's Homes began serving children nearly 130 years ago .	3012	home.n	173	Buildings	MANUAL	6557583	25	29	AlK	Homes
+LINKED:[4	4	25	29	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43314 ===
+	Buildings: -1.451589490492089E-4
+	Foreign_or_domestic_country: -0.027777777777777776
+	Expected_location_of_person: -1.0
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23811	1	6	0	4106598	Pleasant Run Children 's Homes began serving children nearly 130 years ago .	4448	begin.v	146	Activity_start	MANUAL	6557584	31	35	AlK	began
+LINKED:[5	5	31	35	bn:00083340v		http://babelnet.org/rdf/s00083340v	1.0	0.14285715	0.0034722222	BABELFY]
+RANK:=== COUNTER  Counter 43316 ===
+	Activity_start: -0.015625
+	Process_start: -0.027777777777777776
+	Setting_out: -0.1111111111111111
+
+SELECTED:[Activity_start]
+MATCH!
+SILVER:195	23811	1	6	0	4106598	Pleasant Run Children 's Homes began serving children nearly 130 years ago .	10083	child.n	973	People_by_age	MANUAL	6557586	45	52	AlK	children
+LINKED:[7	7	45	52	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.9411765	0.85714287	0.33333334	BABELFY]
+RANK:=== COUNTER  Counter 43320 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:195	23811	1	6	0	4106598	Pleasant Run Children 's Homes began serving children nearly 130 years ago .	3878	year.n	224	Measure_duration	MANUAL	6557589	65	69	AlK	years
+LINKED:[10	10	65	69	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43324 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:195	23811	2	6	0	4106599	Then the task was to help children who lost parents in the Civil War .	7041	help.v	391	Assistance	MANUAL	6557592	21	24	AlK	help
+LINKED:[5	5	21	24	bn:00089310v		http://babelnet.org/rdf/s00089310v	1.0	0.2	0.008474576	BABELFY]
+RANK:=== COUNTER  Counter 43328 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	2	6	0	4106599	Then the task was to help children who lost parents in the Civil War .	10083	child.n	973	People_by_age	MANUAL	6557593	26	33	AlK	children
+LINKED:[6	6	26	33	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.82758623	0.8	0.20338982	BABELFY]
+RANK:=== COUNTER  Counter 43330 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:195	23811	2	6	0	4106599	Then the task was to help children who lost parents in the Civil War .	1939	war.n	93	Hostile_encounter	MANUAL	6557596	65	67	AlK	War
+LINKED:[13	13	65	67	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.9	0.6	0.38135594	BABELFY]
+RANK:=== COUNTER  Counter 43334 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	3	6	0	4106600	Today , we serve children and families with a multitude of problems : emotional , physical , psychological and sexual abuse .	14201	today.n	1895	Temporal_collocation	MANUAL	6557597	0	4	AlK	Today
+LINKED:[0	0	0	4	bn:01575963n	http://dbpedia.org/resource/Today_(U.S._TV_program)	http://babelnet.org/rdf/s01575963n	1.0	0.1	0.00390625	BABELFY]
+RANK:=== COUNTER  Counter 43336 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	3	6	0	4106600	Today , we serve children and families with a multitude of problems : emotional , physical , psychological and sexual abuse .	10083	child.n	973	People_by_age	MANUAL	6557599	17	24	AlK	children
+LINKED:[4	4	17	24	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.8918919	0.6	0.2578125	BABELFY]
+RANK:=== COUNTER  Counter 43340 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:195	23811	3	6	0	4106600	Today , we serve children and families with a multitude of problems : emotional , physical , psychological and sexual abuse .	2140	multitude.n	103	Aggregate	MANUAL	6557601	46	54	AlK	multitude
+LINKED:[9	9	46	54	bn:00009055n		http://babelnet.org/rdf/s00009055n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43342 ===
+	Containers: -9.80296049406921E-5
+	Measure_volume: -9.182736455463729E-4
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	4	6	0	4106601	Some come from families where , through therapy , there is hope for reunification .	4040	therapy.n	50	Cure	MANUAL	6557607	40	46	AlK	therapy
+LINKED:[7	7	40	46	bn:00076843n	http://dbpedia.org/resource/Therapy	http://babelnet.org/rdf/s00076843n	1.0	0.33333334	0.1	BABELFY]
+RANK:=== COUNTER  Counter 43352 ===
+	Medical_specialties: -0.0013717421124828531
+	Cure: -0.0027700831024930744
+
+SELECTED:[Cure]
+MATCH!
+SILVER:195	23811	4	6	0	4106601	Some come from families where , through therapy , there is hope for reunification .	6605	hope.n	366	Desiring	MANUAL	6557609	59	62	AlK	hope
+LINKED:[11	11	59	62	bn:00044736n		http://babelnet.org/rdf/s00044736n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43354 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	5	6	0	4106602	For others , `` families '' are the counselors are housemates at the group homes where they live .	2112	group.n	103	Aggregate	MANUAL	6557613	69	73	AlK	group
+LINKED:[12	12	69	73	bn:00041942n		http://babelnet.org/rdf/s00041942n	1.0	0.33333334	0.027272727	BABELFY]
+RANK:=== COUNTER  Counter 43360 ===
+	Aggregate: -4.0E-4
+	Organization: -0.00510204081632653
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:195	23811	5	6	0	4106602	For others , `` families '' are the counselors are housemates at the group homes where they live .	3012	home.n	173	Buildings	MANUAL	6557614	75	79	AlK	homes
+LINKED:[13	13	75	79	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43362 ===
+	Buildings: -1.451589490492089E-4
+	Foreign_or_domestic_country: -0.027777777777777776
+	Expected_location_of_person: -1.0
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23811	5	6	0	4106602	For others , `` families '' are the counselors are housemates at the group homes where they live .	2220	live.v	110	Residence	MANUAL	6557615	92	95	AlK	live
+LINKED:[16	16	92	95	bn:00087441v		http://babelnet.org/rdf/s00087441v	1.0	0.33333334	0.036363635	BABELFY]
+RANK:=== COUNTER  Counter 43364 ===
+	Residence: -0.00591715976331361
+	Colonization: -0.027777777777777776
+
+SELECTED:[Residence]
+MATCH!
+SILVER:195	23811	1	7	0	4106603	The biggest tragedy is that the problems do n't go away ; they only grow .	15186	go	2104	Ceasing_to_be	MANUAL	6557618	51	54	EGp	away
+LINKED:[11	11	51	54	bn:00114456r		http://babelnet.org/rdf/s00114456r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43372 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	1	7	0	4106603	The biggest tragedy is that the problems do n't go away ; they only grow .	11175	grow.v	725	Expansion	MANUAL	6557619	68	71	AlK	grow
+LINKED:[15	15	68	71	bn:00089083v		http://babelnet.org/rdf/s00089083v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43374 ===
+	Change_position_on_a_scale: -4.938271604938272E-4
+	Cause_expansion: -0.0030864197530864196
+	Expansion: -0.006944444444444444
+	Growing_food: -0.25
+
+SELECTED:[Expansion]
+MATCH!
+SILVER:195	23811	2	7	0	4106604	In 1994 Pleasant Run served 346 children and 125 families .	11869	serve.v	391	Assistance	MANUAL	6557621	21	26	AlK	served
+LINKED:[4	4	21	26	bn:00088630v		http://babelnet.org/rdf/s00088630v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43376 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	2	7	0	4106604	In 1994 Pleasant Run served 346 children and 125 families .	10083	child.n	973	People_by_age	MANUAL	6557622	32	39	AlK	children
+LINKED:[6	6	32	39	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.85714287	1.0	0.38709676	BABELFY]
+RANK:=== COUNTER  Counter 43378 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:195	23811	3	7	0	4106605	In 1995 we will serve over 850 children and 340 families .	10083	child.n	973	People_by_age	MANUAL	6557627	31	38	AlK	children
+LINKED:[7	7	31	38	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.8181818	1.0	0.51428574	BABELFY]
+RANK:=== COUNTER  Counter 43384 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:195	23811	5	7	0	4106607	The children and families who come to Pleasant Run are given the opportunity to become happy , loving , and productive members of our society .	10083	child.n	973	People_by_age	MANUAL	6557631	4	11	AlK	children
+LINKED:[1	1	4	11	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.8717949	0.72727275	0.24242425	BABELFY]
+RANK:=== COUNTER  Counter 43388 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:195	23811	6	7	0	4106608	They welcome the chance to belong , to become self - sufficient , to regain their self - esteem and confidence .	6566	chance.n	374	Daring	MANUAL	6557640	17	22	AlK	chance
+LINKED:[3	3	17	22	bn:00017624n	http://dbpedia.org/resource/Probability	http://babelnet.org/rdf/s00017624n	1.0	0.2	0.011363637	BABELFY]
+RANK:=== COUNTER  Counter 43396 ===
+	Likelihood: -0.0027700831024930744
+	Probability: -0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	6	7	0	4106608	They welcome the chance to belong , to become self - sufficient , to regain their self - esteem and confidence .	2749	confidence.n	141	Certainty	MANUAL	6557644	100	109	AlK	confidence
+LINKED:[20	20	100	109	bn:00021742n	http://dbpedia.org/resource/Confidence	http://babelnet.org/rdf/s00021742n	0.75	0.6	0.10227273	BABELFY]
+RANK:=== COUNTER  Counter 43402 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	7	7	0	4106609	Often it is a long , hard struggle , but the results are well worth it .	13915	long.a	79	Duration_description	MANUAL	6557646	14	17	AlK	long
+LINKED:[4	4	14	17	bn:00116153r		http://babelnet.org/rdf/s00116153r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43404 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	7	7	0	4106609	Often it is a long , hard struggle , but the results are well worth it .	1921	struggle.n	93	Hostile_encounter	MANUAL	6557648	26	33	AlK	struggle
+LINKED:[7	7	26	33	bn:00009079n		http://babelnet.org/rdf/s00009079n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43408 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	7	7	0	4106609	Often it is a long , hard struggle , but the results are well worth it .	14552	result.n	5	Causation	MANUAL	6557649	45	51	AlK	results
+LINKED:[11	11	45	51	bn:00004452n		http://babelnet.org/rdf/s00004452n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 43410 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	1	8	0	4106610	For Pleasant Run to continue to serve abused and neglected children and their families , we need your support .	11869	serve.v	391	Assistance	MANUAL	6557652	32	36	AlK	serve
+LINKED:[6	6	32	36	bn:00088630v		http://babelnet.org/rdf/s00088630v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43414 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	1	8	0	4106610	For Pleasant Run to continue to serve abused and neglected children and their families , we need your support .	7932	abuse.v	482	Abusing	MANUAL	6557653	38	43	AlK	abused
+LINKED:[7	7	38	43	bn:00096220a		http://babelnet.org/rdf/s00096220a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43416 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	1	8	0	4106610	For Pleasant Run to continue to serve abused and neglected children and their families , we need your support .	10083	child.n	973	People_by_age	MANUAL	6557654	59	66	AlK	children
+LINKED:[10	10	59	66	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.8333333	0.71428573	0.221519	BABELFY]
+RANK:=== COUNTER  Counter 43418 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:195	23811	2	8	0	4106611	The Funding sources are shrinking , but the needs grow explosively .	11175	grow.v	725	Expansion	MANUAL	6557661	50	53	AlK	grow
+LINKED:[9	9	50	53	bn:00089083v		http://babelnet.org/rdf/s00089083v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43430 ===
+	Change_position_on_a_scale: -4.938271604938272E-4
+	Cause_expansion: -0.0030864197530864196
+	Expansion: -0.006944444444444444
+	Growing_food: -0.25
+
+SELECTED:[Expansion]
+MATCH!
+SILVER:195	23811	3	8	0	4106612	Please `` help good kids get better '' by sending us a contribution today .	6645	good.a	370	Morality_evaluation	MANUAL	6557663	15	18	AlK	good
+LINKED:[3	3	15	18	bn:00103672a		http://babelnet.org/rdf/s00103672a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43436 ===
+	Expertise: -9.182736455463729E-4
+	Social_interaction_evaluation: -0.0010405827263267429
+	Desirability: -0.00510204081632653
+	Usefulness: -0.012345679012345678
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	3	8	0	4106612	Please `` help good kids get better '' by sending us a contribution today .	10087	kid.n	973	People_by_age	MANUAL	6557664	20	23	AlK	kids
+LINKED:[4	4	20	23	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	1.0	0.25	0.03125	BABELFY]
+RANK:=== COUNTER  Counter 43438 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:195	23811	3	8	0	4106612	Please `` help good kids get better '' by sending us a contribution today .	4491	send.v	243	Sending	MANUAL	6557667	42	48	AlK	sending
+LINKED:[8	8	42	48	bn:00093485v		http://babelnet.org/rdf/s00093485v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43440 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	3	8	0	4106612	Please `` help good kids get better '' by sending us a contribution today .	12047	contribution.n	139	Giving	MANUAL	6557668	55	66	AlK	contribution
+LINKED:[11	11	55	66	bn:00022269n		http://babelnet.org/rdf/s00022269n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43442 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	4	8	0	4106613	Your gift will give children and families hope for improved tomorrows .	5372	gift.n	139	Giving	MANUAL	6557670	5	8	AlK	gift
+LINKED:[1	1	5	8	bn:00040436n	http://dbpedia.org/resource/Gift	http://babelnet.org/rdf/s00040436n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43446 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23811	4	8	0	4106613	Your gift will give children and families hope for improved tomorrows .	10083	child.n	973	People_by_age	MANUAL	6557672	20	27	AlK	children
+LINKED:[4	4	20	27	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.7659575	1.0	0.5294118	BABELFY]
+RANK:=== COUNTER  Counter 43448 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+filename	ANC__112C-L013.xml
+docAnnotations	195
+docManual	159
+docUnannotated	36
+sentences	28
+paragraphs	10
+Overlapping	117
+Disambiguated	36
+TP	32
+TN	36
+FP	0
+FN	123
+P	1.0
+R	0.2064516129032258
+F	0.3422459893048128
+A	0.35602094240837695

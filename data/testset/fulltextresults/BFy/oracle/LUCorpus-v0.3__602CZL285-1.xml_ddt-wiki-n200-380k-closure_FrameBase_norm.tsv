@@ -1,0 +1,632 @@
+SILVER:205	23714	1	1	0	4101374	June 6, 2000	4648	June.n	229	Calendric_unit	MANUAL	6545059	0	3	RLG	June
+LINKED:[0	0	0	3	bn:00048592n	http://dbpedia.org/resource/June	http://babelnet.org/rdf/s00048592n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 11721 ===
+	Calendric_unit: 9.444444444444445
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23714	1	4	0	4101377	Pat LaCrosse asked me to send this information inviting you to join the Georgia O'Keeffe Circle of the Indianapolis Museum of Art 's Second Century Society ( SCS ) .	8421	ask.v	40	Questioning	MANUAL	6545061	13	17	RLG	asked
+LINKED:[2	2	13	17	bn:00082817v		http://babelnet.org/rdf/s00082817v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11722 ===
+	Questioning: 28.88888888888889
+
+SELECTED:[Questioning]
+MATCH!
+SILVER:205	23714	1	4	0	4101377	Pat LaCrosse asked me to send this information inviting you to join the Georgia O'Keeffe Circle of the Indianapolis Museum of Art 's Second Century Society ( SCS ) .	4491	send.v	243	Sending	MANUAL	6545062	25	28	RLG	send
+LINKED:[5	5	25	28	bn:00086868v		http://babelnet.org/rdf/s00086868v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11723 ===
+	Causation: 5.909090909090909
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	4	0	4101377	Pat LaCrosse asked me to send this information inviting you to join the Georgia O'Keeffe Circle of the Indianapolis Museum of Art 's Second Century Society ( SCS ) .	12537	information.n	1591	Information	MANUAL	6545063	35	45	RLG	information
+LINKED:[7	7	35	45	bn:00046705n	http://dbpedia.org/resource/Information	http://babelnet.org/rdf/s00046705n	0.7258065	0.2777778	0.055831265	BABELFY]
+RANK:=== COUNTER  Counter 11724 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	4	0	4101377	Pat LaCrosse asked me to send this information inviting you to join the Georgia O'Keeffe Circle of the Indianapolis Museum of Art 's Second Century Society ( SCS ) .	11045	invite.v	41	Request	MANUAL	6545064	47	54	RLG	inviting
+LINKED:[8	8	47	54	bn:00082824v		http://babelnet.org/rdf/s00082824v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11725 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	4	0	4101377	Pat LaCrosse asked me to send this information inviting you to join the Georgia O'Keeffe Circle of the Indianapolis Museum of Art 's Second Century Society ( SCS ) .	13160	join.v	1733	Becoming_a_member	MANUAL	6545065	63	66	RLG	join
+LINKED:[11	11	63	66	bn:00088013v		http://babelnet.org/rdf/s00088013v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11726 ===
+	Becoming_a_member: 47.5
+	Cause_to_amalgamate: 15.833333333333334
+
+SELECTED:[Becoming_a_member]
+MATCH!
+SILVER:205	23714	1	4	0	4101377	Pat LaCrosse asked me to send this information inviting you to join the Georgia O'Keeffe Circle of the Indianapolis Museum of Art 's Second Century Society ( SCS ) .	13802	museum.n	196	Locale_by_use	MANUAL	6545066	116	121	RLG	Museum
+LINKED:[20	20	116	121	bn:00056426n	http://dbpedia.org/resource/Museum	http://babelnet.org/rdf/s00056426n	0.94736844	0.33333334	0.06699752	BABELFY]
+RANK:=== COUNTER  Counter 11727 ===
+	Locale_by_use: 14.693877551020408
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:205	23714	1	4	0	4101377	Pat LaCrosse asked me to send this information inviting you to join the Georgia O'Keeffe Circle of the Indianapolis Museum of Art 's Second Century Society ( SCS ) .	11249	second.a	1147	Ordinal_numbers	MANUAL	6551597	133	138	KmG	Second
+LINKED:[24	24	133	138	bn:00068672n	http://dbpedia.org/resource/Second	http://babelnet.org/rdf/s00068672n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11728 ===
+	Measure_duration: 46.15384615384615
+	Calendric_unit: 11.11111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	4	0	4101377	Pat LaCrosse asked me to send this information inviting you to join the Georgia O'Keeffe Circle of the Indianapolis Museum of Art 's Second Century Society ( SCS ) .	14795	century.n	229	Calendric_unit	MANUAL	6551605	140	146	KmG	Century
+LINKED:[25	25	140	146	bn:00017234n	http://dbpedia.org/resource/Century	http://babelnet.org/rdf/s00017234n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11729 ===
+	Measure_duration: 39.23076923076923
+	Calendric_unit: 9.444444444444445
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23714	2	4	0	4101378	The SCS brochure I am enclosing will give you the historic significance of SCS , as well as listing activities and specific benefits awarded to donors at the Georgia O'Keeffe level .	7531	significance.n	407	Importance	MANUAL	6545069	59	70	RLG	significance
+LINKED:[11	11	59	70	bn:00071554n		http://babelnet.org/rdf/s00071554n	0.8333333	0.11111111	0.07575758	BABELFY]
+RANK:=== COUNTER  Counter 11730 ===
+	Probability: 27.5
+	Importance: 9.166666666666666
+
+SELECTED:[Importance]
+MATCH!
+SILVER:205	23714	2	4	0	4101378	The SCS brochure I am enclosing will give you the historic significance of SCS , as well as listing activities and specific benefits awarded to donors at the Georgia O'Keeffe level .	10616	activity.n	198	Intentionally_act	MANUAL	6545070	100	109	RLG	activities
+LINKED:[19	19	100	109	bn:00025678n	http://dbpedia.org/resource/Particle_decay	http://babelnet.org/rdf/s00025678n	1.0	0.22222222	0.060606062	BABELFY]
+RANK:=== COUNTER  Counter 11731 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	2	4	0	4101378	The SCS brochure I am enclosing will give you the historic significance of SCS , as well as listing activities and specific benefits awarded to donors at the Georgia O'Keeffe level .	5346	donor.n	139	Giving	MANUAL	6545071	144	149	RLG	donors
+LINKED:[25	25	144	149	bn:00010110n		http://babelnet.org/rdf/s00010110n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11732 ===
+	Giving: 5.294117647058823
+
+SELECTED:[Giving]
+MATCH!
+SILVER:205	23714	2	4	0	4101378	The SCS brochure I am enclosing will give you the historic significance of SCS , as well as listing activities and specific benefits awarded to donors at the Georgia O'Keeffe level .	11801	level.n	1377	Rank	MANUAL	6545072	175	179	RLG	level
+LINKED:[31	31	175	179	bn:00025965n	http://dbpedia.org/resource/Degree_(music)	http://babelnet.org/rdf/s00025965n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11733 ===
+	Rank: 125.0
+	Quantity: 8.620689655172415
+
+SELECTED:[Rank]
+MATCH!
+SILVER:205	23714	2	4	0	4101378	The SCS brochure I am enclosing will give you the historic significance of SCS , as well as listing activities and specific benefits awarded to donors at the Georgia O'Keeffe level .	14556	brochure.n	298	Text	MANUAL	6548958	8	15	KmG	brochure
+LINKED:[2	2	8	15	bn:00012133n	http://dbpedia.org/resource/Pamphlet	http://babelnet.org/rdf/s00012133n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11734 ===
+	Text: 7.297297297297297
+	Containers: 5.294117647058823
+
+SELECTED:[Text]
+MATCH!
+SILVER:205	23714	2	4	0	4101378	The SCS brochure I am enclosing will give you the historic significance of SCS , as well as listing activities and specific benefits awarded to donors at the Georgia O'Keeffe level .	14182	historic.a	1908	Historic_event	MANUAL	6551579	50	57	KmG	historic
+LINKED:[10	10	50	57	bn:00104221a		http://babelnet.org/rdf/s00104221a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11735 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	2	4	0	4101378	The SCS brochure I am enclosing will give you the historic significance of SCS , as well as listing activities and specific benefits awarded to donors at the Georgia O'Keeffe level .	14796	enclose.v	62	Placing	MANUAL	6551615	22	30	KmG	enclosing
+LINKED:[5	5	22	30	bn:00087593v		http://babelnet.org/rdf/s00087593v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11736 ===
+	Placing: 3.4482758620689653
+
+SELECTED:[Placing]
+MATCH!
+SILVER:205	23714	3	4	0	4101379	Your Georgia O'Keeffe membership , please note , includes free admission to all art-related activities of the IMA's Young Friends of Art group .	10283	membership	1026	Membership	MANUAL	6545073	22	31	RLG	membership
+LINKED:[4	4	22	31	bn:00054281n		http://babelnet.org/rdf/s00054281n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11737 ===
+	Membership: 48.0
+
+SELECTED:[Membership]
+MATCH!
+SILVER:205	23714	3	4	0	4101379	Your Georgia O'Keeffe membership , please note , includes free admission to all art-related activities of the IMA's Young Friends of Art group .	176	note.v	20	Becoming_aware	MANUAL	6545074	42	45	RLG	note
+LINKED:[7	7	42	45	bn:00058145n		http://babelnet.org/rdf/s00058145n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11738 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	3	4	0	4101379	Your Georgia O'Keeffe membership , please note , includes free admission to all art-related activities of the IMA's Young Friends of Art group .	10687	include.v	1153	Inclusion	MANUAL	6545075	49	56	RLG	includes
+LINKED:[9	9	49	56	bn:00082370v		http://babelnet.org/rdf/s00082370v	0.75	0.15384616	0.0097402595	BABELFY]
+RANK:=== COUNTER  Counter 11739 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	3	4	0	4101379	Your Georgia O'Keeffe membership , please note , includes free admission to all art-related activities of the IMA's Young Friends of Art group .	1777	free.a	83	Expensiveness	MANUAL	6545076	58	61	RLG	free
+LINKED:[10	10	58	61	bn:00103299a		http://babelnet.org/rdf/s00103299a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11740 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	3	4	0	4101379	Your Georgia O'Keeffe membership , please note , includes free admission to all art-related activities of the IMA's Young Friends of Art group .	10616	activity.n	198	Intentionally_act	MANUAL	6545077	92	101	RLG	activities
+LINKED:[15	15	92	101	bn:00001172n		http://babelnet.org/rdf/s00001172n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11741 ===
+	Intentionally_act: 6.923076923076923
+
+SELECTED:[Intentionally_act]
+MATCH!
+SILVER:205	23714	3	4	0	4101379	Your Georgia O'Keeffe membership , please note , includes free admission to all art-related activities of the IMA's Young Friends of Art group .	10073	young.a	972	Age	MANUAL	6545214	116	120	RLG	Young
+LINKED:[20	20	116	120	bn:00058715n		http://babelnet.org/rdf/s00058715n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11742 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	3	4	0	4101379	Your Georgia O'Keeffe membership , please note , includes free admission to all art-related activities of the IMA's Young Friends of Art group .	2177	friend.n	102	Personal_relationship	MANUAL	6545215	122	128	RLG	Friends
+LINKED:[21	21	122	128	bn:00036538n		http://babelnet.org/rdf/s00036538n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11743 ===
+	Personal_relationship: 7.142857142857143
+
+SELECTED:[Personal_relationship]
+MATCH!
+SILVER:205	23714	3	4	0	4101379	Your Georgia O'Keeffe membership , please note , includes free admission to all art-related activities of the IMA's Young Friends of Art group .	14359	art.n	1345	Fields	MANUAL	6551616	133	135	KmG	Art
+LINKED:[23	23	133	135	bn:00005927n	http://dbpedia.org/resource/Art	http://babelnet.org/rdf/s00005927n	0.921466	0.61538464	0.2857143	BABELFY]
+RANK:=== COUNTER  Counter 11744 ===
+	Fields: 86.36363636363636
+
+SELECTED:[Fields]
+MATCH!
+SILVER:205	23714	3	4	0	4101379	Your Georgia O'Keeffe membership , please note , includes free admission to all art-related activities of the IMA's Young Friends of Art group .	14797	group.n	1371	Organization	MANUAL	6551625	137	141	KmG	group
+LINKED:[24	24	137	141	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11745 ===
+	Organization: 23.846153846153847
+	Aggregate: 6.326530612244898
+
+SELECTED:[Organization]
+MATCH!
+SILVER:205	23714	1	5	0	4101380	Additionally , I am sending traditional background materials on the Museum and the two latest issues of our Previews Magazine detailing upcoming events , exhibitions , and educational programs .	4491	send.v	243	Sending	MANUAL	6545216	20	26	RLG	sending
+LINKED:[4	4	20	26	bn:00082493v		http://babelnet.org/rdf/s00082493v	1.0	0.083333336	0.00754717	BABELFY]
+RANK:=== COUNTER  Counter 11746 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	5	0	4101380	Additionally , I am sending traditional background materials on the Museum and the two latest issues of our Previews Magazine detailing upcoming events , exhibitions , and educational programs .	13802	museum.n	196	Locale_by_use	MANUAL	6545217	68	73	RLG	Museum
+LINKED:[10	10	68	73	bn:00056426n	http://dbpedia.org/resource/Museum	http://babelnet.org/rdf/s00056426n	0.75	0.25	0.04528302	BABELFY]
+RANK:=== COUNTER  Counter 11747 ===
+	Locale_by_use: 14.693877551020408
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:205	23714	1	5	0	4101380	Additionally , I am sending traditional background materials on the Museum and the two latest issues of our Previews Magazine detailing upcoming events , exhibitions , and educational programs .	5454	magazine.n	298	Text	MANUAL	6545219	117	124	RLG	Magazine
+LINKED:[19	19	117	124	bn:00052671n	http://dbpedia.org/resource/Magazine	http://babelnet.org/rdf/s00052671n	0.9411765	0.5	0.18113208	BABELFY]
+RANK:=== COUNTER  Counter 11748 ===
+	Text: 8.783783783783784
+
+SELECTED:[Text]
+MATCH!
+SILVER:205	23714	1	5	0	4101380	Additionally , I am sending traditional background materials on the Museum and the two latest issues of our Previews Magazine detailing upcoming events , exhibitions , and educational programs .	13923	event.n	187	Event	MANUAL	6545220	145	150	RLG	events
+LINKED:[22	22	145	150	bn:00032021n		http://babelnet.org/rdf/s00032021n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11749 ===
+	Event: 20.0
+
+SELECTED:[Event]
+MATCH!
+SILVER:205	23714	1	5	0	4101380	Additionally , I am sending traditional background materials on the Museum and the two latest issues of our Previews Magazine detailing upcoming events , exhibitions , and educational programs .	12622	educational.a	111	Education_teaching	MANUAL	6545221	172	182	RLG	educational
+LINKED:[27	27	172	182	bn:00102030a		http://babelnet.org/rdf/s00102030a	1.0	0.083333336	0.003773585	BABELFY]
+RANK:=== COUNTER  Counter 11750 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	5	0	4101380	Additionally , I am sending traditional background materials on the Museum and the two latest issues of our Previews Magazine detailing upcoming events , exhibitions , and educational programs .	10724	program.n	1158	Project	MANUAL	6545222	184	191	RLG	programs
+LINKED:[28	28	184	191	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11751 ===
+	Project: 233.33333333333334
+	Purpose: 77.77777777777777
+
+SELECTED:[Project]
+MATCH!
+SILVER:205	23714	1	5	0	4101380	Additionally , I am sending traditional background materials on the Museum and the two latest issues of our Previews Magazine detailing upcoming events , exhibitions , and educational programs .	14605	detail.v	43	Statement	MANUAL	6551578	126	134	KmG	detailing
+LINKED:[20	20	126	134	bn:00086707v		http://babelnet.org/rdf/s00086707v	1.0	0.083333336	0.003773585	BABELFY]
+RANK:=== COUNTER  Counter 11752 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	5	0	4101380	Additionally , I am sending traditional background materials on the Museum and the two latest issues of our Previews Magazine detailing upcoming events , exhibitions , and educational programs .	14793	issue.n	298	Text	MANUAL	6551585	94	99	KmG	issues
+LINKED:[15	15	94	99	bn:00047688n		http://babelnet.org/rdf/s00047688n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11753 ===
+	Point_of_dispute: 103.33333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	5	0	4101380	Additionally , I am sending traditional background materials on the Museum and the two latest issues of our Previews Magazine detailing upcoming events , exhibitions , and educational programs .	14794	latest.a	81	Relative_time	MANUAL	6551595	87	92	KmG	latest
+LINKED:[14	14	87	92	bn:00105763a		http://babelnet.org/rdf/s00105763a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11754 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	5	0	4101380	Additionally , I am sending traditional background materials on the Museum and the two latest issues of our Previews Magazine detailing upcoming events , exhibitions , and educational programs .	14606	material.n	298	Text	MANUAL	6551596	51	59	KmG	materials
+LINKED:[7	7	51	59	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11755 ===
+	Ingredients: 85.0
+	Substance: 17.0
+	Text: 4.594594594594595
+
+SELECTED:[Text]
+MATCH!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	6433	exciting.a	364	Stimulus_focus	MANUAL	6545240	23	30	KmG	exciting
+LINKED:[3	3	23	30	bn:00087806v		http://babelnet.org/rdf/s00087806v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11756 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	13802	museum.n	196	Locale_by_use	MANUAL	6545242	58	63	KmG	Museum
+LINKED:[8	8	58	63	bn:00056426n	http://dbpedia.org/resource/Museum	http://babelnet.org/rdf/s00056426n	0.8951049	0.21052632	0.024591738	BABELFY]
+RANK:=== COUNTER  Counter 11757 ===
+	Locale_by_use: 14.693877551020408
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	11643	progress.n	1340	Progression	MANUAL	6545245	74	81	KmG	Progress
+LINKED:[12	12	74	81	bn:00001557n		http://babelnet.org/rdf/s00001557n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11758 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	3581	ravine.n	191	Natural_features	MANUAL	6545246	134	139	KmG	Ravine
+LINKED:[21	21	134	139	bn:00066290n	http://dbpedia.org/resource/Ravine	http://babelnet.org/rdf/s00066290n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11759 ===
+	Natural_features: 3.118279569892473
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	13829	garden.n	196	Locale_by_use	MANUAL	6545247	141	146	KmG	Garden
+LINKED:[22	22	141	146	bn:00037300n	http://dbpedia.org/resource/Garden	http://babelnet.org/rdf/s00037300n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11760 ===
+	Locale_by_use: 11.83673469387755
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	13307	national.a	1103	Origin	MANUAL	6545249	206	213	KmG	national
+LINKED:[34	34	206	213	bn:00107139a		http://babelnet.org/rdf/s00107139a	1.0	0.02631579	1.9212296E-4	BABELFY]
+RANK:=== COUNTER  Counter 11761 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	9728	attention.n	791	Attention	MANUAL	6545250	215	223	KmG	attention
+LINKED:[35	35	215	223	bn:00007020n	http://dbpedia.org/resource/Attention	http://babelnet.org/rdf/s00007020n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11762 ===
+	Attention: 40.0
+
+SELECTED:[Attention]
+MATCH!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	2571	shower.v	62	Placing	MANUAL	6545251	225	232	KmG	showered
+LINKED:[36	36	225	232	bn:00090223v		http://babelnet.org/rdf/s00090223v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11763 ===
+	Stinginess: 12.857142857142858
+	Placing: 1.5517241379310345
+
+SELECTED:[Placing]
+MATCH!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	14084	current.a	1895	Temporal_collocation	MANUAL	6545252	241	247	KmG	current
+LINKED:[39	39	241	247	bn:00100790a		http://babelnet.org/rdf/s00100790a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11764 ===
+	Temporal_collocation: 22.307692307692307
+
+SELECTED:[Temporal_collocation]
+MATCH!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	13904	japanese.a	1103	Origin	MANUAL	6545253	263	270	KmG	Japanese
+LINKED:[42	42	263	270	bn:00047991n	http://dbpedia.org/resource/Japanese_language	http://babelnet.org/rdf/s00047991n	0.87096775	0.23684211	0.02074928	BABELFY]
+RANK:=== COUNTER  Counter 11765 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	14299	see.v	1924	Reference_text	MANUAL	6545254	291	293	KmG	see
+LINKED:[47	47	291	293	bn:00093430v		http://babelnet.org/rdf/s00093430v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11766 ===
+	Reference_text: 220.0
+	Touring: 31.428571428571427
+	Grasp: 27.5
+	Perception_experience: 18.333333333333332
+	Categorization: 10.476190476190476
+	Causation: 10.0
+
+SELECTED:[Reference_text]
+MATCH!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	5460	article.n	298	Text	MANUAL	6545255	314	320	KmG	article
+LINKED:[52	52	314	320	bn:00006121n		http://babelnet.org/rdf/s00006121n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11767 ===
+	Text: 1.8918918918918919
+
+SELECTED:[Text]
+MATCH!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	3328	thousands.n	189	Quantified_mass	MANUAL	6545256	346	354	KmG	thousands
+LINKED:[59	59	346	354	bn:00000010n	http://dbpedia.org/resource/1000_(number)	http://babelnet.org/rdf/s00000010n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11768 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	10206	beautiful.a	1016	Aesthetics	MANUAL	6545258	404	412	KmG	beautiful
+LINKED:[71	71	404	412	bn:00098171a		http://babelnet.org/rdf/s00098171a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11769 ===
+	Aesthetics: 56.0
+
+SELECTED:[Aesthetics]
+MATCH!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	5139	spring.n	229	Calendric_unit	MANUAL	6545259	414	419	KmG	Spring
+LINKED:[72	72	414	419	bn:00083833v		http://babelnet.org/rdf/s00083833v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11770 ===
+	Traversing: 23.076923076923077
+	Self_motion: 2.7777777777777777
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	2799	continue.v	145	Process_continue	MANUAL	6548957	83	91	KmG	continues
+LINKED:[13	13	83	91	bn:00085714v		http://babelnet.org/rdf/s00085714v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11771 ===
+	Process_continue: 60.0
+	Activity_ongoing: 42.857142857142854
+
+SELECTED:[Process_continue]
+MATCH!
+SILVER:205	23714	1	6	0	4101381	These are particularly exciting times at the Indianapolis Museum of Art : Progress continues on the J.K. Lilly estate-Oldfields , our Ravine Garden has been restored to its original splendor , and there is national attention showered on our current exhibition of Japanese Painting. ( please see The New York Times article I have included. ) With thousands of trees and flowers in bloom , we are having a beautiful Spring !	14359	art.n	1345	Fields	MANUAL	6551626	68	70	KmG	Art
+LINKED:[10	10	68	70	bn:00005927n	http://dbpedia.org/resource/Art	http://babelnet.org/rdf/s00005927n	0.95167065	0.7631579	0.30643612	BABELFY]
+RANK:=== COUNTER  Counter 11772 ===
+	Fields: 86.36363636363636
+
+SELECTED:[Fields]
+MATCH!
+SILVER:205	23714	1	7	0	4101382	Our extraordinary permanent collection , facility , and grounds , we understand full well , would not be possible without the philanthropic support of civic-minded men and women .	2119	collection.n	103	Aggregate	MANUAL	6545260	28	37	KmG	collection
+LINKED:[3	3	28	37	bn:00000777n	http://dbpedia.org/resource/Object_composition	http://babelnet.org/rdf/s00000777n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11773 ===
+	Aggregate: 2.6530612244897958
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:205	23714	1	7	0	4101382	Our extraordinary permanent collection , facility , and grounds , we understand full well , would not be possible without the philanthropic support of civic-minded men and women .	10662	facility.n	196	Locale_by_use	MANUAL	6545261	41	48	KmG	facility
+LINKED:[5	5	41	48	bn:00032645n	http://dbpedia.org/resource/Installation_art	http://babelnet.org/rdf/s00032645n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11774 ===
+	Locale_by_use: 8.775510204081632
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:205	23714	1	7	0	4101382	Our extraordinary permanent collection , facility , and grounds , we understand full well , would not be possible without the philanthropic support of civic-minded men and women .	10104	understand.v	979	Grasp	MANUAL	6545263	69	78	KmG	understand
+LINKED:[11	11	69	78	bn:00095375v		http://babelnet.org/rdf/s00095375v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11775 ===
+	Grasp: 20.0
+	Categorization: 7.619047619047619
+	Awareness: 7.619047619047619
+
+SELECTED:[Grasp]
+MATCH!
+SILVER:205	23714	1	7	0	4101382	Our extraordinary permanent collection , facility , and grounds , we understand full well , would not be possible without the philanthropic support of civic-minded men and women .	2281	possible.a	114	Likelihood	MANUAL	6545265	105	112	KmG	possible
+LINKED:[18	18	105	112	bn:00108829a		http://babelnet.org/rdf/s00108829a	1.0	0.18181819	0.010282776	BABELFY]
+RANK:=== COUNTER  Counter 11776 ===
+	Likelihood: 8.333333333333334
+
+SELECTED:[Likelihood]
+MATCH!
+SILVER:205	23714	1	7	0	4101382	Our extraordinary permanent collection , facility , and grounds , we understand full well , would not be possible without the philanthropic support of civic-minded men and women .	5526	man.n	304	People	MANUAL	6545266	164	166	KmG	men
+LINKED:[25	25	164	166	bn:00044576n	http://dbpedia.org/resource/Human	http://babelnet.org/rdf/s00044576n	0.8557377	0.8181818	0.6709511	BABELFY]
+RANK:=== COUNTER  Counter 11777 ===
+	People: 109.16666666666667
+
+SELECTED:[People]
+MATCH!
+SILVER:205	23714	1	7	0	4101382	Our extraordinary permanent collection , facility , and grounds , we understand full well , would not be possible without the philanthropic support of civic-minded men and women .	5527	woman.n	304	People	MANUAL	6545267	172	176	KmG	women
+LINKED:[27	27	172	176	bn:00001530n	http://dbpedia.org/resource/Woman	http://babelnet.org/rdf/s00001530n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11778 ===
+	People: 45.833333333333336
+
+SELECTED:[People]
+MATCH!
+SILVER:205	23714	1	7	0	4101382	Our extraordinary permanent collection , facility , and grounds , we understand full well , would not be possible without the philanthropic support of civic-minded men and women .	14559	extraordinary.a	354	Desirability	MANUAL	6548959	4	16	KmG	extraordinary
+LINKED:[1	1	4	16	bn:00102649a		http://babelnet.org/rdf/s00102649a	1.0	0.09090909	0.002570694	BABELFY]
+RANK:=== COUNTER  Counter 11779 ===
+	Desirability: 22.142857142857142
+
+SELECTED:[Desirability]
+MATCH!
+SILVER:205	23714	1	7	0	4101382	Our extraordinary permanent collection , facility , and grounds , we understand full well , would not be possible without the philanthropic support of civic-minded men and women .	14558	grounds.n	192	Locale	MANUAL	6548960	56	62	KmG	grounds
+LINKED:[8	8	56	62	bn:00032045n	http://dbpedia.org/resource/Evidence	http://babelnet.org/rdf/s00032045n	0.75	0.18181819	0.015424165	BABELFY]
+RANK:=== COUNTER  Counter 11780 ===
+	Deserving: 23.333333333333332
+	Locale: 12.727272727272727
+	Evidence: 7.0
+
+SELECTED:[Locale]
+MATCH!
+SILVER:205	23714	2	7	0	4101383	In joining SCS , you join the ranks of those who believe that bringing art and art education to the city makes life better , richer , and more rewarding for the entire community .	13160	join.v	1733	Becoming_a_member	MANUAL	6545268	3	9	KmG	joining
+LINKED:[1	1	3	9	bn:00088013v		http://babelnet.org/rdf/s00088013v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11781 ===
+	Becoming_a_member: 47.5
+	Cause_to_amalgamate: 15.833333333333334
+
+SELECTED:[Becoming_a_member]
+MATCH!
+SILVER:205	23714	2	7	0	4101383	In joining SCS , you join the ranks of those who believe that bringing art and art education to the city makes life better , richer , and more rewarding for the entire community .	13160	join.v	1733	Becoming_a_member	MANUAL	6545269	21	24	KmG	join
+LINKED:[5	5	21	24	bn:00088013v		http://babelnet.org/rdf/s00088013v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11782 ===
+	Becoming_a_member: 47.5
+	Cause_to_amalgamate: 15.833333333333334
+
+SELECTED:[Becoming_a_member]
+MATCH!
+SILVER:205	23714	2	7	0	4101383	In joining SCS , you join the ranks of those who believe that bringing art and art education to the city makes life better , richer , and more rewarding for the entire community .	2756	believe.v	141	Certainty	MANUAL	6545270	49	55	KmG	believe
+LINKED:[11	11	49	55	bn:00083373v		http://babelnet.org/rdf/s00083373v	0.75757575	0.33333334	0.01992032	BABELFY]
+RANK:=== COUNTER  Counter 11783 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	2	7	0	4101383	In joining SCS , you join the ranks of those who believe that bringing art and art education to the city makes life better , richer , and more rewarding for the entire community .	9920	bring.v	240	Bringing	MANUAL	6545271	62	69	KmG	bringing
+LINKED:[13	13	62	69	bn:00084059v		http://babelnet.org/rdf/s00084059v	0.75	0.13333334	0.009561753	BABELFY]
+RANK:=== COUNTER  Counter 11784 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	2	7	0	4101383	In joining SCS , you join the ranks of those who believe that bringing art and art education to the city makes life better , richer , and more rewarding for the entire community .	14359	art.n	1345	Fields	MANUAL	6545273	71	73	KmG	art
+LINKED:[14	14	71	73	bn:00005927n	http://dbpedia.org/resource/Art	http://babelnet.org/rdf/s00005927n	0.9350649	0.6	0.17211156	BABELFY]
+RANK:=== COUNTER  Counter 11785 ===
+	Fields: 86.36363636363636
+
+SELECTED:[Fields]
+MATCH!
+SILVER:205	23714	2	7	0	4101383	In joining SCS , you join the ranks of those who believe that bringing art and art education to the city makes life better , richer , and more rewarding for the entire community .	14359	art.n	1345	Fields	MANUAL	6545274	79	81	KmG	art
+LINKED:[16	16	79	81	bn:00005927n	http://dbpedia.org/resource/Art	http://babelnet.org/rdf/s00005927n	0.9350649	0.6	0.17211156	BABELFY]
+RANK:=== COUNTER  Counter 11786 ===
+	Fields: 86.36363636363636
+
+SELECTED:[Fields]
+MATCH!
+SILVER:205	23714	2	7	0	4101383	In joining SCS , you join the ranks of those who believe that bringing art and art education to the city makes life better , richer , and more rewarding for the entire community .	10841	education.n	111	Education_teaching	MANUAL	6545275	83	91	KmG	education
+LINKED:[17	17	83	91	bn:00026980n	http://dbpedia.org/resource/Didactic_method	http://babelnet.org/rdf/s00026980n	0.7894737	0.6	0.107569724	BABELFY]
+RANK:=== COUNTER  Counter 11787 ===
+	Education_teaching: 55.0
+
+SELECTED:[Education_teaching]
+MATCH!
+SILVER:205	23714	2	7	0	4101383	In joining SCS , you join the ranks of those who believe that bringing art and art education to the city makes life better , richer , and more rewarding for the entire community .	3764	city.n	195	Political_locales	MANUAL	6545277	100	103	KmG	city
+LINKED:[20	20	100	103	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.93430656	0.53333336	0.10199203	BABELFY]
+RANK:=== COUNTER  Counter 11788 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	2	7	0	4101383	In joining SCS , you join the ranks of those who believe that bringing art and art education to the city makes life better , richer , and more rewarding for the entire community .	6287	good.a	354	Desirability	MANUAL	6545279	116	121	KmG	better
+LINKED:[23	23	116	121	bn:00114541r		http://babelnet.org/rdf/s00114541r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11789 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	2	7	0	4101383	In joining SCS , you join the ranks of those who believe that bringing art and art education to the city makes life better , richer , and more rewarding for the entire community .	12350	entire.a	1533	Ranked_expectation	MANUAL	6545282	161	166	KmG	entire
+LINKED:[32	32	161	166	bn:00102277a		http://babelnet.org/rdf/s00102277a	1.0	0.06666667	7.9681276E-4	BABELFY]
+RANK:=== COUNTER  Counter 11790 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	2	7	0	4101383	In joining SCS , you join the ranks of those who believe that bringing art and art education to the city makes life better , richer , and more rewarding for the entire community .	10697	community.n	103	Aggregate	MANUAL	6545283	168	176	KmG	community
+LINKED:[33	33	168	176	bn:00021248n	http://dbpedia.org/resource/Community	http://babelnet.org/rdf/s00021248n	1.0	0.46666667	0.055776894	BABELFY]
+RANK:=== COUNTER  Counter 11791 ===
+	Aggregate: 10.0
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:205	23714	1	8	0	4101384	A Second Century Society response card and return envelope are enclosed .	669	response.n	42	Communication_response	MANUAL	6545238	25	32	KmG	response
+LINKED:[4	4	25	32	bn:00067367n		http://babelnet.org/rdf/s00067367n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11792 ===
+	Response: 17.5
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	8	0	4101384	A Second Century Society response card and return envelope are enclosed .	1677	envelope.n	78	Containers	MANUAL	6545239	50	57	KmG	envelope
+LINKED:[8	8	50	57	bn:00031067n		http://babelnet.org/rdf/s00031067n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11793 ===
+	Containers: 0.6862745098039216
+
+SELECTED:[Containers]
+MATCH!
+SILVER:205	23714	1	8	0	4101384	A Second Century Society response card and return envelope are enclosed .	11249	second.a	1147	Ordinal_numbers	MANUAL	6551627	2	7	KmG	Second
+LINKED:[1	1	2	7	bn:00068672n	http://dbpedia.org/resource/Second	http://babelnet.org/rdf/s00068672n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11794 ===
+	Measure_duration: 46.15384615384615
+	Calendric_unit: 11.11111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	8	0	4101384	A Second Century Society response card and return envelope are enclosed .	14795	century.n	229	Calendric_unit	MANUAL	6551628	9	15	KmG	Century
+LINKED:[2	2	9	15	bn:00017234n	http://dbpedia.org/resource/Century	http://babelnet.org/rdf/s00017234n	0.72727275	0.25	0.13793103	BABELFY]
+RANK:=== COUNTER  Counter 11795 ===
+	Measure_duration: 39.23076923076923
+	Calendric_unit: 9.444444444444445
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23714	1	8	0	4101384	A Second Century Society response card and return envelope are enclosed .	14796	enclose.v	62	Placing	MANUAL	6551629	63	70	KmG	enclosed
+LINKED:[10	10	63	70	bn:00085580v		http://babelnet.org/rdf/s00085580v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11796 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	2	8	0	4101385	Should you have questions or if I can be of assistance in any way , please call me : 317.923.1331 , ext. 248 .	634	question.n	40	Questioning	MANUAL	6545209	16	24	KmG	questions
+LINKED:[3	3	16	24	bn:00030951n		http://babelnet.org/rdf/s00030951n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11797 ===
+	Questioning: 17.77777777777778
+
+SELECTED:[Questioning]
+MATCH!
+SILVER:205	23714	2	8	0	4101385	Should you have questions or if I can be of assistance in any way , please call me : 317.923.1331 , ext. 248 .	11591	assistance.n	391	Assistance	MANUAL	6545210	44	53	KmG	assistance
+LINKED:[10	10	44	53	bn:00002155n		http://babelnet.org/rdf/s00002155n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11798 ===
+	Assistance: 76.25
+
+SELECTED:[Assistance]
+MATCH!
+SILVER:205	23714	2	8	0	4101385	Should you have questions or if I can be of assistance in any way , please call me : 317.923.1331 , ext. 248 .	5264	call.v	286	Contacting	MANUAL	6545284	75	78	KmG	call
+LINKED:[16	16	75	78	bn:00084393v		http://babelnet.org/rdf/s00084393v	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 11799 ===
+	Contacting: 10.0
+
+SELECTED:[Contacting]
+MATCH!
+SILVER:205	23714	2	8	0	4101385	Should you have questions or if I can be of assistance in any way , please call me : 317.923.1331 , ext. 248 .	14386	way.n	1931	Alternatives	MANUAL	6551630	62	64	KmG	way
+LINKED:[13	13	62	64	bn:00033729n	http://dbpedia.org/resource/Mode_(literature)	http://babelnet.org/rdf/s00033729n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 11800 ===
+	Trendiness: 163.33333333333334
+	Means: 40.833333333333336
+	Self_motion: 4.537037037037037
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	11	0	4101388	P .S. Both our Barefoot in the Grass family picnic ( July 23,2000 ) and the annual SCS Founders Day celebration ( October 11,2000 ) are free for Georgia O'Keeffe members .	2307	family.n	104	Kinship	MANUAL	6545223	37	42	KmG	family
+LINKED:[9	9	37	42	bn:00032892n	http://dbpedia.org/resource/Household	http://babelnet.org/rdf/s00032892n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11801 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	11	0	4101388	P .S. Both our Barefoot in the Grass family picnic ( July 23,2000 ) and the annual SCS Founders Day celebration ( October 11,2000 ) are free for Georgia O'Keeffe members .	3240	picnic.n	125	Social_event	MANUAL	6545224	44	49	KmG	picnic
+LINKED:[10	10	44	49	bn:00034287n		http://babelnet.org/rdf/s00034287n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11802 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	11	0	4101388	P .S. Both our Barefoot in the Grass family picnic ( July 23,2000 ) and the annual SCS Founders Day celebration ( October 11,2000 ) are free for Georgia O'Keeffe members .	4649	July.n	229	Calendric_unit	MANUAL	6545225	53	56	KmG	July
+LINKED:[12	12	53	56	bn:00048548n	http://dbpedia.org/resource/July	http://babelnet.org/rdf/s00048548n	1.0	0.35714287	0.12437811	BABELFY]
+RANK:=== COUNTER  Counter 11803 ===
+	Calendric_unit: 8.703703703703704
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23714	1	11	0	4101388	P .S. Both our Barefoot in the Grass family picnic ( July 23,2000 ) and the annual SCS Founders Day celebration ( October 11,2000 ) are free for Georgia O'Keeffe members .	1724	annual.a	80	Frequency	MANUAL	6545226	76	81	KmG	annual
+LINKED:[17	17	76	81	bn:00097148a		http://babelnet.org/rdf/s00097148a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11804 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	11	0	4101388	P .S. Both our Barefoot in the Grass family picnic ( July 23,2000 ) and the annual SCS Founders Day celebration ( October 11,2000 ) are free for Georgia O'Keeffe members .	3154	celebration.n	125	Social_event	MANUAL	6545227	100	110	KmG	celebration
+LINKED:[21	21	100	110	bn:00016986n		http://babelnet.org/rdf/s00016986n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11805 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	11	0	4101388	P .S. Both our Barefoot in the Grass family picnic ( July 23,2000 ) and the annual SCS Founders Day celebration ( October 11,2000 ) are free for Georgia O'Keeffe members .	4652	October.n	229	Calendric_unit	MANUAL	6545235	114	120	KmG	October
+LINKED:[23	23	114	120	bn:00058593n	http://dbpedia.org/resource/October	http://babelnet.org/rdf/s00058593n	0.86538464	0.35714287	0.1119403	BABELFY]
+RANK:=== COUNTER  Counter 11806 ===
+	Calendric_unit: 9.444444444444445
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:205	23714	1	11	0	4101388	P .S. Both our Barefoot in the Grass family picnic ( July 23,2000 ) and the annual SCS Founders Day celebration ( October 11,2000 ) are free for Georgia O'Keeffe members .	1777	free.a	83	Expensiveness	MANUAL	6545236	136	139	KmG	free
+LINKED:[27	27	136	139	bn:00103300a		http://babelnet.org/rdf/s00103300a	1.0	0.071428575	0.0024875621	BABELFY]
+RANK:=== COUNTER  Counter 11807 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23714	1	11	0	4101388	P .S. Both our Barefoot in the Grass family picnic ( July 23,2000 ) and the annual SCS Founders Day celebration ( October 11,2000 ) are free for Georgia O'Keeffe members .	10279	member.n	1026	Membership	MANUAL	6545237	162	168	KmG	members
+LINKED:[32	32	162	168	bn:00034004n		http://babelnet.org/rdf/s00034004n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 11808 ===
+	Membership: 54.0
+
+SELECTED:[Membership]
+MATCH!
+filename	LUCorpus-v0.3__602CZL285-1.xml
+docAnnotations	117
+docManual	97
+docUnannotated	20
+sentences	16
+paragraphs	11
+Overlapping	88
+Disambiguated	60
+TP	53
+TN	20
+FP	0
+FN	37
+P	1.0
+R	0.5888888888888889
+F	0.7412587412587412
+A	0.6636363636363637

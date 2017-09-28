@@ -1,0 +1,196 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	tokenFragment	start	tokenFragment	end	charSegment	start	charSegment	end	babelSynsetID	DBpediaURL	BabelNetURL	score	coherenceScore	globalScore	source
+205	23728	1	3	0	4101869	3 RICH : Las Vegas Cogen , this is Rich .	1	1	2	5	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	3	0	4101869	3 RICH : Las Vegas Cogen , this is Rich .	3	3	9	11	bn:00270212n	http://dbpedia.org/resource/Launch_escape_system	http://babelnet.org/rdf/s00270212n	0.0	0.0	0.0	MCS
+205	23728	1	3	0	4101869	3 RICH : Las Vegas Cogen , this is Rich .	5	5	19	23	bn:03636788n	http://dbpedia.org/resource/Cogeneration	http://babelnet.org/rdf/s03636788n	0.0	0.0	0.0	MCS
+205	23728	1	3	0	4101869	3 RICH : Las Vegas Cogen , this is Rich .	9	9	35	38	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	4	0	4101870	4 BILL : Hey , Rich .	1	1	2	5	bn:00008375n	http://dbpedia.org/resource/Greenback_(money)	http://babelnet.org/rdf/s00008375n	1.0	1.0	0.5	BABELFY
+205	23728	1	4	0	4101870	4 BILL : Hey , Rich .	5	5	15	18	bn:00067724n		http://babelnet.org/rdf/s00067724n	1.0	1.0	0.5	BABELFY
+205	23728	2	4	0	4101871	This is Bill up at Enron .	2	2	8	11	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	5	0	4101872	5 RICH : Bill .	1	1	2	5	bn:00067724n		http://babelnet.org/rdf/s00067724n	1.0	1.0	0.5	BABELFY
+205	23728	1	5	0	4101872	5 RICH : Bill .	3	3	9	12	bn:00008375n	http://dbpedia.org/resource/Greenback_(money)	http://babelnet.org/rdf/s00008375n	1.0	1.0	0.5	BABELFY
+205	23728	1	6	0	4101873	6 BILL : How you doin ' , man ?	1	1	2	5	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	6	0	4101873	6 BILL : How you doin ' , man ?	7	7	26	28	bn:00090614v		http://babelnet.org/rdf/s00090614v	0.0	0.0	0.0	MCS
+205	23728	1	7	0	4101874	7 RICH : Junior or Senior ?	1	1	2	5	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	7	0	4101874	7 RICH : Junior or Senior ?	3	3	9	14	bn:00048613n		http://babelnet.org/rdf/s00048613n	0.0	0.0	0.0	MCS
+205	23728	1	7	0	4101874	7 RICH : Junior or Senior ?	5	5	19	24	bn:00070479n	http://dbpedia.org/resource/Senior_(education)	http://babelnet.org/rdf/s00070479n	0.0	0.0	0.0	MCS
+205	23728	1	8	0	4101875	8 BILL : Ha-ha .	1	1	2	5	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	8	0	4101875	8 BILL : Ha-ha .	3	3	9	13	bn:00042383n		http://babelnet.org/rdf/s00042383n	0.0	0.0	0.0	MCS
+205	23728	1	9	0	4101877	9 RICH : The third !	1	1	2	5	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	2	9	0	4101878	What 's happenin ' Bill the Third .	3	3	19	22	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	6	6	21	23	bn:00001533n	http://dbpedia.org/resource/Man	http://babelnet.org/rdf/s00001533n	0.0	0.0	0.0	MCS
+205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	13	13	46	49	bn:00014791n	http://dbpedia.org/resource/Telephone_call	http://babelnet.org/rdf/s00014791n	0.0	0.0	0.0	MCS
+205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	18	18	61	63	bn:13677110v		http://babelnet.org/rdf/s13677110v	0.0	0.0	0.0	MCS
+205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	18	19	61	68	bn:13689455v		http://babelnet.org/rdf/s13689455v	0.0	0.0	0.0	MCS
+205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	20	20	70	75	bn:00047688n		http://babelnet.org/rdf/s00047688n	0.0	0.0	0.0	MCS
+205	23728	1	10	0	4101879	10 BILL : Not much , man , I 'm givin ' you a call , ah - we got some issues for tomorrow .	22	22	81	88	bn:00077549n		http://babelnet.org/rdf/s00077549n	0.0	0.0	0.0	MCS
+205	23728	1	11	0	4101880	11 RICH : Ok .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	11	0	4101880	11 RICH : Ok .	3	3	10	11	bn:00058783n	http://dbpedia.org/resource/Oklahoma	http://babelnet.org/rdf/s00058783n	0.0	0.0	0.0	MCS
+205	23728	1	12	0	4101881	12 Bill : You ready for some issues ?	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	12	0	4101881	12 Bill : You ready for some issues ?	4	4	14	18	bn:00109485a		http://babelnet.org/rdf/s00109485a	0.0	0.0	0.0	MCS
+205	23728	1	12	0	4101881	12 Bill : You ready for some issues ?	7	7	29	34	bn:00047688n		http://babelnet.org/rdf/s00047688n	0.0	0.0	0.0	MCS
+205	23728	2	12	0	4101882	You just about out of there , are n't you ?	1	1	4	7	bn:00114626r		http://babelnet.org/rdf/s00114626r	0.0	0.0	0.0	MCS
+205	23728	2	12	0	4101882	You just about out of there , are n't you ?	1	2	4	13	bn:00114073r		http://babelnet.org/rdf/s00114073r	0.0	0.0	0.0	MCS
+205	23728	1	13	0	4101883	13 RICH : Um , I got a couple more hours .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	13	0	4101883	13 RICH : Um , I got a couple more hours .	6	6	17	19	bn:13677111v		http://babelnet.org/rdf/s13677111v	0.0	0.0	0.0	MCS
+205	23728	1	13	0	4101883	13 RICH : Um , I got a couple more hours .	8	8	23	28	bn:00023270n		http://babelnet.org/rdf/s00023270n	0.0	0.0	0.0	MCS
+205	23728	1	13	0	4101883	13 RICH : Um , I got a couple more hours .	10	10	35	39	bn:00000127n	http://dbpedia.org/resource/Hour	http://babelnet.org/rdf/s00000127n	0.0	0.0	0.0	MCS
+205	23728	1	14	0	4101885	14 BILL : Good .	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	14	0	4101885	14 BILL : Good .	3	3	10	13	bn:00021045n	http://dbpedia.org/resource/Commodity	http://babelnet.org/rdf/s00021045n	1.0	1.0	0.5	BABELFY
+205	23728	1	15	0	4101886	15 RICH : All right , shoot .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	1.0	1.0	0.5	BABELFY
+205	23728	1	15	0	4101886	15 RICH : All right , shoot .	4	4	14	18	bn:00031712n	http://dbpedia.org/resource/Ethics	http://babelnet.org/rdf/s00031712n	1.0	1.0	0.5	BABELFY
+205	23728	1	15	0	4101886	15 RICH : All right , shoot .	6	6	22	26	bn:00071199n	http://dbpedia.org/resource/Shoot	http://babelnet.org/rdf/s00071199n	0.0	0.0	0.0	MCS
+205	23728	2	15	0	4101887	I 've g - I 've got pen and paper .	6	6	16	18	bn:13677111v		http://babelnet.org/rdf/s13677111v	0.0	0.0	0.0	MCS
+205	23728	2	15	0	4101887	I 've g - I 've got pen and paper .	7	7	20	22	bn:00061314n	http://dbpedia.org/resource/Pen	http://babelnet.org/rdf/s00061314n	0.8	1.0	0.26666668	BABELFY
+205	23728	2	15	0	4101887	I 've g - I 've got pen and paper .	7	9	20	32	bn:01660353n	http://dbpedia.org/resource/Paper-and-pencil_game	http://babelnet.org/rdf/s01660353n	1.0	1.0	0.26666668	BABELFY
+205	23728	2	15	0	4101887	I 've g - I 've got pen and paper .	9	9	28	32	bn:00060464n	http://dbpedia.org/resource/Paper	http://babelnet.org/rdf/s00060464n	1.0	1.0	0.4	BABELFY
+205	23728	1	16	0	4101888	16 BILL : All right , man .	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	16	0	4101888	16 BILL : All right , man .	4	4	14	18	bn:00067807n	http://dbpedia.org/resource/Rights	http://babelnet.org/rdf/s00067807n	0.0	0.0	0.0	MCS
+205	23728	1	16	0	4101888	16 BILL : All right , man .	6	6	22	24	bn:00001533n	http://dbpedia.org/resource/Man	http://babelnet.org/rdf/s00001533n	0.0	0.0	0.0	MCS
+205	23728	2	16	0	4101889	I 'm n - this is gon na be a word of mouth kind of thing .	10	10	29	32	bn:00081546n	http://dbpedia.org/resource/Word	http://babelnet.org/rdf/s00081546n	0.0	0.0	0.0	MCS
+205	23728	2	16	0	4101889	I 'm n - this is gon na be a word of mouth kind of thing .	10	12	29	41	bn:02311229n	http://dbpedia.org/resource/Word_of_Mouth_(radio_programme)	http://babelnet.org/rdf/s02311229n	1.0	0.5	0.0952381	BABELFY
+205	23728	2	16	0	4101889	I 'm n - this is gon na be a word of mouth kind of thing .	12	12	37	41	bn:00056135n	http://dbpedia.org/resource/Mouth	http://babelnet.org/rdf/s00056135n	0.0	0.0	0.0	MCS
+205	23728	2	16	0	4101889	I 'm n - this is gon na be a word of mouth kind of thing .	13	13	43	46	bn:00035907n		http://babelnet.org/rdf/s00035907n	0.0	0.0	0.0	MCS
+205	23728	1	17	0	4101890	17 RICH : OK .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	1	1	3	6	bn:00008375n	http://dbpedia.org/resource/Greenback_(money)	http://babelnet.org/rdf/s00008375n	1.0	0.33333334	0.01724138	BABELFY
+205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	5	5	15	21	bn:01309081n	http://dbpedia.org/resource/Prison_Break_(season_1)	http://babelnet.org/rdf/s01309081n	1.0	0.33333334	0.01724138	BABELFY
+205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	11	11	39	44	bn:00085475v		http://babelnet.org/rdf/s00085475v	0.0	0.0	0.0	MCS
+205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	13	13	51	56	bn:00107587a		http://babelnet.org/rdf/s00107587a	0.0	0.0	0.0	MCS
+205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	18	18	70	73	bn:00000127n	http://dbpedia.org/resource/Hour	http://babelnet.org/rdf/s00000127n	0.0	0.0	0.0	MCS
+205	23728	1	18	0	4101891	18 BILL : Um , tonight , ah , when you finish your normal QF , so for hour ending one -	19	19	75	80	bn:00084711v		http://babelnet.org/rdf/s00084711v	0.0	0.0	0.0	MCS
+205	23728	1	19	0	4101892	19 RICH : Right .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	1.0	1.0	0.5	BABELFY
+205	23728	1	19	0	4101892	19 RICH : Right .	3	3	10	14	bn:00031712n	http://dbpedia.org/resource/Ethics	http://babelnet.org/rdf/s00031712n	1.0	1.0	0.5	BABELFY
+205	23728	1	20	0	4101893	20 BILL : - it 'll actually be tomorrow -	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	20	0	4101893	20 BILL : - it 'll actually be tomorrow -	5	5	16	17	bn:03396846n	http://dbpedia.org/resource/LL_parser	http://babelnet.org/rdf/s03396846n	0.0	0.0	0.0	MCS
+205	23728	1	20	0	4101893	20 BILL : - it 'll actually be tomorrow -	6	6	19	26	bn:00114118r		http://babelnet.org/rdf/s00114118r	0.0	0.0	0.0	MCS
+205	23728	1	20	0	4101893	20 BILL : - it 'll actually be tomorrow -	8	8	31	38	bn:00077549n		http://babelnet.org/rdf/s00077549n	0.0	0.0	0.0	MCS
+205	23728	1	21	0	4101894	21 RICH : Right .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	1.0	1.0	0.5	BABELFY
+205	23728	1	21	0	4101894	21 RICH : Right .	3	3	10	14	bn:00031712n	http://dbpedia.org/resource/Ethics	http://babelnet.org/rdf/s00031712n	1.0	1.0	0.5	BABELFY
+205	23728	1	22	0	4101895	22 BILL : - ah , we want you guys to get a little creative -	1	1	3	6	bn:14240083n		http://babelnet.org/rdf/s14240083n	1.0	1.0	0.5	BABELFY
+205	23728	1	22	0	4101895	22 BILL : - ah , we want you guys to get a little creative -	7	7	20	23	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS
+205	23728	1	22	0	4101895	22 BILL : - ah , we want you guys to get a little creative -	9	9	29	32	bn:00001533n	http://dbpedia.org/resource/Man	http://babelnet.org/rdf/s00001533n	1.0	1.0	0.5	BABELFY
+205	23728	1	22	0	4101895	22 BILL : - ah , we want you guys to get a little creative -	14	14	50	57	bn:00100622a		http://babelnet.org/rdf/s00100622a	0.0	0.0	0.0	MCS
+205	23728	1	23	0	4101896	23 RICH : OK .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	24	0	4101897	24 BILL : - and come up with a reason to go down .	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	24	0	4101897	24 BILL : - and come up with a reason to go down .	5	5	16	19	bn:00085319v		http://babelnet.org/rdf/s00085319v	0.0	0.0	0.0	MCS
+205	23728	1	24	0	4101897	24 BILL : - and come up with a reason to go down .	5	6	16	22	bn:00085390v		http://babelnet.org/rdf/s00085390v	0.0	0.0	0.0	MCS
+205	23728	1	24	0	4101897	24 BILL : - and come up with a reason to go down .	5	7	16	27	bn:13667333v		http://babelnet.org/rdf/s13667333v	0.0	0.0	0.0	MCS
+205	23728	1	24	0	4101897	24 BILL : - and come up with a reason to go down .	9	9	31	36	bn:00016851n		http://babelnet.org/rdf/s00016851n	1.0	0.6666667	0.034188036	BABELFY
+205	23728	1	24	0	4101897	24 BILL : - and come up with a reason to go down .	11	12	41	47	bn:00088949v		http://babelnet.org/rdf/s00088949v	0.0	0.0	0.0	MCS
+205	23728	1	25	0	4101898	25 RICH : OK .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	26	0	4101899	26 BILL : Anything you want to do over there ?	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	26	0	4101899	26 BILL : Anything you want to do over there ?	5	5	23	26	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS
+205	23728	1	26	0	4101899	26 BILL : Anything you want to do over there ?	7	8	31	37	bn:13668629v		http://babelnet.org/rdf/s13668629v	0.0	0.0	0.0	MCS
+205	23728	1	27	0	4101901	27 RICH : Ah -	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	27	0	4101901	27 RICH : Ah -	3	3	10	11	bn:15007705n	http://dbpedia.org/resource/Ah_(Superfly_song)	http://babelnet.org/rdf/s15007705n	0.0	0.0	0.0	MCS
+205	23728	1	28	0	4101902	28 BILL : - cleaning , anything like that ?	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	28	0	4101902	28 BILL : - cleaning , anything like that ?	4	4	12	19	bn:00085059v		http://babelnet.org/rdf/s00085059v	0.0	0.0	0.0	MCS
+205	23728	1	29	0	4101903	29 RICH : Yeah .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	2	29	0	4101904	Yeah .	0	0	0	3	bn:01766845n	http://dbpedia.org/resource/Yeah!_(Usher_song)	http://babelnet.org/rdf/s01766845n	0.0	0.0	0.0	MCS
+205	23728	3	29	0	4101905	There 's some stuff that we could doin'tonight .	3	3	14	18	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS
+205	23728	3	29	0	4101905	There 's some stuff that we could doin'tonight .	8	8	39	45	bn:00077575n		http://babelnet.org/rdf/s00077575n	0.0	0.0	0.0	MCS
+205	23728	1	30	0	4101906	30 BILL : That 's good .	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	30	0	4101906	30 BILL : That 's good .	5	5	18	21	bn:00103672a		http://babelnet.org/rdf/s00103672a	0.0	0.0	0.0	MCS
+205	23728	1	31	0	4101907	1 RICH : Right .	1	1	2	5	bn:00067724n		http://babelnet.org/rdf/s00067724n	1.0	1.0	0.5	BABELFY
+205	23728	1	31	0	4101907	1 RICH : Right .	3	3	9	13	bn:00031712n	http://dbpedia.org/resource/Ethics	http://babelnet.org/rdf/s00031712n	1.0	1.0	0.5	BABELFY
+205	23728	1	32	0	4101908	2 BILL : It 's supposed to be , ah , you know , kinda one of those things .	1	1	2	5	bn:00010398n	http://dbpedia.org/resource/Visor	http://babelnet.org/rdf/s00010398n	1.0	0.33333334	0.16666667	BABELFY
+205	23728	1	32	0	4101908	2 BILL : It 's supposed to be , ah , you know , kinda one of those things .	5	5	15	22	bn:00093288v		http://babelnet.org/rdf/s00093288v	0.0	0.0	0.0	MCS
+205	23728	1	32	0	4101908	2 BILL : It 's supposed to be , ah , you know , kinda one of those things .	12	12	41	44	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23728	1	32	0	4101908	2 BILL : It 's supposed to be , ah , you know , kinda one of those things .	18	18	67	72	bn:00006125n	http://dbpedia.org/resource/Clothing	http://babelnet.org/rdf/s00006125n	1.0	0.33333334	0.16666667	BABELFY
+205	23728	1	33	0	4101909	3 RICH : OK , so we 're just comin ' down for some maintenance , like a forced outage type thing ?	1	1	2	5	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	33	0	4101909	3 RICH : OK , so we 're just comin ' down for some maintenance , like a forced outage type thing ?	8	8	24	27	bn:00114626r		http://babelnet.org/rdf/s00114626r	0.0	0.0	0.0	MCS
+205	23728	1	33	0	4101909	3 RICH : OK , so we 're just comin ' down for some maintenance , like a forced outage type thing ?	13	13	51	61	bn:00016016n		http://babelnet.org/rdf/s00016016n	0.0	0.0	0.0	MCS
+205	23728	1	33	0	4101909	3 RICH : OK , so we 're just comin ' down for some maintenance , like a forced outage type thing ?	17	17	72	77	bn:00103192a		http://babelnet.org/rdf/s00103192a	0.0	0.0	0.0	MCS
+205	23728	1	33	0	4101909	3 RICH : OK , so we 're just comin ' down for some maintenance , like a forced outage type thing ?	17	18	72	84	bn:15255789n	http://dbpedia.org/resource/Forced_outage	http://babelnet.org/rdf/s15255789n	0.0	0.0	0.0	MCS
+205	23728	1	33	0	4101909	3 RICH : OK , so we 're just comin ' down for some maintenance , like a forced outage type thing ?	18	18	79	84	bn:00059752n		http://babelnet.org/rdf/s00059752n	0.0	0.0	0.0	MCS
+205	23728	1	33	0	4101909	3 RICH : OK , so we 're just comin ' down for some maintenance , like a forced outage type thing ?	19	19	86	89	bn:00078798n		http://babelnet.org/rdf/s00078798n	0.0	0.0	0.0	MCS
+205	23728	1	34	0	4101910	4 BILL : Right .	1	1	2	5	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	1.0	1.0	0.5	BABELFY
+205	23728	1	34	0	4101910	4 BILL : Right .	3	3	9	13	bn:00050567n	http://dbpedia.org/resource/Natural_and_legal_rights	http://babelnet.org/rdf/s00050567n	1.0	1.0	0.5	BABELFY
+205	23728	1	35	0	4101911	5 RICH : And that 's cool .	1	1	2	5	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	35	0	4101911	5 RICH : And that 's cool .	6	6	21	24	bn:00084893v		http://babelnet.org/rdf/s00084893v	0.0	0.0	0.0	MCS
+205	23728	1	36	0	4101912	6 BILL : Hopefully .	1	1	2	5	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	36	0	4101912	6 BILL : Hopefully .	3	3	9	17	bn:03612270n	http://dbpedia.org/resource/Hopefully	http://babelnet.org/rdf/s03612270n	0.0	0.0	0.0	MCS
+205	23728	1	37	0	4101913	7 [ they laugh ]	3	3	9	13	bn:00050198n	http://dbpedia.org/resource/Laughter	http://babelnet.org/rdf/s00050198n	0.0	0.0	0.0	MCS
+205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	1	1	2	5	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	7	7	26	33	bn:00001967n		http://babelnet.org/rdf/s00001967n	0.0	0.0	0.0	MCS
+205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	9	9	37	40	bn:00114626r		http://babelnet.org/rdf/s00114626r	0.0	0.0	0.0	MCS
+205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	10	10	42	44	bn:13677111v		http://babelnet.org/rdf/s13677111v	0.0	0.0	0.0	MCS
+205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	10	11	42	49	bn:00085906v		http://babelnet.org/rdf/s00085906v	0.0	0.0	0.0	MCS
+205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	17	17	69	72	bn:00082272v		http://babelnet.org/rdf/s00082272v	1.0	1.0	0.5	BABELFY
+205	23728	1	38	0	4101914	8 RICH : 'Cause the - the schedule I just got over here - well , you know what it says .	20	20	82	85	bn:00093287v		http://babelnet.org/rdf/s00093287v	1.0	1.0	0.5	BABELFY
+205	23728	1	39	0	4101915	9 BILL : Yes .	1	1	2	5	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	2	39	0	4101916	I 'm lookin ' right at it .	3	3	14	18	bn:00067807n	http://dbpedia.org/resource/Rights	http://babelnet.org/rdf/s00067807n	0.0	0.0	0.0	MCS
+205	23728	1	40	0	4101917	10 RICH : OK , it 's the new schedule .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	40	0	4101917	10 RICH : OK , it 's the new schedule .	8	8	25	27	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS
+205	23728	1	40	0	4101917	10 RICH : OK , it 's the new schedule .	9	9	29	36	bn:00069568n	http://dbpedia.org/resource/Schedule	http://babelnet.org/rdf/s00069568n	0.0	0.0	0.0	MCS
+205	23728	1	41	0	4101918	11 BILL : You just got a new one ?	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	41	0	4101918	11 BILL : You just got a new one ?	4	4	14	17	bn:00114626r		http://babelnet.org/rdf/s00114626r	0.0	0.0	0.0	MCS
+205	23728	1	41	0	4101918	11 BILL : You just got a new one ?	5	5	19	21	bn:13677110v		http://babelnet.org/rdf/s13677110v	0.0	0.0	0.0	MCS
+205	23728	1	41	0	4101918	11 BILL : You just got a new one ?	7	7	25	27	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS
+205	23728	1	42	0	4101919	12 RICH : It says 'New Schedule ' on the bottom .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	42	0	4101919	12 RICH : It says 'New Schedule ' on the bottom .	4	4	13	16	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS
+205	23728	1	42	0	4101919	12 RICH : It says 'New Schedule ' on the bottom .	6	6	23	30	bn:00069568n	http://dbpedia.org/resource/Schedule	http://babelnet.org/rdf/s00069568n	0.0	0.0	0.0	MCS
+205	23728	2	42	0	4101920	It 's showin ' 52 all day .	5	5	22	24	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS
+205	23728	1	43	0	4101921	13 BILL : Oh , right .	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	43	0	4101921	13 BILL : Oh , right .	5	5	15	19	bn:00116860r		http://babelnet.org/rdf/s00116860r	0.0	0.0	0.0	MCS
+205	23728	2	43	0	4101922	And so that 's the one you 're gon na want to ignore .	10	10	38	41	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS
+205	23728	2	43	0	4101922	And so that 's the one you 're gon na want to ignore .	12	12	46	51	bn:00089582v		http://babelnet.org/rdf/s00089582v	0.0	0.0	0.0	MCS
+205	23728	1	44	0	4101923	14 RICH : Exactly .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	45	0	4101924	15 BILL : [ laughs ]	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	45	0	4101924	15 BILL : [ laughs ]	4	4	12	17	bn:00087901v		http://babelnet.org/rdf/s00087901v	0.0	0.0	0.0	MCS
+205	23728	1	46	0	4101925	16 RICH : OK .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	47	0	4101926	17 BILL : Yeah .	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	48	0	4101928	18 RICH : We 'll take care of that .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	48	0	4101928	18 RICH : We 'll take care of that .	5	6	17	25	bn:00094754v		http://babelnet.org/rdf/s00094754v	0.0	0.0	0.0	MCS
+205	23728	1	48	0	4101928	18 RICH : We 'll take care of that .	5	7	17	28	bn:13783792v		http://babelnet.org/rdf/s13783792v	0.0	0.0	0.0	MCS
+205	23728	1	48	0	4101928	18 RICH : We 'll take care of that .	6	6	22	25	bn:00002157n		http://babelnet.org/rdf/s00002157n	0.0	0.0	0.0	MCS
+205	23728	1	48	0	4101928	18 RICH : We 'll take care of that .	6	7	22	28	bn:15470952n		http://babelnet.org/rdf/s15470952n	0.0	0.0	0.0	MCS
+205	23728	1	49	0	4101929	19 BILL : So you got a - so you 're checkin ' a switch on the steam turbine .	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	49	0	4101929	19 BILL : So you got a - so you 're checkin ' a switch on the steam turbine .	5	5	17	19	bn:13677110v		http://babelnet.org/rdf/s13677110v	0.0	0.0	0.0	MCS
+205	23728	1	49	0	4101929	19 BILL : So you got a - so you 're checkin ' a switch on the steam turbine .	13	13	48	53	bn:00030170n	http://dbpedia.org/resource/Switch	http://babelnet.org/rdf/s00030170n	0.0	0.0	0.0	MCS
+205	23728	1	49	0	4101929	19 BILL : So you got a - so you 're checkin ' a switch on the steam turbine .	16	16	62	66	bn:00074099n	http://dbpedia.org/resource/Steam	http://babelnet.org/rdf/s00074099n	0.0	0.0	0.0	MCS
+205	23728	1	49	0	4101929	19 BILL : So you got a - so you 're checkin ' a switch on the steam turbine .	16	17	62	74	bn:00074111n	http://dbpedia.org/resource/Steam_turbine	http://babelnet.org/rdf/s00074111n	1.0	0.5	0.25	BABELFY
+205	23728	1	49	0	4101929	19 BILL : So you got a - so you 're checkin ' a switch on the steam turbine .	17	17	68	74	bn:00078621n	http://dbpedia.org/resource/Turbine	http://babelnet.org/rdf/s00078621n	1.0	0.5	0.25	BABELFY
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	1	1	3	6	bn:00006640n	http://dbpedia.org/resource/Wine_tasting_descriptors	http://babelnet.org/rdf/s00006640n	1.0	0.16666667	0.041666668	BABELFY
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	7	7	30	39	bn:00001411n		http://babelnet.org/rdf/s00001411n	0.75	0.16666667	0.125	BABELFY
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	10	10	50	54	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	13	13	61	68	bn:00114523r		http://babelnet.org/rdf/s00114523r	0.0	0.0	0.0	MCS
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	15	15	72	78	bn:00077575n		http://babelnet.org/rdf/s00077575n	0.0	0.0	0.0	MCS
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	18	18	85	92	bn:00114523r		http://babelnet.org/rdf/s00114523r	0.0	0.0	0.0	MCS
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	22	22	105	108	bn:00095812v		http://babelnet.org/rdf/s00095812v	0.0	0.0	0.0	MCS
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	27	27	122	129	bn:00114523r		http://babelnet.org/rdf/s00114523r	0.0	0.0	0.0	MCS
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	30	31	138	144	bn:13601282v		http://babelnet.org/rdf/s13601282v	0.0	0.0	0.0	MCS
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	32	32	146	150	bn:00084848v		http://babelnet.org/rdf/s00084848v	0.0	0.0	0.0	MCS
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	34	34	155	162	bn:00077549n		http://babelnet.org/rdf/s00077549n	0.0	0.0	0.0	MCS
+205	23728	1	50	0	4101930	20 RICH : Yeah , and whatever adjustment he makes today , is probably - tonight , is probably not gon na work , so we 're probably gon na have to check it tomorrow afternoon again .	35	35	164	172	bn:00001875n	http://dbpedia.org/resource/Afternoon	http://babelnet.org/rdf/s00001875n	1.0	0.16666667	0.041666668	BABELFY
+205	23728	1	51	0	4101931	22 BILL : I think that 's a good plan , Rich .	1	1	3	6	bn:00008375n	http://dbpedia.org/resource/Greenback_(money)	http://babelnet.org/rdf/s00008375n	1.0	0.33333334	0.25	BABELFY
+205	23728	1	51	0	4101931	22 BILL : I think that 's a good plan , Rich .	4	4	12	16	bn:00084733v		http://babelnet.org/rdf/s00084733v	1.0	0.33333334	0.25	BABELFY
+205	23728	1	51	0	4101931	22 BILL : I think that 's a good plan , Rich .	8	8	28	31	bn:00103672a		http://babelnet.org/rdf/s00103672a	0.0	0.0	0.0	MCS
+205	23728	1	51	0	4101931	22 BILL : I think that 's a good plan , Rich .	9	9	33	36	bn:00026536n		http://babelnet.org/rdf/s00026536n	1.0	0.33333334	0.25	BABELFY
+205	23728	1	51	0	4101931	22 BILL : I think that 's a good plan , Rich .	11	11	40	43	bn:00067724n		http://babelnet.org/rdf/s00067724n	1.0	0.33333334	0.25	BABELFY
+205	23728	1	52	0	4101932	23 RICH : All right .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	1.0	1.0	0.5	BABELFY
+205	23728	1	52	0	4101932	23 RICH : All right .	4	4	14	18	bn:00031712n	http://dbpedia.org/resource/Ethics	http://babelnet.org/rdf/s00031712n	1.0	1.0	0.5	BABELFY
+205	23728	1	53	0	4101933	24 BILL : I knew I could count on you .	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	53	0	4101933	24 BILL : I knew I could count on you .	4	4	12	15	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS
+205	23728	1	53	0	4101933	24 BILL : I knew I could count on you .	7	7	25	29	bn:00085859v		http://babelnet.org/rdf/s00085859v	0.0	0.0	0.0	MCS
+205	23728	1	53	0	4101933	24 BILL : I knew I could count on you .	7	8	25	32	bn:00084374v		http://babelnet.org/rdf/s00084374v	1.0	0.5	0.16666667	BABELFY
+205	23728	1	54	0	4101934	25 RICH : No problem .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	0.0	0.0	0.0	MCS
+205	23728	1	54	0	4101934	25 RICH : No problem .	4	4	13	19	bn:00048242n	http://dbpedia.org/resource/Problem	http://babelnet.org/rdf/s00048242n	0.0	0.0	0.0	MCS
+205	23728	1	55	0	4101935	26 [ REDACTED ]	2	2	5	12	bn:00251083n	http://dbpedia.org/resource/Redacted_(film)	http://babelnet.org/rdf/s00251083n	0.0	0.0	0.0	MCS
+205	23728	1	56	0	4101936	27 RICH : I 'm sure you 'll have a good time .	1	1	3	6	bn:00583409n	http://dbpedia.org/resource/Ring-imaging_Cherenkov_detector	http://babelnet.org/rdf/s00583409n	1.0	0.25	0.03846154	BABELFY
+205	23728	1	56	0	4101936	27 RICH : I 'm sure you 'll have a good time .	5	5	15	18	bn:00111505a		http://babelnet.org/rdf/s00111505a	0.0	0.0	0.0	MCS
+205	23728	1	56	0	4101936	27 RICH : I 'm sure you 'll have a good time .	8	11	28	43	bn:00089248v		http://babelnet.org/rdf/s00089248v	0.0	0.0	0.0	MCS
+205	23728	1	56	0	4101936	27 RICH : I 'm sure you 'll have a good time .	10	10	35	38	bn:00103672a		http://babelnet.org/rdf/s00103672a	0.0	0.0	0.0	MCS
+205	23728	1	56	0	4101936	27 RICH : I 'm sure you 'll have a good time .	11	11	40	43	bn:00077270n	http://dbpedia.org/resource/Time	http://babelnet.org/rdf/s00077270n	0.75	0.75	0.46153846	BABELFY
+205	23728	2	56	0	4101937	All right .	1	1	4	8	bn:00067807n	http://dbpedia.org/resource/Rights	http://babelnet.org/rdf/s00067807n	0.0	0.0	0.0	MCS
+205	23728	3	56	0	4101938	So , I gotcha covered for tomorrow .	4	4	14	20	bn:00085903v		http://babelnet.org/rdf/s00085903v	0.0	0.0	0.0	MCS
+205	23728	3	56	0	4101938	So , I gotcha covered for tomorrow .	6	6	26	33	bn:00077549n		http://babelnet.org/rdf/s00077549n	0.0	0.0	0.0	MCS
+205	23728	1	57	0	4101939	28 BILL : Thanks a lot , Rich .	1	1	3	6	bn:00008375n	http://dbpedia.org/resource/Greenback_(money)	http://babelnet.org/rdf/s00008375n	1.0	1.0	0.5	BABELFY
+205	23728	1	57	0	4101939	28 BILL : Thanks a lot , Rich .	3	3	10	15	bn:00076768n		http://babelnet.org/rdf/s00076768n	0.0	0.0	0.0	MCS
+205	23728	1	57	0	4101939	28 BILL : Thanks a lot , Rich .	5	5	19	21	bn:00052061n	http://dbpedia.org/resource/Land_lot	http://babelnet.org/rdf/s00052061n	0.0	0.0	0.0	MCS
+205	23728	1	57	0	4101939	28 BILL : Thanks a lot , Rich .	7	7	25	28	bn:00067724n		http://babelnet.org/rdf/s00067724n	1.0	1.0	0.5	BABELFY
+205	23728	1	58	0	4101940	29 RICH : All right , I wo n't even put that in the book .	1	1	3	6	bn:00067724n		http://babelnet.org/rdf/s00067724n	1.0	0.5	0.035714287	BABELFY
+205	23728	1	58	0	4101940	29 RICH : All right , I wo n't even put that in the book .	4	4	14	18	bn:00067807n	http://dbpedia.org/resource/Rights	http://babelnet.org/rdf/s00067807n	0.0	0.0	0.0	MCS
+205	23728	1	58	0	4101940	29 RICH : All right , I wo n't even put that in the book .	15	15	52	55	bn:00012059n	http://dbpedia.org/resource/Book	http://babelnet.org/rdf/s00012059n	0.0	0.0	0.0	MCS
+205	23728	1	59	0	4101941	30 BILL : [ laughs ]	1	1	3	6	bn:00010392n	http://dbpedia.org/resource/Bill_(law)	http://babelnet.org/rdf/s00010392n	0.0	0.0	0.0	MCS
+205	23728	1	59	0	4101941	30 BILL : [ laughs ]	4	4	12	17	bn:00087901v		http://babelnet.org/rdf/s00087901v	0.0	0.0	0.0	MCS

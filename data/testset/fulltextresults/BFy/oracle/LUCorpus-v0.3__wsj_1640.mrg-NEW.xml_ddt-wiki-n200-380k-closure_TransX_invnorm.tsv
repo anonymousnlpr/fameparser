@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__wsj_1640.mrg-NEW.xml
+docAnnotations	185
+docManual	160
+docUnannotated	25
+sentences	23
+paragraphs	5
+Overlapping	124
+Disambiguated	111
+TP	88
+TN	25
+FP	0
+FN	49
+P	1.0
+R	0.6423357664233577
+F	0.7822222222222222
+A	0.6975308641975309

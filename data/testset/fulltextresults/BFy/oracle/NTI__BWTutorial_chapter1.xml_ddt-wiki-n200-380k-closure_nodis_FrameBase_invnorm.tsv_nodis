@@ -1,0 +1,16 @@
+filename	NTI__BWTutorial_chapter1.xml
+docAnnotations	842
+docManual	689
+docUnannotated	153
+sentences	101
+paragraphs	62
+Overlapping	609
+Disambiguated	450
+TP	379
+TN	153
+FP	0
+FN	239
+P	1.0
+R	0.6132686084142395
+F	0.7602808425275827
+A	0.6900129701686122

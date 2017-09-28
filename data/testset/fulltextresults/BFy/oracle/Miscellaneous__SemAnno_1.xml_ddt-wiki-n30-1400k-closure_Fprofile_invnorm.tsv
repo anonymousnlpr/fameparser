@@ -1,0 +1,16 @@
+filename	Miscellaneous__SemAnno_1.xml
+docAnnotations	56
+docManual	49
+docUnannotated	7
+sentences	7
+paragraphs	2
+Overlapping	42
+Disambiguated	33
+TP	27
+TN	7
+FP	0
+FN	16
+P	1.0
+R	0.627906976744186
+F	0.7714285714285715
+A	0.68

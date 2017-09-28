@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__20000410_nyt-NEW.xml
+docAnnotations	115
+docManual	102
+docUnannotated	13
+sentences	13
+paragraphs	9
+Overlapping	74
+Disambiguated	54
+TP	45
+TN	13
+FP	0
+FN	48
+P	1.0
+R	0.4838709677419355
+F	0.6521739130434783
+A	0.5471698113207547

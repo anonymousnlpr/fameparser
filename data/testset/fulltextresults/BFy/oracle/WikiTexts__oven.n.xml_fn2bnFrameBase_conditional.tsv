@@ -1,0 +1,58 @@
+SILVER:246	25739	1	1	0	4217003	Each home had a kitchen with an open roof , which contained a grindstone for milling flour and a small oven for baking the bread .	18625	oven.n	421	Artifact	MANUAL	6774030	103	106	CFB	oven
+LINKED:[20	20	103	106	bn:00059829n	http://dbpedia.org/resource/Oven	http://babelnet.org/rdf/s00059829n	1.0	0.5714286	0.12464589	BABELFY]
+RANK:=== COUNTER  Counter 21512 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25739	2	1	0	4217004	Inorganic arsenic is also found in coke oven emissions associated with the smelter industry .	18625	oven.n	421	Artifact	MANUAL	6774031	40	43	CFB	oven
+LINKED:[7	7	40	43	bn:00059829n	http://dbpedia.org/resource/Oven	http://babelnet.org/rdf/s00059829n	1.0	0.44444445	0.06603774	BABELFY]
+RANK:=== COUNTER  Counter 21514 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25739	5	1	0	4217007	In what is now the Southwestern United States , they also created ovens made of adobe called hornos in which to bake items such as breads made from cornmeal and in other parts of America , made ovens out of dug pits .	18625	oven.n	421	Artifact	MANUAL	6774032	66	70	CFB	ovens
+LINKED:[12	12	66	70	bn:00059829n	http://dbpedia.org/resource/Oven	http://babelnet.org/rdf/s00059829n	1.0	0.3888889	0.011142948	BABELFY]
+RANK:=== COUNTER  Counter 21516 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25739	2	2	0	4217015	Most other anthropologists , however , oppose Wrangham , stating that archeological evidence suggests that cooking fires began in earnest only c.250,000 years ago , when ancient hearths , earth ovens , burnt animal bones , and flint appear across Europe and the Middle East .	18625	oven.n	421	Artifact	MANUAL	6774033	194	198	CFB	ovens
+LINKED:[31	31	194	198	bn:00059829n	http://dbpedia.org/resource/Oven	http://babelnet.org/rdf/s00059829n	1.0	0.32	0.03273471	BABELFY]
+RANK:=== COUNTER  Counter 21518 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25739	5	2	0	4217018	In later periods , large communal ovens appear to have been built on these rooftops .	18625	oven.n	421	Artifact	MANUAL	6774034	34	38	CFB	ovens
+LINKED:[6	6	34	38	bn:00059829n	http://dbpedia.org/resource/Oven	http://babelnet.org/rdf/s00059829n	1.0	0.33333334	0.25	BABELFY]
+RANK:=== COUNTER  Counter 21520 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25739	8	2	0	4217021	Heating the disc in a microwave oven for 1015 seconds effectively destroys the data layer by causing arcing in the metal reflective layer , but this same arcing may cause damage or excessive wear to the microwave oven .	18625	oven.n	421	Artifact	MANUAL	6774035	32	35	CFB	oven
+LINKED:[6	6	32	35	bn:00059829n	http://dbpedia.org/resource/Oven	http://babelnet.org/rdf/s00059829n	1.0	0.3888889	0.09840675	BABELFY]
+RANK:=== COUNTER  Counter 21522 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25739	8	3	0	4217031	Different cuisines will use different types of ovens ; for example , Indian culture uses a Tandoor oven , which is a cylindrical clay oven which operates at a single high temperature .	18625	oven.n	421	Artifact	MANUAL	6774036	134	137	CFB	oven
+LINKED:[24	24	134	137	bn:00059829n	http://dbpedia.org/resource/Oven	http://babelnet.org/rdf/s00059829n	1.0	0.25	0.072072074	BABELFY]
+RANK:=== COUNTER  Counter 21524 ===
+
+SELECTED:[]
+WRONG!
+filename	WikiTexts__oven.n.xml
+docAnnotations	106
+docManual	7
+docUnannotated	99
+sentences	99
+paragraphs	10
+Overlapping	7
+Disambiguated	0
+TP	0
+TN	99
+FP	0
+FN	7
+P	0.0
+R	0.0
+F	0.0
+A	0.9339622641509434

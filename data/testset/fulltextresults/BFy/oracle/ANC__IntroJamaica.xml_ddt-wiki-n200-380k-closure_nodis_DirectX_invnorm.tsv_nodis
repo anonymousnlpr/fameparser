@@ -1,0 +1,16 @@
+filename	ANC__IntroJamaica.xml
+docAnnotations	525
+docManual	442
+docUnannotated	83
+sentences	71
+paragraphs	17
+Overlapping	337
+Disambiguated	270
+TP	206
+TN	83
+FP	0
+FN	172
+P	1.0
+R	0.544973544973545
+F	0.7054794520547945
+A	0.6268980477223427

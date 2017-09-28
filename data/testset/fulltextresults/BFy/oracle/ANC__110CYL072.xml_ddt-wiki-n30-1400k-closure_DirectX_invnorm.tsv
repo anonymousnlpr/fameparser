@@ -1,0 +1,16 @@
+filename	ANC__110CYL072.xml
+docAnnotations	74
+docManual	60
+docUnannotated	14
+sentences	14
+paragraphs	8
+Overlapping	40
+Disambiguated	29
+TP	23
+TN	14
+FP	0
+FN	31
+P	1.0
+R	0.42592592592592593
+F	0.5974025974025974
+A	0.5441176470588235

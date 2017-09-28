@@ -1,0 +1,48 @@
+SILVER:205	23713	2	2	0	4101372	Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .	945	return.v	54	Arriving	MANUAL	6544897	20	27	RLG	returned
+LINKED:[4	4	20	27	bn:00092969v		http://babelnet.org/rdf/s00092969v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34662 ===
+	Arriving: -0.0027700831024930744
+	Resurrection: -0.0625
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:205	23713	2	2	0	4101372	Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .	751	say.v	43	Statement	MANUAL	6544901	51	54	RLG	said
+LINKED:[11	11	51	54	bn:00093287v		http://babelnet.org/rdf/s00093287v	1.0	0.1	0.007633588	BABELFY]
+RANK:=== COUNTER  Counter 34666 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23713	2	2	0	4101372	Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .	10676	sanction.n	347	Revenge	MANUAL	6544903	70	78	RLG	sanctions
+LINKED:[14	14	70	78	bn:01390975n	http://dbpedia.org/resource/Sanctions_(law)	http://babelnet.org/rdf/s01390975n	1.0	0.3	0.045801528	BABELFY]
+RANK:=== COUNTER  Counter 34670 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23713	2	2	0	4101372	Hall , who recently returned from a trip to Iraq , said U.N. economic sanctions have hurt millions of civilians there .	3329	millions.n	189	Quantified_mass	MANUAL	6544905	90	97	RLG	millions
+LINKED:[17	17	90	97	bn:00472496n	http://dbpedia.org/resource/Millions	http://babelnet.org/rdf/s00472496n	0.8	0.2	0.015267176	BABELFY]
+RANK:=== COUNTER  Counter 34674 ===
+
+SELECTED:[]
+WRONG!
+filename	LUCorpus-v0.3__20000424_nyt-NEW.xml
+docAnnotations	16
+docManual	12
+docUnannotated	4
+sentences	4
+paragraphs	2
+Overlapping	11
+Disambiguated	2
+TP	2
+TN	4
+FP	0
+FN	10
+P	1.0
+R	0.16666666666666666
+F	0.2857142857142857
+A	0.375

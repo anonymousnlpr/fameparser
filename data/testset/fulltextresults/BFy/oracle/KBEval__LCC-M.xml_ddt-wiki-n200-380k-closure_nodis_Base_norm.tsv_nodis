@@ -1,0 +1,1123 @@
+SILVER:185	23578	2	1	0	4098798	Odds changers , or jinglers , attempt to gain favorable odds by dumping large amounts of money on a particular horse , then canceling the bet at the last moment in order to make a second bet at better odds .	2303	attempt.v	116	Attempt	MANUAL	6533117	30	36	JKR	attempt
+LINKED:[6	6	30	36	bn:00007011n		http://babelnet.org/rdf/s00007011n	1.0	0.071428575	0.004576659	BABELFY]
+RANK:=== COUNTER  Counter 24129 ===
+	Attempt: 68.57142857142857
+
+SELECTED:[Attempt]
+MATCH!
+SILVER:185	23578	2	1	0	4098798	Odds changers , or jinglers , attempt to gain favorable odds by dumping large amounts of money on a particular horse , then canceling the bet at the last moment in order to make a second bet at better odds .	7502	gain.v	179	Getting	MANUAL	6533118	41	44	JKR	gain
+LINKED:[8	8	41	44	bn:00086652v		http://babelnet.org/rdf/s00086652v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24130 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	1	0	4098798	Odds changers , or jinglers , attempt to gain favorable odds by dumping large amounts of money on a particular horse , then canceling the bet at the last moment in order to make a second bet at better odds .	11249	second.a	1147	Ordinal_numbers	MANUAL	6533172	180	185	RLG	second
+LINKED:[35	35	180	185	bn:00095974a		http://babelnet.org/rdf/s00095974a	1.0	0.14285715	0.009153318	BABELFY]
+RANK:=== COUNTER  Counter 24131 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	2	0	4098801	As mentioned , IBM has opted for the mouse stick in the middle of the keyboard instead of the little trackball or the little panel you diddle with your finger .	730	mention.v	43	Statement	MANUAL	6533115	3	11	JKR	mentioned
+LINKED:[1	1	3	11	bn:00082412v		http://babelnet.org/rdf/s00082412v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24132 ===
+	Mention: 220.0
+	Adducing: 110.0
+	Judgment_communication: 4.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	2	0	4098801	As mentioned , IBM has opted for the mouse stick in the middle of the keyboard instead of the little trackball or the little panel you diddle with your finger .	2402	finger.n	119	Body_parts	MANUAL	6533116	152	157	JKR	finger
+LINKED:[29	29	152	157	bn:00034565n	http://dbpedia.org/resource/Finger	http://babelnet.org/rdf/s00034565n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24133 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	2	0	4098801	As mentioned , IBM has opted for the mouse stick in the middle of the keyboard instead of the little trackball or the little panel you diddle with your finger .	8853	middle.n	327	Part_inner_outer	MANUAL	6533121	56	61	JKR	middle
+LINKED:[12	12	56	61	bn:00017120n		http://babelnet.org/rdf/s00017120n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24134 ===
+	Part_inner_outer: 15.263157894736842
+
+SELECTED:[Part_inner_outer]
+MATCH!
+SILVER:185	23578	2	2	0	4098801	As mentioned , IBM has opted for the mouse stick in the middle of the keyboard instead of the little trackball or the little panel you diddle with your finger .	12787	diddle.v	17	Manipulation	MANUAL	6533404	135	140	RLG	diddle
+LINKED:[26	26	135	140	bn:00084240v		http://babelnet.org/rdf/s00084240v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24135 ===
+	Manipulate_into_doing: 29.23076923076923
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	2	0	4098801	As mentioned , IBM has opted for the mouse stick in the middle of the keyboard instead of the little trackball or the little panel you diddle with your finger .	12780	opt.v	352	Choosing	MANUAL	6533442	23	27	MJE	opted
+LINKED:[5	5	23	27	bn:00084932v		http://babelnet.org/rdf/s00084932v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24136 ===
+	Preference: 110.0
+	Choosing: 27.5
+	Partiality: 20.0
+
+SELECTED:[Choosing]
+MATCH!
+SILVER:185	23578	2	3	0	4098804	Born July 5, 1917 , Catherine Wood Campbell left her native Atlanta , where she had attended Sacred Heart School and graduated from the Washington Seminary , in the 1930s .	8622	leave.v	57	Departing	MANUAL	6533113	44	47	JKR	left
+LINKED:[9	9	44	47	bn:00088939v		http://babelnet.org/rdf/s00088939v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24137 ===
+	Abandonment: 65.0
+	Quitting: 43.333333333333336
+	Forming_relationships: 20.0
+	Departing: 18.571428571428573
+	Path_shape: 7.878787878787879
+
+SELECTED:[Departing]
+MATCH!
+SILVER:185	23578	3	3	0	4098805	QN : Was Catherine Wood Campbell born in Atlanta ?	9791	born.v	793	Being_born	MANUAL	6533112	33	36	JKR	born
+LINKED:[6	6	33	36	bn:00083225v		http://babelnet.org/rdf/s00083225v	1.0	0.25	0.02631579	BABELFY]
+RANK:=== COUNTER  Counter 24138 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	4	0	4098807	The Red Sox started wearing numbers on their backs in 1931 , and first retired numbers May 29, 1984 , when they honored Williams and Cronin .	4447	start.v	146	Activity_start	MANUAL	6533109	12	18	JKR	started
+LINKED:[3	3	12	18	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24139 ===
+	Setting_out: 206.66666666666666
+	Process_start: 103.33333333333333
+	Activity_start: 77.5
+
+SELECTED:[Activity_start]
+MATCH!
+SILVER:185	23578	2	4	0	4098807	The Red Sox started wearing numbers on their backs in 1931 , and first retired numbers May 29, 1984 , when they honored Williams and Cronin .	3748	wear.v	160	Wearing	MANUAL	6533110	20	26	JKR	wearing
+LINKED:[4	4	20	26	bn:00089252v		http://babelnet.org/rdf/s00089252v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24140 ===
+	Wearing: 5.0
+
+SELECTED:[Wearing]
+MATCH!
+SILVER:185	23578	3	4	0	4098808	QN : Did the Red Sox wear numbers on their backs in 1984 ?	3748	wear.v	160	Wearing	MANUAL	6533107	21	24	JKR	wear
+LINKED:[6	6	21	24	bn:00089252v		http://babelnet.org/rdf/s00089252v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24141 ===
+	Wearing: 5.0
+
+SELECTED:[Wearing]
+MATCH!
+SILVER:185	23578	3	4	0	4098808	QN : Did the Red Sox wear numbers on their backs in 1984 ?	2383	back.n	119	Body_parts	MANUAL	6533108	43	47	JKR	backs
+LINKED:[10	10	43	47	bn:00068581n	http://dbpedia.org/resource/Running_back	http://babelnet.org/rdf/s00068581n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 24142 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	5	0	4098810	Goldstein was born on Sept. 23, 1922 , in Denver and died in Chicago on June 20, 1944 .	9791	born.v	793	Being_born	MANUAL	6533104	14	17	JKR	born
+LINKED:[2	2	14	17	bn:00083229v		http://babelnet.org/rdf/s00083229v	1.0	0.11111111	0.009009009	BABELFY]
+RANK:=== COUNTER  Counter 24143 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	5	0	4098810	Goldstein was born on Sept. 23, 1922 , in Denver and died in Chicago on June 20, 1944 .	924	die.v	53	Death	MANUAL	6533105	53	56	JKR	died
+LINKED:[12	12	53	56	bn:00084343v		http://babelnet.org/rdf/s00084343v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24144 ===
+	Rotting: 95.0
+	Death: 76.0
+
+SELECTED:[Death]
+MATCH!
+SILVER:185	23578	3	5	0	4098811	QN : Was Goldstein born in Chicago ?	9791	born.v	793	Being_born	MANUAL	6533106	19	22	JKR	born
+LINKED:[4	4	19	22	bn:00083221v		http://babelnet.org/rdf/s00083221v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24145 ===
+	Change_direction: 11.428571428571429
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	6	0	4098813	Walden thinks Lukas-trained Grand Slam , who is 4 for 4 at Belmont and 0 for 4 elsewhere , must be respected because of that statistic .	11959	think.v	1412	Opinion	MANUAL	6533102	7	12	JKR	thinks
+LINKED:[1	1	7	12	bn:00083370v		http://babelnet.org/rdf/s00083370v	1.0	0.2	0.16666667	BABELFY]
+RANK:=== COUNTER  Counter 24146 ===
+	Regard: 100.0
+	Opinion: 50.0
+	Categorization: 25.0
+	Awareness: 22.727272727272727
+
+SELECTED:[Opinion]
+MATCH!
+SILVER:185	23578	2	6	0	4098813	Walden thinks Lukas-trained Grand Slam , who is 4 for 4 at Belmont and 0 for 4 elsewhere , must be respected because of that statistic .	8502	respect.v	28	Judgment	MANUAL	6533103	99	107	JKR	respected
+LINKED:[21	21	99	107	bn:00087736v		http://babelnet.org/rdf/s00087736v	1.0	0.2	0.16666667	BABELFY]
+RANK:=== COUNTER  Counter 24147 ===
+	Judgment: 9.117647058823529
+
+SELECTED:[Judgment]
+MATCH!
+SILVER:185	23578	3	6	0	4098814	QN : Does Walden think Grand Slam deserves respect ?	11959	think.v	1412	Opinion	MANUAL	6533099	17	21	JKR	think
+LINKED:[4	4	17	21	bn:00083370v		http://babelnet.org/rdf/s00083370v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24148 ===
+	Regard: 100.0
+	Opinion: 50.0
+	Categorization: 25.0
+	Awareness: 22.727272727272727
+
+SELECTED:[Opinion]
+MATCH!
+SILVER:185	23578	3	6	0	4098814	QN : Does Walden think Grand Slam deserves respect ?	8311	deserve.v	541	Deserving	MANUAL	6533100	34	41	JKR	deserves
+LINKED:[7	7	34	41	bn:00086670v		http://babelnet.org/rdf/s00086670v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24149 ===
+	Deserving: 55.0
+
+SELECTED:[Deserving]
+MATCH!
+SILVER:185	23578	3	6	0	4098814	QN : Does Walden think Grand Slam deserves respect ?	8501	respect.n	28	Judgment	MANUAL	6533101	43	49	JKR	respect
+LINKED:[8	8	43	49	bn:00031654n	http://dbpedia.org/resource/Respect	http://babelnet.org/rdf/s00031654n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24150 ===
+	Judgment: 13.529411764705882
+
+SELECTED:[Judgment]
+MATCH!
+SILVER:185	23578	2	7	0	4098816	Lehr has become a major force on the Trojans ' pitching staff , despite the fact that his pitching career at this level is still in its infancy .	11801	level.n	1377	Rank	MANUAL	6533096	114	118	JKR	level
+LINKED:[21	21	114	118	bn:00025965n	http://dbpedia.org/resource/Degree_(music)	http://babelnet.org/rdf/s00025965n	0.9375	0.71428573	0.4054054	BABELFY]
+RANK:=== COUNTER  Counter 24151 ===
+	Rank: 125.0
+	Quantity: 7.142857142857143
+
+SELECTED:[Rank]
+MATCH!
+SILVER:185	23578	2	7	0	4098816	Lehr has become a major force on the Trojans ' pitching staff , despite the fact that his pitching career at this level is still in its infancy .	956	pitch.v	55	Cause_motion	MANUAL	6533097	90	97	JKR	pitching
+LINKED:[17	17	90	97	bn:00088317v		http://babelnet.org/rdf/s00088317v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24152 ===
+	Cause_motion: 7.407407407407407
+	Body_movement: 4.25531914893617
+
+SELECTED:[Cause_motion]
+MATCH!
+SILVER:185	23578	2	7	0	4098816	Lehr has become a major force on the Trojans ' pitching staff , despite the fact that his pitching career at this level is still in its infancy .	11771	staff.n	323	Employing	MANUAL	6533098	56	60	JKR	staff
+LINKED:[10	10	56	60	bn:00073805n	http://dbpedia.org/resource/Staff_(music)	http://babelnet.org/rdf/s00073805n	0.85714287	0.5714286	0.16216215	BABELFY]
+RANK:=== COUNTER  Counter 24153 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	7	0	4098817	QN : Has Lehr had a short pitching career ?	1723	short.a	79	Duration_description	MANUAL	6533093	20	24	JKR	short
+LINKED:[6	6	20	24	bn:00110561a		http://babelnet.org/rdf/s00110561a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24154 ===
+	Dimension: 6.470588235294118
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	7	0	4098817	QN : Has Lehr had a short pitching career ?	956	pitch.v	55	Cause_motion	MANUAL	6533094	26	33	JKR	pitching
+LINKED:[7	7	26	33	bn:00088317v		http://babelnet.org/rdf/s00088317v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24155 ===
+	Cause_motion: 7.407407407407407
+	Body_movement: 4.25531914893617
+
+SELECTED:[Cause_motion]
+MATCH!
+SILVER:185	23578	3	8	0	4098820	QN : Did planning for Islands of Adventure begin after Universal Studios Florida opened ?	2656	begin.v	133	Process_start	MANUAL	6533157	43	47	RLG	begin
+LINKED:[8	8	43	47	bn:00083343v		http://babelnet.org/rdf/s00083343v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24156 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	9	0	4098822	If truth is the first casualty in war , then dignity was the first principle to keel over in the dirty little war in Washington .	1939	war.n	93	Hostile_encounter	MANUAL	6533092	110	112	JKR	war
+LINKED:[22	22	110	112	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.9285714	0.8888889	0.28108108	BABELFY]
+RANK:=== COUNTER  Counter 24157 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	9	0	4098822	If truth is the first casualty in war , then dignity was the first principle to keel over in the dirty little war in Washington .	1939	war.n	93	Hostile_encounter	MANUAL	6533150	34	36	RLG	war
+LINKED:[7	7	34	36	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.9122807	0.8888889	0.28108108	BABELFY]
+RANK:=== COUNTER  Counter 24158 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	9	0	4098823	QN : Is truth the first casualty in war ?	1939	war.n	93	Hostile_encounter	MANUAL	6533151	36	38	RLG	war
+LINKED:[8	8	36	38	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	1.0	1.0	0.6666667	BABELFY]
+RANK:=== COUNTER  Counter 24159 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	10	0	4098825	The mistake most beginners make is in loading too much paint on the bristles .	1094	load.v	62	Placing	MANUAL	6533090	38	44	JKR	loading
+LINKED:[7	7	38	44	bn:00090165v		http://babelnet.org/rdf/s00090165v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24160 ===
+	Filling: 5.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	10	0	4098826	QN : Do people who are new to painting often load too much paint on the brush ?	1094	load.v	62	Placing	MANUAL	6533091	45	48	JKR	load
+LINKED:[10	10	45	48	bn:00090165v		http://babelnet.org/rdf/s00090165v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24161 ===
+	Filling: 5.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	11	0	4098828	In the next few decades , unless Japan somehow manages to arrest current trends , it may find that its share of global economic output has shrunk considerably .	175	find.v	20	Becoming_aware	MANUAL	6533087	89	92	JKR	find
+LINKED:[17	17	89	92	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24162 ===
+	Locating: 135.0
+	Becoming_aware: 24.545454545454547
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:185	23578	2	11	0	4098828	In the next few decades , unless Japan somehow manages to arrest current trends , it may find that its share of global economic output has shrunk considerably .	9501	shrink.v	725	Expansion	MANUAL	6533088	139	144	JKR	shrunk
+LINKED:[26	26	139	144	bn:00093693v		http://babelnet.org/rdf/s00093693v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24163 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	11	0	4098828	In the next few decades , unless Japan somehow manages to arrest current trends , it may find that its share of global economic output has shrunk considerably .	4081	decade.n	229	Calendric_unit	MANUAL	6533143	16	22	RLG	decades
+LINKED:[4	4	16	22	bn:00025646n	http://dbpedia.org/resource/Decade	http://babelnet.org/rdf/s00025646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24164 ===
+	Measure_duration: 17.692307692307693
+	Calendric_unit: 4.2592592592592595
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:185	23578	2	11	0	4098828	In the next few decades , unless Japan somehow manages to arrest current trends , it may find that its share of global economic output has shrunk considerably .	10235	global.a	195	Political_locales	MANUAL	6533146	112	117	RLG	global
+LINKED:[22	22	112	117	bn:00103624a		http://babelnet.org/rdf/s00103624a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24165 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	11	0	4098829	QN : Will Japan 's share of global economic output decrease in the next few decades ?	12490	economic.a	1572	Economy	MANUAL	6533085	35	42	JKR	economic
+LINKED:[8	8	35	42	bn:00102001a		http://babelnet.org/rdf/s00102001a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24166 ===
+	Economy: 100.0
+
+SELECTED:[Economy]
+MATCH!
+SILVER:185	23578	3	11	0	4098829	QN : Will Japan 's share of global economic output decrease in the next few decades ?	1877	decrease.v	91	Change_position_on_a_scale	MANUAL	6533086	51	58	JKR	decrease
+LINKED:[10	10	51	58	bn:00025780n		http://babelnet.org/rdf/s00025780n	1.0	0.125	0.006060606	BABELFY]
+RANK:=== COUNTER  Counter 24167 ===
+	Cause_expansion: 16.666666666666668
+	Cause_change_of_position_on_a_scale: 15.789473684210526
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	11	0	4098829	QN : Will Japan 's share of global economic output decrease in the next few decades ?	4081	decade.n	229	Calendric_unit	MANUAL	6533144	76	82	RLG	decades
+LINKED:[15	15	76	82	bn:00025646n	http://dbpedia.org/resource/Decade	http://babelnet.org/rdf/s00025646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24168 ===
+	Measure_duration: 17.692307692307693
+	Calendric_unit: 4.2592592592592595
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:185	23578	3	11	0	4098829	QN : Will Japan 's share of global economic output decrease in the next few decades ?	10235	global.a	195	Political_locales	MANUAL	6533147	28	33	RLG	global
+LINKED:[7	7	28	33	bn:00103624a		http://babelnet.org/rdf/s00103624a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24169 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	12	0	4098831	Fiscal hawks on Capitol Hill vowed Monday to vote against the embassy security measures unless they are paid for by cuts elsewhere in the administration 's budget .	12692	vow.v	33	Commitment	MANUAL	6533080	29	33	JKR	vowed
+LINKED:[5	5	29	33	bn:00095582v		http://babelnet.org/rdf/s00095582v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24170 ===
+	Commitment: 4.7368421052631575
+
+SELECTED:[Commitment]
+MATCH!
+SILVER:185	23578	2	12	0	4098831	Fiscal hawks on Capitol Hill vowed Monday to vote against the embassy security measures unless they are paid for by cuts elsewhere in the administration 's budget .	12443	security.n	1560	Being_at_risk	MANUAL	6533081	70	77	JKR	security
+LINKED:[12	12	70	77	bn:00070219n		http://babelnet.org/rdf/s00070219n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24171 ===
+	Being_at_risk: 28.88888888888889
+
+SELECTED:[Being_at_risk]
+MATCH!
+SILVER:185	23578	2	12	0	4098831	Fiscal hawks on Capitol Hill vowed Monday to vote against the embassy security measures unless they are paid for by cuts elsewhere in the administration 's budget .	10821	cut.n	96	Cause_change_of_position_on_a_scale	MANUAL	6533084	116	119	JKR	cuts
+LINKED:[20	20	116	119	bn:00024599n		http://babelnet.org/rdf/s00024599n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24172 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	12	0	4098832	QN : Will fiscal hawks on Capitol Hill vote against the embassy security measures ?	12443	security.n	1560	Being_at_risk	MANUAL	6533083	64	71	JKR	security
+LINKED:[12	12	64	71	bn:00070219n		http://babelnet.org/rdf/s00070219n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24173 ===
+	Being_at_risk: 28.88888888888889
+
+SELECTED:[Being_at_risk]
+MATCH!
+SILVER:185	23578	2	13	0	4098834	The FDA has no authority to regulate creatine unless it 's first proved to be dangerous .	5586	prove.v	308	Reasoning	MANUAL	6533079	65	70	JKR	proved
+LINKED:[12	12	65	70	bn:00092109v		http://babelnet.org/rdf/s00092109v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24174 ===
+	Turning_out: 46.666666666666664
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	13	0	4098835	QN : Has creatine been proven to be dangerous ?	5586	prove.v	308	Reasoning	MANUAL	6533078	23	28	JKR	proven
+LINKED:[5	5	23	28	bn:00092109v		http://babelnet.org/rdf/s00092109v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24175 ===
+	Turning_out: 46.666666666666664
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	751	say.v	43	Statement	MANUAL	6533070	23	25	JKR	say
+LINKED:[3	3	23	25	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24176 ===
+	Spelling_and_pronouncing: 40.0
+	Communication: 21.818181818181817
+	Becoming_aware: 21.818181818181817
+	Text_creation: 18.46153846153846
+	Speak_on_topic: 18.46153846153846
+	Statement: 3.75
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	2756	believe.v	141	Certainty	MANUAL	6533071	32	38	JKR	believe
+LINKED:[5	5	32	38	bn:00083369v		http://babelnet.org/rdf/s00083369v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24177 ===
+	Trust: 32.5
+	Certainty: 23.636363636363637
+
+SELECTED:[Certainty]
+MATCH!
+SILVER:185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	12182	government.n	73	Leadership	MANUAL	6533072	89	98	JKR	government
+LINKED:[15	15	89	98	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24178 ===
+	Law: 78.75
+	Organization: 45.0
+	Leadership: 8.63013698630137
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	2216	stay.v	110	Residence	MANUAL	6533073	116	122	JKR	staying
+LINKED:[20	20	116	122	bn:00092756v		http://babelnet.org/rdf/s00092756v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24179 ===
+	State_continue: 390.0
+	Left_to_do: 195.0
+	Existence: 97.5
+	Temporary_stay: 65.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	10625	official.n	73	Leadership	MANUAL	6533076	9	17	JKR	officials
+LINKED:[1	1	9	17	bn:00036837n	http://dbpedia.org/resource/Official	http://babelnet.org/rdf/s00036837n	0.96153843	0.2777778	0.016129032	BABELFY]
+RANK:=== COUNTER  Counter 24180 ===
+	Leadership: 9.726027397260275
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	10585	american.a	1103	Origin	MANUAL	6533139	0	7	RLG	American
+LINKED:[0	0	0	7	bn:00003343n	http://dbpedia.org/resource/Americans	http://babelnet.org/rdf/s00003343n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24181 ===
+	People_by_origin: 42.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	14	0	4098837	American officials now say they believe that Muhammad was warned by someone in the Qatar government and that he was staying at the estate of Abdallah bin Khalid , a fundamentalist who has provided support for other Islamic radicals .	11673	provide.v	1346	Supply	MANUAL	6535554	188	195	KmG	provided
+LINKED:[33	33	188	195	bn:00084692v		http://babelnet.org/rdf/s00084692v	1.0	0.055555556	0.0012903226	BABELFY]
+RANK:=== COUNTER  Counter 24182 ===
+	Assistance: 34.44444444444444
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	14	0	4098838	A former American intelligence official said bin Laden also visited bin Khalid in Qatar twice in the mid- 1990s .	751	say.v	43	Statement	MANUAL	6533067	40	43	JKR	said
+LINKED:[5	5	40	43	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24183 ===
+	Spelling_and_pronouncing: 40.0
+	Communication: 21.818181818181817
+	Becoming_aware: 21.818181818181817
+	Text_creation: 18.46153846153846
+	Speak_on_topic: 18.46153846153846
+	Statement: 3.75
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23578	3	14	0	4098838	A former American intelligence official said bin Laden also visited bin Khalid in Qatar twice in the mid- 1990s .	10625	official.n	73	Leadership	MANUAL	6533069	31	38	JKR	official
+LINKED:[4	4	31	38	bn:00036837n	http://dbpedia.org/resource/Official	http://babelnet.org/rdf/s00036837n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24184 ===
+	Leadership: 9.726027397260275
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23578	3	14	0	4098838	A former American intelligence official said bin Laden also visited bin Khalid in Qatar twice in the mid- 1990s .	10585	american.a	1103	Origin	MANUAL	6533141	9	16	RLG	American
+LINKED:[2	2	9	16	bn:00003343n	http://dbpedia.org/resource/Americans	http://babelnet.org/rdf/s00003343n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24185 ===
+	People_by_origin: 42.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	14	0	4098838	A former American intelligence official said bin Laden also visited bin Khalid in Qatar twice in the mid- 1990s .	947	visit.v	54	Arriving	MANUAL	6533171	60	66	RLG	visited
+LINKED:[9	9	60	66	bn:00093433v		http://babelnet.org/rdf/s00093433v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24186 ===
+	Arriving: 8.947368421052632
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:185	23578	4	14	0	4098839	QN : Was Muhammad staying at the estate of Abdallah bin Khalid ?	2216	stay.v	110	Residence	MANUAL	6533066	18	24	JKR	staying
+LINKED:[4	4	18	24	bn:00092756v		http://babelnet.org/rdf/s00092756v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24187 ===
+	State_continue: 390.0
+	Left_to_do: 195.0
+	Existence: 97.5
+	Temporary_stay: 65.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	2253	professor.n	111	Education_teaching	MANUAL	6533058	47	55	JKR	professor
+LINKED:[8	8	47	55	bn:00064601n	http://dbpedia.org/resource/Professor	http://babelnet.org/rdf/s00064601n	0.7902439	0.3	0.017616356	BABELFY]
+RANK:=== COUNTER  Counter 24188 ===
+	Education_teaching: 22.5
+	People_by_vocation: 12.272727272727273
+
+SELECTED:[Education_teaching]
+MATCH!
+SILVER:185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	2680	experience.n	136	Expertise	MANUAL	6533059	73	82	JKR	experience
+LINKED:[13	13	73	82	bn:00032306n	http://dbpedia.org/resource/Experience	http://babelnet.org/rdf/s00032306n	0.87096775	0.2	0.0058721183	BABELFY]
+RANK:=== COUNTER  Counter 24189 ===
+	Expertise: 15.757575757575758
+
+SELECTED:[Expertise]
+MATCH!
+SILVER:185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	2247	teacher.n	111	Education_teaching	MANUAL	6533060	101	107	JKR	teacher
+LINKED:[18	18	101	107	bn:00046958n	http://dbpedia.org/resource/Teacher	http://babelnet.org/rdf/s00046958n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24190 ===
+	Education_teaching: 24.166666666666668
+
+SELECTED:[Education_teaching]
+MATCH!
+SILVER:185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	7636	collaborate.v	418	Collaboration	MANUAL	6533061	112	124	JKR	collaborating
+LINKED:[20	20	112	124	bn:00085279v		http://babelnet.org/rdf/s00085279v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24191 ===
+	Collaboration: 17.77777777777778
+
+SELECTED:[Collaboration]
+MATCH!
+SILVER:185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	5453	book.n	298	Text	MANUAL	6533062	152	156	JKR	books
+LINKED:[26	26	152	156	bn:00012059n	http://dbpedia.org/resource/Book	http://babelnet.org/rdf/s00012059n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24192 ===
+	Part_ordered_segments: 190.0
+	Text: 10.27027027027027
+
+SELECTED:[Text]
+MATCH!
+SILVER:185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	10073	young.a	972	Age	MANUAL	6533063	162	166	JKR	young
+LINKED:[28	28	162	166	bn:00104589a		http://babelnet.org/rdf/s00104589a	0.75	0.1	9.786864E-4	BABELFY]
+RANK:=== COUNTER  Counter 24193 ===
+	Age: 34.285714285714285
+
+SELECTED:[Age]
+MATCH!
+SILVER:185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	924	die.v	53	Death	MANUAL	6533064	181	184	JKR	died
+LINKED:[31	31	181	184	bn:00084343v		http://babelnet.org/rdf/s00084343v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24194 ===
+	Rotting: 95.0
+	Death: 76.0
+
+SELECTED:[Death]
+MATCH!
+SILVER:185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	3012	home.n	173	Buildings	MANUAL	6533065	212	215	JKR	home
+LINKED:[38	38	212	215	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24195 ===
+	Expected_location_of_person: 1150.0
+	Foreign_or_domestic_country: 191.66666666666666
+	Buildings: 13.855421686746988
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:185	23578	2	15	0	4098841	Annabelle Irwin , a retired Iowa State English professor who drew on her experience as a high school teacher in collaborating on an acclaimed series of books for young teen-agers , died Sept. 13 at a daughter 's home in Des Moines , Iowa .	7364	acclaim.v	219	Judgment_communication	MANUAL	6533153	132	140	RLG	acclaimed
+LINKED:[23	23	132	140	bn:13754673a		http://babelnet.org/rdf/s13754673a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24196 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	15	0	4098842	QN : Did Irwin teach high school in Iowa ?	10740	teach.v	111	Education_teaching	MANUAL	6533056	15	19	JKR	teach
+LINKED:[4	4	15	19	bn:00089791v		http://babelnet.org/rdf/s00089791v	1.0	0.25	0.06382979	BABELFY]
+RANK:=== COUNTER  Counter 24197 ===
+	Education_teaching: 7.5
+
+SELECTED:[Education_teaching]
+MATCH!
+SILVER:185	23578	2	16	0	4099222	The board frequently has engaged in public disputes and has been accused by the federal court of making decisions based on narrow agendas and meddling where it should n't .	7367	accuse.v	219	Judgment_communication	MANUAL	6533321	65	71	MiL	accused
+LINKED:[11	11	65	71	bn:00082249v		http://babelnet.org/rdf/s00082249v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24198 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	17	0	4098846	Fabric awning prices are more varied than aluminum awning prices , according to Kevin Tatman , owner of Merit Awnings in Dayton .	2894	price.n	82	Commerce_scenario	MANUAL	6533021	14	19	JKR	prices
+LINKED:[2	2	14	19	bn:00022996n		http://babelnet.org/rdf/s00022996n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24199 ===
+	Commerce_scenario: 61.42857142857143
+
+SELECTED:[Commerce_scenario]
+MATCH!
+SILVER:185	23578	2	17	0	4098846	Fabric awning prices are more varied than aluminum awning prices , according to Kevin Tatman , owner of Merit Awnings in Dayton .	2894	price.n	82	Commerce_scenario	MANUAL	6533022	58	63	JKR	prices
+LINKED:[9	9	58	63	bn:00022996n		http://babelnet.org/rdf/s00022996n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24200 ===
+	Commerce_scenario: 61.42857142857143
+
+SELECTED:[Commerce_scenario]
+MATCH!
+SILVER:185	23578	2	17	0	4098846	Fabric awning prices are more varied than aluminum awning prices , according to Kevin Tatman , owner of Merit Awnings in Dayton .	10677	according	1148	Attributed_information	MANUAL	6533023	67	75	CVa	according
+LINKED:[11	11	67	75	bn:00082227v		http://babelnet.org/rdf/s00082227v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24201 ===
+	Compatibility: 17.647058823529413
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	17	0	4098846	Fabric awning prices are more varied than aluminum awning prices , according to Kevin Tatman , owner of Merit Awnings in Dayton .	2431	owner.n	118	Possession	MANUAL	6533024	95	99	JKR	owner
+LINKED:[16	16	95	99	bn:00059953n		http://babelnet.org/rdf/s00059953n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24202 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	17	0	4098846	Fabric awning prices are more varied than aluminum awning prices , according to Kevin Tatman , owner of Merit Awnings in Dayton .	12251	aluminum.n	1321	Substance	MANUAL	6533031	42	49	JKR	aluminum
+LINKED:[7	7	42	49	bn:00002355n	http://dbpedia.org/resource/Aluminium	http://babelnet.org/rdf/s00002355n	1.0	0.16666667	0.015625	BABELFY]
+RANK:=== COUNTER  Counter 24203 ===
+	Substance: 31.153846153846153
+
+SELECTED:[Substance]
+MATCH!
+SILVER:185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	12251	aluminum.n	1321	Substance	MANUAL	6533033	49	56	JKR	aluminum
+LINKED:[10	10	49	56	bn:00002355n	http://dbpedia.org/resource/Aluminium	http://babelnet.org/rdf/s00002355n	1.0	0.4	0.044444446	BABELFY]
+RANK:=== COUNTER  Counter 24204 ===
+	Substance: 31.153846153846153
+
+SELECTED:[Substance]
+MATCH!
+SILVER:185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	2986	sell.v	172	Commerce_sell	MANUAL	6533034	44	47	JKR	sold
+LINKED:[9	9	44	47	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24205 ===
+	Commerce_sell: 33.75
+
+SELECTED:[Commerce_sell]
+MATCH!
+SILVER:185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	2986	sell.v	172	Commerce_sell	MANUAL	6533037	78	84	JKR	selling
+LINKED:[14	14	78	84	bn:00093472v		http://babelnet.org/rdf/s00093472v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24206 ===
+	Commerce_sell: 33.75
+
+SELECTED:[Commerce_sell]
+MATCH!
+SILVER:185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	4447	start.v	146	Activity_start	MANUAL	6533038	70	76	JKR	started
+LINKED:[13	13	70	76	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24207 ===
+	Setting_out: 206.66666666666666
+	Process_start: 103.33333333333333
+	Activity_start: 77.5
+
+SELECTED:[Activity_start]
+MATCH!
+SILVER:185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	4074	year.n	229	Calendric_unit	MANUAL	6533042	128	132	JKR	years
+LINKED:[21	21	128	132	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24208 ===
+	Measure_duration: 50.76923076923077
+	Calendric_unit: 12.222222222222221
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:185	23578	3	17	0	4098847	Merit , in business since 1979 , has always sold aluminum awnings and started selling Sunbrela brand fabric awnings about eight years ago .	2645	brand.n	128	Type	MANUAL	6533159	95	99	RLG	brand
+LINKED:[16	16	95	99	bn:00012758n	http://dbpedia.org/resource/Brand	http://babelnet.org/rdf/s00012758n	0.9777778	0.4	0.09777778	BABELFY]
+RANK:=== COUNTER  Counter 24209 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	18	0	4098850	Increasingly , health experts and researchers are naming the nation 's penchant for large portions and `` supersizing '' as a leading cause of obesity .	2677	expert.n	136	Expertise	MANUAL	6533014	22	28	JKR	experts
+LINKED:[3	3	22	28	bn:00032322n	http://dbpedia.org/resource/Expert	http://babelnet.org/rdf/s00032322n	0.8333333	0.2857143	0.04255319	BABELFY]
+RANK:=== COUNTER  Counter 24210 ===
+	Expertise: 16.666666666666668
+
+SELECTED:[Expertise]
+MATCH!
+SILVER:185	23578	2	18	0	4098850	Increasingly , health experts and researchers are naming the nation 's penchant for large portions and `` supersizing '' as a leading cause of obesity .	6662	penchant.n	377	Inclination	MANUAL	6533027	71	78	JKR	penchant
+LINKED:[11	11	71	78	bn:00061333n	http://dbpedia.org/resource/Preference	http://babelnet.org/rdf/s00061333n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24211 ===
+	Inclination: 130.0
+
+SELECTED:[Inclination]
+MATCH!
+SILVER:185	23578	2	18	0	4098850	Increasingly , health experts and researchers are naming the nation 's penchant for large portions and `` supersizing '' as a leading cause of obesity .	12653	portion.n	140	Part_whole	MANUAL	6533028	90	97	JKR	portions
+LINKED:[14	14	90	97	bn:00021395n	http://dbpedia.org/resource/Euclidean_vector	http://babelnet.org/rdf/s00021395n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24212 ===
+	Membership: 63.333333333333336
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	19	0	4098853	Dual-core chips can do the same work that a single-core chip can , only faster , while consuming less power and at a cooler temperature .	12355	power.n	1535	Electricity	MANUAL	6533004	102	106	JKR	power
+LINKED:[19	19	102	106	bn:00063941n	http://dbpedia.org/resource/Power_(physics)	http://babelnet.org/rdf/s00063941n	0.90909094	0.2857143	0.07462686	BABELFY]
+RANK:=== COUNTER  Counter 24213 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	19	0	4098853	Dual-core chips can do the same work that a single-core chip can , only faster , while consuming less power and at a cooler temperature .	10344	temperature.n	1050	Temperature	MANUAL	6533006	124	134	JKR	temperature
+LINKED:[24	24	124	134	bn:00076457n	http://dbpedia.org/resource/Temperature	http://babelnet.org/rdf/s00076457n	0.90909094	0.71428573	0.29850745	BABELFY]
+RANK:=== COUNTER  Counter 24214 ===
+	Temperature: 160.0
+	Ambient_temperature: 114.28571428571429
+
+SELECTED:[Temperature]
+MATCH!
+SILVER:185	23578	3	19	0	4098854	QN : Do dual-core chips consume more power than single-core chips ?	12355	power.n	1535	Electricity	MANUAL	6532996	37	41	JKR	power
+LINKED:[7	7	37	41	bn:00041585n	http://dbpedia.org/resource/Power_(international_relations)	http://babelnet.org/rdf/s00041585n	1.0	0.6666667	0.074074075	BABELFY]
+RANK:=== COUNTER  Counter 24215 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	12276	plan.v	513	Purpose	MANUAL	6532985	15	21	JKR	planned
+LINKED:[2	2	15	21	bn:00083196v		http://babelnet.org/rdf/s00083196v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24216 ===
+	Purpose: 20.0
+
+SELECTED:[Purpose]
+MATCH!
+SILVER:185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	12276	plan.v	513	Purpose	MANUAL	6532987	78	82	JKR	plans
+LINKED:[15	15	78	82	bn:00083196v		http://babelnet.org/rdf/s00083196v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24217 ===
+	Purpose: 20.0
+
+SELECTED:[Purpose]
+MATCH!
+SILVER:185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	2243	student.n	111	Education_teaching	MANUAL	6532988	43	49	JKR	student
+LINKED:[7	7	43	49	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	0.71428573	0.22222222	0.06849315	BABELFY]
+RANK:=== COUNTER  Counter 24218 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	1777	free.a	83	Expensiveness	MANUAL	6532989	53	56	JKR	free
+LINKED:[9	9	53	56	bn:00103303a		http://babelnet.org/rdf/s00103303a	1.0	0.22222222	0.02739726	BABELFY]
+RANK:=== COUNTER  Counter 24219 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	12566	new.a	1597	Familiarity	MANUAL	6532990	39	41	JKR	new
+LINKED:[6	6	39	41	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24220 ===
+	Familiarity: 50.0
+	Age: 35.714285714285715
+
+SELECTED:[Familiarity]
+MATCH!
+SILVER:185	23578	2	20	0	4098856	Duke initially planned on giving every new student a free iPod , but now only plans on giving iPods to students in certain classes .	2243	student.n	111	Education_teaching	MANUAL	6532995	103	110	JKR	students
+LINKED:[20	20	103	110	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	0.71428573	0.22222222	0.06849315	BABELFY]
+RANK:=== COUNTER  Counter 24221 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	20	0	4098857	QN : Does Duke plan on giving every new student a free iPod ?	12276	plan.v	513	Purpose	MANUAL	6532980	15	18	JKR	plan
+LINKED:[4	4	15	18	bn:00227339n	http://dbpedia.org/resource/PLAN_(test)	http://babelnet.org/rdf/s00227339n	1.0	0.33333334	0.25	BABELFY]
+RANK:=== COUNTER  Counter 24222 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	20	0	4098857	QN : Does Duke plan on giving every new student a free iPod ?	1777	free.a	83	Expensiveness	MANUAL	6532992	50	53	JKR	free
+LINKED:[11	11	50	53	bn:00103299a		http://babelnet.org/rdf/s00103299a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24223 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	20	0	4098857	QN : Does Duke plan on giving every new student a free iPod ?	2243	student.n	111	Education_teaching	MANUAL	6532993	40	46	JKR	student
+LINKED:[9	9	40	46	bn:00029806n	http://dbpedia.org/resource/Student	http://babelnet.org/rdf/s00029806n	1.0	0.33333334	0.25	BABELFY]
+RANK:=== COUNTER  Counter 24224 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	20	0	4098857	QN : Does Duke plan on giving every new student a free iPod ?	12566	new.a	1597	Familiarity	MANUAL	6532994	36	38	JKR	new
+LINKED:[8	8	36	38	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24225 ===
+	Familiarity: 50.0
+	Age: 35.714285714285715
+
+SELECTED:[Familiarity]
+MATCH!
+SILVER:185	23578	2	21	0	4098859	A US judge late on Thursday threw out Mr Kerkorian 's claims that Daimler had fraudulently described the 1998 deal bringing together Daimler-Benz and Chrysler as a merger rather than a takeover to avoid paying a premium .	4993	avoid.v	274	Avoiding	MANUAL	6533156	197	201	RLG	avoid
+LINKED:[33	33	197	201	bn:00082958v		http://babelnet.org/rdf/s00082958v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24226 ===
+	Avoiding: 20.0
+
+SELECTED:[Avoiding]
+MATCH!
+SILVER:185	23578	2	21	0	4098859	A US judge late on Thursday threw out Mr Kerkorian 's claims that Daimler had fraudulently described the 1998 deal bringing together Daimler-Benz and Chrysler as a merger rather than a takeover to avoid paying a premium .	12060	bring	13	Cause_to_amalgamate	MANUAL	6533166	115	122	RLG	bringing
+LINKED:[20	20	115	122	bn:00084058v		http://babelnet.org/rdf/s00084058v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24227 ===
+	Bringing: 7.916666666666667
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	21	0	4098860	QN : Does the judge think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	11959	think.v	1412	Opinion	MANUAL	6532969	20	24	JKR	think
+LINKED:[5	5	20	24	bn:00083370v		http://babelnet.org/rdf/s00083370v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24228 ===
+	Regard: 100.0
+	Opinion: 50.0
+	Categorization: 25.0
+	Awareness: 22.727272727272727
+
+SELECTED:[Opinion]
+MATCH!
+SILVER:185	23578	3	21	0	4098860	QN : Does the judge think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	9803	describe.v	796	Communicate_categorization	MANUAL	6532972	46	54	JKR	described
+LINKED:[8	8	46	54	bn:00082233v		http://babelnet.org/rdf/s00082233v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24229 ===
+	Reporting: 28.0
+	Statement: 4.375
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	21	0	4098860	QN : Does the judge think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	11658	deal.n	1342	Make_agreement_on_action	MANUAL	6532973	65	68	JKR	deal
+LINKED:[11	11	65	68	bn:00008568n		http://babelnet.org/rdf/s00008568n	1.0	0.16666667	0.027027028	BABELFY]
+RANK:=== COUNTER  Counter 24230 ===
+	Make_agreement_on_action: 40.0
+	Be_in_agreement_on_action: 40.0
+
+SELECTED:[Make_agreement_on_action]
+MATCH!
+SILVER:185	23578	3	21	0	4098860	QN : Does the judge think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	4993	avoid.v	274	Avoiding	MANUAL	6532974	73	77	JKR	avoid
+LINKED:[13	13	73	77	bn:00082642v		http://babelnet.org/rdf/s00082642v	1.0	0.16666667	0.027027028	BABELFY]
+RANK:=== COUNTER  Counter 24231 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	21	0	4098860	QN : Does the judge think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	3083	pay.v	180	Commerce_pay	MANUAL	6532975	79	84	JKR	paying
+LINKED:[14	14	79	84	bn:00091493v		http://babelnet.org/rdf/s00091493v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24232 ===
+	Commerce_pay: 44.0
+
+SELECTED:[Commerce_pay]
+MATCH!
+SILVER:185	23578	2	22	0	4098862	A US judge late on Thursday threw out Mr Kerkorian 's claims that Daimler had fraudulently described the 1998 deal bringing together Daimler-Benz and Chrysler as a merger rather than a takeover to avoid paying a premium .	4993	avoid.v	274	Avoiding	MANUAL	6533650	197	201	Hay	avoid
+LINKED:[33	33	197	201	bn:00082958v		http://babelnet.org/rdf/s00082958v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24233 ===
+	Avoiding: 20.0
+
+SELECTED:[Avoiding]
+MATCH!
+SILVER:185	23578	2	22	0	4098862	A US judge late on Thursday threw out Mr Kerkorian 's claims that Daimler had fraudulently described the 1998 deal bringing together Daimler-Benz and Chrysler as a merger rather than a takeover to avoid paying a premium .	12060	bring	13	Cause_to_amalgamate	MANUAL	6533651	115	122	Hay	bringing
+LINKED:[20	20	115	122	bn:00084058v		http://babelnet.org/rdf/s00084058v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24234 ===
+	Bringing: 7.916666666666667
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	22	0	4098863	QN : Does Mr Kerkorian think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	11959	think.v	1412	Opinion	MANUAL	6532949	23	27	JKR	think
+LINKED:[5	5	23	27	bn:00083370v		http://babelnet.org/rdf/s00083370v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24235 ===
+	Regard: 100.0
+	Opinion: 50.0
+	Categorization: 25.0
+	Awareness: 22.727272727272727
+
+SELECTED:[Opinion]
+MATCH!
+SILVER:185	23578	3	22	0	4098863	QN : Does Mr Kerkorian think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	9803	describe.v	796	Communicate_categorization	MANUAL	6532950	49	57	JKR	described
+LINKED:[8	8	49	57	bn:00082233v		http://babelnet.org/rdf/s00082233v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24236 ===
+	Reporting: 28.0
+	Statement: 4.375
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	22	0	4098863	QN : Does Mr Kerkorian think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	11658	deal.n	1342	Make_agreement_on_action	MANUAL	6532951	68	71	JKR	deal
+LINKED:[11	11	68	71	bn:00014152n		http://babelnet.org/rdf/s00014152n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24237 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	22	0	4098863	QN : Does Mr Kerkorian think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	4993	avoid.v	274	Avoiding	MANUAL	6532960	76	80	JKR	avoid
+LINKED:[13	13	76	80	bn:00082642v		http://babelnet.org/rdf/s00082642v	1.0	0.25	0.05	BABELFY]
+RANK:=== COUNTER  Counter 24238 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	22	0	4098863	QN : Does Mr Kerkorian think Daimler fraudlently described the 1998 deal to avoid paying a premium ?	3083	pay.v	180	Commerce_pay	MANUAL	6532961	82	87	JKR	paying
+LINKED:[14	14	82	87	bn:00091493v		http://babelnet.org/rdf/s00091493v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24239 ===
+	Commerce_pay: 44.0
+
+SELECTED:[Commerce_pay]
+MATCH!
+SILVER:185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	12758	refuse.v	1625	Agree_or_refuse_to_act	MANUAL	6532933	51	57	JKR	refused
+LINKED:[10	10	51	57	bn:00086390v		http://babelnet.org/rdf/s00086390v	1.0	0.0625	0.0015037594	BABELFY]
+RANK:=== COUNTER  Counter 24240 ===
+	Agree_or_refuse_to_act: 80.0
+	Respond_to_proposal: 40.0
+
+SELECTED:[Agree_or_refuse_to_act]
+MATCH!
+SILVER:185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	11733	component.n	1348	Ingredients	MANUAL	6532936	108	116	JKR	component
+LINKED:[20	20	108	116	bn:00021394n	http://dbpedia.org/resource/Aspect_of_music	http://babelnet.org/rdf/s00021394n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24241 ===
+	Ingredients: 102.5
+
+SELECTED:[Ingredients]
+MATCH!
+SILVER:185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	11677	supplier.n	1346	Supply	MANUAL	6532938	118	126	JKR	suppliers
+LINKED:[21	21	118	126	bn:00064912n		http://babelnet.org/rdf/s00064912n	0.8333333	0.25	0.030075189	BABELFY]
+RANK:=== COUNTER  Counter 24242 ===
+	Supply: 10.0
+
+SELECTED:[Supply]
+MATCH!
+SILVER:185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	1150	withdraw.v	63	Removing	MANUAL	6532939	128	135	JKR	withdrew
+LINKED:[22	22	128	135	bn:00087267v		http://babelnet.org/rdf/s00087267v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24243 ===
+	Change_event_time: 60.0
+	Quitting_a_place: 20.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	11358	halt.v	166	Activity_stop	MANUAL	6532940	178	181	JKR	halt
+LINKED:[30	30	178	181	bn:00089154v		http://babelnet.org/rdf/s00089154v	1.0	0.0625	0.0015037594	BABELFY]
+RANK:=== COUNTER  Counter 24244 ===
+	Halt: 190.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	11441	production.n	408	Manufacturing	MANUAL	6532941	183	192	JKR	production
+LINKED:[31	31	183	192	bn:00064590n		http://babelnet.org/rdf/s00064590n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24245 ===
+	Manufacturing: 25.0
+
+SELECTED:[Manufacturing]
+MATCH!
+SILVER:185	23578	2	23	0	4098865	MG Rover is on the brink of collapse after Britain refused to provide $100 million in emergency funding and component suppliers withdrew their support , forcing the car-maker to halt production .	11673	provide.v	1346	Supply	MANUAL	6535555	62	68	KmG	provide
+LINKED:[12	12	62	68	bn:00088643v		http://babelnet.org/rdf/s00088643v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24246 ===
+	Supply: 17.77777777777778
+
+SELECTED:[Supply]
+MATCH!
+SILVER:185	23578	3	23	0	4098866	QN : Does MG Rover make cars ?	7808	car.n	429	Vehicle	MANUAL	6532929	24	27	JKR	cars
+LINKED:[6	6	24	27	bn:00007309n	http://dbpedia.org/resource/Car	http://babelnet.org/rdf/s00007309n	0.95454544	0.75	0.20192307	BABELFY]
+RANK:=== COUNTER  Counter 24247 ===
+	Vehicle: 30.571428571428573
+
+SELECTED:[Vehicle]
+MATCH!
+SILVER:185	23578	2	24	0	4098868	A World Trade Organization ( WTO ) appeals panel Thursday ruled that although the United States can continue with its restrictions on internet gambling , some of the rules imposed by the country were discriminatory to foreign operators .	3683	country.n	195	Political_locales	MANUAL	6532919	187	193	JKR	country
+LINKED:[32	32	187	193	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24248 ===
+	Political_locales: 29.6875
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:185	23578	2	24	0	4098868	A World Trade Organization ( WTO ) appeals panel Thursday ruled that although the United States can continue with its restrictions on internet gambling , some of the rules imposed by the country were discriminatory to foreign operators .	12180	foreign.a	1483	Foreign_or_domestic_country	MANUAL	6532920	218	224	JKR	foreign
+LINKED:[36	36	218	224	bn:00103206a		http://babelnet.org/rdf/s00103206a	0.75	0.16666667	0.0025364617	BABELFY]
+RANK:=== COUNTER  Counter 24249 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	24	0	4098868	A World Trade Organization ( WTO ) appeals panel Thursday ruled that although the United States can continue with its restrictions on internet gambling , some of the rules imposed by the country were discriminatory to foreign operators .	5435	continue.v	164	Activity_ongoing	MANUAL	6532923	100	107	JKR	continue
+LINKED:[17	17	100	107	bn:00085719v		http://babelnet.org/rdf/s00085719v	0.8695652	0.16666667	0.002113718	BABELFY]
+RANK:=== COUNTER  Counter 24250 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	25	0	4098871	Video games have provided one of the last refuges from the ubiquitous advertising that hits consumers from every direction .	5626	hit.v	311	Impact	MANUAL	6532912	87	90	JKR	hits
+LINKED:[14	14	87	90	bn:00089346v		http://babelnet.org/rdf/s00089346v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24251 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	25	0	4098872	QN : Do video games contain advertisements ?	7296	contain.v	397	Containing	MANUAL	6532913	20	26	JKR	contain
+LINKED:[5	5	20	26	bn:00085499v		http://babelnet.org/rdf/s00085499v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24252 ===
+	Containing: 55.0
+	Inclusion: 36.666666666666664
+
+SELECTED:[Containing]
+MATCH!
+SILVER:185	23578	2	26	0	4098874	Bocelli grew up among the vineyards and olive groves of his estate in Lajatico , a community in rural Tuscany near Pisa .	10200	rural.a	196	Locale_by_use	MANUAL	6532911	96	100	JKR	rural
+LINKED:[18	18	96	100	bn:00109998a		http://babelnet.org/rdf/s00109998a	1.0	0.083333336	0.004149378	BABELFY]
+RANK:=== COUNTER  Counter 24253 ===
+	Locale_by_use: 2.0833333333333335
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:185	23578	3	26	0	4098875	QN : Does Bocelli have a home in Tuscany ?	3012	home.n	173	Buildings	MANUAL	6532910	25	28	JKR	home
+LINKED:[6	6	25	28	bn:10478007n		http://babelnet.org/rdf/s10478007n	1.0	0.5	0.16666667	BABELFY]
+RANK:=== COUNTER  Counter 24254 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	27	0	4098877	Mike Campbell dented his car door in an accident on Friday .	7599	dent.v	415	Damaging	MANUAL	6532906	14	19	JKR	dented
+LINKED:[2	2	14	19	bn:00086590v		http://babelnet.org/rdf/s00086590v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24255 ===
+	Damaging: 4.285714285714286
+	Reshaping: 3.5294117647058822
+
+SELECTED:[Damaging]
+MATCH!
+SILVER:185	23578	2	27	0	4098877	Mike Campbell dented his car door in an accident on Friday .	7808	car.n	429	Vehicle	MANUAL	6532907	25	27	JKR	car
+LINKED:[4	4	25	27	bn:00007309n	http://dbpedia.org/resource/Car	http://babelnet.org/rdf/s00007309n	0.98734176	1.0	0.52	BABELFY]
+RANK:=== COUNTER  Counter 24256 ===
+	Vehicle: 30.571428571428573
+
+SELECTED:[Vehicle]
+MATCH!
+SILVER:185	23578	3	27	0	4098878	QN : Does Mike 's car have a dent ?	7808	car.n	429	Vehicle	MANUAL	6532908	18	20	JKR	car
+LINKED:[5	5	18	20	bn:00015785n	http://dbpedia.org/resource/Railroad_car	http://babelnet.org/rdf/s00015785n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24257 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	160	know.v	19	Awareness	MANUAL	6532898	16	19	JKR	know
+LINKED:[3	3	16	19	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24258 ===
+	Certainty: 31.818181818181817
+	Awareness: 15.909090909090908
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	2143	mother.n	104	Kinship	MANUAL	6532900	27	32	JKR	mother
+LINKED:[5	5	27	32	bn:00034027n	http://dbpedia.org/resource/Mother	http://babelnet.org/rdf/s00034027n	0.87096775	0.21428572	0.059734512	BABELFY]
+RANK:=== COUNTER  Counter 24259 ===
+	Kinship: 20.6
+
+SELECTED:[Kinship]
+MATCH!
+SILVER:185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	924	die.v	53	Death	MANUAL	6532901	65	68	JKR	died
+LINKED:[11	11	65	68	bn:00084343v		http://babelnet.org/rdf/s00084343v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24260 ===
+	Rotting: 95.0
+	Death: 76.0
+
+SELECTED:[Death]
+MATCH!
+SILVER:185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	6412	want.v	366	Desiring	MANUAL	6532902	88	91	JKR	want
+LINKED:[15	15	88	91	bn:00086682v		http://babelnet.org/rdf/s00086682v	1.0	0.071428575	0.0022123894	BABELFY]
+RANK:=== COUNTER  Counter 24261 ===
+	Possession: 9.285714285714286
+	Desiring: 5.0
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	11949	find	20	Becoming_aware	MANUAL	6532903	96	99	JKR	find
+LINKED:[17	17	96	99	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24262 ===
+	Locating: 135.0
+	Becoming_aware: 24.545454545454547
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	4358	cancer.n	239	Medical_conditions	MANUAL	6532904	81	86	JKR	cancer
+LINKED:[14	14	81	86	bn:00015180n	http://dbpedia.org/resource/Cancer	http://babelnet.org/rdf/s00015180n	0.9230769	0.2857143	0.053097345	BABELFY]
+RANK:=== COUNTER  Counter 24263 ===
+	Medical_conditions: 12.028985507246377
+
+SELECTED:[Medical_conditions]
+MATCH!
+SILVER:185	23578	2	28	0	4098880	Two sisters who know their mother had genetic testing before she died of ovarian cancer want to find out her test results .	2156	sister.n	104	Kinship	MANUAL	6532905	4	10	JKR	sisters
+LINKED:[1	1	4	10	bn:00071838n		http://babelnet.org/rdf/s00071838n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24264 ===
+	Kinship: 4.0
+
+SELECTED:[Kinship]
+MATCH!
+SILVER:185	23578	3	28	0	4098881	QN : Did cancer cause their mother 's death ?	922	death.n	53	Death	MANUAL	6532895	38	42	JKR	death
+LINKED:[8	8	38	42	bn:00025582n	http://dbpedia.org/resource/Death	http://babelnet.org/rdf/s00025582n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24265 ===
+	Death: 74.0
+
+SELECTED:[Death]
+MATCH!
+SILVER:185	23578	3	28	0	4098881	QN : Did cancer cause their mother 's death ?	2143	mother.n	104	Kinship	MANUAL	6532896	28	33	JKR	mother
+LINKED:[6	6	28	33	bn:00029439n	http://dbpedia.org/resource/Mother_goddess	http://babelnet.org/rdf/s00029439n	1.0	0.5	0.06666667	BABELFY]
+RANK:=== COUNTER  Counter 24266 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	29	0	4098883	Marc Vaughn did n't kill the four hostages with a gun , he used a knife .	8630	kill.v	590	Killing	MANUAL	6532775	20	23	JKR	kill
+LINKED:[5	5	20	23	bn:00090098v		http://babelnet.org/rdf/s00090098v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24267 ===
+	Killing: 5.555555555555555
+
+SELECTED:[Killing]
+MATCH!
+SILVER:185	23578	2	29	0	4098883	Marc Vaughn did n't kill the four hostages with a gun , he used a knife .	10619	use.v	1141	Using	MANUAL	6532776	59	62	JKR	used
+LINKED:[14	14	59	62	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24268 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	2	29	0	4098883	Marc Vaughn did n't kill the four hostages with a gun , he used a knife .	7779	gun.n	426	Weapon	MANUAL	6532777	50	52	JKR	gun
+LINKED:[11	11	50	52	bn:00042221n	http://dbpedia.org/resource/Gun	http://babelnet.org/rdf/s00042221n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24269 ===
+	Weapon: 8.571428571428571
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:185	23578	3	29	0	4098884	QN : Did Vaughn use a gun to kill the four hostages ?	8630	kill.v	590	Killing	MANUAL	6532779	29	32	JKR	kill
+LINKED:[8	8	29	32	bn:00090098v		http://babelnet.org/rdf/s00090098v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24270 ===
+	Killing: 5.555555555555555
+
+SELECTED:[Killing]
+MATCH!
+SILVER:185	23578	3	29	0	4098884	QN : Did Vaughn use a gun to kill the four hostages ?	7779	gun.n	426	Weapon	MANUAL	6532780	22	24	JKR	gun
+LINKED:[6	6	22	24	bn:00042221n	http://dbpedia.org/resource/Gun	http://babelnet.org/rdf/s00042221n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24271 ===
+	Weapon: 8.571428571428571
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	10625	official.n	73	Leadership	MANUAL	6532766	29	37	JKR	officials
+LINKED:[6	6	29	37	bn:00036837n	http://dbpedia.org/resource/Official	http://babelnet.org/rdf/s00036837n	1.0	0.18181819	0.012396694	BABELFY]
+RANK:=== COUNTER  Counter 24272 ===
+	Leadership: 9.726027397260275
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	3013	hospital.n	173	Buildings	MANUAL	6532767	69	76	JKR	hospital
+LINKED:[13	13	69	76	bn:00044896n	http://dbpedia.org/resource/Hospital	http://babelnet.org/rdf/s00044896n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24273 ===
+	Buildings: 7.108433734939759
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	4746	construction.n	259	Building	MANUAL	6532768	94	105	JKR	construction
+LINKED:[18	18	94	105	bn:00013723n	http://dbpedia.org/resource/Construction	http://babelnet.org/rdf/s00013723n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24274 ===
+	Building: 84.44444444444444
+
+SELECTED:[Building]
+MATCH!
+SILVER:185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	12214	operate.v	1495	Operating_a_system	MANUAL	6532769	111	119	JKR	operating
+LINKED:[20	20	111	119	bn:00091177v		http://babelnet.org/rdf/s00091177v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24275 ===
+	Operating_a_system: 53.333333333333336
+	Using: 32.0
+
+SELECTED:[Operating_a_system]
+MATCH!
+SILVER:185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	9191	cost.n	83	Expensiveness	MANUAL	6532770	121	125	JKR	costs
+LINKED:[21	21	121	125	bn:00022995n	http://dbpedia.org/resource/Cost	http://babelnet.org/rdf/s00022995n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24276 ===
+	Expensiveness: 125.0
+
+SELECTED:[Expensiveness]
+MATCH!
+SILVER:185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	12566	new.a	1597	Familiarity	MANUAL	6532774	65	67	JKR	new
+LINKED:[12	12	65	67	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24277 ===
+	Familiarity: 50.0
+	Age: 35.714285714285715
+
+SELECTED:[Familiarity]
+MATCH!
+SILVER:185	23578	2	30	0	4098886	Early in the 1990s , Chinese officials made land available for a new hospital , and money for construction and operating costs .	10584	chinese.a	1103	Origin	MANUAL	6533169	21	27	RLG	Chinese
+LINKED:[5	5	21	27	bn:00018452n	http://dbpedia.org/resource/Chinese_language	http://babelnet.org/rdf/s00018452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24278 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23578	3	30	0	4098887	QN : Did officials from China make land available for a new hospital ?	10625	official.n	73	Leadership	MANUAL	6532771	9	17	JKR	officials
+LINKED:[3	3	9	17	bn:00036837n	http://dbpedia.org/resource/Official	http://babelnet.org/rdf/s00036837n	0.72727275	0.5	0.055944055	BABELFY]
+RANK:=== COUNTER  Counter 24279 ===
+	Leadership: 9.726027397260275
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:185	23578	3	30	0	4098887	QN : Did officials from China make land available for a new hospital ?	3013	hospital.n	173	Buildings	MANUAL	6532772	60	67	JKR	hospital
+LINKED:[12	12	60	67	bn:00044896n	http://dbpedia.org/resource/Hospital	http://babelnet.org/rdf/s00044896n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24280 ===
+	Buildings: 7.108433734939759
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:185	23578	3	30	0	4098887	QN : Did officials from China make land available for a new hospital ?	12566	new.a	1597	Familiarity	MANUAL	6532773	56	58	JKR	new
+LINKED:[11	11	56	58	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24281 ===
+	Familiarity: 50.0
+	Age: 35.714285714285715
+
+SELECTED:[Familiarity]
+MATCH!
+filename	KBEval__LCC-M.xml
+docAnnotations	286
+docManual	186
+docUnannotated	100
+sentences	92
+paragraphs	30
+Overlapping	153
+Disambiguated	115
+TP	93
+TN	100
+FP	0
+FN	71
+P	1.0
+R	0.5670731707317073
+F	0.7237354085603113
+A	0.7310606060606061

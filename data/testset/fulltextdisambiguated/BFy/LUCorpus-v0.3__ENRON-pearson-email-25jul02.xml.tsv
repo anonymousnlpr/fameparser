@@ -1,0 +1,36 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	tokenFragment	start	tokenFragment	end	charSegment	start	charSegment	end	babelSynsetID	DBpediaURL	BabelNetURL	score	coherenceScore	globalScore	source
+205	23719	1	1	0	4101513	Date : Wed , 25 Jul 2001 16:45:08 -0700 ( PDT )	0	0	0	3	bn:00005111n		http://babelnet.org/rdf/s00005111n	0.0	0.0	0.0	MCS
+205	23719	1	1	0	4101513	Date : Wed , 25 Jul 2001 16:45:08 -0700 ( PDT )	2	2	7	9	bn:00054897n	http://dbpedia.org/resource/Wednesday	http://babelnet.org/rdf/s00054897n	1.0	1.0	0.6666667	BABELFY
+205	23719	1	1	0	4101513	Date : Wed , 25 Jul 2001 16:45:08 -0700 ( PDT )	5	5	16	18	bn:00018835n	http://dbpedia.org/resource/Christmastide	http://babelnet.org/rdf/s00018835n	1.0	0.5	0.055555556	BABELFY
+205	23719	1	4	0	4101516	Subject : RE : Unclassified rules	0	0	0	6	bn:00022157n	http://dbpedia.org/resource/Subject_(philosophy)	http://babelnet.org/rdf/s00022157n	0.0	0.0	0.0	MCS
+205	23719	1	4	0	4101516	Subject : RE : Unclassified rules	5	5	28	32	bn:00066933n		http://babelnet.org/rdf/s00066933n	0.0	0.0	0.0	MCS
+205	23719	1	5	0	4101517	HOWDY ,	0	0	0	4	bn:00043620n	http://dbpedia.org/resource/Hello	http://babelnet.org/rdf/s00043620n	0.0	0.0	0.0	MCS
+205	23719	1	6	0	4101518	WHAT 'S BEEN GOING ON AMIGO .	3	3	13	17	bn:00040912n		http://babelnet.org/rdf/s00040912n	0.0	0.0	0.0	MCS
+205	23719	1	6	0	4101518	WHAT 'S BEEN GOING ON AMIGO .	5	5	22	26	bn:00003520n		http://babelnet.org/rdf/s00003520n	0.0	0.0	0.0	MCS
+205	23719	2	6	0	4101519	I HAVE NOT TALKED TO YOU IN A WHILE .	1	2	2	9	bn:13633424n		http://babelnet.org/rdf/s13633424n	0.0	0.0	0.0	MCS
+205	23719	3	6	0	4101520	GIVE YOU THE SCOPE OF WHATS BEEN GOING ON WITH ME .	3	3	13	17	bn:00069738n	http://dbpedia.org/resource/Telescope	http://babelnet.org/rdf/s00069738n	0.0	0.0	0.0	MCS
+205	23719	3	6	0	4101520	GIVE YOU THE SCOPE OF WHATS BEEN GOING ON WITH ME .	5	5	22	26	bn:13707663n		http://babelnet.org/rdf/s13707663n	0.0	0.0	0.0	MCS
+205	23719	3	6	0	4101520	GIVE YOU THE SCOPE OF WHATS BEEN GOING ON WITH ME .	7	7	33	37	bn:00040912n		http://babelnet.org/rdf/s00040912n	0.0	0.0	0.0	MCS
+205	23719	4	6	0	4101521	I LEFT OILSTATES BACK IN MARCH WITH ANOTHER COMPANY .	1	1	2	5	bn:00050521n	http://dbpedia.org/resource/Relative_direction	http://babelnet.org/rdf/s00050521n	0.0	0.0	0.0	MCS
+205	23719	4	6	0	4101521	I LEFT OILSTATES BACK IN MARCH WITH ANOTHER COMPANY .	5	5	25	29	bn:00053352n	http://dbpedia.org/resource/Marching	http://babelnet.org/rdf/s00053352n	1.0	1.0	0.5	BABELFY
+205	23719	4	6	0	4101521	I LEFT OILSTATES BACK IN MARCH WITH ANOTHER COMPANY .	8	8	44	50	bn:00021287n	http://dbpedia.org/resource/Company_(military_unit)	http://babelnet.org/rdf/s00021287n	1.0	1.0	0.5	BABELFY
+205	23719	5	6	0	4101522	DID A LOT OF TRAVELING AND THEY ( OILSTATES ) MADE ME A SWEET OFFER TO COME BACK .	0	0	0	2	bn:03151917n	http://dbpedia.org/resource/Dodecadodecahedron	http://babelnet.org/rdf/s03151917n	0.0	0.0	0.0	MCS
+205	23719	5	6	0	4101522	DID A LOT OF TRAVELING AND THEY ( OILSTATES ) MADE ME A SWEET OFFER TO COME BACK .	1	2	4	8	bn:13720553n		http://babelnet.org/rdf/s13720553n	0.0	0.0	0.0	MCS
+205	23719	5	6	0	4101522	DID A LOT OF TRAVELING AND THEY ( OILSTATES ) MADE ME A SWEET OFFER TO COME BACK .	2	2	6	8	bn:00052061n	http://dbpedia.org/resource/Land_lot	http://babelnet.org/rdf/s00052061n	0.0	0.0	0.0	MCS
+205	23719	5	6	0	4101522	DID A LOT OF TRAVELING AND THEY ( OILSTATES ) MADE ME A SWEET OFFER TO COME BACK .	4	4	13	21	bn:00078085n	http://dbpedia.org/resource/Travel	http://babelnet.org/rdf/s00078085n	1.0	1.0	0.5	BABELFY
+205	23719	5	6	0	4101522	DID A LOT OF TRAVELING AND THEY ( OILSTATES ) MADE ME A SWEET OFFER TO COME BACK .	13	13	56	60	bn:01797400n	http://dbpedia.org/resource/Sweet_(company)	http://babelnet.org/rdf/s01797400n	1.0	1.0	0.5	BABELFY
+205	23719	5	6	0	4101522	DID A LOT OF TRAVELING AND THEY ( OILSTATES ) MADE ME A SWEET OFFER TO COME BACK .	14	14	62	66	bn:00058678n		http://babelnet.org/rdf/s00058678n	0.0	0.0	0.0	MCS
+205	23719	1	7	0	4101524	WHO 'S GETTING MARRIED ?	2	2	7	13	bn:00001004n		http://babelnet.org/rdf/s00001004n	0.0	0.0	0.0	MCS
+205	23719	1	7	0	4101524	WHO 'S GETTING MARRIED ?	2	3	7	21	bn:03635750n	http://dbpedia.org/resource/Getting_Married_(Strindberg)	http://babelnet.org/rdf/s03635750n	0.0	0.0	0.0	MCS
+205	23719	1	7	0	4101524	WHO 'S GETTING MARRIED ?	3	3	15	21	bn:00053530n		http://babelnet.org/rdf/s00053530n	0.0	0.0	0.0	MCS
+205	23719	2	7	0	4101525	SOUNDS LIKE THIS IS GOING TO BE A GREAT BACHELOR PARTY .	0	0	0	5	bn:00000986n	http://dbpedia.org/resource/Acoustic_wave	http://babelnet.org/rdf/s00000986n	1.0	0.33333334	0.02173913	BABELFY
+205	23719	2	7	0	4101525	SOUNDS LIKE THIS IS GOING TO BE A GREAT BACHELOR PARTY .	1	1	7	10	bn:00051181n		http://babelnet.org/rdf/s00051181n	0.0	0.0	0.0	MCS
+205	23719	2	7	0	4101525	SOUNDS LIKE THIS IS GOING TO BE A GREAT BACHELOR PARTY .	4	4	20	24	bn:00040912n		http://babelnet.org/rdf/s00040912n	0.0	0.0	0.0	MCS
+205	23719	2	7	0	4101525	SOUNDS LIKE THIS IS GOING TO BE A GREAT BACHELOR PARTY .	4	5	20	27	bn:03237208n	http://dbpedia.org/resource/Going-to_future	http://babelnet.org/rdf/s03237208n	0.0	0.0	0.0	MCS
+205	23719	2	7	0	4101525	SOUNDS LIKE THIS IS GOING TO BE A GREAT BACHELOR PARTY .	8	8	34	38	bn:00041551n		http://babelnet.org/rdf/s00041551n	0.0	0.0	0.0	MCS
+205	23719	2	7	0	4101525	SOUNDS LIKE THIS IS GOING TO BE A GREAT BACHELOR PARTY .	9	9	40	47	bn:00007702n	http://dbpedia.org/resource/Bachelor	http://babelnet.org/rdf/s00007702n	1.0	0.6666667	0.2173913	BABELFY
+205	23719	2	7	0	4101525	SOUNDS LIKE THIS IS GOING TO BE A GREAT BACHELOR PARTY .	9	10	40	53	bn:00007718n	http://dbpedia.org/resource/Bachelor_party	http://babelnet.org/rdf/s00007718n	0.0	0.0	0.0	MCS
+205	23719	2	7	0	4101525	SOUNDS LIKE THIS IS GOING TO BE A GREAT BACHELOR PARTY .	10	10	49	53	bn:00060834n	http://dbpedia.org/resource/Political_party	http://babelnet.org/rdf/s00060834n	0.0	0.0	0.0	MCS
+205	23719	3	7	0	4101526	GIVE ME A CALL SOMETIME CELL : 713 991 - 5621 .	3	3	10	13	bn:00014791n	http://dbpedia.org/resource/Telephone_call	http://babelnet.org/rdf/s00014791n	0.0	0.0	0.0	MCS
+205	23719	3	7	0	4101526	GIVE ME A CALL SOMETIME CELL : 713 991 - 5621 .	5	5	24	27	bn:00017029n	http://dbpedia.org/resource/Mobile_phone	http://babelnet.org/rdf/s00017029n	1.0	1.0	0.5	BABELFY
+205	23719	1	8	0	4101527	ROB	0	0	0	2	bn:02736667n	http://dbpedia.org/resource/Rob_(TV_series)	http://babelnet.org/rdf/s02736667n	0.0	0.0	0.0	MCS

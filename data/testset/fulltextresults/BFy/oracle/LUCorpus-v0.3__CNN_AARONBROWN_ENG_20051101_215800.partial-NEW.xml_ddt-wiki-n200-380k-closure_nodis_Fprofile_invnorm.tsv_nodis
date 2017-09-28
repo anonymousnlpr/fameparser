@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__CNN_AARONBROWN_ENG_20051101_215800.partial-NEW.xml
+docAnnotations	424
+docManual	330
+docUnannotated	94
+sentences	86
+paragraphs	42
+Overlapping	252
+Disambiguated	169
+TP	126
+TN	94
+FP	0
+FN	161
+P	1.0
+R	0.43902439024390244
+F	0.6101694915254238
+A	0.5774278215223098

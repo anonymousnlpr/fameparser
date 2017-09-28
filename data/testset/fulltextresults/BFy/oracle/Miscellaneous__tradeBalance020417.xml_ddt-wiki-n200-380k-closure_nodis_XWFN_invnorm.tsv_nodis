@@ -1,0 +1,16 @@
+filename	Miscellaneous__tradeBalance020417.xml
+docAnnotations	123
+docManual	85
+docUnannotated	38
+sentences	12
+paragraphs	4
+Overlapping	48
+Disambiguated	19
+TP	14
+TN	38
+FP	0
+FN	66
+P	1.0
+R	0.175
+F	0.2978723404255319
+A	0.4406779661016949

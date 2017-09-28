@@ -1,0 +1,354 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+185	23577	1	1	0	4098590	ID:ATM1-1 .	null	null	null	null	UNANN	6531331	null	null	null	null
+185	23577	2	1	0	4098646	John took the plane from Paris to Baghdad .	null	null	null	null	UNANN	6531387	null	null	null	null
+185	23577	2	1	0	4098646	John took the plane from Paris to Baghdad .	7836	plane.n	429	Vehicle	MANUAL	6533125	14	18	MiL	plane
+185	23577	2	1	0	4098646	John took the plane from Paris to Baghdad .	8757	take.v	690	Ride_vehicle	MANUAL	6533127	5	8	MiL	took
+185	23577	3	1	0	4098647	On the way the plane stopped in Rome .	null	null	null	null	UNANN	6531388	null	null	null	null
+185	23577	3	1	0	4098647	On the way the plane stopped in Rome .	10264	stop.v	1024	Halt	MANUAL	6533130	21	27	MiL	stopped
+185	23577	3	1	0	4098647	On the way the plane stopped in Rome .	7836	plane.n	429	Vehicle	MANUAL	6533132	15	19	MiL	plane
+185	23577	4	1	0	4098648	Steve , who was sitting next to John , got down in Rome .	null	null	null	null	UNANN	6531389	null	null	null	null
+185	23577	4	1	0	4098648	Steve , who was sitting next to John , got down in Rome .	137	sit.v	18	Posture	MANUAL	6533136	16	22	MiL	sitting
+185	23577	4	1	0	4098648	Steve , who was sitting next to John , got down in Rome .	12825	get.v	1634	Disembarking	MANUAL	6533405	39	41	MJE	got
+185	23577	5	1	0	4098649	QN : Is John in Baghdad ?	null	null	null	null	UNANN	6531390	null	null	null	null
+185	23577	5	1	0	4098649	QN : Is John in Baghdad ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533138	13	14	MiL	in
+185	23577	1	2	0	4098650	ID:ATM1-2 .	null	null	null	null	UNANN	6531391	null	null	null	null
+185	23577	2	2	0	4098651	John took the plane from Paris to Baghdad .	null	null	null	null	UNANN	6531392	null	null	null	null
+185	23577	2	2	0	4098651	John took the plane from Paris to Baghdad .	7836	plane.n	429	Vehicle	MANUAL	6533535	14	18	Hay	plane
+185	23577	2	2	0	4098651	John took the plane from Paris to Baghdad .	8757	take.v	690	Ride_vehicle	MANUAL	6533536	5	8	Hay	took
+185	23577	3	2	0	4098652	On the way the plane stopped in Rome .	null	null	null	null	UNANN	6531393	null	null	null	null
+185	23577	3	2	0	4098652	On the way the plane stopped in Rome .	10264	stop.v	1024	Halt	MANUAL	6533555	21	27	Hay	stopped
+185	23577	3	2	0	4098652	On the way the plane stopped in Rome .	7836	plane.n	429	Vehicle	MANUAL	6533556	15	19	Hay	plane
+185	23577	4	2	0	4098653	Steve , who was sitting next to John , got down in Rome .	null	null	null	null	UNANN	6531394	null	null	null	null
+185	23577	4	2	0	4098653	Steve , who was sitting next to John , got down in Rome .	137	sit.v	18	Posture	MANUAL	6533567	16	22	Hay	sitting
+185	23577	4	2	0	4098653	Steve , who was sitting next to John , got down in Rome .	12825	get.v	1634	Disembarking	MANUAL	6533568	39	41	Hay	got
+185	23577	5	2	0	4098654	QN : Is John in Paris ?	null	null	null	null	UNANN	6531395	null	null	null	null
+185	23577	5	2	0	4098654	QN : Is John in Paris ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533140	13	14	MiL	in
+185	23577	1	3	0	4098655	ID:ATM1-3 .	null	null	null	null	UNANN	6531396	null	null	null	null
+185	23577	2	3	0	4098656	John took the plane from Paris to Baghdad .	null	null	null	null	UNANN	6531397	null	null	null	null
+185	23577	2	3	0	4098656	John took the plane from Paris to Baghdad .	7836	plane.n	429	Vehicle	MANUAL	6533537	14	18	Hay	plane
+185	23577	2	3	0	4098656	John took the plane from Paris to Baghdad .	8757	take.v	690	Ride_vehicle	MANUAL	6533538	5	8	Hay	took
+185	23577	3	3	0	4098657	On the way the plane stopped in Rome .	null	null	null	null	UNANN	6531398	null	null	null	null
+185	23577	3	3	0	4098657	On the way the plane stopped in Rome .	10264	stop.v	1024	Halt	MANUAL	6533557	21	27	Hay	stopped
+185	23577	3	3	0	4098657	On the way the plane stopped in Rome .	7836	plane.n	429	Vehicle	MANUAL	6533558	15	19	Hay	plane
+185	23577	4	3	0	4098658	Steve , who was sitting next to John , got down in Rome .	null	null	null	null	UNANN	6531399	null	null	null	null
+185	23577	4	3	0	4098658	Steve , who was sitting next to John , got down in Rome .	137	sit.v	18	Posture	MANUAL	6533569	16	22	Hay	sitting
+185	23577	4	3	0	4098658	Steve , who was sitting next to John , got down in Rome .	12825	get.v	1634	Disembarking	MANUAL	6533570	39	41	Hay	got
+185	23577	5	3	0	4098659	QN : Was John in Paris ?	null	null	null	null	UNANN	6531400	null	null	null	null
+185	23577	5	3	0	4098659	QN : Was John in Paris ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533142	14	15	MiL	in
+185	23577	1	4	0	4098660	ID:ATM1-4 .	null	null	null	null	UNANN	6531401	null	null	null	null
+185	23577	2	4	0	4098661	John took the plane from Paris to Baghdad .	null	null	null	null	UNANN	6531402	null	null	null	null
+185	23577	2	4	0	4098661	John took the plane from Paris to Baghdad .	7836	plane.n	429	Vehicle	MANUAL	6533539	14	18	Hay	plane
+185	23577	2	4	0	4098661	John took the plane from Paris to Baghdad .	8757	take.v	690	Ride_vehicle	MANUAL	6533540	5	8	Hay	took
+185	23577	3	4	0	4098662	On the way the plane stopped in Rome .	null	null	null	null	UNANN	6531403	null	null	null	null
+185	23577	3	4	0	4098662	On the way the plane stopped in Rome .	10264	stop.v	1024	Halt	MANUAL	6533559	21	27	Hay	stopped
+185	23577	3	4	0	4098662	On the way the plane stopped in Rome .	7836	plane.n	429	Vehicle	MANUAL	6533560	15	19	Hay	plane
+185	23577	4	4	0	4098663	Steve , who was sitting next to John , got down in Rome .	null	null	null	null	UNANN	6531404	null	null	null	null
+185	23577	4	4	0	4098663	Steve , who was sitting next to John , got down in Rome .	137	sit.v	18	Posture	MANUAL	6533571	16	22	Hay	sitting
+185	23577	4	4	0	4098663	Steve , who was sitting next to John , got down in Rome .	12825	get.v	1634	Disembarking	MANUAL	6533572	39	41	Hay	got
+185	23577	5	4	0	4098664	QN : Was John in Rome ?	null	null	null	null	UNANN	6531405	null	null	null	null
+185	23577	5	4	0	4098664	QN : Was John in Rome ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533145	14	15	MiL	in
+185	23577	1	5	0	4098665	ID:ATM1-5 .	null	null	null	null	UNANN	6531406	null	null	null	null
+185	23577	2	5	0	4098666	John took the plane from Paris to Baghdad .	null	null	null	null	UNANN	6531407	null	null	null	null
+185	23577	2	5	0	4098666	John took the plane from Paris to Baghdad .	7836	plane.n	429	Vehicle	MANUAL	6533541	14	18	Hay	plane
+185	23577	2	5	0	4098666	John took the plane from Paris to Baghdad .	8757	take.v	690	Ride_vehicle	MANUAL	6533542	5	8	Hay	took
+185	23577	3	5	0	4098667	On the way the plane stopped in Rome .	null	null	null	null	UNANN	6531408	null	null	null	null
+185	23577	3	5	0	4098667	On the way the plane stopped in Rome .	10264	stop.v	1024	Halt	MANUAL	6533561	21	27	Hay	stopped
+185	23577	3	5	0	4098667	On the way the plane stopped in Rome .	7836	plane.n	429	Vehicle	MANUAL	6533562	15	19	Hay	plane
+185	23577	4	5	0	4098668	Steve , who was sitting next to John , got down in Rome .	null	null	null	null	UNANN	6531409	null	null	null	null
+185	23577	4	5	0	4098668	Steve , who was sitting next to John , got down in Rome .	137	sit.v	18	Posture	MANUAL	6533573	16	22	Hay	sitting
+185	23577	4	5	0	4098668	Steve , who was sitting next to John , got down in Rome .	12825	get.v	1634	Disembarking	MANUAL	6533574	39	41	Hay	got
+185	23577	5	5	0	4098669	QN : Where was John in Rome ?	null	null	null	null	UNANN	6531410	null	null	null	null
+185	23577	5	5	0	4098669	QN : Where was John in Rome ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533148	20	21	MiL	in
+185	23577	1	6	0	4098670	ID:ATM1-6 .	null	null	null	null	UNANN	6531411	null	null	null	null
+185	23577	2	6	0	4098671	John took the plane from Paris to Baghdad .	null	null	null	null	UNANN	6531412	null	null	null	null
+185	23577	2	6	0	4098671	John took the plane from Paris to Baghdad .	7836	plane.n	429	Vehicle	MANUAL	6533543	14	18	Hay	plane
+185	23577	2	6	0	4098671	John took the plane from Paris to Baghdad .	8757	take.v	690	Ride_vehicle	MANUAL	6533544	5	8	Hay	took
+185	23577	3	6	0	4098672	On the way the plane stopped in Rome .	null	null	null	null	UNANN	6531413	null	null	null	null
+185	23577	3	6	0	4098672	On the way the plane stopped in Rome .	10264	stop.v	1024	Halt	MANUAL	6533563	21	27	Hay	stopped
+185	23577	3	6	0	4098672	On the way the plane stopped in Rome .	7836	plane.n	429	Vehicle	MANUAL	6533564	15	19	Hay	plane
+185	23577	4	6	0	4098673	Steve , who was sitting next to John , got down in Rome .	null	null	null	null	UNANN	6531414	null	null	null	null
+185	23577	4	6	0	4098673	Steve , who was sitting next to John , got down in Rome .	137	sit.v	18	Posture	MANUAL	6533575	16	22	Hay	sitting
+185	23577	4	6	0	4098673	Steve , who was sitting next to John , got down in Rome .	12825	get.v	1634	Disembarking	MANUAL	6533576	39	41	Hay	got
+185	23577	5	6	0	4098674	QN : Did John pass through the Rome airport customs area ?	null	null	null	null	UNANN	6531415	null	null	null	null
+185	23577	5	6	0	4098674	QN : Did John pass through the Rome airport customs area ?	3694	area.n	192	Locale	MANUAL	6533154	52	55	MiL	area
+185	23577	5	6	0	4098674	QN : Did John pass through the Rome airport customs area ?	12878	pass.v	1310	Traversing	MANUAL	6533796	14	17	MJE	pass
+185	23577	1	7	0	4098675	ID:ATM1-7 .	null	null	null	null	UNANN	6531416	null	null	null	null
+185	23577	2	7	0	4098676	John took the plane from Paris to Baghdad .	null	null	null	null	UNANN	6531417	null	null	null	null
+185	23577	2	7	0	4098676	John took the plane from Paris to Baghdad .	7836	plane.n	429	Vehicle	MANUAL	6533545	14	18	Hay	plane
+185	23577	2	7	0	4098676	John took the plane from Paris to Baghdad .	8757	take.v	690	Ride_vehicle	MANUAL	6533546	5	8	Hay	took
+185	23577	3	7	0	4098677	On the way the plane stopped in Rome .	null	null	null	null	UNANN	6531418	null	null	null	null
+185	23577	3	7	0	4098677	On the way the plane stopped in Rome .	10264	stop.v	1024	Halt	MANUAL	6533565	21	27	Hay	stopped
+185	23577	3	7	0	4098677	On the way the plane stopped in Rome .	7836	plane.n	429	Vehicle	MANUAL	6533566	15	19	Hay	plane
+185	23577	4	7	0	4098678	Steve , who was sitting next to John , got down in Rome .	null	null	null	null	UNANN	6531419	null	null	null	null
+185	23577	4	7	0	4098678	Steve , who was sitting next to John , got down in Rome .	137	sit.v	18	Posture	MANUAL	6533577	16	22	Hay	sitting
+185	23577	4	7	0	4098678	Steve , who was sitting next to John , got down in Rome .	12825	get.v	1634	Disembarking	MANUAL	6533578	39	41	Hay	got
+185	23577	5	7	0	4098679	QN : Did Steve pass through the Rome airport customs area ?	null	null	null	null	UNANN	6531420	null	null	null	null
+185	23577	5	7	0	4098679	QN : Did Steve pass through the Rome airport customs area ?	12878	pass.v	1310	Traversing	MANUAL	6533797	15	18	MJE	pass
+185	23577	1	8	0	4098680	ID:ATM2-1 .	null	null	null	null	UNANN	6531421	null	null	null	null
+185	23577	2	8	0	4098681	John took the plane from Paris to Baghdad .	null	null	null	null	UNANN	6531422	null	null	null	null
+185	23577	2	8	0	4098681	John took the plane from Paris to Baghdad .	7836	plane.n	429	Vehicle	MANUAL	6533547	14	18	Hay	plane
+185	23577	2	8	0	4098681	John took the plane from Paris to Baghdad .	8757	take.v	690	Ride_vehicle	MANUAL	6533548	5	8	Hay	took
+185	23577	3	8	0	4098682	On the way the plane stopped in Rome , where John was arrested .	null	null	null	null	UNANN	6531423	null	null	null	null
+185	23577	3	8	0	4098682	On the way the plane stopped in Rome , where John was arrested .	7836	plane.n	429	Vehicle	MANUAL	6533165	15	19	MiL	plane
+185	23577	3	8	0	4098682	On the way the plane stopped in Rome , where John was arrested .	10264	stop.v	1024	Halt	MANUAL	6533167	21	27	MiL	stopped
+185	23577	3	8	0	4098682	On the way the plane stopped in Rome , where John was arrested .	4733	arrest.v	202	Arrest	MANUAL	6533170	54	61	MiL	arrested
+185	23577	4	8	0	4098683	QN : Is John in Baghdad ?	null	null	null	null	UNANN	6531424	null	null	null	null
+185	23577	4	8	0	4098683	QN : Is John in Baghdad ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533579	13	14	Hay	in
+185	23577	1	9	0	4098684	ID:ATM2-2 .	null	null	null	null	UNANN	6531425	null	null	null	null
+185	23577	2	9	0	4098685	John took the plane from Paris to Baghdad .	null	null	null	null	UNANN	6531426	null	null	null	null
+185	23577	2	9	0	4098685	John took the plane from Paris to Baghdad .	7836	plane.n	429	Vehicle	MANUAL	6533549	14	18	Hay	plane
+185	23577	2	9	0	4098685	John took the plane from Paris to Baghdad .	8757	take.v	690	Ride_vehicle	MANUAL	6533550	5	8	Hay	took
+185	23577	3	9	0	4098686	On the way the plane stopped in Rome , where John was arrested .	null	null	null	null	UNANN	6531427	null	null	null	null
+185	23577	3	9	0	4098686	On the way the plane stopped in Rome , where John was arrested .	7836	plane.n	429	Vehicle	MANUAL	6533580	15	19	Hay	plane
+185	23577	3	9	0	4098686	On the way the plane stopped in Rome , where John was arrested .	10264	stop.v	1024	Halt	MANUAL	6533581	21	27	Hay	stopped
+185	23577	3	9	0	4098686	On the way the plane stopped in Rome , where John was arrested .	4733	arrest.v	202	Arrest	MANUAL	6533582	54	61	Hay	arrested
+185	23577	4	9	0	4098687	QN : Where is John ?	null	null	null	null	UNANN	6531428	null	null	null	null
+185	23577	1	10	0	4098688	ID:ATM2-3 .	null	null	null	null	UNANN	6531429	null	null	null	null
+185	23577	2	10	0	4098689	John took the plane from Paris to Baghdad .	null	null	null	null	UNANN	6531430	null	null	null	null
+185	23577	2	10	0	4098689	John took the plane from Paris to Baghdad .	7836	plane.n	429	Vehicle	MANUAL	6533551	14	18	Hay	plane
+185	23577	2	10	0	4098689	John took the plane from Paris to Baghdad .	8757	take.v	690	Ride_vehicle	MANUAL	6533552	5	8	Hay	took
+185	23577	3	10	0	4098690	On the way the plane stopped in Rome , where John was arrested .	null	null	null	null	UNANN	6531431	null	null	null	null
+185	23577	3	10	0	4098690	On the way the plane stopped in Rome , where John was arrested .	7836	plane.n	429	Vehicle	MANUAL	6533583	15	19	Hay	plane
+185	23577	3	10	0	4098690	On the way the plane stopped in Rome , where John was arrested .	10264	stop.v	1024	Halt	MANUAL	6533584	21	27	Hay	stopped
+185	23577	3	10	0	4098690	On the way the plane stopped in Rome , where John was arrested .	4733	arrest.v	202	Arrest	MANUAL	6533585	54	61	Hay	arrested
+185	23577	4	10	0	4098691	QN : Did John pass through the Rome airport customs ?	null	null	null	null	UNANN	6531432	null	null	null	null
+185	23577	4	10	0	4098691	QN : Did John pass through the Rome airport customs ?	12878	pass.v	1310	Traversing	MANUAL	6533798	14	17	MJE	pass
+185	23577	1	11	0	4098692	ID:ATM2-4 .	null	null	null	null	UNANN	6531433	null	null	null	null
+185	23577	2	11	0	4098693	John took the plane from Paris to Baghdad .	null	null	null	null	UNANN	6531434	null	null	null	null
+185	23577	2	11	0	4098693	John took the plane from Paris to Baghdad .	7836	plane.n	429	Vehicle	MANUAL	6533553	14	18	Hay	plane
+185	23577	2	11	0	4098693	John took the plane from Paris to Baghdad .	8757	take.v	690	Ride_vehicle	MANUAL	6533554	5	8	Hay	took
+185	23577	3	11	0	4098694	On the way the plane stopped in Rome , where John was arrested .	null	null	null	null	UNANN	6531435	null	null	null	null
+185	23577	3	11	0	4098694	On the way the plane stopped in Rome , where John was arrested .	7836	plane.n	429	Vehicle	MANUAL	6533586	15	19	Hay	plane
+185	23577	3	11	0	4098694	On the way the plane stopped in Rome , where John was arrested .	10264	stop.v	1024	Halt	MANUAL	6533587	21	27	Hay	stopped
+185	23577	3	11	0	4098694	On the way the plane stopped in Rome , where John was arrested .	4733	arrest.v	202	Arrest	MANUAL	6533588	54	61	Hay	arrested
+185	23577	4	11	0	4098695	QN : Is the plane in Baghdad ?	null	null	null	null	UNANN	6531436	null	null	null	null
+185	23577	4	11	0	4098695	QN : Is the plane in Baghdad ?	7836	plane.n	429	Vehicle	MANUAL	6533175	12	16	MiL	plane
+185	23577	4	11	0	4098695	QN : Is the plane in Baghdad ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533177	18	19	MiL	in
+185	23577	1	12	0	4098696	ID:ATM3-1 .	null	null	null	null	UNANN	6531437	null	null	null	null
+185	23577	2	12	0	4098697	John is a US citizen .	null	null	null	null	UNANN	6531438	null	null	null	null
+185	23577	2	12	0	4098697	John is a US citizen .	10245	citizen.n	1023	People_by_jurisdiction	MANUAL	6533178	13	19	MiL	citizen
+185	23577	3	12	0	4098698	He is in Boston on Dec 1 .	null	null	null	null	UNANN	6531439	null	null	null	null
+185	23577	3	12	0	4098698	He is in Boston on Dec 1 .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533179	6	7	MiL	in
+185	23577	4	12	0	4098699	That day he applied for the passport .	null	null	null	null	UNANN	6531440	null	null	null	null
+185	23577	5	12	0	4098700	QN : Can he go to Paris on Dec. 1 ?	null	null	null	null	UNANN	6531441	null	null	null	null
+185	23577	5	12	0	4098700	QN : Can he go to Paris on Dec. 1 ?	4345	go.v	7	Motion	MANUAL	6533254	12	13	MJE	go
+185	23577	5	12	0	4098700	QN : Can he go to Paris on Dec. 1 ?	10156	can.v	990	Capability	MANUAL	6533255	5	7	MJE	Can
+185	23577	1	13	0	4098701	ID:ATM3-2 .	null	null	null	null	UNANN	6531442	null	null	null	null
+185	23577	2	13	0	4098702	John is a US citizen .	null	null	null	null	UNANN	6531443	null	null	null	null
+185	23577	2	13	0	4098702	John is a US citizen .	10245	citizen.n	1023	People_by_jurisdiction	MANUAL	6533589	13	19	Hay	citizen
+185	23577	3	13	0	4098703	He is in Boston on Dec 1 .	null	null	null	null	UNANN	6531444	null	null	null	null
+185	23577	3	13	0	4098703	He is in Boston on Dec 1 .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533591	6	7	Hay	in
+185	23577	4	13	0	4098704	That day he applied for the passport .	null	null	null	null	UNANN	6531445	null	null	null	null
+185	23577	5	13	0	4098705	QN : Can he go to Paris on Dec 14th ?	null	null	null	null	UNANN	6531446	null	null	null	null
+185	23577	5	13	0	4098705	QN : Can he go to Paris on Dec 14th ?	4345	go.v	7	Motion	MANUAL	6533271	12	13	MJE	go
+185	23577	5	13	0	4098705	QN : Can he go to Paris on Dec 14th ?	10156	can.v	990	Capability	MANUAL	6533272	5	7	MJE	Can
+185	23577	1	14	0	4098706	ID:ATM3-3 .	null	null	null	null	UNANN	6531447	null	null	null	null
+185	23577	2	14	0	4098707	John is a US citizen .	null	null	null	null	UNANN	6531448	null	null	null	null
+185	23577	2	14	0	4098707	John is a US citizen .	10245	citizen.n	1023	People_by_jurisdiction	MANUAL	6533590	13	19	Hay	citizen
+185	23577	3	14	0	4098708	He is in Boston on Dec 1 .	null	null	null	null	UNANN	6531449	null	null	null	null
+185	23577	3	14	0	4098708	He is in Boston on Dec 1 .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533592	6	7	Hay	in
+185	23577	4	14	0	4098709	That day he applied for the passport .	null	null	null	null	UNANN	6531450	null	null	null	null
+185	23577	5	14	0	4098710	QN : Can he go to Paris on the Jan 10th ?	null	null	null	null	UNANN	6531451	null	null	null	null
+185	23577	5	14	0	4098710	QN : Can he go to Paris on the Jan 10th ?	4345	go.v	7	Motion	MANUAL	6533274	12	13	MJE	go
+185	23577	5	14	0	4098710	QN : Can he go to Paris on the Jan 10th ?	10156	can.v	990	Capability	MANUAL	6533277	5	7	MJE	Can
+185	23577	1	15	0	4098711	ID:ATM4-1 .	null	null	null	null	UNANN	6531452	null	null	null	null
+185	23577	2	15	0	4098712	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	null	null	null	null	UNANN	6531453	null	null	null	null
+185	23577	2	15	0	4098712	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	4470	carry.v	240	Bringing	MANUAL	6533195	18	24	MJE	carries
+185	23577	2	15	0	4098712	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	8757	take.v	690	Ride_vehicle	MANUAL	6533209	48	51	MJE	took
+185	23577	3	15	0	4098713	QN : In which city is John 's laptop on the evening of Dec 10th ?	null	null	null	null	UNANN	6531454	null	null	null	null
+185	23577	3	15	0	4098713	QN : In which city is John 's laptop on the evening of Dec 10th ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533342	5	6	JKR	In
+185	23577	3	15	0	4098713	QN : In which city is John 's laptop on the evening of Dec 10th ?	10204	city.n	196	Locale_by_use	MANUAL	6533376	14	17	JKR	city
+185	23577	1	16	0	4098714	ID:ATM4-2 .	null	null	null	null	UNANN	6531455	null	null	null	null
+185	23577	2	16	0	4098715	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	null	null	null	null	UNANN	6531456	null	null	null	null
+185	23577	2	16	0	4098715	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	4470	carry.v	240	Bringing	MANUAL	6533593	18	24	Hay	carries
+185	23577	2	16	0	4098715	John , who always carries his laptop with him , took a flight from Boston to Paris on the morning of Dec 11th .	8757	take.v	690	Ride_vehicle	MANUAL	6533594	48	51	Hay	took
+185	23577	3	16	0	4098716	QN : In which city is John 's laptop on the evening of Dec 11th ?	null	null	null	null	UNANN	6531457	null	null	null	null
+185	23577	3	16	0	4098716	QN : In which city is John 's laptop on the evening of Dec 11th ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533343	5	6	JKR	In
+185	23577	3	16	0	4098716	QN : In which city is John 's laptop on the evening of Dec 11th ?	10204	city.n	196	Locale_by_use	MANUAL	6533377	14	17	JKR	city
+185	23577	1	17	0	4098717	ID:ATM5-1 .	null	null	null	null	UNANN	6531458	null	null	null	null
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	null	null	null	null	UNANN	6531459	null	null	null	null
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	5957	travel.v	343	Travel	MANUAL	6533279	11	17	MJE	travels
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	4345	go.v	7	Motion	MANUAL	6533286	100	101	MJE	go
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	11816	must.v	1381	Required_event	MANUAL	6533288	83	86	MJE	must
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	6735	at.prep	199	Locative_relation	MANUAL	6533298	37	38	MJE	at
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533299	45	46	MJE	in
+185	23577	2	17	0	4098718	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	5273	call.n	286	Contacting	MANUAL	6533344	70	73	JKR	call
+185	23577	3	17	0	4098719	QN : Can he just get on a plane and fly to Paris ?	null	null	null	null	UNANN	6531460	null	null	null	null
+185	23577	3	17	0	4098719	QN : Can he just get on a plane and fly to Paris ?	8754	fly.v	690	Ride_vehicle	MANUAL	6533369	36	38	JKR	fly
+185	23577	3	17	0	4098719	QN : Can he just get on a plane and fly to Paris ?	12808	get.v	1633	Board_vehicle	MANUAL	6533410	17	19	JKR	get
+185	23577	1	18	0	4098720	ID:ATM5-2 .	null	null	null	null	UNANN	6531461	null	null	null	null
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	null	null	null	null	UNANN	6531462	null	null	null	null
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	5957	travel.v	343	Travel	MANUAL	6533595	11	17	Hay	travels
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	4345	go.v	7	Motion	UNANN	6533596	null	null	null	null
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	4345	go.v	7	Motion	UNANN	6533596	100	101	Hay	go
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	11816	must.v	1381	Required_event	MANUAL	6533597	83	86	Hay	must
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	6735	at.prep	199	Locative_relation	MANUAL	6533598	37	38	Hay	at
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533599	45	46	Hay	in
+185	23577	2	18	0	4098721	John , who travels abroad often , is at home in Boston and receives a call that he must immediately go to Paris .	5273	call.n	286	Contacting	MANUAL	6533600	70	73	Hay	call
+185	23577	3	18	0	4098722	QN : What does he need to do to be in Paris ?	null	null	null	null	UNANN	6531463	null	null	null	null
+185	23577	3	18	0	4098722	QN : What does he need to do to be in Paris ?	11817	need.v	1381	Required_event	MANUAL	6533370	18	21	JKR	need
+185	23577	3	18	0	4098722	QN : What does he need to do to be in Paris ?	10612	do.v	198	Intentionally_act	MANUAL	6533375	26	27	JKR	do
+185	23577	1	19	0	4098723	ID:ATM6-1 .	null	null	null	null	UNANN	6531464	null	null	null	null
+185	23577	2	19	0	4098724	John spent December 10 in Paris and took a plane to Baghdad the next morning .	null	null	null	null	UNANN	6531465	null	null	null	null
+185	23577	2	19	0	4098724	John spent December 10 in Paris and took a plane to Baghdad the next morning .	8757	take.v	690	Ride_vehicle	MANUAL	6533208	36	39	MJE	took
+185	23577	3	19	0	4098725	He was planning to meet Bob who was waiting for him there .	null	null	null	null	UNANN	6531466	null	null	null	null
+185	23577	3	19	0	4098725	He was planning to meet Bob who was waiting for him there .	12449	wait.v	1561	Waiting	MANUAL	6533364	36	42	JKR	waiting
+185	23577	3	19	0	4098725	He was planning to meet Bob who was waiting for him there .	12276	plan.v	513	Purpose	MANUAL	6533365	7	14	JKR	planning
+185	23577	4	19	0	4098726	QN : Was John in the Middle East in mid-December ?	null	null	null	null	UNANN	6531467	null	null	null	null
+185	23577	4	19	0	4098726	QN : Was John in the Middle East in mid-December ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533367	14	15	JKR	in
+185	23577	1	20	0	4098727	ID:ATM6-2 .	null	null	null	null	UNANN	6531468	null	null	null	null
+185	23577	2	20	0	4098728	John spent December 10 in Paris and took a plane to Baghdad the next morning .	null	null	null	null	UNANN	6531469	null	null	null	null
+185	23577	2	20	0	4098728	John spent December 10 in Paris and took a plane to Baghdad the next morning .	8757	take.v	690	Ride_vehicle	MANUAL	6533601	36	39	Hay	took
+185	23577	3	20	0	4098729	He was planning to meet Bob who was waiting for him there .	null	null	null	null	UNANN	6531470	null	null	null	null
+185	23577	3	20	0	4098729	He was planning to meet Bob who was waiting for him there .	12449	wait.v	1561	Waiting	MANUAL	6533602	36	42	Hay	waiting
+185	23577	4	20	0	4098730	QN : Did he meet Bob in the Middle East in mid-December ?	null	null	null	null	UNANN	6531471	null	null	null	null
+185	23577	1	21	0	4098731	ID:ATM7-1 .	null	null	null	null	UNANN	6531472	null	null	null	null
+185	23577	2	21	0	4098732	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	null	null	null	null	UNANN	6531473	null	null	null	null
+185	23577	3	21	0	4098733	QN : Was President Bush in Rome on April 8 ?	null	null	null	null	UNANN	6531474	null	null	null	null
+185	23577	3	21	0	4098733	QN : Was President Bush in Rome on April 8 ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533368	24	25	JKR	in
+185	23577	1	22	0	4098734	ID:ATM7-2 .	null	null	null	null	UNANN	6531475	null	null	null	null
+185	23577	2	22	0	4098735	President Bush attended Pope John Paul II 's funeral in Rome on the Morning of April 8 .	null	null	null	null	UNANN	6531476	null	null	null	null
+185	23577	3	22	0	4098736	QN : Was President Bush in Texas on the afternoon of April 8 .?	null	null	null	null	UNANN	6531477	null	null	null	null
+185	23577	3	22	0	4098736	QN : Was President Bush in Texas on the afternoon of April 8 .?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533371	24	25	JKR	in
+185	23577	1	23	0	4098737	ID:ATM8-1 .	null	null	null	null	UNANN	6531478	null	null	null	null
+185	23577	2	23	0	4098738	A rainstorm caused cancellation of the important meeting on Thursday .	null	null	null	null	UNANN	6531479	null	null	null	null
+185	23577	2	23	0	4098738	A rainstorm caused cancellation of the important meeting on Thursday .	2	cause.v	5	Causation	MANUAL	6533359	12	17	JKR	caused
+185	23577	2	23	0	4098738	A rainstorm caused cancellation of the important meeting on Thursday .	7528	important.a	407	Importance	MANUAL	6533360	39	47	JKR	important
+185	23577	2	23	0	4098738	A rainstorm caused cancellation of the important meeting on Thursday .	514	meeting.n	34	Discussion	MANUAL	6533363	49	55	JKR	meeting
+185	23577	3	23	0	4098739	Friday had beautiful weather .	null	null	null	null	UNANN	6531480	null	null	null	null
+185	23577	3	23	0	4098739	Friday had beautiful weather .	5696	weather.n	303	Weather	MANUAL	6533361	21	27	JKR	weather
+185	23577	4	23	0	4098740	QN : Did the meeting take place on Thursday ?	null	null	null	null	UNANN	6531481	null	null	null	null
+185	23577	4	23	0	4098740	QN : Did the meeting take place on Thursday ?	4888	take	187	Event	MANUAL	6533206	21	24	EGp	take
+185	23577	4	23	0	4098740	QN : Did the meeting take place on Thursday ?	4888	take	187	Event	MANUAL	6533206	26	30	EGp	place
+185	23577	4	23	0	4098740	QN : Did the meeting take place on Thursday ?	514	meeting.n	34	Discussion	MANUAL	6533362	13	19	JKR	meeting
+185	23577	1	24	0	4098741	ID:ATM8-2 .	null	null	null	null	UNANN	6531482	null	null	null	null
+185	23577	2	24	0	4098742	A rainstorm caused cancellation of the important meeting on Thursday .	null	null	null	null	UNANN	6531483	null	null	null	null
+185	23577	2	24	0	4098742	A rainstorm caused cancellation of the important meeting on Thursday .	2	cause.v	5	Causation	MANUAL	6533604	12	17	Hay	caused
+185	23577	2	24	0	4098742	A rainstorm caused cancellation of the important meeting on Thursday .	7528	important.a	407	Importance	MANUAL	6533605	39	47	Hay	important
+185	23577	2	24	0	4098742	A rainstorm caused cancellation of the important meeting on Thursday .	514	meeting.n	34	Discussion	MANUAL	6533606	49	55	Hay	meeting
+185	23577	3	24	0	4098743	Friday had beautiful weather .	null	null	null	null	UNANN	6531484	null	null	null	null
+185	23577	3	24	0	4098743	Friday had beautiful weather .	5696	weather.n	303	Weather	MANUAL	6533607	21	27	Hay	weather
+185	23577	4	24	0	4098744	QN : Did the meeting take place on Friday ?	null	null	null	null	UNANN	6531485	null	null	null	null
+185	23577	4	24	0	4098744	QN : Did the meeting take place on Friday ?	4888	take	187	Event	MANUAL	6533207	21	24	EGp	take
+185	23577	4	24	0	4098744	QN : Did the meeting take place on Friday ?	4888	take	187	Event	MANUAL	6533207	26	30	EGp	place
+185	23577	1	25	0	4098745	ID:ATM9-1 .	null	null	null	null	UNANN	6531486	null	null	null	null
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	null	null	null	null	UNANN	6531487	null	null	null	null
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	4470	carry.v	240	Bringing	MANUAL	6533196	18	25	MJE	carrying
+185	23577	2	25	0	4098746	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	945	return.v	54	Arriving	MANUAL	6533347	65	73	JKR	returning
+185	23577	3	25	0	4098747	The pilot perished in the crash .	null	null	null	null	UNANN	6531488	null	null	null	null
+185	23577	3	25	0	4098747	The pilot perished in the crash .	933	perish.v	53	Death	MANUAL	6533345	10	17	JKR	perished
+185	23577	4	25	0	4098748	QN : Did the Chinook arrive at Bagram Air Base ?	null	null	null	null	UNANN	6531489	null	null	null	null
+185	23577	4	25	0	4098748	QN : Did the Chinook arrive at Bagram Air Base ?	940	arrive.v	54	Arriving	MANUAL	6533346	21	26	JKR	arrive
+185	23577	1	26	0	4098749	ID:ATM9-2 .	null	null	null	null	UNANN	6531490	null	null	null	null
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	null	null	null	null	UNANN	6531491	null	null	null	null
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	4470	carry.v	240	Bringing	MANUAL	6533608	18	25	Hay	carrying
+185	23577	2	26	0	4098750	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	945	return.v	54	Arriving	MANUAL	6533609	65	73	Hay	returning
+185	23577	3	26	0	4098751	The pilot perished in the crash .	null	null	null	null	UNANN	6531492	null	null	null	null
+185	23577	3	26	0	4098751	The pilot perished in the crash .	933	perish.v	53	Death	MANUAL	6533612	10	17	Hay	perished
+185	23577	4	26	0	4098752	QN : Is the Pilot alive ?	null	null	null	null	UNANN	6531493	null	null	null	null
+185	23577	4	26	0	4098752	QN : Is the Pilot alive ?	5644	alive.a	310	Dead_or_alive	MANUAL	6533348	18	22	JKR	alive
+185	23577	1	27	0	4098753	ID:ATM9-3 .	null	null	null	null	UNANN	6531494	null	null	null	null
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	null	null	null	null	UNANN	6531495	null	null	null	null
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	4470	carry.v	240	Bringing	MANUAL	6533610	18	25	Hay	carrying
+185	23577	2	27	0	4098754	A CH-47 Chinook , carrying 10 people , crashed near Ghazni while returning to Bagram Air Base near the capital .	945	return.v	54	Arriving	MANUAL	6533611	65	73	Hay	returning
+185	23577	3	27	0	4098755	The pilot perished in the crash .	null	null	null	null	UNANN	6531496	null	null	null	null
+185	23577	3	27	0	4098755	The pilot perished in the crash .	933	perish.v	53	Death	MANUAL	6533613	10	17	Hay	perished
+185	23577	4	27	0	4098756	QN : How many people survived ?	null	null	null	null	UNANN	6531497	null	null	null	null
+185	23577	1	28	0	4098757	ID:ATM10-1 .	null	null	null	null	UNANN	6531498	null	null	null	null
+185	23577	2	28	0	4098758	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	null	null	null	null	UNANN	6531499	null	null	null	null
+185	23577	2	28	0	4098758	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	2986	sell.v	172	Commerce_sell	MANUAL	6531946	22	25	MJE	sold
+185	23577	2	28	0	4098758	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	7781	bomb.n	426	Weapon	MANUAL	6531947	47	50	MJE	bomb
+185	23577	2	28	0	4098758	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	10639	of.prep	1103	Origin	MANUAL	6531948	10	11	MJE	of
+185	23577	3	28	0	4098759	He also sold the XYZ-11 , the key part necessary for the trigger .	null	null	null	null	UNANN	6531500	null	null	null	null
+185	23577	3	28	0	4098759	He also sold the XYZ-11 , the key part necessary for the trigger .	2986	sell.v	172	Commerce_sell	MANUAL	6532183	8	11	RLG	sold
+185	23577	3	28	0	4098759	He also sold the XYZ-11 , the key part necessary for the trigger .	7508	key.a	407	Importance	MANUAL	6532186	30	32	RLG	key
+185	23577	3	28	0	4098759	He also sold the XYZ-11 , the key part necessary for the trigger .	2784	part.n	140	Part_whole	MANUAL	6532198	34	37	RLG	part
+185	23577	3	28	0	4098759	He also sold the XYZ-11 , the key part necessary for the trigger .	10705	necessary.a	1157	Being_necessary	MANUAL	6532207	39	47	RLG	necessary
+185	23577	4	28	0	4098760	QN : Does Iran have plans for a nuclear bomb ?	null	null	null	null	UNANN	6531501	null	null	null	null
+185	23577	4	28	0	4098760	QN : Does Iran have plans for a nuclear bomb ?	7781	bomb.n	426	Weapon	MANUAL	6532211	40	43	RLG	bomb
+185	23577	4	28	0	4098760	QN : Does Iran have plans for a nuclear bomb ?	2378	have.v	118	Possession	MANUAL	6532235	15	18	RLG	have
+185	23577	1	29	0	4098761	ID:ATM10-2 .	null	null	null	null	UNANN	6531502	null	null	null	null
+185	23577	2	29	0	4098762	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	null	null	null	null	UNANN	6531503	null	null	null	null
+185	23577	2	29	0	4098762	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	2986	sell.v	172	Commerce_sell	MANUAL	6533614	22	25	Hay	sold
+185	23577	2	29	0	4098762	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	7781	bomb.n	426	Weapon	MANUAL	6533615	47	50	Hay	bomb
+185	23577	2	29	0	4098762	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	10639	of.prep	1103	Origin	MANUAL	6533616	10	11	Hay	of
+185	23577	3	29	0	4098763	He also sold the XYZ-11 , the key part necessary for the trigger .	null	null	null	null	UNANN	6531504	null	null	null	null
+185	23577	3	29	0	4098763	He also sold the XYZ-11 , the key part necessary for the trigger .	2986	sell.v	172	Commerce_sell	MANUAL	6533623	8	11	Hay	sold
+185	23577	3	29	0	4098763	He also sold the XYZ-11 , the key part necessary for the trigger .	7508	key.a	407	Importance	MANUAL	6533624	30	32	Hay	key
+185	23577	3	29	0	4098763	He also sold the XYZ-11 , the key part necessary for the trigger .	2784	part.n	140	Part_whole	MANUAL	6533625	34	37	Hay	part
+185	23577	3	29	0	4098763	He also sold the XYZ-11 , the key part necessary for the trigger .	10705	necessary.a	1157	Being_necessary	MANUAL	6533626	39	47	Hay	necessary
+185	23577	4	29	0	4098764	QN : Does Pakistan have plans for a nuclear bomb ?	null	null	null	null	UNANN	6531505	null	null	null	null
+185	23577	4	29	0	4098764	QN : Does Pakistan have plans for a nuclear bomb ?	2378	have.v	118	Possession	MANUAL	6532229	19	22	RLG	have
+185	23577	4	29	0	4098764	QN : Does Pakistan have plans for a nuclear bomb ?	7781	bomb.n	426	Weapon	MANUAL	6532232	44	47	RLG	bomb
+185	23577	1	30	0	4098765	ID:ATM10-3 .	null	null	null	null	UNANN	6531506	null	null	null	null
+185	23577	2	30	0	4098766	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	null	null	null	null	UNANN	6531507	null	null	null	null
+185	23577	2	30	0	4098766	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	2986	sell.v	172	Commerce_sell	MANUAL	6533617	22	25	Hay	sold
+185	23577	2	30	0	4098766	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	7781	bomb.n	426	Weapon	MANUAL	6533618	47	50	Hay	bomb
+185	23577	2	30	0	4098766	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	10639	of.prep	1103	Origin	MANUAL	6533619	10	11	Hay	of
+185	23577	3	30	0	4098767	He also sold the XYZ-11 , the key part necessary for the trigger .	null	null	null	null	UNANN	6531508	null	null	null	null
+185	23577	3	30	0	4098767	He also sold the XYZ-11 , the key part necessary for the trigger .	2986	sell.v	172	Commerce_sell	MANUAL	6533627	8	11	Hay	sold
+185	23577	3	30	0	4098767	He also sold the XYZ-11 , the key part necessary for the trigger .	7508	key.a	407	Importance	MANUAL	6533628	30	32	Hay	key
+185	23577	3	30	0	4098767	He also sold the XYZ-11 , the key part necessary for the trigger .	2784	part.n	140	Part_whole	MANUAL	6533629	34	37	Hay	part
+185	23577	3	30	0	4098767	He also sold the XYZ-11 , the key part necessary for the trigger .	10705	necessary.a	1157	Being_necessary	MANUAL	6533630	39	47	Hay	necessary
+185	23577	4	30	0	4098768	QN : Does Iran have the XYZ-11 ?	null	null	null	null	UNANN	6531509	null	null	null	null
+185	23577	4	30	0	4098768	QN : Does Iran have the XYZ-11 ?	2378	have.v	118	Possession	MANUAL	6532255	15	18	RLG	have
+185	23577	1	31	0	4098769	ID:ATM10-4 .	null	null	null	null	UNANN	6531510	null	null	null	null
+185	23577	2	31	0	4098770	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	null	null	null	null	UNANN	6531511	null	null	null	null
+185	23577	2	31	0	4098770	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	2986	sell.v	172	Commerce_sell	MANUAL	6533620	22	25	Hay	sold
+185	23577	2	31	0	4098770	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	7781	bomb.n	426	Weapon	MANUAL	6533621	47	50	Hay	bomb
+185	23577	2	31	0	4098770	A.Q. Khan of Pakistan sold plans for a nuclear bomb to Iran .	10639	of.prep	1103	Origin	MANUAL	6533622	10	11	Hay	of
+185	23577	3	31	0	4098771	He also sold the XYZ-11 , the key part necessary for the trigger .	null	null	null	null	UNANN	6531512	null	null	null	null
+185	23577	3	31	0	4098771	He also sold the XYZ-11 , the key part necessary for the trigger .	2986	sell.v	172	Commerce_sell	MANUAL	6533631	8	11	Hay	sold
+185	23577	3	31	0	4098771	He also sold the XYZ-11 , the key part necessary for the trigger .	7508	key.a	407	Importance	MANUAL	6533632	30	32	Hay	key
+185	23577	3	31	0	4098771	He also sold the XYZ-11 , the key part necessary for the trigger .	2784	part.n	140	Part_whole	MANUAL	6533633	34	37	Hay	part
+185	23577	3	31	0	4098771	He also sold the XYZ-11 , the key part necessary for the trigger .	10705	necessary.a	1157	Being_necessary	MANUAL	6533634	39	47	Hay	necessary
+185	23577	4	31	0	4098772	QN : Does Pakistan have the XYZ-11 ?	null	null	null	null	UNANN	6531513	null	null	null	null
+185	23577	4	31	0	4098772	QN : Does Pakistan have the XYZ-11 ?	2378	have.v	118	Possession	MANUAL	6533349	19	22	JKR	have
+185	23577	1	32	0	4098773	ID:ATM11-1 .	null	null	null	null	UNANN	6531514	null	null	null	null
+185	23577	2	32	0	4098774	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	null	null	null	null	UNANN	6531515	null	null	null	null
+185	23577	2	32	0	4098774	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	6735	at.prep	199	Locative_relation	MANUAL	6533356	9	10	JKR	at
+185	23577	3	32	0	4098775	His train to New York was scheduled to leave the station at 10:30 .	null	null	null	null	UNANN	6531516	null	null	null	null
+185	23577	3	32	0	4098775	His train to New York was scheduled to leave the station at 10:30 .	8150	train.n	429	Vehicle	MANUAL	6533357	4	8	JKR	train
+185	23577	3	32	0	4098775	His train to New York was scheduled to leave the station at 10:30 .	8622	leave.v	57	Departing	MANUAL	6533358	39	43	JKR	leave
+185	23577	4	32	0	4098776	QN : Was John in Washington at 10 ?	null	null	null	null	UNANN	6531517	null	null	null	null
+185	23577	4	32	0	4098776	QN : Was John in Washington at 10 ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533350	14	15	JKR	in
+185	23577	1	33	0	4098777	ID:ATM11-2 .	null	null	null	null	UNANN	6531518	null	null	null	null
+185	23577	2	33	0	4098778	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	null	null	null	null	UNANN	6531519	null	null	null	null
+185	23577	2	33	0	4098778	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	6735	at.prep	199	Locative_relation	MANUAL	6533635	9	10	Hay	at
+185	23577	3	33	0	4098779	His train to New York was scheduled to leave the station at 10:30 .	null	null	null	null	UNANN	6531520	null	null	null	null
+185	23577	3	33	0	4098779	His train to New York was scheduled to leave the station at 10:30 .	8150	train.n	429	Vehicle	MANUAL	6533640	4	8	Hay	train
+185	23577	3	33	0	4098779	His train to New York was scheduled to leave the station at 10:30 .	8622	leave.v	57	Departing	MANUAL	6533641	39	43	Hay	leave
+185	23577	4	33	0	4098780	QN : Was John in Washington at 10:15 ?	null	null	null	null	UNANN	6531521	null	null	null	null
+185	23577	4	33	0	4098780	QN : Was John in Washington at 10:15 ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533351	14	15	JKR	in
+185	23577	1	34	0	4098782	ID:ATM11-3 .	null	null	null	null	UNANN	6531523	null	null	null	null
+185	23577	2	34	0	4098783	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	null	null	null	null	UNANN	6531524	null	null	null	null
+185	23577	2	34	0	4098783	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	6735	at.prep	199	Locative_relation	MANUAL	6533636	9	10	Hay	at
+185	23577	3	34	0	4098784	His train to New York was scheduled to leave the station at 10:30 .	null	null	null	null	UNANN	6531525	null	null	null	null
+185	23577	3	34	0	4098784	His train to New York was scheduled to leave the station at 10:30 .	8150	train.n	429	Vehicle	MANUAL	6533642	4	8	Hay	train
+185	23577	3	34	0	4098784	His train to New York was scheduled to leave the station at 10:30 .	8622	leave.v	57	Departing	MANUAL	6533643	39	43	Hay	leave
+185	23577	4	34	0	4098785	QN : Was John in Washington at 10:30 ?	null	null	null	null	UNANN	6531526	null	null	null	null
+185	23577	4	34	0	4098785	QN : Was John in Washington at 10:30 ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533352	14	15	JKR	in
+185	23577	1	35	0	4098786	ID:ATM11-4 .	null	null	null	null	UNANN	6531527	null	null	null	null
+185	23577	2	35	0	4098787	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	null	null	null	null	UNANN	6531528	null	null	null	null
+185	23577	2	35	0	4098787	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	6735	at.prep	199	Locative_relation	MANUAL	6533637	9	10	Hay	at
+185	23577	3	35	0	4098788	His train to New York was scheduled to leave the station at 10:30 .	null	null	null	null	UNANN	6531529	null	null	null	null
+185	23577	3	35	0	4098788	His train to New York was scheduled to leave the station at 10:30 .	8150	train.n	429	Vehicle	MANUAL	6533644	4	8	Hay	train
+185	23577	3	35	0	4098788	His train to New York was scheduled to leave the station at 10:30 .	8622	leave.v	57	Departing	MANUAL	6533645	39	43	Hay	leave
+185	23577	4	35	0	4098789	QN : Was John in Washington on March 15 ?	null	null	null	null	UNANN	6531530	null	null	null	null
+185	23577	4	35	0	4098789	QN : Was John in Washington on March 15 ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533353	14	15	JKR	in
+185	23577	1	36	0	4098790	ID:ATM11-5 .	null	null	null	null	UNANN	6531531	null	null	null	null
+185	23577	2	36	0	4098791	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	null	null	null	null	UNANN	6531532	null	null	null	null
+185	23577	2	36	0	4098791	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	6735	at.prep	199	Locative_relation	MANUAL	6533638	9	10	Hay	at
+185	23577	3	36	0	4098792	His train to New York was scheduled to leave the station at 10:30 .	null	null	null	null	UNANN	6531533	null	null	null	null
+185	23577	3	36	0	4098792	His train to New York was scheduled to leave the station at 10:30 .	8150	train.n	429	Vehicle	MANUAL	6533646	4	8	Hay	train
+185	23577	3	36	0	4098792	His train to New York was scheduled to leave the station at 10:30 .	8622	leave.v	57	Departing	MANUAL	6533647	39	43	Hay	leave
+185	23577	4	36	0	4098793	QN : Was John in New York on March 15th ?	null	null	null	null	UNANN	6531534	null	null	null	null
+185	23577	4	36	0	4098793	QN : Was John in New York on March 15th ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533354	14	15	JKR	in
+185	23577	1	37	0	4098794	ID:ATM11-6 .	null	null	null	null	UNANN	6531535	null	null	null	null
+185	23577	2	37	0	4098795	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	null	null	null	null	UNANN	6531536	null	null	null	null
+185	23577	2	37	0	4098795	John was at the station in Washington D.C at 10:00 AM on March 15, 2005 .	6735	at.prep	199	Locative_relation	MANUAL	6533639	9	10	Hay	at
+185	23577	3	37	0	4098796	His train to New York was scheduled to leave the station at 10:30 .	null	null	null	null	UNANN	6531537	null	null	null	null
+185	23577	3	37	0	4098796	His train to New York was scheduled to leave the station at 10:30 .	8150	train.n	429	Vehicle	MANUAL	6533648	4	8	Hay	train
+185	23577	3	37	0	4098796	His train to New York was scheduled to leave the station at 10:30 .	8622	leave.v	57	Departing	MANUAL	6533649	39	43	Hay	leave
+185	23577	4	37	0	4098797	QN : Was John in California on March 15th ?	null	null	null	null	UNANN	6531538	null	null	null	null
+185	23577	4	37	0	4098797	QN : Was John in California on March 15th ?	10801	in.prep	1178	Interior_profile_relation	MANUAL	6533355	14	15	JKR	in

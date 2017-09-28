@@ -1,0 +1,16 @@
+filename	PropBank__LomaPrieta.xml
+docAnnotations	620
+docManual	511
+docUnannotated	109
+sentences	99
+paragraphs	31
+Overlapping	336
+Disambiguated	191
+TP	148
+TN	109
+FP	0
+FN	320
+P	1.0
+R	0.3162393162393162
+F	0.4805194805194805
+A	0.44540727902946275

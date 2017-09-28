@@ -1,0 +1,207 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+195	23792	1	1	0	4106378	Dear ,	null	null	null	null	UNANN	6556431	null	null	null	null
+195	23792	1	2	0	4106379	A few months ago you received a letter from me telling the success stories of people who got jobs with Goodwill 's help .	null	null	null	null	UNANN	6556432	null	null	null	null
+195	23792	1	2	0	4106379	A few months ago you received a letter from me telling the success stories of people who got jobs with Goodwill 's help .	13369	few.a	189	Quantified_mass	MANUAL	6557103	2	4	AlK	few
+195	23792	1	2	0	4106379	A few months ago you received a letter from me telling the success stories of people who got jobs with Goodwill 's help .	9154	ago.idio	379	Time_vector	MANUAL	6557104	13	15	AlK	ago
+195	23792	1	2	0	4106379	A few months ago you received a letter from me telling the success stories of people who got jobs with Goodwill 's help .	7537	receive.v	411	Receiving	MANUAL	6557105	21	28	AlK	received
+195	23792	1	2	0	4106379	A few months ago you received a letter from me telling the success stories of people who got jobs with Goodwill 's help .	5399	letter.n	298	Text	MANUAL	6557106	32	37	AlK	letter
+195	23792	1	2	0	4106379	A few months ago you received a letter from me telling the success stories of people who got jobs with Goodwill 's help .	9177	tell.v	750	Telling	MANUAL	6557107	47	53	AlK	telling
+195	23792	1	2	0	4106379	A few months ago you received a letter from me telling the success stories of people who got jobs with Goodwill 's help .	12598	success.n	1388	Success_or_failure	MANUAL	6557108	59	65	AlK	success
+195	23792	1	2	0	4106379	A few months ago you received a letter from me telling the success stories of people who got jobs with Goodwill 's help .	5511	people.n	304	People	MANUAL	6557109	78	83	AlK	people
+195	23792	1	2	0	4106379	A few months ago you received a letter from me telling the success stories of people who got jobs with Goodwill 's help .	3877	month.n	224	Measure_duration	MANUAL	6557110	6	11	AlK	months
+195	23792	1	2	0	4106379	A few months ago you received a letter from me telling the success stories of people who got jobs with Goodwill 's help .	4343	get.v	179	Getting	MANUAL	6557111	89	91	AlK	got
+195	23792	1	2	0	4106379	A few months ago you received a letter from me telling the success stories of people who got jobs with Goodwill 's help .	5785	job.n	282	Being_employed	MANUAL	6557112	93	96	AlK	jobs
+195	23792	1	2	0	4106379	A few months ago you received a letter from me telling the success stories of people who got jobs with Goodwill 's help .	12165	help.n	391	Assistance	MANUAL	6557113	115	118	AlK	help
+195	23792	1	3	0	4106380	Here 's another story of success from what might seem like an unlikely source : Goodwill 's controller , Juli .	null	null	null	null	UNANN	6556433	null	null	null	null
+195	23792	1	3	0	4106380	Here 's another story of success from what might seem like an unlikely source : Goodwill 's controller , Juli .	10175	another.a	1001	Increment	MANUAL	6557114	8	14	AlK	another
+195	23792	1	3	0	4106380	Here 's another story of success from what might seem like an unlikely source : Goodwill 's controller , Juli .	12598	success.n	1388	Success_or_failure	MANUAL	6557115	25	31	AlK	success
+195	23792	1	3	0	4106380	Here 's another story of success from what might seem like an unlikely source : Goodwill 's controller , Juli .	6506	might.v	114	Likelihood	MANUAL	6557116	43	47	AlK	might
+195	23792	1	3	0	4106380	Here 's another story of success from what might seem like an unlikely source : Goodwill 's controller , Juli .	1325	seem.v	67	Give_impression	MANUAL	6557117	49	52	AlK	seem
+195	23792	1	3	0	4106380	Here 's another story of success from what might seem like an unlikely source : Goodwill 's controller , Juli .	8995	like.prep	481	Similarity	MANUAL	6557118	54	57	AlK	like
+195	23792	1	3	0	4106380	Here 's another story of success from what might seem like an unlikely source : Goodwill 's controller , Juli .	2287	unlikely.a	114	Likelihood	MANUAL	6557119	62	69	AlK	unlikely
+195	23792	1	3	0	4106380	Here 's another story of success from what might seem like an unlikely source : Goodwill 's controller , Juli .	13335	source.n	1148	Attributed_information	MANUAL	6557120	71	76	AlK	source
+195	23792	2	3	0	4106381	She tells me that the 3,666 people we helped find jobs in 1998 earned approximately $ 49 million dollars .	null	null	null	null	UNANN	6556434	null	null	null	null
+195	23792	2	3	0	4106381	She tells me that the 3,666 people we helped find jobs in 1998 earned approximately $ 49 million dollars .	9177	tell.v	750	Telling	MANUAL	6557121	4	8	AlK	tells
+195	23792	2	3	0	4106381	She tells me that the 3,666 people we helped find jobs in 1998 earned approximately $ 49 million dollars .	5511	people.n	304	People	MANUAL	6557122	28	33	AlK	people
+195	23792	2	3	0	4106381	She tells me that the 3,666 people we helped find jobs in 1998 earned approximately $ 49 million dollars .	7041	help.v	391	Assistance	MANUAL	6557123	38	43	AlK	helped
+195	23792	2	3	0	4106381	She tells me that the 3,666 people we helped find jobs in 1998 earned approximately $ 49 million dollars .	11227	find.v	792	Locating	MANUAL	6557124	45	48	AlK	find
+195	23792	2	3	0	4106381	She tells me that the 3,666 people we helped find jobs in 1998 earned approximately $ 49 million dollars .	5785	job.n	282	Being_employed	MANUAL	6557125	50	53	AlK	jobs
+195	23792	2	3	0	4106381	She tells me that the 3,666 people we helped find jobs in 1998 earned approximately $ 49 million dollars .	14080	in.prep	1895	Temporal_collocation	MANUAL	6557126	55	56	AlK	in
+195	23792	2	3	0	4106381	She tells me that the 3,666 people we helped find jobs in 1998 earned approximately $ 49 million dollars .	13730	earn.v	1873	Earnings_and_losses	MANUAL	6557127	63	68	AlK	earned
+195	23792	2	3	0	4106381	She tells me that the 3,666 people we helped find jobs in 1998 earned approximately $ 49 million dollars .	14277	approximately.adv	1923	Proportional_quantity	MANUAL	6557128	70	82	AlK	approximately
+195	23792	3	3	0	4106382	In addition to that , by helping them find jobs , Goodwill reduced the state 's Public Support tab by an estimated $ 4 million .	null	null	null	null	UNANN	6556435	null	null	null	null
+195	23792	3	3	0	4106382	In addition to that , by helping them find jobs , Goodwill reduced the state 's Public Support tab by an estimated $ 4 million .	13569	by.prep	1790	Means	MANUAL	6557134	22	23	AlK	by
+195	23792	3	3	0	4106382	In addition to that , by helping them find jobs , Goodwill reduced the state 's Public Support tab by an estimated $ 4 million .	7041	help.v	391	Assistance	MANUAL	6557135	25	31	AlK	helping
+195	23792	3	3	0	4106382	In addition to that , by helping them find jobs , Goodwill reduced the state 's Public Support tab by an estimated $ 4 million .	11227	find.v	792	Locating	MANUAL	6557136	38	41	AlK	find
+195	23792	3	3	0	4106382	In addition to that , by helping them find jobs , Goodwill reduced the state 's Public Support tab by an estimated $ 4 million .	5785	job.n	282	Being_employed	MANUAL	6557137	43	46	AlK	jobs
+195	23792	3	3	0	4106382	In addition to that , by helping them find jobs , Goodwill reduced the state 's Public Support tab by an estimated $ 4 million .	1990	reduce.v	96	Cause_change_of_position_on_a_scale	MANUAL	6557138	59	65	AlK	reduced
+195	23792	3	3	0	4106382	In addition to that , by helping them find jobs , Goodwill reduced the state 's Public Support tab by an estimated $ 4 million .	12288	estimate.v	1513	Estimating	MANUAL	6557141	105	113	AlK	estimated
+195	23792	3	3	0	4106382	In addition to that , by helping them find jobs , Goodwill reduced the state 's Public Support tab by an estimated $ 4 million .	16339	state	195	Political_locales	MANUAL	6563343	71	75	MLC	state
+195	23792	4	3	0	4106383	Your gift to Goodwill will help us do even more this year because your gift will be used to directly support our work .	null	null	null	null	UNANN	6556436	null	null	null	null
+195	23792	4	3	0	4106383	Your gift to Goodwill will help us do even more this year because your gift will be used to directly support our work .	5372	gift.n	139	Giving	MANUAL	6557142	5	8	AlK	gift
+195	23792	4	3	0	4106383	Your gift to Goodwill will help us do even more this year because your gift will be used to directly support our work .	10799	to.prep	1177	Goal	MANUAL	6557143	10	11	AlK	to
+195	23792	4	3	0	4106383	Your gift to Goodwill will help us do even more this year because your gift will be used to directly support our work .	7041	help.v	391	Assistance	MANUAL	6557144	27	30	AlK	help
+195	23792	4	3	0	4106383	Your gift to Goodwill will help us do even more this year because your gift will be used to directly support our work .	10291	more.n	1001	Increment	MANUAL	6557145	43	46	AlK	more
+195	23792	4	3	0	4106383	Your gift to Goodwill will help us do even more this year because your gift will be used to directly support our work .	4074	year.n	229	Calendric_unit	MANUAL	6557146	53	56	AlK	year
+195	23792	4	3	0	4106383	Your gift to Goodwill will help us do even more this year because your gift will be used to directly support our work .	13419	because.c	5	Causation	MANUAL	6557147	58	64	AlK	because
+195	23792	4	3	0	4106383	Your gift to Goodwill will help us do even more this year because your gift will be used to directly support our work .	5372	gift.n	139	Giving	MANUAL	6557148	71	74	AlK	gift
+195	23792	4	3	0	4106383	Your gift to Goodwill will help us do even more this year because your gift will be used to directly support our work .	10619	use.v	1141	Using	MANUAL	6557149	84	87	AlK	used
+195	23792	4	3	0	4106383	Your gift to Goodwill will help us do even more this year because your gift will be used to directly support our work .	14738	support.v	2000	Supporting	MANUAL	6557150	101	107	AlK	support
+195	23792	4	3	0	4106383	Your gift to Goodwill will help us do even more this year because your gift will be used to directly support our work .	14001	work.n	1892	Work	MANUAL	6557151	113	116	AlK	work
+195	23792	1	4	0	4106384	What kind of work does Goodwill do ?	null	null	null	null	UNANN	6556437	null	null	null	null
+195	23792	1	4	0	4106384	What kind of work does Goodwill do ?	2557	kind.n	128	Type	MANUAL	6557152	5	8	AlK	kind
+195	23792	1	4	0	4106384	What kind of work does Goodwill do ?	14001	work.n	1892	Work	MANUAL	6557153	13	16	AlK	work
+195	23792	1	4	0	4106384	What kind of work does Goodwill do ?	10612	do.v	198	Intentionally_act	MANUAL	6557408	32	33	JKs	do
+195	23792	1	5	0	4106385	Goodwill finds jobs for people with mental and physical disabilities .	null	null	null	null	UNANN	6556438	null	null	null	null
+195	23792	1	5	0	4106385	Goodwill finds jobs for people with mental and physical disabilities .	11227	find.v	792	Locating	MANUAL	6557154	9	13	AlK	finds
+195	23792	1	5	0	4106385	Goodwill finds jobs for people with mental and physical disabilities .	5785	job.n	282	Being_employed	MANUAL	6557155	15	18	AlK	jobs
+195	23792	1	5	0	4106385	Goodwill finds jobs for people with mental and physical disabilities .	5511	people.n	304	People	MANUAL	6557156	24	29	AlK	people
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	null	null	null	null	UNANN	6556439	null	null	null	null
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	11746	after.prep	81	Relative_time	MANUAL	6557157	0	4	AlK	After
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	5785	job.n	282	Being_employed	MANUAL	6557158	17	19	AlK	job
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	10740	teach.v	111	Education_teaching	MANUAL	6557159	27	32	AlK	taught
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	5785	job.n	282	Being_employed	MANUAL	6557160	52	54	AlK	job
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	13795	restaurant.n	196	Locale_by_use	MANUAL	6557162	61	70	AlK	restaurant
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	7041	help.v	391	Assistance	MANUAL	6557163	77	82	AlK	helped
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	14109	sometimes.adv	80	Frequency	MANUAL	6557164	115	123	AlK	sometimes
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	6758	over.prep	199	Locative_relation	MANUAL	6557165	130	133	AlK	over
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	5511	people.n	304	People	MANUAL	6557166	135	140	AlK	people
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	11227	find.v	792	Locating	MANUAL	6557167	184	187	AlK	find
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	10251	fulfilling.a	364	Stimulus_focus	MANUAL	6557168	191	200	AlK	fulfilling
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	5785	job.n	282	Being_employed	UNANN	6557169	null	null	null	null
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	5785	job.n	282	Being_employed	UNANN	6557169	202	204	AlK	job
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6557170	216	217	AlK	in
+195	23792	2	5	0	4106386	After Maureen 's job coach taught her how to do her job in a restaurant , we helped Maureen step out of the shadow sometimes cast over people with physical and mental disabilities and find a fulfilling job smack dab in the middle of society .	8853	middle.n	327	Part_inner_outer	MANUAL	6557171	223	228	AlK	middle
+195	23792	3	5	0	4106387	Remember what she said in my last letter ?	null	null	null	null	UNANN	6556440	null	null	null	null
+195	23792	3	5	0	4106387	Remember what she said in my last letter ?	2668	remember.v	135	Memory	MANUAL	6557172	0	7	AlK	Remember
+195	23792	3	5	0	4106387	Remember what she said in my last letter ?	751	say.v	43	Statement	MANUAL	6557173	18	21	AlK	said
+195	23792	3	5	0	4106387	Remember what she said in my last letter ?	14755	in.prep	2005	Medium	MANUAL	6557174	23	24	AlK	in
+195	23792	3	5	0	4106387	Remember what she said in my last letter ?	13865	last.a	81	Relative_time	MANUAL	6557175	29	32	AlK	last
+195	23792	3	5	0	4106387	Remember what she said in my last letter ?	5399	letter.n	298	Text	MANUAL	6557176	34	39	AlK	letter
+195	23792	4	5	0	4106388	`` If I was n't working here ... I would be sad ... ''	null	null	null	null	UNANN	6556441	null	null	null	null
+195	23792	4	5	0	4106388	`` If I was n't working here ... I would be sad ... ''	5780	work.v	282	Being_employed	MANUAL	6557177	16	22	AlK	working
+195	23792	4	5	0	4106388	`` If I was n't working here ... I would be sad ... ''	14175	here.adv	199	Locative_relation	MANUAL	6557178	24	27	AlK	here
+195	23792	4	5	0	4106388	`` If I was n't working here ... I would be sad ... ''	6945	sad.a	46	Emotion_directed	MANUAL	6557179	44	46	AlK	sad
+195	23792	1	6	0	4106389	Goodwill helps people get off of public assistance .	null	null	null	null	UNANN	6556442	null	null	null	null
+195	23792	1	6	0	4106389	Goodwill helps people get off of public assistance .	7041	help.v	391	Assistance	MANUAL	6557129	9	13	JKs	helps
+195	23792	1	6	0	4106389	Goodwill helps people get off of public assistance .	5511	people.n	304	People	MANUAL	6557130	15	20	JKs	people
+195	23792	1	6	0	4106389	Goodwill helps people get off of public assistance .	10393	get.v	1070	Transition_to_state	MANUAL	6557131	22	24	JKs	get
+195	23792	1	6	0	4106389	Goodwill helps people get off of public assistance .	11591	assistance.n	391	Assistance	MANUAL	6557132	40	49	JKs	assistance
+195	23792	2	6	0	4106390	Sherry learned through our Future Works class that she could rise out of the mire of the welfare system and support her family .	null	null	null	null	UNANN	6556443	null	null	null	null
+195	23792	2	6	0	4106390	Sherry learned through our Future Works class that she could rise out of the mire of the welfare system and support her family .	10147	learn.v	111	Education_teaching	MANUAL	6557133	7	13	JKs	learned
+195	23792	2	6	0	4106390	Sherry learned through our Future Works class that she could rise out of the mire of the welfare system and support her family .	10156	can.v	990	Capability	MANUAL	6557183	55	59	JKs	could
+195	23792	2	6	0	4106390	Sherry learned through our Future Works class that she could rise out of the mire of the welfare system and support her family .	12637	system.n	1610	System	MANUAL	6557185	97	102	JKs	system
+195	23792	2	6	0	4106390	Sherry learned through our Future Works class that she could rise out of the mire of the welfare system and support her family .	14738	support.v	2000	Supporting	MANUAL	6557186	108	114	JKs	support
+195	23792	2	6	0	4106390	Sherry learned through our Future Works class that she could rise out of the mire of the welfare system and support her family .	2307	family.n	104	Kinship	MANUAL	6557187	120	125	JKs	family
+195	23792	3	6	0	4106391	At Goodwill she gained in self - confidence , in her vision of her future and in the job skills she needed to find and keep a good job .	null	null	null	null	UNANN	6556444	null	null	null	null
+195	23792	3	6	0	4106391	At Goodwill she gained in self - confidence , in her vision of her future and in the job skills she needed to find and keep a good job .	6735	at.prep	199	Locative_relation	MANUAL	6557188	0	1	JKs	At
+195	23792	3	6	0	4106391	At Goodwill she gained in self - confidence , in her vision of her future and in the job skills she needed to find and keep a good job .	7502	gain.v	179	Getting	MANUAL	6557189	16	21	JKs	gained
+195	23792	3	6	0	4106391	At Goodwill she gained in self - confidence , in her vision of her future and in the job skills she needed to find and keep a good job .	5785	job.n	282	Being_employed	MANUAL	6557191	85	87	JKs	job
+195	23792	3	6	0	4106391	At Goodwill she gained in self - confidence , in her vision of her future and in the job skills she needed to find and keep a good job .	2742	skill.n	136	Expertise	MANUAL	6557192	89	94	JKs	skills
+195	23792	3	6	0	4106391	At Goodwill she gained in self - confidence , in her vision of her future and in the job skills she needed to find and keep a good job .	11227	find.v	792	Locating	MANUAL	6557194	110	113	JKs	find
+195	23792	3	6	0	4106391	At Goodwill she gained in self - confidence , in her vision of her future and in the job skills she needed to find and keep a good job .	6287	good.a	354	Desirability	MANUAL	6557196	126	129	JKs	good
+195	23792	3	6	0	4106391	At Goodwill she gained in self - confidence , in her vision of her future and in the job skills she needed to find and keep a good job .	5785	job.n	282	Being_employed	MANUAL	6557197	131	133	JKs	job
+195	23792	3	6	0	4106391	At Goodwill she gained in self - confidence , in her vision of her future and in the job skills she needed to find and keep a good job .	11791	need.v	1375	Needing	MANUAL	6557198	100	105	JKs	needed
+195	23792	4	6	0	4106392	`` Coming to Goodwill was the first step toward my becoming totally independent .	null	null	null	null	UNANN	6556445	null	null	null	null
+195	23792	4	6	0	4106392	`` Coming to Goodwill was the first step toward my becoming totally independent .	941	come.v	54	Arriving	MANUAL	6557199	3	8	JKs	Coming
+195	23792	4	6	0	4106392	`` Coming to Goodwill was the first step toward my becoming totally independent .	11248	first.a	1147	Ordinal_numbers	MANUAL	6557200	30	34	JKs	first
+195	23792	4	6	0	4106392	`` Coming to Goodwill was the first step toward my becoming totally independent .	18221	become.v	2971	Becoming	MANUAL	6557202	51	58	JKs	becoming
+195	23792	4	6	0	4106392	`` Coming to Goodwill was the first step toward my becoming totally independent .	14747	totally.adv	2001	Degree	MANUAL	6557204	60	66	JKs	totally
+195	23792	4	6	0	4106392	`` Coming to Goodwill was the first step toward my becoming totally independent .	10613	step.n	198	Intentionally_act	MANUAL	6557205	36	39	JKs	step
+195	23792	4	6	0	4106392	`` Coming to Goodwill was the first step toward my becoming totally independent .	10799	to.prep	1177	Goal	MANUAL	6557411	10	11	AlK	to
+195	23792	5	6	0	4106393	I am now ... totally off of welfare . ''	null	null	null	null	UNANN	6556446	null	null	null	null
+195	23792	5	6	0	4106393	I am now ... totally off of welfare . ''	14083	now.adv	1895	Temporal_collocation	MANUAL	6557206	5	7	JKs	now
+195	23792	5	6	0	4106393	I am now ... totally off of welfare . ''	14747	totally.adv	2001	Degree	MANUAL	6557207	13	19	JKs	totally
+195	23792	1	7	0	4106394	Goodwill prepares people for life - long employment .	null	null	null	null	UNANN	6556447	null	null	null	null
+195	23792	1	7	0	4106394	Goodwill prepares people for life - long employment .	5511	people.n	304	People	MANUAL	6556992	18	23	JKs	people
+195	23792	1	7	0	4106394	Goodwill prepares people for life - long employment .	12590	employment.n	282	Being_employed	MANUAL	6556993	41	50	JKs	employment
+195	23792	2	7	0	4106395	Cornell found a number of employment options that he never dreamed existed after a work - site injury forced him out of his job at a foundry .	null	null	null	null	UNANN	6556448	null	null	null	null
+195	23792	2	7	0	4106395	Cornell found a number of employment options that he never dreamed existed after a work - site injury forced him out of his job at a foundry .	11227	find.v	792	Locating	MANUAL	6556994	8	12	JKs	found
+195	23792	2	7	0	4106395	Cornell found a number of employment options that he never dreamed existed after a work - site injury forced him out of his job at a foundry .	3338	number.n	189	Quantified_mass	MANUAL	6556995	16	21	JKs	number
+195	23792	2	7	0	4106395	Cornell found a number of employment options that he never dreamed existed after a work - site injury forced him out of his job at a foundry .	12590	employment.n	282	Being_employed	MANUAL	6556996	26	35	JKs	employment
+195	23792	2	7	0	4106395	Cornell found a number of employment options that he never dreamed existed after a work - site injury forced him out of his job at a foundry .	14407	option.n	1931	Alternatives	MANUAL	6556997	37	43	JKs	options
+195	23792	2	7	0	4106395	Cornell found a number of employment options that he never dreamed existed after a work - site injury forced him out of his job at a foundry .	14104	never.adv	80	Frequency	MANUAL	6556998	53	57	JKs	never
+195	23792	2	7	0	4106395	Cornell found a number of employment options that he never dreamed existed after a work - site injury forced him out of his job at a foundry .	8570	exist.v	660	Existence	MANUAL	6556999	67	73	JKs	existed
+195	23792	2	7	0	4106395	Cornell found a number of employment options that he never dreamed existed after a work - site injury forced him out of his job at a foundry .	11746	after.prep	81	Relative_time	MANUAL	6557000	75	79	JKs	after
+195	23792	2	7	0	4106395	Cornell found a number of employment options that he never dreamed existed after a work - site injury forced him out of his job at a foundry .	5781	work.n	282	Being_employed	MANUAL	6557001	83	86	JKs	work
+195	23792	2	7	0	4106395	Cornell found a number of employment options that he never dreamed existed after a work - site injury forced him out of his job at a foundry .	11550	site.n	196	Locale_by_use	MANUAL	6557003	90	93	JKs	site
+195	23792	2	7	0	4106395	Cornell found a number of employment options that he never dreamed existed after a work - site injury forced him out of his job at a foundry .	15112	force.v	5	Causation	MANUAL	6557004	102	107	JKs	forced
+195	23792	2	7	0	4106395	Cornell found a number of employment options that he never dreamed existed after a work - site injury forced him out of his job at a foundry .	5785	job.n	282	Being_employed	MANUAL	6557005	124	126	JKs	job
+195	23792	2	7	0	4106395	Cornell found a number of employment options that he never dreamed existed after a work - site injury forced him out of his job at a foundry .	6735	at.prep	199	Locative_relation	MANUAL	6557006	128	129	JKs	at
+195	23792	3	7	0	4106396	He trained in desktop publishing and combined his enthusiastic work ethic with new - found skills in a burgeoning industry .	null	null	null	null	UNANN	6556449	null	null	null	null
+195	23792	3	7	0	4106396	He trained in desktop publishing and combined his enthusiastic work ethic with new - found skills in a burgeoning industry .	10149	train.v	111	Education_teaching	MANUAL	6557007	3	9	JKs	trained
+195	23792	3	7	0	4106396	He trained in desktop publishing and combined his enthusiastic work ethic with new - found skills in a burgeoning industry .	39	combine.v	13	Cause_to_amalgamate	MANUAL	6557008	37	44	JKs	combined
+195	23792	3	7	0	4106396	He trained in desktop publishing and combined his enthusiastic work ethic with new - found skills in a burgeoning industry .	2742	skill.n	136	Expertise	MANUAL	6557066	91	96	JKs	skills
+195	23792	3	7	0	4106396	He trained in desktop publishing and combined his enthusiastic work ethic with new - found skills in a burgeoning industry .	13555	burgeon.v	1340	Progression	MANUAL	6557067	103	112	JKs	burgeoning
+195	23792	3	7	0	4106396	He trained in desktop publishing and combined his enthusiastic work ethic with new - found skills in a burgeoning industry .	11668	industry.n	1345	Fields	MANUAL	6557068	114	121	JKs	industry
+195	23792	4	7	0	4106397	`` I 've got more than a job ; I 've got a career . ''	null	null	null	null	UNANN	6556450	null	null	null	null
+195	23792	4	7	0	4106397	`` I 've got more than a job ; I 've got a career . ''	11073	have	118	Possession	MANUAL	6557069	5	7	EGp	've
+195	23792	4	7	0	4106397	`` I 've got more than a job ; I 've got a career . ''	11073	have	118	Possession	MANUAL	6557069	9	11	EGp	got
+195	23792	4	7	0	4106397	`` I 've got more than a job ; I 've got a career . ''	5785	job.n	282	Being_employed	MANUAL	6557071	25	27	JKs	job
+195	23792	4	7	0	4106397	`` I 've got more than a job ; I 've got a career . ''	11073	have	118	Possession	MANUAL	6557072	33	35	EGp	've
+195	23792	4	7	0	4106397	`` I 've got more than a job ; I 've got a career . ''	11073	have	118	Possession	MANUAL	6557072	37	39	EGp	got
+195	23792	4	7	0	4106397	`` I 've got more than a job ; I 've got a career . ''	10290	more.a	1001	Increment	MANUAL	6557074	13	16	JKs	more
+195	23792	1	8	0	4106398	Goodwill provides jobs at Goodwill .	null	null	null	null	UNANN	6556451	null	null	null	null
+195	23792	1	8	0	4106398	Goodwill provides jobs at Goodwill .	11673	provide.v	1346	Supply	MANUAL	6556749	9	16	JKs	provides
+195	23792	1	8	0	4106398	Goodwill provides jobs at Goodwill .	5785	job.n	282	Being_employed	MANUAL	6556750	18	21	JKs	jobs
+195	23792	1	8	0	4106398	Goodwill provides jobs at Goodwill .	6735	at.prep	199	Locative_relation	MANUAL	6556751	23	24	JKs	at
+195	23792	2	8	0	4106399	After a lifetime of trials , Donna not only earned her GED at Goodwill , she earned a job here .	null	null	null	null	UNANN	6556452	null	null	null	null
+195	23792	2	8	0	4106399	After a lifetime of trials , Donna not only earned her GED at Goodwill , she earned a job here .	6715	after.prep	379	Time_vector	MANUAL	6556752	0	4	JKs	After
+195	23792	2	8	0	4106399	After a lifetime of trials , Donna not only earned her GED at Goodwill , she earned a job here .	13730	earn.v	1873	Earnings_and_losses	MANUAL	6556969	44	49	JKs	earned
+195	23792	2	8	0	4106399	After a lifetime of trials , Donna not only earned her GED at Goodwill , she earned a job here .	6735	at.prep	199	Locative_relation	MANUAL	6556970	59	60	JKs	at
+195	23792	2	8	0	4106399	After a lifetime of trials , Donna not only earned her GED at Goodwill , she earned a job here .	13730	earn.v	1873	Earnings_and_losses	MANUAL	6556971	77	82	JKs	earned
+195	23792	2	8	0	4106399	After a lifetime of trials , Donna not only earned her GED at Goodwill , she earned a job here .	5785	job.n	282	Being_employed	MANUAL	6556972	86	88	JKs	job
+195	23792	2	8	0	4106399	After a lifetime of trials , Donna not only earned her GED at Goodwill , she earned a job here .	14175	here.adv	199	Locative_relation	MANUAL	6556973	90	93	JKs	here
+195	23792	3	8	0	4106400	`` I rode a bike to Goodwill in the rain and snow .	null	null	null	null	UNANN	6556453	null	null	null	null
+195	23792	3	8	0	4106400	`` I rode a bike to Goodwill in the rain and snow .	8880	ride.v	65	Operate_vehicle	MANUAL	6556974	5	8	JKs	rode
+195	23792	3	8	0	4106400	`` I rode a bike to Goodwill in the rain and snow .	7834	bike.n	429	Vehicle	MANUAL	6556975	12	15	JKs	bike
+195	23792	3	8	0	4106400	`` I rode a bike to Goodwill in the rain and snow .	5699	rain	314	Precipitation	MANUAL	6556976	36	39	JKs	rain
+195	23792	3	8	0	4106400	`` I rode a bike to Goodwill in the rain and snow .	10799	to.prep	1177	Goal	MANUAL	6557409	17	18	JKs	to
+195	23792	3	8	0	4106400	`` I rode a bike to Goodwill in the rain and snow .	18328	snow	314	Precipitation	UNANN	6743856	null	null	null	null
+195	23792	3	8	0	4106400	`` I rode a bike to Goodwill in the rain and snow .	18328	snow	314	Precipitation	UNANN	6743856	45	48	WMcQ	snow
+195	23792	4	8	0	4106401	I wanted to be there ... I had my second chance to change my life . ''	null	null	null	null	UNANN	6556454	null	null	null	null
+195	23792	4	8	0	4106401	I wanted to be there ... I had my second chance to change my life . ''	6412	want.v	366	Desiring	MANUAL	6556986	2	7	JKs	wanted
+195	23792	4	8	0	4106401	I wanted to be there ... I had my second chance to change my life . ''	14589	there.adv	199	Locative_relation	MANUAL	6556987	15	19	JKs	there
+195	23792	4	8	0	4106401	I wanted to be there ... I had my second chance to change my life . ''	11249	second.a	1147	Ordinal_numbers	MANUAL	6556988	34	39	JKs	second
+195	23792	4	8	0	4106401	I wanted to be there ... I had my second chance to change my life . ''	2284	chance.n	114	Likelihood	MANUAL	6556989	41	46	JKs	chance
+195	23792	4	8	0	4106401	I wanted to be there ... I had my second chance to change my life . ''	9269	change.v	683	Cause_change	MANUAL	6556990	51	56	JKs	change
+195	23792	1	9	0	4106402	Your gift to Goodwill will help the many people who want to tell their own stories of success .	null	null	null	null	UNANN	6556455	null	null	null	null
+195	23792	1	9	0	4106402	Your gift to Goodwill will help the many people who want to tell their own stories of success .	5372	gift.n	139	Giving	MANUAL	6556515	5	8	JKs	gift
+195	23792	1	9	0	4106402	Your gift to Goodwill will help the many people who want to tell their own stories of success .	7041	help.v	391	Assistance	MANUAL	6556516	27	30	JKs	help
+195	23792	1	9	0	4106402	Your gift to Goodwill will help the many people who want to tell their own stories of success .	13746	many.a	189	Quantified_mass	MANUAL	6556517	36	39	JKs	many
+195	23792	1	9	0	4106402	Your gift to Goodwill will help the many people who want to tell their own stories of success .	5511	people.n	304	People	MANUAL	6556518	41	46	JKs	people
+195	23792	1	9	0	4106402	Your gift to Goodwill will help the many people who want to tell their own stories of success .	6412	want.v	366	Desiring	MANUAL	6556519	52	55	JKs	want
+195	23792	1	9	0	4106402	Your gift to Goodwill will help the many people who want to tell their own stories of success .	9177	tell.v	750	Telling	MANUAL	6556520	60	63	JKs	tell
+195	23792	1	9	0	4106402	Your gift to Goodwill will help the many people who want to tell their own stories of success .	12598	success.n	1388	Success_or_failure	MANUAL	6556521	86	92	JKs	success
+195	23792	2	9	0	4106403	Your support will help them go to work .	null	null	null	null	UNANN	6556456	null	null	null	null
+195	23792	2	9	0	4106403	Your support will help them go to work .	7041	help.v	391	Assistance	MANUAL	6556747	18	21	JKs	help
+195	23792	2	9	0	4106403	Your support will help them go to work .	5780	work.v	282	Being_employed	MANUAL	6556748	34	37	JKs	work
+195	23792	2	9	0	4106403	Your support will help them go to work .	10799	to.prep	1177	Goal	MANUAL	6557412	31	32	AlK	to
+195	23792	1	10	0	4106404	Please use the enclosed envelope to give a generous gift to Goodwill today !	null	null	null	null	UNANN	6556457	null	null	null	null
+195	23792	1	10	0	4106404	Please use the enclosed envelope to give a generous gift to Goodwill today !	10619	use.v	1141	Using	MANUAL	6556508	7	9	JKs	use
+195	23792	1	10	0	4106404	Please use the enclosed envelope to give a generous gift to Goodwill today !	14796	enclose.v	62	Placing	MANUAL	6556509	15	22	JKs	enclosed
+195	23792	1	10	0	4106404	Please use the enclosed envelope to give a generous gift to Goodwill today !	1677	envelope.n	78	Containers	MANUAL	6556510	24	31	JKs	envelope
+195	23792	1	10	0	4106404	Please use the enclosed envelope to give a generous gift to Goodwill today !	4344	give.v	139	Giving	MANUAL	6556511	36	39	JKs	give
+195	23792	1	10	0	4106404	Please use the enclosed envelope to give a generous gift to Goodwill today !	9009	generous.a	724	Stinginess	MANUAL	6556512	43	50	JKs	generous
+195	23792	1	10	0	4106404	Please use the enclosed envelope to give a generous gift to Goodwill today !	5372	gift.n	139	Giving	MANUAL	6556513	52	55	JKs	gift
+195	23792	1	10	0	4106404	Please use the enclosed envelope to give a generous gift to Goodwill today !	14201	today.n	1895	Temporal_collocation	MANUAL	6556514	69	73	JKs	today
+195	23792	1	11	0	4106405	Sincerely ,	null	null	null	null	UNANN	6556458	null	null	null	null
+195	23792	1	12	0	4106406	William A Carter , Chairman Goodwill Industries Foundation	null	null	null	null	UNANN	6556459	null	null	null	null
+195	23792	1	12	0	4106406	William A Carter , Chairman Goodwill Industries Foundation	1576	chairman.n	73	Leadership	MANUAL	6556507	19	26	JKs	Chairman
+195	23792	1	13	0	4106407	P.S. Your gift is a wise investment in the community .	null	null	null	null	UNANN	6556460	null	null	null	null
+195	23792	1	13	0	4106407	P.S. Your gift is a wise investment in the community .	5372	gift.n	139	Giving	MANUAL	6556492	10	13	JKs	gift
+195	23792	1	13	0	4106407	P.S. Your gift is a wise investment in the community .	13073	wise.a	29	Mental_property	MANUAL	6556493	20	23	JKs	wise
+195	23792	1	13	0	4106407	P.S. Your gift is a wise investment in the community .	10697	community.n	103	Aggregate	MANUAL	6556494	43	51	JKs	community
+195	23792	2	13	0	4106408	For every dollar donated to Goodwill in 1998 , we helped our `` graduates '' earn an estimated $ 102 .	null	null	null	null	UNANN	6556461	null	null	null	null
+195	23792	2	13	0	4106408	For every dollar donated to Goodwill in 1998 , we helped our `` graduates '' earn an estimated $ 102 .	5344	donate.v	139	Giving	MANUAL	6556496	17	23	JKs	donated
+195	23792	2	13	0	4106408	For every dollar donated to Goodwill in 1998 , we helped our `` graduates '' earn an estimated $ 102 .	14080	in.prep	1895	Temporal_collocation	MANUAL	6556497	37	38	JKs	in
+195	23792	2	13	0	4106408	For every dollar donated to Goodwill in 1998 , we helped our `` graduates '' earn an estimated $ 102 .	7041	help.v	391	Assistance	MANUAL	6556498	50	55	JKs	helped
+195	23792	2	13	0	4106408	For every dollar donated to Goodwill in 1998 , we helped our `` graduates '' earn an estimated $ 102 .	14364	graduate.n	111	Education_teaching	MANUAL	6556499	64	72	JKs	graduates
+195	23792	2	13	0	4106408	For every dollar donated to Goodwill in 1998 , we helped our `` graduates '' earn an estimated $ 102 .	13730	earn.v	1873	Earnings_and_losses	MANUAL	6556500	77	80	JKs	earn
+195	23792	3	13	0	4106409	That money was then spent in a variety of ways , adding fuel to our thriving economy .	null	null	null	null	UNANN	6556462	null	null	null	null
+195	23792	3	13	0	4106409	That money was then spent in a variety of ways , adding fuel to our thriving economy .	13361	money.n	1761	Money	MANUAL	6556501	5	9	JKs	money
+195	23792	3	13	0	4106409	That money was then spent in a variety of ways , adding fuel to our thriving economy .	14086	then.adv	1895	Temporal_collocation	MANUAL	6556502	15	18	JKs	then
+195	23792	3	13	0	4106409	That money was then spent in a variety of ways , adding fuel to our thriving economy .	14043	variety.n	1893	Diversity	MANUAL	6556503	31	37	JKs	variety
+195	23792	3	13	0	4106409	That money was then spent in a variety of ways , adding fuel to our thriving economy .	13557	way.n	1790	Means	MANUAL	6556504	42	45	JKs	ways
+195	23792	3	13	0	4106409	That money was then spent in a variety of ways , adding fuel to our thriving economy .	13517	thrive.v	1771	Thriving	MANUAL	6556505	68	75	JKs	thriving
+195	23792	3	13	0	4106409	That money was then spent in a variety of ways , adding fuel to our thriving economy .	12489	economy.n	1572	Economy	MANUAL	6556506	77	83	JKs	economy

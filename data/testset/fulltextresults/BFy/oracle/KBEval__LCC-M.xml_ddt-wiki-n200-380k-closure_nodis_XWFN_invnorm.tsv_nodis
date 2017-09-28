@@ -1,0 +1,16 @@
+filename	KBEval__LCC-M.xml
+docAnnotations	286
+docManual	186
+docUnannotated	100
+sentences	92
+paragraphs	30
+Overlapping	153
+Disambiguated	105
+TP	77
+TN	100
+FP	0
+FN	81
+P	1.0
+R	0.4873417721518987
+F	0.6553191489361703
+A	0.686046511627907

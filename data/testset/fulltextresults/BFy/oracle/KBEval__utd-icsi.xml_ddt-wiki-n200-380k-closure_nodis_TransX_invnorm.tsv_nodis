@@ -1,0 +1,16 @@
+filename	KBEval__utd-icsi.xml
+docAnnotations	399
+docManual	254
+docUnannotated	145
+sentences	117
+paragraphs	37
+Overlapping	210
+Disambiguated	184
+TP	118
+TN	145
+FP	0
+FN	70
+P	1.0
+R	0.6276595744680851
+F	0.7712418300653594
+A	0.7897897897897898

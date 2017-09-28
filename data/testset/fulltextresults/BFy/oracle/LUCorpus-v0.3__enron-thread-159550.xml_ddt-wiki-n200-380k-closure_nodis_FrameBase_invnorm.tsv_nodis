@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__enron-thread-159550.xml
+docAnnotations	308
+docManual	133
+docUnannotated	175
+sentences	155
+paragraphs	104
+Overlapping	103
+Disambiguated	77
+TP	55
+TN	175
+FP	0
+FN	56
+P	1.0
+R	0.4954954954954955
+F	0.6626506024096385
+A	0.8041958041958042

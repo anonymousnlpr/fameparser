@@ -1,0 +1,119 @@
+SILVER:175	23592	1	2	0	4099232	The United Nations says Somali gunmen who hijacked a U.N. - chartered vessel carrying food aid for tsunami victims have released the ship after holding it for more than two months .	751	say.v	43	Statement	MANUAL	6534068	19	22	MJE	says
+LINKED:[3	3	19	22	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15088 ===
+	Spelling_and_pronouncing: 1.6659725114535613E-5
+	Speak_on_topic: 1.5872763924382153E-5
+	Becoming_aware: 9.765625E-6
+	Text_creation: 5.484591041468993E-6
+	Statement: 3.2727824934937087E-7
+	Communication: 1.6511129078888688E-7
+
+SELECTED:[Statement]
+MATCH!
+SILVER:175	23592	1	2	0	4099232	The United Nations says Somali gunmen who hijacked a U.N. - chartered vessel carrying food aid for tsunami victims have released the ship after holding it for more than two months .	2471	hijack.v	123	Piracy	MANUAL	6534069	42	49	MJE	hijacked
+LINKED:[7	7	42	49	bn:00085405v		http://babelnet.org/rdf/s00085405v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15089 ===
+	Piracy: 0.012345679012345678
+	Getting: 1.4133077053536095E-5
+
+SELECTED:[Piracy]
+MATCH!
+SILVER:175	23592	1	2	0	4099232	The United Nations says Somali gunmen who hijacked a U.N. - chartered vessel carrying food aid for tsunami victims have released the ship after holding it for more than two months .	4068	month.n	229	Calendric_unit	MANUAL	6534071	173	178	MJE	months
+LINKED:[30	30	173	178	bn:00014710n	http://dbpedia.org/resource/Month	http://babelnet.org/rdf/s00014710n	1.0	0.10526316	0.0018948365	BABELFY]
+RANK:=== COUNTER  Counter 15090 ===
+	Calendric_unit: 2.3564897728343855E-5
+	Location_in_time: 2.2144274376417234E-6
+	Timespan: 1.570341894837344E-6
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:175	23592	1	2	0	4099232	The United Nations says Somali gunmen who hijacked a U.N. - chartered vessel carrying food aid for tsunami victims have released the ship after holding it for more than two months .	4470	carry.v	240	Bringing	MANUAL	6534073	77	84	MJE	carrying
+LINKED:[13	13	77	84	bn:00084554v		http://babelnet.org/rdf/s00084554v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15091 ===
+	Carry_goods: 4.725897920604915E-4
+	Bringing: 5.406574394463668E-5
+	Cause_motion: 8.072530068156372E-7
+
+SELECTED:[Bringing]
+MATCH!
+SILVER:175	23592	1	2	0	4099232	The United Nations says Somali gunmen who hijacked a U.N. - chartered vessel carrying food aid for tsunami victims have released the ship after holding it for more than two months .	13129	food.n	277	Food	MANUAL	6534076	86	89	MJE	food
+LINKED:[14	14	86	89	bn:00035650n	http://dbpedia.org/resource/Food	http://babelnet.org/rdf/s00035650n	0.9655172	0.6315789	0.07958314	BABELFY]
+RANK:=== COUNTER  Counter 15092 ===
+	Substance_by_phase: 3.415859356773188E-7
+	Food: 7.320421281460242E-8
+
+SELECTED:[Food]
+MATCH!
+SILVER:175	23592	1	2	0	4099232	The United Nations says Somali gunmen who hijacked a U.N. - chartered vessel carrying food aid for tsunami victims have released the ship after holding it for more than two months .	13123	aid	391	Assistance	MANUAL	6534077	91	93	MJE	aid
+LINKED:[15	15	91	93	bn:00002154n		http://babelnet.org/rdf/s00002154n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15093 ===
+	Assistance: 4.565376186997809E-5
+
+SELECTED:[Assistance]
+MATCH!
+SILVER:175	23592	1	2	0	4099232	The United Nations says Somali gunmen who hijacked a U.N. - chartered vessel carrying food aid for tsunami victims have released the ship after holding it for more than two months .	18492	victim.n	115	Catastrophe	MANUAL	6534078	107	113	MJE	victims
+LINKED:[18	18	107	113	bn:00079940n		http://babelnet.org/rdf/s00079940n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15094 ===
+	Undergoing: 5.408328826392645E-4
+	People: 9.178366912266303E-9
+
+SELECTED:[]
+WRONG!
+SILVER:175	23592	1	2	0	4099232	The United Nations says Somali gunmen who hijacked a U.N. - chartered vessel carrying food aid for tsunami victims have released the ship after holding it for more than two months .	5760	release.v	317	Releasing	MANUAL	6534079	120	127	MJE	released
+LINKED:[20	20	120	127	bn:00090297v		http://babelnet.org/rdf/s00090297v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15095 ===
+	Releasing: 5.408328826392645E-4
+
+SELECTED:[Releasing]
+MATCH!
+SILVER:175	23592	1	2	0	4099232	The United Nations says Somali gunmen who hijacked a U.N. - chartered vessel carrying food aid for tsunami victims have released the ship after holding it for more than two months .	8142	ship.n	429	Vehicle	MANUAL	6534080	133	136	MJE	ship
+LINKED:[22	22	133	136	bn:00071103n	http://dbpedia.org/resource/Ship	http://babelnet.org/rdf/s00071103n	1.0	0.47368422	0.05542397	BABELFY]
+RANK:=== COUNTER  Counter 15096 ===
+	Vehicle: 3.305785123966942E-6
+	Inherent_purpose: 3.71105971128475E-8
+
+SELECTED:[Vehicle]
+MATCH!
+SILVER:175	23592	1	2	0	4099232	The United Nations says Somali gunmen who hijacked a U.N. - chartered vessel carrying food aid for tsunami victims have released the ship after holding it for more than two months .	13131	vessel.n	429	Vehicle	MANUAL	6534081	70	75	MJE	vessel
+LINKED:[12	12	70	75	bn:00079618n		http://babelnet.org/rdf/s00079618n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15097 ===
+	Part_whole: 1.312749422390254E-7
+
+SELECTED:[]
+WRONG!
+SILVER:175	23592	1	2	0	4099232	The United Nations says Somali gunmen who hijacked a U.N. - chartered vessel carrying food aid for tsunami victims have released the ship after holding it for more than two months .	13130	gunman.n	470	Bearing_arms	MANUAL	6534082	31	36	MJE	gunmen
+LINKED:[5	5	31	36	bn:00911626n	http://dbpedia.org/resource/Gunmen_(1994_film)	http://babelnet.org/rdf/s00911626n	0.8	0.10526316	0.0018948365	BABELFY]
+RANK:=== COUNTER  Counter 15098 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23592	1	2	0	4099232	The United Nations says Somali gunmen who hijacked a U.N. - chartered vessel carrying food aid for tsunami victims have released the ship after holding it for more than two months .	13132	hold.v	245	Inhibit_movement	MANUAL	6534083	144	150	MJE	holding
+LINKED:[24	24	144	150	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15099 ===
+	Cause_to_continue: 0.0022675736961451248
+	Activity_ongoing: 8.163265306122448E-4
+
+SELECTED:[]
+WRONG!
+SILVER:175	23592	1	2	0	4099232	The United Nations says Somali gunmen who hijacked a U.N. - chartered vessel carrying food aid for tsunami victims have released the ship after holding it for more than two months .	13156	charter.v	1728	Renting	MANUAL	6534315	60	68	MJE	chartered
+LINKED:[11	11	60	68	bn:00099546a		http://babelnet.org/rdf/s00099546a	1.0	0.05263158	4.7370914E-4	BABELFY]
+RANK:=== COUNTER  Counter 15100 ===
+
+SELECTED:[]
+WRONG!
+filename	Miscellaneous__Hijack.xml
+docAnnotations	17
+docManual	14
+docUnannotated	3
+sentences	3
+paragraphs	3
+Overlapping	13
+Disambiguated	11
+TP	8
+TN	3
+FP	0
+FN	3
+P	1.0
+R	0.7272727272727273
+F	0.8421052631578948
+A	0.7857142857142857

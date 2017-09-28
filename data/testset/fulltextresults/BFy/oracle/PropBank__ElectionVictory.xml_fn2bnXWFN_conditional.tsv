@@ -1,0 +1,1002 @@
+SILVER:115	23010	1	1	0	2824267	It can be hoped that Spanish Prime Minister Felipe Gonzalez will draw the right conclusion from his narrow election victory Sunday .	6604	hope.v	366	Desiring	MANUAL	4528593	10	14	CHg	hoped
+LINKED:[3	3	10	14	bn:00086683v		http://babelnet.org/rdf/s00086683v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27732 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	1	0	2824267	It can be hoped that Spanish Prime Minister Felipe Gonzalez will draw the right conclusion from his narrow election victory Sunday .	223	conclusion.n	23	Coming_to_believe	MANUAL	4528602	80	89	CHg	conclusion
+LINKED:[14	14	80	89	bn:00021584n		http://babelnet.org/rdf/s00021584n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27734 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	1	0	2824267	It can be hoped that Spanish Prime Minister Felipe Gonzalez will draw the right conclusion from his narrow election victory Sunday .	9831	victory.n	798	Finish_competition	MANUAL	4528607	116	122	CHg	victory
+LINKED:[19	19	116	122	bn:00078365n	http://dbpedia.org/resource/Victory	http://babelnet.org/rdf/s00078365n	0.85714287	0.15384616	0.010676157	BABELFY]
+RANK:=== COUNTER  Counter 27736 ===
+	Finish_competition: 0.0909090909090909
+
+SELECTED:[Finish_competition]
+MATCH!
+SILVER:115	23010	1	1	0	2824267	It can be hoped that Spanish Prime Minister Felipe Gonzalez will draw the right conclusion from his narrow election victory Sunday .	10822	prime	73	Leadership	MANUAL	4529482	29	33	EGp	Prime
+LINKED:[6	6	29	33	bn:00064383n		http://babelnet.org/rdf/s00064383n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27738 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	1	0	2824267	It can be hoped that Spanish Prime Minister Felipe Gonzalez will draw the right conclusion from his narrow election victory Sunday .	10822	prime	73	Leadership	MANUAL	4529482	35	42	EGp	Minister
+LINKED:[7	7	35	42	bn:00024459n	http://dbpedia.org/resource/Minister_(Christianity)	http://babelnet.org/rdf/s00024459n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27740 ===
+	Leadership: 0.017857142857142835
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23010	1	1	0	2824267	It can be hoped that Spanish Prime Minister Felipe Gonzalez will draw the right conclusion from his narrow election victory Sunday .	10900	election.n	72	Change_of_leadership	MANUAL	4530071	107	114	JKR	election
+LINKED:[18	18	107	114	bn:00030113n	http://dbpedia.org/resource/Election	http://babelnet.org/rdf/s00030113n	0.9285714	0.53846157	0.16192171	BABELFY]
+RANK:=== COUNTER  Counter 27742 ===
+	Change_of_leadership: 0.05263157894736844
+
+SELECTED:[Change_of_leadership]
+MATCH!
+SILVER:115	23010	1	1	0	2824267	It can be hoped that Spanish Prime Minister Felipe Gonzalez will draw the right conclusion from his narrow election victory Sunday .	12450	narrow.a	1562	Margin_of_resolution	MANUAL	4530405	100	105	JKR	narrow
+LINKED:[17	17	100	105	bn:00107118a		http://babelnet.org/rdf/s00107118a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27744 ===
+	Clarity_of_resolution: 0.25
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	1	0	2824267	It can be hoped that Spanish Prime Minister Felipe Gonzalez will draw the right conclusion from his narrow election victory Sunday .	12273	right.a	1512	Correctness	MANUAL	4530944	74	78	AlK	right
+LINKED:[13	13	74	78	bn:00109849a		http://babelnet.org/rdf/s00109849a	1.0	0.07692308	0.0017793594	BABELFY]
+RANK:=== COUNTER  Counter 27746 ===
+	Morality_evaluation: 0.058823529411764705
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	1	0	2824267	It can be hoped that Spanish Prime Minister Felipe Gonzalez will draw the right conclusion from his narrow election victory Sunday .	4655	Sunday.n	229	Calendric_unit	MANUAL	4531146	124	129	AlK	Sunday
+LINKED:[20	20	124	129	bn:00028190n	http://dbpedia.org/resource/Lord's_Day	http://babelnet.org/rdf/s00028190n	0.8695652	0.30769232	0.035587188	BABELFY]
+RANK:=== COUNTER  Counter 27748 ===
+	Calendric_unit: 0.023255813953488358
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:115	23010	2	1	0	2824268	A strong challenge from the far left , the Communist coalition Izquierda Unida , failed to topple him .	10385	topple.v	72	Change_of_leadership	MANUAL	4528612	91	96	CHg	topple
+LINKED:[16	16	91	96	bn:00095032v		http://babelnet.org/rdf/s00095032v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27750 ===
+	Motion_directional: 0.11111111111111108
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	1	0	2824268	A strong challenge from the far left , the Communist coalition Izquierda Unida , failed to topple him .	11858	fail.v	1389	Successful_action	MANUAL	4530384	81	86	RLG	failed
+LINKED:[14	14	81	86	bn:00087967v		http://babelnet.org/rdf/s00087967v	1.0	0.14285715	0.0034965035	BABELFY]
+RANK:=== COUNTER  Counter 27752 ===
+	Successful_action: 0.14285714285714288
+
+SELECTED:[Successful_action]
+MATCH!
+SILVER:115	23010	2	1	0	2824268	A strong challenge from the far left , the Communist coalition Izquierda Unida , failed to topple him .	12473	strong.a	1563	Level_of_force_exertion	MANUAL	4530412	2	7	JKR	strong
+LINKED:[1	1	2	7	bn:00111312a		http://babelnet.org/rdf/s00111312a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27754 ===
+	Exertive_force: 1.0
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	1	0	2824268	A strong challenge from the far left , the Communist coalition Izquierda Unida , failed to topple him .	12487	far	1564	People_along_political_spectrum	MANUAL	4530422	28	30	EGp	far
+LINKED:[5	5	28	30	bn:00102778a		http://babelnet.org/rdf/s00102778a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27756 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	1	0	2824268	A strong challenge from the far left , the Communist coalition Izquierda Unida , failed to topple him .	12487	far	1564	People_along_political_spectrum	MANUAL	4530422	32	35	EGp	left
+LINKED:[6	6	32	35	bn:00050521n	http://dbpedia.org/resource/Relative_direction	http://babelnet.org/rdf/s00050521n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27758 ===
+	People_along_political_spectrum: 0.3333333333333333
+	Change_direction: 0.14285714285714288
+	Part_orientational: 0.039999999999999994
+
+SELECTED:[People_along_political_spectrum]
+MATCH!
+SILVER:115	23010	2	1	0	2824268	A strong challenge from the far left , the Communist coalition Izquierda Unida , failed to topple him .	12501	challenge.n	241	Competition	MANUAL	4530453	9	17	JKR	challenge
+LINKED:[2	2	9	17	bn:00017557n		http://babelnet.org/rdf/s00017557n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27760 ===
+	Difficulty: 0.2
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	1	0	2824268	A strong challenge from the far left , the Communist coalition Izquierda Unida , failed to topple him .	12500	coalition.n	1574	Alliance	MANUAL	4530946	53	61	AlK	coalition
+LINKED:[10	10	53	61	bn:00144044n	http://dbpedia.org/resource/Coalition	http://babelnet.org/rdf/s00144044n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27762 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	1	0	2824269	He should consider his victory a mandate to continue his growth-oriented economic reforms and not a demand that he move further left .	9831	victory.n	798	Finish_competition	MANUAL	4528622	23	29	CHg	victory
+LINKED:[4	4	23	29	bn:00078365n	http://dbpedia.org/resource/Victory	http://babelnet.org/rdf/s00078365n	1.0	0.16666667	0.1	BABELFY]
+RANK:=== COUNTER  Counter 27764 ===
+	Finish_competition: 0.0909090909090909
+
+SELECTED:[Finish_competition]
+MATCH!
+SILVER:115	23010	3	1	0	2824269	He should consider his victory a mandate to continue his growth-oriented economic reforms and not a demand that he move further left .	5435	continue.v	164	Activity_ongoing	MANUAL	4528623	44	51	CHg	continue
+LINKED:[8	8	44	51	bn:00083242v		http://babelnet.org/rdf/s00083242v	1.0	0.16666667	0.1	BABELFY]
+RANK:=== COUNTER  Counter 27766 ===
+	Process_continue: 0.16666666666666669
+	Activity_ongoing: 0.16666666666666669
+
+SELECTED:[Activity_ongoing]
+MATCH!
+SILVER:115	23010	3	1	0	2824269	He should consider his victory a mandate to continue his growth-oriented economic reforms and not a demand that he move further left .	644	demand.n	41	Request	MANUAL	4528626	100	105	CHg	demand
+LINKED:[16	16	100	105	bn:00026103n		http://babelnet.org/rdf/s00026103n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27768 ===
+	Request: 0.047619047619047596
+
+SELECTED:[Request]
+MATCH!
+SILVER:115	23010	3	1	0	2824269	He should consider his victory a mandate to continue his growth-oriented economic reforms and not a demand that he move further left .	10819	consider.v	21	Categorization	MANUAL	4529474	10	17	JKR	consider
+LINKED:[2	2	10	17	bn:00085647v		http://babelnet.org/rdf/s00085647v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27770 ===
+	Regard: 0.14285714285714288
+	Categorization: 0.0625
+	Awareness: 0.04347826086956524
+
+SELECTED:[Categorization]
+MATCH!
+SILVER:115	23010	3	1	0	2824269	He should consider his victory a mandate to continue his growth-oriented economic reforms and not a demand that he move further left .	18768	mandate.n	520	Deny_or_grant_permission	MANUAL	4530162	33	39	RLG	mandate
+LINKED:[6	6	33	39	bn:00007292n		http://babelnet.org/rdf/s00007292n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27772 ===
+	Documents: 0.041666666666666685
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	1	0	2824269	He should consider his victory a mandate to continue his growth-oriented economic reforms and not a demand that he move further left .	12490	economic.a	1572	Economy	MANUAL	4530423	73	80	JKR	economic
+LINKED:[11	11	73	80	bn:00102001a		http://babelnet.org/rdf/s00102001a	1.0	0.16666667	0.1	BABELFY]
+RANK:=== COUNTER  Counter 27774 ===
+	Economy: 0.5
+
+SELECTED:[Economy]
+MATCH!
+SILVER:115	23010	3	1	0	2824269	He should consider his victory a mandate to continue his growth-oriented economic reforms and not a demand that he move further left .	12477	reform.n	1571	Reforming_a_system	MANUAL	4530424	82	88	JKR	reforms
+LINKED:[12	12	82	88	bn:00066830n	http://dbpedia.org/resource/Reform	http://babelnet.org/rdf/s00066830n	1.0	0.16666667	0.1	BABELFY]
+RANK:=== COUNTER  Counter 27776 ===
+	Reforming_a_system: 0.2
+
+SELECTED:[Reforming_a_system]
+MATCH!
+SILVER:115	23010	3	1	0	2824269	He should consider his victory a mandate to continue his growth-oriented economic reforms and not a demand that he move further left .	12496	left.adv	215	Direction	MANUAL	4530434	128	131	JKR	left
+LINKED:[21	21	128	131	bn:00088939v		http://babelnet.org/rdf/s00088939v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27778 ===
+	Departing: 0.039999999999999994
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	1	0	2824270	If he follows the correct path , he may be able to look back on this election as the high-water mark of far-left opposition .	3773	path.n	203	Roadways	MANUAL	4528635	26	29	CHg	path
+LINKED:[5	5	26	29	bn:00023288n	http://dbpedia.org/resource/Course_(navigation)	http://babelnet.org/rdf/s00023288n	1.0	0.11111111	0.016949153	BABELFY]
+RANK:=== COUNTER  Counter 27780 ===
+	Path_travelled: 0.25
+	Roadways: 0.03448275862068967
+
+SELECTED:[Roadways]
+MATCH!
+SILVER:115	23010	4	1	0	2824270	If he follows the correct path , he may be able to look back on this election as the high-water mark of far-left opposition .	10154	able.a	990	Capability	MANUAL	4528637	43	46	CHg	able
+LINKED:[10	10	43	46	bn:00096152a		http://babelnet.org/rdf/s00096152a	1.0	0.11111111	0.016949153	BABELFY]
+RANK:=== COUNTER  Counter 27782 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	1	0	2824270	If he follows the correct path , he may be able to look back on this election as the high-water mark of far-left opposition .	11504	opposition	1306	Taking_sides	MANUAL	4530172	113	122	RLG	opposition
+LINKED:[23	23	113	122	bn:00059192n		http://babelnet.org/rdf/s00059192n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27784 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	1	0	2824270	If he follows the correct path , he may be able to look back on this election as the high-water mark of far-left opposition .	10900	election.n	72	Change_of_leadership	MANUAL	4530303	69	76	RLG	election
+LINKED:[16	16	69	76	bn:00030113n	http://dbpedia.org/resource/Election	http://babelnet.org/rdf/s00030113n	0.72727275	0.11111111	0.13559322	BABELFY]
+RANK:=== COUNTER  Counter 27786 ===
+	Change_of_leadership: 0.05263157894736844
+
+SELECTED:[Change_of_leadership]
+MATCH!
+SILVER:115	23010	4	1	0	2824270	If he follows the correct path , he may be able to look back on this election as the high-water mark of far-left opposition .	12441	look	1222	Remembering_experience	MANUAL	4530413	51	54	EGp	look
+LINKED:[12	12	51	54	bn:00090448v		http://babelnet.org/rdf/s00090448v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27788 ===
+	Seeking: 0.05555555555555554
+	Perception_active: 0.03125
+	Scrutiny: 0.029411764705882353
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	1	0	2824270	If he follows the correct path , he may be able to look back on this election as the high-water mark of far-left opposition .	12486	correct.a	368	Suitability	MANUAL	4530432	18	24	JKR	correct
+LINKED:[4	4	18	24	bn:00100493a		http://babelnet.org/rdf/s00100493a	1.0	0.11111111	0.016949153	BABELFY]
+RANK:=== COUNTER  Counter 27790 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	1	0	2824270	If he follows the correct path , he may be able to look back on this election as the high-water mark of far-left opposition .	12491	high-water	1573	Extreme_point	MANUAL	4530532	96	99	EGp	mark
+LINKED:[20	20	96	99	bn:00041241n	http://dbpedia.org/resource/Grading_(education)	http://babelnet.org/rdf/s00041241n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27792 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	1	0	2824270	If he follows the correct path , he may be able to look back on this election as the high-water mark of far-left opposition .	2337	follow.v	117	Compliance	MANUAL	6771029	6	12	HPh	follows
+LINKED:[2	2	6	12	bn:00088421v		http://babelnet.org/rdf/s00088421v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27794 ===
+	Cotheme: 0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	2	0	2824271	The far left had some good issues even if it did not have good programs for dealing with them .	10724	program.n	1158	Project	MANUAL	4530164	63	70	RLG	programs
+LINKED:[14	14	63	70	bn:00021497n	http://dbpedia.org/resource/Software	http://babelnet.org/rdf/s00021497n	0.7058824	0.5	0.08053691	BABELFY]
+RANK:=== COUNTER  Counter 27796 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	2	0	2824271	The far left had some good issues even if it did not have good programs for dealing with them .	12318	deal.v	1523	Resolve_problem	MANUAL	4530473	76	82	JKR	dealing
+LINKED:[16	16	76	82	bn:00082339v		http://babelnet.org/rdf/s00082339v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27798 ===
+	Resolve_problem: 0.2
+	Topic: 0.125
+	Speak_on_topic: 0.0909090909090909
+
+SELECTED:[Resolve_problem]
+MATCH!
+SILVER:115	23010	1	2	0	2824271	The far left had some good issues even if it did not have good programs for dealing with them .	12487	far	1564	People_along_political_spectrum	MANUAL	4530493	4	6	EGp	far
+LINKED:[1	1	4	6	bn:00102778a		http://babelnet.org/rdf/s00102778a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27800 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	2	0	2824271	The far left had some good issues even if it did not have good programs for dealing with them .	12487	far	1564	People_along_political_spectrum	MANUAL	4530493	8	11	EGp	left
+LINKED:[2	2	8	11	bn:00050521n	http://dbpedia.org/resource/Relative_direction	http://babelnet.org/rdf/s00050521n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27802 ===
+	People_along_political_spectrum: 0.3333333333333333
+	Change_direction: 0.14285714285714288
+	Part_orientational: 0.039999999999999994
+
+SELECTED:[People_along_political_spectrum]
+MATCH!
+SILVER:115	23010	1	2	0	2824271	The far left had some good issues even if it did not have good programs for dealing with them .	12630	issue.n	1608	Point_of_dispute	MANUAL	4530522	27	32	JKR	issues
+LINKED:[6	6	27	32	bn:00047688n		http://babelnet.org/rdf/s00047688n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27804 ===
+	Point_of_dispute: 0.3333333333333333
+
+SELECTED:[Point_of_dispute]
+MATCH!
+SILVER:115	23010	1	2	0	2824271	The far left had some good issues even if it did not have good programs for dealing with them .	9110	good.a	726	Usefulness	MANUAL	4531149	22	25	AlK	good
+LINKED:[5	5	22	25	bn:00103672a		http://babelnet.org/rdf/s00103672a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27806 ===
+	Usefulness: 0.3333333333333333
+	Desirability: 0.125
+	Social_interaction_evaluation: 0.047619047619047596
+	Expertise: 0.030303030303030325
+
+SELECTED:[Usefulness]
+MATCH!
+SILVER:115	23010	1	2	0	2824271	The far left had some good issues even if it did not have good programs for dealing with them .	9110	good.a	726	Usefulness	MANUAL	4531150	58	61	AlK	good
+LINKED:[13	13	58	61	bn:00103672a		http://babelnet.org/rdf/s00103672a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27808 ===
+	Usefulness: 0.3333333333333333
+	Desirability: 0.125
+	Social_interaction_evaluation: 0.047619047619047596
+	Expertise: 0.030303030303030325
+
+SELECTED:[Usefulness]
+MATCH!
+SILVER:115	23010	2	2	0	2824272	It could point to plenty of ailments that the Spanish economic rejuvenation so far has failed to cure .	10361	ailment.n	239	Medical_conditions	MANUAL	4528670	28	35	CHg	ailments
+LINKED:[6	6	28	35	bn:00027546n	http://dbpedia.org/resource/Disease	http://babelnet.org/rdf/s00027546n	1.0	0.5555556	0.5555556	BABELFY]
+RANK:=== COUNTER  Counter 27810 ===
+	Medical_conditions: 0.01612903225806453
+
+SELECTED:[Medical_conditions]
+MATCH!
+SILVER:115	23010	2	2	0	2824272	It could point to plenty of ailments that the Spanish economic rejuvenation so far has failed to cure .	901	cure.v	50	Cure	MANUAL	4528671	97	100	CHg	cure
+LINKED:[17	17	97	100	bn:00086157v		http://babelnet.org/rdf/s00086157v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27812 ===
+	Preserving: 0.10000000000000002
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	2	0	2824272	It could point to plenty of ailments that the Spanish economic rejuvenation so far has failed to cure .	11858	fail.v	1389	Successful_action	MANUAL	4530386	87	92	RLG	failed
+LINKED:[15	15	87	92	bn:00087973v		http://babelnet.org/rdf/s00087973v	1.0	0.22222222	0.06349207	BABELFY]
+RANK:=== COUNTER  Counter 27814 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	2	0	2824272	It could point to plenty of ailments that the Spanish economic rejuvenation so far has failed to cure .	12490	economic.a	1572	Economy	MANUAL	4530462	54	61	RLG	economic
+LINKED:[10	10	54	61	bn:00102003a		http://babelnet.org/rdf/s00102003a	1.0	0.11111111	0.015873017	BABELFY]
+RANK:=== COUNTER  Counter 27816 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	2	0	2824272	It could point to plenty of ailments that the Spanish economic rejuvenation so far has failed to cure .	12555	so	1594	Continued_state_of_affairs	MANUAL	4530472	79	81	EGp	far
+LINKED:[13	13	79	81	bn:00115326r		http://babelnet.org/rdf/s00115326r	1.0	0.11111111	0.015873017	BABELFY]
+RANK:=== COUNTER  Counter 27818 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	2	0	2824272	It could point to plenty of ailments that the Spanish economic rejuvenation so far has failed to cure .	12601	point.v	1601	Adducing	MANUAL	4530482	9	13	JKR	point
+LINKED:[2	2	9	13	bn:00083436v		http://babelnet.org/rdf/s00083436v	1.0	0.11111111	0.015873017	BABELFY]
+RANK:=== COUNTER  Counter 27820 ===
+	Sign: 0.16666666666666669
+	Communication: 0.16666666666666669
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	2	0	2824272	It could point to plenty of ailments that the Spanish economic rejuvenation so far has failed to cure .	12644	rejuvenation.n	1614	Rejuvenation	MANUAL	4530533	63	74	RLG	rejuvenation
+LINKED:[11	11	63	74	bn:00066993n		http://babelnet.org/rdf/s00066993n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27822 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	2	0	2824273	Unemployment still is officially recorded at 16.5 % , the highest rate in Europe , although actual joblessness may be lower .	1981	low.a	95	Position_on_a_scale	MANUAL	4528713	118	122	CHg	lower
+LINKED:[20	20	118	122	bn:13759553a		http://babelnet.org/rdf/s13759553a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27824 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	2	0	2824273	Unemployment still is officially recorded at 16.5 % , the highest rate in Europe , although actual joblessness may be lower .	12517	actual.a	1580	Actually_occurring_entity	MANUAL	4530474	92	97	JKR	actual
+LINKED:[16	16	92	97	bn:00096397a		http://babelnet.org/rdf/s00096397a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27826 ===
+	Actually_occurring_entity: 1.0
+
+SELECTED:[Actually_occurring_entity]
+MATCH!
+SILVER:115	23010	3	2	0	2824273	Unemployment still is officially recorded at 16.5 % , the highest rate in Europe , although actual joblessness may be lower .	12623	unemployment.n	1606	Unemployment_rate	MANUAL	4530502	0	11	JKR	Unemployment
+LINKED:[0	0	0	11	bn:00079045n	http://dbpedia.org/resource/Unemployment	http://babelnet.org/rdf/s00079045n	1.0	0.5	0.101265825	BABELFY]
+RANK:=== COUNTER  Counter 27828 ===
+	Unemployment_rate: 0.5
+	Being_employed: 0.125
+
+SELECTED:[Unemployment_rate]
+MATCH!
+SILVER:115	23010	3	2	0	2824273	Unemployment still is officially recorded at 16.5 % , the highest rate in Europe , although actual joblessness may be lower .	12624	joblessness.n	1606	Unemployment_rate	MANUAL	4530503	99	109	JKR	joblessness
+LINKED:[17	17	99	109	bn:00079045n	http://dbpedia.org/resource/Unemployment	http://babelnet.org/rdf/s00079045n	1.0	0.5	0.101265825	BABELFY]
+RANK:=== COUNTER  Counter 27830 ===
+	Unemployment_rate: 0.5
+	Being_employed: 0.125
+
+SELECTED:[Unemployment_rate]
+MATCH!
+SILVER:115	23010	3	2	0	2824273	Unemployment still is officially recorded at 16.5 % , the highest rate in Europe , although actual joblessness may be lower .	12641	record.v	1615	Recording	MANUAL	4530537	33	40	RLG	recorded
+LINKED:[4	4	33	40	bn:00085408v		http://babelnet.org/rdf/s00085408v	1.0	0.25	0.012658228	BABELFY]
+RANK:=== COUNTER  Counter 27832 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	2	0	2824273	Unemployment still is officially recorded at 16.5 % , the highest rate in Europe , although actual joblessness may be lower .	16122	rate.n	2431	Proportion	MANUAL	6772982	66	69	HPh	rate
+LINKED:[11	11	66	69	bn:00017803n		http://babelnet.org/rdf/s00017803n	0.75	0.75	0.15189873	BABELFY]
+RANK:=== COUNTER  Counter 27834 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	2	0	2824274	Housing is scarce and public services -- the court system , schools , mail service , telephone network and the highways -- are in disgraceful condition .	3778	highway.n	203	Roadways	MANUAL	4528717	111	118	CHg	highways
+LINKED:[20	20	111	118	bn:00032402n	http://dbpedia.org/resource/Thoroughfare	http://babelnet.org/rdf/s00032402n	0.8108108	0.3125	0.009715026	BABELFY]
+RANK:=== COUNTER  Counter 27836 ===
+	Roadways: 0.03448275862068967
+
+SELECTED:[Roadways]
+MATCH!
+SILVER:115	23010	4	2	0	2824274	Housing is scarce and public services -- the court system , schools , mail service , telephone network and the highways -- are in disgraceful condition .	11659	school.n	196	Locale_by_use	MANUAL	4530191	60	66	Pam	schools
+LINKED:[11	11	60	66	bn:00069619n	http://dbpedia.org/resource/School	http://babelnet.org/rdf/s00069619n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27838 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	2	0	2824274	Housing is scarce and public services -- the court system , schools , mail service , telephone network and the highways -- are in disgraceful condition .	12613	housing.n	173	Buildings	MANUAL	4530483	0	6	JKR	Housing
+LINKED:[0	0	0	6	bn:00089489v		http://babelnet.org/rdf/s00089489v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27840 ===
+	Containing: 0.5
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	2	0	2824274	Housing is scarce and public services -- the court system , schools , mail service , telephone network and the highways -- are in disgraceful condition .	12609	scarce.a	1603	Scarcity	MANUAL	4530484	11	16	JKR	scarce
+LINKED:[2	2	11	16	bn:00110149a		http://babelnet.org/rdf/s00110149a	1.0	0.125	0.0012953368	BABELFY]
+RANK:=== COUNTER  Counter 27842 ===
+	Scarcity: 0.3333333333333333
+
+SELECTED:[Scarcity]
+MATCH!
+SILVER:115	23010	4	2	0	2824274	Housing is scarce and public services -- the court system , schools , mail service , telephone network and the highways -- are in disgraceful condition .	12616	service.n	1605	Public_services	MANUAL	4530505	75	81	JKR	service
+LINKED:[14	14	75	81	bn:00070651n	http://dbpedia.org/resource/Service_(economics)	http://babelnet.org/rdf/s00070651n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27844 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	2	0	2824274	Housing is scarce and public services -- the court system , schools , mail service , telephone network and the highways -- are in disgraceful condition .	12597	condition.n	1600	State_of_entity	MANUAL	4530506	142	150	JKR	condition
+LINKED:[25	25	142	150	bn:00021644n		http://babelnet.org/rdf/s00021644n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27846 ===
+	State_of_entity: 0.5
+	Medical_conditions: 0.01612903225806453
+
+SELECTED:[State_of_entity]
+MATCH!
+SILVER:115	23010	4	2	0	2824274	Housing is scarce and public services -- the court system , schools , mail service , telephone network and the highways -- are in disgraceful condition .	12625	court.n	1607	Judicial_body	MANUAL	4530512	45	49	JKR	court
+LINKED:[8	8	45	49	bn:00023301n	http://dbpedia.org/resource/Tribunal	http://babelnet.org/rdf/s00023301n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27848 ===
+	Judicial_body: 0.5
+
+SELECTED:[Judicial_body]
+MATCH!
+SILVER:115	23010	4	2	0	2824274	Housing is scarce and public services -- the court system , schools , mail service , telephone network and the highways -- are in disgraceful condition .	12633	public	1605	Public_services	MANUAL	4530513	22	27	EGp	public
+LINKED:[4	4	22	27	bn:00109211a		http://babelnet.org/rdf/s00109211a	1.0	0.0625	3.238342E-4	BABELFY]
+RANK:=== COUNTER  Counter 27850 ===
+	Secrecy_status: 0.2
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	2	0	2824274	Housing is scarce and public services -- the court system , schools , mail service , telephone network and the highways -- are in disgraceful condition .	12633	public	1605	Public_services	MANUAL	4530513	29	36	EGp	services
+LINKED:[5	5	29	36	bn:00070651n	http://dbpedia.org/resource/Service_(economics)	http://babelnet.org/rdf/s00070651n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27852 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	2	0	2824274	Housing is scarce and public services -- the court system , schools , mail service , telephone network and the highways -- are in disgraceful condition .	12634	mail.n	1609	Sent_items	MANUAL	4530523	70	73	JKR	mail
+LINKED:[13	13	70	73	bn:00052814n		http://babelnet.org/rdf/s00052814n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27854 ===
+	Sent_items: 0.3333333333333333
+
+SELECTED:[Sent_items]
+MATCH!
+SILVER:115	23010	4	2	0	2824274	Housing is scarce and public services -- the court system , schools , mail service , telephone network and the highways -- are in disgraceful condition .	12637	system.n	1610	System	MANUAL	4530534	51	56	RLG	system
+LINKED:[9	9	51	56	bn:00075759n		http://babelnet.org/rdf/s00075759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27856 ===
+	Gizmo: 0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	2	0	2824274	Housing is scarce and public services -- the court system , schools , mail service , telephone network and the highways -- are in disgraceful condition .	12639	disgraceful.a	1612	Disgraceful_situation	MANUAL	4530535	130	140	RLG	disgraceful
+LINKED:[24	24	130	140	bn:00101514a		http://babelnet.org/rdf/s00101514a	1.0	0.0625	3.238342E-4	BABELFY]
+RANK:=== COUNTER  Counter 27858 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	2	0	2824274	Housing is scarce and public services -- the court system , schools , mail service , telephone network and the highways -- are in disgraceful condition .	12638	network.n	1611	Network	MANUAL	4530536	95	101	RLG	network
+LINKED:[17	17	95	101	bn:00024712n	http://dbpedia.org/resource/Cyberspace	http://babelnet.org/rdf/s00024712n	0.76029414	0.6875	0.16742228	BABELFY]
+RANK:=== COUNTER  Counter 27860 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	5	2	0	2824275	Large pockets of poverty still exist .	10384	pocket.n	192	Locale	MANUAL	4528719	6	12	CHg	pockets
+LINKED:[1	1	6	12	bn:00063155n	http://dbpedia.org/resource/Pocket	http://babelnet.org/rdf/s00063155n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27862 ===
+	Clothing_parts: 0.029411764705882353
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	5	2	0	2824275	Large pockets of poverty still exist .	8570	exist.v	660	Existence	MANUAL	4528722	31	35	CHg	exist
+LINKED:[5	5	31	35	bn:00083184v		http://babelnet.org/rdf/s00083184v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27864 ===
+	Existence: 0.3333333333333333
+
+SELECTED:[Existence]
+MATCH!
+SILVER:115	23010	5	2	0	2824275	Large pockets of poverty still exist .	10302	poverty.n	85	Wealthiness	MANUAL	4529892	17	23	MHa	poverty
+LINKED:[3	3	17	23	bn:00046157n	http://dbpedia.org/resource/Poverty	http://babelnet.org/rdf/s00046157n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27866 ===
+	Wealthiness: 0.2
+
+SELECTED:[Wealthiness]
+MATCH!
+SILVER:115	23010	1	3	0	2824276	The left also is critical of the style of the Socialist government -- a remarkable parallel to the situation in Britain .	310	critical.a	28	Judgment	MANUAL	4528724	17	24	CHg	critical
+LINKED:[4	4	17	24	bn:00100672a		http://babelnet.org/rdf/s00100672a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27868 ===
+	Judgment: 0.028571428571428564
+
+SELECTED:[Judgment]
+MATCH!
+SILVER:115	23010	1	3	0	2824276	The left also is critical of the style of the Socialist government -- a remarkable parallel to the situation in Britain .	10891	parallel.n	481	Similarity	MANUAL	4529852	83	90	JKR	parallel
+LINKED:[15	15	83	90	bn:00003780n	http://dbpedia.org/resource/Analogue_(literature)	http://babelnet.org/rdf/s00003780n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27870 ===
+	Similarity: 0.0625
+
+SELECTED:[Similarity]
+MATCH!
+SILVER:115	23010	1	3	0	2824276	The left also is critical of the style of the Socialist government -- a remarkable parallel to the situation in Britain .	12182	government.n	73	Leadership	MANUAL	4530380	56	65	RLG	government
+LINKED:[11	11	56	65	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27872 ===
+	Organization: 0.14285714285714288
+	Leadership: 0.017857142857142835
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23010	1	3	0	2824276	The left also is critical of the style of the Socialist government -- a remarkable parallel to the situation in Britain .	12455	left.n	1564	People_along_political_spectrum	MANUAL	4531157	4	7	AlK	left
+LINKED:[1	1	4	7	bn:00050521n	http://dbpedia.org/resource/Relative_direction	http://babelnet.org/rdf/s00050521n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27874 ===
+	People_along_political_spectrum: 0.3333333333333333
+	Change_direction: 0.14285714285714288
+	Part_orientational: 0.039999999999999994
+
+SELECTED:[People_along_political_spectrum]
+MATCH!
+SILVER:115	23010	2	3	0	2824277	Mr. Gonzalez and his colleagues , particularly the finance minister , Carlos Solchaga , are charged with having abandoned their socialist principles and with having become arrogant elitists who refuse even to go on television ( controlled by the state ) to face their accusers .	1595	minister.n	73	Leadership	MANUAL	4528727	59	66	CHg	minister
+LINKED:[9	9	59	66	bn:00024459n	http://dbpedia.org/resource/Minister_(Christianity)	http://babelnet.org/rdf/s00024459n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27876 ===
+	Leadership: 0.017857142857142835
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23010	2	3	0	2824277	Mr. Gonzalez and his colleagues , particularly the finance minister , Carlos Solchaga , are charged with having abandoned their socialist principles and with having become arrogant elitists who refuse even to go on television ( controlled by the state ) to face their accusers .	7376	charge.v	219	Judgment_communication	MANUAL	4528735	92	98	CHg	charged
+LINKED:[15	15	92	98	bn:00083234v		http://babelnet.org/rdf/s00083234v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27878 ===
+	Attack: 0.047619047619047596
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	3	0	2824277	Mr. Gonzalez and his colleagues , particularly the finance minister , Carlos Solchaga , are charged with having abandoned their socialist principles and with having become arrogant elitists who refuse even to go on television ( controlled by the state ) to face their accusers .	12758	refuse.v	1625	Agree_or_refuse_to_act	MANUAL	4530742	194	199	KmG	refuse
+LINKED:[29	29	194	199	bn:00086594v		http://babelnet.org/rdf/s00086594v	1.0	0.055555556	0.0024360537	BABELFY]
+RANK:=== COUNTER  Counter 27880 ===
+	Agree_or_refuse_to_act: 0.25
+
+SELECTED:[Agree_or_refuse_to_act]
+MATCH!
+SILVER:115	23010	2	3	0	2824277	Mr. Gonzalez and his colleagues , particularly the finance minister , Carlos Solchaga , are charged with having abandoned their socialist principles and with having become arrogant elitists who refuse even to go on television ( controlled by the state ) to face their accusers .	14839	abandon.v	2031	Abandonment	MANUAL	4530893	112	120	AlK	abandoned
+LINKED:[18	18	112	120	bn:00082118v		http://babelnet.org/rdf/s00082118v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27882 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	3	0	2824277	Mr. Gonzalez and his colleagues , particularly the finance minister , Carlos Solchaga , are charged with having abandoned their socialist principles and with having become arrogant elitists who refuse even to go on television ( controlled by the state ) to face their accusers .	14979	face.v	2054	Confronting_problem	MANUAL	4531158	257	260	AlK	face
+LINKED:[42	42	257	260	bn:00085597v		http://babelnet.org/rdf/s00085597v	0.8888889	0.11111111	0.009744215	BABELFY]
+RANK:=== COUNTER  Counter 27884 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	3	0	2824277	Mr. Gonzalez and his colleagues , particularly the finance minister , Carlos Solchaga , are charged with having abandoned their socialist principles and with having become arrogant elitists who refuse even to go on television ( controlled by the state ) to face their accusers .	16331	state.n	73	Leadership	MANUAL	6563327	246	250	MLC	state
+LINKED:[39	39	246	250	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.84476537	0.7222222	0.57003653	BABELFY]
+RANK:=== COUNTER  Counter 27886 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	3	0	2824277	Mr. Gonzalez and his colleagues , particularly the finance minister , Carlos Solchaga , are charged with having abandoned their socialist principles and with having become arrogant elitists who refuse even to go on television ( controlled by the state ) to face their accusers .	18157	control.v	1800	Being_in_control	MANUAL	6736528	228	237	HPh	controlled
+LINKED:[36	36	228	237	bn:00085404v		http://babelnet.org/rdf/s00085404v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27888 ===
+	Leadership: 0.017857142857142835
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	3	0	2824278	In response to this , the Socialist prime minister has simply cited his free-market accomplishments .	10822	prime	73	Leadership	MANUAL	4529483	36	40	EGp	prime
+LINKED:[7	7	36	40	bn:00108959a		http://babelnet.org/rdf/s00108959a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27890 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	3	0	2824278	In response to this , the Socialist prime minister has simply cited his free-market accomplishments .	10822	prime	73	Leadership	MANUAL	4529483	42	49	EGp	minister
+LINKED:[8	8	42	49	bn:00041200n	http://dbpedia.org/resource/Minister_(government)	http://babelnet.org/rdf/s00041200n	0.73333335	0.2	0.23404256	BABELFY]
+RANK:=== COUNTER  Counter 27892 ===
+	Leadership: 0.017857142857142835
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:115	23010	3	3	0	2824278	In response to this , the Socialist prime minister has simply cited his free-market accomplishments .	11469	response.n	1302	Response	MANUAL	4530165	3	10	RLG	response
+LINKED:[1	1	3	10	bn:00067368n	http://dbpedia.org/resource/Response_(liturgy)	http://babelnet.org/rdf/s00067368n	1.0	0.2	0.04255319	BABELFY]
+RANK:=== COUNTER  Counter 27894 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	3	0	2824278	In response to this , the Socialist prime minister has simply cited his free-market accomplishments .	12307	accomplishment.n	1519	Accomplishment	MANUAL	4530374	84	98	RLG	accomplishments
+LINKED:[14	14	84	98	bn:00000724n		http://babelnet.org/rdf/s00000724n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27896 ===
+	Accomplishment: 0.25
+
+SELECTED:[Accomplishment]
+MATCH!
+SILVER:115	23010	3	3	0	2824278	In response to this , the Socialist prime minister has simply cited his free-market accomplishments .	12600	cite.v	1601	Adducing	MANUAL	4530622	62	66	JKR	cited
+LINKED:[11	11	62	66	bn:00085005v		http://babelnet.org/rdf/s00085005v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27898 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	4	0	2824279	They are very considerable : Since 1986 , when Spain joined the European Community , its gross domestic product has grown at an annual average of 4.6 % -- the fastest in the EC .	1882	grow.v	91	Change_position_on_a_scale	MANUAL	4528597	116	120	KlB	grown
+LINKED:[20	20	116	120	bn:00089082v		http://babelnet.org/rdf/s00089082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27900 ===
+	Becoming: 0.2
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	4	0	2824279	They are very considerable : Since 1986 , when Spain joined the European Community , its gross domestic product has grown at an annual average of 4.6 % -- the fastest in the EC .	13160	join.v	1733	Becoming_a_member	MANUAL	4530662	53	58	RLG	joined
+LINKED:[10	10	53	58	bn:00082317v		http://babelnet.org/rdf/s00082317v	0.75	0.18181819	0.008836525	BABELFY]
+RANK:=== COUNTER  Counter 27902 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	4	0	2824279	They are very considerable : Since 1986 , when Spain joined the European Community , its gross domestic product has grown at an annual average of 4.6 % -- the fastest in the EC .	12181	domestic.a	1483	Foreign_or_domestic_country	MANUAL	4530763	95	102	RLG	domestic
+LINKED:[17	17	95	102	bn:00101684a		http://babelnet.org/rdf/s00101684a	0.88235295	0.45454547	0.04418262	BABELFY]
+RANK:=== COUNTER  Counter 27904 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	4	0	2824279	They are very considerable : Since 1986 , when Spain joined the European Community , its gross domestic product has grown at an annual average of 4.6 % -- the fastest in the EC .	13251	considerable.a	407	Importance	MANUAL	4531159	14	25	AlK	considerable
+LINKED:[3	3	14	25	bn:00100315a		http://babelnet.org/rdf/s00100315a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27906 ===
+	Importance: 0.10000000000000002
+
+SELECTED:[Importance]
+MATCH!
+SILVER:115	23010	1	4	0	2824279	They are very considerable : Since 1986 , when Spain joined the European Community , its gross domestic product has grown at an annual average of 4.6 % -- the fastest in the EC .	1724	annual.a	80	Frequency	MANUAL	6772986	128	133	HPh	annual
+LINKED:[23	23	128	133	bn:00097148a		http://babelnet.org/rdf/s00097148a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27908 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	4	0	2824280	In that time more than 1.2 million jobs have been created and the official jobless rate has been pushed below 17 % from 21 % .	5785	job.n	282	Being_employed	MANUAL	4528631	35	38	KlB	jobs
+LINKED:[7	7	35	38	bn:00014138n	http://dbpedia.org/resource/Job	http://babelnet.org/rdf/s00014138n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27910 ===
+	Being_employed: 0.125
+
+SELECTED:[Being_employed]
+MATCH!
+SILVER:115	23010	2	4	0	2824280	In that time more than 1.2 million jobs have been created and the official jobless rate has been pushed below 17 % from 21 % .	5437	create.v	280	Intentionally_create	MANUAL	4528633	50	56	KlB	created
+LINKED:[10	10	50	56	bn:00086008v		http://babelnet.org/rdf/s00086008v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27912 ===
+	Creating: 0.14285714285714288
+	Building: 0.125
+	Intentionally_create: 0.0909090909090909
+	Causation: 0.08333333333333333
+	Invention: 0.08333333333333333
+	Cause_to_start: 0.07692307692307694
+
+SELECTED:[Intentionally_create]
+MATCH!
+SILVER:115	23010	2	4	0	2824280	In that time more than 1.2 million jobs have been created and the official jobless rate has been pushed below 17 % from 21 % .	13327	push.v	96	Cause_change_of_position_on_a_scale	MANUAL	4530755	97	102	CFB	pushed
+LINKED:[18	18	97	102	bn:00088456v		http://babelnet.org/rdf/s00088456v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27914 ===
+	Cause_motion: 0.04999999999999999
+	Manipulation: 0.03333333333333334
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	4	0	2824280	In that time more than 1.2 million jobs have been created and the official jobless rate has been pushed below 17 % from 21 % .	15397	time.n	224	Measure_duration	MANUAL	4531162	8	11	AlK	time
+LINKED:[2	2	8	11	bn:00077270n	http://dbpedia.org/resource/Time	http://babelnet.org/rdf/s00077270n	1.0	0.6666667	0.37209302	BABELFY]
+RANK:=== COUNTER  Counter 27916 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	4	0	2824280	In that time more than 1.2 million jobs have been created and the official jobless rate has been pushed below 17 % from 21 % .	12594	jobless.a	282	Being_employed	MANUAL	4531165	75	81	AlK	jobless
+LINKED:[14	14	75	81	bn:00104524a		http://babelnet.org/rdf/s00104524a	1.0	0.16666667	0.034883723	BABELFY]
+RANK:=== COUNTER  Counter 27918 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	4	0	2824280	In that time more than 1.2 million jobs have been created and the official jobless rate has been pushed below 17 % from 21 % .	16122	rate.n	2431	Proportion	MANUAL	6772996	83	86	HPh	rate
+LINKED:[15	15	83	86	bn:00066236n	http://dbpedia.org/resource/Rate_(mathematics)	http://babelnet.org/rdf/s00066236n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27920 ===
+	Frequency: 0.125
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	4	0	2824281	A 14 % inflation rate dropped below 5 % .	1954	drop.v	91	Change_position_on_a_scale	MANUAL	4528640	22	28	KlB	dropped
+LINKED:[5	5	22	28	bn:00087372v		http://babelnet.org/rdf/s00087372v	1.0	0.33333334	0.037037037	BABELFY]
+RANK:=== COUNTER  Counter 27922 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	4	0	2824281	A 14 % inflation rate dropped below 5 % .	16122	rate.n	2431	Proportion	MANUAL	6772998	17	20	HPh	rate
+LINKED:[4	4	17	20	bn:00066236n	http://dbpedia.org/resource/Rate_(mathematics)	http://babelnet.org/rdf/s00066236n	0.75	0.6666667	0.22222222	BABELFY]
+RANK:=== COUNTER  Counter 27924 ===
+	Frequency: 0.125
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	4	0	2824282	Net foreign investment through August this year has been running at a pace of $ 12.5 billion , about double the year-earlier rate .	12180	foreign.a	1483	Foreign_or_domestic_country	MANUAL	4530381	4	10	RLG	foreign
+LINKED:[1	1	4	10	bn:00103206a		http://babelnet.org/rdf/s00103206a	1.0	0.11111111	0.007142857	BABELFY]
+RANK:=== COUNTER  Counter 27926 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	4	0	2824282	Net foreign investment through August this year has been running at a pace of $ 12.5 billion , about double the year-earlier rate .	4074	year.n	229	Calendric_unit	MANUAL	4530382	43	46	RLG	year
+LINKED:[6	6	43	46	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27928 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	4	0	2824282	Net foreign investment through August this year has been running at a pace of $ 12.5 billion , about double the year-earlier rate .	13291	pace.n	966	Speed_description	MANUAL	4531166	70	73	AlK	pace
+LINKED:[12	12	70	73	bn:00037030n		http://babelnet.org/rdf/s00037030n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27930 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	4	0	2824282	Net foreign investment through August this year has been running at a pace of $ 12.5 billion , about double the year-earlier rate .	4650	August.n	229	Calendric_unit	MANUAL	4531167	31	36	AlK	August
+LINKED:[4	4	31	36	bn:00007140n	http://dbpedia.org/resource/August	http://babelnet.org/rdf/s00007140n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27932 ===
+	Calendric_unit: 0.023255813953488358
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:115	23010	4	4	0	2824282	Net foreign investment through August this year has been running at a pace of $ 12.5 billion , about double the year-earlier rate .	1207	run.v	64	Self_motion	MANUAL	6773001	57	63	HPh	running
+LINKED:[9	9	57	63	bn:00093170v		http://babelnet.org/rdf/s00093170v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27934 ===
+	Self_motion: 0.009708737864077673
+
+SELECTED:[Self_motion]
+MATCH!
+SILVER:115	23010	4	4	0	2824282	Net foreign investment through August this year has been running at a pace of $ 12.5 billion , about double the year-earlier rate .	16122	rate.n	2431	Proportion	MANUAL	6773004	125	128	HPh	rate
+LINKED:[22	22	125	128	bn:00066236n	http://dbpedia.org/resource/Rate_(mathematics)	http://babelnet.org/rdf/s00066236n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27936 ===
+	Frequency: 0.125
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	5	4	0	2824283	Mr. Gonzalez also has split with the left in reaffirming Spain 's NATO commitment and in renewing a defense treaty with the U.S .	741	reaffirm.v	43	Statement	MANUAL	4528658	45	55	KlB	reaffirming
+LINKED:[9	9	45	55	bn:00092439v		http://babelnet.org/rdf/s00092439v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27938 ===
+	Statement: 0.0158730158730159
+
+SELECTED:[Statement]
+MATCH!
+SILVER:115	23010	5	4	0	2824283	Mr. Gonzalez also has split with the left in reaffirming Spain 's NATO commitment and in renewing a defense treaty with the U.S .	10651	commitment.n	33	Commitment	MANUAL	4528659	71	80	KlB	commitment
+LINKED:[13	13	71	80	bn:00021033n		http://babelnet.org/rdf/s00021033n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27940 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	5	4	0	2824283	Mr. Gonzalez also has split with the left in reaffirming Spain 's NATO commitment and in renewing a defense treaty with the U.S .	10698	renew.v	1156	Activity_resume	MANUAL	4528660	89	96	KlB	renewing
+LINKED:[16	16	89	96	bn:00092710v		http://babelnet.org/rdf/s00092710v	1.0	0.1	0.0015923567	BABELFY]
+RANK:=== COUNTER  Counter 27942 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	5	4	0	2824283	Mr. Gonzalez also has split with the left in reaffirming Spain 's NATO commitment and in renewing a defense treaty with the U.S .	8370	treaty.n	560	Documents	MANUAL	4528661	108	113	KlB	treaty
+LINKED:[19	19	108	113	bn:00000728n	http://dbpedia.org/resource/Pact	http://babelnet.org/rdf/s00000728n	0.8333333	0.5	0.039808918	BABELFY]
+RANK:=== COUNTER  Counter 27944 ===
+	Be_in_agreement_on_action: 0.3333333333333333
+	Make_agreement_on_action: 0.25
+	Documents: 0.041666666666666685
+
+SELECTED:[Documents]
+MATCH!
+SILVER:115	23010	5	4	0	2824283	Mr. Gonzalez also has split with the left in reaffirming Spain 's NATO commitment and in renewing a defense treaty with the U.S .	12455	left.n	1564	People_along_political_spectrum	MANUAL	4530475	37	40	JKR	left
+LINKED:[7	7	37	40	bn:00083420v		http://babelnet.org/rdf/s00083420v	1.0	0.2	0.006369427	BABELFY]
+RANK:=== COUNTER  Counter 27946 ===
+	Giving: 0.06666666666666668
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	5	4	0	2824283	Mr. Gonzalez also has split with the left in reaffirming Spain 's NATO commitment and in renewing a defense treaty with the U.S .	13703	split.v	1863	Becoming_separated	MANUAL	4530764	22	26	RLG	split
+LINKED:[4	4	22	26	bn:00083928v		http://babelnet.org/rdf/s00083928v	1.0	0.2	0.006369427	BABELFY]
+RANK:=== COUNTER  Counter 27948 ===
+	Forming_relationships: 0.08333333333333333
+	Experience_bodily_harm: 0.06666666666666668
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	5	0	2824284	Mr. Gonzalez is not quite a closet supply-side revolutionary , however .	13710	revolutionary.n	72	Change_of_leadership	MANUAL	4530772	47	59	RLG	revolutionary
+LINKED:[8	8	47	59	bn:00067569n	http://dbpedia.org/resource/Revolutionary	http://babelnet.org/rdf/s00067569n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27950 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	5	0	2824285	He did not go as far as he could have in tax reductions ; indeed he combined them with increases in indirect taxes .	1991	reduction.n	96	Cause_change_of_position_on_a_scale	MANUAL	4528665	45	54	KlB	reductions
+LINKED:[12	12	45	54	bn:00025780n		http://babelnet.org/rdf/s00025780n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27952 ===
+	Cause_change_of_position_on_a_scale: 0.058823529411764705
+	Cause_expansion: 0.058823529411764705
+	Change_position_on_a_scale: 0.02777777777777777
+
+SELECTED:[Cause_change_of_position_on_a_scale]
+MATCH!
+SILVER:115	23010	2	5	0	2824285	He did not go as far as he could have in tax reductions ; indeed he combined them with increases in indirect taxes .	39	combine.v	13	Cause_to_amalgamate	MANUAL	4528666	68	75	KlB	combined
+LINKED:[16	16	68	75	bn:00082317v		http://babelnet.org/rdf/s00082317v	0.90909094	0.2	0.09803922	BABELFY]
+RANK:=== COUNTER  Counter 27954 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	5	0	2824285	He did not go as far as he could have in tax reductions ; indeed he combined them with increases in indirect taxes .	1871	increase.n	91	Change_position_on_a_scale	MANUAL	4528668	87	95	KlB	increases
+LINKED:[19	19	87	95	bn:00001294n		http://babelnet.org/rdf/s00001294n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27956 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	5	0	2824285	He did not go as far as he could have in tax reductions ; indeed he combined them with increases in indirect taxes .	14978	far.adv	2001	Degree	MANUAL	6773009	17	19	HPh	far
+LINKED:[5	5	17	19	bn:00115322r		http://babelnet.org/rdf/s00115322r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27958 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	6	0	2824286	Yet the best the far-left could do was not enough to deter the biggest voting bloc -- nearly 40 % -- from endorsing the direction Spain is taking .	6287	good.a	354	Desirability	MANUAL	4528937	8	11	KlB	best
+LINKED:[2	2	8	11	bn:00098274a		http://babelnet.org/rdf/s00098274a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27960 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	6	0	2824286	Yet the best the far-left could do was not enough to deter the biggest voting bloc -- nearly 40 % -- from endorsing the direction Spain is taking .	13711	endorse.v	1306	Taking_sides	MANUAL	4530773	106	114	RLG	endorsing
+LINKED:[22	22	106	114	bn:00082981v		http://babelnet.org/rdf/s00082981v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27962 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	6	0	2824286	Yet the best the far-left could do was not enough to deter the biggest voting bloc -- nearly 40 % -- from endorsing the direction Spain is taking .	12475	far-left.n	1564	People_along_political_spectrum	MANUAL	4531170	17	24	AlK	far-left
+LINKED:[4	4	17	24	bn:01064471n	http://dbpedia.org/resource/Far-left_politics	http://babelnet.org/rdf/s01064471n	1.0	0.16666667	0.013157895	BABELFY]
+RANK:=== COUNTER  Counter 27964 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	6	0	2824286	Yet the best the far-left could do was not enough to deter the biggest voting bloc -- nearly 40 % -- from endorsing the direction Spain is taking .	14283	nearly.adv	1923	Proportional_quantity	MANUAL	4531172	86	91	AlK	nearly
+LINKED:[17	17	86	91	bn:00114079r		http://babelnet.org/rdf/s00114079r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27966 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	6	0	2824288	He should do more to reduce tax rates on wealth and income , in recognition of the fact that those cuts yield higher , not lower , revenues .	1990	reduce.v	96	Cause_change_of_position_on_a_scale	MANUAL	4528682	21	26	KlB	reduce
+LINKED:[5	5	21	26	bn:00084079v		http://babelnet.org/rdf/s00084079v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27968 ===
+	Cause_change_of_position_on_a_scale: 0.058823529411764705
+
+SELECTED:[Cause_change_of_position_on_a_scale]
+MATCH!
+SILVER:115	23010	3	6	0	2824288	He should do more to reduce tax rates on wealth and income , in recognition of the fact that those cuts yield higher , not lower , revenues .	1980	high.a	95	Position_on_a_scale	MANUAL	4528715	110	115	KlB	higher
+LINKED:[22	22	110	115	bn:00104196a		http://babelnet.org/rdf/s00104196a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27970 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	6	0	2824288	He should do more to reduce tax rates on wealth and income , in recognition of the fact that those cuts yield higher , not lower , revenues .	1981	low.a	95	Position_on_a_scale	MANUAL	4528716	123	127	KlB	lower
+LINKED:[25	25	123	127	bn:13759553a		http://babelnet.org/rdf/s13759553a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27972 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	6	0	2824288	He should do more to reduce tax rates on wealth and income , in recognition of the fact that those cuts yield higher , not lower , revenues .	13735	income.n	1873	Earnings_and_losses	MANUAL	4531178	52	57	AlK	income
+LINKED:[11	11	52	57	bn:14505599n	http://dbpedia.org/resource/Income	http://babelnet.org/rdf/s14505599n	0.7222222	0.7	0.18533605	BABELFY]
+RANK:=== COUNTER  Counter 27974 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	6	0	2824288	He should do more to reduce tax rates on wealth and income , in recognition of the fact that those cuts yield higher , not lower , revenues .	13433	yield.v	319	Creating	MANUAL	4531179	104	108	AlK	yield
+LINKED:[21	21	104	108	bn:00082442v		http://babelnet.org/rdf/s00082442v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27976 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	6	0	2824288	He should do more to reduce tax rates on wealth and income , in recognition of the fact that those cuts yield higher , not lower , revenues .	13734	revenue.n	1873	Earnings_and_losses	MANUAL	4531180	131	138	AlK	revenues
+LINKED:[27	27	131	138	bn:00041868n	http://dbpedia.org/resource/Gross_(economics)	http://babelnet.org/rdf/s00041868n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27978 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	6	0	2824288	He should do more to reduce tax rates on wealth and income , in recognition of the fact that those cuts yield higher , not lower , revenues .	16123	rate.n	2427	Relational_quantity	MANUAL	6773012	32	36	HPh	rates
+LINKED:[7	7	32	36	bn:00017803n		http://babelnet.org/rdf/s00017803n	0.8	0.3	0.024439918	BABELFY]
+RANK:=== COUNTER  Counter 27980 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	6	0	2824289	He could do more to cut public subsidies and transfers , thus making funds available for public services starved of money for six years .	10820	cut.v	96	Cause_change_of_position_on_a_scale	MANUAL	4529486	20	22	JKR	cut
+LINKED:[5	5	20	22	bn:00086184v		http://babelnet.org/rdf/s00086184v	0.8	0.18181819	0.008830022	BABELFY]
+RANK:=== COUNTER  Counter 27982 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	6	0	2824289	He could do more to cut public subsidies and transfers , thus making funds available for public services starved of money for six years .	10813	transfer.n	178	Transfer	MANUAL	4530168	45	53	RLG	transfers
+LINKED:[9	9	45	53	bn:00022381n		http://babelnet.org/rdf/s00022381n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27984 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	6	0	2824289	He could do more to cut public subsidies and transfers , thus making funds available for public services starved of money for six years .	3878	year.n	224	Measure_duration	MANUAL	4530383	130	134	RLG	years
+LINKED:[23	23	130	134	bn:00081857n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00081857n	1.0	0.09090909	0.004415011	BABELFY]
+RANK:=== COUNTER  Counter 27986 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	6	0	2824289	He could do more to cut public subsidies and transfers , thus making funds available for public services starved of money for six years .	12633	public	1605	Public_services	MANUAL	4530574	89	94	EGp	public
+LINKED:[16	16	89	94	bn:00109211a		http://babelnet.org/rdf/s00109211a	0.9	0.27272728	0.01986755	BABELFY]
+RANK:=== COUNTER  Counter 27988 ===
+	Secrecy_status: 0.2
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	6	0	2824289	He could do more to cut public subsidies and transfers , thus making funds available for public services starved of money for six years .	12633	public	1605	Public_services	MANUAL	4530574	96	103	EGp	services
+LINKED:[17	17	96	103	bn:00070651n	http://dbpedia.org/resource/Service_(economics)	http://babelnet.org/rdf/s00070651n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27990 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	6	0	2824289	He could do more to cut public subsidies and transfers , thus making funds available for public services starved of money for six years .	13363	funds.n	1761	Money	MANUAL	4531181	69	73	AlK	funds
+LINKED:[13	13	69	73	bn:00016459n		http://babelnet.org/rdf/s00016459n	0.75	0.45454547	0.06622516	BABELFY]
+RANK:=== COUNTER  Counter 27992 ===
+	Money: 0.2
+
+SELECTED:[Money]
+MATCH!
+SILVER:115	23010	4	6	0	2824289	He could do more to cut public subsidies and transfers , thus making funds available for public services starved of money for six years .	14971	starve.v	2056	Prevent_or_allow_possession	MANUAL	4531182	105	111	AlK	starved
+LINKED:[18	18	105	111	bn:00088028v		http://babelnet.org/rdf/s00088028v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27994 ===
+	Killing: 0.022727272727272742
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	4	6	0	2824289	He could do more to cut public subsidies and transfers , thus making funds available for public services starved of money for six years .	13361	money.n	1761	Money	MANUAL	4531183	116	120	AlK	money
+LINKED:[20	20	116	120	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	0.97959185	0.8181818	0.3178808	BABELFY]
+RANK:=== COUNTER  Counter 27996 ===
+	Money: 0.2
+
+SELECTED:[Money]
+MATCH!
+SILVER:115	23010	1	7	0	2824290	The voters delivered Mr. Gonzalez a third mandate for his successes .	11664	deliver.v	1344	Delivery	MANUAL	4530169	11	19	RLG	delivered
+LINKED:[2	2	11	19	bn:00086531v		http://babelnet.org/rdf/s00086531v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 27998 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	7	0	2824290	The voters delivered Mr. Gonzalez a third mandate for his successes .	18768	mandate.n	520	Deny_or_grant_permission	MANUAL	4530170	42	48	RLG	mandate
+LINKED:[7	7	42	48	bn:00053151n	http://dbpedia.org/resource/Mandate_(politics)	http://babelnet.org/rdf/s00053151n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 28000 ===
+	Grant_permission: 0.125
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	1	7	0	2824290	The voters delivered Mr. Gonzalez a third mandate for his successes .	12598	success.n	1388	Success_or_failure	MANUAL	4530571	58	66	RLG	successes
+LINKED:[10	10	58	66	bn:00075023n		http://babelnet.org/rdf/s00075023n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 28002 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	7	0	2824291	They , as well as numerous Latin American and East European countries that hope to adopt elements of the Spanish model , are supporting the direction Spain is taking .	3683	country.n	195	Political_locales	MANUAL	4528785	60	68	KlB	countries
+LINKED:[11	11	60	68	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.7846365	0.9285714	0.15497155	BABELFY]
+RANK:=== COUNTER  Counter 28004 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	7	0	2824291	They , as well as numerous Latin American and East European countries that hope to adopt elements of the Spanish model , are supporting the direction Spain is taking .	6604	hope.v	366	Desiring	MANUAL	4528786	75	78	KlB	hope
+LINKED:[13	13	75	78	bn:00086683v		http://babelnet.org/rdf/s00086683v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 28006 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	7	0	2824291	They , as well as numerous Latin American and East European countries that hope to adopt elements of the Spanish model , are supporting the direction Spain is taking .	11501	support.v	1306	Taking_sides	MANUAL	4530171	125	134	RLG	supporting
+LINKED:[23	23	125	134	bn:00082995v		http://babelnet.org/rdf/s00082995v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 28008 ===
+	Taking_sides: 0.125
+
+SELECTED:[Taking_sides]
+MATCH!
+SILVER:115	23010	2	7	0	2824291	They , as well as numerous Latin American and East European countries that hope to adopt elements of the Spanish model , are supporting the direction Spain is taking .	12532	adopt.v	1590	Adopt_selection	MANUAL	4530476	83	87	JKR	adopt
+LINKED:[15	15	83	87	bn:00082379v		http://babelnet.org/rdf/s00082379v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 28010 ===
+	Adopt_selection: 0.3333333333333333
+
+SELECTED:[Adopt_selection]
+MATCH!
+SILVER:115	23010	2	7	0	2824291	They , as well as numerous Latin American and East European countries that hope to adopt elements of the Spanish model , are supporting the direction Spain is taking .	13751	numerous.a	189	Quantified_mass	MANUAL	4531185	18	25	AlK	numerous
+LINKED:[5	5	18	25	bn:00105858a		http://babelnet.org/rdf/s00105858a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 28012 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	2	7	0	2824291	They , as well as numerous Latin American and East European countries that hope to adopt elements of the Spanish model , are supporting the direction Spain is taking .	14622	element.n	1348	Ingredients	MANUAL	4531186	89	96	AlK	elements
+LINKED:[16	16	89	96	bn:00021394n	http://dbpedia.org/resource/Aspect_of_music	http://babelnet.org/rdf/s00021394n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 28014 ===
+	Ingredients: 0.25
+
+SELECTED:[Ingredients]
+MATCH!
+SILVER:115	23010	2	7	0	2824291	They , as well as numerous Latin American and East European countries that hope to adopt elements of the Spanish model , are supporting the direction Spain is taking .	15703	model.n	2252	Exemplar	MANUAL	6773015	113	117	HPh	model
+LINKED:[20	20	113	117	bn:00036197n	http://dbpedia.org/resource/Economic_model	http://babelnet.org/rdf/s00036197n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 28016 ===
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	7	0	2824292	It would be sad for Mr. Gonzalez to abandon them to appease his foes .	6447	sad.a	364	Stimulus_focus	MANUAL	4529472	12	14	JKR	sad
+LINKED:[3	3	12	14	bn:00110036a		http://babelnet.org/rdf/s00110036a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 28018 ===
+	Subject_stimulus: 0.03846153846153848
+
+SELECTED:[]
+WRONG!
+SILVER:115	23010	3	7	0	2824292	It would be sad for Mr. Gonzalez to abandon them to appease his foes .	14839	abandon.v	2031	Abandonment	MANUAL	4530926	36	42	AlK	abandon
+LINKED:[8	8	36	42	bn:00082118v		http://babelnet.org/rdf/s00082118v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 28020 ===
+
+SELECTED:[]
+WRONG!
+filename	PropBank__ElectionVictory.xml
+docAnnotations	243
+docManual	217
+docUnannotated	26
+sentences	26
+paragraphs	7
+Overlapping	145
+Disambiguated	80
+TP	16
+TN	26
+FP	0
+FN	137
+P	1.0
+R	0.10457516339869281
+F	0.1893491124260355
+A	0.2346368715083799

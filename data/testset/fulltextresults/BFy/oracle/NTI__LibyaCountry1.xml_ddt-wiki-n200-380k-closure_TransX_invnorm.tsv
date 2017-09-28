@@ -1,0 +1,16 @@
+filename	NTI__LibyaCountry1.xml
+docAnnotations	364
+docManual	301
+docUnannotated	63
+sentences	41
+paragraphs	13
+Overlapping	262
+Disambiguated	235
+TP	169
+TN	63
+FP	0
+FN	66
+P	1.0
+R	0.7191489361702128
+F	0.8366336633663367
+A	0.7785234899328859

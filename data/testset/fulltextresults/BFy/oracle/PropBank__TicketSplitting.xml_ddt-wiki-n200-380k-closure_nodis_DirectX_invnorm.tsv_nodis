@@ -1,0 +1,16 @@
+filename	PropBank__TicketSplitting.xml
+docAnnotations	430
+docManual	362
+docUnannotated	68
+sentences	48
+paragraphs	21
+Overlapping	252
+Disambiguated	208
+TP	162
+TN	68
+FP	0
+FN	154
+P	1.0
+R	0.5126582278481012
+F	0.6778242677824267
+A	0.5989583333333334

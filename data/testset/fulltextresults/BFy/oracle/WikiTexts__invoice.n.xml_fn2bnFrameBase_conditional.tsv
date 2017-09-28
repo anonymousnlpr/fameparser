@@ -1,0 +1,28 @@
+SILVER:246	25733	1	1	0	4216444	Warhol 's collections included airplane menus , unpaid invoices , pizza dough , pornographic pulp novels , newspapers , stamps , supermarket flyers , and cookie jars , among other eccentricities .	18609	invoice.n	2983	Billing	MANUAL	6773317	55	62	CFB	invoices
+LINKED:[8	8	55	62	bn:00058148n	http://dbpedia.org/resource/Promissory_note	http://babelnet.org/rdf/s00058148n	1.0	0.05	0.0051369863	BABELFY]
+RANK:=== COUNTER  Counter 35540 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25733	5	4	0	4216478	The party responsible for receiving billing invoices from the domain name registrar and paying applicable fees .	18609	invoice.n	2983	Billing	MANUAL	6773316	44	51	CFB	invoices
+LINKED:[6	6	44	51	bn:00000746n	http://dbpedia.org/resource/Invoice	http://babelnet.org/rdf/s00000746n	0.71428573	0.33333334	0.18987341	BABELFY]
+RANK:=== COUNTER  Counter 35542 ===
+
+SELECTED:[]
+WRONG!
+filename	WikiTexts__invoice.n.xml
+docAnnotations	94
+docManual	2
+docUnannotated	92
+sentences	90
+paragraphs	9
+Overlapping	2
+Disambiguated	0
+TP	0
+TN	92
+FP	0
+FN	2
+P	0.0
+R	0.0
+F	0.0
+A	0.9787234042553191

@@ -1,0 +1,843 @@
+SILVER:185	23580	2	1	0	4099006	City workers pretended to be victims of the attack .	7745	attack.n	424	Attack	MANUAL	6532171	44	49	JKR	attack
+LINKED:[8	8	44	49	bn:00006995n	http://dbpedia.org/resource/Offense_(sports)	http://babelnet.org/rdf/s00006995n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43922 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	1	0	4099006	City workers pretended to be victims of the attack .	10204	city.n	196	Locale_by_use	MANUAL	6532173	0	3	JKR	City
+LINKED:[0	0	0	3	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.8888889	0.6666667	0.5	BABELFY]
+RANK:=== COUNTER  Counter 43924 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	1	0	4099007	QN : Were the city workers harmed by the attack ?	10204	city.n	196	Locale_by_use	MANUAL	6532174	14	17	JKR	city
+LINKED:[4	4	14	17	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.75	0.5	0.375	BABELFY]
+RANK:=== COUNTER  Counter 43926 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	1	0	4099007	QN : Were the city workers harmed by the attack ?	7745	attack.n	424	Attack	MANUAL	6532175	41	46	JKR	attack
+LINKED:[9	9	41	46	bn:16357654n	http://dbpedia.org/resource/Field_lacrosse	http://babelnet.org/rdf/s16357654n	1.0	0.5	0.125	BABELFY]
+RANK:=== COUNTER  Counter 43928 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	2	0	4099009	The Defense Department has awarded BioPort Corporation a contract to manufacture , test , bottle and store anthrax vaccine , the company has announced .	8394	contract.n	560	Documents	MANUAL	6532177	57	64	JKR	contract
+LINKED:[8	8	57	64	bn:00022227n	http://dbpedia.org/resource/Contract	http://babelnet.org/rdf/s00022227n	0.8918919	0.2	0.06832298	BABELFY]
+RANK:=== COUNTER  Counter 43930 ===
+	Documents: -0.0013717421124828531
+	Being_obligated: -0.015625
+
+SELECTED:[Documents]
+MATCH!
+SILVER:185	23580	2	2	0	4099009	The Defense Department has awarded BioPort Corporation a contract to manufacture , test , bottle and store anthrax vaccine , the company has announced .	11462	test.v	1301	Operational_testing	MANUAL	6532185	83	86	JKR	test
+LINKED:[12	12	83	86	bn:00076647n		http://babelnet.org/rdf/s00076647n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43934 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	2	0	4099009	The Defense Department has awarded BioPort Corporation a contract to manufacture , test , bottle and store anthrax vaccine , the company has announced .	683	announce.v	43	Statement	MANUAL	6532188	141	149	JKR	announced
+LINKED:[23	23	141	149	bn:00082637v		http://babelnet.org/rdf/s00082637v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43936 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	2	0	4099009	The Defense Department has awarded BioPort Corporation a contract to manufacture , test , bottle and store anthrax vaccine , the company has announced .	2440	bottle.v	62	Placing	MANUAL	6532192	90	95	JKR	bottle
+LINKED:[14	14	90	95	bn:00012339n	http://dbpedia.org/resource/Bottle	http://babelnet.org/rdf/s00012339n	1.0	0.06666667	0.0020703934	BABELFY]
+RANK:=== COUNTER  Counter 43940 ===
+	Containers: -9.80296049406921E-5
+	Measure_volume: -9.182736455463729E-4
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	2	0	4099009	The Defense Department has awarded BioPort Corporation a contract to manufacture , test , bottle and store anthrax vaccine , the company has announced .	12426	store.v	1550	Storing	MANUAL	6532194	101	105	JKR	store
+LINKED:[16	16	101	105	bn:00067417n	http://dbpedia.org/resource/Retail	http://babelnet.org/rdf/s00067417n	0.8648649	0.26666668	0.06625259	BABELFY]
+RANK:=== COUNTER  Counter 43942 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	2	0	4099010	QN : Does the Defense Department want BioPort Corporation to manufacture anthrax vaccine ?	6412	want.v	366	Desiring	MANUAL	6532195	33	36	JKR	want
+LINKED:[6	6	33	36	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43944 ===
+	Desiring: -0.0014792899408284025
+	Possession: -0.00510204081632653
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:185	23580	2	3	0	4099012	Chemical weapon projectiles contain a blasting tube which can be seen in an X-ray .	7296	contain.v	397	Containing	MANUAL	6532201	28	34	JKR	contain
+LINKED:[3	3	28	34	bn:00083225v		http://babelnet.org/rdf/s00083225v	1.0	0.125	0.006369427	BABELFY]
+RANK:=== COUNTER  Counter 43952 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	3	0	4099013	QN : Is the blasting tube visible outside the projectile ?	12123	visible.a	1360	Obviousness	MANUAL	6532206	26	32	JKR	visible
+LINKED:[6	6	26	32	bn:00113639a		http://babelnet.org/rdf/s00113639a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43956 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	4	0	4099015	The incident at Mayak was the third shooting in recent weeks involving nuclear weapons or facilities in Russia .	9062	shooting.n	590	Killing	MANUAL	6532210	36	43	JKR	shooting
+LINKED:[7	7	36	43	bn:00089349v		http://babelnet.org/rdf/s00089349v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43958 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	4	0	4099015	The incident at Mayak was the third shooting in recent weeks involving nuclear weapons or facilities in Russia .	3947	week.n	229	Calendric_unit	MANUAL	6532224	55	59	JKR	weeks
+LINKED:[10	10	55	59	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43960 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:185	23580	2	4	0	4099015	The incident at Mayak was the third shooting in recent weeks involving nuclear weapons or facilities in Russia .	10652	nuclear	426	Weapon	MANUAL	6532226	71	77	EGp	nuclear
+LINKED:[12	12	71	77	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43962 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:185	23580	2	4	0	4099015	The incident at Mayak was the third shooting in recent weeks involving nuclear weapons or facilities in Russia .	10662	facility.n	196	Locale_by_use	MANUAL	6532227	90	99	JKR	facilities
+LINKED:[15	15	90	99	bn:00032646n		http://babelnet.org/rdf/s00032646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43966 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	4	0	4099016	QN : Did the incident at Mayak involve nuclear weapons or facilities ?	10652	nuclear	426	Weapon	MANUAL	6532230	39	45	EGp	nuclear
+LINKED:[8	8	39	45	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43968 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:185	23580	3	4	0	4099016	QN : Did the incident at Mayak involve nuclear weapons or facilities ?	10662	facility.n	196	Locale_by_use	MANUAL	6532231	58	67	JKR	facilities
+LINKED:[11	11	58	67	bn:00032646n		http://babelnet.org/rdf/s00032646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43972 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	5	0	4099018	Utah 's Dugway Proving Ground has been chosen as a site to test military vaccines against germ warfare agents .	6270	choose.v	352	Choosing	MANUAL	6532233	39	44	JKR	chosen
+LINKED:[7	7	39	44	bn:00084933v		http://babelnet.org/rdf/s00084933v	1.0	0.15384616	0.016806724	BABELFY]
+RANK:=== COUNTER  Counter 43974 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	5	0	4099018	Utah 's Dugway Proving Ground has been chosen as a site to test military vaccines against germ warfare agents .	11550	site.n	196	Locale_by_use	MANUAL	6532234	51	54	JKR	site
+LINKED:[10	10	51	54	bn:15263366n	http://dbpedia.org/resource/SITA_(waste_management_company)	http://babelnet.org/rdf/s15263366n	1.0	0.07692308	0.004201681	BABELFY]
+RANK:=== COUNTER  Counter 43976 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	5	0	4099018	Utah 's Dugway Proving Ground has been chosen as a site to test military vaccines against germ warfare agents .	11462	test.v	1301	Operational_testing	MANUAL	6532236	59	62	JKR	test
+LINKED:[12	12	59	62	bn:00087731v		http://babelnet.org/rdf/s00087731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43978 ===
+	Examination: -0.0625
+	Operational_testing: -0.1111111111111111
+	Trying_out: -0.25
+
+SELECTED:[Operational_testing]
+MATCH!
+SILVER:185	23580	2	5	0	4099018	Utah 's Dugway Proving Ground has been chosen as a site to test military vaccines against germ warfare agents .	12390	military.a	1514	Military	MANUAL	6532238	64	71	JKR	military
+LINKED:[13	13	64	71	bn:00106724a		http://babelnet.org/rdf/s00106724a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43980 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	5	0	4099018	Utah 's Dugway Proving Ground has been chosen as a site to test military vaccines against germ warfare agents .	11600	warfare.n	93	Hostile_encounter	MANUAL	6532239	95	101	JKR	warfare
+LINKED:[17	17	95	101	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	1.0	0.46153846	0.30252102	BABELFY]
+RANK:=== COUNTER  Counter 43982 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	5	0	4099018	Utah 's Dugway Proving Ground has been chosen as a site to test military vaccines against germ warfare agents .	11608	agent.n	1322	Active_substance	MANUAL	6532240	103	108	JKR	agents
+LINKED:[18	18	103	108	bn:00001972n		http://babelnet.org/rdf/s00001972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43984 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	5	0	4099019	QN : Who chose the Dugway Proving Ground as a site to test vaccines ?	6270	choose.v	352	Choosing	MANUAL	6532259	9	13	JKR	chose
+LINKED:[3	3	9	13	bn:00084933v		http://babelnet.org/rdf/s00084933v	1.0	0.2857143	0.102564104	BABELFY]
+RANK:=== COUNTER  Counter 43986 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	5	0	4099019	QN : Who chose the Dugway Proving Ground as a site to test vaccines ?	11550	site.n	196	Locale_by_use	MANUAL	6532261	46	49	JKR	site
+LINKED:[10	10	46	49	bn:15263366n	http://dbpedia.org/resource/SITA_(waste_management_company)	http://babelnet.org/rdf/s15263366n	1.0	0.14285715	0.025641026	BABELFY]
+RANK:=== COUNTER  Counter 43988 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	6	0	4099021	The Russian Emergencies Ministry predicts a further increase in 1999 of the concentration of toxic agents in marine burials of chemical weapons .	7747	predict.v	425	Predicting	MANUAL	6532265	33	40	JKR	predicts
+LINKED:[4	4	33	40	bn:00082668v		http://babelnet.org/rdf/s00082668v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 43992 ===
+	Expectation: -0.010000000000000002
+	Omen: -0.012345679012345678
+	Predicting: -0.027777777777777776
+
+SELECTED:[Predicting]
+MATCH!
+SILVER:185	23580	3	6	0	4099022	QN : Has the concentration of toxic agents in marine burials of chemical weapons increased prior to 1999 ?	10664	prior.adv	379	Time_vector	MANUAL	6532286	91	95	JKR	prior
+LINKED:[15	15	91	95	bn:13689934r		http://babelnet.org/rdf/s13689934r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44012 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	7	0	4099024	The Army 's chemical weapons incinerator has passed a milestone , the destruction of 5 million pounds of GB nerve agent .	10635	chemical	426	Weapon	MANUAL	6532288	12	19	EGp	chemical
+LINKED:[3	3	12	19	bn:00099577a		http://babelnet.org/rdf/s00099577a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44014 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	7	0	4099024	The Army 's chemical weapons incinerator has passed a milestone , the destruction of 5 million pounds of GB nerve agent .	11608	agent.n	1322	Active_substance	MANUAL	6532294	114	118	JKR	agent
+LINKED:[20	20	114	118	bn:00001972n		http://babelnet.org/rdf/s00001972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44022 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	7	0	4099024	The Army 's chemical weapons incinerator has passed a milestone , the destruction of 5 million pounds of GB nerve agent .	12878	pass.v	1310	Traversing	MANUAL	6533795	45	50	MJE	passed
+LINKED:[7	7	45	50	bn:00085337v		http://babelnet.org/rdf/s00085337v	0.8	0.18181819	0.01826484	BABELFY]
+RANK:=== COUNTER  Counter 44024 ===
+	Event: -0.0022675736961451243
+	Coincidence: -0.02040816326530612
+	Take_place_of: -0.04000000000000001
+	Eventive_affecting: -0.25
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	8	0	4099027	The military is training for the day a terrorist sets off not just a bomb , but a chemical or biological weapon that would spew out an invisible death .	3946	day.n	229	Calendric_unit	MANUAL	6532305	33	35	JKR	day
+LINKED:[6	6	33	35	bn:00025421n		http://babelnet.org/rdf/s00025421n	1.0	0.09090909	0.003215434	BABELFY]
+RANK:=== COUNTER  Counter 44034 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	8	0	4099027	The military is training for the day a terrorist sets off not just a bomb , but a chemical or biological weapon that would spew out an invisible death .	10637	biological	426	Weapon	MANUAL	6532309	94	103	EGp	biological
+LINKED:[20	20	94	103	bn:00098417a		http://babelnet.org/rdf/s00098417a	1.0	0.09090909	0.003215434	BABELFY]
+RANK:=== COUNTER  Counter 44042 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	8	0	4099027	The military is training for the day a terrorist sets off not just a bomb , but a chemical or biological weapon that would spew out an invisible death .	5471	spew.v	270	Excreting	MANUAL	6532313	123	126	JKR	spew
+LINKED:[24	24	123	126	bn:00083115v		http://babelnet.org/rdf/s00083115v	1.0	0.09090909	0.003215434	BABELFY]
+RANK:=== COUNTER  Counter 44046 ===
+	Removing: -5.94883997620464E-4
+	Excreting: -0.010000000000000002
+
+SELECTED:[Excreting]
+MATCH!
+SILVER:185	23580	3	8	0	4099028	QN : Will a terrorist set off a chemical or biological weapon ?	10637	biological	426	Weapon	MANUAL	6532324	44	53	EGp	biological
+LINKED:[10	10	44	53	bn:00098418a		http://babelnet.org/rdf/s00098418a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44054 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	9	0	4099030	Virginia is ill prepared for a large-scale terrorist attack using chemical , biological or nuclear weapons , state officials say .	10637	biological	426	Weapon	MANUAL	6532361	77	86	JKR	biological
+LINKED:[12	12	77	86	bn:00098418a		http://babelnet.org/rdf/s00098418a	1.0	0.09090909	0.0025906735	BABELFY]
+RANK:=== COUNTER  Counter 44064 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	9	0	4099030	Virginia is ill prepared for a large-scale terrorist attack using chemical , biological or nuclear weapons , state officials say .	751	say.v	43	Statement	MANUAL	6532363	125	127	JKR	say
+LINKED:[19	19	125	127	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44072 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23580	3	9	0	4099031	QN : Is Virginia prepared for a small-scale terrorist attack using chemical , biological or nuclear weapons ?	7745	attack.n	424	Attack	MANUAL	6532365	54	59	JKR	attack
+LINKED:[9	9	54	59	bn:00006995n	http://dbpedia.org/resource/Offense_(sports)	http://babelnet.org/rdf/s00006995n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44076 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	9	0	4099031	QN : Is Virginia prepared for a small-scale terrorist attack using chemical , biological or nuclear weapons ?	10637	biological	426	Weapon	MANUAL	6532372	78	87	JKR	biological
+LINKED:[13	13	78	87	bn:00098418a		http://babelnet.org/rdf/s00098418a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44082 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	10652	nuclear	426	Weapon	MANUAL	6532380	7	13	JKR	nuclear
+LINKED:[1	1	7	13	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44090 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	10635	chemical	426	Weapon	MANUAL	6532381	18	25	EGp	chemical
+LINKED:[3	3	18	25	bn:00099577a		http://babelnet.org/rdf/s00099577a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44094 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	10637	biological	426	Weapon	MANUAL	6532382	37	46	EGp	biological
+LINKED:[6	6	37	46	bn:00098418a		http://babelnet.org/rdf/s00098418a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44098 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	10	0	4099033	Unlike nuclear or chemical weapons , biological weapons can be made with readily available materials or equipment .	2206	equipment.n	106	Gizmo	MANUAL	6532390	104	112	JKR	equipment
+LINKED:[16	16	104	112	bn:00031322n		http://babelnet.org/rdf/s00031322n	1.0	0.14285715	0.033333335	BABELFY]
+RANK:=== COUNTER  Counter 44104 ===
+	Gizmo: -0.0044444444444444444
+	Supply: -0.012345679012345678
+
+SELECTED:[Gizmo]
+MATCH!
+SILVER:185	23580	3	10	0	4099034	QN : Can nuclear weapons be made with readily available materials or equipment ?	10652	nuclear	426	Weapon	MANUAL	6532394	9	15	EGp	nuclear
+LINKED:[3	3	9	15	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44106 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:185	23580	3	10	0	4099034	QN : Can nuclear weapons be made with readily available materials or equipment ?	2206	equipment.n	106	Gizmo	MANUAL	6532404	69	77	JKR	equipment
+LINKED:[12	12	69	77	bn:00031322n		http://babelnet.org/rdf/s00031322n	1.0	0.16666667	0.1	BABELFY]
+RANK:=== COUNTER  Counter 44112 ===
+	Gizmo: -0.0044444444444444444
+	Supply: -0.012345679012345678
+
+SELECTED:[Gizmo]
+MATCH!
+SILVER:185	23580	2	11	0	4099036	Sudan says it 's ready to sign the international convention banning chemical weapons .	751	say.v	43	Statement	MANUAL	6532408	6	9	JKR	says
+LINKED:[1	1	6	9	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44114 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23580	2	11	0	4099036	Sudan says it 's ready to sign the international convention banning chemical weapons .	10681	sign.v	1151	Sign_agreement	MANUAL	6532415	26	29	JKR	sign
+LINKED:[6	6	26	29	bn:00093731v		http://babelnet.org/rdf/s00093731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44118 ===
+	Text_creation: -0.00591715976331361
+	Sign_agreement: -0.0625
+
+SELECTED:[Sign_agreement]
+MATCH!
+SILVER:185	23580	2	11	0	4099036	Sudan says it 's ready to sign the international convention banning chemical weapons .	10238	international.a	195	Political_locales	MANUAL	6532416	35	47	JKR	international
+LINKED:[8	8	35	47	bn:00105294a		http://babelnet.org/rdf/s00105294a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44120 ===
+	Political_locales: -9.765625E-4
+	Foreign_or_domestic_country: -0.027777777777777776
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:185	23580	2	11	0	4099036	Sudan says it 's ready to sign the international convention banning chemical weapons .	8181	ban.v	521	Prohibiting_or_licensing	MANUAL	6532417	60	66	JKR	banning
+LINKED:[10	10	60	66	bn:00083065v		http://babelnet.org/rdf/s00083065v	1.0	0.14285715	0.015384615	BABELFY]
+RANK:=== COUNTER  Counter 44122 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	11	0	4099037	QN : Will Sudan produce chemical weapons in the future ?	7523	produce.v	408	Manufacturing	MANUAL	6532419	16	22	JKR	produce
+LINKED:[4	4	16	22	bn:00084069v		http://babelnet.org/rdf/s00084069v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44128 ===
+	Causation: -0.0025000000000000005
+	Cause_to_start: -0.006944444444444444
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	12	0	4099039	The Scud C has a range of 500 kilometers and is manufactured in Syria with know-how from North Korea .	11749	range.n	1350	Range	MANUAL	6532422	17	21	JKR	range
+LINKED:[5	5	17	21	bn:00003268n	http://dbpedia.org/resource/Range_(music)	http://babelnet.org/rdf/s00003268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44136 ===
+	Diversity: -0.00390625
+	Scope: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	12	0	4099040	QN : Can a Scud C fly 500 kilometers ?	6268	fly.v	7	Motion	MANUAL	6532426	18	20	JKR	fly
+LINKED:[6	6	18	20	bn:00088379v		http://babelnet.org/rdf/s00088379v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44140 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	13	0	4099042	Some of the 14 alleged bin Laden associates arrested in Jordan in December have begun talking to investigators .	10750	alleged.a	1154	Unattributed_information	MANUAL	6532430	15	21	JKR	alleged
+LINKED:[4	4	15	21	bn:00096821a		http://babelnet.org/rdf/s00096821a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44142 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	13	0	4099042	Some of the 14 alleged bin Laden associates arrested in Jordan in December have begun talking to investigators .	7646	associate.n	418	Collaboration	MANUAL	6532434	33	42	JKR	associates
+LINKED:[7	7	33	42	bn:00082868v		http://babelnet.org/rdf/s00082868v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44146 ===
+	Make_cognitive_connection: -0.0625
+	Relating_concepts: -0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	13	0	4099042	Some of the 14 alleged bin Laden associates arrested in Jordan in December have begun talking to investigators .	4448	begin.v	146	Activity_start	MANUAL	6532436	80	84	JKR	begun
+LINKED:[14	14	80	84	bn:00083343v		http://babelnet.org/rdf/s00083343v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44148 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	13	0	4099042	Some of the 14 alleged bin Laden associates arrested in Jordan in December have begun talking to investigators .	9979	talk.v	910	Chatting	MANUAL	6532438	86	92	JKR	talking
+LINKED:[15	15	86	92	bn:00090943v		http://babelnet.org/rdf/s00090943v	1.0	0.16666667	0.14285715	BABELFY]
+RANK:=== COUNTER  Counter 44150 ===
+	Statement: -2.44140625E-4
+	Communication_manner: -0.00390625
+	Text_creation: -0.00591715976331361
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	14	0	4099045	The U.S. Senate on Thursday unanimously approved legislation designed to punish Russia and other countries if they help Iran develop weapons of mass destruction .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6532458	125	131	JKR	develop
+LINKED:[19	19	125	131	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44162 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	14	0	4099045	The U.S. Senate on Thursday unanimously approved legislation designed to punish Russia and other countries if they help Iran develop weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532461	144	147	EGp	mass
+LINKED:[22	22	144	147	bn:00053662n	http://dbpedia.org/resource/Mass	http://babelnet.org/rdf/s00053662n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44166 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	14	0	4099045	The U.S. Senate on Thursday unanimously approved legislation designed to punish Russia and other countries if they help Iran develop weapons of mass destruction .	18762	approve.v	520	Deny_or_grant_permission	MANUAL	6532462	40	47	JKR	approved
+LINKED:[6	6	40	47	bn:00082740v		http://babelnet.org/rdf/s00082740v	1.0	0.055555556	3.1201247E-4	BABELFY]
+RANK:=== COUNTER  Counter 44170 ===
+	Grant_permission: -0.010000000000000002
+	Permitting: -0.04000000000000001
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	14	0	4099046	QN : Will Russia help Iran develop weapons of mass destruction ?	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6532444	27	33	JKR	develop
+LINKED:[6	6	27	33	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44174 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	14	0	4099046	QN : Will Russia help Iran develop weapons of mass destruction ?	10707	weapon	426	Weapon	MANUAL	6532445	46	49	EGp	mass
+LINKED:[9	9	46	49	bn:00053662n	http://dbpedia.org/resource/Mass	http://babelnet.org/rdf/s00053662n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44178 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	12556	to	1594	Continued_state_of_affairs	MANUAL	6532468	3	6	EGp	date
+LINKED:[1	1	3	6	bn:00025336n		http://babelnet.org/rdf/s00025336n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44182 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	10724	program.n	1158	Project	MANUAL	6532471	66	73	JKR	programs
+LINKED:[13	13	66	73	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44184 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	7041	help.v	391	Assistance	MANUAL	6532472	84	90	JKR	helping
+LINKED:[16	16	84	90	bn:00089311v		http://babelnet.org/rdf/s00089311v	1.0	0.05263158	2.5477706E-4	BABELFY]
+RANK:=== COUNTER  Counter 44186 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532473	179	182	EGp	mass
+LINKED:[31	31	179	182	bn:00053662n	http://dbpedia.org/resource/Mass	http://babelnet.org/rdf/s00053662n	1.0	0.21052632	0.0050955415	BABELFY]
+RANK:=== COUNTER  Counter 44190 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532473	184	194	EGp	destruction
+LINKED:[32	32	184	194	bn:02606169n	http://dbpedia.org/resource/The_Elder_Scrolls	http://babelnet.org/rdf/s02606169n	1.0	0.21052632	0.0050955415	BABELFY]
+RANK:=== COUNTER  Counter 44192 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	15	0	4099048	To date , Congress has authorized more than $4.7 billion for U.S. programs aimed at helping Russia and other newly independent states reduce the threats posed by their weapons of mass destruction .	1990	reduce.v	96	Cause_change_of_position_on_a_scale	MANUAL	6532476	134	139	JKR	reduce
+LINKED:[23	23	134	139	bn:00084079v		http://babelnet.org/rdf/s00084079v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44196 ===
+	Removing: -5.94883997620464E-4
+	Cause_change_of_position_on_a_scale: -0.0027700831024930744
+
+SELECTED:[Cause_change_of_position_on_a_scale]
+MATCH!
+SILVER:185	23580	3	15	0	4099049	QN : Does the U.S. want the threat posed by Russia 's weapons of mass destruction to be reduced ?	6412	want.v	366	Desiring	MANUAL	6532489	19	22	JKR	want
+LINKED:[5	5	19	22	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44198 ===
+	Desiring: -0.0014792899408284025
+	Possession: -0.00510204081632653
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:185	23580	3	15	0	4099049	QN : Does the U.S. want the threat posed by Russia 's weapons of mass destruction to be reduced ?	10707	weapon	426	Weapon	MANUAL	6532498	65	68	EGp	mass
+LINKED:[14	14	65	68	bn:00053662n	http://dbpedia.org/resource/Mass	http://babelnet.org/rdf/s00053662n	1.0	0.27272728	0.013289036	BABELFY]
+RANK:=== COUNTER  Counter 44202 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	15	0	4099049	QN : Does the U.S. want the threat posed by Russia 's weapons of mass destruction to be reduced ?	1990	reduce.v	96	Cause_change_of_position_on_a_scale	MANUAL	6532500	88	94	JKR	reduced
+LINKED:[18	18	88	94	bn:00084079v		http://babelnet.org/rdf/s00084079v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44206 ===
+	Removing: -5.94883997620464E-4
+	Cause_change_of_position_on_a_scale: -0.0027700831024930744
+
+SELECTED:[Cause_change_of_position_on_a_scale]
+MATCH!
+SILVER:185	23580	2	16	0	4099051	A father and a son were admitted to hospital with strychnine poisoning after consuming Herron products .	4831	consume.v	263	Ingestion	MANUAL	6532506	77	85	JKR	consuming
+LINKED:[13	13	77	85	bn:00085688v		http://babelnet.org/rdf/s00085688v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44210 ===
+	Path_shape: -9.182736455463729E-4
+	Ingestion: -0.0016
+	Traversing: -0.00591715976331361
+
+SELECTED:[Ingestion]
+MATCH!
+SILVER:185	23580	2	16	0	4099051	A father and a son were admitted to hospital with strychnine poisoning after consuming Herron products .	9083	poisoning.n	112	Cause_harm	MANUAL	6532535	61	69	JKR	poisoning
+LINKED:[11	11	61	69	bn:00091805v		http://babelnet.org/rdf/s00091805v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44212 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	16	0	4099052	QN : Did the Herron products contain poison ?	7296	contain.v	397	Containing	MANUAL	6532539	29	35	JKR	contain
+LINKED:[6	6	29	35	bn:00085499v		http://babelnet.org/rdf/s00085499v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44214 ===
+	Inclusion: -0.027777777777777776
+	Containing: -0.0625
+
+SELECTED:[Containing]
+MATCH!
+SILVER:185	23580	2	17	0	4099054	About 400 of the more than 2,600 village residents were hospitalized in July and August .	2214	resident.n	110	Residence	MANUAL	6532543	41	49	JKR	residents
+LINKED:[8	8	41	49	bn:00045024n	http://dbpedia.org/resource/Pre-registration_house_officer	http://babelnet.org/rdf/s00045024n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44218 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	17	0	4099055	QN : Were some of the village residents not hospitalized in July and August ?	2214	resident.n	110	Residence	MANUAL	6532555	30	38	JKR	residents
+LINKED:[7	7	30	38	bn:00045024n	http://dbpedia.org/resource/Pre-registration_house_officer	http://babelnet.org/rdf/s00045024n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44224 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	18	0	4099057	The only bacterial attack in America came in 1984 , when a cult poisoned a salad bar in Oregon with salmonella , sickening 700 people .	7745	attack.n	424	Attack	MANUAL	6532563	19	24	JKR	attack
+LINKED:[3	3	19	24	bn:10879613n		http://babelnet.org/rdf/s10879613n	1.0	0.15384616	0.011904762	BABELFY]
+RANK:=== COUNTER  Counter 44228 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	18	0	4099057	The only bacterial attack in America came in 1984 , when a cult poisoned a salad bar in Oregon with salmonella , sickening 700 people .	12051	poison.v	112	Cause_harm	MANUAL	6532566	64	71	JKR	poisoned
+LINKED:[13	13	64	71	bn:00091805v		http://babelnet.org/rdf/s00091805v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44230 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	18	0	4099058	QN : Has a biological attack occurred in the U.S. ?	4887	occur.v	187	Event	MANUAL	6532638	29	36	JKR	occurred
+LINKED:[6	6	29	36	bn:00085337v		http://babelnet.org/rdf/s00085337v	1.0	0.16666667	0.005586592	BABELFY]
+RANK:=== COUNTER  Counter 44232 ===
+	Event: -0.0022675736961451243
+	Coincidence: -0.02040816326530612
+	Take_place_of: -0.04000000000000001
+	Eventive_affecting: -0.25
+
+SELECTED:[Event]
+MATCH!
+SILVER:185	23580	3	18	0	4099058	QN : Has a biological attack occurred in the U.S. ?	7745	attack.n	424	Attack	MANUAL	6532639	22	27	JKR	attack
+LINKED:[5	5	22	27	bn:00006995n	http://dbpedia.org/resource/Offense_(sports)	http://babelnet.org/rdf/s00006995n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44234 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	19	0	4099060	Blix said the new weapons inspection team is composed of scientists from around the world , including South America , Thailand , Bangladesh and Eastern Europe .	751	say.v	43	Statement	MANUAL	6532640	5	8	JKR	said
+LINKED:[1	1	5	8	bn:00092425v		http://babelnet.org/rdf/s00092425v	1.0	0.10526316	0.0011441647	BABELFY]
+RANK:=== COUNTER  Counter 44236 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	19	0	4099060	Blix said the new weapons inspection team is composed of scientists from around the world , including South America , Thailand , Bangladesh and Eastern Europe .	10687	include.v	1153	Inclusion	MANUAL	6532644	92	100	JKR	including
+LINKED:[16	16	92	100	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44244 ===
+	Inclusion: -0.027777777777777776
+	Cause_to_be_included: -0.25
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:185	23580	2	20	0	4099063	Biological select agents include about 40 viruses , bacteria , rickettsia , fungi , and toxins whose transfer within the United States is controlled .	11608	agent.n	1322	Active_substance	MANUAL	6532656	18	23	JKR	agents
+LINKED:[2	2	18	23	bn:00001972n		http://babelnet.org/rdf/s00001972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44256 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	20	0	4099063	Biological select agents include about 40 viruses , bacteria , rickettsia , fungi , and toxins whose transfer within the United States is controlled .	10687	include.v	1153	Inclusion	MANUAL	6532657	25	31	JKR	include
+LINKED:[3	3	25	31	bn:00089662v		http://babelnet.org/rdf/s00089662v	0.85714287	0.14285715	0.0014447387	BABELFY]
+RANK:=== COUNTER  Counter 44258 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	20	0	4099063	Biological select agents include about 40 viruses , bacteria , rickettsia , fungi , and toxins whose transfer within the United States is controlled .	10813	transfer.n	178	Transfer	MANUAL	6532659	101	108	JKR	transfer
+LINKED:[17	17	101	108	bn:00022381n		http://babelnet.org/rdf/s00022381n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44262 ===
+	Bringing: -0.001736111111111111
+	Transfer: -0.25
+
+SELECTED:[Transfer]
+MATCH!
+SILVER:185	23580	3	20	0	4099064	QN : Is the transfer of biological select agents within the United States controlled ?	10813	transfer.n	178	Transfer	MANUAL	6532660	12	19	JKR	transfer
+LINKED:[4	4	12	19	bn:00077972n		http://babelnet.org/rdf/s00077972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44264 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	20	0	4099064	QN : Is the transfer of biological select agents within the United States controlled ?	11608	agent.n	1322	Active_substance	MANUAL	6532661	42	47	JKR	agents
+LINKED:[8	8	42	47	bn:00001972n		http://babelnet.org/rdf/s00001972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44266 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	21	0	4099066	During his trip to five Arab capitals and Israel , which ended last Monday , Powell proposed easing sanctions on Iraqi imports .	6064	trip.n	343	Travel	MANUAL	6532665	11	14	JKR	trip
+LINKED:[2	2	11	14	bn:02851815n	http://dbpedia.org/resource/Trip_(film)	http://babelnet.org/rdf/s02851815n	1.0	0.22222222	0.02	BABELFY]
+RANK:=== COUNTER  Counter 44268 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	21	0	4099066	During his trip to five Arab capitals and Israel , which ended last Monday , Powell proposed easing sanctions on Iraqi imports .	739	propose.v	43	Statement	MANUAL	6532668	84	91	JKR	proposed
+LINKED:[16	16	84	91	bn:00082486v		http://babelnet.org/rdf/s00082486v	1.0	0.11111111	0.005	BABELFY]
+RANK:=== COUNTER  Counter 44272 ===
+	Purpose: -0.012345679012345678
+	Goal: -0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	21	0	4099066	During his trip to five Arab capitals and Israel , which ended last Monday , Powell proposed easing sanctions on Iraqi imports .	12472	import	1567	Importing	MANUAL	6532669	119	125	JKR	imports
+LINKED:[21	21	119	125	bn:00046137n	http://dbpedia.org/resource/Import	http://babelnet.org/rdf/s00046137n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44274 ===
+	Import_export: -0.02040816326530612
+	Importing: -0.25
+
+SELECTED:[Importing]
+MATCH!
+SILVER:185	23580	2	22	0	4099069	The Chemlab , for instance , is about the size of a Palm Pilot and will be able to detect a range of biological agents .	11608	agent.n	1322	Active_substance	MANUAL	6532676	112	117	JKR	agents
+LINKED:[24	24	112	117	bn:00001972n		http://babelnet.org/rdf/s00001972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44282 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	22	0	4099069	The Chemlab , for instance , is about the size of a Palm Pilot and will be able to detect a range of biological agents .	11936	detect.v	20	Becoming_aware	MANUAL	6532677	83	88	JKR	detect
+LINKED:[19	19	83	88	bn:00086708v		http://babelnet.org/rdf/s00086708v	1.0	0.11111111	0.0375	BABELFY]
+RANK:=== COUNTER  Counter 44284 ===
+	Perception_active: -0.0011890606420927466
+	Coming_to_believe: -0.0027700831024930744
+	Perception_experience: -0.00591715976331361
+	Becoming_aware: -0.008264462809917356
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	11354	suspend.v	167	Activity_pause	MANUAL	6532681	13	19	JKR	suspend
+LINKED:[2	2	13	19	bn:00094635v		http://babelnet.org/rdf/s00094635v	1.0	0.055555556	7.905138E-4	BABELFY]
+RANK:=== COUNTER  Counter 44286 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	12266	stockpile.n	1511	Store	MANUAL	6532684	44	52	JKR	stockpile
+LINKED:[7	7	44	52	bn:03789434n	http://dbpedia.org/resource/Stockpile_(military)	http://babelnet.org/rdf/s03789434n	0.9230769	0.16666667	0.009486166	BABELFY]
+RANK:=== COUNTER  Counter 44290 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	11699	aid	391	Assistance	MANUAL	6532686	85	87	JKR	aid
+LINKED:[13	13	85	87	bn:00002154n		http://babelnet.org/rdf/s00002154n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44296 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	23	0	4099072	Russia could suspend the destruction of its stockpile of chemical weapons if foreign aid is not increased , a senior official and negotiator was quoted as saying by the AVN Military News agency .	751	say.v	43	Statement	MANUAL	6532690	155	160	JKR	saying
+LINKED:[26	26	155	160	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.8	0.11111111	0.0063241106	BABELFY]
+RANK:=== COUNTER  Counter 44304 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23580	3	23	0	4099073	QN : Does Russia have a stockpile of chemical weapons ?	12266	stockpile.n	1511	Store	MANUAL	6532692	24	32	JKR	stockpile
+LINKED:[6	6	24	32	bn:03789434n	http://dbpedia.org/resource/Stockpile_(military)	http://babelnet.org/rdf/s03789434n	0.85714287	0.4	0.04761905	BABELFY]
+RANK:=== COUNTER  Counter 44306 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	24	0	4099075	BioPort Corp. of Lansing , Michigan is the sole U.S. manufacturer of an anthrax vaccine .	7708	manufacturer.n	408	Manufacturing	MANUAL	6532696	53	64	JKR	manufacturer
+LINKED:[10	10	53	64	bn:00052911n		http://babelnet.org/rdf/s00052911n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44312 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	24	0	4099075	BioPort Corp. of Lansing , Michigan is the sole U.S. manufacturer of an anthrax vaccine .	6149	sole.a	355	Sole_instance	MANUAL	6532697	43	46	JKR	sole
+LINKED:[8	8	43	46	bn:00102511a		http://babelnet.org/rdf/s00102511a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44314 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	24	0	4099076	QN : Are there three U.S. manufacturers of anthrax vaccine ?	7708	manufacturer.n	408	Manufacturing	MANUAL	6532695	26	38	JKR	manufacturers
+LINKED:[6	6	26	38	bn:00052911n		http://babelnet.org/rdf/s00052911n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44316 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	25	0	4099079	Two Al Qaeda computers have been found in Kabul .	11227	find.v	792	Locating	MANUAL	6532631	33	37	RLG	found
+LINKED:[6	6	33	37	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44318 ===
+	Becoming_aware: -0.008264462809917356
+	Locating: -0.25
+
+SELECTED:[Locating]
+MATCH!
+SILVER:185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	650	order.v	41	Request	MANUAL	6532603	20	26	RLG	ordered
+LINKED:[4	4	20	26	bn:00088990v		http://babelnet.org/rdf/s00088990v	0.71428573	0.1764706	0.015384615	BABELFY]
+RANK:=== COUNTER  Counter 44322 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	1141	purge.n	63	Removing	MANUAL	6532604	30	34	RLG	purge
+LINKED:[6	6	30	34	bn:00065283n		http://babelnet.org/rdf/s00065283n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44324 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	12537	information.n	1591	Information	MANUAL	6532608	39	49	RLG	information
+LINKED:[8	8	39	49	bn:00046705n	http://dbpedia.org/resource/Information	http://babelnet.org/rdf/s00046705n	0.9491525	0.47058824	0.11487179	BABELFY]
+RANK:=== COUNTER  Counter 44326 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	11808	government.n	1371	Organization	MANUAL	6532610	56	65	RLG	government
+LINKED:[10	10	56	65	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44328 ===
+	Leadership: -1.8765246762994932E-4
+	Organization: -0.00510204081632653
+	Law: -0.015625
+
+SELECTED:[Organization]
+MATCH!
+SILVER:185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532616	140	143	EGp	mass
+LINKED:[22	22	140	143	bn:00053662n	http://dbpedia.org/resource/Mass	http://babelnet.org/rdf/s00053662n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44332 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	10707	weapon	426	Weapon	MANUAL	6532616	145	155	EGp	destruction
+LINKED:[23	23	145	155	bn:02606169n	http://dbpedia.org/resource/The_Elder_Scrolls	http://babelnet.org/rdf/s02606169n	0.8	0.11764706	0.004102564	BABELFY]
+RANK:=== COUNTER  Counter 44334 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	26	0	4099082	The White House has ordered a purge of information from government agency websites that could be exploited by terrorists seeking weapons of mass destruction .	12161	seek.v	1480	Seeking_to_achieve	MANUAL	6532698	121	127	JKR	seeking
+LINKED:[19	19	121	127	bn:00093452v		http://babelnet.org/rdf/s00093452v	1.0	0.05882353	0.001025641	BABELFY]
+RANK:=== COUNTER  Counter 44336 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	28	0	4099088	The Pentagon is considering a resumption of anthrax vaccinations for U.S. troops .	206	consider.v	22	Cogitation	MANUAL	6532591	16	26	RLG	considering
+LINKED:[3	3	16	26	bn:00085652v		http://babelnet.org/rdf/s00085652v	1.0	0.2	0.012820513	BABELFY]
+RANK:=== COUNTER  Counter 44340 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	28	0	4099089	QN : Have anthrax vaccinations of U.S. troops occurred previously ?	4887	occur.v	187	Event	MANUAL	6532592	46	53	RLG	occurred
+LINKED:[8	8	46	53	bn:00085332v		http://babelnet.org/rdf/s00085332v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44342 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	751	say.v	43	Statement	MANUAL	6532558	6	9	RLG	said
+LINKED:[1	1	6	9	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44344 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6532570	34	43	RLG	developing
+LINKED:[7	7	34	43	bn:00086743v		http://babelnet.org/rdf/s00086743v	0.8	0.2	0.036697246	BABELFY]
+RANK:=== COUNTER  Counter 44346 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	10637	biological	426	Weapon	MANUAL	6532573	56	65	RLG	biological
+LINKED:[10	10	56	65	bn:00098417a		http://babelnet.org/rdf/s00098417a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44352 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	29	0	4099091	Libya said on Wednesday it is not developing chemical , biological or nuclear weapons , denying allegations made by a US official .	18238	deny.v	2974	Affirm_or_deny	MANUAL	6532575	88	94	RLG	denying
+LINKED:[15	15	88	94	bn:00086591v		http://babelnet.org/rdf/s00086591v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44360 ===
+	Statement: -2.44140625E-4
+	Prevent_from_having: -0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	10625	official.n	73	Leadership	MANUAL	6532580	16	23	RLG	official
+LINKED:[5	5	16	23	bn:00107770a		http://babelnet.org/rdf/s00107770a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44366 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	697	claim.v	43	Statement	MANUAL	6532582	25	29	RLG	claim
+LINKED:[6	6	25	29	bn:00019406n		http://babelnet.org/rdf/s00019406n	1.0	0.18181819	0.01980198	BABELFY]
+RANK:=== COUNTER  Counter 44368 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6532583	45	54	RLG	developing
+LINKED:[10	10	45	54	bn:00086743v		http://babelnet.org/rdf/s00086743v	1.0	0.18181819	0.013201321	BABELFY]
+RANK:=== COUNTER  Counter 44370 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	3	29	0	4099092	QN : Did a U.S. official claim that Libya is developing chemical , biological or nuclear weapons ?	10637	biological	426	Weapon	MANUAL	6532587	67	76	RLG	biological
+LINKED:[13	13	67	76	bn:00098418a		http://babelnet.org/rdf/s00098418a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44376 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	30	0	4099094	Al Wafa is one of the organisations whose assets have been frozen in the United States amid suspicions that it might be giving support to Osama Bin Laden 's al-Qaeda network .	2495	assets.n	118	Possession	MANUAL	6532538	42	47	RLG	assets
+LINKED:[8	8	42	47	bn:00006504n	http://dbpedia.org/resource/Asset	http://babelnet.org/rdf/s00006504n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 44384 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	30	0	4099094	Al Wafa is one of the organisations whose assets have been frozen in the United States amid suspicions that it might be giving support to Osama Bin Laden 's al-Qaeda network .	168	suspicion.n	19	Awareness	MANUAL	6532542	92	101	RLG	suspicions
+LINKED:[17	17	92	101	bn:14410009n	http://dbpedia.org/resource/Suspicions_(album)	http://babelnet.org/rdf/s14410009n	1.0	0.1875	0.0030970406	BABELFY]
+RANK:=== COUNTER  Counter 44386 ===
+
+SELECTED:[]
+WRONG!
+SILVER:185	23580	2	30	0	4099094	Al Wafa is one of the organisations whose assets have been frozen in the United States amid suspicions that it might be giving support to Osama Bin Laden 's al-Qaeda network .	12638	network.n	1611	Network	MANUAL	6532551	166	172	RLG	network
+LINKED:[30	30	166	172	bn:00024712n	http://dbpedia.org/resource/Cyberspace	http://babelnet.org/rdf/s00024712n	0.89626557	0.75	0.074328974	BABELFY]
+RANK:=== COUNTER  Counter 44388 ===
+
+SELECTED:[]
+WRONG!
+filename	KBEval__MIT.xml
+docAnnotations	358
+docManual	260
+docUnannotated	98
+sentences	90
+paragraphs	30
+Overlapping	234
+Disambiguated	40
+TP	31
+TN	98
+FP	0
+FN	220
+P	1.0
+R	0.12350597609561753
+F	0.2198581560283688
+A	0.36962750716332377

@@ -1,0 +1,87 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+246	25620	1	1	0	4165030	Fire burns at Barangaroo construction site , Sydney , Australia	null	null	null	null	UNANN	6669200	null	null	null	null
+246	25620	1	1	0	4165030	Fire burns at Barangaroo construction site , Sydney , Australia	17450	burn.v	2824	Fire_burning	MANUAL	6669444	5	9	MJE	burns
+246	25620	1	1	0	4165030	Fire burns at Barangaroo construction site , Sydney , Australia	17455	fire.n	2824	Fire_burning	MANUAL	6669445	0	3	MJE	Fire
+246	25620	1	1	0	4165030	Fire burns at Barangaroo construction site , Sydney , Australia	4746	construction.n	259	Building	MANUAL	6669446	25	36	MJE	construction
+246	25620	1	1	0	4165030	Fire burns at Barangaroo construction site , Sydney , Australia	11550	site.n	196	Locale_by_use	MANUAL	6669448	38	41	MJE	site
+246	25620	1	1	0	4165030	Fire burns at Barangaroo construction site , Sydney , Australia	6735	at.prep	199	Locative_relation	MANUAL	6669460	11	12	MJE	at
+246	25620	1	3	0	4165031	A large fire has started at the Barangaroo construction site overlooking Sydney Harbour , New South Wales , Australia .	null	null	null	null	UNANN	6669201	null	null	null	null
+246	25620	1	3	0	4165031	A large fire has started at the Barangaroo construction site overlooking Sydney Harbour , New South Wales , Australia .	17455	fire.n	2824	Fire_burning	MANUAL	6669456	8	11	MJE	fire
+246	25620	1	3	0	4165031	A large fire has started at the Barangaroo construction site overlooking Sydney Harbour , New South Wales , Australia .	17491	start.v	2827	Catching_fire	MANUAL	6669458	17	23	MJE	started
+246	25620	1	3	0	4165031	A large fire has started at the Barangaroo construction site overlooking Sydney Harbour , New South Wales , Australia .	6735	at.prep	199	Locative_relation	MANUAL	6669459	25	26	MJE	at
+246	25620	1	3	0	4165031	A large fire has started at the Barangaroo construction site overlooking Sydney Harbour , New South Wales , Australia .	4746	construction.n	259	Building	MANUAL	6669461	43	54	MJE	construction
+246	25620	1	3	0	4165031	A large fire has started at the Barangaroo construction site overlooking Sydney Harbour , New South Wales , Australia .	11550	site.n	196	Locale_by_use	MANUAL	6669462	56	59	MJE	site
+246	25620	1	3	0	4165031	A large fire has started at the Barangaroo construction site overlooking Sydney Harbour , New South Wales , Australia .	11418	harbor.n	196	Locale_by_use	MANUAL	6669464	80	86	MJE	Harbour
+246	25620	1	3	0	4165031	A large fire has started at the Barangaroo construction site overlooking Sydney Harbour , New South Wales , Australia .	15769	large.a	2282	Size	MANUAL	6669467	2	6	MJE	large
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	null	null	null	null	UNANN	6669202	null	null	null	null
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	4746	construction.n	259	Building	MANUAL	6669473	4	15	MJE	construction
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	11113	company.n	365	Businesses	MANUAL	6669474	17	23	MJE	company
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	751	say.v	43	Statement	MANUAL	6669475	25	28	MJE	said
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	17455	fire.n	2824	Fire_burning	MANUAL	6669476	30	33	MJE	fire
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	17461	break	2827	Catching_fire	MANUAL	6669477	35	39	MJE	broke
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	17461	break	2827	Catching_fire	MANUAL	6669477	41	43	MJE	out
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	1321	appear.v	67	Give_impression	MANUAL	6669479	89	96	MJE	appeared
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	2	cause.v	5	Causation	MANUAL	6669480	111	116	MJE	caused
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	3165	basement.n	188	Building_subparts	MANUAL	6669482	147	154	MJE	basement
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	10869	building.n	173	Buildings	MANUAL	6669484	161	168	MJE	building
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	17621	accident.n	115	Catastrophe	MANUAL	6669489	131	138	MJE	accident
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6669495	140	141	MJE	in
+246	25620	1	4	0	4165032	The construction company said fire broke out at about 2:10pm local time ( 0310 UTC ) and appeared to have been caused by a welding accident in the basement of a building .	14082	at.prep	1895	Temporal_collocation	MANUAL	6669497	45	46	MJE	at
+246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	null	null	null	null	UNANN	6669203	null	null	null	null
+246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	11550	site.n	196	Locale_by_use	MANUAL	6669500	4	7	MJE	site
+246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	13351	worker.n	323	Employing	MANUAL	6669501	9	15	MJE	workers
+246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	13747	all.a	189	Quantified_mass	MANUAL	6669502	0	2	MJE	All
+246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	1129	evacuate.v	63	Removing	MANUAL	6669503	22	30	MJE	evacuated
+246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	10677	according	1148	Attributed_information	MANUAL	6669505	49	57	MJE	according
+246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	10677	according	1148	Attributed_information	MANUAL	6669505	59	60	MJE	to
+246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	17511	injury.n	384	Experience_bodily_harm	MANUAL	6669506	40	45	MJE	injury
+246	25620	1	5	0	4165033	All site workers were evacuated without injury , according to Fire and Rescue NSW Superintendent Ian Krimmer .	17622	superintendent.n	73	Leadership	MANUAL	6669509	82	95	MJE	Superintendent
+246	25620	1	6	0	4165034	Large clouds of smoke were continuing to pour out of the building , casting a thick pall of smoke over the city skyline .	null	null	null	null	UNANN	6669204	null	null	null	null
+246	25620	1	6	0	4165034	Large clouds of smoke were continuing to pour out of the building , casting a thick pall of smoke over the city skyline .	15769	large.a	2282	Size	MANUAL	6669522	0	4	MJE	Large
+246	25620	1	6	0	4165034	Large clouds of smoke were continuing to pour out of the building , casting a thick pall of smoke over the city skyline .	2799	continue.v	145	Process_continue	MANUAL	6669523	27	36	MJE	continuing
+246	25620	1	6	0	4165034	Large clouds of smoke were continuing to pour out of the building , casting a thick pall of smoke over the city skyline .	5202	pour.v	284	Mass_motion	MANUAL	6669524	41	44	MJE	pour
+246	25620	1	6	0	4165034	Large clouds of smoke were continuing to pour out of the building , casting a thick pall of smoke over the city skyline .	10869	building.n	173	Buildings	MANUAL	6669529	57	64	MJE	building
+246	25620	1	6	0	4165034	Large clouds of smoke were continuing to pour out of the building , casting a thick pall of smoke over the city skyline .	6758	over.prep	199	Locative_relation	MANUAL	6669534	98	101	MJE	over
+246	25620	1	6	0	4165034	Large clouds of smoke were continuing to pour out of the building , casting a thick pall of smoke over the city skyline .	3764	city.n	195	Political_locales	MANUAL	6669536	107	110	MJE	city
+246	25620	1	7	0	4165035	Some nearby buildings have also been evacuated , including the KPMG building and offices of the Macquarie Bank .	null	null	null	null	UNANN	6669205	null	null	null	null
+246	25620	1	7	0	4165035	Some nearby buildings have also been evacuated , including the KPMG building and offices of the Macquarie Bank .	14290	some.art	1923	Proportional_quantity	MANUAL	6669543	0	3	MJE	Some
+246	25620	1	7	0	4165035	Some nearby buildings have also been evacuated , including the KPMG building and offices of the Macquarie Bank .	10869	building.n	173	Buildings	MANUAL	6669544	12	20	MJE	buildings
+246	25620	1	7	0	4165035	Some nearby buildings have also been evacuated , including the KPMG building and offices of the Macquarie Bank .	9471	evacuate.v	58	Emptying	MANUAL	6669546	37	45	MJE	evacuated
+246	25620	1	7	0	4165035	Some nearby buildings have also been evacuated , including the KPMG building and offices of the Macquarie Bank .	13340	including.prep	1153	Inclusion	MANUAL	6669547	49	57	MJE	including
+246	25620	1	7	0	4165035	Some nearby buildings have also been evacuated , including the KPMG building and offices of the Macquarie Bank .	10869	building.n	173	Buildings	MANUAL	6669548	68	75	MJE	building
+246	25620	1	7	0	4165035	Some nearby buildings have also been evacuated , including the KPMG building and offices of the Macquarie Bank .	17623	bank.n	365	Businesses	MANUAL	6669573	106	109	MJE	Bank
+246	25620	1	8	0	4165036	Firefighters reported concern about a tower crane overhanging the building basement site .	null	null	null	null	UNANN	6669206	null	null	null	null
+246	25620	1	8	0	4165036	Firefighters reported concern about a tower crane overhanging the building basement site .	18472	firefighter.n	1071	People_by_vocation	MANUAL	6669576	0	11	MJE	Firefighters
+246	25620	1	8	0	4165036	Firefighters reported concern about a tower crane overhanging the building basement site .	10660	concern.n	46	Emotion_directed	MANUAL	6669653	22	28	MJE	concern
+246	25620	1	8	0	4165036	Firefighters reported concern about a tower crane overhanging the building basement site .	10869	building.n	173	Buildings	MANUAL	6669655	66	73	MJE	building
+246	25620	1	8	0	4165036	Firefighters reported concern about a tower crane overhanging the building basement site .	3165	basement.n	188	Building_subparts	MANUAL	6669656	75	82	MJE	basement
+246	25620	1	8	0	4165036	Firefighters reported concern about a tower crane overhanging the building basement site .	13783	site.n	192	Locale	MANUAL	6669659	84	87	MJE	site
+246	25620	1	8	0	4165036	Firefighters reported concern about a tower crane overhanging the building basement site .	748	report.v	43	Statement	MANUAL	6669662	13	20	MJE	reported
+246	25620	1	9	0	4165037	There were fears that the crane could buckle due to the heat and collapse .	null	null	null	null	UNANN	6669207	null	null	null	null
+246	25620	1	9	0	4165037	There were fears that the crane could buckle due to the heat and collapse .	14947	fear.n	2052	Fear	MANUAL	6669669	11	15	MJE	fears
+246	25620	1	9	0	4165037	There were fears that the crane could buckle due to the heat and collapse .	17413	could.v	2120	Possibility	MANUAL	6669672	32	36	MJE	could
+246	25620	1	9	0	4165037	There were fears that the crane could buckle due to the heat and collapse .	16910	due	5	Causation	MANUAL	6669674	45	47	MJE	due
+246	25620	1	9	0	4165037	There were fears that the crane could buckle due to the heat and collapse .	16910	due	5	Causation	MANUAL	6669674	49	50	MJE	to
+246	25620	1	10	0	4165038	Firefighters were working to keep the base of the crane cool , and the stability of the structure was being monitored with lasers .	null	null	null	null	UNANN	6669208	null	null	null	null
+246	25620	1	10	0	4165038	Firefighters were working to keep the base of the crane cool , and the stability of the structure was being monitored with lasers .	18472	firefighter.n	1071	People_by_vocation	MANUAL	6669678	0	11	MJE	Firefighters
+246	25620	1	10	0	4165038	Firefighters were working to keep the base of the crane cool , and the stability of the structure was being monitored with lasers .	14000	work.v	1892	Work	MANUAL	6669679	18	24	MJE	working
+246	25620	1	10	0	4165038	Firefighters were working to keep the base of the crane cool , and the stability of the structure was being monitored with lasers .	10380	keep.v	1060	Cause_to_continue	MANUAL	6669680	29	32	MJE	keep
+246	25620	1	10	0	4165038	Firefighters were working to keep the base of the crane cool , and the stability of the structure was being monitored with lasers .	10346	cool.a	1050	Temperature	MANUAL	6669685	56	59	MJE	cool
+246	25620	1	10	0	4165038	Firefighters were working to keep the base of the crane cool , and the stability of the structure was being monitored with lasers .	11592	monitor.v	31	Scrutiny	MANUAL	6669687	108	116	MJE	monitored
+246	25620	1	11	0	4165039	The Western Distributor motorway was closed to traffic , and Sydney Harbour Bridge partly closed .	null	null	null	null	UNANN	6669209	null	null	null	null
+246	25620	1	11	0	4165039	The Western Distributor motorway was closed to traffic , and Sydney Harbour Bridge partly closed .	3780	motorway.n	203	Roadways	MANUAL	6669701	24	31	MJE	motorway
+246	25620	1	11	0	4165039	The Western Distributor motorway was closed to traffic , and Sydney Harbour Bridge partly closed .	13723	closed.a	1872	Openness	MANUAL	6669702	37	42	MJE	closed
+246	25620	1	11	0	4165039	The Western Distributor motorway was closed to traffic , and Sydney Harbour Bridge partly closed .	13723	closed.a	1872	Openness	MANUAL	6669704	90	95	MJE	closed
+246	25620	1	11	0	4165039	The Western Distributor motorway was closed to traffic , and Sydney Harbour Bridge partly closed .	3790	bridge.n	203	Roadways	MANUAL	6669705	76	81	MJE	Bridge
+246	25620	1	11	0	4165039	The Western Distributor motorway was closed to traffic , and Sydney Harbour Bridge partly closed .	11418	harbor.n	196	Locale_by_use	MANUAL	6669712	68	74	MJE	Harbour
+246	25620	1	12	0	4165040	There had been major disruptions in traffic and multiple roads in the Sydney CBD ( Central Business District ) were gridlocked .	null	null	null	null	UNANN	6669210	null	null	null	null
+246	25620	1	12	0	4165040	There had been major disruptions in traffic and multiple roads in the Sydney CBD ( Central Business District ) were gridlocked .	3772	road.n	203	Roadways	MANUAL	6669715	57	61	MJE	roads
+246	25620	1	12	0	4165040	There had been major disruptions in traffic and multiple roads in the Sydney CBD ( Central Business District ) were gridlocked .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6669718	63	64	MJE	in
+246	25620	1	12	0	4165040	There had been major disruptions in traffic and multiple roads in the Sydney CBD ( Central Business District ) were gridlocked .	6355	business.n	365	Businesses	MANUAL	6669719	91	98	MJE	Business
+246	25620	1	13	0	4165041	People catching buses were advised to expect long delays .	null	null	null	null	UNANN	6669211	null	null	null	null
+246	25620	1	13	0	4165041	People catching buses were advised to expect long delays .	5511	people.n	304	People	MANUAL	6669723	0	5	MJE	People
+246	25620	1	13	0	4165041	People catching buses were advised to expect long delays .	7809	bus.n	429	Vehicle	MANUAL	6669724	16	20	MJE	buses
+246	25620	1	13	0	4165041	People catching buses were advised to expect long delays .	9179	advise.v	750	Telling	MANUAL	6669726	27	33	MJE	advised
+246	25620	1	13	0	4165041	People catching buses were advised to expect long delays .	255	expect.v	26	Expectation	MANUAL	6669728	38	43	MJE	expect
+246	25620	1	13	0	4165041	People catching buses were advised to expect long delays .	13915	long.a	79	Duration_description	MANUAL	6669729	45	48	MJE	long
+246	25620	1	13	0	4165041	People catching buses were advised to expect long delays .	13275	delay.n	691	Change_event_time	MANUAL	6669730	50	55	MJE	delays

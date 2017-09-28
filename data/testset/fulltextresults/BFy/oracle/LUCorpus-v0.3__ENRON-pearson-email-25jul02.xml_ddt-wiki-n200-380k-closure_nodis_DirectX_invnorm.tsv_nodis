@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__ENRON-pearson-email-25jul02.xml
+docAnnotations	31
+docManual	16
+docUnannotated	15
+sentences	15
+paragraphs	8
+Overlapping	11
+Disambiguated	7
+TP	4
+TN	15
+FP	0
+FN	9
+P	1.0
+R	0.3076923076923077
+F	0.47058823529411764
+A	0.6785714285714286

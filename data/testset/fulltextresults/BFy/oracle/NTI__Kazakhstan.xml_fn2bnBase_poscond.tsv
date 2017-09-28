@@ -1,0 +1,487 @@
+SILVER:135	23501	1	2	0	4096539	Kazakhstan inherited nuclear-tipped missiles , a nuclear weapon test site , and biological and chemical weapon production facilities when the Soviet Union collapsed .	11550	site.n	196	Locale_by_use	MANUAL	6525816	69	72	RLG	site
+LINKED:[9	9	69	72	bn:00047172n	http://dbpedia.org/resource/Grothendieck_topology	http://babelnet.org/rdf/s00047172n	0.8	0.10526316	0.0021953897	BABELFY]
+RANK:=== COUNTER  Counter 21548 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	1	2	0	4096539	Kazakhstan inherited nuclear-tipped missiles , a nuclear weapon test site , and biological and chemical weapon production facilities when the Soviet Union collapsed .	11463	test.n	1301	Operational_testing	MANUAL	6535807	64	67	RLG	test
+LINKED:[8	8	64	67	bn:00076647n		http://babelnet.org/rdf/s00076647n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21550 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	1	2	0	4096539	Kazakhstan inherited nuclear-tipped missiles , a nuclear weapon test site , and biological and chemical weapon production facilities when the Soviet Union collapsed .	10652	nuclear	426	Weapon	MANUAL	6540558	49	55	EGp	nuclear
+LINKED:[6	6	49	55	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21552 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23501	1	2	0	4096539	Kazakhstan inherited nuclear-tipped missiles , a nuclear weapon test site , and biological and chemical weapon production facilities when the Soviet Union collapsed .	10637	biological	426	Weapon	MANUAL	6540560	80	89	KmG	biological
+LINKED:[12	12	80	89	bn:00098418a		http://babelnet.org/rdf/s00098418a	1.0	0.05263158	5.488474E-4	BABELFY]
+RANK:=== COUNTER  Counter 21556 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	1	2	0	4096539	Kazakhstan inherited nuclear-tipped missiles , a nuclear weapon test site , and biological and chemical weapon production facilities when the Soviet Union collapsed .	10635	chemical	426	Weapon	MANUAL	6540561	95	102	EGp	chemical
+LINKED:[14	14	95	102	bn:00099578a		http://babelnet.org/rdf/s00099578a	1.0	0.05263158	5.488474E-4	BABELFY]
+RANK:=== COUNTER  Counter 21560 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	2	2	0	4096540	In its first decade of independence , Kazakhstan dismantled and destroyed Soviet weapons systems and facilities left on its territory and signed several international nonproliferation treaties .	7648	dismantle.v	417	Destroying	MANUAL	6521951	49	58	CFB	dismantled
+LINKED:[8	8	49	58	bn:00083956v		http://babelnet.org/rdf/s00083956v	0.8	0.11764706	0.018058691	BABELFY]
+RANK:=== COUNTER  Counter 21564 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	2	2	0	4096540	In its first decade of independence , Kazakhstan dismantled and destroyed Soviet weapons systems and facilities left on its territory and signed several international nonproliferation treaties .	3879	decade.n	224	Measure_duration	MANUAL	6521956	13	18	MiL	decade
+LINKED:[3	3	13	18	bn:00025646n	http://dbpedia.org/resource/Decade	http://babelnet.org/rdf/s00025646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21566 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:135	23501	2	2	0	4096540	In its first decade of independence , Kazakhstan dismantled and destroyed Soviet weapons systems and facilities left on its territory and signed several international nonproliferation treaties .	10681	sign.v	1151	Sign_agreement	MANUAL	6521958	138	143	MiL	signed
+LINKED:[21	21	138	143	bn:00093731v		http://babelnet.org/rdf/s00093731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21570 ===
+	Text_creation: -0.00591715976331361
+	Sign_agreement: -0.0625
+
+SELECTED:[Sign_agreement]
+MATCH!
+SILVER:135	23501	2	2	0	4096540	In its first decade of independence , Kazakhstan dismantled and destroyed Soviet weapons systems and facilities left on its territory and signed several international nonproliferation treaties .	8370	treaty.n	560	Documents	MANUAL	6521959	184	191	MiL	treaties
+LINKED:[25	25	184	191	bn:00000728n	http://dbpedia.org/resource/Pact	http://babelnet.org/rdf/s00000728n	1.0	0.3529412	0.12189616	BABELFY]
+RANK:=== COUNTER  Counter 21572 ===
+	Documents: -0.0013717421124828531
+	Make_agreement_on_action: -0.0625
+	Be_in_agreement_on_action: -0.0625
+
+SELECTED:[Documents]
+MATCH!
+SILVER:135	23501	2	2	0	4096540	In its first decade of independence , Kazakhstan dismantled and destroyed Soviet weapons systems and facilities left on its territory and signed several international nonproliferation treaties .	10238	international.a	195	Political_locales	MANUAL	6521982	153	165	MiL	international
+LINKED:[23	23	153	165	bn:00102626a		http://babelnet.org/rdf/s00102626a	1.0	0.05882353	0.0022573364	BABELFY]
+RANK:=== COUNTER  Counter 21574 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	2	2	0	4096540	In its first decade of independence , Kazakhstan dismantled and destroyed Soviet weapons systems and facilities left on its territory and signed several international nonproliferation treaties .	10662	facility.n	196	Locale_by_use	MANUAL	6522244	101	110	RLG	facilities
+LINKED:[15	15	101	110	bn:00032647n		http://babelnet.org/rdf/s00032647n	0.9	0.1764706	0.020316027	BABELFY]
+RANK:=== COUNTER  Counter 21576 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	2	2	0	4096540	In its first decade of independence , Kazakhstan dismantled and destroyed Soviet weapons systems and facilities left on its territory and signed several international nonproliferation treaties .	11690	system.n	106	Gizmo	MANUAL	6536603	89	95	RLG	systems
+LINKED:[13	13	89	95	bn:00075759n		http://babelnet.org/rdf/s00075759n	0.75	0.1764706	0.027088037	BABELFY]
+RANK:=== COUNTER  Counter 21582 ===
+	Gizmo: -0.0044444444444444444
+	System: -0.1111111111111111
+
+SELECTED:[Gizmo]
+MATCH!
+SILVER:135	23501	1	4	0	4096542	When the Soviet Union collapsed in December 1991 , Kazakhstan inherited 1,410 nuclear warheads and the Semipalatinsk nuclear weapon test site .	12170	nuclear.a	426	Weapon	MANUAL	6540562	78	84	KmG	nuclear
+LINKED:[12	12	78	84	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21588 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23501	1	4	0	4096542	When the Soviet Union collapsed in December 1991 , Kazakhstan inherited 1,410 nuclear warheads and the Semipalatinsk nuclear weapon test site .	10652	nuclear	426	Weapon	MANUAL	6540563	117	123	EGp	nuclear
+LINKED:[17	17	117	123	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21590 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23501	1	4	0	4096542	When the Soviet Union collapsed in December 1991 , Kazakhstan inherited 1,410 nuclear warheads and the Semipalatinsk nuclear weapon test site .	11550	site.n	196	Locale_by_use	MANUAL	6540564	137	140	KmG	site
+LINKED:[20	20	137	140	bn:00049847n		http://babelnet.org/rdf/s00049847n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21594 ===
+	Locale_by_use: -4.3402777777777775E-4
+	Locale: -0.0034602076124567475
+	Locale_by_event: -0.027777777777777776
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:135	23501	2	4	0	4096543	Kazakhstan transferred all of these nuclear warheads to Russia by April 1995 and destroyed the nuclear testing infrastructure at Semipalatinsk by July 2000 .	11466	testing.n	1301	Operational_testing	MANUAL	6521990	103	109	MiL	testing
+LINKED:[16	16	103	109	bn:00094889v		http://babelnet.org/rdf/s00094889v	1.0	0.071428575	7.9239305E-4	BABELFY]
+RANK:=== COUNTER  Counter 21600 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	2	4	0	4096543	Kazakhstan transferred all of these nuclear warheads to Russia by April 1995 and destroyed the nuclear testing infrastructure at Semipalatinsk by July 2000 .	11593	transfer.v	178	Transfer	MANUAL	6522246	11	21	RLG	transferred
+LINKED:[1	1	11	21	bn:00092460v		http://babelnet.org/rdf/s00092460v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21602 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	2	4	0	4096543	Kazakhstan transferred all of these nuclear warheads to Russia by April 1995 and destroyed the nuclear testing infrastructure at Semipalatinsk by July 2000 .	12168	infrastructure.n	1481	Infrastructure	MANUAL	6527620	111	124	RLG	infrastructure
+LINKED:[17	17	111	124	bn:00046727n		http://babelnet.org/rdf/s00046727n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21604 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	2	4	0	4096543	Kazakhstan transferred all of these nuclear warheads to Russia by April 1995 and destroyed the nuclear testing infrastructure at Semipalatinsk by July 2000 .	12170	nuclear.a	426	Weapon	MANUAL	6540565	36	42	KmG	nuclear
+LINKED:[5	5	36	42	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21606 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23501	2	4	0	4096543	Kazakhstan transferred all of these nuclear warheads to Russia by April 1995 and destroyed the nuclear testing infrastructure at Semipalatinsk by July 2000 .	12170	nuclear.a	426	Weapon	MANUAL	6540566	95	101	KmG	nuclear
+LINKED:[15	15	95	101	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21608 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23501	3	4	0	4096544	Weapons-grade nuclear material remains in Kazakhstan , however , including three metric tons of plutonium at a shutdown breeder reactor in western Kazakhstan and small amounts of highly enriched uranium ( HEU ) at two nuclear research institutes .	5877	western.a	143	Part_orientational	MANUAL	6521992	139	145	MiL	western
+LINKED:[21	21	139	145	bn:00113813a		http://babelnet.org/rdf/s00113813a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21612 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	3	4	0	4096544	Weapons-grade nuclear material remains in Kazakhstan , however , including three metric tons of plutonium at a shutdown breeder reactor in western Kazakhstan and small amounts of highly enriched uranium ( HEU ) at two nuclear research institutes .	10687	include.v	1153	Inclusion	MANUAL	6522062	65	73	RLG	including
+LINKED:[9	9	65	73	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21614 ===
+	Inclusion: -0.027777777777777776
+	Cause_to_be_included: -0.25
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:135	23501	3	4	0	4096544	Weapons-grade nuclear material remains in Kazakhstan , however , including three metric tons of plutonium at a shutdown breeder reactor in western Kazakhstan and small amounts of highly enriched uranium ( HEU ) at two nuclear research institutes .	10322	remain.v	1030	Remainder	MANUAL	6522245	31	37	RLG	remains
+LINKED:[3	3	31	37	bn:00092757v		http://babelnet.org/rdf/s00092757v	1.0	0.05	6.333122E-4	BABELFY]
+RANK:=== COUNTER  Counter 21616 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	3	4	0	4096544	Weapons-grade nuclear material remains in Kazakhstan , however , including three metric tons of plutonium at a shutdown breeder reactor in western Kazakhstan and small amounts of highly enriched uranium ( HEU ) at two nuclear research institutes .	12406	metric	147	Measure_mass	MANUAL	6528548	81	86	EGp	metric
+LINKED:[11	11	81	86	bn:00106677a		http://babelnet.org/rdf/s00106677a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21618 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	3	4	0	4096544	Weapons-grade nuclear material remains in Kazakhstan , however , including three metric tons of plutonium at a shutdown breeder reactor in western Kazakhstan and small amounts of highly enriched uranium ( HEU ) at two nuclear research institutes .	12406	metric	147	Measure_mass	MANUAL	6528548	88	91	EGp	tons
+LINKED:[12	12	88	91	bn:00041874n	http://dbpedia.org/resource/Ton	http://babelnet.org/rdf/s00041874n	0.85714287	0.1	0.0037998734	BABELFY]
+RANK:=== COUNTER  Counter 21620 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	4	4	0	4096545	Approximately 600 kilograms of weapons-grade HEU was removed to the United States from the Ulba Metallurgy Plant in 1994 under a joint U.S. - Kazakhstani operation known as Project Sapphire .	11461	known.a	228	Being_named	MANUAL	6522063	164	168	RLG	known
+LINKED:[26	26	164	168	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21636 ===
+	Awareness: -0.002066115702479339
+	Certainty: -0.008264462809917356
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	4	4	0	4096545	Approximately 600 kilograms of weapons-grade HEU was removed to the United States from the Ulba Metallurgy Plant in 1994 under a joint U.S. - Kazakhstani operation known as Project Sapphire .	6905	operation.n	365	Businesses	MANUAL	6528003	154	162	MiL	operation
+LINKED:[25	25	154	162	bn:00059125n		http://babelnet.org/rdf/s00059125n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21638 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	5	4	0	4096546	Kazakhstan is a party to START-I , the Nuclear Non-Proliferation Treaty ( NPT ) , and the Comprehensive Test Ban Treaty ( CTBT ) .	13356	party.n	1144	Participation	MANUAL	6536646	16	20	KmG	party
+LINKED:[3	3	16	20	bn:00060834n	http://dbpedia.org/resource/Political_party	http://babelnet.org/rdf/s00060834n	0.7894737	0.23076923	0.02757353	BABELFY]
+RANK:=== COUNTER  Counter 21644 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	5	4	0	4096546	Kazakhstan is a party to START-I , the Nuclear Non-Proliferation Treaty ( NPT ) , and the Comprehensive Test Ban Treaty ( CTBT ) .	11815	treaty.n	1380	Be_in_agreement_on_action	MANUAL	6540585	65	70	KmG	Treaty
+LINKED:[10	10	65	70	bn:00000728n	http://dbpedia.org/resource/Pact	http://babelnet.org/rdf/s00000728n	0.98245615	0.53846157	0.10294118	BABELFY]
+RANK:=== COUNTER  Counter 21646 ===
+	Documents: -0.0013717421124828531
+	Make_agreement_on_action: -0.0625
+	Be_in_agreement_on_action: -0.0625
+
+SELECTED:[Be_in_agreement_on_action]
+MATCH!
+SILVER:135	23501	5	4	0	4096546	Kazakhstan is a party to START-I , the Nuclear Non-Proliferation Treaty ( NPT ) , and the Comprehensive Test Ban Treaty ( CTBT ) .	11815	treaty.n	1380	Be_in_agreement_on_action	MANUAL	6540588	113	118	KmG	Treaty
+LINKED:[20	20	113	118	bn:00000728n	http://dbpedia.org/resource/Pact	http://babelnet.org/rdf/s00000728n	0.98245615	0.53846157	0.10294118	BABELFY]
+RANK:=== COUNTER  Counter 21652 ===
+	Documents: -0.0013717421124828531
+	Make_agreement_on_action: -0.0625
+	Be_in_agreement_on_action: -0.0625
+
+SELECTED:[Be_in_agreement_on_action]
+MATCH!
+SILVER:135	23501	1	6	0	4096548	Kazakhstan has not declared an official policy against biological weapons ( BW ) .	10637	biological	426	Weapon	MANUAL	6521963	55	64	EGp	biological
+LINKED:[8	8	55	64	bn:00098418a		http://babelnet.org/rdf/s00098418a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21656 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	2	6	0	4096549	It has not signed the Biological Toxin and Weapons Convention ( BWC ) nor is it a member of the Australia Group .	10681	sign.v	1151	Sign_agreement	MANUAL	6521964	11	16	Pam	signed
+LINKED:[3	3	11	16	bn:00093731v		http://babelnet.org/rdf/s00093731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21660 ===
+	Text_creation: -0.00591715976331361
+	Sign_agreement: -0.0625
+
+SELECTED:[Sign_agreement]
+MATCH!
+SILVER:135	23501	2	6	0	4096549	It has not signed the Biological Toxin and Weapons Convention ( BWC ) nor is it a member of the Australia Group .	2112	group.n	103	Aggregate	MANUAL	6521981	106	110	Pam	Group
+LINKED:[21	21	106	110	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21664 ===
+	Aggregate: -4.0E-4
+	Organization: -0.00510204081632653
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:135	23501	2	6	0	4096549	It has not signed the Biological Toxin and Weapons Convention ( BWC ) nor is it a member of the Australia Group .	13357	biological.a	426	Weapon	MANUAL	6540589	22	31	KmG	Biological
+LINKED:[5	5	22	31	bn:00010543n	http://dbpedia.org/resource/Biology	http://babelnet.org/rdf/s00010543n	1.0	0.6666667	0.20886075	BABELFY]
+RANK:=== COUNTER  Counter 21666 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	3	6	0	4096550	Kazakhstani President Nazarbayev , however , has declared Kazakhstan 's commitment to the nonproliferation of BW and associated technologies .	1599	president	73	Leadership	MANUAL	6521966	12	20	Pam	President
+LINKED:[1	1	12	20	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21672 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	3	6	0	4096550	Kazakhstani President Nazarbayev , however , has declared Kazakhstan 's commitment to the nonproliferation of BW and associated technologies .	11706	associated.a	720	Cognitive_connection	MANUAL	6525814	117	126	RLG	associated
+LINKED:[17	17	117	126	bn:00082868v		http://babelnet.org/rdf/s00082868v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21680 ===
+	Make_cognitive_connection: -0.0625
+	Relating_concepts: -0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	4	6	0	4096551	In 1993 , Kazakhstan created a civilian body , the National Center for Biotechnology , to oversee the administration of most of the former BW facilities in Kazakhstan .	10661	center.n	196	Locale_by_use	MANUAL	6521985	60	65	Pam	Center
+LINKED:[11	11	60	65	bn:00017135n		http://babelnet.org/rdf/s00017135n	1.0	0.2	0.019900497	BABELFY]
+RANK:=== COUNTER  Counter 21686 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	4	6	0	4096551	In 1993 , Kazakhstan created a civilian body , the National Center for Biotechnology , to oversee the administration of most of the former BW facilities in Kazakhstan .	10662	facility.n	196	Locale_by_use	MANUAL	6521986	142	151	Pam	facilities
+LINKED:[25	25	142	151	bn:00032647n		http://babelnet.org/rdf/s00032647n	1.0	0.1	0.014925373	BABELFY]
+RANK:=== COUNTER  Counter 21688 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	4	6	0	4096551	In 1993 , Kazakhstan created a civilian body , the National Center for Biotechnology , to oversee the administration of most of the former BW facilities in Kazakhstan .	5437	create.v	280	Intentionally_create	MANUAL	6522065	21	27	RLG	created
+LINKED:[4	4	21	27	bn:00086008v		http://babelnet.org/rdf/s00086008v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21690 ===
+	Cause_to_start: -0.006944444444444444
+	Intentionally_create: -0.006944444444444444
+	Coming_up_with: -0.008264462809917356
+	Creating: -0.012345679012345678
+	Building: -0.012345679012345678
+
+SELECTED:[Intentionally_create]
+MATCH!
+SILVER:135	23501	4	6	0	4096551	In 1993 , Kazakhstan created a civilian body , the National Center for Biotechnology , to oversee the administration of most of the former BW facilities in Kazakhstan .	10243	national.a	195	Political_locales	MANUAL	6540593	51	58	KmG	National
+LINKED:[10	10	51	58	bn:00056915n		http://babelnet.org/rdf/s00056915n	1.0	0.1	0.0049751243	BABELFY]
+RANK:=== COUNTER  Counter 21694 ===
+	Origin: -0.0625
+	People_by_jurisdiction: -0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	5	6	0	4096552	These facilities include the following : Biomedpreparat , a large-scale anthrax production facility located in Stepnogorsk ; the Scientific Research Agricultural Institute ( SRAI ) at Otar , which specializes in anti-crop and anti-livestock diseases ; and Biokombinat , a small mobilization production facility located in Almaty , now producing vaccines .	10662	facility.n	196	Locale_by_use	MANUAL	6521970	6	15	Pam	facilities
+LINKED:[1	1	6	15	bn:00032647n		http://babelnet.org/rdf/s00032647n	0.7058824	0.2	0.010728654	BABELFY]
+RANK:=== COUNTER  Counter 21696 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	5	6	0	4096552	These facilities include the following : Biomedpreparat , a large-scale anthrax production facility located in Stepnogorsk ; the Scientific Research Agricultural Institute ( SRAI ) at Otar , which specializes in anti-crop and anti-livestock diseases ; and Biokombinat , a small mobilization production facility located in Almaty , now producing vaccines .	10687	include.v	1153	Inclusion	MANUAL	6521971	17	23	Pam	include
+LINKED:[2	2	17	23	bn:00089662v		http://babelnet.org/rdf/s00089662v	1.0	0.05	4.4702727E-4	BABELFY]
+RANK:=== COUNTER  Counter 21698 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	5	6	0	4096552	These facilities include the following : Biomedpreparat , a large-scale anthrax production facility located in Stepnogorsk ; the Scientific Research Agricultural Institute ( SRAI ) at Otar , which specializes in anti-crop and anti-livestock diseases ; and Biokombinat , a small mobilization production facility located in Almaty , now producing vaccines .	10662	facility.n	196	Locale_by_use	MANUAL	6521973	91	98	Pam	facility
+LINKED:[12	12	91	98	bn:00032647n		http://babelnet.org/rdf/s00032647n	0.7058824	0.2	0.010728654	BABELFY]
+RANK:=== COUNTER  Counter 21702 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	5	6	0	4096552	These facilities include the following : Biomedpreparat , a large-scale anthrax production facility located in Stepnogorsk ; the Scientific Research Agricultural Institute ( SRAI ) at Otar , which specializes in anti-crop and anti-livestock diseases ; and Biokombinat , a small mobilization production facility located in Almaty , now producing vaccines .	10024	located.a	960	Being_located	MANUAL	6521974	100	106	Pam	located
+LINKED:[13	13	100	106	bn:00106113a		http://babelnet.org/rdf/s00106113a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21704 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	5	6	0	4096552	These facilities include the following : Biomedpreparat , a large-scale anthrax production facility located in Stepnogorsk ; the Scientific Research Agricultural Institute ( SRAI ) at Otar , which specializes in anti-crop and anti-livestock diseases ; and Biokombinat , a small mobilization production facility located in Almaty , now producing vaccines .	10662	facility.n	196	Locale_by_use	MANUAL	6521977	302	309	Pam	facility
+LINKED:[43	43	302	309	bn:00032647n		http://babelnet.org/rdf/s00032647n	0.7058824	0.2	0.010728654	BABELFY]
+RANK:=== COUNTER  Counter 21708 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	5	6	0	4096552	These facilities include the following : Biomedpreparat , a large-scale anthrax production facility located in Stepnogorsk ; the Scientific Research Agricultural Institute ( SRAI ) at Otar , which specializes in anti-crop and anti-livestock diseases ; and Biokombinat , a small mobilization production facility located in Almaty , now producing vaccines .	10024	located.a	960	Being_located	MANUAL	6521978	311	317	Pam	located
+LINKED:[44	44	311	317	bn:00106113a		http://babelnet.org/rdf/s00106113a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21710 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	5	6	0	4096552	These facilities include the following : Biomedpreparat , a large-scale anthrax production facility located in Stepnogorsk ; the Scientific Research Agricultural Institute ( SRAI ) at Otar , which specializes in anti-crop and anti-livestock diseases ; and Biokombinat , a small mobilization production facility located in Almaty , now producing vaccines .	7523	produce.v	408	Manufacturing	MANUAL	6521979	335	343	Pam	producing
+LINKED:[49	49	335	343	bn:00086013v		http://babelnet.org/rdf/s00086013v	0.9245283	0.35	0.043808673	BABELFY]
+RANK:=== COUNTER  Counter 21712 ===
+	Intentionally_create: -0.006944444444444444
+	Creating: -0.012345679012345678
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	6	6	0	4096553	The Scientific Center for Quarantine and Zoonotic Infections ( SCQZI ) ( formerly known as the Anti-Plague Institute ) was also involved in the Soviet BW system and is now under the jurisdiction of the Kazakhstani Ministry of Health .	11461	known.a	228	Being_named	MANUAL	6522000	82	86	Pam	known
+LINKED:[13	13	82	86	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21718 ===
+	Awareness: -0.002066115702479339
+	Certainty: -0.008264462809917356
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	7	6	0	4096554	Both SCQZI and SRAI house extensive collections of virulent strains .	2119	collection.n	103	Aggregate	MANUAL	6522002	36	46	Pam	collections
+LINKED:[6	6	36	46	bn:00005020n		http://babelnet.org/rdf/s00005020n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21722 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	7	6	0	4096554	Both SCQZI and SRAI house extensive collections of virulent strains .	2561	strain.n	128	Type	MANUAL	6522003	60	66	Pam	strains
+LINKED:[9	9	60	66	bn:00074518n	http://dbpedia.org/resource/Deformation_(mechanics)	http://babelnet.org/rdf/s00074518n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21724 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	7	6	0	4096554	Both SCQZI and SRAI house extensive collections of virulent strains .	13175	house.v	397	Containing	MANUAL	6540598	20	24	KmG	house
+LINKED:[4	4	20	24	bn:00598308n	http://dbpedia.org/resource/House_music	http://babelnet.org/rdf/s00598308n	0.9	1.0	0.51428574	BABELFY]
+RANK:=== COUNTER  Counter 21726 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	8	6	0	4096555	Under Cooperative Threat Reduction ( CTR ) programs , Biomedpreparat has been dismantled and safety and security have been upgraded at SCQZI and SRAI .	1991	reduction.n	96	Cause_change_of_position_on_a_scale	MANUAL	6522012	25	33	Pam	Reduction
+LINKED:[3	3	25	33	bn:00025780n		http://babelnet.org/rdf/s00025780n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21728 ===
+	Cause_change_of_position_on_a_scale: -0.0027700831024930744
+	Cause_expansion: -0.0030864197530864196
+
+SELECTED:[Cause_change_of_position_on_a_scale]
+MATCH!
+SILVER:135	23501	8	6	0	4096555	Under Cooperative Threat Reduction ( CTR ) programs , Biomedpreparat has been dismantled and safety and security have been upgraded at SCQZI and SRAI .	10724	program.n	1158	Project	MANUAL	6522013	43	50	Pam	programs
+LINKED:[7	7	43	50	bn:00021497n	http://dbpedia.org/resource/Software	http://babelnet.org/rdf/s00021497n	0.71428573	0.8333333	0.32608697	BABELFY]
+RANK:=== COUNTER  Counter 21730 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	8	6	0	4096555	Under Cooperative Threat Reduction ( CTR ) programs , Biomedpreparat has been dismantled and safety and security have been upgraded at SCQZI and SRAI .	7648	dismantle.v	417	Destroying	MANUAL	6522014	78	87	Pam	dismantled
+LINKED:[12	12	78	87	bn:00086988v		http://babelnet.org/rdf/s00086988v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21732 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	1	8	0	4096557	Kazakhstan inherited one known chemical weapons ( CW ) production plant in the city of Pavlodar .	11441	production.n	408	Manufacturing	MANUAL	6522016	55	64	Pam	production
+LINKED:[9	9	55	64	bn:00064594n	http://dbpedia.org/resource/Production_(economics)	http://babelnet.org/rdf/s00064594n	0.7692308	0.22222222	0.04405286	BABELFY]
+RANK:=== COUNTER  Counter 21740 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	1	8	0	4096557	Kazakhstan inherited one known chemical weapons ( CW ) production plant in the city of Pavlodar .	3764	city.n	195	Political_locales	MANUAL	6522019	79	82	Pam	city
+LINKED:[13	13	79	82	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	1.0	0.5555556	0.19823788	BABELFY]
+RANK:=== COUNTER  Counter 21744 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	2	8	0	4096558	This plant probably was designed to replace aging plants in Volgograd and Novocheboksarsk ( Russia ) for the production of the binary agent `` novichok .''	10790	replace.v	1171	Take_place_of	MANUAL	6522023	36	42	Pam	replace
+LINKED:[6	6	36	42	bn:00087802v		http://babelnet.org/rdf/s00087802v	1.0	0.2	0.006779661	BABELFY]
+RANK:=== COUNTER  Counter 21752 ===
+	Replacing: -0.04000000000000001
+	Take_place_of: -0.04000000000000001
+
+SELECTED:[Take_place_of]
+MATCH!
+SILVER:135	23501	2	8	0	4096558	This plant probably was designed to replace aging plants in Volgograd and Novocheboksarsk ( Russia ) for the production of the binary agent `` novichok .''	11441	production.n	408	Manufacturing	MANUAL	6522026	109	118	Pam	production
+LINKED:[18	18	109	118	bn:00064594n	http://dbpedia.org/resource/Production_(economics)	http://babelnet.org/rdf/s00064594n	1.0	0.4	0.07457627	BABELFY]
+RANK:=== COUNTER  Counter 21756 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	2	8	0	4096558	This plant probably was designed to replace aging plants in Volgograd and Novocheboksarsk ( Russia ) for the production of the binary agent `` novichok .''	11608	agent.n	1322	Active_substance	MANUAL	6527615	134	138	RLG	agent
+LINKED:[22	22	134	138	bn:00001972n		http://babelnet.org/rdf/s00001972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21760 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	3	8	0	4096559	The plant 's construction was halted in 1987 , after the Soviet Union became involved in Chemical Weapons Convention ( CWC ) -related negotiations , so it never produced any CW agents .	7523	produce.v	408	Manufacturing	MANUAL	6522037	161	168	Pam	produced
+LINKED:[29	29	161	168	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21776 ===
+	Behind_the_scenes: -0.008264462809917356
+	Manufacturing: -0.015625
+
+SELECTED:[Manufacturing]
+MATCH!
+SILVER:135	23501	4	8	0	4096560	Kazakhstan joined the CWC in March 2000 .	13160	join.v	1733	Becoming_a_member	MANUAL	6534335	11	16	RLG	joined
+LINKED:[1	1	11	16	bn:00088013v		http://babelnet.org/rdf/s00088013v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21778 ===
+	Cause_to_amalgamate: -0.00591715976331361
+	Becoming_a_member: -0.0625
+
+SELECTED:[Becoming_a_member]
+MATCH!
+SILVER:135	23501	5	8	0	4096561	However , Kazakhstan produced a nil declaration , leaving out the Pavlodar facility .	10662	facility.n	196	Locale_by_use	MANUAL	6522042	75	82	Pam	facility
+LINKED:[12	12	75	82	bn:00032647n		http://babelnet.org/rdf/s00032647n	1.0	0.5	0.12903225	BABELFY]
+RANK:=== COUNTER  Counter 21782 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	5	8	0	4096561	However , Kazakhstan produced a nil declaration , leaving out the Pavlodar facility .	11694	produce.v	280	Intentionally_create	MANUAL	6540602	21	28	KmG	produced
+LINKED:[3	3	21	28	bn:00084069v		http://babelnet.org/rdf/s00084069v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21784 ===
+	Causation: -0.0025000000000000005
+	Cause_to_start: -0.006944444444444444
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	2	10	0	4096564	All ICBMs were transferred to Russia for dismantlement by September 1996 and missile silos and silo structures were destroyed under the U.S. Department of Defense Cooperative Threat Reduction ( CTR ) program by September 1999 .	10724	program.n	1158	Project	MANUAL	6522055	200	206	MiL	program
+LINKED:[31	31	200	206	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21796 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23501	2	10	0	4096564	All ICBMs were transferred to Russia for dismantlement by September 1996 and missile silos and silo structures were destroyed under the U.S. Department of Defense Cooperative Threat Reduction ( CTR ) program by September 1999 .	1991	reduction.n	96	Cause_change_of_position_on_a_scale	MANUAL	6522056	182	190	MiL	Reduction
+LINKED:[27	27	182	190	bn:00066741n	http://dbpedia.org/resource/Reductionism	http://babelnet.org/rdf/s00066741n	1.0	0.16666667	0.0028684116	BABELFY]
+RANK:=== COUNTER  Counter 21798 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	2	10	0	4096564	All ICBMs were transferred to Russia for dismantlement by September 1996 and missile silos and silo structures were destroyed under the U.S. Department of Defense Cooperative Threat Reduction ( CTR ) program by September 1999 .	11593	transfer.v	178	Transfer	MANUAL	6522247	15	25	RLG	transferred
+LINKED:[3	3	15	25	bn:00092460v		http://babelnet.org/rdf/s00092460v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21800 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	2	10	0	4096564	All ICBMs were transferred to Russia for dismantlement by September 1996 and missile silos and silo structures were destroyed under the U.S. Department of Defense Cooperative Threat Reduction ( CTR ) program by September 1999 .	12654	silo.n	196	Locale_by_use	MANUAL	6540607	95	98	KmG	silo
+LINKED:[15	15	95	98	bn:00071615n	http://dbpedia.org/resource/Silo	http://babelnet.org/rdf/s00071615n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21804 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23501	3	10	0	4096565	Gidromash , an Almaty -based Soviet-era producer of submarine-launched missiles , was converted to a civilian commercial enterprise under CTR 's Industrial Partnerships Program .	10724	program.n	1158	Project	MANUAL	6540608	169	175	KmG	Program
+LINKED:[24	24	169	175	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 21812 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+filename	NTI__Kazakhstan.xml
+docAnnotations	193
+docManual	160
+docUnannotated	33
+sentences	29
+paragraphs	11
+Overlapping	136
+Disambiguated	28
+TP	22
+TN	33
+FP	0
+FN	132
+P	1.0
+R	0.14285714285714285
+F	0.25
+A	0.29411764705882354

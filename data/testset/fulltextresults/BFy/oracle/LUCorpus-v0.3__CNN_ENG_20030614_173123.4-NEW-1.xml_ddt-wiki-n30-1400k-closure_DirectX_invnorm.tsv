@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__CNN_ENG_20030614_173123.4-NEW-1.xml
+docAnnotations	182
+docManual	143
+docUnannotated	39
+sentences	34
+paragraphs	18
+Overlapping	107
+Disambiguated	84
+TP	51
+TN	39
+FP	0
+FN	59
+P	1.0
+R	0.4636363636363636
+F	0.6335403726708074
+A	0.6040268456375839

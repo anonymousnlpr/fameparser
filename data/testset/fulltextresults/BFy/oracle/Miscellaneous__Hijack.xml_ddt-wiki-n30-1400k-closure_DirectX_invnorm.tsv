@@ -1,0 +1,16 @@
+filename	Miscellaneous__Hijack.xml
+docAnnotations	17
+docManual	14
+docUnannotated	3
+sentences	3
+paragraphs	3
+Overlapping	13
+Disambiguated	9
+TP	8
+TN	3
+FP	0
+FN	5
+P	1.0
+R	0.6153846153846154
+F	0.761904761904762
+A	0.6875

@@ -1,0 +1,16 @@
+filename	NTI__NorthKorea_Introduction.xml
+docAnnotations	403
+docManual	340
+docUnannotated	63
+sentences	47
+paragraphs	13
+Overlapping	330
+Disambiguated	295
+TP	207
+TN	63
+FP	0
+FN	45
+P	1.0
+R	0.8214285714285714
+F	0.9019607843137255
+A	0.8571428571428571

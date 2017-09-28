@@ -1,0 +1,217 @@
+SILVER:205	23712	1	3	0	4101359	U.S. Democratic Party Congressman Tony Hall left here Thursday after concluding his landmark visit to Iraq , which has been under sweeping U.N. sanctions since 1990 .	8622	leave.v	57	Departing	MANUAL	6544906	44	47	RLG	left
+LINKED:[6	6	44	47	bn:00088939v		http://babelnet.org/rdf/s00088939v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5674 ===
+	Path_shape: -9.182736455463729E-4
+	Departing: -0.00510204081632653
+	Forming_relationships: -0.00591715976331361
+	Quitting: -0.027777777777777776
+	Abandonment: -0.0625
+
+SELECTED:[Departing]
+MATCH!
+SILVER:205	23712	1	3	0	4101359	U.S. Democratic Party Congressman Tony Hall left here Thursday after concluding his landmark visit to Iraq , which has been under sweeping U.N. sanctions since 1990 .	11351	conclude.v	165	Activity_finish	MANUAL	6544909	69	78	RLG	concluding
+LINKED:[10	10	69	78	bn:00085166v		http://babelnet.org/rdf/s00085166v	1.0	0.05882353	8.716116E-5	BABELFY]
+RANK:=== COUNTER  Counter 5678 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	3	0	4101359	U.S. Democratic Party Congressman Tony Hall left here Thursday after concluding his landmark visit to Iraq , which has been under sweeping U.N. sanctions since 1990 .	14224	visit.n	1911	Visiting	MANUAL	6544910	93	97	RLG	visit
+LINKED:[13	13	93	97	bn:00080111n		http://babelnet.org/rdf/s00080111n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5680 ===
+	Arriving: -0.0027700831024930744
+	Visiting: -0.04000000000000001
+
+SELECTED:[Visiting]
+MATCH!
+SILVER:205	23712	1	4	0	4101360	In a statement , Hall expressed regret over the negative impacts of the decade-old sanctions on Iraqi people .	11091	impact.n	1084	Objective_influence	MANUAL	6544916	57	63	RLG	impacts
+LINKED:[10	10	57	63	bn:00046066n		http://babelnet.org/rdf/s00046066n	1.0	0.2	0.04	BABELFY]
+RANK:=== COUNTER  Counter 5692 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	4	0	4101360	In a statement , Hall expressed regret over the negative impacts of the decade-old sanctions on Iraqi people .	10676	sanction.n	347	Revenge	MANUAL	6551519	83	91	KmG	sanctions
+LINKED:[14	14	83	91	bn:01390975n	http://dbpedia.org/resource/Sanctions_(law)	http://babelnet.org/rdf/s01390975n	1.0	0.2	0.04	BABELFY]
+RANK:=== COUNTER  Counter 5696 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	5	0	4101361	During his four-day stay , Hall visited hospitals and health institutions in Baghdad and the southern Muthana Province .	12614	institution.n	1604	Institutions	MANUAL	6544925	61	72	RLG	institutions
+LINKED:[10	10	61	72	bn:00046953n		http://babelnet.org/rdf/s00046953n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5702 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	5	0	4101361	During his four-day stay , Hall visited hospitals and health institutions in Baghdad and the southern Muthana Province .	947	visit.v	54	Arriving	MANUAL	6544966	32	38	KmG	visited
+LINKED:[6	6	32	38	bn:00095545v		http://babelnet.org/rdf/s00095545v	1.0	0.11111111	0.01923077	BABELFY]
+RANK:=== COUNTER  Counter 5704 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	6	0	4101362	The U.S. lawmaker got acquainted with the sufferings of the Iraqi children because of acute shortage of food and medicine as a direct result of the embargo , reported the Iraqi News Agency ( INA ) .	13256	acquainted.a	1597	Familiarity	MANUAL	6544934	22	31	RLG	acquainted
+LINKED:[4	4	22	31	bn:00082273v		http://babelnet.org/rdf/s00082273v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5706 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	6	0	4101362	The U.S. lawmaker got acquainted with the sufferings of the Iraqi children because of acute shortage of food and medicine as a direct result of the embargo , reported the Iraqi News Agency ( INA ) .	748	report.v	43	Statement	MANUAL	6544940	158	165	RLG	reported
+LINKED:[28	28	158	165	bn:00082233v		http://babelnet.org/rdf/s00082233v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5712 ===
+	Statement: -2.44140625E-4
+	Reporting: -0.010000000000000002
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23712	1	6	0	4101362	The U.S. lawmaker got acquainted with the sufferings of the Iraqi children because of acute shortage of food and medicine as a direct result of the embargo , reported the Iraqi News Agency ( INA ) .	14552	result.n	5	Causation	MANUAL	6548819	134	139	JKs	result
+LINKED:[23	23	134	139	bn:00021961n	http://dbpedia.org/resource/Result	http://babelnet.org/rdf/s00021961n	0.75	0.16666667	0.0074937553	BABELFY]
+RANK:=== COUNTER  Counter 5716 ===
+	Causation: -0.0025000000000000005
+	Subjective_influence: -0.00591715976331361
+	Objective_influence: -0.04000000000000001
+	Being_in_effect: -0.1111111111111111
+
+SELECTED:[Causation]
+MATCH!
+SILVER:205	23712	1	7	0	4101363	He also witnessed cases of malnutrition and poliomyelitis that have doubled since 1990 , when U.N. imposed the sanctions against Iraq for its invasion of Kuwait , said the INA .	10676	sanction.n	347	Revenge	MANUAL	6544948	111	119	RLG	sanctions
+LINKED:[18	18	111	119	bn:01390975n	http://dbpedia.org/resource/Sanctions_(law)	http://babelnet.org/rdf/s01390975n	0.96153843	0.3846154	0.041597337	BABELFY]
+RANK:=== COUNTER  Counter 5724 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	7	0	4101363	He also witnessed cases of malnutrition and poliomyelitis that have doubled since 1990 , when U.N. imposed the sanctions against Iraq for its invasion of Kuwait , said the INA .	14553	witness.v	70	Perception_experience	MANUAL	6548820	8	16	JKs	witnessed
+LINKED:[2	2	8	16	bn:00095806v		http://babelnet.org/rdf/s00095806v	1.0	0.07692308	0.003327787	BABELFY]
+RANK:=== COUNTER  Counter 5728 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	8	0	4101364	Hall said on Monday that he regretted the miserable humanitarian situation in Iraq while visiting a hospital in the Mansour district of the Iraqi capital .	751	say.v	43	Statement	MANUAL	6544963	5	8	RLG	said
+LINKED:[1	1	5	8	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5732 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23712	1	8	0	4101364	Hall said on Monday that he regretted the miserable humanitarian situation in Iraq while visiting a hospital in the Mansour district of the Iraqi capital .	884	regret.v	48	Experiencer_focus	MANUAL	6544971	28	36	RLG	regretted
+LINKED:[6	6	28	36	bn:00092686v		http://babelnet.org/rdf/s00092686v	1.0	0.1	0.006024096	BABELFY]
+RANK:=== COUNTER  Counter 5736 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	8	0	4101364	Hall said on Monday that he regretted the miserable humanitarian situation in Iraq while visiting a hospital in the Mansour district of the Iraqi capital .	13938	capital.n	1883	Relational_political_locales	MANUAL	6544975	146	152	RLG	capital
+LINKED:[24	24	146	152	bn:00064917n	http://dbpedia.org/resource/Capital_city	http://babelnet.org/rdf/s00064917n	0.95238096	0.6	0.36144578	BABELFY]
+RANK:=== COUNTER  Counter 5740 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	9	0	4101365	Iraq has claimed that over 1.2 million people , mostly children and the elderly , have died during the last 10 years , and blames the deaths on shortages of food , medicine and other essential supplies .	697	claim.v	43	Statement	MANUAL	6548835	9	15	JKs	claimed
+LINKED:[2	2	9	15	bn:00085019v		http://babelnet.org/rdf/s00085019v	1.0	0.09090909	0.001369863	BABELFY]
+RANK:=== COUNTER  Counter 5746 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	9	0	4101365	Iraq has claimed that over 1.2 million people , mostly children and the elderly , have died during the last 10 years , and blames the deaths on shortages of food , medicine and other essential supplies .	10083	child.n	973	People_by_age	MANUAL	6548839	55	62	JKs	children
+LINKED:[10	10	55	62	bn:00018346n	http://dbpedia.org/resource/Child	http://babelnet.org/rdf/s00018346n	0.7741935	0.54545456	0.09863014	BABELFY]
+RANK:=== COUNTER  Counter 5750 ===
+	Kinship: -4.0E-4
+	People_by_age: -0.008264462809917356
+
+SELECTED:[People_by_age]
+MATCH!
+SILVER:205	23712	1	9	0	4101365	Iraq has claimed that over 1.2 million people , mostly children and the elderly , have died during the last 10 years , and blames the deaths on shortages of food , medicine and other essential supplies .	14533	elderly.n	973	People_by_age	MANUAL	6548840	72	78	JKs	elderly
+LINKED:[13	13	72	78	bn:00096644a		http://babelnet.org/rdf/s00096644a	1.0	0.27272728	0.016438356	BABELFY]
+RANK:=== COUNTER  Counter 5752 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	9	0	4101365	Iraq has claimed that over 1.2 million people , mostly children and the elderly , have died during the last 10 years , and blames the deaths on shortages of food , medicine and other essential supplies .	924	die.v	53	Death	MANUAL	6548841	87	90	JKs	died
+LINKED:[16	16	87	90	bn:00084343v		http://babelnet.org/rdf/s00084343v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5754 ===
+	Death: -0.010000000000000002
+	Rotting: -0.015625
+
+SELECTED:[Death]
+MATCH!
+SILVER:205	23712	1	11	0	4101367	Hall 's landmark visit to Iraq started on Sunday evening when he arrived here by land from Amman , Jordan .	14224	visit.n	1911	Visiting	MANUAL	6548859	17	21	JKs	visit
+LINKED:[3	3	17	21	bn:00080111n		http://babelnet.org/rdf/s00080111n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5756 ===
+	Arriving: -0.0027700831024930744
+	Visiting: -0.04000000000000001
+
+SELECTED:[Visiting]
+MATCH!
+SILVER:205	23712	1	12	0	4101368	Upon arrival , Hall said that his visit , the first of its kind by an American congressman since the 1991 Gulf War , was not political but humanitarian .	939	arrival.n	54	Arriving	MANUAL	6548868	5	11	JKs	arrival
+LINKED:[1	1	5	11	bn:00248862n	http://dbpedia.org/resource/Arrival_(ABBA_album)	http://babelnet.org/rdf/s00248862n	1.0	0.1	0.007874016	BABELFY]
+RANK:=== COUNTER  Counter 5764 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	12	0	4101368	Upon arrival , Hall said that his visit , the first of its kind by an American congressman since the 1991 Gulf War , was not political but humanitarian .	14224	visit.n	1911	Visiting	MANUAL	6548870	34	38	JKs	visit
+LINKED:[7	7	34	38	bn:00080111n		http://babelnet.org/rdf/s00080111n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5768 ===
+	Arriving: -0.0027700831024930744
+	Visiting: -0.04000000000000001
+
+SELECTED:[Visiting]
+MATCH!
+SILVER:205	23712	1	12	0	4101368	Upon arrival , Hall said that his visit , the first of its kind by an American congressman since the 1991 Gulf War , was not political but humanitarian .	1939	war.n	93	Hostile_encounter	MANUAL	6548877	111	113	JKs	War
+LINKED:[22	22	111	113	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.9142857	0.4	0.2519685	BABELFY]
+RANK:=== COUNTER  Counter 5778 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	13	0	4101369	`` There are a lot of issues I want to look at , but the issue of humanitarian concerns is number one , '' he said .	13232	a	189	Quantified_mass	MANUAL	6548879	15	17	JKs	lot
+LINKED:[4	4	15	17	bn:00008985n	http://dbpedia.org/resource/Slew_(spacecraft)	http://babelnet.org/rdf/s00008985n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5780 ===
+	Aggregate: -4.0E-4
+	Quantity: -8.163265306122448E-4
+	Sufficiency: -0.0034602076124567475
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	13	0	4101369	`` There are a lot of issues I want to look at , but the issue of humanitarian concerns is number one , '' he said .	6412	want.v	366	Desiring	MANUAL	6548881	31	34	JKs	want
+LINKED:[8	8	31	34	bn:00095627v		http://babelnet.org/rdf/s00095627v	0.75	0.1	0.011904762	BABELFY]
+RANK:=== COUNTER  Counter 5784 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23712	1	13	0	4101369	`` There are a lot of issues I want to look at , but the issue of humanitarian concerns is number one , '' he said .	1302	look.v	66	Perception_active	MANUAL	6548882	39	42	JKs	look
+LINKED:[10	10	39	42	bn:00090448v		http://babelnet.org/rdf/s00090448v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5786 ===
+	Scrutiny: -6.925207756232686E-4
+	Perception_active: -0.0011890606420927466
+	Seeking: -0.0044444444444444444
+
+SELECTED:[Perception_active]
+MATCH!
+SILVER:205	23712	1	13	0	4101369	`` There are a lot of issues I want to look at , but the issue of humanitarian concerns is number one , '' he said .	751	say.v	43	Statement	MANUAL	6548886	110	113	JKs	said
+LINKED:[24	24	110	113	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 5790 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+filename	LUCorpus-v0.3__20000420_xin_eng-NEW.xml
+docAnnotations	106
+docManual	75
+docUnannotated	31
+sentences	13
+paragraphs	13
+Overlapping	59
+Disambiguated	12
+TP	11
+TN	31
+FP	0
+FN	63
+P	1.0
+R	0.14864864864864866
+F	0.25882352941176473
+A	0.4

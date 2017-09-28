@@ -1,0 +1,1364 @@
+SILVER:195	23757	1	1	0	4103989	Hong Kong and Its People	5511	people.n	304	People	MANUAL	6559705	18	23	MLC	People
+LINKED:[4	4	18	23	bn:02235654n	http://dbpedia.org/resource/People_(TV_series)	http://babelnet.org/rdf/s02235654n	1.0	0.33333334	0.035714287	BABELFY]
+RANK:=== COUNTER  Counter 24458 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	2	0	4103990	Exciting , mysterious , glamorous - these words have described Hong Kong for at least a century .	6433	exciting.a	364	Stimulus_focus	MANUAL	6552840	0	7	JKs	Exciting
+LINKED:[0	0	0	7	bn:00087806v		http://babelnet.org/rdf/s00087806v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24459 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	2	0	4103990	Exciting , mysterious , glamorous - these words have described Hong Kong for at least a century .	11231	word.n	1260	Simple_name	MANUAL	6552841	42	46	JKs	words
+LINKED:[7	7	42	46	bn:00081546n	http://dbpedia.org/resource/Word	http://babelnet.org/rdf/s00081546n	0.71428573	0.375	0.2027027	BABELFY]
+RANK:=== COUNTER  Counter 24460 ===
+	Simple_name: 0.25
+
+SELECTED:[Simple_name]
+MATCH!
+SILVER:195	23757	1	2	0	4103990	Exciting , mysterious , glamorous - these words have described Hong Kong for at least a century .	9803	describe.v	796	Communicate_categorization	MANUAL	6552842	53	61	JKs	described
+LINKED:[9	9	53	61	bn:00082233v		http://babelnet.org/rdf/s00082233v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24461 ===
+	Reporting: 0.008264462809917356
+	Statement: 2.366863905325444E-4
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	2	0	4103990	Exciting , mysterious , glamorous - these words have described Hong Kong for at least a century .	3880	century.n	224	Measure_duration	MANUAL	6552844	88	94	JKs	century
+LINKED:[16	16	88	94	bn:00017234n	http://dbpedia.org/resource/Century	http://babelnet.org/rdf/s00017234n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24462 ===
+	Measure_duration: 0.00591715976331361
+	Calendric_unit: 3.429355281207133E-4
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:195	23757	2	2	0	4103991	With its vibrant atmosphere and night - and - day activity it is an intoxicating place .	4064	night.n	229	Calendric_unit	MANUAL	6552845	32	36	JKs	night
+LINKED:[5	5	32	36	bn:00025236n	http://dbpedia.org/resource/Night	http://babelnet.org/rdf/s00025236n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24463 ===
+	Calendric_unit: 3.429355281207133E-4
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23757	2	2	0	4103991	With its vibrant atmosphere and night - and - day activity it is an intoxicating place .	3946	day.n	229	Calendric_unit	MANUAL	6552846	46	48	JKs	day
+LINKED:[9	9	46	48	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24464 ===
+	Timespan: 0.25
+	Measure_duration: 0.00591715976331361
+	Calendric_unit: 3.429355281207133E-4
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23757	2	2	0	4103991	With its vibrant atmosphere and night - and - day activity it is an intoxicating place .	10616	activity.n	198	Intentionally_act	MANUAL	6552847	50	57	JKs	activity
+LINKED:[10	10	50	57	bn:00001172n		http://babelnet.org/rdf/s00001172n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24465 ===
+	Intentionally_act: 0.00591715976331361
+
+SELECTED:[Intentionally_act]
+MATCH!
+SILVER:195	23757	2	2	0	4103991	With its vibrant atmosphere and night - and - day activity it is an intoxicating place .	3697	place.n	192	Locale	MANUAL	6552848	81	85	JKs	place
+LINKED:[15	15	81	85	bn:00062699n	http://dbpedia.org/resource/Location_(geography)	http://babelnet.org/rdf/s00062699n	0.85714287	0.33333334	0.05940594	BABELFY]
+RANK:=== COUNTER  Counter 24466 ===
+	Locale: 0.006944444444444444
+
+SELECTED:[Locale]
+MATCH!
+SILVER:195	23757	3	2	0	4103992	Hong Kong is crowded - it has one of the world 's greatest population densities .	4771	crowded.a	262	Abounding_with	MANUAL	6552849	13	19	JKs	crowded
+LINKED:[3	3	13	19	bn:00086090v		http://babelnet.org/rdf/s00086090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24467 ===
+	Gathering_up: 0.027777777777777776
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	2	0	4103992	Hong Kong is crowded - it has one of the world 's greatest population densities .	10179	world.n	195	Political_locales	MANUAL	6552852	41	45	JKs	world
+LINKED:[10	10	41	45	bn:00081622n		http://babelnet.org/rdf/s00081622n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24468 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	2	0	4103992	Hong Kong is crowded - it has one of the world 's greatest population densities .	2926	population.n	103	Aggregate	MANUAL	6552853	59	68	JKs	population
+LINKED:[13	13	59	68	bn:00063596n	http://dbpedia.org/resource/Population	http://babelnet.org/rdf/s00063596n	0.71428573	0.375	0.09463722	BABELFY]
+RANK:=== COUNTER  Counter 24469 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	4	2	0	4103993	But it is also efficient , with one of the best transportation systems anywhere , and for such a crowded place , quiet - you do n't hear voices raised in anger , motorists sitting on their horns , or loud boomboxes .	9110	good.a	726	Usefulness	MANUAL	6552855	43	46	JKs	best
+LINKED:[10	10	43	46	bn:00098274a		http://babelnet.org/rdf/s00098274a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24470 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	4	2	0	4103993	But it is also efficient , with one of the best transportation systems anywhere , and for such a crowded place , quiet - you do n't hear voices raised in anger , motorists sitting on their horns , or loud boomboxes .	4771	crowded.a	262	Abounding_with	MANUAL	6552856	97	103	JKs	crowded
+LINKED:[19	19	97	103	bn:00100709a		http://babelnet.org/rdf/s00100709a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24471 ===
+	Abounding_with: 0.008264462809917356
+
+SELECTED:[Abounding_with]
+MATCH!
+SILVER:195	23757	4	2	0	4103993	But it is also efficient , with one of the best transportation systems anywhere , and for such a crowded place , quiet - you do n't hear voices raised in anger , motorists sitting on their horns , or loud boomboxes .	3697	place.n	192	Locale	MANUAL	6552857	105	109	JKs	place
+LINKED:[20	20	105	109	bn:00062699n	http://dbpedia.org/resource/Location_(geography)	http://babelnet.org/rdf/s00062699n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24472 ===
+	Locale: 0.006944444444444444
+
+SELECTED:[Locale]
+MATCH!
+SILVER:195	23757	4	2	0	4103993	But it is also efficient , with one of the best transportation systems anywhere , and for such a crowded place , quiet - you do n't hear voices raised in anger , motorists sitting on their horns , or loud boomboxes .	1532	hear.v	70	Perception_experience	MANUAL	6552858	132	135	JKs	hear
+LINKED:[28	28	132	135	bn:00089277v		http://babelnet.org/rdf/s00089277v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24473 ===
+	Hear: 0.25
+	Perception_experience: 0.006944444444444444
+
+SELECTED:[Perception_experience]
+MATCH!
+SILVER:195	23757	4	2	0	4103993	But it is also efficient , with one of the best transportation systems anywhere , and for such a crowded place , quiet - you do n't hear voices raised in anger , motorists sitting on their horns , or loud boomboxes .	7254	anger.n	46	Emotion_directed	MANUAL	6552859	154	158	JKs	anger
+LINKED:[32	32	154	158	bn:00004085n		http://babelnet.org/rdf/s00004085n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24474 ===
+	Emotion_directed: 2.687449610319807E-4
+
+SELECTED:[Emotion_directed]
+MATCH!
+SILVER:195	23757	4	2	0	4103993	But it is also efficient , with one of the best transportation systems anywhere , and for such a crowded place , quiet - you do n't hear voices raised in anger , motorists sitting on their horns , or loud boomboxes .	12637	system.n	1610	System	MANUAL	6553105	63	69	JKs	systems
+LINKED:[12	12	63	69	bn:00073805n	http://dbpedia.org/resource/Staff_(music)	http://babelnet.org/rdf/s00073805n	1.0	0.13333334	0.012048192	BABELFY]
+RANK:=== COUNTER  Counter 24475 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	5	2	0	4103994	Shopping never ends - there 's always another inviting spot just down the street .	13921	shopping.n	1882	Shopping	MANUAL	6553106	0	7	JKs	Shopping
+LINKED:[0	0	0	7	bn:00093662v		http://babelnet.org/rdf/s00093662v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24476 ===
+	Shopping: 0.25
+
+SELECTED:[Shopping]
+MATCH!
+SILVER:195	23757	5	2	0	4103994	Shopping never ends - there 's always another inviting spot just down the street .	4426	end.v	232	Process_end	MANUAL	6553108	15	18	JKs	ends
+LINKED:[2	2	15	18	bn:00087610v		http://babelnet.org/rdf/s00087610v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24477 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	5	2	0	4103994	Shopping never ends - there 's always another inviting spot just down the street .	7513	spot.n	192	Locale	MANUAL	6553112	55	58	JKs	spot
+LINKED:[9	9	55	58	bn:00062699n	http://dbpedia.org/resource/Location_(geography)	http://babelnet.org/rdf/s00062699n	1.0	1.0	0.2857143	BABELFY]
+RANK:=== COUNTER  Counter 24478 ===
+	Locale: 0.006944444444444444
+
+SELECTED:[Locale]
+MATCH!
+SILVER:195	23757	5	2	0	4103994	Shopping never ends - there 's always another inviting spot just down the street .	3775	street.n	203	Roadways	MANUAL	6553113	74	79	JKs	street
+LINKED:[13	13	74	79	bn:00074595n	http://dbpedia.org/resource/Street	http://babelnet.org/rdf/s00074595n	0.75	0.5	0.21428572	BABELFY]
+RANK:=== COUNTER  Counter 24479 ===
+	Roadways: 0.0011890606420927466
+
+SELECTED:[Roadways]
+MATCH!
+SILVER:195	23757	6	2	0	4103995	You 'll find Hong Kong easy to get around , the people helpful , English spoken everywhere , and food that lives up to its reputation .	175	find.v	20	Becoming_aware	MANUAL	6553115	8	11	JKs	find
+LINKED:[2	2	8	11	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24480 ===
+	Locating: 0.25
+	Verdict: 0.01
+	Becoming_aware: 0.0044444444444444444
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:195	23757	6	2	0	4103995	You 'll find Hong Kong easy to get around , the people helpful , English spoken everywhere , and food that lives up to its reputation .	6568	easy.a	375	Difficulty	MANUAL	6553116	23	26	JKs	easy
+LINKED:[5	5	23	26	bn:00101973a		http://babelnet.org/rdf/s00101973a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24481 ===
+	Difficulty: 0.0625
+
+SELECTED:[Difficulty]
+MATCH!
+SILVER:195	23757	6	2	0	4103995	You 'll find Hong Kong easy to get around , the people helpful , English spoken everywhere , and food that lives up to its reputation .	5511	people.n	304	People	MANUAL	6553117	48	53	JKs	people
+LINKED:[11	11	48	53	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24482 ===
+	People: 0.006944444444444444
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23757	6	2	0	4103995	You 'll find Hong Kong easy to get around , the people helpful , English spoken everywhere , and food that lives up to its reputation .	7046	helpful.a	391	Assistance	MANUAL	6553118	55	61	JKs	helpful
+LINKED:[12	12	55	61	bn:00104094a		http://babelnet.org/rdf/s00104094a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24483 ===
+	Assistance: 0.015625
+
+SELECTED:[Assistance]
+MATCH!
+SILVER:195	23757	6	2	0	4103995	You 'll find Hong Kong easy to get around , the people helpful , English spoken everywhere , and food that lives up to its reputation .	5072	speak.v	278	Text_creation	MANUAL	6553119	73	78	JKs	spoken
+LINKED:[15	15	73	78	bn:00090943v		http://babelnet.org/rdf/s00090943v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24484 ===
+	Text_creation: 0.00591715976331361
+	Communication_manner: 0.00390625
+	Statement: 2.366863905325444E-4
+
+SELECTED:[Text_creation]
+MATCH!
+SILVER:195	23757	6	2	0	4103995	You 'll find Hong Kong easy to get around , the people helpful , English spoken everywhere , and food that lives up to its reputation .	13129	food.n	277	Food	MANUAL	6553121	97	100	JKs	food
+LINKED:[19	19	97	100	bn:00035650n	http://dbpedia.org/resource/Food	http://babelnet.org/rdf/s00035650n	0.7777778	0.45454547	0.07070707	BABELFY]
+RANK:=== COUNTER  Counter 24485 ===
+	Food: 2.295684113865932E-4
+
+SELECTED:[Food]
+MATCH!
+SILVER:195	23757	6	2	0	4103995	You 'll find Hong Kong easy to get around , the people helpful , English spoken everywhere , and food that lives up to its reputation .	14726	reputation.n	1880	Fame	MANUAL	6553122	123	132	JKs	reputation
+LINKED:[25	25	123	132	bn:00067253n	http://dbpedia.org/resource/Reputation	http://babelnet.org/rdf/s00067253n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24486 ===
+	Fame: 0.04
+
+SELECTED:[Fame]
+MATCH!
+SILVER:195	23757	1	3	0	4103996	On 1 July, 1997 the British Crown Colony of Hong Kong reverted to Chinese sovereignty as a Special Administrative Region of the People 's Republic of China .	10584	chinese.a	1103	Origin	MANUAL	6553124	66	72	JKs	Chinese
+LINKED:[14	14	66	72	bn:00018452n	http://dbpedia.org/resource/Chinese_language	http://babelnet.org/rdf/s00018452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24487 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	3	0	4103997	Today Hong Kong remains a capitalist enclave with its laws and rights intact , and China has promised that Hong Kong will continue in this fashion for at least 50 years .	14201	today.n	1895	Temporal_collocation	MANUAL	6553125	0	4	JKs	Today
+LINKED:[0	0	0	4	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24488 ===
+	Temporal_collocation: 0.00591715976331361
+
+SELECTED:[Temporal_collocation]
+MATCH!
+SILVER:195	23757	2	3	0	4103997	Today Hong Kong remains a capitalist enclave with its laws and rights intact , and China has promised that Hong Kong will continue in this fashion for at least 50 years .	10695	remain.v	1155	State_continue	MANUAL	6553126	16	22	JKs	remains
+LINKED:[3	3	16	22	bn:00092756v		http://babelnet.org/rdf/s00092756v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24489 ===
+	State_continue: 1.0
+	Left_to_do: 0.25
+	Remainder: 0.1111111111111111
+	Existence: 0.0625
+	Temporary_stay: 0.027777777777777776
+
+SELECTED:[State_continue]
+MATCH!
+SILVER:195	23757	2	3	0	4103997	Today Hong Kong remains a capitalist enclave with its laws and rights intact , and China has promised that Hong Kong will continue in this fashion for at least 50 years .	10020	law.n	950	Law	MANUAL	6553127	54	57	JKs	laws
+LINKED:[9	9	54	57	bn:00048655n	http://dbpedia.org/resource/Law	http://babelnet.org/rdf/s00048655n	0.7933884	0.3529412	0.042421564	BABELFY]
+RANK:=== COUNTER  Counter 24490 ===
+	Law: 0.015625
+
+SELECTED:[Law]
+MATCH!
+SILVER:195	23757	2	3	0	4103997	Today Hong Kong remains a capitalist enclave with its laws and rights intact , and China has promised that Hong Kong will continue in this fashion for at least 50 years .	481	promise.v	33	Commitment	MANUAL	6553128	93	100	JKs	promised
+LINKED:[17	17	93	100	bn:00092066v		http://babelnet.org/rdf/s00092066v	0.8333333	0.11764706	0.004418913	BABELFY]
+RANK:=== COUNTER  Counter 24491 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	3	0	4103997	Today Hong Kong remains a capitalist enclave with its laws and rights intact , and China has promised that Hong Kong will continue in this fashion for at least 50 years .	5435	continue.v	164	Activity_ongoing	MANUAL	6553129	122	129	JKs	continue
+LINKED:[22	22	122	129	bn:00085714v		http://babelnet.org/rdf/s00085714v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24492 ===
+	Process_continue: 0.04
+	Activity_ongoing: 0.02040816326530612
+
+SELECTED:[Activity_ongoing]
+MATCH!
+SILVER:195	23757	2	3	0	4103997	Today Hong Kong remains a capitalist enclave with its laws and rights intact , and China has promised that Hong Kong will continue in this fashion for at least 50 years .	3878	year.n	224	Measure_duration	MANUAL	6553132	163	167	JKs	years
+LINKED:[30	30	163	167	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24493 ===
+	Measure_duration: 0.00591715976331361
+	Calendric_unit: 3.429355281207133E-4
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:195	23757	1	4	0	4103998	Beijing 's announced policy of maintaining Hong Kong 's prosperity and stability makes sense .	14353	policy.n	950	Law	MANUAL	6553133	21	26	JKs	policy
+LINKED:[3	3	21	26	bn:00063329n		http://babelnet.org/rdf/s00063329n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24494 ===
+	Law: 0.015625
+
+SELECTED:[Law]
+MATCH!
+SILVER:195	23757	1	4	0	4103998	Beijing 's announced policy of maintaining Hong Kong 's prosperity and stability makes sense .	5434	maintain.v	164	Activity_ongoing	MANUAL	6553134	31	41	JKs	maintaining
+LINKED:[5	5	31	41	bn:00090039v		http://babelnet.org/rdf/s00090039v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24495 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	4	0	4103998	Beijing 's announced policy of maintaining Hong Kong 's prosperity and stability makes sense .	13852	prosperity.n	1771	Thriving	MANUAL	6553135	56	65	JKs	prosperity
+LINKED:[9	9	56	65	bn:03792856n	http://dbpedia.org/resource/Elizabeth_Magie	http://babelnet.org/rdf/s03792856n	1.0	0.14285715	0.027777778	BABELFY]
+RANK:=== COUNTER  Counter 24496 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	4	0	4103999	Hong Kong has long been China 's handiest window on the West , and the city is unrivaled in its commercial know-how and managerial expertise .	3764	city.n	195	Political_locales	MANUAL	6553138	71	74	JKs	city
+LINKED:[15	15	71	74	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.7368421	0.7777778	0.15849057	BABELFY]
+RANK:=== COUNTER  Counter 24497 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	4	0	4103999	Hong Kong has long been China 's handiest window on the West , and the city is unrivaled in its commercial know-how and managerial expertise .	6157	unrivalled.a	356	Beyond_compare	MANUAL	6553139	79	87	JKs	unrivaled
+LINKED:[17	17	79	87	bn:00106472a		http://babelnet.org/rdf/s00106472a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24498 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	4	0	4103999	Hong Kong has long been China 's handiest window on the West , and the city is unrivaled in its commercial know-how and managerial expertise .	11629	know-how.n	136	Expertise	MANUAL	6553140	107	114	JKs	know-how
+LINKED:[21	21	107	114	bn:00049376n	http://dbpedia.org/resource/Know-how	http://babelnet.org/rdf/s00049376n	1.0	0.22222222	0.0050314465	BABELFY]
+RANK:=== COUNTER  Counter 24499 ===
+	Expertise: 9.182736455463728E-4
+
+SELECTED:[Expertise]
+MATCH!
+SILVER:195	23757	2	4	0	4103999	Hong Kong has long been China 's handiest window on the West , and the city is unrivaled in its commercial know-how and managerial expertise .	2678	expertise.n	136	Expertise	MANUAL	6553141	131	139	JKs	expertise
+LINKED:[24	24	131	139	bn:00032324n		http://babelnet.org/rdf/s00032324n	1.0	0.33333334	0.011320755	BABELFY]
+RANK:=== COUNTER  Counter 24500 ===
+	Expertise: 9.182736455463728E-4
+
+SELECTED:[Expertise]
+MATCH!
+SILVER:195	23757	3	4	0	4104000	Around the time of the transition there was much speculation about how things would change .	10802	change.v	1172	Undergo_change	MANUAL	6553145	84	89	JKs	change
+LINKED:[14	14	84	89	bn:00082553v		http://babelnet.org/rdf/s00082553v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24501 ===
+	Exchange_currency: 0.25
+	Replacing: 0.027777777777777776
+	Cause_change: 0.008264462809917356
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	4	4	0	4104001	But in fact , once news of the handover vanished from the front pages , the people of Hong Kong returned to their usual topics of conversation : the economy and the price of housing .	999	vanish.v	57	Departing	MANUAL	6553147	40	47	JKs	vanished
+LINKED:[9	9	40	47	bn:00086879v		http://babelnet.org/rdf/s00086879v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24502 ===
+	Ceasing_to_be: 0.027777777777777776
+	Departing: 0.00510204081632653
+
+SELECTED:[Departing]
+MATCH!
+SILVER:195	23757	4	4	0	4104001	But in fact , once news of the handover vanished from the front pages , the people of Hong Kong returned to their usual topics of conversation : the economy and the price of housing .	5511	people.n	304	People	MANUAL	6553149	76	81	JKs	people
+LINKED:[16	16	76	81	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24503 ===
+	People: 0.006944444444444444
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23757	4	4	0	4104001	But in fact , once news of the handover vanished from the front pages , the people of Hong Kong returned to their usual topics of conversation : the economy and the price of housing .	6537	topic.n	373	Topic	MANUAL	6553151	120	125	JKs	topics
+LINKED:[24	24	120	125	bn:00074900n	http://dbpedia.org/resource/Topic–comment	http://babelnet.org/rdf/s00074900n	1.0	0.07692308	0.004310345	BABELFY]
+RANK:=== COUNTER  Counter 24504 ===
+	Topic: 0.02040816326530612
+
+SELECTED:[Topic]
+MATCH!
+SILVER:195	23757	4	4	0	4104001	But in fact , once news of the handover vanished from the front pages , the people of Hong Kong returned to their usual topics of conversation : the economy and the price of housing .	9972	conversation.n	910	Chatting	MANUAL	6553152	130	141	JKs	conversation
+LINKED:[26	26	130	141	bn:00022349n	http://dbpedia.org/resource/Conversation	http://babelnet.org/rdf/s00022349n	1.0	0.07692308	0.004310345	BABELFY]
+RANK:=== COUNTER  Counter 24505 ===
+	Chatting: 0.008264462809917356
+
+SELECTED:[Chatting]
+MATCH!
+SILVER:195	23757	4	4	0	4104001	But in fact , once news of the handover vanished from the front pages , the people of Hong Kong returned to their usual topics of conversation : the economy and the price of housing .	12489	economy.n	1572	Economy	MANUAL	6553153	149	155	JKs	economy
+LINKED:[29	29	149	155	bn:00029678n	http://dbpedia.org/resource/Economy	http://babelnet.org/rdf/s00029678n	0.82758623	0.23076923	0.10344828	BABELFY]
+RANK:=== COUNTER  Counter 24506 ===
+	Economy: 0.25
+
+SELECTED:[Economy]
+MATCH!
+SILVER:195	23757	4	4	0	4104001	But in fact , once news of the handover vanished from the front pages , the people of Hong Kong returned to their usual topics of conversation : the economy and the price of housing .	2894	price.n	82	Commerce_scenario	MANUAL	6553154	165	169	JKs	price
+LINKED:[32	32	165	169	bn:00022996n		http://babelnet.org/rdf/s00022996n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24507 ===
+	Commerce_scenario: 0.04
+
+SELECTED:[Commerce_scenario]
+MATCH!
+SILVER:195	23757	4	4	0	4104001	But in fact , once news of the handover vanished from the front pages , the people of Hong Kong returned to their usual topics of conversation : the economy and the price of housing .	12613	housing.n	173	Buildings	MANUAL	6553155	174	180	JKs	housing
+LINKED:[34	34	174	180	bn:00089489v		http://babelnet.org/rdf/s00089489v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24508 ===
+	Containing: 0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	5	0	4104002	The impression of the visitor today will be that very little has changed .	11909	impression.n	1400	Regard	MANUAL	6553156	4	13	JKs	impression
+LINKED:[1	1	4	13	bn:00029871n		http://babelnet.org/rdf/s00029871n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24509 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	5	0	4104002	The impression of the visitor today will be that very little has changed .	14215	visitor.n	1911	Visiting	MANUAL	6553157	22	28	JKs	visitor
+LINKED:[4	4	22	28	bn:03106425n	http://dbpedia.org/resource/Visitor_pattern	http://babelnet.org/rdf/s03106425n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24510 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	5	0	4104002	The impression of the visitor today will be that very little has changed .	14201	today.n	1895	Temporal_collocation	MANUAL	6553158	30	34	JKs	today
+LINKED:[5	5	30	34	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24511 ===
+	Temporal_collocation: 0.00591715976331361
+
+SELECTED:[Temporal_collocation]
+MATCH!
+SILVER:195	23757	1	5	0	4104002	The impression of the visitor today will be that very little has changed .	10802	change.v	1172	Undergo_change	MANUAL	6553159	65	71	JKs	changed
+LINKED:[12	12	65	71	bn:00082553v		http://babelnet.org/rdf/s00082553v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24512 ===
+	Exchange_currency: 0.25
+	Replacing: 0.027777777777777776
+	Cause_change: 0.008264462809917356
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	5	0	4104003	Establishments are no longer called `` Royal , '' Queen Elizabeth has vanished from the coinage , and the Union Jack has been replaced by the flag of China and the new Hong Kong flag with its bauhinia flower .	6358	establishment.n	365	Businesses	MANUAL	6553160	0	13	JKs	Establishments
+LINKED:[0	0	0	13	bn:00059480n	http://dbpedia.org/resource/Organization	http://babelnet.org/rdf/s00059480n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24513 ===
+	Creating: 0.012345679012345678
+	Organization: 0.00591715976331361
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	5	0	4104003	Establishments are no longer called `` Royal , '' Queen Elizabeth has vanished from the coinage , and the Union Jack has been replaced by the flag of China and the new Hong Kong flag with its bauhinia flower .	14368	no	1895	Temporal_collocation	MANUAL	6553161	22	27	EGp	longer
+LINKED:[3	3	22	27	bn:00116156r		http://babelnet.org/rdf/s00116156r	1.0	0.041666668	5.259006E-4	BABELFY]
+RANK:=== COUNTER  Counter 24514 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	5	0	4104003	Establishments are no longer called `` Royal , '' Queen Elizabeth has vanished from the coinage , and the Union Jack has been replaced by the flag of China and the new Hong Kong flag with its bauhinia flower .	11210	call.v	1253	Referring_by_name	MANUAL	6553162	29	34	JKs	called
+LINKED:[4	4	29	34	bn:00084385v		http://babelnet.org/rdf/s00084385v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24515 ===
+	Simple_naming: 0.25
+	Labeling: 0.0625
+	Claim_ownership: 0.0625
+	Referring_by_name: 0.04
+	Name_conferral: 0.04
+	Deserving: 0.027777777777777776
+	Being_named: 0.002066115702479339
+
+SELECTED:[Referring_by_name]
+MATCH!
+SILVER:195	23757	2	5	0	4104003	Establishments are no longer called `` Royal , '' Queen Elizabeth has vanished from the coinage , and the Union Jack has been replaced by the flag of China and the new Hong Kong flag with its bauhinia flower .	999	vanish.v	57	Departing	MANUAL	6553163	70	77	JKs	vanished
+LINKED:[11	11	70	77	bn:00086879v		http://babelnet.org/rdf/s00086879v	1.0	0.041666668	2.629503E-4	BABELFY]
+RANK:=== COUNTER  Counter 24516 ===
+	Ceasing_to_be: 0.027777777777777776
+	Departing: 0.00510204081632653
+
+SELECTED:[Departing]
+MATCH!
+SILVER:195	23757	2	5	0	4104003	Establishments are no longer called `` Royal , '' Queen Elizabeth has vanished from the coinage , and the Union Jack has been replaced by the flag of China and the new Hong Kong flag with its bauhinia flower .	10790	replace.v	1171	Take_place_of	MANUAL	6553164	126	133	JKs	replaced
+LINKED:[22	22	126	133	bn:00092816v		http://babelnet.org/rdf/s00092816v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24517 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	5	0	4104003	Establishments are no longer called `` Royal , '' Queen Elizabeth has vanished from the coinage , and the Union Jack has been replaced by the flag of China and the new Hong Kong flag with its bauhinia flower .	12563	new.a	972	Age	MANUAL	6553165	164	166	JKs	new
+LINKED:[30	30	164	166	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24518 ===
+	Familiarity: 0.04
+	Age: 0.027777777777777776
+	Expertise: 9.182736455463728E-4
+
+SELECTED:[Age]
+MATCH!
+SILVER:195	23757	3	5	0	4104004	But in fact , there have been changes , many of them due to economic progress , new construction , and other factors that influence cities all over the world .	10804	change.n	1172	Undergo_change	MANUAL	6553168	30	36	JKs	changes
+LINKED:[7	7	30	36	bn:00053823n	http://dbpedia.org/resource/Mathematics	http://babelnet.org/rdf/s00053823n	0.8258427	0.7777778	0.2752809	BABELFY]
+RANK:=== COUNTER  Counter 24519 ===
+	Fields: 0.008264462809917356
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	5	0	4104004	But in fact , there have been changes , many of them due to economic progress , new construction , and other factors that influence cities all over the world .	12490	economic.a	1572	Economy	MANUAL	6553170	60	67	JKs	economic
+LINKED:[14	14	60	67	bn:00102001a		http://babelnet.org/rdf/s00102001a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24520 ===
+	Economy: 0.25
+
+SELECTED:[Economy]
+MATCH!
+SILVER:195	23757	3	5	0	4104004	But in fact , there have been changes , many of them due to economic progress , new construction , and other factors that influence cities all over the world .	11643	progress.n	1340	Progression	MANUAL	6553171	69	76	JKs	progress
+LINKED:[15	15	69	76	bn:00970321n	http://dbpedia.org/resource/Progress_(history)	http://babelnet.org/rdf/s00970321n	0.75	0.33333334	0.02247191	BABELFY]
+RANK:=== COUNTER  Counter 24521 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	5	0	4104004	But in fact , there have been changes , many of them due to economic progress , new construction , and other factors that influence cities all over the world .	12563	new.a	972	Age	MANUAL	6553172	80	82	JKs	new
+LINKED:[17	17	80	82	bn:00106833a		http://babelnet.org/rdf/s00106833a	0.75	0.22222222	0.011235955	BABELFY]
+RANK:=== COUNTER  Counter 24522 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	5	0	4104004	But in fact , there have been changes , many of them due to economic progress , new construction , and other factors that influence cities all over the world .	3764	city.n	195	Political_locales	MANUAL	6553176	132	137	JKs	cities
+LINKED:[25	25	132	137	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.90909094	0.5555556	0.074906364	BABELFY]
+RANK:=== COUNTER  Counter 24523 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	5	0	4104004	But in fact , there have been changes , many of them due to economic progress , new construction , and other factors that influence cities all over the world .	10179	world.n	195	Political_locales	MANUAL	6553178	152	156	JKs	world
+LINKED:[29	29	152	156	bn:00022991n	http://dbpedia.org/resource/Macrocosm_and_microcosm	http://babelnet.org/rdf/s00022991n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24524 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	5	0	4104004	But in fact , there have been changes , many of them due to economic progress , new construction , and other factors that influence cities all over the world .	10448	influence.v	1084	Objective_influence	MANUAL	6553179	122	130	JKs	influence
+LINKED:[24	24	122	130	bn:00082304v		http://babelnet.org/rdf/s00082304v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24525 ===
+	Influence_of_event_on_cognizer: 0.0625
+	Objective_influence: 0.04
+	Subjective_influence: 0.006944444444444444
+
+SELECTED:[Objective_influence]
+MATCH!
+SILVER:195	23757	3	5	0	4104004	But in fact , there have been changes , many of them due to economic progress , new construction , and other factors that influence cities all over the world .	14474	construction	259	Building	MANUAL	6553180	84	95	JKs	construction
+LINKED:[18	18	84	95	bn:00013723n	http://dbpedia.org/resource/Construction	http://babelnet.org/rdf/s00013723n	0.8333333	0.44444445	0.037453182	BABELFY]
+RANK:=== COUNTER  Counter 24526 ===
+	Building: 0.012345679012345678
+
+SELECTED:[Building]
+MATCH!
+SILVER:195	23757	2	6	0	4104006	British social customs are still evident in the kind of polite service you get in hotels and in the long lines of people waiting for buses at rush hour .	6718	custom.n	380	Custom	MANUAL	6553694	15	21	JKs	customs
+LINKED:[2	2	15	21	bn:00024591n	http://dbpedia.org/resource/Custom_(law)	http://babelnet.org/rdf/s00024591n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24527 ===
+	Custom: 0.012345679012345678
+
+SELECTED:[Custom]
+MATCH!
+SILVER:195	23757	2	6	0	4104006	British social customs are still evident in the kind of polite service you get in hotels and in the long lines of people waiting for buses at rush hour .	11773	evident.a	1360	Obviousness	MANUAL	6553696	33	39	JKs	evident
+LINKED:[5	5	33	39	bn:00097350a		http://babelnet.org/rdf/s00097350a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24528 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	6	0	4104006	British social customs are still evident in the kind of polite service you get in hotels and in the long lines of people waiting for buses at rush hour .	2557	kind.n	128	Type	MANUAL	6553697	48	51	JKs	kind
+LINKED:[8	8	48	51	bn:00035907n		http://babelnet.org/rdf/s00035907n	1.0	0.11764706	0.010230179	BABELFY]
+RANK:=== COUNTER  Counter 24529 ===
+	Type: 0.012345679012345678
+
+SELECTED:[Type]
+MATCH!
+SILVER:195	23757	2	6	0	4104006	British social customs are still evident in the kind of polite service you get in hotels and in the long lines of people waiting for buses at rush hour .	6586	polite.a	372	Social_interaction_evaluation	MANUAL	6553698	56	61	JKs	polite
+LINKED:[10	10	56	61	bn:00099728a		http://babelnet.org/rdf/s00099728a	0.9	0.1764706	0.023017902	BABELFY]
+RANK:=== COUNTER  Counter 24530 ===
+	Social_interaction_evaluation: 0.001890359168241966
+
+SELECTED:[Social_interaction_evaluation]
+MATCH!
+SILVER:195	23757	2	6	0	4104006	British social customs are still evident in the kind of polite service you get in hotels and in the long lines of people waiting for buses at rush hour .	3015	hotel.n	173	Buildings	MANUAL	6553701	82	87	JKs	hotels
+LINKED:[15	15	82	87	bn:00044967n	http://dbpedia.org/resource/Hotel	http://babelnet.org/rdf/s00044967n	0.9130435	0.1764706	0.05370844	BABELFY]
+RANK:=== COUNTER  Counter 24531 ===
+	Buildings: 1.3840830449826988E-4
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23757	2	6	0	4104006	British social customs are still evident in the kind of polite service you get in hotels and in the long lines of people waiting for buses at rush hour .	5511	people.n	304	People	MANUAL	6553705	114	119	JKs	people
+LINKED:[22	22	114	119	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.8888889	0.29411766	0.10230179	BABELFY]
+RANK:=== COUNTER  Counter 24532 ===
+	People: 0.006944444444444444
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23757	2	6	0	4104006	British social customs are still evident in the kind of polite service you get in hotels and in the long lines of people waiting for buses at rush hour .	12449	wait.v	1561	Waiting	MANUAL	6553706	121	127	JKs	waiting
+LINKED:[23	23	121	127	bn:00095594v		http://babelnet.org/rdf/s00095594v	0.8888889	0.11764706	0.020460358	BABELFY]
+RANK:=== COUNTER  Counter 24533 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	6	0	4104006	British social customs are still evident in the kind of polite service you get in hotels and in the long lines of people waiting for buses at rush hour .	7809	bus.n	429	Vehicle	MANUAL	6553707	133	137	JKs	buses
+LINKED:[25	25	133	137	bn:00007329n	http://dbpedia.org/resource/Bus	http://babelnet.org/rdf/s00007329n	0.85714287	0.3529412	0.15345268	BABELFY]
+RANK:=== COUNTER  Counter 24534 ===
+	Vehicle: 8.163265306122448E-4
+
+SELECTED:[Vehicle]
+MATCH!
+SILVER:195	23757	2	6	0	4104006	British social customs are still evident in the kind of polite service you get in hotels and in the long lines of people waiting for buses at rush hour .	14391	rush	229	Calendric_unit	MANUAL	6553709	142	145	EGp	rush
+LINKED:[27	27	142	145	bn:00043115n		http://babelnet.org/rdf/s00043115n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24535 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	6	0	4104006	British social customs are still evident in the kind of polite service you get in hotels and in the long lines of people waiting for buses at rush hour .	14391	rush	229	Calendric_unit	MANUAL	6553709	147	150	EGp	hour
+LINKED:[28	28	147	150	bn:00000127n	http://dbpedia.org/resource/Hour	http://babelnet.org/rdf/s00000127n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24536 ===
+	Measure_duration: 0.00591715976331361
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	6	0	4104006	British social customs are still evident in the kind of polite service you get in hotels and in the long lines of people waiting for buses at rush hour .	15526	long.a	965	Measurable_attributes	MANUAL	6683783	100	103	WMcQ	long
+LINKED:[19	19	100	103	bn:00106124a		http://babelnet.org/rdf/s00106124a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24537 ===
+	Duration_attribute: 0.0625
+	Likelihood: 0.0030864197530864196
+	Dimension: 0.001736111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	6	0	4104007	The British population has decreased ; today there are as many American and Australian ex-pats as there are British .	2926	population.n	103	Aggregate	MANUAL	6553710	12	21	JKs	population
+LINKED:[2	2	12	21	bn:00063595n		http://babelnet.org/rdf/s00063595n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24538 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	6	0	4104007	The British population has decreased ; today there are as many American and Australian ex-pats as there are British .	1877	decrease.v	91	Change_position_on_a_scale	MANUAL	6553711	27	35	JKs	decreased
+LINKED:[4	4	27	35	bn:00086417v		http://babelnet.org/rdf/s00086417v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24539 ===
+	Cause_change_of_position_on_a_scale: 0.002770083102493075
+	Change_position_on_a_scale: 5.165289256198347E-4
+
+SELECTED:[Change_position_on_a_scale]
+MATCH!
+SILVER:195	23757	3	6	0	4104007	The British population has decreased ; today there are as many American and Australian ex-pats as there are British .	14201	today.n	1895	Temporal_collocation	MANUAL	6553712	39	43	JKs	today
+LINKED:[6	6	39	43	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24540 ===
+	Temporal_collocation: 0.00591715976331361
+
+SELECTED:[Temporal_collocation]
+MATCH!
+SILVER:195	23757	3	6	0	4104007	The British population has decreased ; today there are as many American and Australian ex-pats as there are British .	10585	american.a	1103	Origin	MANUAL	6553715	63	70	JKs	American
+LINKED:[11	11	63	70	bn:00003343n	http://dbpedia.org/resource/Americans	http://babelnet.org/rdf/s00003343n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24541 ===
+	People_by_origin: 0.0030864197530864196
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	7	0	4104008	With a population of nearly eight million and a total area of just over 1,095 square km ( 423 square miles ) , housing is one of Hong Kong 's perennial nightmares .	2926	population.n	103	Aggregate	MANUAL	6553717	7	16	JKs	population
+LINKED:[2	2	7	16	bn:00063596n	http://dbpedia.org/resource/Population	http://babelnet.org/rdf/s00063596n	1.0	0.23076923	0.028680688	BABELFY]
+RANK:=== COUNTER  Counter 24542 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	7	0	4104008	With a population of nearly eight million and a total area of just over 1,095 square km ( 423 square miles ) , housing is one of Hong Kong 's perennial nightmares .	14283	nearly.adv	1923	Proportional_quantity	MANUAL	6553718	21	26	JKs	nearly
+LINKED:[4	4	21	26	bn:00114079r		http://babelnet.org/rdf/s00114079r	1.0	0.07692308	0.0038240917	BABELFY]
+RANK:=== COUNTER  Counter 24543 ===
+	Relational_quantity: 0.01
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	7	0	4104008	With a population of nearly eight million and a total area of just over 1,095 square km ( 423 square miles ) , housing is one of Hong Kong 's perennial nightmares .	13174	total.a	602	Amounting_to	MANUAL	6553721	48	52	JKs	total
+LINKED:[9	9	48	52	bn:00102277a		http://babelnet.org/rdf/s00102277a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24544 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	7	0	4104008	With a population of nearly eight million and a total area of just over 1,095 square km ( 423 square miles ) , housing is one of Hong Kong 's perennial nightmares .	2236	area.n	108	Dimension	MANUAL	6553722	54	57	JKs	area
+LINKED:[10	10	54	57	bn:00005513n	http://dbpedia.org/resource/Area	http://babelnet.org/rdf/s00005513n	1.0	0.3846154	0.124282986	BABELFY]
+RANK:=== COUNTER  Counter 24545 ===
+	Fields: 0.008264462809917356
+	Locale: 0.006944444444444444
+	Dimension: 0.001736111111111111
+	Locale_by_use: 4.164931278633902E-4
+
+SELECTED:[Dimension]
+MATCH!
+SILVER:195	23757	1	7	0	4104008	With a population of nearly eight million and a total area of just over 1,095 square km ( 423 square miles ) , housing is one of Hong Kong 's perennial nightmares .	2813	mile.n	154	Measure_linear_extent	MANUAL	6553724	101	105	JKs	miles
+LINKED:[20	20	101	105	bn:00047159n	http://dbpedia.org/resource/Mile	http://babelnet.org/rdf/s00047159n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24546 ===
+	Measure_linear_extent: 0.008264462809917356
+
+SELECTED:[Measure_linear_extent]
+MATCH!
+SILVER:195	23757	1	7	0	4104008	With a population of nearly eight million and a total area of just over 1,095 square km ( 423 square miles ) , housing is one of Hong Kong 's perennial nightmares .	12613	housing.n	173	Buildings	MANUAL	6553725	111	117	JKs	housing
+LINKED:[23	23	111	117	bn:00089489v		http://babelnet.org/rdf/s00089489v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24547 ===
+	Containing: 0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	7	0	4104009	To alleviate the problem , the government has become the city 's major landlord with the construction of massive apartment blocks that , though they have every modern facility , average only 9 square m ( 100 square ft ) in size .	899	alleviate.v	50	Cure	MANUAL	6553727	3	11	JKs	alleviate
+LINKED:[1	1	3	11	bn:00082530v		http://babelnet.org/rdf/s00082530v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24548 ===
+	Cure: 0.002770083102493075
+
+SELECTED:[Cure]
+MATCH!
+SILVER:195	23757	2	7	0	4104009	To alleviate the problem , the government has become the city 's major landlord with the construction of massive apartment blocks that , though they have every modern facility , average only 9 square m ( 100 square ft ) in size .	7356	problem.n	300	Predicament	MANUAL	6553728	17	23	JKs	problem
+LINKED:[3	3	17	23	bn:00048242n	http://dbpedia.org/resource/Problem	http://babelnet.org/rdf/s00048242n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24549 ===
+	Predicament: 0.015625
+
+SELECTED:[Predicament]
+MATCH!
+SILVER:195	23757	2	7	0	4104009	To alleviate the problem , the government has become the city 's major landlord with the construction of massive apartment blocks that , though they have every modern facility , average only 9 square m ( 100 square ft ) in size .	12182	government.n	73	Leadership	MANUAL	6553729	31	40	JKs	government
+LINKED:[6	6	31	40	bn:00001426n	http://dbpedia.org/resource/Administration_(government)	http://babelnet.org/rdf/s00001426n	0.8888889	0.25	0.056537103	BABELFY]
+RANK:=== COUNTER  Counter 24550 ===
+	Leadership: 1.68662506324844E-4
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:195	23757	2	7	0	4104009	To alleviate the problem , the government has become the city 's major landlord with the construction of massive apartment blocks that , though they have every modern facility , average only 9 square m ( 100 square ft ) in size .	3764	city.n	195	Political_locales	MANUAL	6553731	57	60	JKs	city
+LINKED:[10	10	57	60	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.7886598	0.5625	0.27031803	BABELFY]
+RANK:=== COUNTER  Counter 24551 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	7	0	4104009	To alleviate the problem , the government has become the city 's major landlord with the construction of massive apartment blocks that , though they have every modern facility , average only 9 square m ( 100 square ft ) in size .	12252	major.a	407	Importance	MANUAL	6553732	65	69	JKs	major
+LINKED:[12	12	65	69	bn:00106332a		http://babelnet.org/rdf/s00106332a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24552 ===
+	Importance: 0.006944444444444444
+
+SELECTED:[Importance]
+MATCH!
+SILVER:195	23757	2	7	0	4104009	To alleviate the problem , the government has become the city 's major landlord with the construction of massive apartment blocks that , though they have every modern facility , average only 9 square m ( 100 square ft ) in size .	4746	construction.n	259	Building	MANUAL	6554244	89	100	JKs	construction
+LINKED:[16	16	89	100	bn:00013723n	http://dbpedia.org/resource/Construction	http://babelnet.org/rdf/s00013723n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24553 ===
+	Building: 0.012345679012345678
+
+SELECTED:[Building]
+MATCH!
+SILVER:195	23757	2	7	0	4104009	To alleviate the problem , the government has become the city 's major landlord with the construction of massive apartment blocks that , though they have every modern facility , average only 9 square m ( 100 square ft ) in size .	17855	massive.a	2282	Size	MANUAL	6554245	105	111	JKs	massive
+LINKED:[18	18	105	111	bn:00106463a		http://babelnet.org/rdf/s00106463a	0.71428573	0.125	0.017667845	BABELFY]
+RANK:=== COUNTER  Counter 24554 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	7	0	4104009	To alleviate the problem , the government has become the city 's major landlord with the construction of massive apartment blocks that , though they have every modern facility , average only 9 square m ( 100 square ft ) in size .	3231	apartment.n	188	Building_subparts	MANUAL	6554246	113	121	JKs	apartment
+LINKED:[19	19	113	121	bn:00004836n	http://dbpedia.org/resource/Apartment	http://babelnet.org/rdf/s00004836n	0.96	0.25	0.042402826	BABELFY]
+RANK:=== COUNTER  Counter 24555 ===
+	Building_subparts: 3.1887755102040814E-4
+
+SELECTED:[Building_subparts]
+MATCH!
+SILVER:195	23757	2	7	0	4104009	To alleviate the problem , the government has become the city 's major landlord with the construction of massive apartment blocks that , though they have every modern facility , average only 9 square m ( 100 square ft ) in size .	14196	modern.a	1341	Stage_of_progress	MANUAL	6554762	160	165	JKs	modern
+LINKED:[27	27	160	165	bn:00106831a		http://babelnet.org/rdf/s00106831a	1.0	0.0625	0.0017667845	BABELFY]
+RANK:=== COUNTER  Counter 24556 ===
+	Stage_of_progress: 0.04
+	Temporal_collocation: 0.00591715976331361
+
+SELECTED:[Stage_of_progress]
+MATCH!
+SILVER:195	23757	3	7	0	4104010	Whole cities have been created in the New Territories , although the unimaginative architecture of these towns has been criticized .	3764	city.n	195	Political_locales	MANUAL	6554765	6	11	JKs	cities
+LINKED:[1	1	6	11	bn:00019319n	http://dbpedia.org/resource/Metropolis	http://babelnet.org/rdf/s00019319n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24557 ===
+	Political_locales: 0.0010405827263267429
+	Locale_by_use: 4.164931278633902E-4
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:195	23757	3	7	0	4104010	Whole cities have been created in the New Territories , although the unimaginative architecture of these towns has been criticized .	5437	create.v	280	Intentionally_create	MANUAL	6554766	23	29	JKs	created
+LINKED:[4	4	23	29	bn:00086008v		http://babelnet.org/rdf/s00086008v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24558 ===
+	Creating: 0.012345679012345678
+	Building: 0.012345679012345678
+	Cause_to_start: 0.008264462809917356
+	Coming_up_with: 0.008264462809917356
+	Intentionally_create: 0.006944444444444444
+
+SELECTED:[Intentionally_create]
+MATCH!
+SILVER:195	23757	3	7	0	4104010	Whole cities have been created in the New Territories , although the unimaginative architecture of these towns has been criticized .	3691	town.n	195	Political_locales	MANUAL	6554768	105	109	JKs	towns
+LINKED:[16	16	105	109	bn:00077773n	http://dbpedia.org/resource/Town	http://babelnet.org/rdf/s00077773n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24559 ===
+	Political_locales: 0.0010405827263267429
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:195	23757	3	7	0	4104010	Whole cities have been created in the New Territories , although the unimaginative architecture of these towns has been criticized .	7388	criticize.v	219	Judgment_communication	MANUAL	6554769	120	129	JKs	criticized
+LINKED:[19	19	120	129	bn:00086046v		http://babelnet.org/rdf/s00086046v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24560 ===
+	Judgment_communication: 3.305785123966942E-4
+
+SELECTED:[Judgment_communication]
+MATCH!
+SILVER:195	23757	1	8	0	4104011	Of Hong Kong 's population , 98 percent are Chinese .	2926	population.n	103	Aggregate	MANUAL	6554771	16	25	JKs	population
+LINKED:[4	4	16	25	bn:00063596n	http://dbpedia.org/resource/Population	http://babelnet.org/rdf/s00063596n	0.9230769	0.6	0.06417112	BABELFY]
+RANK:=== COUNTER  Counter 24561 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	8	0	4104011	Of Hong Kong 's population , 98 percent are Chinese .	10584	chinese.a	1103	Origin	MANUAL	6554772	44	50	JKs	Chinese
+LINKED:[9	9	44	50	bn:00018452n	http://dbpedia.org/resource/Chinese_language	http://babelnet.org/rdf/s00018452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24562 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	8	0	4104012	The majority are Cantonese , born in Hong Kong , or from South China , but there are immigrants from all over China .	9791	born.v	793	Being_born	MANUAL	6554778	29	32	JKs	born
+LINKED:[5	5	29	32	bn:00083227v		http://babelnet.org/rdf/s00083227v	1.0	0.2	0.0015612802	BABELFY]
+RANK:=== COUNTER  Counter 24563 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	8	0	4104013	The Chinese people have been described as hardworking and pragmatic , attitudes that have contributed to Hong Kong 's success .	10584	chinese.a	1103	Origin	MANUAL	6554796	4	10	JKs	Chinese
+LINKED:[1	1	4	10	bn:00018452n	http://dbpedia.org/resource/Chinese_language	http://babelnet.org/rdf/s00018452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24564 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	8	0	4104013	The Chinese people have been described as hardworking and pragmatic , attitudes that have contributed to Hong Kong 's success .	5511	people.n	304	People	MANUAL	6554797	12	17	JKs	people
+LINKED:[2	2	12	17	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24565 ===
+	People: 0.006944444444444444
+
+SELECTED:[People]
+MATCH!
+SILVER:195	23757	3	8	0	4104013	The Chinese people have been described as hardworking and pragmatic , attitudes that have contributed to Hong Kong 's success .	9803	describe.v	796	Communicate_categorization	MANUAL	6554798	29	37	JKs	described
+LINKED:[5	5	29	37	bn:00086612v		http://babelnet.org/rdf/s00086612v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24566 ===
+	Communicate_categorization: 0.00510204081632653
+
+SELECTED:[Communicate_categorization]
+MATCH!
+SILVER:195	23757	3	8	0	4104013	The Chinese people have been described as hardworking and pragmatic , attitudes that have contributed to Hong Kong 's success .	12598	success.n	1388	Success_or_failure	MANUAL	6554800	118	124	JKs	success
+LINKED:[19	19	118	124	bn:00075023n		http://babelnet.org/rdf/s00075023n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24567 ===
+	Success_or_failure: 0.012345679012345678
+
+SELECTED:[Success_or_failure]
+MATCH!
+SILVER:195	23757	4	8	0	4104014	There are many stories of refugees who arrived with nothing in their pockets , set up a small sidewalk stall , worked diligently until they had their own store , and then expanded it into a modest chain .	940	arrive.v	54	Arriving	MANUAL	6554804	39	45	JKs	arrived
+LINKED:[7	7	39	45	bn:00082788v		http://babelnet.org/rdf/s00082788v	1.0	0.09090909	0.0072727273	BABELFY]
+RANK:=== COUNTER  Counter 24568 ===
+	Arriving: 0.0030864197530864196
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:195	23757	4	8	0	4104014	There are many stories of refugees who arrived with nothing in their pockets , set up a small sidewalk stall , worked diligently until they had their own store , and then expanded it into a modest chain .	3725	pocket.n	194	Clothing_parts	MANUAL	6554806	69	75	JKs	pockets
+LINKED:[12	12	69	75	bn:00063155n	http://dbpedia.org/resource/Pocket	http://babelnet.org/rdf/s00063155n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24569 ===
+	Clothing_parts: 8.650519031141869E-4
+
+SELECTED:[Clothing_parts]
+MATCH!
+SILVER:195	23757	4	8	0	4104014	There are many stories of refugees who arrived with nothing in their pockets , set up a small sidewalk stall , worked diligently until they had their own store , and then expanded it into a modest chain .	11431	set	280	Intentionally_create	MANUAL	6554807	79	81	EGp	set
+LINKED:[14	14	79	81	bn:00090224v		http://babelnet.org/rdf/s00090224v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24570 ===
+	Causation: 0.002066115702479339
+	Attack: 0.0013717421124828531
+	Placing: 2.9726516052318666E-4
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	4	8	0	4104014	There are many stories of refugees who arrived with nothing in their pockets , set up a small sidewalk stall , worked diligently until they had their own store , and then expanded it into a modest chain .	3781	sidewalk.n	203	Roadways	MANUAL	6554809	94	101	JKs	sidewalk
+LINKED:[18	18	94	101	bn:00061084n	http://dbpedia.org/resource/Sidewalk	http://babelnet.org/rdf/s00061084n	1.0	0.09090909	0.0036363637	BABELFY]
+RANK:=== COUNTER  Counter 24571 ===
+	Roadways: 0.0011890606420927466
+
+SELECTED:[Roadways]
+MATCH!
+SILVER:195	23757	4	8	0	4104014	There are many stories of refugees who arrived with nothing in their pockets , set up a small sidewalk stall , worked diligently until they had their own store , and then expanded it into a modest chain .	5780	work.v	282	Being_employed	MANUAL	6554810	111	116	JKs	worked
+LINKED:[21	21	111	116	bn:00095812v		http://babelnet.org/rdf/s00095812v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24572 ===
+	Working_on: 0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	4	8	0	4104014	There are many stories of refugees who arrived with nothing in their pockets , set up a small sidewalk stall , worked diligently until they had their own store , and then expanded it into a modest chain .	1652	expand.v	77	Cause_expansion	MANUAL	6554813	171	178	JKs	expanded
+LINKED:[32	32	171	178	bn:00086833v		http://babelnet.org/rdf/s00086833v	1.0	0.09090909	0.0036363637	BABELFY]
+RANK:=== COUNTER  Counter 24573 ===
+	Expansion: 0.006944444444444444
+	Speak_on_topic: 0.00591715976331361
+	Cause_expansion: 0.0030864197530864196
+
+SELECTED:[Cause_expansion]
+MATCH!
+SILVER:195	23757	4	8	0	4104014	There are many stories of refugees who arrived with nothing in their pockets , set up a small sidewalk stall , worked diligently until they had their own store , and then expanded it into a modest chain .	13810	chain.n	365	Businesses	MANUAL	6554814	197	201	JKs	chain
+LINKED:[37	37	197	201	bn:00017487n	http://dbpedia.org/resource/Chain	http://babelnet.org/rdf/s00017487n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24574 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	9	0	4104015	Old customs are still followed : Fate and luck are taken very seriously , and astrologers and fortune-tellers do a steady business .	10071	old.a	972	Age	MANUAL	6554822	0	2	JKs	Old
+LINKED:[0	0	0	2	bn:00058795n		http://babelnet.org/rdf/s00058795n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24575 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	9	0	4104015	Old customs are still followed : Fate and luck are taken very seriously , and astrologers and fortune-tellers do a steady business .	6718	custom.n	380	Custom	MANUAL	6554823	4	10	JKs	customs
+LINKED:[1	1	4	10	bn:00024591n	http://dbpedia.org/resource/Custom_(law)	http://babelnet.org/rdf/s00024591n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24576 ===
+	Custom: 0.012345679012345678
+
+SELECTED:[Custom]
+MATCH!
+SILVER:195	23757	1	9	0	4104015	Old customs are still followed : Fate and luck are taken very seriously , and astrologers and fortune-tellers do a steady business .	2337	follow.v	117	Compliance	MANUAL	6554825	22	29	JKs	followed
+LINKED:[4	4	22	29	bn:00088421v		http://babelnet.org/rdf/s00088421v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24577 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	9	0	4104015	Old customs are still followed : Fate and luck are taken very seriously , and astrologers and fortune-tellers do a steady business .	13615	fate.n	1801	Destiny	MANUAL	6554826	33	36	JKs	Fate
+LINKED:[6	6	33	36	bn:00026603n	http://dbpedia.org/resource/Destiny	http://babelnet.org/rdf/s00026603n	0.8888889	0.6666667	0.30769232	BABELFY]
+RANK:=== COUNTER  Counter 24578 ===
+	Destiny: 0.0625
+
+SELECTED:[Destiny]
+MATCH!
+SILVER:195	23757	1	9	0	4104015	Old customs are still followed : Fate and luck are taken very seriously , and astrologers and fortune-tellers do a steady business .	13628	luck.n	1811	Luck	MANUAL	6554827	42	45	JKs	luck
+LINKED:[8	8	42	45	bn:00017622n	http://dbpedia.org/resource/Luck	http://babelnet.org/rdf/s00017622n	0.7894737	0.5	0.115384616	BABELFY]
+RANK:=== COUNTER  Counter 24579 ===
+	Luck: 0.0625
+	Coincidence: 0.02040816326530612
+
+SELECTED:[Luck]
+MATCH!
+SILVER:195	23757	1	9	0	4104015	Old customs are still followed : Fate and luck are taken very seriously , and astrologers and fortune-tellers do a steady business .	6355	business.n	365	Businesses	MANUAL	6554837	122	129	JKs	business
+LINKED:[21	21	122	129	bn:00014136n	http://dbpedia.org/resource/Companies_law	http://babelnet.org/rdf/s00014136n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24580 ===
+	Businesses: 0.01
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:195	23757	2	9	0	4104016	Before a skyscraper can be built , a feng shui ( see page 68 ) investigation must take place to ensure that the site and the building will promote health , harmony , and prosperity .	3123	skyscraper.n	173	Buildings	MANUAL	6554841	9	18	JKs	skyscraper
+LINKED:[2	2	9	18	bn:00072030n	http://dbpedia.org/resource/Skyscraper	http://babelnet.org/rdf/s00072030n	1.0	0.14285715	0.018604651	BABELFY]
+RANK:=== COUNTER  Counter 24581 ===
+	Buildings: 1.3840830449826988E-4
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23757	2	9	0	4104016	Before a skyscraper can be built , a feng shui ( see page 68 ) investigation must take place to ensure that the site and the building will promote health , harmony , and prosperity .	4738	build.v	259	Building	MANUAL	6554842	27	31	JKs	built
+LINKED:[5	5	27	31	bn:00084198v		http://babelnet.org/rdf/s00084198v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24582 ===
+	Building: 0.012345679012345678
+
+SELECTED:[Building]
+MATCH!
+SILVER:195	23757	2	9	0	4104016	Before a skyscraper can be built , a feng shui ( see page 68 ) investigation must take place to ensure that the site and the building will promote health , harmony , and prosperity .	14299	see.v	1924	Reference_text	MANUAL	6554844	49	51	JKs	see
+LINKED:[11	11	49	51	bn:00093430v		http://babelnet.org/rdf/s00093430v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24583 ===
+	Reference_text: 1.0
+	Touring: 0.02040816326530612
+	Grasp: 0.015625
+	Perception_experience: 0.006944444444444444
+	Categorization: 0.0022675736961451248
+	Causation: 0.002066115702479339
+
+SELECTED:[Reference_text]
+MATCH!
+SILVER:195	23757	2	9	0	4104016	Before a skyscraper can be built , a feng shui ( see page 68 ) investigation must take place to ensure that the site and the building will promote health , harmony , and prosperity .	446	investigation.n	31	Scrutiny	MANUAL	6554846	63	75	JKs	investigation
+LINKED:[15	15	63	75	bn:00047354n		http://babelnet.org/rdf/s00047354n	1.0	0.071428575	0.009302326	BABELFY]
+RANK:=== COUNTER  Counter 24584 ===
+	Criminal_investigation: 0.02040816326530612
+	Scrutiny: 6.574621959237343E-4
+
+SELECTED:[Scrutiny]
+MATCH!
+SILVER:195	23757	2	9	0	4104016	Before a skyscraper can be built , a feng shui ( see page 68 ) investigation must take place to ensure that the site and the building will promote health , harmony , and prosperity .	4888	take	187	Event	MANUAL	6554847	87	91	EGp	place
+LINKED:[18	18	87	91	bn:00062699n	http://dbpedia.org/resource/Location_(geography)	http://babelnet.org/rdf/s00062699n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24585 ===
+	Locale: 0.006944444444444444
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	9	0	4104016	Before a skyscraper can be built , a feng shui ( see page 68 ) investigation must take place to ensure that the site and the building will promote health , harmony , and prosperity .	11550	site.n	196	Locale_by_use	MANUAL	6554849	112	115	JKs	site
+LINKED:[23	23	112	115	bn:00047172n	http://dbpedia.org/resource/Grothendieck_topology	http://babelnet.org/rdf/s00047172n	0.8888889	0.2857143	0.11162791	BABELFY]
+RANK:=== COUNTER  Counter 24586 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	9	0	4104016	Before a skyscraper can be built , a feng shui ( see page 68 ) investigation must take place to ensure that the site and the building will promote health , harmony , and prosperity .	10869	building.n	173	Buildings	MANUAL	6554851	125	132	JKs	building
+LINKED:[26	26	125	132	bn:00084198v		http://babelnet.org/rdf/s00084198v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24587 ===
+	Building: 0.012345679012345678
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	9	0	4104016	Before a skyscraper can be built , a feng shui ( see page 68 ) investigation must take place to ensure that the site and the building will promote health , harmony , and prosperity .	13372	promote.v	96	Cause_change_of_position_on_a_scale	MANUAL	6554852	139	145	JKs	promote
+LINKED:[28	28	139	145	bn:00082397v		http://babelnet.org/rdf/s00082397v	0.8	0.14285715	0.037209302	BABELFY]
+RANK:=== COUNTER  Counter 24588 ===
+	Cause_change_of_position_on_a_scale: 0.002770083102493075
+
+SELECTED:[Cause_change_of_position_on_a_scale]
+MATCH!
+SILVER:195	23757	2	9	0	4104016	Before a skyscraper can be built , a feng shui ( see page 68 ) investigation must take place to ensure that the site and the building will promote health , harmony , and prosperity .	13091	health.n	239	Medical_conditions	MANUAL	6554853	147	152	JKs	health
+LINKED:[29	29	147	152	bn:00043358n	http://dbpedia.org/resource/Health	http://babelnet.org/rdf/s00043358n	0.8888889	0.14285715	0.037209302	BABELFY]
+RANK:=== COUNTER  Counter 24589 ===
+	Medical_conditions: 2.1003990758244068E-4
+
+SELECTED:[Medical_conditions]
+MATCH!
+SILVER:195	23757	2	9	0	4104016	Before a skyscraper can be built , a feng shui ( see page 68 ) investigation must take place to ensure that the site and the building will promote health , harmony , and prosperity .	13852	prosperity.n	1771	Thriving	MANUAL	6554854	170	179	JKs	prosperity
+LINKED:[34	34	170	179	bn:00064819n	http://dbpedia.org/resource/Prosperity	http://babelnet.org/rdf/s00064819n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24590 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	9	0	4104017	You 'll also notice that gambling is a passion , whether it be cards , mahjong , the lottery , or the horses .	177	notice.v	20	Becoming_aware	MANUAL	6554866	13	18	JKs	notice
+LINKED:[3	3	13	18	bn:00086708v		http://babelnet.org/rdf/s00086708v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24591 ===
+	Perception_experience: 0.006944444444444444
+	Becoming_aware: 0.0044444444444444444
+	Coming_to_believe: 0.00390625
+	Perception_active: 0.0011890606420927466
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:195	23757	4	9	0	4104018	Hong Kong has two major racetracks as well as an intensive off-track betting system , and on weekends the ferries to Macau are crowded with people on their way to the casinos .	12252	major.a	407	Importance	MANUAL	6554874	18	22	JKs	major
+LINKED:[4	4	18	22	bn:00106336a		http://babelnet.org/rdf/s00106336a	1.0	0.083333336	0.0034364262	BABELFY]
+RANK:=== COUNTER  Counter 24592 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	4	9	0	4104018	Hong Kong has two major racetracks as well as an intensive off-track betting system , and on weekends the ferries to Macau are crowded with people on their way to the casinos .	12637	system.n	1610	System	MANUAL	6554878	77	82	JKs	system
+LINKED:[13	13	77	82	bn:00075759n		http://babelnet.org/rdf/s00075759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24593 ===
+	System: 0.1111111111111111
+	Gizmo: 0.00390625
+
+SELECTED:[System]
+MATCH!
+SILVER:195	23757	4	9	0	4104018	Hong Kong has two major racetracks as well as an intensive off-track betting system , and on weekends the ferries to Macau are crowded with people on their way to the casinos .	3952	weekend.n	229	Calendric_unit	MANUAL	6554880	93	100	JKs	weekends
+LINKED:[17	17	93	100	bn:00080816n	http://dbpedia.org/resource/Workweek_and_weekend	http://babelnet.org/rdf/s00080816n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24594 ===
+	Calendric_unit: 3.429355281207133E-4
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23757	4	9	0	4104018	Hong Kong has two major racetracks as well as an intensive off-track betting system , and on weekends the ferries to Macau are crowded with people on their way to the casinos .	7837	ferry.n	429	Vehicle	MANUAL	6554881	106	112	JKs	ferries
+LINKED:[19	19	106	112	bn:00034131n	http://dbpedia.org/resource/Ferry	http://babelnet.org/rdf/s00034131n	1.0	0.25	0.05154639	BABELFY]
+RANK:=== COUNTER  Counter 24595 ===
+	Vehicle: 8.163265306122448E-4
+
+SELECTED:[Vehicle]
+MATCH!
+SILVER:195	23757	4	9	0	4104018	Hong Kong has two major racetracks as well as an intensive off-track betting system , and on weekends the ferries to Macau are crowded with people on their way to the casinos .	4771	crowded.a	262	Abounding_with	MANUAL	6554883	127	133	JKs	crowded
+LINKED:[23	23	127	133	bn:00086090v		http://babelnet.org/rdf/s00086090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24596 ===
+	Gathering_up: 0.027777777777777776
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	4	9	0	4104018	Hong Kong has two major racetracks as well as an intensive off-track betting system , and on weekends the ferries to Macau are crowded with people on their way to the casinos .	5511	people.n	304	People	MANUAL	6554884	140	145	JKs	people
+LINKED:[25	25	140	145	bn:00019283n		http://babelnet.org/rdf/s00019283n	0.8	0.16666667	0.013745705	BABELFY]
+RANK:=== COUNTER  Counter 24597 ===
+	People_by_jurisdiction: 0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	10	0	4104019	Sightseeing in Hong Kong starts at sea level with the enthralling water traffic?—?a mix of freighters , ferries , tugs , junks , and yachts .	4447	start.v	146	Activity_start	MANUAL	6559706	25	30	MLC	starts
+LINKED:[4	4	25	30	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24598 ===
+	Setting_out: 0.1111111111111111
+	Process_start: 0.027777777777777776
+	Activity_start: 0.015625
+
+SELECTED:[Activity_start]
+MATCH!
+SILVER:195	23757	1	10	0	4104019	Sightseeing in Hong Kong starts at sea level with the enthralling water traffic?—?a mix of freighters , ferries , tugs , junks , and yachts .	3498	sea.n	191	Natural_features	MANUAL	6559708	35	37	MLC	sea
+LINKED:[6	6	35	37	bn:00069946n	http://dbpedia.org/resource/Sea	http://babelnet.org/rdf/s00069946n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24599 ===
+	Natural_features: 1.1562030292519367E-4
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23757	1	10	0	4104019	Sightseeing in Hong Kong starts at sea level with the enthralling water traffic?—?a mix of freighters , ferries , tugs , junks , and yachts .	14922	enthralling.a	2046	Mental_stimulus_stimulus_focus	MANUAL	6559709	54	64	MLC	enthralling
+LINKED:[10	10	54	64	bn:00086521v		http://babelnet.org/rdf/s00086521v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24600 ===
+	Experiencer_obj: 1.3840830449826988E-4
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	10	0	4104019	Sightseeing in Hong Kong starts at sea level with the enthralling water traffic?—?a mix of freighters , ferries , tugs , junks , and yachts .	15543	water.n	191	Natural_features	MANUAL	6559710	66	70	MLC	water
+LINKED:[11	11	66	70	bn:00042379n	http://dbpedia.org/resource/Water	http://babelnet.org/rdf/s00042379n	0.8765743	0.85714287	0.21534653	BABELFY]
+RANK:=== COUNTER  Counter 24601 ===
+	Substance: 0.0025
+	Food: 2.295684113865932E-4
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	10	0	4104019	Sightseeing in Hong Kong starts at sea level with the enthralling water traffic?—?a mix of freighters , ferries , tugs , junks , and yachts .	7837	ferry.n	429	Vehicle	MANUAL	6559711	104	110	MLC	ferries
+LINKED:[21	21	104	110	bn:00034131n	http://dbpedia.org/resource/Ferry	http://babelnet.org/rdf/s00034131n	0.8811189	0.5	0.077970296	BABELFY]
+RANK:=== COUNTER  Counter 24602 ===
+	Vehicle: 8.163265306122448E-4
+
+SELECTED:[Vehicle]
+MATCH!
+SILVER:195	23757	1	10	0	4104019	Sightseeing in Hong Kong starts at sea level with the enthralling water traffic?—?a mix of freighters , ferries , tugs , junks , and yachts .	15379	yacht.n	429	Vehicle	MANUAL	6559712	133	138	MLC	yachts
+LINKED:[28	28	133	138	bn:00065835n	http://dbpedia.org/resource/Yacht_racing	http://babelnet.org/rdf/s00065835n	1.0	0.42857143	0.022277229	BABELFY]
+RANK:=== COUNTER  Counter 24603 ===
+	Vehicle: 8.163265306122448E-4
+
+SELECTED:[Vehicle]
+MATCH!
+SILVER:195	23757	2	10	0	4104020	Views of the city and the harbor are panoramic .	3764	city.n	195	Political_locales	MANUAL	6559713	13	16	MLC	city
+LINKED:[3	3	13	16	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	1.0	1.0	0.5769231	BABELFY]
+RANK:=== COUNTER  Counter 24604 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	10	0	4104020	Views of the city and the harbor are panoramic .	11418	harbor.n	196	Locale_by_use	MANUAL	6559714	26	31	MLC	harbor
+LINKED:[6	6	26	31	bn:00042919n		http://babelnet.org/rdf/s00042919n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24605 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	10	0	4104021	From Victoria Peak , Hong Kong 's highest point , or from skyscrapers and hotels , they are especially exciting at night when the lights are on .	14526	point.n	192	Locale	MANUAL	6559716	42	46	MLC	point
+LINKED:[8	8	42	46	bn:00063213n		http://babelnet.org/rdf/s00063213n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24606 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	10	0	4104021	From Victoria Peak , Hong Kong 's highest point , or from skyscrapers and hotels , they are especially exciting at night when the lights are on .	3123	skyscraper.n	173	Buildings	MANUAL	6559717	58	68	MLC	skyscrapers
+LINKED:[12	12	58	68	bn:00072030n	http://dbpedia.org/resource/Skyscraper	http://babelnet.org/rdf/s00072030n	0.98717946	0.53846157	0.12280702	BABELFY]
+RANK:=== COUNTER  Counter 24607 ===
+	Buildings: 1.3840830449826988E-4
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23757	3	10	0	4104021	From Victoria Peak , Hong Kong 's highest point , or from skyscrapers and hotels , they are especially exciting at night when the lights are on .	3015	hotel.n	173	Buildings	MANUAL	6559718	74	79	MLC	hotels
+LINKED:[14	14	74	79	bn:00044967n	http://dbpedia.org/resource/Hotel	http://babelnet.org/rdf/s00044967n	0.8	0.23076923	0.019138755	BABELFY]
+RANK:=== COUNTER  Counter 24608 ===
+	Buildings: 1.3840830449826988E-4
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23757	3	10	0	4104021	From Victoria Peak , Hong Kong 's highest point , or from skyscrapers and hotels , they are especially exciting at night when the lights are on .	6433	exciting.a	364	Stimulus_focus	MANUAL	6559719	103	110	MLC	exciting
+LINKED:[19	19	103	110	bn:00087806v		http://babelnet.org/rdf/s00087806v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24609 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	10	0	4104021	From Victoria Peak , Hong Kong 's highest point , or from skyscrapers and hotels , they are especially exciting at night when the lights are on .	4064	night.n	229	Calendric_unit	MANUAL	6559721	115	119	MLC	night
+LINKED:[21	21	115	119	bn:00025236n	http://dbpedia.org/resource/Night	http://babelnet.org/rdf/s00025236n	1.0	0.15384616	0.015948962	BABELFY]
+RANK:=== COUNTER  Counter 24610 ===
+	Calendric_unit: 3.429355281207133E-4
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23757	1	11	0	4104022	The business and financial center and the signature soaring architecture are on Hong Kong Island .	6355	business.n	365	Businesses	MANUAL	6559724	4	11	MLC	business
+LINKED:[1	1	4	11	bn:00014137n	http://dbpedia.org/resource/Business	http://babelnet.org/rdf/s00014137n	0.8181818	0.3	0.026785715	BABELFY]
+RANK:=== COUNTER  Counter 24611 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	11	0	4104022	The business and financial center and the signature soaring architecture are on Hong Kong Island .	10661	center.n	196	Locale_by_use	MANUAL	6559725	27	32	MLC	center
+LINKED:[4	4	27	32	bn:00017134n	http://dbpedia.org/resource/The_Mall_(Cleveland)	http://babelnet.org/rdf/s00017134n	1.0	0.4	0.04761905	BABELFY]
+RANK:=== COUNTER  Counter 24612 ===
+	Locale_by_use: 4.164931278633902E-4
+	Buildings: 1.3840830449826988E-4
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:195	23757	1	11	0	4104022	The business and financial center and the signature soaring architecture are on Hong Kong Island .	10598	signature.a	1133	Distinctiveness	MANUAL	6559726	42	50	MLC	signature
+LINKED:[7	7	42	50	bn:00071547n	http://dbpedia.org/resource/Signature	http://babelnet.org/rdf/s00071547n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24613 ===
+	Sign_agreement: 0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	11	0	4104023	Across Victoria Harbor , connected by ferry and the MTR rail line , is the Kowloon peninsula with its hotels , nightlife , and almost non-stop shopping .	13664	connected.a	307	Being_attached	MANUAL	6559728	25	33	MLC	connected
+LINKED:[4	4	25	33	bn:00085628v		http://babelnet.org/rdf/s00085628v	1.0	0.07692308	0.002247191	BABELFY]
+RANK:=== COUNTER  Counter 24614 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	11	0	4104023	Across Victoria Harbor , connected by ferry and the MTR rail line , is the Kowloon peninsula with its hotels , nightlife , and almost non-stop shopping .	7837	ferry.n	429	Vehicle	MANUAL	6559729	38	42	MLC	ferry
+LINKED:[6	6	38	42	bn:00034131n	http://dbpedia.org/resource/Ferry	http://babelnet.org/rdf/s00034131n	1.0	0.46153846	0.094382025	BABELFY]
+RANK:=== COUNTER  Counter 24615 ===
+	Vehicle: 8.163265306122448E-4
+
+SELECTED:[Vehicle]
+MATCH!
+SILVER:195	23757	2	11	0	4104023	Across Victoria Harbor , connected by ferry and the MTR rail line , is the Kowloon peninsula with its hotels , nightlife , and almost non-stop shopping .	14493	rail.n	203	Roadways	MANUAL	6559730	56	59	MLC	rail
+LINKED:[10	10	56	59	bn:00066008n		http://babelnet.org/rdf/s00066008n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24616 ===
+	Architectural_part: 0.006944444444444444
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	11	0	4104023	Across Victoria Harbor , connected by ferry and the MTR rail line , is the Kowloon peninsula with its hotels , nightlife , and almost non-stop shopping .	3788	line.n	203	Roadways	MANUAL	6559731	61	64	MLC	line
+LINKED:[11	11	61	64	bn:00079972n	http://dbpedia.org/resource/Video	http://babelnet.org/rdf/s00079972n	1.0	0.23076923	0.020224718	BABELFY]
+RANK:=== COUNTER  Counter 24617 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	2	11	0	4104023	Across Victoria Harbor , connected by ferry and the MTR rail line , is the Kowloon peninsula with its hotels , nightlife , and almost non-stop shopping .	3501	peninsula.n	191	Natural_features	MANUAL	6559732	83	91	MLC	peninsula
+LINKED:[16	16	83	91	bn:00061370n	http://dbpedia.org/resource/Peninsula	http://babelnet.org/rdf/s00061370n	1.0	0.3846154	0.06741573	BABELFY]
+RANK:=== COUNTER  Counter 24618 ===
+	Natural_features: 1.1562030292519367E-4
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23757	2	11	0	4104023	Across Victoria Harbor , connected by ferry and the MTR rail line , is the Kowloon peninsula with its hotels , nightlife , and almost non-stop shopping .	3015	hotel.n	173	Buildings	MANUAL	6559733	102	107	MLC	hotels
+LINKED:[19	19	102	107	bn:00044967n	http://dbpedia.org/resource/Hotel	http://babelnet.org/rdf/s00044967n	0.9375	0.3846154	0.06741573	BABELFY]
+RANK:=== COUNTER  Counter 24619 ===
+	Buildings: 1.3840830449826988E-4
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:195	23757	2	11	0	4104023	Across Victoria Harbor , connected by ferry and the MTR rail line , is the Kowloon peninsula with its hotels , nightlife , and almost non-stop shopping .	13921	shopping.n	1882	Shopping	MANUAL	6559734	143	150	MLC	shopping
+LINKED:[26	26	143	150	bn:00093662v		http://babelnet.org/rdf/s00093662v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24620 ===
+	Shopping: 0.25
+
+SELECTED:[Shopping]
+MATCH!
+SILVER:195	23757	3	11	0	4104024	Beyond , in the New Territories , are a mixture of high-rise suburban towns , ancient sites and walled villages , country parks , and farms with ducks and fish ponds .	3691	town.n	195	Political_locales	MANUAL	6559736	70	74	MLC	towns
+LINKED:[13	13	70	74	bn:00077773n	http://dbpedia.org/resource/Town	http://babelnet.org/rdf/s00077773n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24621 ===
+	Political_locales: 0.0010405827263267429
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:195	23757	3	11	0	4104024	Beyond , in the New Territories , are a mixture of high-rise suburban towns , ancient sites and walled villages , country parks , and farms with ducks and fish ponds .	10072	ancient.a	972	Age	MANUAL	6559737	78	84	MLC	ancient
+LINKED:[15	15	78	84	bn:00097066a		http://babelnet.org/rdf/s00097066a	1.0	0.05882353	5.4585154E-4	BABELFY]
+RANK:=== COUNTER  Counter 24622 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	11	0	4104024	Beyond , in the New Territories , are a mixture of high-rise suburban towns , ancient sites and walled villages , country parks , and farms with ducks and fish ponds .	13783	site.n	192	Locale	MANUAL	6559738	86	90	MLC	sites
+LINKED:[16	16	86	90	bn:00049847n		http://babelnet.org/rdf/s00049847n	0.84210527	0.23529412	0.008733625	BABELFY]
+RANK:=== COUNTER  Counter 24623 ===
+	Locale_by_event: 0.04
+	Locale: 0.006944444444444444
+	Locale_by_use: 4.164931278633902E-4
+
+SELECTED:[Locale]
+MATCH!
+SILVER:195	23757	3	11	0	4104024	Beyond , in the New Territories , are a mixture of high-rise suburban towns , ancient sites and walled villages , country parks , and farms with ducks and fish ponds .	11299	village.n	195	Political_locales	MANUAL	6559739	103	110	MLC	villages
+LINKED:[19	19	103	110	bn:00070724n	http://dbpedia.org/resource/Human_settlement	http://babelnet.org/rdf/s00070724n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24624 ===
+	Political_locales: 0.0010405827263267429
+	Locale_by_use: 4.164931278633902E-4
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:195	23757	3	11	0	4104024	Beyond , in the New Territories , are a mixture of high-rise suburban towns , ancient sites and walled villages , country parks , and farms with ducks and fish ponds .	13847	park.n	196	Locale_by_use	MANUAL	6559740	122	126	MLC	parks
+LINKED:[22	22	122	126	bn:00060690n	http://dbpedia.org/resource/Park	http://babelnet.org/rdf/s00060690n	0.84375	0.5294118	0.07368996	BABELFY]
+RANK:=== COUNTER  Counter 24625 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	3	11	0	4104024	Beyond , in the New Territories , are a mixture of high-rise suburban towns , ancient sites and walled villages , country parks , and farms with ducks and fish ponds .	3707	farm.n	196	Locale_by_use	MANUAL	6559741	134	138	MLC	farms
+LINKED:[25	25	134	138	bn:00033676n	http://dbpedia.org/resource/Farm	http://babelnet.org/rdf/s00033676n	0.8965517	0.3529412	0.04257642	BABELFY]
+RANK:=== COUNTER  Counter 24626 ===
+	Locale_by_use: 4.164931278633902E-4
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:195	23757	3	11	0	4104024	Beyond , in the New Territories , are a mixture of high-rise suburban towns , ancient sites and walled villages , country parks , and farms with ducks and fish ponds .	3412	pond.n	191	Natural_features	MANUAL	6559742	160	164	MLC	ponds
+LINKED:[30	30	160	164	bn:00063508n	http://dbpedia.org/resource/Pond	http://babelnet.org/rdf/s00063508n	0.98630136	0.3529412	0.03930131	BABELFY]
+RANK:=== COUNTER  Counter 24627 ===
+	Natural_features: 1.1562030292519367E-4
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23757	4	11	0	4104025	Hong Kong 's other , less developed islands , Lantau , Lamma , and Cheung Chau , provide getaways .	11651	developed.a	1341	Stage_of_progress	MANUAL	6559743	26	34	MLC	developed
+LINKED:[6	6	26	34	bn:00101288a		http://babelnet.org/rdf/s00101288a	1.0	0.14285715	0.0061728396	BABELFY]
+RANK:=== COUNTER  Counter 24628 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	4	11	0	4104025	Hong Kong 's other , less developed islands , Lantau , Lamma , and Cheung Chau , provide getaways .	3504	island.n	191	Natural_features	MANUAL	6559744	36	42	MLC	islands
+LINKED:[7	7	36	42	bn:00047612n	http://dbpedia.org/resource/Island	http://babelnet.org/rdf/s00047612n	0.9230769	0.42857143	0.074074075	BABELFY]
+RANK:=== COUNTER  Counter 24629 ===
+	Natural_features: 1.1562030292519367E-4
+
+SELECTED:[Natural_features]
+MATCH!
+SILVER:195	23757	4	11	0	4104025	Hong Kong 's other , less developed islands , Lantau , Lamma , and Cheung Chau , provide getaways .	11673	provide.v	1346	Supply	MANUAL	6559745	81	87	MLC	provide
+LINKED:[17	17	81	87	bn:00088643v		http://babelnet.org/rdf/s00088643v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24630 ===
+	Supply: 0.012345679012345678
+
+SELECTED:[Supply]
+MATCH!
+SILVER:195	23757	5	11	0	4104026	You can also take a ferry to Macau to find an entirely different kind of city , a unique blend of Chinese and Iberian culture .	7837	ferry.n	429	Vehicle	MANUAL	6559748	20	24	MLC	ferry
+LINKED:[5	5	20	24	bn:00034131n	http://dbpedia.org/resource/Ferry	http://babelnet.org/rdf/s00034131n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24631 ===
+	Vehicle: 8.163265306122448E-4
+
+SELECTED:[Vehicle]
+MATCH!
+SILVER:195	23757	5	11	0	4104026	You can also take a ferry to Macau to find an entirely different kind of city , a unique blend of Chinese and Iberian culture .	175	find.v	20	Becoming_aware	MANUAL	6559750	38	41	MLC	find
+LINKED:[9	9	38	41	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24632 ===
+	Locating: 0.25
+	Verdict: 0.01
+	Becoming_aware: 0.0044444444444444444
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:195	23757	5	11	0	4104026	You can also take a ferry to Macau to find an entirely different kind of city , a unique blend of Chinese and Iberian culture .	7989	different.a	481	Similarity	MANUAL	6559751	55	63	MLC	different
+LINKED:[12	12	55	63	bn:00101347a		http://babelnet.org/rdf/s00101347a	0.8181818	0.27272728	0.02244389	BABELFY]
+RANK:=== COUNTER  Counter 24633 ===
+	Identicality: 0.1111111111111111
+	Similarity: 0.0022675736961451248
+
+SELECTED:[Similarity]
+MATCH!
+SILVER:195	23757	5	11	0	4104026	You can also take a ferry to Macau to find an entirely different kind of city , a unique blend of Chinese and Iberian culture .	2557	kind.n	128	Type	MANUAL	6559752	65	68	MLC	kind
+LINKED:[13	13	65	68	bn:00035907n		http://babelnet.org/rdf/s00035907n	1.0	0.36363637	0.03990025	BABELFY]
+RANK:=== COUNTER  Counter 24634 ===
+	Type: 0.012345679012345678
+
+SELECTED:[Type]
+MATCH!
+SILVER:195	23757	5	11	0	4104026	You can also take a ferry to Macau to find an entirely different kind of city , a unique blend of Chinese and Iberian culture .	3764	city.n	195	Political_locales	MANUAL	6559753	73	76	MLC	city
+LINKED:[15	15	73	76	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.7875	0.6363636	0.31421447	BABELFY]
+RANK:=== COUNTER  Counter 24635 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	5	11	0	4104026	You can also take a ferry to Macau to find an entirely different kind of city , a unique blend of Chinese and Iberian culture .	10133	unique.a	982	Idiosyncrasy	MANUAL	6559754	82	87	MLC	unique
+LINKED:[18	18	82	87	bn:00096872a		http://babelnet.org/rdf/s00096872a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24636 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	5	11	0	4104026	You can also take a ferry to Macau to find an entirely different kind of city , a unique blend of Chinese and Iberian culture .	10584	chinese.a	1103	Origin	MANUAL	6559755	98	104	MLC	Chinese
+LINKED:[21	21	98	104	bn:00018452n	http://dbpedia.org/resource/Chinese_language	http://babelnet.org/rdf/s00018452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24637 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	12	0	4104027	It 's anyone 's guess what may happen in the future , but for now Hong Kong bristles with energy and ambition , and for the visitor , this beautiful city with its contrasts and variety is an exhilarating experience .	226	guess.n	23	Coming_to_believe	MANUAL	6559757	16	20	MLC	guess
+LINKED:[4	4	16	20	bn:00089105v		http://babelnet.org/rdf/s00089105v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24638 ===
+	Estimating: 0.1111111111111111
+	Opinion: 0.01
+	Coming_to_believe: 0.00390625
+	Awareness: 0.0022675736961451248
+
+SELECTED:[Coming_to_believe]
+MATCH!
+SILVER:195	23757	1	12	0	4104027	It 's anyone 's guess what may happen in the future , but for now Hong Kong bristles with energy and ambition , and for the visitor , this beautiful city with its contrasts and variety is an exhilarating experience .	4886	happen.v	187	Event	MANUAL	6559758	31	36	MLC	happen
+LINKED:[7	7	31	36	bn:00085337v		http://babelnet.org/rdf/s00085337v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24639 ===
+	Eventive_affecting: 0.25
+	Event: 0.0625
+	Take_place_of: 0.04
+	Coincidence: 0.02040816326530612
+	Becoming_aware: 0.0044444444444444444
+
+SELECTED:[Event]
+MATCH!
+SILVER:195	23757	1	12	0	4104027	It 's anyone 's guess what may happen in the future , but for now Hong Kong bristles with energy and ambition , and for the visitor , this beautiful city with its contrasts and variety is an exhilarating experience .	12423	energy.n	1535	Electricity	MANUAL	6559760	90	95	MLC	energy
+LINKED:[19	19	90	95	bn:00030820n	http://dbpedia.org/resource/Thermodynamic_free_energy	http://babelnet.org/rdf/s00030820n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24640 ===
+	Electricity: 0.008264462809917356
+
+SELECTED:[Electricity]
+MATCH!
+SILVER:195	23757	1	12	0	4104027	It 's anyone 's guess what may happen in the future , but for now Hong Kong bristles with energy and ambition , and for the visitor , this beautiful city with its contrasts and variety is an exhilarating experience .	6702	ambition.n	366	Desiring	MANUAL	6559761	101	108	MLC	ambition
+LINKED:[21	21	101	108	bn:00003270n		http://babelnet.org/rdf/s00003270n	1.0	0.07692308	0.007905139	BABELFY]
+RANK:=== COUNTER  Counter 24641 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23757	1	12	0	4104027	It 's anyone 's guess what may happen in the future , but for now Hong Kong bristles with energy and ambition , and for the visitor , this beautiful city with its contrasts and variety is an exhilarating experience .	14215	visitor.n	1911	Visiting	MANUAL	6559762	124	130	MLC	visitor
+LINKED:[26	26	124	130	bn:00080115n		http://babelnet.org/rdf/s00080115n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24642 ===
+	Visiting: 0.04
+
+SELECTED:[Visiting]
+MATCH!
+SILVER:195	23757	1	12	0	4104027	It 's anyone 's guess what may happen in the future , but for now Hong Kong bristles with energy and ambition , and for the visitor , this beautiful city with its contrasts and variety is an exhilarating experience .	10206	beautiful.a	1016	Aesthetics	MANUAL	6559763	139	147	MLC	beautiful
+LINKED:[29	29	139	147	bn:00098171a		http://babelnet.org/rdf/s00098171a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24643 ===
+	Aesthetics: 0.04
+
+SELECTED:[Aesthetics]
+MATCH!
+SILVER:195	23757	1	12	0	4104027	It 's anyone 's guess what may happen in the future , but for now Hong Kong bristles with energy and ambition , and for the visitor , this beautiful city with its contrasts and variety is an exhilarating experience .	3764	city.n	195	Political_locales	MANUAL	6559764	149	152	MLC	city
+LINKED:[30	30	149	152	bn:00019319n	http://dbpedia.org/resource/Metropolis	http://babelnet.org/rdf/s00019319n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24644 ===
+	Political_locales: 0.0010405827263267429
+	Locale_by_use: 4.164931278633902E-4
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:195	23757	1	12	0	4104027	It 's anyone 's guess what may happen in the future , but for now Hong Kong bristles with energy and ambition , and for the visitor , this beautiful city with its contrasts and variety is an exhilarating experience .	14043	variety.n	1893	Diversity	MANUAL	6559765	177	183	MLC	variety
+LINKED:[35	35	177	183	bn:00006554n		http://babelnet.org/rdf/s00006554n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24645 ===
+	Diversity: 0.00390625
+	Aggregate: 4.164931278633902E-4
+
+SELECTED:[Diversity]
+MATCH!
+SILVER:195	23757	1	12	0	4104027	It 's anyone 's guess what may happen in the future , but for now Hong Kong bristles with energy and ambition , and for the visitor , this beautiful city with its contrasts and variety is an exhilarating experience .	6434	exhilarating.a	364	Stimulus_focus	MANUAL	6559766	191	202	MLC	exhilarating
+LINKED:[38	38	191	202	bn:00083278v		http://babelnet.org/rdf/s00083278v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 24646 ===
+	Experiencer_obj: 1.3840830449826988E-4
+
+SELECTED:[]
+WRONG!
+filename	ANC__IntroHongKong.xml
+docAnnotations	306
+docManual	263
+docUnannotated	43
+sentences	39
+paragraphs	12
+Overlapping	189
+Disambiguated	136
+TP	113
+TN	43
+FP	0
+FN	127
+P	1.0
+R	0.4708333333333333
+F	0.6402266288951842
+A	0.5512367491166078

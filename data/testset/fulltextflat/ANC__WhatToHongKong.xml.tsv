@@ -1,0 +1,349 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+195	23758	1	1	0	4104028	What to Do Shopping	null	null	null	null	UNANN	6552860	null	null	null	null
+195	23758	1	2	0	4104029	Inflation has taken its toll in Hong Kong .	null	null	null	null	UNANN	6552861	null	null	null	null
+195	23758	2	2	0	4104030	While it 's no longer the bargain shopping destination it once was , there are still some good buys to be had .	null	null	null	null	UNANN	6552862	null	null	null	null
+195	23758	2	2	0	4104030	While it 's no longer the bargain shopping destination it once was , there are still some good buys to be had .	15431	while.scon	2150	Concessive	MANUAL	6584610	0	4	MLC	While
+195	23758	2	2	0	4104030	While it 's no longer the bargain shopping destination it once was , there are still some good buys to be had .	14368	no	1895	Temporal_collocation	MANUAL	6584611	15	20	MLC	longer
+195	23758	2	2	0	4104030	While it 's no longer the bargain shopping destination it once was , there are still some good buys to be had .	13921	shopping.n	1882	Shopping	MANUAL	6584612	34	41	MLC	shopping
+195	23758	2	2	0	4104030	While it 's no longer the bargain shopping destination it once was , there are still some good buys to be had .	10329	there	660	Existence	MANUAL	6584614	75	77	MLC	are
+195	23758	2	2	0	4104030	While it 's no longer the bargain shopping destination it once was , there are still some good buys to be had .	13044	still.adv	1594	Continued_state_of_affairs	MANUAL	6584615	79	83	MLC	still
+195	23758	2	2	0	4104030	While it 's no longer the bargain shopping destination it once was , there are still some good buys to be had .	14290	some.art	1923	Proportional_quantity	MANUAL	6584616	85	88	MLC	some
+195	23758	2	2	0	4104030	While it 's no longer the bargain shopping destination it once was , there are still some good buys to be had .	15401	once.adv	2140	Event_instance	MANUAL	6584633	58	61	MLC	once
+195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	null	null	null	null	UNANN	6552863	null	null	null	null
+195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	13417	since.c	5	Causation	MANUAL	6584617	0	4	MLC	Since
+195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	15331	port.n	196	Locale_by_use	MANUAL	6584618	33	36	MLC	port
+195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	8745	sale.n	172	Commerce_sell	MANUAL	6584620	53	57	MLC	sales
+195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	2899	goods.n	82	Commerce_scenario	MANUAL	6584621	65	69	MLC	goods
+195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	1773	cheap.a	83	Expensiveness	MANUAL	6584622	75	81	MLC	cheaper
+195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	14175	here.adv	199	Locative_relation	MANUAL	6584623	83	86	MLC	here
+195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	3683	country.n	195	Political_locales	MANUAL	6584624	100	106	MLC	country
+195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	13318	where.adv	199	Locative_relation	MANUAL	6584625	108	112	MLC	where
+195	23758	3	2	0	4104031	Since Hong Kong is a duty - free port and charges no sales tax , goods are cheaper here than in the country where they were made .	7526	make.v	408	Manufacturing	MANUAL	6584626	124	127	MLC	made
+195	23758	4	2	0	4104032	On photographic equipment , electronic goods , and watches , you avoid the luxury tax payable in your home country .	null	null	null	null	UNANN	6552864	null	null	null	null
+195	23758	4	2	0	4104032	On photographic equipment , electronic goods , and watches , you avoid the luxury tax payable in your home country .	2206	equipment.n	106	Gizmo	MANUAL	6584627	16	24	MLC	equipment
+195	23758	4	2	0	4104032	On photographic equipment , electronic goods , and watches , you avoid the luxury tax payable in your home country .	2899	goods.n	82	Commerce_scenario	MANUAL	6584628	39	43	MLC	goods
+195	23758	4	2	0	4104032	On photographic equipment , electronic goods , and watches , you avoid the luxury tax payable in your home country .	3612	watch.n	158	Accoutrements	MANUAL	6584629	51	57	MLC	watches
+195	23758	4	2	0	4104032	On photographic equipment , electronic goods , and watches , you avoid the luxury tax payable in your home country .	4993	avoid.v	274	Avoiding	MANUAL	6584630	65	69	MLC	avoid
+195	23758	4	2	0	4104032	On photographic equipment , electronic goods , and watches , you avoid the luxury tax payable in your home country .	13146	home.n	1483	Foreign_or_domestic_country	MANUAL	6584631	102	105	MLC	home
+195	23758	4	2	0	4104032	On photographic equipment , electronic goods , and watches , you avoid the luxury tax payable in your home country .	3683	country.n	195	Political_locales	MANUAL	6584632	107	113	MLC	country
+195	23758	1	3	0	4104033	Specialty goods and souvenirs , often handmade , come from Hong Kong and elsewhere in China .	null	null	null	null	UNANN	6552865	null	null	null	null
+195	23758	1	3	0	4104033	Specialty goods and souvenirs , often handmade , come from Hong Kong and elsewhere in China .	2899	goods.n	82	Commerce_scenario	MANUAL	6584651	10	14	CVa	goods
+195	23758	1	3	0	4104033	Specialty goods and souvenirs , often handmade , come from Hong Kong and elsewhere in China .	14105	often.adv	80	Frequency	MANUAL	6584652	32	36	CVa	often
+195	23758	1	3	0	4104033	Specialty goods and souvenirs , often handmade , come from Hong Kong and elsewhere in China .	14172	elsewhere.adv	199	Locative_relation	MANUAL	6584653	73	81	CVa	elsewhere
+195	23758	1	3	0	4104033	Specialty goods and souvenirs , often handmade , come from Hong Kong and elsewhere in China .	16669	come	1103	Origin	MANUAL	6584804	49	52	CVa	come
+195	23758	1	3	0	4104033	Specialty goods and souvenirs , often handmade , come from Hong Kong and elsewhere in China .	16669	come	1103	Origin	MANUAL	6584804	54	57	CVa	from
+195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	null	null	null	null	UNANN	6552866	null	null	null	null
+195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	3069	garment.n	134	Clothing	MANUAL	6584655	14	21	CVa	garments
+195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	2711	skilful.a	136	Expertise	MANUAL	6584657	26	33	CVa	skillful
+195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	13044	still.adv	1594	Continued_state_of_affairs	MANUAL	6584658	57	61	CVa	still
+195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	9190	cost.v	83	Expensiveness	MANUAL	6584660	82	85	CVa	cost
+195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	14172	elsewhere.adv	199	Locative_relation	MANUAL	6584661	97	105	CVa	elsewhere
+195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	6148	comparable.a	353	Evaluative_comparison	MANUAL	6584662	111	120	CVa	comparable
+195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	3069	garment.n	134	Clothing	MANUAL	6584663	122	129	CVa	garments
+195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	14525	much.art	1923	Proportional_quantity	MANUAL	6584670	63	66	CVa	much
+195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	16643	tailor.n	1071	People_by_vocation	MANUAL	6584671	45	51	CVa	tailors
+195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	16670	in	2380	Popularity	MANUAL	6584811	71	76	CVa	demand
+195	23758	2	3	0	4104034	Custom - made garments by skillful Hong Kong tailors are still much in demand and cost less than elsewhere for comparable garments .	16670	in	2380	Popularity	MANUAL	6584811	68	69	CVa	in
+195	23758	3	3	0	4104035	Note that alcohol and tobacco are both exceptions to Hong Kong 's duty - free regime and are subject to tax .	null	null	null	null	UNANN	6552867	null	null	null	null
+195	23758	3	3	0	4104035	Note that alcohol and tobacco are both exceptions to Hong Kong 's duty - free regime and are subject to tax .	13288	note.v	43	Statement	MANUAL	6584664	0	3	CVa	Note
+195	23758	3	3	0	4104035	Note that alcohol and tobacco are both exceptions to Hong Kong 's duty - free regime and are subject to tax .	7072	alcohol.n	390	Intoxicants	MANUAL	6584666	10	16	CVa	alcohol
+195	23758	3	3	0	4104035	Note that alcohol and tobacco are both exceptions to Hong Kong 's duty - free regime and are subject to tax .	7070	tobacco.n	390	Intoxicants	MANUAL	6584667	22	28	CVa	tobacco
+195	23758	3	3	0	4104035	Note that alcohol and tobacco are both exceptions to Hong Kong 's duty - free regime and are subject to tax .	14734	both.a	189	Quantified_mass	MANUAL	6584668	34	37	CVa	both
+195	23758	3	3	0	4104035	Note that alcohol and tobacco are both exceptions to Hong Kong 's duty - free regime and are subject to tax .	14028	regime.n	950	Law	MANUAL	6584669	78	83	CVa	regime
+195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	null	null	null	null	UNANN	6552868	null	null	null	null
+195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	175	find.v	20	Becoming_aware	MANUAL	6584672	8	11	CVa	find
+195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	2894	price.n	82	Commerce_scenario	MANUAL	6584674	18	23	CVa	prices
+195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	14273	about.prep	1923	Proportional_quantity	MANUAL	6584675	29	33	CVa	about
+195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	10293	same.a	1029	Identicality	MANUAL	6584676	39	42	CVa	same
+195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6584677	44	45	CVa	in
+195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	15545	central.a	327	Part_inner_outer	MANUAL	6584678	57	63	CVa	Central
+195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	15970	somewhat.adv	2001	Degree	MANUAL	6584679	83	90	CVa	somewhat
+195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6584680	100	101	CVa	in
+195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	3511	bay.n	191	Natural_features	MANUAL	6584681	112	114	CVa	Bay
+195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	11870	cater.v	391	Assistance	MANUAL	6584682	124	129	CVa	caters
+195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	10239	local.a	195	Political_locales	MANUAL	6584683	134	138	CVa	local
+195	23758	1	4	0	4104036	You 'll find that prices are about the same in Hong Kong Central and Kowloon , and somewhat cheaper in Causeway Bay , which caters to local shopping .	13921	shopping.n	1882	Shopping	MANUAL	6584684	140	147	CVa	shopping
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	null	null	null	null	UNANN	6552869	null	null	null	null
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	15769	large.a	2282	Size	MANUAL	6584685	0	4	CVa	Large
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	13861	shop.n	196	Locale_by_use	MANUAL	6584686	6	10	CVa	shops
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	17780	on.prep	2890	Spatial_contact	MANUAL	6584687	12	13	CVa	on
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	13942	fashionable.a	1884	Trendiness	MANUAL	6584688	19	29	CVa	fashionable
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	3802	thoroughfare.n	203	Roadways	MANUAL	6584689	31	43	CVa	thoroughfares
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	2659	tend.v	114	Likelihood	MANUAL	6584690	45	48	CVa	tend
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	1776	expensive.a	83	Expensiveness	MANUAL	6584691	61	69	CVa	expensive
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	15773	small.a	2282	Size	MANUAL	6584692	76	82	CVa	smaller
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	2307	family.n	104	Kinship	MANUAL	6584693	87	92	CVa	family
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	13861	shop.n	196	Locale_by_use	MANUAL	6584694	97	101	CVa	shops
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	1115	tuck.v	62	Placing	MANUAL	6584695	103	108	CVa	tucked
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6584774	115	116	CVa	in
+195	23758	2	4	0	4104037	Large shops on the fashionable thoroughfares tend to be more expensive than smaller `` family '' shops tucked away in the side streets .	3775	street.n	203	Roadways	MANUAL	6584775	127	133	CVa	streets
+195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	null	null	null	null	UNANN	6552870	null	null	null	null
+195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	16662	store.n	365	Businesses	MANUAL	6584777	0	5	CVa	Stores
+195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	16542	open.v	146	Activity_start	MANUAL	6584779	14	17	CVa	open
+195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	14602	until.prep	379	Time_vector	MANUAL	6584780	19	23	CVa	until
+195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	12153	later.a	1470	Temporal_subregion	MANUAL	6584781	34	38	CVa	later
+195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	15429	but.c	2150	Concessive	MANUAL	6584782	42	44	CVa	but
+195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	13921	shopping.n	1882	Shopping	MANUAL	6584783	46	53	CVa	shopping
+195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	4095	go	145	Process_continue	MANUAL	6584784	55	58	CVa	goes
+195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	4095	go	145	Process_continue	MANUAL	6584784	60	61	CVa	on
+195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	4062	evening.n	229	Calendric_unit	MANUAL	6584785	72	78	CVa	evening
+195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	12557	up	1594	Continued_state_of_affairs	MANUAL	6584786	82	83	CVa	up
+195	23758	1	5	0	4104038	Stores do not open until 10 am or later , but shopping goes on into the evening , up to 9:30 pm .	12557	up	1594	Continued_state_of_affairs	MANUAL	6584786	85	86	CVa	to
+195	23758	2	5	0	4104039	Most shops are open seven days a week .	null	null	null	null	UNANN	6552871	null	null	null	null
+195	23758	2	5	0	4104039	Most shops are open seven days a week .	13861	shop.n	196	Locale_by_use	MANUAL	6584787	5	9	CVa	shops
+195	23758	2	5	0	4104039	Most shops are open seven days a week .	10716	seven.num	218	Cardinal_numbers	MANUAL	6584788	20	24	CVa	seven
+195	23758	2	5	0	4104039	Most shops are open seven days a week .	3946	day.n	229	Calendric_unit	MANUAL	6584789	26	29	CVa	days
+195	23758	2	5	0	4104039	Most shops are open seven days a week .	3947	week.n	229	Calendric_unit	MANUAL	6584790	33	36	CVa	week
+195	23758	3	5	0	4104040	Shops in Central are an exception ; they generally close at 6 pm and are not open on Sunday .	null	null	null	null	UNANN	6552872	null	null	null	null
+195	23758	3	5	0	4104040	Shops in Central are an exception ; they generally close at 6 pm and are not open on Sunday .	13861	shop.n	196	Locale_by_use	MANUAL	6584791	0	4	CVa	Shops
+195	23758	3	5	0	4104040	Shops in Central are an exception ; they generally close at 6 pm and are not open on Sunday .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6584793	6	7	CVa	in
+195	23758	3	5	0	4104040	Shops in Central are an exception ; they generally close at 6 pm and are not open on Sunday .	15545	central.a	327	Part_inner_outer	MANUAL	6584794	9	15	CVa	Central
+195	23758	3	5	0	4104040	Shops in Central are an exception ; they generally close at 6 pm and are not open on Sunday .	16468	generally.adv	80	Frequency	MANUAL	6584795	41	49	CVa	generally
+195	23758	3	5	0	4104040	Shops in Central are an exception ; they generally close at 6 pm and are not open on Sunday .	14082	at.prep	1895	Temporal_collocation	MANUAL	6584796	57	58	CVa	at
+195	23758	3	5	0	4104040	Shops in Central are an exception ; they generally close at 6 pm and are not open on Sunday .	14081	on.prep	1895	Temporal_collocation	MANUAL	6584797	82	83	CVa	on
+195	23758	3	5	0	4104040	Shops in Central are an exception ; they generally close at 6 pm and are not open on Sunday .	4655	Sunday.n	229	Calendric_unit	MANUAL	6584798	85	90	CVa	Sunday
+195	23758	4	5	0	4104041	The only holiday on which all commerce comes to a halt is the Chinese New Year in January or February .	null	null	null	null	UNANN	6552873	null	null	null	null
+195	23758	4	5	0	4104041	The only holiday on which all commerce comes to a halt is the Chinese New Year in January or February .	13747	all.a	189	Quantified_mass	MANUAL	6584799	26	28	CVa	all
+195	23758	4	5	0	4104041	The only holiday on which all commerce comes to a halt is the Chinese New Year in January or February .	11145	commerce.n	82	Commerce_scenario	MANUAL	6584800	30	37	CVa	commerce
+195	23758	4	5	0	4104041	The only holiday on which all commerce comes to a halt is the Chinese New Year in January or February .	14080	in.prep	1895	Temporal_collocation	MANUAL	6584801	79	80	CVa	in
+195	23758	4	5	0	4104041	The only holiday on which all commerce comes to a halt is the Chinese New Year in January or February .	4643	January.n	229	Calendric_unit	MANUAL	6584802	82	88	CVa	January
+195	23758	4	5	0	4104041	The only holiday on which all commerce comes to a halt is the Chinese New Year in January or February .	4644	February.n	229	Calendric_unit	MANUAL	6584803	93	100	CVa	February
+195	23758	4	5	0	4104041	The only holiday on which all commerce comes to a halt is the Chinese New Year in January or February .	16672	holiday.n	229	Calendric_unit	MANUAL	6584812	9	15	CVa	holiday
+195	23758	1	6	0	4104042	Buyer Beware .	null	null	null	null	UNANN	6552874	null	null	null	null
+195	23758	2	6	0	4104043	Be aware that name brands , including electronics , are sometimes fakes , glass may be sold as jade , and that antique you bought may have been made last night .	null	null	null	null	UNANN	6552875	null	null	null	null
+195	23758	3	6	0	4104044	Always ask for a receipt that records information about the item , and if you buy an antique , be sure to get a certificate of authentication .	null	null	null	null	UNANN	6552876	null	null	null	null
+195	23758	4	6	0	4104045	Needless to say , avoid peddlers who approach you on the street and offer to take you to wondrous bargains .	null	null	null	null	UNANN	6552877	null	null	null	null
+195	23758	1	7	0	4104046	The large department stores have fixed prices , but elsewhere you should ask whether there is a discount , especially if you buy several items in one shop .	null	null	null	null	UNANN	6552878	null	null	null	null
+195	23758	2	7	0	4104047	Compare prices before you buy any significant item .	null	null	null	null	UNANN	6552879	null	null	null	null
+195	23758	3	7	0	4104048	Always ask to see the manufacturer 's guarantee when purchasing watches , cameras , and audio-visual and electronic equipment .	null	null	null	null	UNANN	6552880	null	null	null	null
+195	23758	1	8	0	4104049	Note that when haggling , the merchant assumes you are prepared to pay cash .	null	null	null	null	UNANN	6552881	null	null	null	null
+195	23758	2	8	0	4104050	If , after concluding a deal , you try to pay with a credit card , he may then boost the price in order to cover the card charges .	null	null	null	null	UNANN	6552882	null	null	null	null
+195	23758	1	9	0	4104051	It is advisable to shop at outlets that are members of the Hong Kong Tourist Association ( HKTA ) , identified by a red junk logo .	null	null	null	null	UNANN	6552883	null	null	null	null
+195	23758	2	9	0	4104052	Membership imposes an obligation to maintain standards of both quality and service , and provides dissatisfied customers with an officially recognized channel for redressing complaints ; the number to call is Tel 2508 1234 .	null	null	null	null	UNANN	6552884	null	null	null	null
+195	23758	3	9	0	4104053	Pick up a copy of HKTA 's `` The Official Dining , Entertainment and Shopping Directory `` in which all member stores are listed .	null	null	null	null	UNANN	6552885	null	null	null	null
+195	23758	1	10	0	4104054	Shipping .	null	null	null	null	UNANN	6552886	null	null	null	null
+195	23758	2	10	0	4104055	Many stores will pack and ship purchases .	null	null	null	null	UNANN	6552887	null	null	null	null
+195	23758	3	10	0	4104056	Ask if automatic free insurance is provided .	null	null	null	null	UNANN	6552888	null	null	null	null
+195	23758	4	10	0	4104057	If the goods are very valuable or fragile , it is a good idea to buy an all - risk insurance for the shipment .	null	null	null	null	UNANN	6552889	null	null	null	null
+195	23758	5	10	0	4104058	Packages sent to the US or to Europe generally take six to eight weeks by surface mail , and one week by airmail .	null	null	null	null	UNANN	6552890	null	null	null	null
+195	23758	1	11	0	4104059	Shopping Areas .	null	null	null	null	UNANN	6552891	null	null	null	null
+195	23758	2	11	0	4104060	Major shopping areas are Tsim Sha Tsui in Kowloon , especially along Nathan Road ; Central on Hong Kong Island , particularly for upscale designer goods ; Causeway Bay for slightly better prices ; and the Hollywood Road area .	null	null	null	null	UNANN	6552892	null	null	null	null
+195	23758	1	12	0	4104061	Department Stores .	null	null	null	null	UNANN	6552893	null	null	null	null
+195	23758	2	12	0	4104062	Look for Lane Crawford Ltd. , an upscale store with branches at Pacific Place , 70 Queen 's Road , and Harbour City ; Wing On , one of the oldest in Hong Kong ; Marks and Spencer ; and the Japanese department stores , Mitsukoshi , Sobo , and Seibu .	null	null	null	null	UNANN	6552894	null	null	null	null
+195	23758	1	13	0	4104063	Malls .	null	null	null	null	UNANN	6552895	null	null	null	null
+195	23758	2	13	0	4104064	Hong Kong is full of giant malls .	null	null	null	null	UNANN	6552896	null	null	null	null
+195	23758	3	13	0	4104065	Harbour City , just west of the Star Ferry Terminal in Tsim Sha Tsui is one of the largest ; Pacific Place , 88 Queensway , is Central 's biggest mall , with retail outlets and department stores ; Times Square is a collection of retail outlets in Causeway Bay .	null	null	null	null	UNANN	6552897	null	null	null	null
+195	23758	4	13	0	4104066	In addition , most top-line hotels have upscale malls full of designer boutiques .	null	null	null	null	UNANN	6552898	null	null	null	null
+195	23758	1	14	0	4104067	Factory Outlets .	null	null	null	null	UNANN	6552899	null	null	null	null
+195	23758	2	14	0	4104068	These stores sell excess stock or factory overruns .	null	null	null	null	UNANN	6552900	null	null	null	null
+195	23758	3	14	0	4104069	Hong Kong is no longer a factory outlet center since much of its clothing manufacturing has moved elsewhere .	null	null	null	null	UNANN	6552901	null	null	null	null
+195	23758	4	14	0	4104070	There are factory showrooms in the Pedder Building , 12 Pedder Street , in Central .	null	null	null	null	UNANN	6552902	null	null	null	null
+195	23758	1	15	0	4104071	Markets .	null	null	null	null	UNANN	6552903	null	null	null	null
+195	23758	2	15	0	4104072	Markets are the places to use your bargaining skills .	null	null	null	null	UNANN	6552904	null	null	null	null
+195	23758	2	15	0	4104072	Markets are the places to use your bargaining skills .	2742	skill.n	136	Expertise	MANUAL	6602109	46	51	CVa	skills
+195	23758	3	15	0	4104073	Hong Kong 's most famous and colorful market is the Temple Street Night Market near the Jordan MTR stop .	null	null	null	null	UNANN	6552905	null	null	null	null
+195	23758	4	15	0	4104074	Every conceivable kind of goods is sold here : clothing , all kinds of electronics , CDs , souvenirs , crafts , and jewelry .	null	null	null	null	UNANN	6552906	null	null	null	null
+195	23758	1	16	0	4104075	Stanley Market is located on Hong Kong 's southern coast , and is well-known for all kinds of clothing , including silk and cashmere .	null	null	null	null	UNANN	6552907	null	null	null	null
+195	23758	2	16	0	4104076	Bargain , and carefully examine any merchandise you buy here .	null	null	null	null	UNANN	6552908	null	null	null	null
+195	23758	1	17	0	4104077	The Jade Market , on Kansu Street in Yau Ma Tei , is known for both jade and freshwater pearls .	null	null	null	null	UNANN	6552909	null	null	null	null
+195	23758	2	17	0	4104078	This is not the place to make expensive purchases , but it 's great for inexpensive pendants , earrings , and gifts .	null	null	null	null	UNANN	6552910	null	null	null	null
+195	23758	1	18	0	4104079	What to Buy	null	null	null	null	UNANN	6552911	null	null	null	null
+195	23758	1	19	0	4104080	Antiques .	null	null	null	null	UNANN	6552912	null	null	null	null
+195	23758	2	19	0	4104081	Hollywood Road in the Mid-Levels above Central is the most famous antiques street in Hong Kong .	null	null	null	null	UNANN	6552913	null	null	null	null
+195	23758	3	19	0	4104082	Look for fine Chinese bronzes , embroidery , lacquerware and porcelain , tomb figures , and wood carvings , among other possibilities .	null	null	null	null	UNANN	6552914	null	null	null	null
+195	23758	4	19	0	4104083	The experts point out that it is not age alone that determines a Chinese antique’s value?—?the dynasties of the past had their creative ups and downs .	null	null	null	null	UNANN	6552915	null	null	null	null
+195	23758	5	19	0	4104084	For serious antiques , try Honeychurch Antiques at no. 29 for furniture and silver , Tai Sing Company at 122 for porcelain .	null	null	null	null	UNANN	6552916	null	null	null	null
+195	23758	6	19	0	4104085	For fun you can visit the Low Price Shop at no. 47 or the Cat Street crafts stores and flea market .	null	null	null	null	UNANN	6552917	null	null	null	null
+195	23758	1	20	0	4104086	Brocades and Silks .	null	null	null	null	UNANN	6552918	null	null	null	null
+195	23758	2	20	0	4104087	Fabrics from China are a bargain and well worth taking home .	null	null	null	null	UNANN	6552919	null	null	null	null
+195	23758	3	20	0	4104088	Chinese - product department stores stock silk fabrics , silk scarves , finely embroidered blouses , and traditional padded jackets .	null	null	null	null	UNANN	6552920	null	null	null	null
+195	23758	4	20	0	4104089	Chinese Arts and Crafts is at Pacific Place in Central , and in Star House in Tsim Sha Tsui ; CRC Department Store is on Hennessy Road in Causeway Bay .	null	null	null	null	UNANN	6552921	null	null	null	null
+195	23758	5	20	0	4104090	For fabrics , also try Western Market , Morrison Street , in Central .	null	null	null	null	UNANN	6552922	null	null	null	null
+195	23758	1	21	0	4104091	Cameras .	null	null	null	null	UNANN	6552923	null	null	null	null
+195	23758	2	21	0	4104092	Photo buffs know that Hong Kong is the place to buy some of the world’s most advanced photographic equipment , and there are some real bargains around .	null	null	null	null	UNANN	6552924	null	null	null	null
+195	23758	3	21	0	4104093	However , be sure you compare prices and models before buying .	null	null	null	null	UNANN	6552925	null	null	null	null
+195	23758	4	21	0	4104094	Two reliable places to start looking in Lan Kwai Fong are Photo Scientific in the Eurasia Building and Hing Lee Camera Company , 25 Lyndhurst Terrace .	null	null	null	null	UNANN	6552926	null	null	null	null
+195	23758	1	22	0	4104095	Carpets and Rugs .	null	null	null	null	UNANN	6552927	null	null	null	null
+195	23758	2	22	0	4104096	Hong Kong is a mecca for Chinese hand - knotted wool carpets and silk rugs .	null	null	null	null	UNANN	6552928	null	null	null	null
+195	23758	3	22	0	4104097	Hong Kong 's stores are usually able to arrange shipment .	null	null	null	null	UNANN	6552929	null	null	null	null
+195	23758	4	22	0	4104098	Caravan at 65 Hollywood Road and the shops in The Silk Road at Ocean Center in Tsim Sha Tsui are good places to start looking .	null	null	null	null	UNANN	6552930	null	null	null	null
+195	23758	1	23	0	4104099	China ( Porcelain ) .	null	null	null	null	UNANN	6552931	null	null	null	null
+195	23758	2	23	0	4104100	In Hong Kong you can have a plate , or even a whole dinner service , hand - painted to your own design .	null	null	null	null	UNANN	6552932	null	null	null	null
+195	23758	3	23	0	4104101	Factories in Kowloon and the New Territories , producing traditional and modern china , are geared to entertain and instruct visiting tourists ; prices are appealing .	null	null	null	null	UNANN	6552933	null	null	null	null
+195	23758	4	23	0	4104102	Two of the largest places to go are the Wah Tung China Company in the Grand Marine Industrial Building in Aberdeen ; and the Overjoy Porcelain Factory in Block B of the Kwai Hing Industrial Building , Kwai Chung , in the New Territories .	null	null	null	null	UNANN	6552934	null	null	null	null
+195	23758	5	23	0	4104103	In antiques shops , look for highly valued porcelains from China .	null	null	null	null	UNANN	6552935	null	null	null	null
+195	23758	6	23	0	4104104	Note that because of the duty - free situation , good bargains may be found in European china , including Spode and Wedgwood .	null	null	null	null	UNANN	6552936	null	null	null	null
+195	23758	1	24	0	4104105	Electronics .	null	null	null	null	UNANN	6552937	null	null	null	null
+195	23758	2	24	0	4104106	The latest gadgets are sometimes available in Hong Kong before anywhere else .	null	null	null	null	UNANN	6552938	null	null	null	null
+195	23758	3	24	0	4104107	Before you begin shopping , pick up HKTA’s `` Shopping Guide to Consumer Electronics . ''	null	null	null	null	UNANN	6552939	null	null	null	null
+195	23758	4	24	0	4104108	Prices on electronics have risen in the past two years ; check prices at home before you buy here .	null	null	null	null	UNANN	6552940	null	null	null	null
+195	23758	5	24	0	4104109	Nathan Road has many electronics shops .	null	null	null	null	UNANN	6552941	null	null	null	null
+195	23758	6	24	0	4104110	Also check out Star Computer City in the Star House near the Star Ferry terminal .	null	null	null	null	UNANN	6552942	null	null	null	null
+195	23758	1	25	0	4104111	Furniture .	null	null	null	null	UNANN	6552943	null	null	null	null
+195	23758	2	25	0	4104112	The choice ranges from traditional hand - carved Chinese rosewood furniture to well - made reproductions of modern Western styles .	null	null	null	null	UNANN	6552944	null	null	null	null
+195	23758	3	25	0	4104113	Rattan furniture is highly popular .	null	null	null	null	UNANN	6552945	null	null	null	null
+195	23758	4	25	0	4104114	Hollywood Road has several furniture shops .	null	null	null	null	UNANN	6552946	null	null	null	null
+195	23758	5	25	0	4104115	Queen 's Road East in Wan Chai is a furniture manufacturing and retail area .	null	null	null	null	UNANN	6552947	null	null	null	null
+195	23758	1	26	0	4104116	Jade .	null	null	null	null	UNANN	6552948	null	null	null	null
+195	23758	2	26	0	4104117	`` Good for the health '' is just one of the many magical qualities that are attributed to these beautiful emerald-green or turquoise stones .	null	null	null	null	UNANN	6552949	null	null	null	null
+195	23758	3	26	0	4104118	Real jade is extremely expensive , and you may be offered counterfeit jade , which looks exactly like the genuine article .	null	null	null	null	UNANN	6552950	null	null	null	null
+195	23758	4	26	0	4104119	Some people say you can test the authenticity by touch?—?real jade feels smooth and cool .	null	null	null	null	UNANN	6552951	null	null	null	null
+195	23758	4	26	0	4104119	Some people say you can test the authenticity by touch?—?real jade feels smooth and cool .	11462	test.v	1301	Operational_testing	MANUAL	6602123	24	27	CVa	test
+195	23758	5	26	0	4104120	Alternatively , you can shine a lamp on the stone?—?real jade shows no reflected light .	null	null	null	null	UNANN	6552952	null	null	null	null
+195	23758	6	26	0	4104121	Better still , go shopping with an expert .	null	null	null	null	UNANN	6552953	null	null	null	null
+195	23758	1	27	0	4104122	Jewelry .	null	null	null	null	UNANN	6552954	null	null	null	null
+195	23758	2	27	0	4104123	Thanks to the duty - free situation , prices in Hong Kong are lower than they are in some other places .	null	null	null	null	UNANN	6552955	null	null	null	null
+195	23758	3	27	0	4104124	You can buy gemstones loose or set , or have them made up to your own design .	null	null	null	null	UNANN	6552956	null	null	null	null
+195	23758	4	27	0	4104125	Popular purchases include diamonds and freshwater pearls .	null	null	null	null	UNANN	6552957	null	null	null	null
+195	23758	5	27	0	4104126	If you do plan to buy jewelry , be sure to consult the `` Shopping Guide to Jewellery '' published by the Hong Kong Tourist Authority to find a reputable dealer .	null	null	null	null	UNANN	6552958	null	null	null	null
+195	23758	1	28	0	4104127	Kitchen Equipment .	null	null	null	null	UNANN	6552959	null	null	null	null
+195	23758	2	28	0	4104128	Woks and any other gadgets essential for Chinese cookery make good purchases .	null	null	null	null	UNANN	6552960	null	null	null	null
+195	23758	3	28	0	4104129	Department stores sell all sorts of intriguing kitchen equipment .	null	null	null	null	UNANN	6552961	null	null	null	null
+195	23758	1	29	0	4104130	Leather Goods .	null	null	null	null	UNANN	6552962	null	null	null	null
+195	23758	2	29	0	4104131	Leather is not a great bargain in Hong Kong .	null	null	null	null	UNANN	6552963	null	null	null	null
+195	23758	3	29	0	4104132	Locally made items do not live up to their European models .	null	null	null	null	UNANN	6552964	null	null	null	null
+195	23758	4	29	0	4104133	However , the leather garment industry is growing , and there is a wide range of locally produced leather accessories , all at extremely attractive prices .	null	null	null	null	UNANN	6552965	null	null	null	null
+195	23758	5	29	0	4104134	For European imports , you will pay top dollar .	null	null	null	null	UNANN	6552966	null	null	null	null
+195	23758	1	30	0	4104135	Musical , Audio , and Video Equipment .	null	null	null	null	UNANN	6552967	null	null	null	null
+195	23758	2	30	0	4104136	Hong Kong has a vast range of the most high-tech audio-visual , sound , and screen equipment .	null	null	null	null	UNANN	6552968	null	null	null	null
+195	23758	2	30	0	4104136	Hong Kong has a vast range of the most high-tech audio-visual , sound , and screen equipment .	10906	sound.n	850	Sounds	MANUAL	6602111	64	68	CVa	sound
+195	23758	3	30	0	4104137	Before purchasing , visitors should make sure of compatibility with systems in their own countries .	null	null	null	null	UNANN	6552969	null	null	null	null
+195	23758	4	30	0	4104138	Be sure to look around and compare before buying .	null	null	null	null	UNANN	6552970	null	null	null	null
+195	23758	5	30	0	4104139	Whatever you buy , you may be able to work out a discount .	null	null	null	null	UNANN	6552971	null	null	null	null
+195	23758	1	31	0	4104140	Ready - to - wear Clothes .	null	null	null	null	UNANN	6552972	null	null	null	null
+195	23758	2	31	0	4104141	Hong Kong 's shops carry almost every recognizable European and many American labels , from top-end designers to the moderately priced or trendy .	null	null	null	null	UNANN	6552973	null	null	null	null
+195	23758	3	31	0	4104142	Nathan Road , Central , and the hotel malls are places to look .	null	null	null	null	UNANN	6552974	null	null	null	null
+195	23758	4	31	0	4104143	There are still a great many factory outlet stores with reasonable prices .	null	null	null	null	UNANN	6552975	null	null	null	null
+195	23758	5	31	0	4104144	You’ll also find bargain clothes for sale at the markets and on push-carts .	null	null	null	null	UNANN	6552976	null	null	null	null
+195	23758	1	32	0	4104145	Tailoring .	null	null	null	null	UNANN	6552977	null	null	null	null
+195	23758	2	32	0	4104146	Tailor - made clothes are not as popular in Hong Kong as they were in the past , but hundreds of shops still remain .	null	null	null	null	UNANN	6552978	null	null	null	null
+195	23758	3	32	0	4104147	Local tailors are experts when it comes to producing custom - tailored garments for both men and women , and are also adept at copying patterns .	null	null	null	null	UNANN	6552979	null	null	null	null
+195	23758	4	32	0	4104148	The result can be a quality suit at a fair price?—?but made - to - measure clothing is not cheap .	null	null	null	null	UNANN	6552980	null	null	null	null
+195	23758	5	32	0	4104149	In choosing a tailor , look for HKTA membership .	null	null	null	null	UNANN	6552981	null	null	null	null
+195	23758	6	32	0	4104150	Many tailors have Web sites or are listed on Web sites .	null	null	null	null	UNANN	6552982	null	null	null	null
+195	23758	1	33	0	4104151	Tea .	null	null	null	null	UNANN	6552983	null	null	null	null
+195	23758	2	33	0	4104152	Shops all over town will sell you gift tins of exotic blends .	null	null	null	null	UNANN	6552984	null	null	null	null
+195	23758	3	33	0	4104153	If you want to learn something about tea , go to the Tea Shop at 149 Hollywood Road , or the Moon Garden Tea House at 5 Hoi Ping Road , Causeway Bay .	null	null	null	null	UNANN	6552985	null	null	null	null
+195	23758	4	33	0	4104154	The owners will brew up a pot so you can taste before making a choice .	null	null	null	null	UNANN	6552986	null	null	null	null
+195	23758	1	34	0	4104155	Watches .	null	null	null	null	UNANN	6552987	null	null	null	null
+195	23758	2	34	0	4104156	The saying `` Time is money '' is quite literally true in Hong Kong : more is spent on watches and clocks here than on cameras and optical goods .	null	null	null	null	UNANN	6552988	null	null	null	null
+195	23758	3	34	0	4104157	An enormous variety of makes and models are on sale .	null	null	null	null	UNANN	6552989	null	null	null	null
+195	23758	4	34	0	4104158	Be sure to get the manufacturer’s guarantee stamped or signed if you buy a watch .	null	null	null	null	UNANN	6552990	null	null	null	null
+195	23758	1	35	0	4104159	Entertainment	null	null	null	null	UNANN	6552991	null	null	null	null
+195	23758	1	36	0	4104160	Day and night , the action goes on in this vibrant city .	null	null	null	null	UNANN	6552992	null	null	null	null
+195	23758	2	36	0	4104161	To help you choose a nightlife scene , pick up a copy of Hong Kong Tourist Authority’s dining and entertainment guide for listings , or just simply wander through the maze of neon signs and take your pick .	null	null	null	null	UNANN	6552993	null	null	null	null
+195	23758	3	36	0	4104162	Hong Kong Diary published weekly by HKTA tells what 's happening in the arts .	null	null	null	null	UNANN	6552994	null	null	null	null
+195	23758	4	36	0	4104163	Hong Kong Life is published by the Hong Kong Standard on Sunday , and the South China Morning Post has an entertainment section on Friday .	null	null	null	null	UNANN	6552995	null	null	null	null
+195	23758	5	36	0	4104164	Culture buffs are well catered to , and there is always a varied program of events , ranging from world-class concerts to local amateur dramatic productions .	null	null	null	null	UNANN	6552996	null	null	null	null
+195	23758	1	37	0	4104165	A highlight of the arts calendar is the annual Hong Kong Arts Festival , a three - week dose of international culture in February , with concerts , recitals , plays , jazz , Chinese opera , and innovative productions put on by leading talent from both East and West .	null	null	null	null	UNANN	6552997	null	null	null	null
+195	23758	2	37	0	4104166	Tickets for the shows must be reserved well in advance .	null	null	null	null	UNANN	6552998	null	null	null	null
+195	23758	3	37	0	4104167	The Festival of Asian Arts takes place every other October , bringing to Hong Kong for two weeks orchestras , dance groups , opera , and drama companies from all over Asia .	null	null	null	null	UNANN	6552999	null	null	null	null
+195	23758	1	38	0	4104168	There are more than 30 cinemas in Hong Kong , and the latest Western releases are shown in some of the larger ones .	null	null	null	null	UNANN	6553000	null	null	null	null
+195	23758	2	38	0	4104169	English - language films have Chinese subtitles .	null	null	null	null	UNANN	6553001	null	null	null	null
+195	23758	3	38	0	4104170	Films with Mandarin dialogue also have Chinese subtitles , for the benefit of Cantonese speakers , and sometimes subtitles in English .	null	null	null	null	UNANN	6553002	null	null	null	null
+195	23758	1	39	0	4104171	The Hong Kong International Film Festival takes place in April .	null	null	null	null	UNANN	6553003	null	null	null	null
+195	23758	2	39	0	4104172	More than 200 films from all over the world are shown at this two - week event .	null	null	null	null	UNANN	6553004	null	null	null	null
+195	23758	3	39	0	4104173	Ask at City Hall center about advance reservations .	null	null	null	null	UNANN	6553005	null	null	null	null
+195	23758	1	40	0	4104174	The Performing Arts	null	null	null	null	UNANN	6553006	null	null	null	null
+195	23758	1	41	0	4104175	Performance Venues .	null	null	null	null	UNANN	6553007	null	null	null	null
+195	23758	2	41	0	4104176	The theaters in the Hong Kong Cultural Center in Tsim Sha Tsui are the main venues for concerts and opera .	null	null	null	null	UNANN	6553008	null	null	null	null
+195	23758	3	41	0	4104177	Other performance centers are the City Hall cultural complex , with exhibition halls and theaters that present concerts , plays , and films ; the Hong Kong Academy for the Performing Arts with two major theaters for dance , drama , and concert performances ; and the Hong Kong Arts Centre in Wan Chai , where both local and visiting groups perform .	null	null	null	null	UNANN	6553009	null	null	null	null
+195	23758	4	41	0	4104178	Other centers for concerts , plays , and entertainment are Sha Tin Town Hall and Tsuen Wan Town Hall in the New Territories .	null	null	null	null	UNANN	6553010	null	null	null	null
+195	23758	5	41	0	4104179	Larger arenas , including the Queen Elizabeth Stadium , the Hong Kong Coliseum , and the Ko Shan Theater in Kowloon play host to various concerts , pop concerts , sporting events , and variety shows .	null	null	null	null	UNANN	6553011	null	null	null	null
+195	23758	1	42	0	4104180	Classical Music .	null	null	null	null	UNANN	6553012	null	null	null	null
+195	23758	2	42	0	4104181	The Hong Kong Chinese Orchestra performs new and traditional works ; a wide assortment of traditional and Chinese instruments are featured .	null	null	null	null	UNANN	6553013	null	null	null	null
+195	23758	3	42	0	4104182	The Hong Kong Philharmonic Orchestra was founded in 1975 .	null	null	null	null	UNANN	6553014	null	null	null	null
+195	23758	4	42	0	4104183	Under its conductor , David Atherton , it offers Western classical works and new works by Chinese composers in a September - to - June season .	null	null	null	null	UNANN	6553015	null	null	null	null
+195	23758	1	43	0	4104184	Chinese Opera .	null	null	null	null	UNANN	6553016	null	null	null	null
+195	23758	2	43	0	4104185	Cantonese opera is alive and well in Hong Kong , and the two other forms , Beijing and Kun , are sometimes presented .	null	null	null	null	UNANN	6553017	null	null	null	null
+195	23758	3	43	0	4104186	To most foreigners , this unique art form is likely to be inscrutable at first exposure , but everyone can appreciate the spectacle and the elaborate , glittering costumes .	null	null	null	null	UNANN	6553018	null	null	null	null
+195	23758	4	43	0	4104187	Although the music may seem strange to the unaccustomed ear , it certainly won’t put you to sleep ; cymbals and drums guarantee your alertness .	null	null	null	null	UNANN	6553019	null	null	null	null
+195	23758	4	43	0	4104187	Although the music may seem strange to the unaccustomed ear , it certainly won’t put you to sleep ; cymbals and drums guarantee your alertness .	4827	sleep.v	264	Sleep	MANUAL	6602110	92	96	CVa	sleep
+195	23758	1	44	0	4104188	Dance .	null	null	null	null	UNANN	6553020	null	null	null	null
+195	23758	2	44	0	4104189	Hong Kong’s three professional dance companies?—?the Hong Kong Ballet Company , the Hong Kong Dance Company , and the newer City Contemporary Dance Company?—?perform regularly , often at the Hong Kong Academy for the Performing Arts .	null	null	null	null	UNANN	6553021	null	null	null	null
+195	23758	1	45	0	4104190	Theater .	null	null	null	null	UNANN	6553022	null	null	null	null
+195	23758	2	45	0	4104191	The two leading local troupes , the Chung Ying Theatre Company and the Hong Kong Repertory Theatre , perform in Cantonese ; there are English - language performances at the Fringe Club theaters , 2 Lower Albert Road , in Central .	null	null	null	null	UNANN	6553023	null	null	null	null
+195	23758	1	46	0	4104192	Puppet Shows .	null	null	null	null	UNANN	6553024	null	null	null	null
+195	23758	2	46	0	4104193	The classic Chinese puppet is the shadow puppet , manipulated behind a screen by three rods , but hand puppet and marionette shows are also on offer , often for free at public parks and playgrounds .	null	null	null	null	UNANN	6553025	null	null	null	null
+195	23758	1	47	0	4104194	Nightlife	null	null	null	null	UNANN	6553026	null	null	null	null
+195	23758	1	48	0	4104195	Hong Kong by night can suit any taste?—?riotous , sedate , raw , or cultured .	null	null	null	null	UNANN	6553027	null	null	null	null
+195	23758	2	48	0	4104196	Note that sometimes there is a cover charge of HK$50 to HK$200 at clubs , which may or may not include a couple of drinks .	null	null	null	null	UNANN	6553028	null	null	null	null
+195	23758	1	49	0	4104197	There are nightclubs in the principal hotels , with bands , dancing , and floor shows .	null	null	null	null	UNANN	6553029	null	null	null	null
+195	23758	2	49	0	4104198	Many restaurants and bars have live music .	null	null	null	null	UNANN	6553030	null	null	null	null
+195	23758	1	50	0	4104199	Jazz fans will find live jazz presented by international artists at the Jazz Club and Bar , 2/F , 34 - 36 D’Agular , Central ; and at the Blue Note in the Kowloon Shangri-La Hotel in Tsim Sha Tsui .	null	null	null	null	UNANN	6553031	null	null	null	null
+195	23758	2	50	0	4104200	The Frin ge Club , 21 Lower Albert Road , Central , is Hong Kong 's best-known alternate entertainment venue , with jazz , rock , and other live music , in addition to a gallery for visual arts .	null	null	null	null	UNANN	6553032	null	null	null	null
+195	23758	1	51	0	4104201	Bars with views and live music include Sky Lounge in the Sheraton Hotel and Towers , Tsim Sha Tsui ; and Cyrano in the Island Shangri-La in Pacific Place .	null	null	null	null	UNANN	6553033	null	null	null	null
+195	23758	2	51	0	4104202	Pubs are numerous .	null	null	null	null	UNANN	6553034	null	null	null	null
+195	23758	3	51	0	4104203	In Tsim Sha Tsui , Ned Kelly’s Last Stand on Ashley Road is an Aussie institution; Delaney’s , 71 - 77 Peking Road , is one of Hong Kong 's enduring Irish pubs .	null	null	null	null	UNANN	6553035	null	null	null	null
+195	23758	1	52	0	4104204	The clubs and bars of Wan Chai , long the center of seedy nightlife , have become almost respectable .	null	null	null	null	UNANN	6553036	null	null	null	null
+195	23758	2	52	0	4104205	Joe Bananas , 23 Luard Road , is a Wan Chai mainstay for all - night partying .	null	null	null	null	UNANN	6553037	null	null	null	null
+195	23758	3	52	0	4104206	Rick’s Cafe , 78 - 82 Jaffe Road , is a long - time disco that’s still popular .	null	null	null	null	UNANN	6553038	null	null	null	null
+195	23758	4	52	0	4104207	A lot of the raunchy action has moved across the harbor to Tsim Sha Tsui East ; this is also where you’ll find pricey hostess clubs , popular with Japanese tourists , but definitely not for those on a budget .	null	null	null	null	UNANN	6553039	null	null	null	null
+195	23758	1	53	0	4104208	Today’s trendy spot is Soho ( South of Hollywood ) around Hollywood Road , Elgin , and Stauton streets .	null	null	null	null	UNANN	6553040	null	null	null	null
+195	23758	2	53	0	4104209	Soho , along with the Lan Kwai Fong area , is popular with chuppies ( Hong Kong yuppies ) and has a lively bar scene .	null	null	null	null	UNANN	6553041	null	null	null	null
+195	23758	3	53	0	4104210	Causeway Bay also has a variety of bars and clubs .	null	null	null	null	UNANN	6553042	null	null	null	null
+195	23758	4	53	0	4104211	TOTT’s , in the Excelsior Hotel , is a restaurant with live music and dancing and a harbor view .	null	null	null	null	UNANN	6553043	null	null	null	null
+195	23758	1	54	0	4104212	Japanese karaoke bars have now become extremely popular with the locals .	null	null	null	null	UNANN	6553044	null	null	null	null
+195	23758	2	54	0	4104213	There are a number of these on Chatham Road South and around Cameron Street in Tsim Sha Tsui .	null	null	null	null	UNANN	6553045	null	null	null	null
+195	23758	1	55	0	4104214	Nightlife tours are offered by a number of companies .	null	null	null	null	UNANN	6553046	null	null	null	null
+195	23758	2	55	0	4104215	The most typical of these are harbor cruises , usually including dinner and dancing on board an air-conditioned floating nightclub .	null	null	null	null	UNANN	6553047	null	null	null	null
+195	23758	3	55	0	4104216	There are evening bus tours that include visits to a restaurant and night spots ; some tours combine a Chinese banquet with a visit to an open-air market and the panorama from Victoria Peak .	null	null	null	null	UNANN	6553048	null	null	null	null
+195	23758	1	56	0	4104217	Sports	null	null	null	null	UNANN	6553049	null	null	null	null
+195	23758	1	57	0	4104218	Participant Sports	null	null	null	null	UNANN	6553050	null	null	null	null
+195	23758	1	58	0	4104219	Beaches .	null	null	null	null	UNANN	6553051	null	null	null	null
+195	23758	2	58	0	4104220	In subtropical Hong Kong you can swim from April to early November .	null	null	null	null	UNANN	6553052	null	null	null	null
+195	23758	2	58	0	4104220	In subtropical Hong Kong you can swim from April to early November .	1245	swim.v	64	Self_motion	MANUAL	6602115	33	36	CVa	swim
+195	23758	3	58	0	4104221	There are more than 40 beaches in Hong Kong that are free to the public .	null	null	null	null	UNANN	6553053	null	null	null	null
+195	23758	4	58	0	4104222	Most have lifeguards on duty from April to October , changing rooms , toilets , and snack stands .	null	null	null	null	UNANN	6553054	null	null	null	null
+195	23758	5	58	0	4104223	On Hong Kong Island , Repulse Bay is the most popular ; others are Shek O on the east coast and Stanley and Deep Water Bay on the south coast .	null	null	null	null	UNANN	6553055	null	null	null	null
+195	23758	6	58	0	4104224	They are very crowded , especially on summer weekends .	null	null	null	null	UNANN	6553056	null	null	null	null
+195	23758	7	58	0	4104225	On the outlying islands , Cheung Chau and Cheung Sha are on Lantau , and Hung Shing Ye and Lo So Shing on Lamma ; inquire about water pollution levels .	null	null	null	null	UNANN	6553057	null	null	null	null
+195	23758	1	59	0	4104226	Golf .	null	null	null	null	UNANN	6553058	null	null	null	null
+195	23758	2	59	0	4104227	The Hong Kong Golf Club ( Tel .	null	null	null	null	UNANN	6553059	null	null	null	null
+195	23758	3	59	0	4104228	2812 7070 ) welcomes visitors to its three 18 - hole courses at Fanling in the New Territories , or the 9 - hole course at Deep Water Bay .	null	null	null	null	UNANN	6553060	null	null	null	null
+195	23758	4	59	0	4104229	The Discovery Bay Golf Club on Lantau island ( Tel .	null	null	null	null	UNANN	6553061	null	null	null	null
+195	23758	5	59	0	4104230	2987 7273 ) has an 18 - hole Robert Trent Jones Jr. course , open to visitors Monday, Tuesday , and Friday .	null	null	null	null	UNANN	6553062	null	null	null	null
+195	23758	6	59	0	4104231	Many Hong Kong residents and visitors take the express train to Guangzhou to play at the Guangzhou Luhu Golf and Country Club ( Tel .	null	null	null	null	UNANN	6553063	null	null	null	null
+195	23758	7	59	0	4104232	2317 1933 in Hong Kong or 020-8350 7777 ) .	null	null	null	null	UNANN	6553064	null	null	null	null
+195	23758	8	59	0	4104233	The 72 - par course was designed by Dave Thomas .	null	null	null	null	UNANN	6553065	null	null	null	null
+195	23758	1	60	0	4104234	Hiking .	null	null	null	null	UNANN	6553066	null	null	null	null
+195	23758	2	60	0	4104235	In the New Territories the famous MacLehose Trail stretches 97 km ( 60 miles ) from Sai Kung Peninsula to Tuen Mun .	null	null	null	null	UNANN	6553067	null	null	null	null
+195	23758	3	60	0	4104236	The Lantau Trail is a 69 - km ( 43 - mile ) circular trail on Lantau Island that begins and ends at Silvermine Bay .	null	null	null	null	UNANN	6553068	null	null	null	null
+195	23758	4	60	0	4104237	Both trails are divided into smaller segments of varying difficulty .	null	null	null	null	UNANN	6553069	null	null	null	null
+195	23758	5	60	0	4104238	Maps of hiking trails are available at the Government Publications Center , Low Block , Government Offices , 66 Queensway in Central .	null	null	null	null	UNANN	6553070	null	null	null	null
+195	23758	6	60	0	4104239	HKTA also has trail maps and sponsors the Guided Nature Walks , led by rangers , that include hikes in all the different regions of Hong Kong .	null	null	null	null	UNANN	6553071	null	null	null	null
+195	23758	1	61	0	4104240	Jogging .	null	null	null	null	UNANN	6553072	null	null	null	null
+195	23758	2	61	0	4104241	Victoria Park has a jogging track in Causeway Bay .	null	null	null	null	UNANN	6553073	null	null	null	null
+195	23758	1	62	0	4104242	Sailing .	null	null	null	null	UNANN	6553074	null	null	null	null
+195	23758	2	62	0	4104243	Because of the heavy harbor traffic , only sailors licensed by the Hong Kong authorities can run pleasure boats in local waters .	null	null	null	null	UNANN	6553075	null	null	null	null
+195	23758	3	62	0	4104244	Contact the Hong Kong Yacht Club at Tel .	null	null	null	null	UNANN	6553076	null	null	null	null
+195	23758	4	62	0	4104245	2832 2817 for information .	null	null	null	null	UNANN	6553077	null	null	null	null
+195	23758	1	63	0	4104246	Taijiquan ( Tai Chi ) .	null	null	null	null	UNANN	6553078	null	null	null	null
+195	23758	2	63	0	4104247	HKTA offers lessons in these exercises that improve concentration and balance at Garden Plaza , Hong Kong Park , Admiralty ( Tel .	null	null	null	null	UNANN	6553079	null	null	null	null
+195	23758	3	63	0	4104248	2058 1234 ) .	null	null	null	null	UNANN	6553080	null	null	null	null
+195	23758	1	64	0	4104249	Tennis .	null	null	null	null	UNANN	6553081	null	null	null	null
+195	23758	2	64	0	4104250	There are 13 public courts at Victoria Park Tennis Centre (Tel .	null	null	null	null	UNANN	6553082	null	null	null	null
+195	23758	3	64	0	4104251	2570 6168 ) , near Tin Hau Station .	null	null	null	null	UNANN	6553083	null	null	null	null
+195	23758	1	65	0	4104252	Spectator Sports	null	null	null	null	UNANN	6553084	null	null	null	null
+195	23758	1	66	0	4104253	Horseracing .	null	null	null	null	UNANN	6553085	null	null	null	null
+195	23758	2	66	0	4104254	All levels of society share a feverish interest in the Sport of Kings .	null	null	null	null	UNANN	6553086	null	null	null	null
+195	23758	3	66	0	4104255	The racing schedule is September to June , and Hong Kong maintains two tracks?—?the older Happy Valley course on Hong Kong Island and the striking Sha Tin track in the New Territories .	null	null	null	null	UNANN	6553087	null	null	null	null
+195	23758	3	66	0	4104255	The racing schedule is September to June , and Hong Kong maintains two tracks?—?the older Happy Valley course on Hong Kong Island and the striking Sha Tin track in the New Territories .	13707	striking.a	364	Stimulus_focus	MANUAL	6602112	138	145	CVa	striking
+195	23758	4	66	0	4104256	The Hong Kong Tourist Association runs a `` Come Horseracing Tour , '' which includes entry to the Hong Kong Jockey Club visitors ' box and members ' enclosure , and a buffet - style meal .	null	null	null	null	UNANN	6553088	null	null	null	null
+195	23758	1	67	0	4104257	Cricket .	null	null	null	null	UNANN	6553089	null	null	null	null
+195	23758	2	67	0	4104258	The Hong Kong International Cricket Series , held in late September , brings teams from all over the world .	null	null	null	null	UNANN	6553090	null	null	null	null
+195	23758	1	68	0	4104259	Rugby .	null	null	null	null	UNANN	6553091	null	null	null	null
+195	23758	2	68	0	4104260	The Rugby Sevens sees teams come together from all over the world for 15 matches in March or early April .	null	null	null	null	UNANN	6553092	null	null	null	null
+195	23758	1	69	0	4104261	Children’s Hong Kong	null	null	null	null	UNANN	6553093	null	null	null	null
+195	23758	1	70	0	4104262	Hong Kong has many attractions that appeal to children of all ages .	null	null	null	null	UNANN	6553094	null	null	null	null
+195	23758	2	70	0	4104263	Hong Kong 's many beaches are especially fun for children .	null	null	null	null	UNANN	6553095	null	null	null	null
+195	23758	3	70	0	4104264	Children love riding on Hong Kong 's antique trams .	null	null	null	null	UNANN	6553096	null	null	null	null
+195	23758	4	70	0	4104265	A ride on the Peak Tram is sure to provide a thrill , and in the Peak Tower they’ll enjoy the Peak Explorer ride and Ripley’s Believe it or Not !	null	null	null	null	UNANN	6553097	null	null	null	null
+195	23758	1	71	0	4104266	Ocean Park ( see page 32 ) is popular with children of all ages .	null	null	null	null	UNANN	6553098	null	null	null	null
+195	23758	2	71	0	4104267	There 's a special Kid’s World that those under 12 can enter free when accompanied by a paying adult .	null	null	null	null	UNANN	6553099	null	null	null	null
+195	23758	3	71	0	4104268	The more daring can try out the terrifying roller-coaster rides .	null	null	null	null	UNANN	6553100	null	null	null	null
+195	23758	3	71	0	4104268	The more daring can try out the terrifying roller-coaster rides .	6311	terrifying.a	364	Stimulus_focus	MANUAL	6602121	32	41	CVa	terrifying
+195	23758	1	72	0	4104269	Hong Kong 's state-of-the-art interactive museums will interest children of all ages .	null	null	null	null	UNANN	6553101	null	null	null	null
+195	23758	2	72	0	4104270	The Science Museum in Tsim Sha Tsui East allows children to get their hands on over half of its 500 exhibits , while the nearby Space Museum has regular screenings on an enormous Omnimax screen in its Space Theater , making the night sky come vibrantly alive .	null	null	null	null	UNANN	6553102	null	null	null	null
+195	23758	1	73	0	4104271	For children who love boats , riding the Star Ferry or ferry trips to outlying islands will be exciting , and the Dolphin Watch trip ( see page 113 ) is certain to appeal .	null	null	null	null	UNANN	6553103	null	null	null	null
+195	23758	2	73	0	4104272	If you plan to visit during May , the carnival atmosphere of the Cheung Chau Bun Festival , with its high bamboo - and - paper towers covered in sticky buns , will fascinate the young ones .	null	null	null	null	UNANN	6553104	null	null	null	null

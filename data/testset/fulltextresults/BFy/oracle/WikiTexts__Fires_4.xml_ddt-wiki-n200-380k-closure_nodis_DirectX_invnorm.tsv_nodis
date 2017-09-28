@@ -1,0 +1,16 @@
+filename	WikiTexts__Fires_4.xml
+docAnnotations	102
+docManual	82
+docUnannotated	20
+sentences	18
+paragraphs	18
+Overlapping	74
+Disambiguated	44
+TP	22
+TN	20
+FP	0
+FN	38
+P	1.0
+R	0.36666666666666664
+F	0.5365853658536585
+A	0.525

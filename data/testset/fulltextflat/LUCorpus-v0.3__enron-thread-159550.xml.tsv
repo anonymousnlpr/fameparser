@@ -1,0 +1,309 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+205	23724	1	1	0	4101621	Subject : City of Pasadena	null	null	null	null	UNANN	6545379	null	null	null	null
+205	23724	1	2	0	4101622	X-From : Parker , Megan MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN =MPARKER4&gt;	null	null	null	null	UNANN	6545380	null	null	null	null
+205	23724	1	3	0	4101623	X-To : Ward , Kim S ( Houston ) MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN = Kward &gt;	null	null	null	null	UNANN	6545381	null	null	null	null
+205	23724	1	4	0	4101624	Wed , 28 Nov 2001 08:38:25 -0600	null	null	null	null	UNANN	6545382	null	null	null	null
+205	23724	1	5	0	4101625	Kim :	null	null	null	null	UNANN	6545383	null	null	null	null
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	null	null	null	null	UNANN	6545384	null	null	null	null
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	11352	complete.v	165	Activity_finish	MANUAL	6548431	7	15	KmG	completed
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	4647	May.n	229	Calendric_unit	MANUAL	6548432	41	43	JKs	May
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	4648	June.n	229	Calendric_unit	MANUAL	6548433	49	52	JKs	June
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	4068	month.n	229	Calendric_unit	MANUAL	6548434	79	83	JKs	month
+205	23724	1	6	0	4101626	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	8507	total.n	602	Amounting_to	MANUAL	6548435	91	95	JKs	total
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	null	null	null	null	UNANN	6545385	null	null	null	null
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	12449	wait.v	1561	Waiting	MANUAL	6548436	5	11	JKs	waiting
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	4647	May.n	229	Calendric_unit	MANUAL	6548437	40	42	JKs	May
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	4648	June.n	229	Calendric_unit	MANUAL	6548438	48	51	JKs	June
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	13941	make	1230	Verification	MANUAL	6548439	56	59	EGp	make
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	13941	make	1230	Verification	MANUAL	6548439	61	64	EGp	sure
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	6293	okay.a	354	Desirability	MANUAL	6548442	75	78	JKs	okay
+205	23724	2	6	0	4101627	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	541	hear.v	37	Hearsay	MANUAL	6548443	16	19	JKs	hear
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	null	null	null	null	UNANN	6545386	null	null	null	null
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	6412	want.v	366	Desiring	MANUAL	6548444	7	10	JKs	want
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	3083	pay.v	180	Commerce_pay	MANUAL	6548445	18	20	JKs	pay
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	3999	Friday.n	229	Calendric_unit	MANUAL	6548446	34	39	JKs	Friday
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	4068	month.n	229	Calendric_unit	MANUAL	6548447	51	56	JKs	months
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	6412	want.v	366	Desiring	MANUAL	6548448	68	71	JKs	want
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	12502	hold	1576	Holding_off_on	MANUAL	6548449	79	82	EGp	hold
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	12502	hold	1576	Holding_off_on	MANUAL	6548449	84	86	EGp	off
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	4483	finish.v	165	Activity_finish	MANUAL	6548450	96	101	JKs	finish
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	4649	July.n	229	Calendric_unit	MANUAL	6548451	103	106	JKs	July
+205	23724	3	6	0	4101628	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	4650	August.n	229	Calendric_unit	MANUAL	6548452	112	117	JKs	August
+205	23724	4	6	0	4101629	Again , I do not have all of the information for July and August , so I can not give you any numbers .	null	null	null	null	UNANN	6545387	null	null	null	null
+205	23724	4	6	0	4101629	Again , I do not have all of the information for July and August , so I can not give you any numbers .	2378	have.v	118	Possession	MANUAL	6548453	17	20	JKs	have
+205	23724	4	6	0	4101629	Again , I do not have all of the information for July and August , so I can not give you any numbers .	12537	information.n	1591	Information	MANUAL	6548454	33	43	JKs	information
+205	23724	4	6	0	4101629	Again , I do not have all of the information for July and August , so I can not give you any numbers .	4649	July.n	229	Calendric_unit	MANUAL	6548455	49	52	JKs	July
+205	23724	4	6	0	4101629	Again , I do not have all of the information for July and August , so I can not give you any numbers .	4650	August.n	229	Calendric_unit	MANUAL	6548456	58	63	JKs	August
+205	23724	4	6	0	4101629	Again , I do not have all of the information for July and August , so I can not give you any numbers .	4344	give.v	139	Giving	MANUAL	6548457	80	83	JKs	give
+205	23724	4	6	0	4101629	Again , I do not have all of the information for July and August , so I can not give you any numbers .	3338	number.n	189	Quantified_mass	MANUAL	6548458	93	99	JKs	numbers
+205	23724	4	6	0	4101629	Again , I do not have all of the information for July and August , so I can not give you any numbers .	13745	any.a	189	Quantified_mass	MANUAL	6548540	89	91	JKs	any
+205	23724	5	6	0	4101630	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	null	null	null	null	UNANN	6545388	null	null	null	null
+205	23724	5	6	0	4101630	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	14085	currently.adv	1895	Temporal_collocation	MANUAL	6548541	19	27	JKs	currently
+205	23724	5	6	0	4101630	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	12637	system.n	1610	System	MANUAL	6548542	36	41	JKs	system
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	null	null	null	null	UNANN	6545389	null	null	null	null
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	11791	need.v	1375	Needing	MANUAL	6548460	2	5	JKs	need
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	7749	forecast.v	425	Predicting	MANUAL	6548461	10	17	JKs	forecast
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	13361	money.n	1761	Money	MANUAL	6548462	23	27	JKs	money
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	160	know.v	19	Awareness	MANUAL	6548465	54	57	JKs	know
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	877	like.v	48	Experiencer_focus	MANUAL	6548466	74	77	JKs	like
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	4054	today.n	229	Calendric_unit	MANUAL	6548468	29	33	JKs	today
+205	23724	6	6	0	4101631	I need to forecast the money today , so please let me know what you would like to do .	10612	do.v	198	Intentionally_act	MANUAL	6548543	82	83	JKs	do
+205	23724	1	7	0	4101632	FYI-I will be out of the office all next week .	null	null	null	null	UNANN	6545390	null	null	null	null
+205	23724	1	7	0	4101632	FYI-I will be out of the office all next week .	12672	out.prep	1619	Expected_location_of_person	MANUAL	6548470	14	16	JKs	out
+205	23724	1	7	0	4101632	FYI-I will be out of the office all next week .	3196	office.n	188	Building_subparts	MANUAL	6548471	25	30	JKs	office
+205	23724	1	7	0	4101632	FYI-I will be out of the office all next week .	3947	week.n	229	Calendric_unit	MANUAL	6548472	41	44	JKs	week
+205	23724	1	8	0	4101633	Megan	null	null	null	null	UNANN	6545391	null	null	null	null
+205	23724	1	9	0	4101634	Subject : RE : City of Pasadena	null	null	null	null	UNANN	6545392	null	null	null	null
+205	23724	1	10	0	4101635	X-From : Ward , Kim S ( Houston ) MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN = KWARD &gt;	null	null	null	null	UNANN	6545393	null	null	null	null
+205	23724	1	11	0	4101636	X-To : Parker , Megan MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN =Mparker4&gt;	null	null	null	null	UNANN	6545394	null	null	null	null
+205	23724	1	12	0	4101637	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	null	null	null	null	UNANN	6545395	null	null	null	null
+205	23724	1	12	0	4101637	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	8945	thank.v	711	Judgment_direct_address	MANUAL	6548473	0	5	JKs	Thanks
+205	23724	1	12	0	4101637	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	14000	work.v	1892	Work	MANUAL	6548474	23	29	JKs	working
+205	23724	1	12	0	4101637	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	10038	fast.a	966	Speed_description	MANUAL	6548475	43	46	JKs	fast
+205	23724	2	12	0	4101638	However , as you know , the less cash outlay that we have right now the better .	null	null	null	null	UNANN	6545396	null	null	null	null
+205	23724	2	12	0	4101638	However , as you know , the less cash outlay that we have right now the better .	160	know.v	19	Awareness	MANUAL	6548476	17	20	JKs	know
+205	23724	2	12	0	4101638	However , as you know , the less cash outlay that we have right now the better .	13362	cash.n	1761	Money	MANUAL	6548477	33	36	JKs	cash
+205	23724	2	12	0	4101638	However , as you know , the less cash outlay that we have right now the better .	2378	have.v	118	Possession	MANUAL	6548478	53	56	JKs	have
+205	23724	2	12	0	4101638	However , as you know , the less cash outlay that we have right now the better .	14083	now.adv	1895	Temporal_collocation	MANUAL	6548544	64	66	JKs	now
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	null	null	null	null	UNANN	6545397	null	null	null	null
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	2465	try.v	116	Attempt	MANUAL	6548479	14	16	JKs	try
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	3381	amount.n	189	Quantified_mass	MANUAL	6548481	32	37	JKs	amount
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	751	say.v	43	Statement	MANUAL	6548482	80	82	JKs	say
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	4649	July.n	229	Calendric_unit	MANUAL	6548484	103	106	JKs	July
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	4650	August.n	229	Calendric_unit	MANUAL	6548485	112	117	JKs	August
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	12503	wait.v	1576	Holding_off_on	MANUAL	6548546	84	87	JKs	wait
+205	23724	3	12	0	4101639	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	5506	done.a	182	Activity_done_state	MANUAL	6548547	119	122	JKs	done
+205	23724	4	12	0	4101640	What do you think the time frame is on this ?	null	null	null	null	UNANN	6545398	null	null	null	null
+205	23724	4	12	0	4101640	What do you think the time frame is on this ?	11959	think.v	1412	Opinion	MANUAL	6548486	12	16	JKs	think
+205	23724	5	12	0	4101641	And when would be the earliest that we would make the payment ?	null	null	null	null	UNANN	6545399	null	null	null	null
+205	23724	5	12	0	4101641	And when would be the earliest that we would make the payment ?	1747	early.a	81	Relative_time	MANUAL	6548487	22	29	JKs	earliest
+205	23724	5	12	0	4101641	And when would be the earliest that we would make the payment ?	8742	payment.n	180	Commerce_pay	MANUAL	6548488	54	60	JKs	payment
+205	23724	1	13	0	4101642	Thanks,	null	null	null	null	UNANN	6545400	null	null	null	null
+205	23724	1	14	0	4101643	Kim	null	null	null	null	UNANN	6545401	null	null	null	null
+205	23724	1	15	0	4101644	-----Original Message-----	null	null	null	null	UNANN	6545402	null	null	null	null
+205	23724	1	16	0	4101645	From : Parker , Megan	null	null	null	null	UNANN	6545403	null	null	null	null
+205	23724	1	17	0	4101646	Sent : Wednesday, November 28, 2001 8:38 AM	null	null	null	null	UNANN	6545404	null	null	null	null
+205	23724	1	18	0	4101647	To : Ward , Kim S ( Houston )	null	null	null	null	UNANN	6545405	null	null	null	null
+205	23724	1	19	0	4101648	Subject : City of Pasadena	null	null	null	null	UNANN	6545406	null	null	null	null
+205	23724	1	20	0	4101649	Kim :	null	null	null	null	UNANN	6545407	null	null	null	null
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	null	null	null	null	UNANN	6545408	null	null	null	null
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	11352	complete.v	165	Activity_finish	MANUAL	6559155	7	15	AnW	completed
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	4647	May.n	229	Calendric_unit	UNANN	6559156	null	null	null	null
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	4647	May.n	229	Calendric_unit	UNANN	6559156	41	43	AnW	May
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	4648	June.n	229	Calendric_unit	UNANN	6559157	null	null	null	null
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	4648	June.n	229	Calendric_unit	UNANN	6559157	49	52	AnW	June
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	4068	month.n	229	Calendric_unit	UNANN	6559158	null	null	null	null
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	4068	month.n	229	Calendric_unit	UNANN	6559158	79	83	AnW	month
+205	23724	1	21	0	4101650	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	8507	total.n	602	Amounting_to	MANUAL	6559159	91	95	AnW	total
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	null	null	null	null	UNANN	6545409	null	null	null	null
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	12449	wait.v	1561	Waiting	MANUAL	6559160	5	11	AnW	waiting
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	541	hear.v	37	Hearsay	MANUAL	6559161	16	19	AnW	hear
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	4647	May.n	229	Calendric_unit	UNANN	6559165	null	null	null	null
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	4647	May.n	229	Calendric_unit	UNANN	6559165	40	42	AnW	May
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	4648	June.n	229	Calendric_unit	UNANN	6559166	null	null	null	null
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	4648	June.n	229	Calendric_unit	UNANN	6559166	48	51	AnW	June
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	13941	make	1230	Verification	MANUAL	6559167	56	59	EGp	make
+205	23724	2	21	0	4101651	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	13941	make	1230	Verification	MANUAL	6559167	61	64	EGp	sure
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	null	null	null	null	UNANN	6545410	null	null	null	null
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	6412	want.v	366	Desiring	MANUAL	6559168	7	10	AnW	want
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	3083	pay.v	180	Commerce_pay	MANUAL	6559169	18	20	AnW	pay
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	3999	Friday.n	229	Calendric_unit	UNANN	6559170	null	null	null	null
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	3999	Friday.n	229	Calendric_unit	UNANN	6559170	34	39	AnW	Friday
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	4068	month.n	229	Calendric_unit	UNANN	6559171	null	null	null	null
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	4068	month.n	229	Calendric_unit	UNANN	6559171	51	56	AnW	months
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	6412	want.v	366	Desiring	MANUAL	6559172	68	71	AnW	want
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	12502	hold	1576	Holding_off_on	MANUAL	6559173	79	82	EGp	hold
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	12502	hold	1576	Holding_off_on	MANUAL	6559173	84	86	EGp	off
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	14602	until.prep	379	Time_vector	MANUAL	6559174	88	92	AnW	until
+205	23724	3	21	0	4101652	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	4483	finish.v	165	Activity_finish	MANUAL	6559175	96	101	AnW	finish
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	null	null	null	null	UNANN	6545411	null	null	null	null
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	2378	have.v	118	Possession	MANUAL	6559176	17	20	AnW	have
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	13747	all.a	189	Quantified_mass	MANUAL	6559177	22	24	AnW	all
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	12537	information.n	1591	Information	MANUAL	6559178	33	43	AnW	information
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	4649	July.n	229	Calendric_unit	UNANN	6559179	null	null	null	null
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	4649	July.n	229	Calendric_unit	UNANN	6559179	49	52	AnW	July
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	4650	August.n	229	Calendric_unit	UNANN	6559180	null	null	null	null
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	4650	August.n	229	Calendric_unit	UNANN	6559180	58	63	AnW	August
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	13745	any.a	189	Quantified_mass	MANUAL	6559181	89	91	AnW	any
+205	23724	4	21	0	4101653	Again , I do not have all of the information for July and August , so I can not give you any numbers .	15329	so.c	5	Causation	MANUAL	6559187	67	68	AnW	so
+205	23724	5	21	0	4101654	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	null	null	null	null	UNANN	6545412	null	null	null	null
+205	23724	5	21	0	4101654	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	11690	system.n	106	Gizmo	UNANN	6559182	null	null	null	null
+205	23724	5	21	0	4101654	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	11690	system.n	106	Gizmo	UNANN	6559182	36	41	AnW	system
+205	23724	5	21	0	4101654	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	14275	over.prep	1923	Proportional_quantity	MANUAL	6559184	90	93	AnW	over
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	null	null	null	null	UNANN	6545413	null	null	null	null
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	11817	need.v	1381	Required_event	MANUAL	6559186	2	5	AnW	need
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	7749	forecast.v	425	Predicting	MANUAL	6559188	10	17	AnW	forecast
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	14201	today.n	1895	Temporal_collocation	MANUAL	6559191	29	33	AnW	today
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	10612	do.v	198	Intentionally_act	MANUAL	6559192	82	83	AnW	do
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	877	like.v	48	Experiencer_focus	MANUAL	6559193	74	77	AnW	like
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	18759	let	750	Telling	MANUAL	6774316	47	49	MJE	let
+205	23724	6	21	0	4101655	I need to forecast the money today , so please let me know what you would like to do .	18759	let	750	Telling	MANUAL	6774316	54	57	MJE	know
+205	23724	1	22	0	4101656	FYI-I will be out of the office all next week .	null	null	null	null	UNANN	6545414	null	null	null	null
+205	23724	1	23	0	4101657	Megan	null	null	null	null	UNANN	6545415	null	null	null	null
+205	23724	1	24	0	4101658	Subject : RE : City of Pasadena	null	null	null	null	UNANN	6545416	null	null	null	null
+205	23724	1	25	0	4101659	X-From : Ward , Kim S ( Houston ) MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN = KWARD &gt;	null	null	null	null	UNANN	6545417	null	null	null	null
+205	23724	1	26	0	4101660	X-To : Parker , Megan MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN =Mparker4&gt;	null	null	null	null	UNANN	6545418	null	null	null	null
+205	23724	1	27	0	4101661	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	null	null	null	null	UNANN	6545419	null	null	null	null
+205	23724	1	27	0	4101661	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	14601	details.n	1591	Information	MANUAL	6556016	26	32	JKs	details
+205	23724	1	27	0	4101661	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	11658	deal.n	1342	Make_agreement_on_action	MANUAL	6556017	50	53	JKs	deal
+205	23724	1	27	0	4101661	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	2378	have.v	118	Possession	MANUAL	6556020	72	75	JKs	have
+205	23724	1	27	0	4101661	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	13720	access.n	1870	Having_or_lacking_access	MANUAL	6556021	77	82	JKs	access
+205	23724	1	27	0	4101661	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	13745	any.a	189	Quantified_mass	MANUAL	6556022	87	89	JKs	any
+205	23724	1	27	0	4101661	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	12637	system.n	1610	System	MANUAL	6556023	98	104	JKs	systems
+205	23724	2	27	0	4101662	All I know is what fixed priced baseload deals we have .	null	null	null	null	UNANN	6545420	null	null	null	null
+205	23724	2	27	0	4101662	All I know is what fixed priced baseload deals we have .	160	know.v	19	Awareness	MANUAL	6548494	6	9	JKs	know
+205	23724	2	27	0	4101662	All I know is what fixed priced baseload deals we have .	11658	deal.n	1342	Make_agreement_on_action	MANUAL	6548495	41	45	JKs	deals
+205	23724	2	27	0	4101662	All I know is what fixed priced baseload deals we have .	2378	have.v	118	Possession	MANUAL	6548496	50	53	JKs	have
+205	23724	3	27	0	4101663	I have no idea what flows .	null	null	null	null	UNANN	6545421	null	null	null	null
+205	23724	3	27	0	4101663	I have no idea what flows .	2378	have.v	118	Possession	MANUAL	6548497	2	5	JKs	have
+205	23724	3	27	0	4101663	I have no idea what flows .	6016	flow.v	345	Fluidic_motion	MANUAL	6548498	20	24	JKs	flows
+205	23724	4	27	0	4101664	I hope Patti can help you soon .	null	null	null	null	UNANN	6545422	null	null	null	null
+205	23724	4	27	0	4101664	I hope Patti can help you soon .	6604	hope.v	366	Desiring	MANUAL	6548499	2	5	JKs	hope
+205	23724	4	27	0	4101664	I hope Patti can help you soon .	7041	help.v	391	Assistance	MANUAL	6548502	17	20	JKs	help
+205	23724	5	27	0	4101665	Let me know if you do n't hear from her today .	null	null	null	null	UNANN	6545423	null	null	null	null
+205	23724	5	27	0	4101665	Let me know if you do n't hear from her today .	541	hear.v	37	Hearsay	MANUAL	6548504	26	29	JKs	hear
+205	23724	5	27	0	4101665	Let me know if you do n't hear from her today .	4054	today.n	229	Calendric_unit	MANUAL	6548505	40	44	JKs	today
+205	23724	5	27	0	4101665	Let me know if you do n't hear from her today .	18759	let	750	Telling	MANUAL	6774315	0	2	MJE	Let
+205	23724	5	27	0	4101665	Let me know if you do n't hear from her today .	18759	let	750	Telling	MANUAL	6774315	7	10	MJE	know
+205	23724	1	28	0	4101666	Thanks,	null	null	null	null	UNANN	6545424	null	null	null	null
+205	23724	1	29	0	4101667	Kim	null	null	null	null	UNANN	6545425	null	null	null	null
+205	23724	1	30	0	4101668	-----Original Message-----	null	null	null	null	UNANN	6545426	null	null	null	null
+205	23724	1	31	0	4101669	From : Parker , Megan	null	null	null	null	UNANN	6545427	null	null	null	null
+205	23724	1	32	0	4101670	Sent : Wednesday, November 28, 2001 8:56 AM	null	null	null	null	UNANN	6545428	null	null	null	null
+205	23724	1	33	0	4101671	To : Ward , Kim S ( Houston )	null	null	null	null	UNANN	6545429	null	null	null	null
+205	23724	1	34	0	4101672	Subject : RE : City of Pasadena	null	null	null	null	UNANN	6545430	null	null	null	null
+205	23724	1	35	0	4101673	If I can get all of the information today , I can tell you this afternoon .	null	null	null	null	UNANN	6545431	null	null	null	null
+205	23724	1	35	0	4101673	If I can get all of the information today , I can tell you this afternoon .	4343	get.v	179	Getting	MANUAL	6548515	9	11	JKs	get
+205	23724	1	35	0	4101673	If I can get all of the information today , I can tell you this afternoon .	12537	information.n	1591	Information	MANUAL	6548516	24	34	JKs	information
+205	23724	1	35	0	4101673	If I can get all of the information today , I can tell you this afternoon .	4054	today.n	229	Calendric_unit	MANUAL	6548517	36	40	JKs	today
+205	23724	1	35	0	4101673	If I can get all of the information today , I can tell you this afternoon .	9177	tell.v	750	Telling	MANUAL	6548518	50	53	JKs	tell
+205	23724	1	35	0	4101673	If I can get all of the information today , I can tell you this afternoon .	4060	afternoon.n	229	Calendric_unit	MANUAL	6548519	64	72	JKs	afternoon
+205	23724	2	35	0	4101674	It does n't take long to create the calc sheets .	null	null	null	null	UNANN	6545432	null	null	null	null
+205	23724	2	35	0	4101674	It does n't take long to create the calc sheets .	10042	take.v	967	Taking_time	MANUAL	6548520	12	15	JKs	take
+205	23724	2	35	0	4101674	It does n't take long to create the calc sheets .	11320	create.v	319	Creating	MANUAL	6548521	25	30	JKs	create
+205	23724	3	35	0	4101675	I understand from Janine that you or Patti can provide me with the detail that I need .	null	null	null	null	UNANN	6545433	null	null	null	null
+205	23724	3	35	0	4101675	I understand from Janine that you or Patti can provide me with the detail that I need .	10104	understand.v	979	Grasp	MANUAL	6548523	2	11	JKs	understand
+205	23724	3	35	0	4101675	I understand from Janine that you or Patti can provide me with the detail that I need .	11673	provide.v	1346	Supply	MANUAL	6548524	47	53	JKs	provide
+205	23724	3	35	0	4101675	I understand from Janine that you or Patti can provide me with the detail that I need .	11791	need.v	1375	Needing	MANUAL	6548525	81	84	JKs	need
+205	23724	4	35	0	4101676	If necessary , I can come pick it up .	null	null	null	null	UNANN	6545434	null	null	null	null
+205	23724	4	35	0	4101676	If necessary , I can come pick it up .	10705	necessary.a	1157	Being_necessary	MANUAL	6548526	3	11	JKs	necessary
+205	23724	4	35	0	4101676	If necessary , I can come pick it up .	941	come.v	54	Arriving	MANUAL	6548527	21	24	JKs	come
+205	23724	5	35	0	4101677	I have sent Patti a list .	null	null	null	null	UNANN	6545435	null	null	null	null
+205	23724	5	35	0	4101677	I have sent Patti a list .	4491	send.v	243	Sending	MANUAL	6548528	7	10	JKs	sent
+205	23724	5	35	0	4101677	I have sent Patti a list .	13756	list.n	298	Text	MANUAL	6548529	20	23	JKs	list
+205	23724	1	36	0	4101678	For payment , we have to forecast the money two days out .	null	null	null	null	UNANN	6545436	null	null	null	null
+205	23724	1	36	0	4101678	For payment , we have to forecast the money two days out .	8742	payment.n	180	Commerce_pay	MANUAL	6548506	4	10	JKs	payment
+205	23724	1	36	0	4101678	For payment , we have to forecast the money two days out .	7749	forecast.v	425	Predicting	MANUAL	6548508	25	32	JKs	forecast
+205	23724	1	36	0	4101678	For payment , we have to forecast the money two days out .	13361	money.n	1761	Money	MANUAL	6548509	38	42	JKs	money
+205	23724	1	36	0	4101678	For payment , we have to forecast the money two days out .	3946	day.n	229	Calendric_unit	MANUAL	6548510	48	51	JKs	days
+205	23724	2	36	0	4101679	So , if I know today , I can pay on Friday .	null	null	null	null	UNANN	6545437	null	null	null	null
+205	23724	2	36	0	4101679	So , if I know today , I can pay on Friday .	160	know.v	19	Awareness	MANUAL	6548511	10	13	JKs	know
+205	23724	2	36	0	4101679	So , if I know today , I can pay on Friday .	4054	today.n	229	Calendric_unit	MANUAL	6548512	15	19	JKs	today
+205	23724	2	36	0	4101679	So , if I know today , I can pay on Friday .	3083	pay.v	180	Commerce_pay	MANUAL	6548513	29	31	JKs	pay
+205	23724	2	36	0	4101679	So , if I know today , I can pay on Friday .	3999	Friday.n	229	Calendric_unit	MANUAL	6548514	36	41	JKs	Friday
+205	23724	1	37	0	4101680	Megan	null	null	null	null	UNANN	6545438	null	null	null	null
+205	23724	1	38	0	4101681	-----Original Message-----	null	null	null	null	UNANN	6545439	null	null	null	null
+205	23724	1	39	0	4101682	From : Ward , Kim S ( Houston )	null	null	null	null	UNANN	6545440	null	null	null	null
+205	23724	1	40	0	4101683	Sent : Wednesday, November 28, 2001 8:42 AM	null	null	null	null	UNANN	6545441	null	null	null	null
+205	23724	1	41	0	4101684	To : Parker , Megan	null	null	null	null	UNANN	6545442	null	null	null	null
+205	23724	1	42	0	4101685	Subject : RE : City of Pasadena	null	null	null	null	UNANN	6545443	null	null	null	null
+205	23724	1	43	0	4101686	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	null	null	null	null	UNANN	6545444	null	null	null	null
+205	23724	2	43	0	4101687	However , as you know , the less cash outlay that we have right now the better .	null	null	null	null	UNANN	6545445	null	null	null	null
+205	23724	3	43	0	4101688	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	null	null	null	null	UNANN	6545446	null	null	null	null
+205	23724	4	43	0	4101689	What do you think the time frame is on this ?	null	null	null	null	UNANN	6545447	null	null	null	null
+205	23724	5	43	0	4101690	And when would be the earliest that we would make the payment ?	null	null	null	null	UNANN	6545448	null	null	null	null
+205	23724	1	44	0	4101691	Thanks,	null	null	null	null	UNANN	6545449	null	null	null	null
+205	23724	1	45	0	4101692	Kim	null	null	null	null	UNANN	6545450	null	null	null	null
+205	23724	1	46	0	4101693	-----Original Message-----	null	null	null	null	UNANN	6545451	null	null	null	null
+205	23724	1	47	0	4101694	From : Parker , Megan	null	null	null	null	UNANN	6545452	null	null	null	null
+205	23724	1	48	0	4101695	Sent : Wednesday, November 28, 2001 8:38 AM	null	null	null	null	UNANN	6545453	null	null	null	null
+205	23724	1	49	0	4101696	To : Ward , Kim S ( Houston )	null	null	null	null	UNANN	6545454	null	null	null	null
+205	23724	1	50	0	4101697	Subject : City of Pasadena	null	null	null	null	UNANN	6545455	null	null	null	null
+205	23724	1	51	0	4101698	Kim :	null	null	null	null	UNANN	6545456	null	null	null	null
+205	23724	1	52	0	4101699	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	null	null	null	null	UNANN	6545457	null	null	null	null
+205	23724	2	52	0	4101700	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	null	null	null	null	UNANN	6545458	null	null	null	null
+205	23724	3	52	0	4101701	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	null	null	null	null	UNANN	6545459	null	null	null	null
+205	23724	4	52	0	4101702	Again , I do not have all of the information for July and August , so I can not give you any numbers .	null	null	null	null	UNANN	6545460	null	null	null	null
+205	23724	5	52	0	4101703	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	null	null	null	null	UNANN	6545461	null	null	null	null
+205	23724	6	52	0	4101704	I need to forecast the money today , so please let me know what you would like to do .	null	null	null	null	UNANN	6545462	null	null	null	null
+205	23724	1	53	0	4101705	FYI-I will be out of the office all next week .	null	null	null	null	UNANN	6545463	null	null	null	null
+205	23724	1	54	0	4101706	Megan	null	null	null	null	UNANN	6545464	null	null	null	null
+205	23724	1	55	0	4101707	Subject : RE : City of Pasadena	null	null	null	null	UNANN	6545465	null	null	null	null
+205	23724	1	56	0	4101708	X-From : Ward , Kim S ( Houston ) MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN = KWARD &gt;	null	null	null	null	UNANN	6545466	null	null	null	null
+205	23724	1	57	0	4101709	X-To : Parker , Megan MYLT/O= ENRON/OU=NA/CN=RECIPIENTS/CN =Mparker4&gt;	null	null	null	null	UNANN	6545467	null	null	null	null
+205	23724	1	58	0	4101710	X-CC:	null	null	null	null	UNANN	6545468	null	null	null	null
+205	23724	1	59	0	4101711	X-BCC :	null	null	null	null	UNANN	6545469	null	null	null	null
+205	23724	1	60	0	4101712	X-Attachment :	null	null	null	null	UNANN	6545470	null	null	null	null
+205	23724	1	61	0	4101713	X- Time: 17:42:33 GMT	null	null	null	null	UNANN	6545471	null	null	null	null
+205	23724	1	62	0	4101714	X-Message-Id : 8b8f71de55d07c4b94cea9ec69a25728a2443d @ nahou-msmbx03v . corp.enron.com	null	null	null	null	UNANN	6545472	null	null	null	null
+205	23724	1	63	0	4101715	thats fine - we ca n't pay them anyway	null	null	null	null	UNANN	6545473	null	null	null	null
+205	23724	1	63	0	4101715	thats fine - we ca n't pay them anyway	6312	fine.a	354	Desirability	MANUAL	6548530	6	9	JKs	fine
+205	23724	1	63	0	4101715	thats fine - we ca n't pay them anyway	3083	pay.v	180	Commerce_pay	MANUAL	6548531	23	25	JKs	pay
+205	23724	1	63	0	4101715	thats fine - we ca n't pay them anyway	10156	can.v	990	Capability	MANUAL	6548548	16	17	JKs	ca
+205	23724	1	64	0	4101716	-----Original Message-----	null	null	null	null	UNANN	6545474	null	null	null	null
+205	23724	1	65	0	4101717	From : Parker , Megan	null	null	null	null	UNANN	6545475	null	null	null	null
+205	23724	1	66	0	4101718	Sent : Wednesday, November 28, 2001 11:38 AM	null	null	null	null	UNANN	6545476	null	null	null	null
+205	23724	1	67	0	4101719	To : Ward , Kim S ( Houston )	null	null	null	null	UNANN	6545477	null	null	null	null
+205	23724	1	68	0	4101720	Subject : RE : City of Pasadena	null	null	null	null	UNANN	6545478	null	null	null	null
+205	23724	1	69	0	4101721	I 'll check with Patti later today .	null	null	null	null	UNANN	6545479	null	null	null	null
+205	23724	1	70	0	4101722	On payment ... We are now having to forecast five days out .	null	null	null	null	UNANN	6545480	null	null	null	null
+205	23724	1	70	0	4101722	On payment ... We are now having to forecast five days out .	8742	payment.n	180	Commerce_pay	MANUAL	6548532	3	9	JKs	payment
+205	23724	1	70	0	4101722	On payment ... We are now having to forecast five days out .	7749	forecast.v	425	Predicting	MANUAL	6548533	36	43	JKs	forecast
+205	23724	1	70	0	4101722	On payment ... We are now having to forecast five days out .	3946	day.n	229	Calendric_unit	MANUAL	6548534	50	53	JKs	days
+205	23724	2	70	0	4101723	If I do n't know today , I can not pay Pasadena until next Thursday .	null	null	null	null	UNANN	6545481	null	null	null	null
+205	23724	2	70	0	4101723	If I do n't know today , I can not pay Pasadena until next Thursday .	160	know.v	19	Awareness	MANUAL	6548535	12	15	JKs	know
+205	23724	2	70	0	4101723	If I do n't know today , I can not pay Pasadena until next Thursday .	4054	today.n	229	Calendric_unit	MANUAL	6548536	17	21	JKs	today
+205	23724	2	70	0	4101723	If I do n't know today , I can not pay Pasadena until next Thursday .	3083	pay.v	180	Commerce_pay	MANUAL	6548537	35	37	JKs	pay
+205	23724	2	70	0	4101723	If I do n't know today , I can not pay Pasadena until next Thursday .	3997	Thursday.n	229	Calendric_unit	MANUAL	6548538	59	66	JKs	Thursday
+205	23724	1	71	0	4101724	Megan	null	null	null	null	UNANN	6545482	null	null	null	null
+205	23724	1	72	0	4101725	-----Original Message-----	null	null	null	null	UNANN	6545483	null	null	null	null
+205	23724	1	73	0	4101726	From : Ward , Kim S ( Houston )	null	null	null	null	UNANN	6545484	null	null	null	null
+205	23724	1	74	0	4101727	Sent : Wednesday, November 28, 2001 9:03 AM	null	null	null	null	UNANN	6545485	null	null	null	null
+205	23724	1	75	0	4101728	To : Parker , Megan	null	null	null	null	UNANN	6545486	null	null	null	null
+205	23724	1	76	0	4101729	Subject : RE : City of Pasadena	null	null	null	null	UNANN	6545487	null	null	null	null
+205	23724	1	77	0	4101730	Patti is the one with the details , I 'm just the deal maker and do n't have access to any of the systems .	null	null	null	null	UNANN	6545488	null	null	null	null
+205	23724	2	77	0	4101731	All I know is what fixed priced baseload deals we have .	null	null	null	null	UNANN	6545489	null	null	null	null
+205	23724	3	77	0	4101732	I have no idea what flows .	null	null	null	null	UNANN	6545490	null	null	null	null
+205	23724	4	77	0	4101733	I hope Patti can help you soon .	null	null	null	null	UNANN	6545491	null	null	null	null
+205	23724	5	77	0	4101734	Let me know if you do n't hear from her today .	null	null	null	null	UNANN	6545492	null	null	null	null
+205	23724	1	78	0	4101735	Thanks,	null	null	null	null	UNANN	6545493	null	null	null	null
+205	23724	1	79	0	4101736	Kim	null	null	null	null	UNANN	6545494	null	null	null	null
+205	23724	1	80	0	4101737	-----Original Message-----	null	null	null	null	UNANN	6545495	null	null	null	null
+205	23724	1	81	0	4101738	From : Parker , Megan	null	null	null	null	UNANN	6545496	null	null	null	null
+205	23724	1	82	0	4101739	Sent : Wednesday, November 28, 2001 8:56 AM	null	null	null	null	UNANN	6545497	null	null	null	null
+205	23724	1	83	0	4101740	To : Ward , Kim S ( Houston )	null	null	null	null	UNANN	6545498	null	null	null	null
+205	23724	1	84	0	4101741	Subject : RE : City of Pasadena	null	null	null	null	UNANN	6545499	null	null	null	null
+205	23724	1	85	0	4101742	If I can get all of the information today , I can tell you this afternoon .	null	null	null	null	UNANN	6545500	null	null	null	null
+205	23724	2	85	0	4101743	It does n't take long to create the calc sheets .	null	null	null	null	UNANN	6545501	null	null	null	null
+205	23724	3	85	0	4101744	I understand from Janine that you or Patti can provide me with the detail that I need .	null	null	null	null	UNANN	6545502	null	null	null	null
+205	23724	4	85	0	4101745	If necessary , I can come pick it up .	null	null	null	null	UNANN	6545503	null	null	null	null
+205	23724	5	85	0	4101746	I have sent Patti a list .	null	null	null	null	UNANN	6545504	null	null	null	null
+205	23724	1	86	0	4101747	For payment , we have to forecast the money two days out .	null	null	null	null	UNANN	6545505	null	null	null	null
+205	23724	2	86	0	4101748	So , if I know today , I can pay on Friday .	null	null	null	null	UNANN	6545506	null	null	null	null
+205	23724	1	87	0	4101749	Megan	null	null	null	null	UNANN	6545507	null	null	null	null
+205	23724	1	88	0	4101750	-----Original Message-----	null	null	null	null	UNANN	6545508	null	null	null	null
+205	23724	1	89	0	4101751	From : Ward , Kim S ( Houston )	null	null	null	null	UNANN	6545509	null	null	null	null
+205	23724	1	90	0	4101752	Sent : Wednesday, November 28, 2001 8:42 AM	null	null	null	null	UNANN	6545510	null	null	null	null
+205	23724	1	91	0	4101753	To : Parker , Megan	null	null	null	null	UNANN	6545511	null	null	null	null
+205	23724	1	92	0	4101754	Subject : RE : City of Pasadena	null	null	null	null	UNANN	6545512	null	null	null	null
+205	23724	1	93	0	4101755	Thanks you so much for working on these as fast as you have - there was a priority in getting them out .	null	null	null	null	UNANN	6545513	null	null	null	null
+205	23724	2	93	0	4101756	However , as you know , the less cash outlay that we have right now the better .	null	null	null	null	UNANN	6545514	null	null	null	null
+205	23724	3	93	0	4101757	Lets wait and try to offset the amount we owe them with what they owe us - so I say wait until you get July and August done .	null	null	null	null	UNANN	6545515	null	null	null	null
+205	23724	4	93	0	4101758	What do you think the time frame is on this ?	null	null	null	null	UNANN	6545516	null	null	null	null
+205	23724	5	93	0	4101759	And when would be the earliest that we would make the payment ?	null	null	null	null	UNANN	6545517	null	null	null	null
+205	23724	1	94	0	4101760	Thanks,	null	null	null	null	UNANN	6545518	null	null	null	null
+205	23724	1	95	0	4101761	Kim	null	null	null	null	UNANN	6545519	null	null	null	null
+205	23724	1	96	0	4101762	-----Original Message-----	null	null	null	null	UNANN	6545520	null	null	null	null
+205	23724	1	97	0	4101763	From : Parker , Megan	null	null	null	null	UNANN	6545521	null	null	null	null
+205	23724	1	98	0	4101764	Sent : Wednesday, November 28, 2001 8:38 AM	null	null	null	null	UNANN	6545522	null	null	null	null
+205	23724	1	99	0	4101765	To : Ward , Kim S ( Houston )	null	null	null	null	UNANN	6545523	null	null	null	null
+205	23724	1	100	0	4101766	Subject : City of Pasadena	null	null	null	null	UNANN	6545524	null	null	null	null
+205	23724	1	101	0	4101767	Kim :	null	null	null	null	UNANN	6545525	null	null	null	null
+205	23724	1	102	0	4101768	I have completed the invoices for April, May and June and we owe Pasadena each month for a total of $3,615,910.62 .	null	null	null	null	UNANN	6545526	null	null	null	null
+205	23724	2	102	0	4101769	I am waiting to hear back from Patti on May and June to make sure they are okay with her .	null	null	null	null	UNANN	6545527	null	null	null	null
+205	23724	3	102	0	4101770	Do you want me to pay Pasadena on Friday for these months or do you want me to hold off until I finish July and August ?	null	null	null	null	UNANN	6545528	null	null	null	null
+205	23724	4	102	0	4101771	Again , I do not have all of the information for July and August , so I can not give you any numbers .	null	null	null	null	UNANN	6545529	null	null	null	null
+205	23724	5	102	0	4101772	If I go by what is currently in the system as a guide , Pasadena would owe Enron a little over $1 mil .	null	null	null	null	UNANN	6545530	null	null	null	null
+205	23724	6	102	0	4101773	I need to forecast the money today , so please let me know what you would like to do .	null	null	null	null	UNANN	6545531	null	null	null	null
+205	23724	1	103	0	4101774	FYI-I will be out of the office all next week .	null	null	null	null	UNANN	6545532	null	null	null	null
+205	23724	1	104	0	4101775	Megan	null	null	null	null	UNANN	6545533	null	null	null	null

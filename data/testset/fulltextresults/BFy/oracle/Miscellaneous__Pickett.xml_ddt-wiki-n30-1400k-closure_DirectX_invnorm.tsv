@@ -1,0 +1,16 @@
+filename	Miscellaneous__Pickett.xml
+docAnnotations	41
+docManual	34
+docUnannotated	7
+sentences	5
+paragraphs	5
+Overlapping	27
+Disambiguated	16
+TP	8
+TN	7
+FP	0
+FN	18
+P	1.0
+R	0.3076923076923077
+F	0.47058823529411764
+A	0.45454545454545453

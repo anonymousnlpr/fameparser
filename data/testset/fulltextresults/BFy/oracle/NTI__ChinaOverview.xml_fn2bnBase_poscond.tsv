@@ -1,0 +1,1267 @@
+SILVER:135	23671	1	2	0	4100799	China possesses nuclear weapons , a range of ballistic missile capabilities , and the ability to develop chemical and biological weapons .	2418	possess.v	118	Possession	MANUAL	6540497	6	14	KmG	possesses
+LINKED:[1	1	6	14	bn:00091873v		http://babelnet.org/rdf/s00091873v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34678 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	2	0	4100799	China possesses nuclear weapons , a range of ballistic missile capabilities , and the ability to develop chemical and biological weapons .	10636	ballistic	426	Weapon	MANUAL	6540499	45	53	EGp	ballistic
+LINKED:[8	8	45	53	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.3846154	0.026223777	BABELFY]
+RANK:=== COUNTER  Counter 34684 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	2	0	4100799	China possesses nuclear weapons , a range of ballistic missile capabilities , and the ability to develop chemical and biological weapons .	10637	biological	426	Weapon	MANUAL	6540504	118	127	EGp	biological
+LINKED:[19	19	118	127	bn:00098417a		http://babelnet.org/rdf/s00098417a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34698 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	2	0	4100799	China possesses nuclear weapons , a range of ballistic missile capabilities , and the ability to develop chemical and biological weapons .	14048	range.n	1893	Diversity	MANUAL	6543225	36	40	KmG	range
+LINKED:[6	6	36	40	bn:03727912n	http://dbpedia.org/resource/Range_of_a_projectile	http://babelnet.org/rdf/s03727912n	0.79545456	0.3846154	0.030594405	BABELFY]
+RANK:=== COUNTER  Counter 34702 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	2	0	4100800	A key uncertainty is how ongoing military modernization efforts will ultimately reshape China 's strategic nuclear capabilities , but U.S. deployments of missile defenses are likely to be a key variable .	7508	key.a	407	Importance	MANUAL	6540505	2	4	KmG	key
+LINKED:[1	1	2	4	bn:00099258a		http://babelnet.org/rdf/s00099258a	1.0	0.06666667	0.0027173914	BABELFY]
+RANK:=== COUNTER  Counter 34704 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	2	0	4100800	A key uncertainty is how ongoing military modernization efforts will ultimately reshape China 's strategic nuclear capabilities , but U.S. deployments of missile defenses are likely to be a key variable .	2757	uncertainty.n	141	Certainty	MANUAL	6540506	6	16	KmG	uncertainty
+LINKED:[2	2	6	16	bn:00064069n	http://dbpedia.org/resource/Uncertainty	http://babelnet.org/rdf/s00064069n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34706 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	2	0	4100800	A key uncertainty is how ongoing military modernization efforts will ultimately reshape China 's strategic nuclear capabilities , but U.S. deployments of missile defenses are likely to be a key variable .	12390	military.a	1514	Military	MANUAL	6540509	33	40	KmG	military
+LINKED:[6	6	33	40	bn:00106724a		http://babelnet.org/rdf/s00106724a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34708 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	2	0	4100800	A key uncertainty is how ongoing military modernization efforts will ultimately reshape China 's strategic nuclear capabilities , but U.S. deployments of missile defenses are likely to be a key variable .	7508	key.a	407	Importance	MANUAL	6540515	190	192	KmG	key
+LINKED:[29	29	190	192	bn:00099258a		http://babelnet.org/rdf/s00099258a	1.0	0.06666667	0.0027173914	BABELFY]
+RANK:=== COUNTER  Counter 34720 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	2	0	4100800	A key uncertainty is how ongoing military modernization efforts will ultimately reshape China 's strategic nuclear capabilities , but U.S. deployments of missile defenses are likely to be a key variable .	14025	reshape.v	683	Cause_change	MANUAL	6543196	80	86	KmG	reshape
+LINKED:[11	11	80	86	bn:00092884v		http://babelnet.org/rdf/s00092884v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34726 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	2	0	4100800	A key uncertainty is how ongoing military modernization efforts will ultimately reshape China 's strategic nuclear capabilities , but U.S. deployments of missile defenses are likely to be a key variable .	14255	defenses.n	1330	Defending	MANUAL	6543755	162	169	KmG	defenses
+LINKED:[23	23	162	169	bn:00025870n	http://dbpedia.org/resource/Defence_mechanisms	http://babelnet.org/rdf/s00025870n	1.0	0.06666667	0.0013586957	BABELFY]
+RANK:=== COUNTER  Counter 34730 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	2	0	4100800	A key uncertainty is how ongoing military modernization efforts will ultimately reshape China 's strategic nuclear capabilities , but U.S. deployments of missile defenses are likely to be a key variable .	14310	ultimately.adv	1895	Temporal_collocation	MANUAL	6543933	69	78	KmG	ultimately
+LINKED:[10	10	69	78	bn:00114417r		http://babelnet.org/rdf/s00114417r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34732 ===
+	Time_vector: -0.0012755102040816326
+	Temporal_collocation: -0.001736111111111111
+
+SELECTED:[Temporal_collocation]
+MATCH!
+SILVER:135	23671	3	2	0	4100801	Serious concerns remain about China 's proliferation of ballistic missile technology and its ability to control chemical items that could be used in the production of chemical weapons .	10636	ballistic	426	Weapon	MANUAL	6540520	56	64	EGp	ballistic
+LINKED:[8	8	56	64	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.35714287	0.02610966	BABELFY]
+RANK:=== COUNTER  Counter 34738 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	2	0	4100801	Serious concerns remain about China 's proliferation of ballistic missile technology and its ability to control chemical items that could be used in the production of chemical weapons .	11606	chemical.n	1321	Substance	MANUAL	6540525	112	119	KmG	chemical
+LINKED:[16	16	112	119	bn:00099577a		http://babelnet.org/rdf/s00099577a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34746 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	2	0	4100801	Serious concerns remain about China 's proliferation of ballistic missile technology and its ability to control chemical items that could be used in the production of chemical weapons .	13137	item.n	251	Entity	MANUAL	6540526	121	125	KmG	items
+LINKED:[17	17	121	125	bn:00047730n		http://babelnet.org/rdf/s00047730n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34748 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	2	0	4100801	Serious concerns remain about China 's proliferation of ballistic missile technology and its ability to control chemical items that could be used in the production of chemical weapons .	10619	use.v	1141	Using	MANUAL	6540528	141	144	KmG	used
+LINKED:[21	21	141	144	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34750 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	2	0	4100801	Serious concerns remain about China 's proliferation of ballistic missile technology and its ability to control chemical items that could be used in the production of chemical weapons .	14419	remain.v	660	Existence	MANUAL	6544145	17	22	KmG	remain
+LINKED:[2	2	17	22	bn:00092756v		http://babelnet.org/rdf/s00092756v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34758 ===
+	Temporary_stay: -0.027777777777777776
+	Existence: -0.0625
+	Left_to_do: -0.25
+	State_continue: -1.0
+
+SELECTED:[Existence]
+MATCH!
+SILVER:135	23671	4	2	0	4100802	Improved export control laws and enforcement have addressed many ( but not all ) concerns about nuclear and chemical weapons - related proliferation .	12470	export	1568	Exporting	MANUAL	6540531	9	14	KmG	export
+LINKED:[1	1	9	14	bn:00032363n	http://dbpedia.org/resource/Export	http://babelnet.org/rdf/s00032363n	0.75	0.25	0.033333335	BABELFY]
+RANK:=== COUNTER  Counter 34762 ===
+	Import_export: -0.02040816326530612
+	Exporting: -0.25
+
+SELECTED:[Exporting]
+MATCH!
+SILVER:135	23671	4	2	0	4100802	Improved export control laws and enforcement have addressed many ( but not all ) concerns about nuclear and chemical weapons - related proliferation .	10652	nuclear	426	Weapon	MANUAL	6540536	96	102	KmG	nuclear
+LINKED:[16	16	96	102	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34768 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23671	4	2	0	4100802	Improved export control laws and enforcement have addressed many ( but not all ) concerns about nuclear and chemical weapons - related proliferation .	10635	chemical	426	Weapon	MANUAL	6540537	108	115	EGp	chemical
+LINKED:[18	18	108	115	bn:00099577a		http://babelnet.org/rdf/s00099577a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34772 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	4	0	4100804	China 's nuclear weapons program began in 1955 and culminated in a successful nuclear test in 1964 .	10652	nuclear	426	Weapon	MANUAL	6540554	9	15	EGp	nuclear
+LINKED:[2	2	9	15	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34786 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23671	1	4	0	4100804	China 's nuclear weapons program began in 1955 and culminated in a successful nuclear test in 1964 .	10724	program.n	1158	Project	MANUAL	6540555	25	31	KmG	program
+LINKED:[4	4	25	31	bn:00064646n		http://babelnet.org/rdf/s00064646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34790 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	4	0	4100804	China 's nuclear weapons program began in 1955 and culminated in a successful nuclear test in 1964 .	2656	begin.v	133	Process_start	MANUAL	6540557	33	37	KmG	began
+LINKED:[5	5	33	37	bn:00083343v		http://babelnet.org/rdf/s00083343v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34792 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	4	0	4100804	China 's nuclear weapons program began in 1955 and culminated in a successful nuclear test in 1964 .	11837	successful.a	1389	Successful_action	MANUAL	6540645	67	76	MJE	successful
+LINKED:[12	12	67	76	bn:00111409a		http://babelnet.org/rdf/s00111409a	1.0	0.2	0.01532567	BABELFY]
+RANK:=== COUNTER  Counter 34794 ===
+	Success_or_failure: -0.008264462809917356
+	Successful_action: -0.010000000000000002
+
+SELECTED:[Successful_action]
+MATCH!
+SILVER:135	23671	1	4	0	4100804	China 's nuclear weapons program began in 1955 and culminated in a successful nuclear test in 1964 .	12170	nuclear.a	426	Weapon	MANUAL	6540647	78	84	MJE	nuclear
+LINKED:[13	13	78	84	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34798 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23671	2	4	0	4100805	Since then , China has conducted 45 nuclear tests , including tests of thermonuclear weapons and a neutron bomb .	11736	conduct.v	198	Intentionally_act	MANUAL	6540648	23	31	MJE	conducted
+LINKED:[5	5	23	31	bn:00084593v		http://babelnet.org/rdf/s00084593v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34800 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	4	0	4100805	Since then , China has conducted 45 nuclear tests , including tests of thermonuclear weapons and a neutron bomb .	12170	nuclear.a	426	Weapon	MANUAL	6540649	36	42	MJE	nuclear
+LINKED:[7	7	36	42	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34802 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23671	2	4	0	4100805	Since then , China has conducted 45 nuclear tests , including tests of thermonuclear weapons and a neutron bomb .	11463	test.n	1301	Operational_testing	MANUAL	6540650	44	48	MJE	tests
+LINKED:[8	8	44	48	bn:00076647n		http://babelnet.org/rdf/s00076647n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34804 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	4	0	4100805	Since then , China has conducted 45 nuclear tests , including tests of thermonuclear weapons and a neutron bomb .	13340	including.prep	1153	Inclusion	MANUAL	6540651	52	60	MJE	including
+LINKED:[10	10	52	60	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34806 ===
+	Inclusion: -0.027777777777777776
+	Cause_to_be_included: -0.25
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:135	23671	2	4	0	4100805	Since then , China has conducted 45 nuclear tests , including tests of thermonuclear weapons and a neutron bomb .	11463	test.n	1301	Operational_testing	MANUAL	6540652	62	66	MJE	tests
+LINKED:[11	11	62	66	bn:00076647n		http://babelnet.org/rdf/s00076647n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34808 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	4	0	4100806	The series of nuclear tests in 1995 - 96 prior to China 's signature of the Comprehensive Test Ban Treaty ( CTBT ) may have resulted in a smaller and lighter warhead design for the new generation of intercontinental ballistic missiles ( ICBMs ) now under development .	12170	nuclear.a	426	Weapon	MANUAL	6540655	14	20	MJE	nuclear
+LINKED:[3	3	14	20	bn:00107642a		http://babelnet.org/rdf/s00107642a	1.0	0.041666668	6.648936E-4	BABELFY]
+RANK:=== COUNTER  Counter 34814 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	4	0	4100806	The series of nuclear tests in 1995 - 96 prior to China 's signature of the Comprehensive Test Ban Treaty ( CTBT ) may have resulted in a smaller and lighter warhead design for the new generation of intercontinental ballistic missiles ( ICBMs ) now under development .	1758	prior.a	81	Relative_time	MANUAL	6540657	41	45	MJE	prior
+LINKED:[9	9	41	45	bn:13689934r		http://babelnet.org/rdf/s13689934r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34818 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	4	0	4100806	The series of nuclear tests in 1995 - 96 prior to China 's signature of the Comprehensive Test Ban Treaty ( CTBT ) may have resulted in a smaller and lighter warhead design for the new generation of intercontinental ballistic missiles ( ICBMs ) now under development .	8370	treaty.n	560	Documents	MANUAL	6540661	99	104	MJE	Treaty
+LINKED:[19	19	99	104	bn:00000728n	http://dbpedia.org/resource/Pact	http://babelnet.org/rdf/s00000728n	1.0	0.20833333	0.019946808	BABELFY]
+RANK:=== COUNTER  Counter 34824 ===
+	Documents: -0.0013717421124828531
+	Make_agreement_on_action: -0.0625
+	Be_in_agreement_on_action: -0.0625
+
+SELECTED:[Documents]
+MATCH!
+SILVER:135	23671	3	4	0	4100806	The series of nuclear tests in 1995 - 96 prior to China 's signature of the Comprehensive Test Ban Treaty ( CTBT ) may have resulted in a smaller and lighter warhead design for the new generation of intercontinental ballistic missiles ( ICBMs ) now under development .	15773	small.a	2282	Size	MANUAL	6540663	138	144	MJE	smaller
+LINKED:[28	28	138	144	bn:00106066a		http://babelnet.org/rdf/s00106066a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34826 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	4	0	4100806	The series of nuclear tests in 1995 - 96 prior to China 's signature of the Comprehensive Test Ban Treaty ( CTBT ) may have resulted in a smaller and lighter warhead design for the new generation of intercontinental ballistic missiles ( ICBMs ) now under development .	11721	design.n	27	Coming_up_with	MANUAL	6540665	166	171	MJE	design
+LINKED:[32	32	166	171	bn:00026535n	http://dbpedia.org/resource/Design	http://babelnet.org/rdf/s00026535n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34830 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	4	0	4100806	The series of nuclear tests in 1995 - 96 prior to China 's signature of the Comprehensive Test Ban Treaty ( CTBT ) may have resulted in a smaller and lighter warhead design for the new generation of intercontinental ballistic missiles ( ICBMs ) now under development .	12566	new.a	1597	Familiarity	MANUAL	6540666	181	183	MJE	new
+LINKED:[35	35	181	183	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34832 ===
+	Age: -0.02040816326530612
+	Familiarity: -0.04000000000000001
+
+SELECTED:[Familiarity]
+MATCH!
+SILVER:135	23671	3	4	0	4100806	The series of nuclear tests in 1995 - 96 prior to China 's signature of the Comprehensive Test Ban Treaty ( CTBT ) may have resulted in a smaller and lighter warhead design for the new generation of intercontinental ballistic missiles ( ICBMs ) now under development .	10636	ballistic	426	Weapon	MANUAL	6540667	216	224	EGp	ballistic
+LINKED:[39	39	216	224	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.083333336	0.0039893617	BABELFY]
+RANK:=== COUNTER  Counter 34834 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	4	0	4100806	The series of nuclear tests in 1995 - 96 prior to China 's signature of the Comprehensive Test Ban Treaty ( CTBT ) may have resulted in a smaller and lighter warhead design for the new generation of intercontinental ballistic missiles ( ICBMs ) now under development .	14256	generation.n	1341	Stage_of_progress	MANUAL	6543756	185	194	KmG	generation
+LINKED:[36	36	185	194	bn:00020407n	http://dbpedia.org/resource/Contemporary_history	http://babelnet.org/rdf/s00020407n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34840 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	4	0	4100806	The series of nuclear tests in 1995 - 96 prior to China 's signature of the Comprehensive Test Ban Treaty ( CTBT ) may have resulted in a smaller and lighter warhead design for the new generation of intercontinental ballistic missiles ( ICBMs ) now under development .	14329	result	5	Causation	MANUAL	6543930	124	131	KmG	resulted
+LINKED:[25	25	124	131	bn:00092913v		http://babelnet.org/rdf/s00092913v	1.0	0.041666668	6.648936E-4	BABELFY]
+RANK:=== COUNTER  Counter 34842 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	4	4	0	4100807	China is estimated to have about 400 strategic and tactical nuclear weapons , and stocks of fissile material sufficient to produce a much larger arsenal .	10652	nuclear	426	Weapon	MANUAL	6540670	60	66	EGp	nuclear
+LINKED:[10	10	60	66	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34846 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23671	4	4	0	4100807	China is estimated to have about 400 strategic and tactical nuclear weapons , and stocks of fissile material sufficient to produce a much larger arsenal .	12265	stock.n	1511	Store	MANUAL	6540671	82	87	MJE	stocks
+LINKED:[14	14	82	87	bn:00074332n	http://dbpedia.org/resource/Stock	http://babelnet.org/rdf/s00074332n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34850 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	4	4	0	4100807	China is estimated to have about 400 strategic and tactical nuclear weapons , and stocks of fissile material sufficient to produce a much larger arsenal .	11684	material.n	1348	Ingredients	MANUAL	6540672	100	107	MJE	material
+LINKED:[17	17	100	107	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34852 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Ingredients]
+MATCH!
+SILVER:135	23671	4	4	0	4100807	China is estimated to have about 400 strategic and tactical nuclear weapons , and stocks of fissile material sufficient to produce a much larger arsenal .	5984	sufficient.a	342	Sufficiency	MANUAL	6540673	109	118	MJE	sufficient
+LINKED:[18	18	109	118	bn:00111418a		http://babelnet.org/rdf/s00111418a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34854 ===
+	Sufficiency: -0.0034602076124567475
+	Being_up_to_it: -0.1111111111111111
+
+SELECTED:[Sufficiency]
+MATCH!
+SILVER:135	23671	4	4	0	4100807	China is estimated to have about 400 strategic and tactical nuclear weapons , and stocks of fissile material sufficient to produce a much larger arsenal .	7523	produce.v	408	Manufacturing	MANUAL	6540674	123	129	MJE	produce
+LINKED:[20	20	123	129	bn:00084082v		http://babelnet.org/rdf/s00084082v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34856 ===
+	Behind_the_scenes: -0.008264462809917356
+	Manufacturing: -0.015625
+
+SELECTED:[Manufacturing]
+MATCH!
+SILVER:135	23671	4	4	0	4100807	China is estimated to have about 400 strategic and tactical nuclear weapons , and stocks of fissile material sufficient to produce a much larger arsenal .	10634	arsenal.n	426	Weapon	MANUAL	6540675	145	151	MJE	arsenal
+LINKED:[24	24	145	151	bn:00005788n		http://babelnet.org/rdf/s00005788n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34858 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	4	4	0	4100807	China is estimated to have about 400 strategic and tactical nuclear weapons , and stocks of fissile material sufficient to produce a much larger arsenal .	15769	large.a	2282	Size	MANUAL	6540676	138	143	MJE	larger
+LINKED:[23	23	138	143	bn:00098361a		http://babelnet.org/rdf/s00098361a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34860 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	5	4	0	4100808	China joined the International Atomic Energy Agency ( IAEA ) in 1984 and acceded to the Nuclear Non - Proliferation Treaty ( NPT ) in 1992 as a nuclear weapon state .	13160	join.v	1733	Becoming_a_member	MANUAL	6540678	6	11	MJE	joined
+LINKED:[1	1	6	11	bn:00088013v		http://babelnet.org/rdf/s00088013v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34866 ===
+	Cause_to_amalgamate: -0.00591715976331361
+	Becoming_a_member: -0.0625
+
+SELECTED:[Becoming_a_member]
+MATCH!
+SILVER:135	23671	5	4	0	4100808	China joined the International Atomic Energy Agency ( IAEA ) in 1984 and acceded to the Nuclear Non - Proliferation Treaty ( NPT ) in 1992 as a nuclear weapon state .	12589	proliferation.n	1599	Proliferating_in_number	MANUAL	6540680	102	114	MJE	Proliferation
+LINKED:[19	19	102	114	bn:00064684n		http://babelnet.org/rdf/s00064684n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34870 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	5	4	0	4100808	China joined the International Atomic Energy Agency ( IAEA ) in 1984 and acceded to the Nuclear Non - Proliferation Treaty ( NPT ) in 1992 as a nuclear weapon state .	8370	treaty.n	560	Documents	MANUAL	6540681	116	121	MJE	Treaty
+LINKED:[20	20	116	121	bn:00000728n	http://dbpedia.org/resource/Pact	http://babelnet.org/rdf/s00000728n	0.98630136	0.375	0.042806182	BABELFY]
+RANK:=== COUNTER  Counter 34872 ===
+	Documents: -0.0013717421124828531
+	Make_agreement_on_action: -0.0625
+	Be_in_agreement_on_action: -0.0625
+
+SELECTED:[Documents]
+MATCH!
+SILVER:135	23671	5	4	0	4100808	China joined the International Atomic Energy Agency ( IAEA ) in 1984 and acceded to the Nuclear Non - Proliferation Treaty ( NPT ) in 1992 as a nuclear weapon state .	12170	nuclear.a	426	Weapon	MANUAL	6540682	88	94	MJE	Nuclear
+LINKED:[16	16	88	94	bn:02412572n	http://dbpedia.org/resource/Nuclear_(Ryan_Adams_song)	http://babelnet.org/rdf/s02412572n	1.0	0.0625	5.945303E-4	BABELFY]
+RANK:=== COUNTER  Counter 34874 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	5	4	0	4100808	China joined the International Atomic Energy Agency ( IAEA ) in 1984 and acceded to the Nuclear Non - Proliferation Treaty ( NPT ) in 1992 as a nuclear weapon state .	10652	nuclear	426	Weapon	MANUAL	6540683	144	150	EGp	nuclear
+LINKED:[28	28	144	150	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34876 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23671	6	4	0	4100809	China provided nuclear reactors and technology to several countries in the 1980s and early 1990s , including design information and fissile material that reportedly helped Pakistan develop nuclear weapons .	12156	early.a	1470	Temporal_subregion	MANUAL	6540690	85	89	MJE	early
+LINKED:[13	13	85	89	bn:00101939a		http://babelnet.org/rdf/s00101939a	0.8	0.09090909	6.426735E-4	BABELFY]
+RANK:=== COUNTER  Counter 34890 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	6	4	0	4100809	China provided nuclear reactors and technology to several countries in the 1980s and early 1990s , including design information and fissile material that reportedly helped Pakistan develop nuclear weapons .	13340	including.prep	1153	Inclusion	MANUAL	6540691	99	107	MJE	including
+LINKED:[16	16	99	107	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34892 ===
+	Inclusion: -0.027777777777777776
+	Cause_to_be_included: -0.25
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:135	23671	6	4	0	4100809	China provided nuclear reactors and technology to several countries in the 1980s and early 1990s , including design information and fissile material that reportedly helped Pakistan develop nuclear weapons .	11721	design.n	27	Coming_up_with	MANUAL	6540692	109	114	MJE	design
+LINKED:[17	17	109	114	bn:00026535n	http://dbpedia.org/resource/Design	http://babelnet.org/rdf/s00026535n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34894 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	6	4	0	4100809	China provided nuclear reactors and technology to several countries in the 1980s and early 1990s , including design information and fissile material that reportedly helped Pakistan develop nuclear weapons .	12537	information.n	1591	Information	MANUAL	6540693	116	126	MJE	information
+LINKED:[18	18	116	126	bn:00046705n	http://dbpedia.org/resource/Information	http://babelnet.org/rdf/s00046705n	0.7777778	0.3181818	0.017994858	BABELFY]
+RANK:=== COUNTER  Counter 34896 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	6	4	0	4100809	China provided nuclear reactors and technology to several countries in the 1980s and early 1990s , including design information and fissile material that reportedly helped Pakistan develop nuclear weapons .	11684	material.n	1348	Ingredients	MANUAL	6540694	140	147	MJE	material
+LINKED:[21	21	140	147	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34898 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Ingredients]
+MATCH!
+SILVER:135	23671	6	4	0	4100809	China provided nuclear reactors and technology to several countries in the 1980s and early 1990s , including design information and fissile material that reportedly helped Pakistan develop nuclear weapons .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6540697	181	187	MJE	develop
+LINKED:[26	26	181	187	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34904 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	6	4	0	4100809	China provided nuclear reactors and technology to several countries in the 1980s and early 1990s , including design information and fissile material that reportedly helped Pakistan develop nuclear weapons .	10652	nuclear	426	Weapon	MANUAL	6540698	189	195	EGp	nuclear
+LINKED:[27	27	189	195	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34906 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23671	7	4	0	4100810	Since the early 1990s , China has improved its export controls , including the promulgation of regulations on nuclear and nuclear dual - use exports and has pledged to halt exports of nuclear technology to un - safeguarded facilities .	12156	early.a	1470	Temporal_subregion	MANUAL	6540701	10	14	KmG	early
+LINKED:[2	2	10	14	bn:00101935a		http://babelnet.org/rdf/s00101935a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34912 ===
+	Relative_time: -0.0010405827263267429
+	Temporal_collocation: -0.001736111111111111
+	Temporal_subregion: -0.015625
+
+SELECTED:[Temporal_subregion]
+MATCH!
+SILVER:135	23671	7	4	0	4100810	Since the early 1990s , China has improved its export controls , including the promulgation of regulations on nuclear and nuclear dual - use exports and has pledged to halt exports of nuclear technology to un - safeguarded facilities .	12470	export	1568	Exporting	MANUAL	6540705	47	52	KmG	export
+LINKED:[9	9	47	52	bn:00032363n	http://dbpedia.org/resource/Export	http://babelnet.org/rdf/s00032363n	0.7894737	0.25	0.022522522	BABELFY]
+RANK:=== COUNTER  Counter 34914 ===
+	Import_export: -0.02040816326530612
+	Exporting: -0.25
+
+SELECTED:[Exporting]
+MATCH!
+SILVER:135	23671	7	4	0	4100810	Since the early 1990s , China has improved its export controls , including the promulgation of regulations on nuclear and nuclear dual - use exports and has pledged to halt exports of nuclear technology to un - safeguarded facilities .	13340	including.prep	1153	Inclusion	MANUAL	6540707	65	73	KmG	including
+LINKED:[12	12	65	73	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34916 ===
+	Inclusion: -0.027777777777777776
+	Cause_to_be_included: -0.25
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:135	23671	7	4	0	4100810	Since the early 1990s , China has improved its export controls , including the promulgation of regulations on nuclear and nuclear dual - use exports and has pledged to halt exports of nuclear technology to un - safeguarded facilities .	12516	export	1568	Exporting	MANUAL	6540708	141	147	KmG	exports
+LINKED:[24	24	141	147	bn:00032363n	http://dbpedia.org/resource/Export	http://babelnet.org/rdf/s00032363n	0.7894737	0.25	0.022522522	BABELFY]
+RANK:=== COUNTER  Counter 34918 ===
+	Import_export: -0.02040816326530612
+	Exporting: -0.25
+
+SELECTED:[Exporting]
+MATCH!
+SILVER:135	23671	7	4	0	4100810	Since the early 1990s , China has improved its export controls , including the promulgation of regulations on nuclear and nuclear dual - use exports and has pledged to halt exports of nuclear technology to un - safeguarded facilities .	12470	export	1568	Exporting	MANUAL	6540717	173	179	KmG	exports
+LINKED:[30	30	173	179	bn:00032363n	http://dbpedia.org/resource/Export	http://babelnet.org/rdf/s00032363n	0.7894737	0.25	0.022522522	BABELFY]
+RANK:=== COUNTER  Counter 34924 ===
+	Import_export: -0.02040816326530612
+	Exporting: -0.25
+
+SELECTED:[Exporting]
+MATCH!
+SILVER:135	23671	7	4	0	4100810	Since the early 1990s , China has improved its export controls , including the promulgation of regulations on nuclear and nuclear dual - use exports and has pledged to halt exports of nuclear technology to un - safeguarded facilities .	13755	regulation.n	950	Law	MANUAL	6540966	95	105	KmG	regulations
+LINKED:[16	16	95	105	bn:00059436n	http://dbpedia.org/resource/Regulation	http://babelnet.org/rdf/s00059436n	0.7058824	0.33333334	0.036036037	BABELFY]
+RANK:=== COUNTER  Counter 34930 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	7	4	0	4100810	Since the early 1990s , China has improved its export controls , including the promulgation of regulations on nuclear and nuclear dual - use exports and has pledged to halt exports of nuclear technology to un - safeguarded facilities .	12170	nuclear.a	426	Weapon	MANUAL	6540967	110	116	KmG	nuclear
+LINKED:[18	18	110	116	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34932 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23671	7	4	0	4100810	Since the early 1990s , China has improved its export controls , including the promulgation of regulations on nuclear and nuclear dual - use exports and has pledged to halt exports of nuclear technology to un - safeguarded facilities .	12170	nuclear.a	426	Weapon	MANUAL	6540968	122	128	KmG	nuclear
+LINKED:[20	20	122	128	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34934 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23671	7	4	0	4100810	Since the early 1990s , China has improved its export controls , including the promulgation of regulations on nuclear and nuclear dual - use exports and has pledged to halt exports of nuclear technology to un - safeguarded facilities .	11626	dual.a	218	Cardinal_numbers	MANUAL	6541484	130	133	KmG	dual
+LINKED:[21	21	130	133	bn:00101724a		http://babelnet.org/rdf/s00101724a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34936 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	8	4	0	4100811	In 2002 China ratified the IAEA Additional Protocol , the first and only nuclear weapons state to do so .	10292	additional.a	1001	Increment	MANUAL	6540748	32	41	KmG	Additional
+LINKED:[6	6	32	41	bn:13696085n		http://babelnet.org/rdf/s13696085n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34944 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	8	4	0	4100811	In 2002 China ratified the IAEA Additional Protocol , the first and only nuclear weapons state to do so .	10652	nuclear	426	Weapon	MANUAL	6540752	73	79	EGp	nuclear
+LINKED:[13	13	73	79	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34948 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23671	1	5	0	4100812	Biological	13357	biological.a	426	Weapon	MANUAL	6543845	0	9	MJE	Biological
+LINKED:[0	0	0	9	bn:00010543n	http://dbpedia.org/resource/Biology	http://babelnet.org/rdf/s00010543n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34954 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	6	0	4100813	China is a party to most of the major international agreements regulating biological weapons , including the Geneva Protocol and the Biological and Toxin Weapons Convention ( BWC or BTWC ) .	13356	party.n	1144	Participation	MANUAL	6540754	11	15	KmG	party
+LINKED:[3	3	11	15	bn:00060834n	http://dbpedia.org/resource/Political_party	http://babelnet.org/rdf/s00060834n	0.7297297	0.31578946	0.028037382	BABELFY]
+RANK:=== COUNTER  Counter 34956 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	6	0	4100813	China is a party to most of the major international agreements regulating biological weapons , including the Geneva Protocol and the Biological and Toxin Weapons Convention ( BWC or BTWC ) .	10238	international.a	195	Political_locales	MANUAL	6540759	38	50	KmG	international
+LINKED:[9	9	38	50	bn:00102626a		http://babelnet.org/rdf/s00102626a	1.0	0.05263158	5.192108E-4	BABELFY]
+RANK:=== COUNTER  Counter 34960 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	6	0	4100813	China is a party to most of the major international agreements regulating biological weapons , including the Geneva Protocol and the Biological and Toxin Weapons Convention ( BWC or BTWC ) .	10637	biological	426	Weapon	MANUAL	6540770	74	83	EGp	biological
+LINKED:[12	12	74	83	bn:00098417a		http://babelnet.org/rdf/s00098417a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34964 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	6	0	4100813	China is a party to most of the major international agreements regulating biological weapons , including the Geneva Protocol and the Biological and Toxin Weapons Convention ( BWC or BTWC ) .	13340	including.prep	1153	Inclusion	MANUAL	6540771	95	103	KmG	including
+LINKED:[15	15	95	103	bn:00082370v		http://babelnet.org/rdf/s00082370v	1.0	0.05263158	5.192108E-4	BABELFY]
+RANK:=== COUNTER  Counter 34968 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	6	0	4100813	China is a party to most of the major international agreements regulating biological weapons , including the Geneva Protocol and the Biological and Toxin Weapons Convention ( BWC or BTWC ) .	10637	biological	426	Weapon	MANUAL	6540773	133	142	KmG	Biological
+LINKED:[21	21	133	142	bn:00010543n	http://dbpedia.org/resource/Biology	http://babelnet.org/rdf/s00010543n	1.0	0.47368422	0.06542056	BABELFY]
+RANK:=== COUNTER  Counter 34972 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	6	0	4100814	China is not , however , a member of the Australia Group ( AG ) , a voluntary supply - side export control regime focused on chemical and biological weapons , though the issuance of new export control regulations in 2002 has put Beijing 's export control policy fully in line with that of the AG .	2112	group.n	103	Aggregate	MANUAL	6540776	51	55	KmG	Group
+LINKED:[11	11	51	55	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34982 ===
+	Aggregate: -4.0E-4
+	Organization: -0.00510204081632653
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:135	23671	2	6	0	4100814	China is not , however , a member of the Australia Group ( AG ) , a voluntary supply - side export control regime focused on chemical and biological weapons , though the issuance of new export control regulations in 2002 has put Beijing 's export control policy fully in line with that of the AG .	12470	export	1568	Exporting	MANUAL	6540785	92	97	KmG	export
+LINKED:[21	21	92	97	bn:00032363n	http://dbpedia.org/resource/Export	http://babelnet.org/rdf/s00032363n	0.87431693	0.33333334	0.028114567	BABELFY]
+RANK:=== COUNTER  Counter 34984 ===
+	Import_export: -0.02040816326530612
+	Exporting: -0.25
+
+SELECTED:[Exporting]
+MATCH!
+SILVER:135	23671	2	6	0	4100814	China is not , however , a member of the Australia Group ( AG ) , a voluntary supply - side export control regime focused on chemical and biological weapons , though the issuance of new export control regulations in 2002 has put Beijing 's export control policy fully in line with that of the AG .	13153	regime.n	73	Leadership	MANUAL	6540796	107	112	KmG	regime
+LINKED:[23	23	107	112	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	1.0	0.13333334	0.0035143208	BABELFY]
+RANK:=== COUNTER  Counter 34988 ===
+	Leadership: -1.8765246762994932E-4
+	Organization: -0.00510204081632653
+	Law: -0.015625
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:135	23671	2	6	0	4100814	China is not , however , a member of the Australia Group ( AG ) , a voluntary supply - side export control regime focused on chemical and biological weapons , though the issuance of new export control regulations in 2002 has put Beijing 's export control policy fully in line with that of the AG .	12563	new.a	972	Age	MANUAL	6540798	182	184	KmG	new
+LINKED:[35	35	182	184	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34992 ===
+	Age: -0.02040816326530612
+	Familiarity: -0.04000000000000001
+
+SELECTED:[Age]
+MATCH!
+SILVER:135	23671	2	6	0	4100814	China is not , however , a member of the Australia Group ( AG ) , a voluntary supply - side export control regime focused on chemical and biological weapons , though the issuance of new export control regulations in 2002 has put Beijing 's export control policy fully in line with that of the AG .	12470	export	1568	Exporting	MANUAL	6540800	240	245	KmG	export
+LINKED:[45	45	240	245	bn:00032363n	http://dbpedia.org/resource/Export	http://babelnet.org/rdf/s00032363n	0.87431693	0.33333334	0.028114567	BABELFY]
+RANK:=== COUNTER  Counter 34994 ===
+	Import_export: -0.02040816326530612
+	Exporting: -0.25
+
+SELECTED:[Exporting]
+MATCH!
+SILVER:135	23671	2	6	0	4100814	China is not , however , a member of the Australia Group ( AG ) , a voluntary supply - side export control regime focused on chemical and biological weapons , though the issuance of new export control regulations in 2002 has put Beijing 's export control policy fully in line with that of the AG .	10637	biological	426	Weapon	MANUAL	6540803	138	147	EGp	biological
+LINKED:[28	28	138	147	bn:00098418a		http://babelnet.org/rdf/s00098418a	1.0	0.033333335	1.7571605E-4	BABELFY]
+RANK:=== COUNTER  Counter 35002 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	6	0	4100814	China is not , however , a member of the Australia Group ( AG ) , a voluntary supply - side export control regime focused on chemical and biological weapons , though the issuance of new export control regulations in 2002 has put Beijing 's export control policy fully in line with that of the AG .	12470	export	1568	Exporting	MANUAL	6540804	186	191	KmG	export
+LINKED:[36	36	186	191	bn:00032363n	http://dbpedia.org/resource/Export	http://babelnet.org/rdf/s00032363n	0.87431693	0.33333334	0.028114567	BABELFY]
+RANK:=== COUNTER  Counter 35006 ===
+	Import_export: -0.02040816326530612
+	Exporting: -0.25
+
+SELECTED:[Exporting]
+MATCH!
+SILVER:135	23671	2	6	0	4100814	China is not , however , a member of the Australia Group ( AG ) , a voluntary supply - side export control regime focused on chemical and biological weapons , though the issuance of new export control regulations in 2002 has put Beijing 's export control policy fully in line with that of the AG .	13755	regulation.n	950	Law	MANUAL	6541491	201	211	KmG	regulations
+LINKED:[38	38	201	211	bn:00059436n	http://dbpedia.org/resource/Regulation	http://babelnet.org/rdf/s00059436n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35010 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	6	0	4100814	China is not , however , a member of the Australia Group ( AG ) , a voluntary supply - side export control regime focused on chemical and biological weapons , though the issuance of new export control regulations in 2002 has put Beijing 's export control policy fully in line with that of the AG .	14632	(in/out	117	Compliance	MANUAL	6550675	271	274	KmG	line
+LINKED:[50	50	271	274	bn:00051288n		http://babelnet.org/rdf/s00051288n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35014 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	7	0	4100815	While China has publicly declared to be consistently in compliance with the BTWC , past U.S. government reports have alleged that China not only has a small - scale offensive biological weapons program , but has also transferred controlled biological weapons - related items to nations of proliferation concern such as Iran .	12182	government.n	73	Leadership	MANUAL	6540810	93	102	KmG	government
+LINKED:[16	16	93	102	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35022 ===
+	Leadership: -1.8765246762994932E-4
+	Organization: -0.00510204081632653
+	Law: -0.015625
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:135	23671	1	7	0	4100815	While China has publicly declared to be consistently in compliance with the BTWC , past U.S. government reports have alleged that China not only has a small - scale offensive biological weapons program , but has also transferred controlled biological weapons - related items to nations of proliferation concern such as Iran .	10637	biological	426	Weapon	MANUAL	6540820	175	184	EGp	biological
+LINKED:[30	30	175	184	bn:00098418a		http://babelnet.org/rdf/s00098418a	0.9230769	0.10714286	0.001087449	BABELFY]
+RANK:=== COUNTER  Counter 35030 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	7	0	4100815	While China has publicly declared to be consistently in compliance with the BTWC , past U.S. government reports have alleged that China not only has a small - scale offensive biological weapons program , but has also transferred controlled biological weapons - related items to nations of proliferation concern such as Iran .	10724	program.n	1158	Project	MANUAL	6540821	194	200	KmG	program
+LINKED:[32	32	194	200	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35034 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23671	1	7	0	4100815	While China has publicly declared to be consistently in compliance with the BTWC , past U.S. government reports have alleged that China not only has a small - scale offensive biological weapons program , but has also transferred controlled biological weapons - related items to nations of proliferation concern such as Iran .	11593	transfer.v	178	Transfer	MANUAL	6540825	217	227	KmG	transferred
+LINKED:[37	37	217	227	bn:00092460v		http://babelnet.org/rdf/s00092460v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35036 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	7	0	4100815	While China has publicly declared to be consistently in compliance with the BTWC , past U.S. government reports have alleged that China not only has a small - scale offensive biological weapons program , but has also transferred controlled biological weapons - related items to nations of proliferation concern such as Iran .	10637	biological	426	Weapon	MANUAL	6540826	240	249	EGp	biological
+LINKED:[39	39	240	249	bn:00098418a		http://babelnet.org/rdf/s00098418a	0.9230769	0.10714286	0.001087449	BABELFY]
+RANK:=== COUNTER  Counter 35038 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	7	0	4100815	While China has publicly declared to be consistently in compliance with the BTWC , past U.S. government reports have alleged that China not only has a small - scale offensive biological weapons program , but has also transferred controlled biological weapons - related items to nations of proliferation concern such as Iran .	13137	item.n	251	Entity	MANUAL	6540828	269	273	KmG	items
+LINKED:[43	43	269	273	bn:00047730n		http://babelnet.org/rdf/s00047730n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35044 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	7	0	4100815	While China has publicly declared to be consistently in compliance with the BTWC , past U.S. government reports have alleged that China not only has a small - scale offensive biological weapons program , but has also transferred controlled biological weapons - related items to nations of proliferation concern such as Iran .	12589	proliferation.n	1599	Proliferating_in_number	MANUAL	6541490	289	301	KmG	proliferation
+LINKED:[47	47	289	301	bn:00064684n		http://babelnet.org/rdf/s00064684n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35050 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	7	0	4100815	While China has publicly declared to be consistently in compliance with the BTWC , past U.S. government reports have alleged that China not only has a small - scale offensive biological weapons program , but has also transferred controlled biological weapons - related items to nations of proliferation concern such as Iran .	13868	past.a	81	Relative_time	MANUAL	6543934	83	86	KmG	past
+LINKED:[14	14	83	86	bn:00108321a		http://babelnet.org/rdf/s00108321a	1.0	0.071428575	3.62483E-4	BABELFY]
+RANK:=== COUNTER  Counter 35052 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	7	0	4100816	Such transfers have resulted in numerous U.S. nonproliferation sanctions being imposed on Chinese entities .	10813	transfer.n	178	Transfer	MANUAL	6540830	5	13	KmG	transfers
+LINKED:[1	1	5	13	bn:00077972n		http://babelnet.org/rdf/s00077972n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35054 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	7	0	4100816	Such transfers have resulted in numerous U.S. nonproliferation sanctions being imposed on Chinese entities .	10584	chinese.a	1103	Origin	MANUAL	6540832	90	96	KmG	Chinese
+LINKED:[12	12	90	96	bn:00018452n	http://dbpedia.org/resource/Chinese_language	http://babelnet.org/rdf/s00018452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35056 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	7	0	4100816	Such transfers have resulted in numerous U.S. nonproliferation sanctions being imposed on Chinese entities .	13751	numerous.a	189	Quantified_mass	MANUAL	6540835	32	39	KmG	numerous
+LINKED:[5	5	32	39	bn:00105858a		http://babelnet.org/rdf/s00105858a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35060 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	7	0	4100816	Such transfers have resulted in numerous U.S. nonproliferation sanctions being imposed on Chinese entities .	10676	sanction.n	347	Revenge	MANUAL	6542845	63	71	RLG	sanctions
+LINKED:[8	8	63	71	bn:00069122n		http://babelnet.org/rdf/s00069122n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35062 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	7	0	4100816	Such transfers have resulted in numerous U.S. nonproliferation sanctions being imposed on Chinese entities .	14329	result	5	Causation	MANUAL	6543929	20	27	KmG	resulted
+LINKED:[3	3	20	27	bn:00087671v		http://babelnet.org/rdf/s00087671v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35066 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	9	0	4100818	China ratified the Chemical Weapons Convention ( CWC ) in December 1996 , declaring two former chemical weapons ( CW ) production facilities that may have produced mustard gas and Lewisite .	10654	CW.n	426	Weapon	MANUAL	6540841	114	115	KmG	CW
+LINKED:[19	19	114	115	bn:16836033n	http://dbpedia.org/resource/The_CW	http://babelnet.org/rdf/s16836033n	1.0	0.1	0.0013140604	BABELFY]
+RANK:=== COUNTER  Counter 35080 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	9	0	4100818	China ratified the Chemical Weapons Convention ( CWC ) in December 1996 , declaring two former chemical weapons ( CW ) production facilities that may have produced mustard gas and Lewisite .	10662	facility.n	196	Locale_by_use	MANUAL	6540843	130	139	KmG	facilities
+LINKED:[22	22	130	139	bn:00032647n		http://babelnet.org/rdf/s00032647n	0.9677419	0.25	0.009855453	BABELFY]
+RANK:=== COUNTER  Counter 35084 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	9	0	4100818	China ratified the Chemical Weapons Convention ( CWC ) in December 1996 , declaring two former chemical weapons ( CW ) production facilities that may have produced mustard gas and Lewisite .	7523	produce.v	408	Manufacturing	MANUAL	6540845	155	162	KmG	produced
+LINKED:[26	26	155	162	bn:00086013v		http://babelnet.org/rdf/s00086013v	0.8333333	0.15	0.0049277265	BABELFY]
+RANK:=== COUNTER  Counter 35086 ===
+	Intentionally_create: -0.006944444444444444
+	Creating: -0.012345679012345678
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	9	0	4100818	China ratified the Chemical Weapons Convention ( CWC ) in December 1996 , declaring two former chemical weapons ( CW ) production facilities that may have produced mustard gas and Lewisite .	10653	mustard	426	Weapon	MANUAL	6540846	164	170	EGp	mustard
+LINKED:[27	27	164	170	bn:00056511n	http://dbpedia.org/resource/Mustard_plant	http://babelnet.org/rdf/s00056511n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35088 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	9	0	4100818	China ratified the Chemical Weapons Convention ( CWC ) in December 1996 , declaring two former chemical weapons ( CW ) production facilities that may have produced mustard gas and Lewisite .	10653	mustard	426	Weapon	MANUAL	6540846	172	174	EGp	gas
+LINKED:[28	28	172	174	bn:00037382n	http://dbpedia.org/resource/Gas	http://babelnet.org/rdf/s00037382n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35090 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	9	0	4100819	Since 1997 , China has hosted 14 on - site inspections by the Organization for the Prohibition of Chemical Weapons ( OPCW ) .	11550	site.n	196	Locale_by_use	MANUAL	6540848	38	41	KmG	site
+LINKED:[9	9	38	41	bn:00049847n		http://babelnet.org/rdf/s00049847n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35092 ===
+	Locale_by_use: -4.3402777777777775E-4
+	Locale: -0.0034602076124567475
+	Locale_by_event: -0.027777777777777776
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:135	23671	2	9	0	4100819	Since 1997 , China has hosted 14 on - site inspections by the Organization for the Prohibition of Chemical Weapons ( OPCW ) .	11268	inspection.n	1262	Inspecting	MANUAL	6540849	43	53	KmG	inspections
+LINKED:[10	10	43	53	bn:12204684n		http://babelnet.org/rdf/s12204684n	1.0	0.125	0.003508772	BABELFY]
+RANK:=== COUNTER  Counter 35094 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	9	0	4100819	Since 1997 , China has hosted 14 on - site inspections by the Organization for the Prohibition of Chemical Weapons ( OPCW ) .	13059	organization.n	1371	Organization	MANUAL	6540850	62	73	KmG	Organization
+LINKED:[13	13	62	73	bn:00059480n	http://dbpedia.org/resource/Organization	http://babelnet.org/rdf/s00059480n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35096 ===
+	Organization: -0.00510204081632653
+	Creating: -0.012345679012345678
+
+SELECTED:[Organization]
+MATCH!
+SILVER:135	23671	2	9	0	4100819	Since 1997 , China has hosted 14 on - site inspections by the Organization for the Prohibition of Chemical Weapons ( OPCW ) .	8188	prohibition.n	521	Prohibiting_or_licensing	MANUAL	6540851	83	93	KmG	Prohibition
+LINKED:[16	16	83	93	bn:00064661n	http://dbpedia.org/resource/Prohibition_of_drugs	http://babelnet.org/rdf/s00064661n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35098 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	9	0	4100819	Since 1997 , China has hosted 14 on - site inspections by the Organization for the Prohibition of Chemical Weapons ( OPCW ) .	2523	host.v	125	Social_event	MANUAL	6543822	23	28	KmG	hosted
+LINKED:[5	5	23	28	bn:00089484v		http://babelnet.org/rdf/s00089484v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35104 ===
+	Social_event: -0.0022675736961451243
+	Hospitality: -0.04000000000000001
+	Provide_lodging: -0.1111111111111111
+
+SELECTED:[Social_event]
+MATCH!
+SILVER:135	23671	3	9	0	4100820	Although China claims that it no longer possesses any CW stockpiles , the U.S. government believes that China has not revealed the full scope of its program .	697	claim.v	43	Statement	MANUAL	6540857	15	20	KmG	claims
+LINKED:[2	2	15	20	bn:00085016v		http://babelnet.org/rdf/s00085016v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35106 ===
+	Statement: -2.44140625E-4
+	Predicting: -0.027777777777777776
+	Claim_ownership: -0.0625
+
+SELECTED:[Statement]
+MATCH!
+SILVER:135	23671	3	9	0	4100820	Although China claims that it no longer possesses any CW stockpiles , the U.S. government believes that China has not revealed the full scope of its program .	2418	possess.v	118	Possession	MANUAL	6540858	40	48	KmG	possesses
+LINKED:[7	7	40	48	bn:00091873v		http://babelnet.org/rdf/s00091873v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35108 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	9	0	4100820	Although China claims that it no longer possesses any CW stockpiles , the U.S. government believes that China has not revealed the full scope of its program .	10654	CW.n	426	Weapon	MANUAL	6540866	54	55	KmG	CW
+LINKED:[9	9	54	55	bn:16836033n	http://dbpedia.org/resource/The_CW	http://babelnet.org/rdf/s16836033n	1.0	0.23076923	0.004442251	BABELFY]
+RANK:=== COUNTER  Counter 35110 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	9	0	4100820	Although China claims that it no longer possesses any CW stockpiles , the U.S. government believes that China has not revealed the full scope of its program .	12266	stockpile.n	1511	Store	MANUAL	6540867	57	66	KmG	stockpiles
+LINKED:[10	10	57	66	bn:03789434n	http://dbpedia.org/resource/Stockpile_(military)	http://babelnet.org/rdf/s03789434n	0.9411765	0.30769232	0.007897335	BABELFY]
+RANK:=== COUNTER  Counter 35112 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	9	0	4100820	Although China claims that it no longer possesses any CW stockpiles , the U.S. government believes that China has not revealed the full scope of its program .	12182	government.n	73	Leadership	MANUAL	6540868	79	88	KmG	government
+LINKED:[14	14	79	88	bn:00007299n	http://dbpedia.org/resource/Regime	http://babelnet.org/rdf/s00007299n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35114 ===
+	Leadership: -1.8765246762994932E-4
+	Organization: -0.00510204081632653
+	Law: -0.015625
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:135	23671	3	9	0	4100820	Although China claims that it no longer possesses any CW stockpiles , the U.S. government believes that China has not revealed the full scope of its program .	2756	believe.v	141	Certainty	MANUAL	6540869	90	97	KmG	believes
+LINKED:[15	15	90	97	bn:00083369v		http://babelnet.org/rdf/s00083369v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35116 ===
+	Certainty: -0.008264462809917356
+	Trust: -0.015625
+
+SELECTED:[Certainty]
+MATCH!
+SILVER:135	23671	3	9	0	4100820	Although China claims that it no longer possesses any CW stockpiles , the U.S. government believes that China has not revealed the full scope of its program .	13754	full.a	1534	Completeness	MANUAL	6540885	131	134	KmG	full
+LINKED:[22	22	131	134	bn:00103393a		http://babelnet.org/rdf/s00103393a	1.0	0.23076923	0.004442251	BABELFY]
+RANK:=== COUNTER  Counter 35120 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	9	0	4100820	Although China claims that it no longer possesses any CW stockpiles , the U.S. government believes that China has not revealed the full scope of its program .	10724	program.n	1158	Project	MANUAL	6540886	149	155	KmG	program
+LINKED:[26	26	149	155	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35122 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23671	3	9	0	4100820	Although China claims that it no longer possesses any CW stockpiles , the U.S. government believes that China has not revealed the full scope of its program .	14337	scope.n	1927	Scope	MANUAL	6543988	136	140	RLG	scope
+LINKED:[23	23	136	140	bn:00003268n	http://dbpedia.org/resource/Range_(music)	http://babelnet.org/rdf/s00003268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35124 ===
+	Diversity: -0.00390625
+	Scope: -1.0
+
+SELECTED:[Scope]
+MATCH!
+SILVER:135	23671	4	9	0	4100821	China has signed a bilateral agreement with Japan to destroy CW that Japan abandoned in Chinese territory during World War II .	10681	sign.v	1151	Sign_agreement	MANUAL	6540887	10	15	KmG	signed
+LINKED:[2	2	10	15	bn:00093731v		http://babelnet.org/rdf/s00093731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35126 ===
+	Text_creation: -0.00591715976331361
+	Sign_agreement: -0.0625
+
+SELECTED:[Sign_agreement]
+MATCH!
+SILVER:135	23671	4	9	0	4100821	China has signed a bilateral agreement with Japan to destroy CW that Japan abandoned in Chinese territory during World War II .	10654	CW.n	426	Weapon	MANUAL	6540890	61	62	KmG	CW
+LINKED:[10	10	61	62	bn:16836033n	http://dbpedia.org/resource/The_CW	http://babelnet.org/rdf/s16836033n	1.0	0.25	0.0043931906	BABELFY]
+RANK:=== COUNTER  Counter 35132 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	11	0	4100823	China has produced and deployed a wide range of ballistic missiles , ranging from short - range missiles to intercontinental ballistic missiles ( ICBMs ) .	7523	produce.v	408	Manufacturing	MANUAL	6540609	10	17	RLG	produced
+LINKED:[2	2	10	17	bn:00084069v		http://babelnet.org/rdf/s00084069v	0.72727275	0.125	0.003104385	BABELFY]
+RANK:=== COUNTER  Counter 35138 ===
+	Causation: -0.0025000000000000005
+	Cause_to_start: -0.006944444444444444
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	11	0	4100823	China has produced and deployed a wide range of ballistic missiles , ranging from short - range missiles to intercontinental ballistic missiles ( ICBMs ) .	10636	ballistic	426	Weapon	MANUAL	6540611	48	56	EGp	ballistic
+LINKED:[9	9	48	56	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.3125	0.015521925	BABELFY]
+RANK:=== COUNTER  Counter 35142 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	11	0	4100823	China has produced and deployed a wide range of ballistic missiles , ranging from short - range missiles to intercontinental ballistic missiles ( ICBMs ) .	18491	short.a	965	Measurable_attributes	MANUAL	6540612	82	86	RLG	short
+LINKED:[14	14	82	86	bn:00110561a		http://babelnet.org/rdf/s00110561a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35146 ===
+	Dimension: -8.650519031141869E-4
+	Duration_attribute: -0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	11	0	4100823	China has produced and deployed a wide range of ballistic missiles , ranging from short - range missiles to intercontinental ballistic missiles ( ICBMs ) .	11749	range.n	1350	Range	MANUAL	6540613	90	94	RLG	range
+LINKED:[16	16	90	94	bn:00003268n	http://dbpedia.org/resource/Range_(music)	http://babelnet.org/rdf/s00003268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35148 ===
+	Diversity: -0.00390625
+	Scope: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	11	0	4100823	China has produced and deployed a wide range of ballistic missiles , ranging from short - range missiles to intercontinental ballistic missiles ( ICBMs ) .	10636	ballistic	426	Weapon	MANUAL	6540615	125	133	EGp	ballistic
+LINKED:[20	20	125	133	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.3125	0.015521925	BABELFY]
+RANK:=== COUNTER  Counter 35152 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	1	11	0	4100823	China has produced and deployed a wide range of ballistic missiles , ranging from short - range missiles to intercontinental ballistic missiles ( ICBMs ) .	2189	wide.a	108	Dimension	MANUAL	6541497	34	37	KmG	wide
+LINKED:[6	6	34	37	bn:00098887a		http://babelnet.org/rdf/s00098887a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35158 ===
+	Dimension: -8.650519031141869E-4
+	Diversity: -0.00390625
+
+SELECTED:[Dimension]
+MATCH!
+SILVER:135	23671	1	11	0	4100823	China has produced and deployed a wide range of ballistic missiles , ranging from short - range missiles to intercontinental ballistic missiles ( ICBMs ) .	14048	range.n	1893	Diversity	MANUAL	6543226	39	43	KmG	range
+LINKED:[7	7	39	43	bn:00003268n	http://dbpedia.org/resource/Range_(music)	http://babelnet.org/rdf/s00003268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35160 ===
+	Diversity: -0.00390625
+	Scope: -1.0
+
+SELECTED:[Diversity]
+MATCH!
+SILVER:135	23671	2	11	0	4100824	China 's missiles are operated by the Second Artillery Corps , and include about 650 DF -11 ( M-11 ) and DF-15 ( M-9 ) missiles opposite Taiwan ; several dozens of DF -3 , DF -4 , and DF -21 medium - range missiles that can reach Japan , India , and Russia ; and 18-24 DF -5 ICBMs that can reach the United States and Europe .	12214	operate.v	1495	Operating_a_system	MANUAL	6540618	22	29	RLG	operated
+LINKED:[4	4	22	29	bn:00091177v		http://babelnet.org/rdf/s00091177v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35164 ===
+	Using: -0.04000000000000001
+	Operating_a_system: -0.1111111111111111
+
+SELECTED:[Operating_a_system]
+MATCH!
+SILVER:135	23671	2	11	0	4100824	China 's missiles are operated by the Second Artillery Corps , and include about 650 DF -11 ( M-11 ) and DF-15 ( M-9 ) missiles opposite Taiwan ; several dozens of DF -3 , DF -4 , and DF -21 medium - range missiles that can reach Japan , India , and Russia ; and 18-24 DF -5 ICBMs that can reach the United States and Europe .	11249	second.a	1147	Ordinal_numbers	MANUAL	6540620	38	43	RLG	Second
+LINKED:[7	7	38	43	bn:00068672n	http://dbpedia.org/resource/Second	http://babelnet.org/rdf/s00068672n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35168 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	11	0	4100824	China 's missiles are operated by the Second Artillery Corps , and include about 650 DF -11 ( M-11 ) and DF-15 ( M-9 ) missiles opposite Taiwan ; several dozens of DF -3 , DF -4 , and DF -21 medium - range missiles that can reach Japan , India , and Russia ; and 18-24 DF -5 ICBMs that can reach the United States and Europe .	2665	corps.n	103	Aggregate	MANUAL	6540621	55	59	RLG	Corps
+LINKED:[9	9	55	59	bn:00005810n	http://dbpedia.org/resource/Corps	http://babelnet.org/rdf/s00005810n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35170 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	11	0	4100824	China 's missiles are operated by the Second Artillery Corps , and include about 650 DF -11 ( M-11 ) and DF-15 ( M-9 ) missiles opposite Taiwan ; several dozens of DF -3 , DF -4 , and DF -21 medium - range missiles that can reach Japan , India , and Russia ; and 18-24 DF -5 ICBMs that can reach the United States and Europe .	10687	include.v	1153	Inclusion	MANUAL	6540622	67	73	RLG	include
+LINKED:[12	12	67	73	bn:00089662v		http://babelnet.org/rdf/s00089662v	0.9230769	0.09375	4.121162E-4	BABELFY]
+RANK:=== COUNTER  Counter 35172 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	11	0	4100824	China 's missiles are operated by the Second Artillery Corps , and include about 650 DF -11 ( M-11 ) and DF-15 ( M-9 ) missiles opposite Taiwan ; several dozens of DF -3 , DF -4 , and DF -21 medium - range missiles that can reach Japan , India , and Russia ; and 18-24 DF -5 ICBMs that can reach the United States and Europe .	11749	range.n	1350	Range	MANUAL	6540627	200	204	RLG	range
+LINKED:[43	43	200	204	bn:00003268n	http://dbpedia.org/resource/Range_(music)	http://babelnet.org/rdf/s00003268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35180 ===
+	Diversity: -0.00390625
+	Scope: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	11	0	4100824	China 's missiles are operated by the Second Artillery Corps , and include about 650 DF -11 ( M-11 ) and DF-15 ( M-9 ) missiles opposite Taiwan ; several dozens of DF -3 , DF -4 , and DF -21 medium - range missiles that can reach Japan , India , and Russia ; and 18-24 DF -5 ICBMs that can reach the United States and Europe .	4883	reach.v	54	Arriving	MANUAL	6540629	224	228	RLG	reach
+LINKED:[47	47	224	228	bn:00082790v		http://babelnet.org/rdf/s00082790v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35182 ===
+	Change_position_on_a_scale: -4.938271604938272E-4
+	Path_shape: -9.182736455463729E-4
+	Contacting: -0.0034602076124567475
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	11	0	4100824	China 's missiles are operated by the Second Artillery Corps , and include about 650 DF -11 ( M-11 ) and DF-15 ( M-9 ) missiles opposite Taiwan ; several dozens of DF -3 , DF -4 , and DF -21 medium - range missiles that can reach Japan , India , and Russia ; and 18-24 DF -5 ICBMs that can reach the United States and Europe .	4883	reach.v	54	Arriving	MANUAL	6540631	290	294	RLG	reach
+LINKED:[62	62	290	294	bn:00082790v		http://babelnet.org/rdf/s00082790v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35184 ===
+	Change_position_on_a_scale: -4.938271604938272E-4
+	Path_shape: -9.182736455463729E-4
+	Contacting: -0.0034602076124567475
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	2	11	0	4100824	China 's missiles are operated by the Second Artillery Corps , and include about 650 DF -11 ( M-11 ) and DF-15 ( M-9 ) missiles opposite Taiwan ; several dozens of DF -3 , DF -4 , and DF -21 medium - range missiles that can reach Japan , India , and Russia ; and 18-24 DF -5 ICBMs that can reach the United States and Europe .	14032	medium.a	95	Position_on_a_scale	MANUAL	6543174	191	196	KmG	medium
+LINKED:[41	41	191	196	bn:00054149n	http://dbpedia.org/resource/Media_(communication)	http://babelnet.org/rdf/s00054149n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35186 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	11	0	4100825	A transition is currently underway from relatively inaccurate , liquid - fueled , silo / cave - based missiles ( DF-3 , DF -4 , DF -5 ) to more accurate , solid - fueled , mobile missiles ( DF-11 , DF-15 , and DF-21 , and a new ICBM [ the DF-31 ] and SLBM [ the JL-2 ] , which are currently under development ) .	11604	liquid.n	1321	Substance	MANUAL	6540632	64	69	RLG	liquid
+LINKED:[9	9	64	69	bn:00106033a		http://babelnet.org/rdf/s00106033a	1.0	0.04761905	0.0020408162	BABELFY]
+RANK:=== COUNTER  Counter 35188 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	11	0	4100825	A transition is currently underway from relatively inaccurate , liquid - fueled , silo / cave - based missiles ( DF-3 , DF -4 , DF -5 ) to more accurate , solid - fueled , mobile missiles ( DF-11 , DF-15 , and DF-21 , and a new ICBM [ the DF-31 ] and SLBM [ the JL-2 ] , which are currently under development ) .	12654	silo.n	196	Locale_by_use	MANUAL	6540633	82	85	RLG	silo
+LINKED:[13	13	82	85	bn:00071615n	http://dbpedia.org/resource/Silo	http://babelnet.org/rdf/s00071615n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35190 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	11	0	4100825	A transition is currently underway from relatively inaccurate , liquid - fueled , silo / cave - based missiles ( DF-3 , DF -4 , DF -5 ) to more accurate , solid - fueled , mobile missiles ( DF-11 , DF-15 , and DF-21 , and a new ICBM [ the DF-31 ] and SLBM [ the JL-2 ] , which are currently under development ) .	12705	solid.n	1321	Substance	MANUAL	6540636	155	159	RLG	solid
+LINKED:[32	32	155	159	bn:00110888a		http://babelnet.org/rdf/s00110888a	1.0	0.04761905	0.0020408162	BABELFY]
+RANK:=== COUNTER  Counter 35194 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	11	0	4100825	A transition is currently underway from relatively inaccurate , liquid - fueled , silo / cave - based missiles ( DF-3 , DF -4 , DF -5 ) to more accurate , solid - fueled , mobile missiles ( DF-11 , DF-15 , and DF-21 , and a new ICBM [ the DF-31 ] and SLBM [ the JL-2 ] , which are currently under development ) .	12563	new.a	972	Age	MANUAL	6540638	224	226	RLG	new
+LINKED:[48	48	224	226	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35198 ===
+	Age: -0.02040816326530612
+	Familiarity: -0.04000000000000001
+
+SELECTED:[Age]
+MATCH!
+SILVER:135	23671	3	11	0	4100825	A transition is currently underway from relatively inaccurate , liquid - fueled , silo / cave - based missiles ( DF-3 , DF -4 , DF -5 ) to more accurate , solid - fueled , mobile missiles ( DF-11 , DF-15 , and DF-21 , and a new ICBM [ the DF-31 ] and SLBM [ the JL-2 ] , which are currently under development ) .	14022	transition.n	1172	Undergo_change	MANUAL	6543195	2	11	KmG	transition
+LINKED:[1	1	2	11	bn:00060881n		http://babelnet.org/rdf/s00060881n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35200 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	11	0	4100825	A transition is currently underway from relatively inaccurate , liquid - fueled , silo / cave - based missiles ( DF-3 , DF -4 , DF -5 ) to more accurate , solid - fueled , mobile missiles ( DF-11 , DF-15 , and DF-21 , and a new ICBM [ the DF-31 ] and SLBM [ the JL-2 ] , which are currently under development ) .	14125	accurate.a	1903	Accuracy	MANUAL	6543405	144	151	KmG	accurate
+LINKED:[30	30	144	151	bn:00096292a		http://babelnet.org/rdf/s00096292a	1.0	0.04761905	0.0020408162	BABELFY]
+RANK:=== COUNTER  Counter 35204 ===
+	Accuracy: -0.010000000000000002
+	Correctness: -0.02040816326530612
+
+SELECTED:[Accuracy]
+MATCH!
+SILVER:135	23671	3	11	0	4100825	A transition is currently underway from relatively inaccurate , liquid - fueled , silo / cave - based missiles ( DF-3 , DF -4 , DF -5 ) to more accurate , solid - fueled , mobile missiles ( DF-11 , DF-15 , and DF-21 , and a new ICBM [ the DF-31 ] and SLBM [ the JL-2 ] , which are currently under development ) .	14159	ICBM.n	426	Weapon	MANUAL	6543415	228	231	KmG	ICBM
+LINKED:[49	49	228	231	bn:00045703n	http://dbpedia.org/resource/Intercontinental_ballistic_missile	http://babelnet.org/rdf/s00045703n	1.0	0.42857143	0.1744898	BABELFY]
+RANK:=== COUNTER  Counter 35206 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	3	11	0	4100825	A transition is currently underway from relatively inaccurate , liquid - fueled , silo / cave - based missiles ( DF-3 , DF -4 , DF -5 ) to more accurate , solid - fueled , mobile missiles ( DF-11 , DF-15 , and DF-21 , and a new ICBM [ the DF-31 ] and SLBM [ the JL-2 ] , which are currently under development ) .	14024	underway.a	145	Process_continue	MANUAL	6543466	26	33	RLG	underway
+LINKED:[4	4	26	33	bn:00274338n	http://dbpedia.org/resource/Underway	http://babelnet.org/rdf/s00274338n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35208 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	4	11	0	4100826	China is replacing its older DF-5 missiles with new DF -5A variants , which may eventually be equipped with multiple warheads .	10560	replace.v	1121	Replacing	MANUAL	6540640	9	17	RLG	replacing
+LINKED:[2	2	9	17	bn:00092816v		http://babelnet.org/rdf/s00092816v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35218 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	4	11	0	4100826	China is replacing its older DF-5 missiles with new DF -5A variants , which may eventually be equipped with multiple warheads .	10071	old.a	972	Age	MANUAL	6540641	23	27	RLG	older
+LINKED:[4	4	23	27	bn:00096644a		http://babelnet.org/rdf/s00096644a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35220 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	4	11	0	4100826	China is replacing its older DF-5 missiles with new DF -5A variants , which may eventually be equipped with multiple warheads .	12563	new.a	972	Age	MANUAL	6540702	48	50	MJE	new
+LINKED:[8	8	48	50	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35222 ===
+	Age: -0.02040816326530612
+	Familiarity: -0.04000000000000001
+
+SELECTED:[Age]
+MATCH!
+SILVER:135	23671	4	11	0	4100826	China is replacing its older DF-5 missiles with new DF -5A variants , which may eventually be equipped with multiple warheads .	14037	variant.n	481	Similarity	MANUAL	6543227	59	66	KmG	variants
+LINKED:[12	12	59	66	bn:03448214n	http://dbpedia.org/resource/Variant_(magazine)	http://babelnet.org/rdf/s03448214n	1.0	0.2	0.00862069	BABELFY]
+RANK:=== COUNTER  Counter 35232 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	5	11	0	4100827	A key question is how U.S. deployment of ballistic missile defense ( formerly known as theater and national missile defense ) will affect the pace and scope of Chinese strategic modernization .	7508	key.a	407	Importance	MANUAL	6540711	2	4	RLG	key
+LINKED:[1	1	2	4	bn:00099258a		http://babelnet.org/rdf/s00099258a	1.0	0.045454547	6.478782E-4	BABELFY]
+RANK:=== COUNTER  Counter 35236 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	5	11	0	4100827	A key question is how U.S. deployment of ballistic missile defense ( formerly known as theater and national missile defense ) will affect the pace and scope of Chinese strategic modernization .	10636	ballistic	426	Weapon	MANUAL	6540714	41	49	EGp	ballistic
+LINKED:[8	8	41	49	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.18181819	0.0077745384	BABELFY]
+RANK:=== COUNTER  Counter 35242 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	5	11	0	4100827	A key question is how U.S. deployment of ballistic missile defense ( formerly known as theater and national missile defense ) will affect the pace and scope of Chinese strategic modernization .	11461	known.a	228	Being_named	MANUAL	6540720	78	82	RLG	known
+LINKED:[13	13	78	82	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35248 ===
+	Awareness: -0.002066115702479339
+	Certainty: -0.008264462809917356
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	5	11	0	4100827	A key question is how U.S. deployment of ballistic missile defense ( formerly known as theater and national missile defense ) will affect the pace and scope of Chinese strategic modernization .	10243	national.a	195	Political_locales	MANUAL	6540721	99	106	RLG	national
+LINKED:[17	17	99	106	bn:00107136a		http://babelnet.org/rdf/s00107136a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35250 ===
+	Political_locales: -9.765625E-4
+	Origin: -0.0625
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:135	23671	5	11	0	4100827	A key question is how U.S. deployment of ballistic missile defense ( formerly known as theater and national missile defense ) will affect the pace and scope of Chinese strategic modernization .	10584	chinese.a	1103	Origin	MANUAL	6543819	160	166	KmG	Chinese
+LINKED:[28	28	160	166	bn:00018452n	http://dbpedia.org/resource/Chinese_language	http://babelnet.org/rdf/s00018452n	0.7407407	0.18181819	0.006478782	BABELFY]
+RANK:=== COUNTER  Counter 35264 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	5	11	0	4100827	A key question is how U.S. deployment of ballistic missile defense ( formerly known as theater and national missile defense ) will affect the pace and scope of Chinese strategic modernization .	14337	scope.n	1927	Scope	MANUAL	6543989	151	155	RLG	scope
+LINKED:[26	26	151	155	bn:02281195n	http://dbpedia.org/resource/Scope_(Canadian_TV_series)	http://babelnet.org/rdf/s02281195n	0.8	0.09090909	0.0012957564	BABELFY]
+RANK:=== COUNTER  Counter 35266 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	5	11	0	4100827	A key question is how U.S. deployment of ballistic missile defense ( formerly known as theater and national missile defense ) will affect the pace and scope of Chinese strategic modernization .	14266	theater	1921	Locale_by_event	MANUAL	6544058	87	93	RLG	theater
+LINKED:[15	15	87	93	bn:00045002n	http://dbpedia.org/resource/Theater_(building)	http://babelnet.org/rdf/s00045002n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35268 ===
+	Buildings: -1.451589490492089E-4
+	Locale_by_use: -4.3402777777777775E-4
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	6	11	0	4100828	Chinese missile exports have been a problem for more than a decade .	12470	export	1568	Exporting	MANUAL	6540728	16	22	RLG	exports
+LINKED:[2	2	16	22	bn:00032363n	http://dbpedia.org/resource/Export	http://babelnet.org/rdf/s00032363n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35272 ===
+	Import_export: -0.02040816326530612
+	Exporting: -0.25
+
+SELECTED:[Exporting]
+MATCH!
+SILVER:135	23671	6	11	0	4100828	Chinese missile exports have been a problem for more than a decade .	7356	problem.n	300	Predicament	MANUAL	6540730	36	42	RLG	problem
+LINKED:[6	6	36	42	bn:00064526n	http://dbpedia.org/resource/Problems	http://babelnet.org/rdf/s00064526n	1.0	0.5	0.16666667	BABELFY]
+RANK:=== COUNTER  Counter 35274 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	6	11	0	4100828	Chinese missile exports have been a problem for more than a decade .	4081	decade.n	229	Calendric_unit	MANUAL	6540731	60	65	RLG	decade
+LINKED:[11	11	60	65	bn:00025646n	http://dbpedia.org/resource/Decade	http://babelnet.org/rdf/s00025646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35276 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:135	23671	6	11	0	4100828	Chinese missile exports have been a problem for more than a decade .	10584	chinese.a	1103	Origin	MANUAL	6540985	0	6	KmG	Chinese
+LINKED:[0	0	0	6	bn:00018452n	http://dbpedia.org/resource/Chinese_language	http://babelnet.org/rdf/s00018452n	1.0	1.0	0.6666667	BABELFY]
+RANK:=== COUNTER  Counter 35278 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	7	11	0	4100829	China transferred 36 DF-3 medium - range missiles to Saudi Arabia in 1988 , and supplied Pakistan with 34 M-11 short - range missiles in 1992 .	11593	transfer.v	178	Transfer	MANUAL	6540732	6	16	RLG	transferred
+LINKED:[1	1	6	16	bn:00092460v		http://babelnet.org/rdf/s00092460v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35280 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	7	11	0	4100829	China transferred 36 DF-3 medium - range missiles to Saudi Arabia in 1988 , and supplied Pakistan with 34 M-11 short - range missiles in 1992 .	11749	range.n	1350	Range	MANUAL	6540733	35	39	RLG	range
+LINKED:[6	6	35	39	bn:00003268n	http://dbpedia.org/resource/Range_(music)	http://babelnet.org/rdf/s00003268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35282 ===
+	Diversity: -0.00390625
+	Scope: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	7	11	0	4100829	China transferred 36 DF-3 medium - range missiles to Saudi Arabia in 1988 , and supplied Pakistan with 34 M-11 short - range missiles in 1992 .	11749	range.n	1350	Range	MANUAL	6540736	119	123	RLG	range
+LINKED:[22	22	119	123	bn:00003268n	http://dbpedia.org/resource/Range_(music)	http://babelnet.org/rdf/s00003268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35288 ===
+	Diversity: -0.00390625
+	Scope: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	7	11	0	4100829	China transferred 36 DF-3 medium - range missiles to Saudi Arabia in 1988 , and supplied Pakistan with 34 M-11 short - range missiles in 1992 .	14032	medium.a	95	Position_on_a_scale	MANUAL	6543177	26	31	KmG	medium
+LINKED:[4	4	26	31	bn:00054149n	http://dbpedia.org/resource/Media_(communication)	http://babelnet.org/rdf/s00054149n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35292 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	8	11	0	4100830	China has provided technology and expertise to the missile programs of several countries , including Pakistan , Iran , and North Korea .	10724	program.n	1158	Project	MANUAL	6540743	59	66	RLG	programs
+LINKED:[9	9	59	66	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35302 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23671	8	11	0	4100830	China has provided technology and expertise to the missile programs of several countries , including Pakistan , Iran , and North Korea .	13340	including.prep	1153	Inclusion	MANUAL	6540747	91	99	RLG	including
+LINKED:[14	14	91	99	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35306 ===
+	Inclusion: -0.027777777777777776
+	Cause_to_be_included: -0.25
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:135	23671	9	11	0	4100831	China has not joined the Missile Technology Control Regime ( MTCR ) , but has pledged to abide by its main parameters .	13160	join.v	1733	Becoming_a_member	MANUAL	6540756	14	19	RLG	joined
+LINKED:[3	3	14	19	bn:00088013v		http://babelnet.org/rdf/s00088013v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35308 ===
+	Cause_to_amalgamate: -0.00591715976331361
+	Becoming_a_member: -0.0625
+
+SELECTED:[Becoming_a_member]
+MATCH!
+SILVER:135	23671	9	11	0	4100831	China has not joined the Missile Technology Control Regime ( MTCR ) , but has pledged to abide by its main parameters .	13875	main.a	407	Importance	MANUAL	6541488	102	105	KmG	main
+LINKED:[20	20	102	105	bn:00099598a		http://babelnet.org/rdf/s00099598a	1.0	0.11111111	0.0050251256	BABELFY]
+RANK:=== COUNTER  Counter 35318 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	9	11	0	4100831	China has not joined the Missile Technology Control Regime ( MTCR ) , but has pledged to abide by its main parameters .	14261	parameter.n	1531	Terms_of_agreement	MANUAL	6543765	107	116	KmG	parameters
+LINKED:[21	21	107	116	bn:00060585n		http://babelnet.org/rdf/s00060585n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35320 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	10	11	0	4100832	In November 2000 , China promised not to assist any country in the development of nuclear - capable ballistic missiles .	10636	ballistic	426	Weapon	MANUAL	6540769	100	108	EGp	ballistic
+LINKED:[18	18	100	108	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.22222222	0.02027027	BABELFY]
+RANK:=== COUNTER  Counter 35332 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	10	11	0	4100832	In November 2000 , China promised not to assist any country in the development of nuclear - capable ballistic missiles .	12170	nuclear.a	426	Weapon	MANUAL	6542824	82	88	RLG	nuclear
+LINKED:[15	15	82	88	bn:00107643a		http://babelnet.org/rdf/s00107643a	1.0	0.11111111	0.0033783785	BABELFY]
+RANK:=== COUNTER  Counter 35336 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	11	11	0	4100833	In August 2002 , China issued regulations and a control list restricting the export of missiles and missile technology .	13755	regulation.n	950	Law	MANUAL	6540895	30	40	KmG	regulations
+LINKED:[6	6	30	40	bn:00059436n	http://dbpedia.org/resource/Regulation	http://babelnet.org/rdf/s00059436n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35340 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	11	11	0	4100833	In August 2002 , China issued regulations and a control list restricting the export of missiles and missile technology .	12470	export	1568	Exporting	MANUAL	6540906	77	82	KmG	export
+LINKED:[13	13	77	82	bn:00032363n	http://dbpedia.org/resource/Export	http://babelnet.org/rdf/s00032363n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35344 ===
+	Import_export: -0.02040816326530612
+	Exporting: -0.25
+
+SELECTED:[Exporting]
+MATCH!
+SILVER:135	23671	11	11	0	4100833	In August 2002 , China issued regulations and a control list restricting the export of missiles and missile technology .	14258	issue.v	319	Creating	MANUAL	6543758	23	28	KmG	issued
+LINKED:[5	5	23	28	bn:00084099v		http://babelnet.org/rdf/s00084099v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35354 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	12	11	0	4100834	Since 2004 , China has been engaged in consultation with the MTCR ; however , its application for membership has so far not been successful and suspicions , especially in the United States , about Chinese missile technology transfers remain .	168	suspicion.n	19	Awareness	MANUAL	6540917	144	153	KmG	suspicions
+LINKED:[26	26	144	153	bn:00045216n		http://babelnet.org/rdf/s00045216n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35362 ===
+	Awareness: -0.002066115702479339
+	Opinion: -0.010000000000000002
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:135	23671	12	11	0	4100834	Since 2004 , China has been engaged in consultation with the MTCR ; however , its application for membership has so far not been successful and suspicions , especially in the United States , about Chinese missile technology transfers remain .	10584	chinese.a	1103	Origin	MANUAL	6540919	197	203	KmG	Chinese
+LINKED:[35	35	197	203	bn:00018452n	http://dbpedia.org/resource/Chinese_language	http://babelnet.org/rdf/s00018452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35364 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	12	11	0	4100834	Since 2004 , China has been engaged in consultation with the MTCR ; however , its application for membership has so far not been successful and suspicions , especially in the United States , about Chinese missile technology transfers remain .	10813	transfer.n	178	Transfer	MANUAL	6540922	224	232	KmG	transfers
+LINKED:[38	38	224	232	bn:16657442n	http://dbpedia.org/resource/Transfer_(patent)	http://babelnet.org/rdf/s16657442n	1.0	0.2631579	0.007606491	BABELFY]
+RANK:=== COUNTER  Counter 35370 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	12	11	0	4100834	Since 2004 , China has been engaged in consultation with the MTCR ; however , its application for membership has so far not been successful and suspicions , especially in the United States , about Chinese missile technology transfers remain .	11837	successful.a	1389	Successful_action	MANUAL	6541495	129	138	KmG	successful
+LINKED:[24	24	129	138	bn:00111409a		http://babelnet.org/rdf/s00111409a	1.0	0.05263158	2.535497E-4	BABELFY]
+RANK:=== COUNTER  Counter 35372 ===
+	Success_or_failure: -0.008264462809917356
+	Successful_action: -0.010000000000000002
+
+SELECTED:[Successful_action]
+MATCH!
+SILVER:135	23671	12	11	0	4100834	Since 2004 , China has been engaged in consultation with the MTCR ; however , its application for membership has so far not been successful and suspicions , especially in the United States , about Chinese missile technology transfers remain .	14419	remain.v	660	Existence	MANUAL	6544147	234	239	KmG	remain
+LINKED:[39	39	234	239	bn:00092756v		http://babelnet.org/rdf/s00092756v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35376 ===
+	Temporary_stay: -0.027777777777777776
+	Existence: -0.0625
+	Left_to_do: -0.25
+	State_continue: -1.0
+
+SELECTED:[Existence]
+MATCH!
+SILVER:135	23671	13	11	0	4100835	China 's development of anti - satellite ( ASAT ) capabilities has also raised concerns about China 's missile and related military space program .	10702	capability.n	990	Capability	MANUAL	6540926	50	61	KmG	capabilities
+LINKED:[10	10	50	61	bn:01670049n	http://dbpedia.org/resource/Capability_(systems_engineering)	http://babelnet.org/rdf/s01670049n	0.9	0.23076923	0.0073710075	BABELFY]
+RANK:=== COUNTER  Counter 35378 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	13	11	0	4100835	China 's development of anti - satellite ( ASAT ) capabilities has also raised concerns about China 's missile and related military space program .	12282	military.n	1514	Military	MANUAL	6540931	123	130	KmG	military
+LINKED:[21	21	123	130	bn:00106724a		http://babelnet.org/rdf/s00106724a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35384 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	13	11	0	4100835	China 's development of anti - satellite ( ASAT ) capabilities has also raised concerns about China 's missile and related military space program .	10724	program.n	1158	Project	MANUAL	6540932	138	144	KmG	program
+LINKED:[23	23	138	144	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35386 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Project]
+MATCH!
+SILVER:135	23671	14	11	0	4100836	On 11 January 2007 , China successfully carried out a test of a direct ascent anti - satellite ( ASAT ) weapon , by using a ballistic missile to destroy an aging weather satellite in orbit approximately 500 miles above the Earth 's surface .	11705	carry	198	Intentionally_act	MANUAL	6540934	40	46	KmG	carried
+LINKED:[7	7	40	46	bn:00084581v		http://babelnet.org/rdf/s00084581v	1.0	0.0952381	9.0211997E-4	BABELFY]
+RANK:=== COUNTER  Counter 35394 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	14	11	0	4100836	On 11 January 2007 , China successfully carried out a test of a direct ascent anti - satellite ( ASAT ) weapon , by using a ballistic missile to destroy an aging weather satellite in orbit approximately 500 miles above the Earth 's surface .	11463	test.n	1301	Operational_testing	MANUAL	6540936	54	57	KmG	test
+LINKED:[10	10	54	57	bn:00076647n		http://babelnet.org/rdf/s00076647n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35396 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	14	11	0	4100836	On 11 January 2007 , China successfully carried out a test of a direct ascent anti - satellite ( ASAT ) weapon , by using a ballistic missile to destroy an aging weather satellite in orbit approximately 500 miles above the Earth 's surface .	10636	ballistic	426	Weapon	MANUAL	6540947	124	132	EGp	ballistic
+LINKED:[26	26	124	132	bn:00098005a		http://babelnet.org/rdf/s00098005a	1.0	0.33333334	0.012629679	BABELFY]
+RANK:=== COUNTER  Counter 35400 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23671	14	11	0	4100836	On 11 January 2007 , China successfully carried out a test of a direct ascent anti - satellite ( ASAT ) weapon , by using a ballistic missile to destroy an aging weather satellite in orbit approximately 500 miles above the Earth 's surface .	14250	aging.a	1919	Aging	MANUAL	6543745	156	160	KmG	aging
+LINKED:[31	31	156	160	bn:00082449v		http://babelnet.org/rdf/s00082449v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 35414 ===
+
+SELECTED:[]
+WRONG!
+filename	NTI__ChinaOverview.xml
+docAnnotations	474
+docManual	423
+docUnannotated	51
+sentences	39
+paragraphs	11
+Overlapping	369
+Disambiguated	75
+TP	63
+TN	51
+FP	0
+FN	348
+P	1.0
+R	0.15328467153284672
+F	0.2658227848101266
+A	0.24675324675324675

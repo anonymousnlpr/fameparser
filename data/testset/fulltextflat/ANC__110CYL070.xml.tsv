@@ -1,0 +1,102 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+195	23795	1	1	0	4106491	December 10 , 1996	null	null	null	null	UNANN	6556608	null	null	null	null
+195	23795	1	1	0	4106491	December 10 , 1996	4654	December.n	229	Calendric_unit	MANUAL	6557180	0	7	AlK	December
+195	23795	1	2	0	4106492	Dear Mailhouse donor reminder :	null	null	null	null	UNANN	6556609	null	null	null	null
+195	23795	1	2	0	4106492	Dear Mailhouse donor reminder :	5346	donor.n	139	Giving	MANUAL	6557406	15	19	AlK	donor
+195	23795	1	2	0	4106492	Dear Mailhouse donor reminder :	10901	reminder.n	1012	Evoking	MANUAL	6557407	21	28	AlK	reminder
+195	23795	1	3	0	4106493	You and I have done some important work together .	null	null	null	null	UNANN	6556610	null	null	null	null
+195	23795	1	3	0	4106493	You and I have done some important work together .	10612	do.v	198	Intentionally_act	MANUAL	6556798	15	18	AlK	done
+195	23795	1	3	0	4106493	You and I have done some important work together .	14290	some.art	1923	Proportional_quantity	MANUAL	6556799	20	23	AlK	some
+195	23795	1	3	0	4106493	You and I have done some important work together .	7528	important.a	407	Importance	MANUAL	6556800	25	33	AlK	important
+195	23795	1	3	0	4106493	You and I have done some important work together .	14001	work.n	1892	Work	MANUAL	6556801	35	38	AlK	work
+195	23795	1	3	0	4106493	You and I have done some important work together .	15232	together.adv	418	Collaboration	MANUAL	6556802	40	47	AlK	together
+195	23795	1	4	0	4106494	We 've helped people break free of the welfare cycle .	null	null	null	null	UNANN	6556611	null	null	null	null
+195	23795	1	4	0	4106494	We 've helped people break free of the welfare cycle .	7041	help.v	391	Assistance	MANUAL	6556803	7	12	AlK	helped
+195	23795	1	4	0	4106494	We 've helped people break free of the welfare cycle .	5511	people.n	304	People	MANUAL	6556804	14	19	AlK	people
+195	23795	2	4	0	4106495	We 've found ways for people with disabilities to enter the workforce .	null	null	null	null	UNANN	6556612	null	null	null	null
+195	23795	2	4	0	4106495	We 've found ways for people with disabilities to enter the workforce .	11708	found.v	280	Intentionally_create	MANUAL	6556805	7	11	AlK	found
+195	23795	2	4	0	4106495	We 've found ways for people with disabilities to enter the workforce .	13557	way.n	1790	Means	MANUAL	6556806	13	16	AlK	ways
+195	23795	2	4	0	4106495	We 've found ways for people with disabilities to enter the workforce .	5511	people.n	304	People	MANUAL	6556807	22	27	AlK	people
+195	23795	2	4	0	4106495	We 've found ways for people with disabilities to enter the workforce .	13170	enter.v	1733	Becoming_a_member	MANUAL	6556808	50	54	AlK	enter
+195	23795	3	4	0	4106496	We 've expanded Goodwill 's proven methods to towns and neighborhoods where they are needed most .	null	null	null	null	UNANN	6556613	null	null	null	null
+195	23795	3	4	0	4106496	We 've expanded Goodwill 's proven methods to towns and neighborhoods where they are needed most .	1652	expand.v	77	Cause_expansion	MANUAL	6556809	7	14	AlK	expanded
+195	23795	3	4	0	4106496	We 've expanded Goodwill 's proven methods to towns and neighborhoods where they are needed most .	247	prove.v	25	Evidence	MANUAL	6556810	28	33	AlK	proven
+195	23795	3	4	0	4106496	We 've expanded Goodwill 's proven methods to towns and neighborhoods where they are needed most .	13558	method.n	1790	Means	MANUAL	6556811	35	41	AlK	methods
+195	23795	3	4	0	4106496	We 've expanded Goodwill 's proven methods to towns and neighborhoods where they are needed most .	3691	town.n	195	Political_locales	MANUAL	6556812	46	50	AlK	towns
+195	23795	3	4	0	4106496	We 've expanded Goodwill 's proven methods to towns and neighborhoods where they are needed most .	13318	where.adv	199	Locative_relation	MANUAL	6556813	70	74	AlK	where
+195	23795	3	4	0	4106496	We 've expanded Goodwill 's proven methods to towns and neighborhoods where they are needed most .	11791	need.v	1375	Needing	MANUAL	6556814	85	90	AlK	needed
+195	23795	1	5	0	4106497	Of course , we 've played different roles .	null	null	null	null	UNANN	6556614	null	null	null	null
+195	23795	1	5	0	4106497	Of course , we 've played different roles .	7565	play.v	413	Performers_and_roles	MANUAL	6556815	19	24	AlK	played
+195	23795	1	5	0	4106497	Of course , we 've played different roles .	10294	different.a	1029	Identicality	MANUAL	6556816	26	34	AlK	different
+195	23795	1	5	0	4106497	Of course , we 've played different roles .	13931	role.n	413	Performers_and_roles	MANUAL	6556817	36	40	AlK	roles
+195	23795	2	5	0	4106498	You have helped make Goodwill 's work possible with your previous support .	null	null	null	null	UNANN	6556615	null	null	null	null
+195	23795	2	5	0	4106498	You have helped make Goodwill 's work possible with your previous support .	7041	help.v	391	Assistance	MANUAL	6556818	9	14	AlK	helped
+195	23795	2	5	0	4106498	You have helped make Goodwill 's work possible with your previous support .	8705	make.v	683	Cause_change	MANUAL	6556819	16	19	AlK	make
+195	23795	2	5	0	4106498	You have helped make Goodwill 's work possible with your previous support .	14001	work.n	1892	Work	MANUAL	6556820	33	36	AlK	work
+195	23795	2	5	0	4106498	You have helped make Goodwill 's work possible with your previous support .	2281	possible.a	114	Likelihood	MANUAL	6556821	38	45	AlK	possible
+195	23795	2	5	0	4106498	You have helped make Goodwill 's work possible with your previous support .	14087	previous.a	379	Time_vector	MANUAL	6556822	57	64	AlK	previous
+195	23795	3	5	0	4106499	Goodwill has devised the programs that turned your investment into results .	null	null	null	null	UNANN	6556616	null	null	null	null
+195	23795	3	5	0	4106499	Goodwill has devised the programs that turned your investment into results .	268	devise.v	27	Coming_up_with	MANUAL	6556823	13	19	AlK	devised
+195	23795	3	5	0	4106499	Goodwill has devised the programs that turned your investment into results .	10724	program.n	1158	Project	MANUAL	6556824	25	32	AlK	programs
+195	23795	3	5	0	4106499	Goodwill has devised the programs that turned your investment into results .	9268	turn.v	683	Cause_change	MANUAL	6556825	39	44	AlK	turned
+195	23795	3	5	0	4106499	Goodwill has devised the programs that turned your investment into results .	14552	result.n	5	Causation	MANUAL	6556826	67	73	AlK	results
+195	23795	1	6	0	4106500	Who has benefited from our partnership ?	null	null	null	null	UNANN	6556617	null	null	null	null
+195	23795	2	6	0	4106501	Everyone has .	null	null	null	null	UNANN	6556618	null	null	null	null
+195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	null	null	null	null	UNANN	6556619	null	null	null	null
+195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	14147	when.adv	1895	Temporal_collocation	MANUAL	6556827	0	3	AlK	When
+195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	7041	help.v	391	Assistance	MANUAL	6556828	15	18	AlK	help
+195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	11227	find.v	792	Locating	MANUAL	6556829	29	32	AlK	find
+195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	5785	job.n	282	Being_employed	MANUAL	6556830	36	38	AlK	job
+195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	3843	one.num	218	Cardinal_numbers	MANUAL	6556831	42	44	AlK	one
+195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	10290	more.a	1001	Increment	MANUAL	6556832	46	49	AlK	more
+195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	5512	person.n	304	People	MANUAL	6556833	51	56	AlK	person
+195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	13160	join.v	1733	Becoming_a_member	MANUAL	6556834	58	62	AlK	joins
+195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	11591	assistance.n	391	Assistance	MANUAL	6556835	128	137	AlK	assistance
+195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	6355	business.n	365	Businesses	MANUAL	6556836	143	152	AlK	businesses
+195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	7502	gain.v	179	Getting	MANUAL	6556837	154	157	AlK	gain
+195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	10175	another.a	1001	Increment	MANUAL	6556838	159	165	AlK	another
+195	23795	1	7	0	4106503	There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem .	null	null	null	null	UNANN	6556620	null	null	null	null
+195	23795	1	7	0	4106503	There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem .	10329	there	660	Existence	MANUAL	6556839	0	4	AlK	There
+195	23795	1	7	0	4106503	There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem .	10329	there	660	Existence	MANUAL	6556839	6	8	AlK	are
+195	23795	1	7	0	4106503	There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem .	13232	a	189	Quantified_mass	MANUAL	6556840	10	10	EGp	a
+195	23795	1	7	0	4106503	There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem .	13232	a	189	Quantified_mass	MANUAL	6556840	12	14	EGp	lot
+195	23795	1	7	0	4106503	There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem .	5511	people.n	304	People	MANUAL	6556841	38	43	AlK	people
+195	23795	1	7	0	4106503	There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem .	5780	work.v	282	Being_employed	MANUAL	6556842	50	56	AlK	working
+195	23795	1	7	0	4106503	There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem .	14181	history.n	1906	Individual_history	MANUAL	6556843	95	101	AlK	history
+195	23795	1	7	0	4106503	There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem .	12619	dependency.n	901	Reliance	MANUAL	6556844	114	123	AlK	dependency
+195	23795	1	7	0	4106503	There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem .	2437	lack.n	118	Possession	MANUAL	6556845	129	132	AlK	lack
+195	23795	1	7	0	4106503	There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem .	10841	education.n	111	Education_teaching	MANUAL	6556846	137	145	AlK	education
+195	23795	2	7	0	4106504	And there are a lot of people who face these challenges every day of their lives .	null	null	null	null	UNANN	6556621	null	null	null	null
+195	23795	2	7	0	4106504	And there are a lot of people who face these challenges every day of their lives .	10329	there	660	Existence	MANUAL	6556847	4	8	AlK	there
+195	23795	2	7	0	4106504	And there are a lot of people who face these challenges every day of their lives .	10329	there	660	Existence	MANUAL	6556847	10	12	AlK	are
+195	23795	2	7	0	4106504	And there are a lot of people who face these challenges every day of their lives .	13232	a	189	Quantified_mass	MANUAL	6556848	14	14	EGp	a
+195	23795	2	7	0	4106504	And there are a lot of people who face these challenges every day of their lives .	13232	a	189	Quantified_mass	MANUAL	6556848	16	18	EGp	lot
+195	23795	2	7	0	4106504	And there are a lot of people who face these challenges every day of their lives .	5511	people.n	304	People	MANUAL	6556849	23	28	AlK	people
+195	23795	2	7	0	4106504	And there are a lot of people who face these challenges every day of their lives .	14979	face.v	2054	Confronting_problem	MANUAL	6556850	34	37	AlK	face
+195	23795	2	7	0	4106504	And there are a lot of people who face these challenges every day of their lives .	12788	challenge.n	375	Difficulty	MANUAL	6556851	45	54	AlK	challenges
+195	23795	2	7	0	4106504	And there are a lot of people who face these challenges every day of their lives .	14110	every.prep	80	Frequency	MANUAL	6556852	56	60	AlK	every
+195	23795	2	7	0	4106504	And there are a lot of people who face these challenges every day of their lives .	3946	day.n	229	Calendric_unit	MANUAL	6556853	62	64	AlK	day
+195	23795	2	7	0	4106504	And there are a lot of people who face these challenges every day of their lives .	10190	of.prep	1010	Partitive	MANUAL	6556854	66	67	AlK	of
+195	23795	3	7	0	4106505	So our work must continue .	null	null	null	null	UNANN	6556622	null	null	null	null
+195	23795	3	7	0	4106505	So our work must continue .	14001	work.n	1892	Work	MANUAL	6556855	7	10	AlK	work
+195	23795	3	7	0	4106505	So our work must continue .	2799	continue.v	145	Process_continue	MANUAL	6556857	17	24	AlK	continue
+195	23795	3	7	0	4106505	So our work must continue .	11816	must.v	1381	Required_event	MANUAL	6557208	12	15	AlK	must
+195	23795	1	8	0	4106506	Everyone benefits from the work we do together .	null	null	null	null	UNANN	6556623	null	null	null	null
+195	23795	1	8	0	4106506	Everyone benefits from the work we do together .	14001	work.n	1892	Work	MANUAL	6556858	27	30	AlK	work
+195	23795	1	8	0	4106506	Everyone benefits from the work we do together .	10612	do.v	198	Intentionally_act	MANUAL	6556859	35	36	AlK	do
+195	23795	1	8	0	4106506	Everyone benefits from the work we do together .	15232	together.adv	418	Collaboration	MANUAL	6556860	38	45	AlK	together
+195	23795	2	8	0	4106507	Many people need our help .	null	null	null	null	UNANN	6556624	null	null	null	null
+195	23795	2	8	0	4106507	Many people need our help .	13746	many.a	189	Quantified_mass	MANUAL	6556861	0	3	AlK	Many
+195	23795	2	8	0	4106507	Many people need our help .	5511	people.n	304	People	MANUAL	6556862	5	10	AlK	people
+195	23795	2	8	0	4106507	Many people need our help .	11791	need.v	1375	Needing	MANUAL	6556863	12	15	AlK	need
+195	23795	2	8	0	4106507	Many people need our help .	12165	help.n	391	Assistance	MANUAL	6556864	21	24	AlK	help
+195	23795	1	9	0	4106508	Please continue our important partnership .	null	null	null	null	UNANN	6556625	null	null	null	null
+195	23795	1	9	0	4106508	Please continue our important partnership .	5435	continue.v	164	Activity_ongoing	MANUAL	6556865	7	14	AlK	continue
+195	23795	1	9	0	4106508	Please continue our important partnership .	7528	important.a	407	Importance	MANUAL	6556866	20	28	AlK	important
+195	23795	2	9	0	4106509	Support Goodwill with a generous donation today .	null	null	null	null	UNANN	6556626	null	null	null	null
+195	23795	2	9	0	4106509	Support Goodwill with a generous donation today .	14738	support.v	2000	Supporting	MANUAL	6556867	0	6	AlK	Support
+195	23795	2	9	0	4106509	Support Goodwill with a generous donation today .	9009	generous.a	724	Stinginess	MANUAL	6556868	24	31	AlK	generous
+195	23795	2	9	0	4106509	Support Goodwill with a generous donation today .	5345	donation.n	139	Giving	MANUAL	6556869	33	40	AlK	donation
+195	23795	1	10	0	4106510	Sincerely ,	null	null	null	null	UNANN	6556627	null	null	null	null
+195	23795	1	11	0	4106511	James M. McClelland President	null	null	null	null	UNANN	6556628	null	null	null	null
+195	23795	1	11	0	4106511	James M. McClelland President	1599	president	73	Leadership	MANUAL	6557209	20	28	AlK	President

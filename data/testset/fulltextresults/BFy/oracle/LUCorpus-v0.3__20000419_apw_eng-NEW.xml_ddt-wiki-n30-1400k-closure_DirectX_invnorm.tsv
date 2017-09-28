@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__20000419_apw_eng-NEW.xml
+docAnnotations	71
+docManual	62
+docUnannotated	9
+sentences	9
+paragraphs	8
+Overlapping	48
+Disambiguated	40
+TP	25
+TN	9
+FP	0
+FN	22
+P	1.0
+R	0.5319148936170213
+F	0.6944444444444444
+A	0.6071428571428571

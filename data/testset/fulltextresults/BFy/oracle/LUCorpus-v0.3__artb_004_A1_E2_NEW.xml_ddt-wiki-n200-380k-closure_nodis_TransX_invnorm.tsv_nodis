@@ -1,0 +1,16 @@
+filename	LUCorpus-v0.3__artb_004_A1_E2_NEW.xml
+docAnnotations	66
+docManual	58
+docUnannotated	8
+sentences	8
+paragraphs	8
+Overlapping	40
+Disambiguated	35
+TP	26
+TN	8
+FP	0
+FN	23
+P	1.0
+R	0.5306122448979592
+F	0.6933333333333334
+A	0.5964912280701754

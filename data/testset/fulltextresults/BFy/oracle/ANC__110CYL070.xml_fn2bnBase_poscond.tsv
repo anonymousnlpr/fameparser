@@ -1,0 +1,152 @@
+SILVER:195	23795	1	2	0	4106492	Dear Mailhouse donor reminder :	5346	donor.n	139	Giving	MANUAL	6557406	15	19	AlK	donor
+LINKED:[2	2	15	19	bn:00028236n		http://babelnet.org/rdf/s00028236n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17844 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	1	4	0	4106494	We 've helped people break free of the welfare cycle .	7041	help.v	391	Assistance	MANUAL	6556803	7	12	AlK	helped
+LINKED:[2	2	7	12	bn:00082482v		http://babelnet.org/rdf/s00082482v	0.75	0.25	0.1875	BABELFY]
+RANK:=== COUNTER  Counter 17852 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	2	4	0	4106495	We 've found ways for people with disabilities to enter the workforce .	11708	found.v	280	Intentionally_create	MANUAL	6556805	7	11	AlK	found
+LINKED:[2	2	7	11	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17856 ===
+	Becoming_aware: -0.008264462809917356
+	Locating: -0.25
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	2	4	0	4106495	We 've found ways for people with disabilities to enter the workforce .	13557	way.n	1790	Means	MANUAL	6556806	13	16	AlK	ways
+LINKED:[3	3	13	16	bn:00080720n		http://babelnet.org/rdf/s00080720n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17858 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	3	4	0	4106496	We 've expanded Goodwill 's proven methods to towns and neighborhoods where they are needed most .	1652	expand.v	77	Cause_expansion	MANUAL	6556809	7	14	AlK	expanded
+LINKED:[2	2	7	14	bn:00087848v		http://babelnet.org/rdf/s00087848v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17864 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	3	4	0	4106496	We 've expanded Goodwill 's proven methods to towns and neighborhoods where they are needed most .	247	prove.v	25	Evidence	MANUAL	6556810	28	33	AlK	proven
+LINKED:[5	5	28	33	bn:00109159a		http://babelnet.org/rdf/s00109159a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17866 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	1	5	0	4106497	Of course , we 've played different roles .	13931	role.n	413	Performers_and_roles	MANUAL	6556817	36	40	AlK	roles
+LINKED:[7	7	36	40	bn:00036822n		http://babelnet.org/rdf/s00036822n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17878 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	2	5	0	4106498	You have helped make Goodwill 's work possible with your previous support .	14087	previous.a	379	Time_vector	MANUAL	6556822	57	64	AlK	previous
+LINKED:[10	10	57	64	bn:00107791a		http://babelnet.org/rdf/s00107791a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17886 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	3	5	0	4106499	Goodwill has devised the programs that turned your investment into results .	268	devise.v	27	Coming_up_with	MANUAL	6556823	13	19	AlK	devised
+LINKED:[2	2	13	19	bn:00085743v		http://babelnet.org/rdf/s00085743v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17888 ===
+	Achieving_first: -0.008264462809917356
+	Coming_up_with: -0.008264462809917356
+
+SELECTED:[Coming_up_with]
+MATCH!
+SILVER:195	23795	3	5	0	4106499	Goodwill has devised the programs that turned your investment into results .	10724	program.n	1158	Project	MANUAL	6556824	25	32	AlK	programs
+LINKED:[4	4	25	32	bn:00064646n		http://babelnet.org/rdf/s00064646n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17890 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	3	5	0	4106499	Goodwill has devised the programs that turned your investment into results .	9268	turn.v	683	Cause_change	MANUAL	6556825	39	44	AlK	turned
+LINKED:[6	6	39	44	bn:00095241v		http://babelnet.org/rdf/s00095241v	1.0	0.25	0.071428575	BABELFY]
+RANK:=== COUNTER  Counter 17892 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	3	5	0	4106499	Goodwill has devised the programs that turned your investment into results .	14552	result.n	5	Causation	MANUAL	6556826	67	73	AlK	results
+LINKED:[10	10	67	73	bn:00004452n		http://babelnet.org/rdf/s00004452n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17894 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	11227	find.v	792	Locating	MANUAL	6556829	29	32	AlK	find
+LINKED:[6	6	29	32	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17898 ===
+	Becoming_aware: -0.008264462809917356
+	Locating: -0.25
+
+SELECTED:[Locating]
+MATCH!
+SILVER:195	23795	3	6	0	4106502	When you and I help somebody find a job , one more person joins the ranks of tax payers , fewer tax dollars are spent on public assistance and businesses gain another consumer .	13160	join.v	1733	Becoming_a_member	MANUAL	6556834	58	62	AlK	joins
+LINKED:[13	13	58	62	bn:00088013v		http://babelnet.org/rdf/s00088013v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17904 ===
+	Cause_to_amalgamate: -0.00591715976331361
+	Becoming_a_member: -0.0625
+
+SELECTED:[Becoming_a_member]
+MATCH!
+SILVER:195	23795	1	7	0	4106503	There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem .	13232	a	189	Quantified_mass	MANUAL	6556840	12	14	EGp	lot
+LINKED:[3	3	12	14	bn:00008985n	http://dbpedia.org/resource/Slew_(spacecraft)	http://babelnet.org/rdf/s00008985n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17912 ===
+	Aggregate: -4.0E-4
+	Quantity: -8.163265306122448E-4
+	Sufficiency: -0.0034602076124567475
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	1	7	0	4106503	There are a lot of barriers that keep people from working : physical and mental disabilities , history of welfare dependency and lack of education or self-esteem .	14181	history.n	1906	Individual_history	MANUAL	6556843	95	101	AlK	history
+LINKED:[17	17	95	101	bn:00044268n	http://dbpedia.org/resource/History	http://babelnet.org/rdf/s00044268n	0.94623655	0.73333335	0.27035332	BABELFY]
+RANK:=== COUNTER  Counter 17918 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	2	7	0	4106504	And there are a lot of people who face these challenges every day of their lives .	12788	challenge.n	375	Difficulty	MANUAL	6556851	45	54	AlK	challenges
+LINKED:[10	10	45	54	bn:00017557n		http://babelnet.org/rdf/s00017557n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17932 ===
+	Competition: -0.02040816326530612
+	Difficulty: -0.027777777777777776
+
+SELECTED:[Difficulty]
+MATCH!
+SILVER:195	23795	2	7	0	4106504	And there are a lot of people who face these challenges every day of their lives .	3946	day.n	229	Calendric_unit	MANUAL	6556853	62	64	AlK	day
+LINKED:[12	12	62	64	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 17934 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+	Timespan: -0.04000000000000001
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:195	23795	2	8	0	4106507	Many people need our help .	12165	help.n	391	Assistance	MANUAL	6556864	21	24	AlK	help
+LINKED:[4	4	21	24	bn:00002154n		http://babelnet.org/rdf/s00002154n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 17946 ===
+
+SELECTED:[]
+WRONG!
+SILVER:195	23795	1	11	0	4106511	James M. McClelland President	1599	president	73	Leadership	MANUAL	6557209	20	28	AlK	President
+LINKED:[3	3	20	28	bn:00018323n	http://dbpedia.org/resource/President_of_the_United_States	http://babelnet.org/rdf/s00018323n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 17958 ===
+
+SELECTED:[]
+WRONG!
+filename	ANC__110CYL070.xml
+docAnnotations	101
+docManual	80
+docUnannotated	21
+sentences	21
+paragraphs	11
+Overlapping	59
+Disambiguated	7
+TP	5
+TN	21
+FP	0
+FN	73
+P	1.0
+R	0.0641025641025641
+F	0.12048192771084336
+A	0.26262626262626265

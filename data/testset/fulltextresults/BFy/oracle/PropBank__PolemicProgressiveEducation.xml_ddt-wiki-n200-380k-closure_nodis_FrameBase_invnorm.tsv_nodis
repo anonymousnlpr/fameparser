@@ -1,0 +1,16 @@
+filename	PropBank__PolemicProgressiveEducation.xml
+docAnnotations	608
+docManual	496
+docUnannotated	112
+sentences	82
+paragraphs	19
+Overlapping	365
+Disambiguated	256
+TP	206
+TN	112
+FP	0
+FN	240
+P	1.0
+R	0.4618834080717489
+F	0.6319018404907976
+A	0.5698924731182796

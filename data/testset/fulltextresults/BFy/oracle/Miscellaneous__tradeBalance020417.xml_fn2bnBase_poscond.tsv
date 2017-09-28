@@ -1,0 +1,238 @@
+SILVER:175	23841	1	1	0	4107448	Canadian international merchandise trade	11687	canadian.a	1103	Origin	MANUAL	6559557	0	7	MLC	Canadian
+LINKED:[0	0	0	7	bn:00015125n	http://dbpedia.org/resource/Canadians	http://babelnet.org/rdf/s00015125n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34560 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	1	1	0	4107448	Canadian international merchandise trade	12420	international.a	1483	Foreign_or_domestic_country	MANUAL	6559558	9	21	MLC	international
+LINKED:[1	1	9	21	bn:00105294a		http://babelnet.org/rdf/s00105294a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34562 ===
+	Political_locales: -9.765625E-4
+	Foreign_or_domestic_country: -0.027777777777777776
+
+SELECTED:[Foreign_or_domestic_country]
+MATCH!
+SILVER:175	23841	1	1	0	4107448	Canadian international merchandise trade	10789	trade.n	1170	Exchange	MANUAL	6559559	35	39	MLC	trade
+LINKED:[3	3	35	39	bn:00077860n	http://dbpedia.org/resource/Trade	http://babelnet.org/rdf/s00077860n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34564 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	1	3	0	4107450	Canada 's merchandise exports and imports posted increases in February as automobile assembly lines stepped up production after shutdowns in January .	12470	export	1568	Exporting	MANUAL	6559562	22	28	CFB	exports
+LINKED:[3	3	22	28	bn:00032363n	http://dbpedia.org/resource/Export	http://babelnet.org/rdf/s00032363n	0.8181818	0.4	0.040268455	BABELFY]
+RANK:=== COUNTER  Counter 34570 ===
+	Import_export: -0.02040816326530612
+	Exporting: -0.25
+
+SELECTED:[Exporting]
+MATCH!
+SILVER:175	23841	1	3	0	4107450	Canada 's merchandise exports and imports posted increases in February as automobile assembly lines stepped up production after shutdowns in January .	12472	import	1567	Importing	MANUAL	6559563	34	40	CFB	imports
+LINKED:[5	5	34	40	bn:00046137n	http://dbpedia.org/resource/Import	http://babelnet.org/rdf/s00046137n	0.9722222	0.33333334	0.026099926	BABELFY]
+RANK:=== COUNTER  Counter 34572 ===
+	Import_export: -0.02040816326530612
+	Importing: -0.25
+
+SELECTED:[Importing]
+MATCH!
+SILVER:175	23841	1	3	0	4107450	Canada 's merchandise exports and imports posted increases in February as automobile assembly lines stepped up production after shutdowns in January .	11441	production.n	408	Manufacturing	MANUAL	6559564	111	120	CFB	production
+LINKED:[16	16	111	120	bn:00064594n	http://dbpedia.org/resource/Production_(economics)	http://babelnet.org/rdf/s00064594n	0.7567568	0.53333336	0.083519764	BABELFY]
+RANK:=== COUNTER  Counter 34574 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	1	3	0	4107450	Canada 's merchandise exports and imports posted increases in February as automobile assembly lines stepped up production after shutdowns in January .	12774	step	96	Cause_change_of_position_on_a_scale	MANUAL	6559567	100	106	EGp	stepped
+LINKED:[14	14	100	106	bn:00094337v		http://babelnet.org/rdf/s00094337v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34576 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	1	3	0	4107450	Canada 's merchandise exports and imports posted increases in February as automobile assembly lines stepped up production after shutdowns in January .	16135	shutdown.n	144	Process_stop	MANUAL	6559619	128	136	MLC	shutdowns
+LINKED:[18	18	128	136	bn:00019944n	http://dbpedia.org/resource/Sign-off	http://babelnet.org/rdf/s00019944n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34578 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	2	3	0	4107451	Canadian companies exported $33.7 billion worth of goods , up 2.7% from January 's revised level , the largest monthly rate of growth since May 2000 .	12469	export.v	1568	Exporting	MANUAL	6559565	19	26	CFB	exported
+LINKED:[2	2	19	26	bn:00087885v		http://babelnet.org/rdf/s00087885v	1.0	0.2	0.031496063	BABELFY]
+RANK:=== COUNTER  Counter 34584 ===
+	Sending: -0.00591715976331361
+	Import_export: -0.02040816326530612
+	Exporting: -0.25
+
+SELECTED:[Exporting]
+MATCH!
+SILVER:175	23841	2	3	0	4107451	Canadian companies exported $33.7 billion worth of goods , up 2.7% from January 's revised level , the largest monthly rate of growth since May 2000 .	1733	monthly.a	80	Frequency	MANUAL	6559597	111	117	MLC	monthly
+LINKED:[21	21	111	117	bn:00106914a		http://babelnet.org/rdf/s00106914a	1.0	0.1	0.007874016	BABELFY]
+RANK:=== COUNTER  Counter 34586 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	2	3	0	4107451	Canadian companies exported $33.7 billion worth of goods , up 2.7% from January 's revised level , the largest monthly rate of growth since May 2000 .	12488	growth.n	91	Change_position_on_a_scale	MANUAL	6559598	127	132	MLC	growth
+LINKED:[24	24	127	132	bn:00026697n	http://dbpedia.org/resource/Developmental_biology	http://babelnet.org/rdf/s00026697n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34588 ===
+	Change_position_on_a_scale: -4.938271604938272E-4
+	Cause_change_of_position_on_a_scale: -0.0027700831024930744
+	Cause_expansion: -0.0030864197530864196
+	Progress: -0.012345679012345678
+
+SELECTED:[Change_position_on_a_scale]
+MATCH!
+SILVER:175	23841	2	3	0	4107451	Canadian companies exported $33.7 billion worth of goods , up 2.7% from January 's revised level , the largest monthly rate of growth since May 2000 .	11687	canadian.a	1103	Origin	MANUAL	6559622	0	7	MLC	Canadian
+LINKED:[0	0	0	7	bn:00015125n	http://dbpedia.org/resource/Canadians	http://babelnet.org/rdf/s00015125n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34592 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	2	3	0	4107451	Canadian companies exported $33.7 billion worth of goods , up 2.7% from January 's revised level , the largest monthly rate of growth since May 2000 .	16096	rate.n	2425	Rate_quantification	MANUAL	6559624	119	122	MLC	rate
+LINKED:[22	22	119	122	bn:00066236n	http://dbpedia.org/resource/Rate_(mathematics)	http://babelnet.org/rdf/s00066236n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34596 ===
+	Frequency: -0.0011111111111111111
+	Speed: -0.02040816326530612
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	3	3	0	4107452	Automotive products accounted for 25% of February 's total , compared with about 22% in January .	6115	compare.v	353	Evaluative_comparison	MANUAL	6559571	61	68	CFB	compared
+LINKED:[11	11	61	68	bn:00085452v		http://babelnet.org/rdf/s00085452v	1.0	0.16666667	0.14285715	BABELFY]
+RANK:=== COUNTER  Counter 34600 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	3	3	0	4107452	Automotive products accounted for 25% of February 's total , compared with about 22% in January .	8507	total.n	602	Amounting_to	MANUAL	6559572	53	57	CFB	total
+LINKED:[9	9	53	57	bn:00103392a		http://babelnet.org/rdf/s00103392a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34602 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	1	4	0	4107453	Merchandise imports , however , rose 5.1% from January , almost twice the pace of exports , to $29.1 billion .	12515	import	1567	Importing	MANUAL	6559600	12	18	MLC	imports
+LINKED:[1	1	12	18	bn:00046137n	http://dbpedia.org/resource/Import	http://babelnet.org/rdf/s00046137n	0.85714287	1.0	0.31578946	BABELFY]
+RANK:=== COUNTER  Counter 34606 ===
+	Import_export: -0.02040816326530612
+	Importing: -0.25
+
+SELECTED:[Importing]
+MATCH!
+SILVER:175	23841	1	4	0	4107453	Merchandise imports , however , rose 5.1% from January , almost twice the pace of exports , to $29.1 billion .	1874	rise.v	91	Change_position_on_a_scale	MANUAL	6559601	32	35	MLC	rose
+LINKED:[5	5	32	35	bn:00082761v		http://babelnet.org/rdf/s00082761v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34608 ===
+	Change_position_on_a_scale: -4.938271604938272E-4
+	Change_posture: -0.0034602076124567475
+	Motion_directional: -0.015625
+	Change_event_time: -0.027777777777777776
+
+SELECTED:[Change_position_on_a_scale]
+MATCH!
+SILVER:175	23841	1	4	0	4107453	Merchandise imports , however , rose 5.1% from January , almost twice the pace of exports , to $29.1 billion .	13291	pace.n	966	Speed_description	MANUAL	6559602	74	77	MLC	pace
+LINKED:[14	14	74	77	bn:00037030n		http://babelnet.org/rdf/s00037030n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34610 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	1	4	0	4107453	Merchandise imports , however , rose 5.1% from January , almost twice the pace of exports , to $29.1 billion .	12516	export	1568	Exporting	MANUAL	6559603	82	88	MLC	exports
+LINKED:[16	16	82	88	bn:00032363n	http://dbpedia.org/resource/Export	http://babelnet.org/rdf/s00032363n	1.0	1.0	0.31578946	BABELFY]
+RANK:=== COUNTER  Counter 34612 ===
+	Import_export: -0.02040816326530612
+	Exporting: -0.25
+
+SELECTED:[Exporting]
+MATCH!
+SILVER:175	23841	2	4	0	4107454	It was the strongest monthly rate of growth in imports since August 1998 .	12515	import	1567	Importing	MANUAL	6559604	47	53	MLC	imports
+LINKED:[9	9	47	53	bn:00046137n	http://dbpedia.org/resource/Import	http://babelnet.org/rdf/s00046137n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34614 ===
+	Import_export: -0.02040816326530612
+	Importing: -0.25
+
+SELECTED:[Importing]
+MATCH!
+SILVER:175	23841	2	4	0	4107454	It was the strongest monthly rate of growth in imports since August 1998 .	16096	rate.n	2425	Rate_quantification	MANUAL	6559606	29	32	MLC	rate
+LINKED:[5	5	29	32	bn:00066236n	http://dbpedia.org/resource/Rate_(mathematics)	http://babelnet.org/rdf/s00066236n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34616 ===
+	Frequency: -0.0011111111111111111
+	Speed: -0.02040816326530612
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	2	4	0	4107454	It was the strongest monthly rate of growth in imports since August 1998 .	12488	growth.n	91	Change_position_on_a_scale	MANUAL	6559628	37	42	MLC	growth
+LINKED:[7	7	37	42	bn:00041978n		http://babelnet.org/rdf/s00041978n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34618 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	2	4	0	4107454	It was the strongest monthly rate of growth in imports since August 1998 .	1733	monthly.a	80	Frequency	MANUAL	6559666	21	27	MLC	monthly
+LINKED:[4	4	21	27	bn:00106914a		http://babelnet.org/rdf/s00106914a	1.0	0.16666667	0.018181818	BABELFY]
+RANK:=== COUNTER  Counter 34622 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	4	4	0	4107456	The trade surplus with the United States edged down about $33 million to $7.6 billion .	12889	edge.v	91	Change_position_on_a_scale	MANUAL	6559617	41	45	MLC	edged
+LINKED:[7	7	41	45	bn:00087480v		http://babelnet.org/rdf/s00087480v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34630 ===
+	Self_motion: -8.734387282732115E-5
+	Change_position_on_a_scale: -4.938271604938272E-4
+	Path_shape: -9.182736455463729E-4
+
+SELECTED:[Change_position_on_a_scale]
+MATCH!
+SILVER:175	23841	5	4	0	4107457	Canadian companies sent $28.5 billion in goods to the United States in February , up 1.6% from January revised level , while they imported $20.9 billion worth , up 2.4% .	11687	canadian.a	1103	Origin	MANUAL	6559581	0	7	MLC	Canadian
+LINKED:[0	0	0	7	bn:00015125n	http://dbpedia.org/resource/Canadians	http://babelnet.org/rdf/s00015125n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34632 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	5	4	0	4107457	Canadian companies sent $28.5 billion in goods to the United States in February , up 1.6% from January revised level , while they imported $20.9 billion worth , up 2.4% .	12471	import.v	1567	Importing	MANUAL	6559584	130	137	MLC	imported
+LINKED:[25	25	130	137	bn:00089626v		http://babelnet.org/rdf/s00089626v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34638 ===
+	Import_export: -0.02040816326530612
+	Importing: -0.25
+
+SELECTED:[Importing]
+MATCH!
+SILVER:175	23841	5	4	0	4107457	Canadian companies sent $28.5 billion in goods to the United States in February , up 1.6% from January revised level , while they imported $20.9 billion worth , up 2.4% .	4491	send.v	243	Sending	MANUAL	6559616	19	22	MLC	sent
+LINKED:[2	2	19	22	bn:00086868v		http://babelnet.org/rdf/s00086868v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34640 ===
+	Causation: -0.0025000000000000005
+	Sending: -0.00591715976331361
+
+SELECTED:[Sending]
+MATCH!
+SILVER:175	23841	6	4	0	4107458	The United States accounted for just over one-half of the increase in Canada 's exports in February , but only about one-third of the increase in imports .	12140	account.v	1462	Explaining_the_facts	MANUAL	6559591	18	26	MLC	accounted
+LINKED:[3	3	18	26	bn:00082232v		http://babelnet.org/rdf/s00082232v	0.75	0.16666667	0.0031201248	BABELFY]
+RANK:=== COUNTER  Counter 34646 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	6	4	0	4107458	The United States accounted for just over one-half of the increase in Canada 's exports in February , but only about one-third of the increase in imports .	12516	export	1568	Exporting	MANUAL	6559687	80	86	MLC	exports
+LINKED:[14	14	80	86	bn:00032363n	http://dbpedia.org/resource/Export	http://babelnet.org/rdf/s00032363n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34648 ===
+	Import_export: -0.02040816326530612
+	Exporting: -0.25
+
+SELECTED:[Exporting]
+MATCH!
+SILVER:175	23841	7	4	0	4107459	Consequently , Canada 's total trade deficit with other nations widened by half a billion dollars from $2.6 billion to $3.1 billion in February .	13174	total.a	602	Amounting_to	MANUAL	6559589	25	29	MLC	total
+LINKED:[4	4	25	29	bn:00102277a		http://babelnet.org/rdf/s00102277a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34650 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23841	7	4	0	4107459	Consequently , Canada 's total trade deficit with other nations widened by half a billion dollars from $2.6 billion to $3.1 billion in February .	1663	widen.v	77	Cause_expansion	MANUAL	6559595	64	70	MLC	widened
+LINKED:[10	10	64	70	bn:00095769v		http://babelnet.org/rdf/s00095769v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34654 ===
+
+SELECTED:[]
+WRONG!
+filename	Miscellaneous__tradeBalance020417.xml
+docAnnotations	123
+docManual	85
+docUnannotated	38
+sentences	12
+paragraphs	4
+Overlapping	48
+Disambiguated	15
+TP	13
+TN	38
+FP	0
+FN	70
+P	1.0
+R	0.1566265060240964
+F	0.27083333333333337
+A	0.4214876033057851

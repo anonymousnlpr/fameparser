@@ -1,0 +1,134 @@
+corpID	docID	sentNo	paragNo	aPos	ID	text	luID	luName	frameID	frameName	status	aID	start	end	cBy	target
+246	25625	1	1	0	4165589	Forest fires burn on in Greece ; death toll nears 50	null	null	null	null	UNANN	6670845	null	null	null	null
+246	25625	1	1	0	4165589	Forest fires burn on in Greece ; death toll nears 50	3469	forest.n	193	Biological_area	MANUAL	6671388	0	5	CVa	Forest
+246	25625	1	1	0	4165589	Forest fires burn on in Greece ; death toll nears 50	17455	fire.n	2824	Fire_burning	MANUAL	6671390	7	11	CVa	fires
+246	25625	1	1	0	4165589	Forest fires burn on in Greece ; death toll nears 50	17450	burn.v	2824	Fire_burning	MANUAL	6671391	13	16	CVa	burn
+246	25625	1	1	0	4165589	Forest fires burn on in Greece ; death toll nears 50	10801	in.prep	1178	Interior_profile_relation	MANUAL	6671392	21	22	CVa	in
+246	25625	1	1	0	4165589	Forest fires burn on in Greece ; death toll nears 50	14345	fifty.num	218	Cardinal_numbers	MANUAL	6671394	50	51	CVa	50
+246	25625	1	1	0	4165589	Forest fires burn on in Greece ; death toll nears 50	17648	on.adv	145	Process_continue	MANUAL	6671552	18	19	CVa	on
+246	25625	1	1	0	4165589	Forest fires burn on in Greece ; death toll nears 50	922	death.n	53	Death	MANUAL	6774111	33	37	MJE	death
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	null	null	null	null	UNANN	6670846	null	null	null	null
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6671396	0	1	CVa	In
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	5871	southern.a	143	Part_orientational	MANUAL	6671397	3	10	CVa	southern
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	4054	today.n	229	Calendric_unit	MANUAL	6671398	19	23	CVa	today
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	15772	huge.a	2282	Size	MANUAL	6671399	27	30	CVa	huge
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	3469	forest.n	193	Biological_area	MANUAL	6671400	32	37	CVa	forest
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	17455	fire.n	2824	Fire_burning	MANUAL	6671401	39	43	CVa	fires
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	2799	continue.v	145	Process_continue	MANUAL	6671402	45	52	CVa	continue
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	17450	burn.v	2824	Fire_burning	MANUAL	6671403	57	60	CVa	burn
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	7622	destroy.v	417	Destroying	MANUAL	6671404	65	74	CVa	destroying
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	3012	home.n	173	Buildings	MANUAL	6671405	76	80	CVa	homes
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	2	cause.v	5	Causation	MANUAL	6671406	86	92	CVa	causing
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	17024	severe.a	2720	Judgment_of_intensity	MANUAL	6671407	94	99	CVa	severe
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	14650	damage.n	415	Damaging	MANUAL	6671409	101	106	CVa	damage
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	3696	region.n	192	Locale	MANUAL	6671412	115	120	CVa	region
+246	25625	1	3	0	4165590	In southern Greece today , huge forest fires continue to burn on destroying homes and causing severe damage to the region .	17648	on.adv	145	Process_continue	MANUAL	6671555	62	63	CVa	on
+246	25625	2	3	0	4165591	Local fire departments put the current death toll at at least 37 , nine of which were children .	null	null	null	null	UNANN	6670847	null	null	null	null
+246	25625	2	3	0	4165591	Local fire departments put the current death toll at at least 37 , nine of which were children .	10239	local.a	195	Political_locales	MANUAL	6671414	0	4	CVa	Local
+246	25625	2	3	0	4165591	Local fire departments put the current death toll at at least 37 , nine of which were children .	17520	fire	2656	Law_enforcement_agency	MANUAL	6671415	6	21	CVa	fire departments
+246	25625	2	3	0	4165591	Local fire departments put the current death toll at at least 37 , nine of which were children .	14084	current.a	1895	Temporal_collocation	MANUAL	6671419	31	37	CVa	current
+246	25625	2	3	0	4165591	Local fire departments put the current death toll at at least 37 , nine of which were children .	14292	at	1923	Proportional_quantity	MANUAL	6671420	53	54	CVa	at
+246	25625	2	3	0	4165591	Local fire departments put the current death toll at at least 37 , nine of which were children .	14292	at	1923	Proportional_quantity	MANUAL	6671420	56	60	CVa	least
+246	25625	2	3	0	4165591	Local fire departments put the current death toll at at least 37 , nine of which were children .	10083	child.n	973	People_by_age	MANUAL	6671421	86	93	CVa	children
+246	25625	2	3	0	4165591	Local fire departments put the current death toll at at least 37 , nine of which were children .	17647	put	1513	Estimating	MANUAL	6671550	23	25	CVa	put
+246	25625	2	3	0	4165591	Local fire departments put the current death toll at at least 37 , nine of which were children .	17649	nine.num	218	Cardinal_numbers	MANUAL	6671559	67	70	CVa	nine
+246	25625	1	4	0	4165592	Since Friday morning , around 170 fires have been burning , many of which are believed to be caused by arson .	null	null	null	null	UNANN	6670848	null	null	null	null
+246	25625	1	4	0	4165592	Since Friday morning , around 170 fires have been burning , many of which are believed to be caused by arson .	17643	since.prep	379	Time_vector	MANUAL	6671422	0	4	CVa	Since
+246	25625	1	4	0	4165592	Since Friday morning , around 170 fires have been burning , many of which are believed to be caused by arson .	3999	Friday.n	229	Calendric_unit	MANUAL	6671425	6	11	CVa	Friday
+246	25625	1	4	0	4165592	Since Friday morning , around 170 fires have been burning , many of which are believed to be caused by arson .	3956	morning.n	229	Calendric_unit	MANUAL	6671427	13	19	CVa	morning
+246	25625	1	4	0	4165592	Since Friday morning , around 170 fires have been burning , many of which are believed to be caused by arson .	17455	fire.n	2824	Fire_burning	MANUAL	6671430	34	38	CVa	fires
+246	25625	1	4	0	4165592	Since Friday morning , around 170 fires have been burning , many of which are believed to be caused by arson .	17450	burn.v	2824	Fire_burning	MANUAL	6671431	50	56	CVa	burning
+246	25625	1	4	0	4165592	Since Friday morning , around 170 fires have been burning , many of which are believed to be caused by arson .	13277	many.n	189	Quantified_mass	MANUAL	6671432	60	63	CVa	many
+246	25625	1	4	0	4165592	Since Friday morning , around 170 fires have been burning , many of which are believed to be caused by arson .	2756	believe.v	141	Certainty	MANUAL	6671433	78	85	CVa	believed
+246	25625	1	4	0	4165592	Since Friday morning , around 170 fires have been burning , many of which are believed to be caused by arson .	2	cause.v	5	Causation	MANUAL	6671435	93	98	CVa	caused
+246	25625	1	4	0	4165592	Since Friday morning , around 170 fires have been burning , many of which are believed to be caused by arson .	3047	arson.n	138	Arson	MANUAL	6671436	103	107	CVa	arson
+246	25625	2	4	0	4165593	Authorities are calling the fires `` criminal acts . ''	null	null	null	null	UNANN	6670849	null	null	null	null
+246	25625	2	4	0	4165593	Authorities are calling the fires `` criminal acts . ''	11420	authority.n	73	Leadership	MANUAL	6671437	0	10	CVa	Authorities
+246	25625	2	4	0	4165593	Authorities are calling the fires `` criminal acts . ''	11195	call.v	1250	Labeling	MANUAL	6671439	16	22	CVa	calling
+246	25625	2	4	0	4165593	Authorities are calling the fires `` criminal acts . ''	17455	fire.n	2824	Fire_burning	MANUAL	6671440	28	32	CVa	fires
+246	25625	2	4	0	4165593	Authorities are calling the fires `` criminal acts . ''	13488	act.n	198	Intentionally_act	MANUAL	6671441	46	49	CVa	acts
+246	25625	2	4	0	4165593	Authorities are calling the fires `` criminal acts . ''	17650	criminal.a	501	Legality	MANUAL	6671565	37	44	CVa	criminal
+246	25625	3	4	0	4165594	Fire department spokesman Nikos Diamandis said most of the fires were started in entirely different areas , and were started after dark .	null	null	null	null	UNANN	6670850	null	null	null	null
+246	25625	3	4	0	4165594	Fire department spokesman Nikos Diamandis said most of the fires were started in entirely different areas , and were started after dark .	17520	fire	2656	Law_enforcement_agency	MANUAL	6671449	0	14	CVa	Fire department
+246	25625	3	4	0	4165594	Fire department spokesman Nikos Diamandis said most of the fires were started in entirely different areas , and were started after dark .	16743	spokesman.n	2678	Representative	MANUAL	6671451	16	24	CVa	spokesman
+246	25625	3	4	0	4165594	Fire department spokesman Nikos Diamandis said most of the fires were started in entirely different areas , and were started after dark .	751	say.v	43	Statement	MANUAL	6671452	42	45	CVa	said
+246	25625	3	4	0	4165594	Fire department spokesman Nikos Diamandis said most of the fires were started in entirely different areas , and were started after dark .	10190	of.prep	1010	Partitive	MANUAL	6671453	52	53	CVa	of
+246	25625	3	4	0	4165594	Fire department spokesman Nikos Diamandis said most of the fires were started in entirely different areas , and were started after dark .	17455	fire.n	2824	Fire_burning	MANUAL	6671454	59	63	CVa	fires
+246	25625	3	4	0	4165594	Fire department spokesman Nikos Diamandis said most of the fires were started in entirely different areas , and were started after dark .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6671456	78	79	CVa	in
+246	25625	3	4	0	4165594	Fire department spokesman Nikos Diamandis said most of the fires were started in entirely different areas , and were started after dark .	7989	different.a	481	Similarity	MANUAL	6671459	90	98	CVa	different
+246	25625	3	4	0	4165594	Fire department spokesman Nikos Diamandis said most of the fires were started in entirely different areas , and were started after dark .	3694	area.n	192	Locale	MANUAL	6671460	100	104	CVa	areas
+246	25625	3	4	0	4165594	Fire department spokesman Nikos Diamandis said most of the fires were started in entirely different areas , and were started after dark .	6715	after.prep	379	Time_vector	MANUAL	6671462	125	129	CVa	after
+246	25625	3	4	0	4165594	Fire department spokesman Nikos Diamandis said most of the fires were started in entirely different areas , and were started after dark .	17633	start.v	283	Setting_fire	MANUAL	6767877	70	76	HPh	started
+246	25625	3	4	0	4165594	Fire department spokesman Nikos Diamandis said most of the fires were started in entirely different areas , and were started after dark .	17633	start.v	283	Setting_fire	MANUAL	6767878	117	123	HPh	started
+246	25625	4	4	0	4165595	Some fires reportedly broke out in `` lush greenery . ''	null	null	null	null	UNANN	6670851	null	null	null	null
+246	25625	4	4	0	4165595	Some fires reportedly broke out in `` lush greenery . ''	14290	some.art	1923	Proportional_quantity	MANUAL	6671463	0	3	CVa	Some
+246	25625	4	4	0	4165595	Some fires reportedly broke out in `` lush greenery . ''	17455	fire.n	2824	Fire_burning	MANUAL	6671464	5	9	CVa	fires
+246	25625	4	4	0	4165595	Some fires reportedly broke out in `` lush greenery . ''	11444	reportedly.adv	1154	Unattributed_information	MANUAL	6671465	11	20	CVa	reportedly
+246	25625	4	4	0	4165595	Some fires reportedly broke out in `` lush greenery . ''	10801	in.prep	1178	Interior_profile_relation	MANUAL	6671467	32	33	CVa	in
+246	25625	4	4	0	4165595	Some fires reportedly broke out in `` lush greenery . ''	17461	break	2827	Catching_fire	MANUAL	6671482	22	26	CVa	broke
+246	25625	4	4	0	4165595	Some fires reportedly broke out in `` lush greenery . ''	17461	break	2827	Catching_fire	MANUAL	6671482	28	30	CVa	out
+246	25625	1	5	0	4165596	27 deaths have been confirmed in Peloponnese , one of the hardest hit areas .	null	null	null	null	UNANN	6670852	null	null	null	null
+246	25625	1	5	0	4165596	27 deaths have been confirmed in Peloponnese , one of the hardest hit areas .	922	death.n	53	Death	MANUAL	6671468	3	8	CVa	deaths
+246	25625	1	5	0	4165596	27 deaths have been confirmed in Peloponnese , one of the hardest hit areas .	11041	confirm.v	1230	Verification	MANUAL	6671472	20	28	CVa	confirmed
+246	25625	1	5	0	4165596	27 deaths have been confirmed in Peloponnese , one of the hardest hit areas .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6671475	30	31	CVa	in
+246	25625	1	5	0	4165596	27 deaths have been confirmed in Peloponnese , one of the hardest hit areas .	16385	hit.v	88	Eventive_affecting	MANUAL	6671476	66	68	CVa	hit
+246	25625	1	5	0	4165596	27 deaths have been confirmed in Peloponnese , one of the hardest hit areas .	3694	area.n	192	Locale	MANUAL	6671477	70	74	CVa	areas
+246	25625	2	5	0	4165597	Today , however , fires broke out near Athens .	null	null	null	null	UNANN	6670853	null	null	null	null
+246	25625	2	5	0	4165597	Today , however , fires broke out near Athens .	4054	today.n	229	Calendric_unit	MANUAL	6671478	0	4	CVa	Today
+246	25625	2	5	0	4165597	Today , however , fires broke out near Athens .	17455	fire.n	2824	Fire_burning	MANUAL	6671480	18	22	CVa	fires
+246	25625	2	5	0	4165597	Today , however , fires broke out near Athens .	17461	break	2827	Catching_fire	MANUAL	6671481	24	28	CVa	broke
+246	25625	2	5	0	4165597	Today , however , fires broke out near Athens .	17461	break	2827	Catching_fire	MANUAL	6671481	30	32	CVa	out
+246	25625	2	5	0	4165597	Today , however , fires broke out near Athens .	13764	near.prep	199	Locative_relation	MANUAL	6671483	34	37	CVa	near
+246	25625	1	6	0	4165598	Prime Minister Costas Karamanlis was to for an emergency meeting of the senior ministers in the country 's capital , Athens .	null	null	null	null	UNANN	6670854	null	null	null	null
+246	25625	1	6	0	4165598	Prime Minister Costas Karamanlis was to for an emergency meeting of the senior ministers in the country 's capital , Athens .	10822	prime	73	Leadership	MANUAL	6671484	0	13	CVa	Prime Minister
+246	25625	1	6	0	4165598	Prime Minister Costas Karamanlis was to for an emergency meeting of the senior ministers in the country 's capital , Athens .	514	meeting.n	34	Discussion	MANUAL	6671487	57	63	CVa	meeting
+246	25625	1	6	0	4165598	Prime Minister Costas Karamanlis was to for an emergency meeting of the senior ministers in the country 's capital , Athens .	14160	senior.a	530	Subordinates_and_superiors	MANUAL	6671489	72	77	CVa	senior
+246	25625	1	6	0	4165598	Prime Minister Costas Karamanlis was to for an emergency meeting of the senior ministers in the country 's capital , Athens .	1595	minister.n	73	Leadership	MANUAL	6671490	79	87	CVa	ministers
+246	25625	1	6	0	4165598	Prime Minister Costas Karamanlis was to for an emergency meeting of the senior ministers in the country 's capital , Athens .	10801	in.prep	1178	Interior_profile_relation	MANUAL	6671491	89	90	CVa	in
+246	25625	1	6	0	4165598	Prime Minister Costas Karamanlis was to for an emergency meeting of the senior ministers in the country 's capital , Athens .	3683	country.n	195	Political_locales	MANUAL	6671492	96	102	CVa	country
+246	25625	1	6	0	4165598	Prime Minister Costas Karamanlis was to for an emergency meeting of the senior ministers in the country 's capital , Athens .	13938	capital.n	1883	Relational_political_locales	MANUAL	6671493	107	113	CVa	capital
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	null	null	null	null	UNANN	6670855	null	null	null	null
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	751	say.v	43	Statement	MANUAL	6671494	11	14	CVa	said
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	15518	day.n	2142	Timespan	MANUAL	6671497	31	33	CVa	day
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	10243	national.a	195	Political_locales	MANUAL	6671498	38	45	CVa	national
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	8845	mourning.n	46	Emotion_directed	MANUAL	6671499	47	54	CVa	mourning
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	6684	wish.v	366	Desiring	MANUAL	6671500	62	65	CVa	wish
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	12733	express.v	1622	Expressing_publicly	MANUAL	6671501	70	76	CVa	express
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	8844	grief.n	46	Emotion_directed	MANUAL	6671502	86	90	CVa	grief
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	16364	life.n	304	People	MANUAL	6671505	106	110	CVa	lives
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	1930	fight.v	93	Hostile_encounter	MANUAL	6671507	123	130	CVa	fighting
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	15980	odds.n	2360	Probability	MANUAL	6671509	146	149	CVa	odds
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	17780	on.prep	2890	Spatial_contact	MANUAL	6671510	153	154	CVa	on
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	13746	many.a	189	Quantified_mass	MANUAL	6671511	156	159	CVa	many
+246	25625	2	6	0	4165599	Karamanlis said , `` This is a day of national mourning ... I wish to express my deep grief over the lost lives ... We are fighting against heavy odds , on many fronts and under particularly tough conditions . ''	6570	tough.a	375	Difficulty	MANUAL	6671512	191	195	CVa	tough
+246	25625	1	7	0	4165600	Greece 's government yesterday asked its European Union allies for help .	null	null	null	null	UNANN	6670856	null	null	null	null
+246	25625	1	7	0	4165600	Greece 's government yesterday asked its European Union allies for help .	12182	government.n	73	Leadership	MANUAL	6671513	10	19	CVa	government
+246	25625	1	7	0	4165600	Greece 's government yesterday asked its European Union allies for help .	4055	yesterday.n	229	Calendric_unit	MANUAL	6671516	21	29	CVa	yesterday
+246	25625	1	7	0	4165600	Greece 's government yesterday asked its European Union allies for help .	639	ask.v	41	Request	MANUAL	6671517	31	35	CVa	asked
+246	25625	1	7	0	4165600	Greece 's government yesterday asked its European Union allies for help .	12165	help.n	391	Assistance	MANUAL	6671518	67	70	CVa	help
+246	25625	2	7	0	4165601	About 30 countries are offering support , according to an EU statement .	null	null	null	null	UNANN	6670857	null	null	null	null
+246	25625	2	7	0	4165601	About 30 countries are offering support , according to an EU statement .	11327	thirty.num	218	Cardinal_numbers	MANUAL	6671519	6	7	CVa	30
+246	25625	2	7	0	4165601	About 30 countries are offering support , according to an EU statement .	3683	country.n	195	Political_locales	MANUAL	6671521	9	17	CVa	countries
+246	25625	2	7	0	4165601	About 30 countries are offering support , according to an EU statement .	15659	offer.v	2239	Offering	MANUAL	6671522	23	30	CVa	offering
+246	25625	2	7	0	4165601	About 30 countries are offering support , according to an EU statement .	14738	support.v	2000	Supporting	MANUAL	6671523	32	38	CVa	support
+246	25625	2	7	0	4165601	About 30 countries are offering support , according to an EU statement .	10677	according	1148	Attributed_information	MANUAL	6671524	42	50	CVa	according
+246	25625	2	7	0	4165601	About 30 countries are offering support , according to an EU statement .	10677	according	1148	Attributed_information	MANUAL	6671524	52	53	CVa	to
+246	25625	2	7	0	4165601	About 30 countries are offering support , according to an EU statement .	754	statement.n	43	Statement	MANUAL	6671525	61	69	CVa	statement
+246	25625	1	8	0	4165602	New fires were reportedly still breaking out this morning .	null	null	null	null	UNANN	6670858	null	null	null	null
+246	25625	1	8	0	4165602	New fires were reportedly still breaking out this morning .	12563	new.a	972	Age	MANUAL	6671526	0	2	CVa	New
+246	25625	1	8	0	4165602	New fires were reportedly still breaking out this morning .	11444	reportedly.adv	1154	Unattributed_information	MANUAL	6671528	15	24	CVa	reportedly
+246	25625	1	8	0	4165602	New fires were reportedly still breaking out this morning .	17455	fire.n	2824	Fire_burning	MANUAL	6671529	4	8	CVa	fires
+246	25625	1	8	0	4165602	New fires were reportedly still breaking out this morning .	13044	still.adv	1594	Continued_state_of_affairs	MANUAL	6671531	26	30	CVa	still
+246	25625	1	8	0	4165602	New fires were reportedly still breaking out this morning .	17461	break	2827	Catching_fire	MANUAL	6671532	32	39	CVa	breaking
+246	25625	1	8	0	4165602	New fires were reportedly still breaking out this morning .	17461	break	2827	Catching_fire	MANUAL	6671532	41	43	CVa	out
+246	25625	1	8	0	4165602	New fires were reportedly still breaking out this morning .	3956	morning.n	229	Calendric_unit	MANUAL	6671535	50	56	CVa	morning
+246	25625	1	9	0	4165603	Some helicopters and airplanes , which were to drop water on the fires , continued to be delayed by strong winds .	null	null	null	null	UNANN	6670859	null	null	null	null
+246	25625	1	9	0	4165603	Some helicopters and airplanes , which were to drop water on the fires , continued to be delayed by strong winds .	14290	some.art	1923	Proportional_quantity	MANUAL	6671537	0	3	CVa	Some
+246	25625	1	9	0	4165603	Some helicopters and airplanes , which were to drop water on the fires , continued to be delayed by strong winds .	8164	helicopter.n	429	Vehicle	MANUAL	6671538	5	15	CVa	helicopters
+246	25625	1	9	0	4165603	Some helicopters and airplanes , which were to drop water on the fires , continued to be delayed by strong winds .	8147	airplane.n	429	Vehicle	MANUAL	6671539	21	29	CVa	airplanes
+246	25625	1	9	0	4165603	Some helicopters and airplanes , which were to drop water on the fires , continued to be delayed by strong winds .	17646	drop.v	55	Cause_motion	MANUAL	6671541	47	50	CVa	drop
+246	25625	1	9	0	4165603	Some helicopters and airplanes , which were to drop water on the fires , continued to be delayed by strong winds .	15541	water.n	1321	Substance	MANUAL	6671542	52	56	CVa	water
+246	25625	1	9	0	4165603	Some helicopters and airplanes , which were to drop water on the fires , continued to be delayed by strong winds .	17455	fire.n	2824	Fire_burning	MANUAL	6671543	65	69	CVa	fires
+246	25625	1	9	0	4165603	Some helicopters and airplanes , which were to drop water on the fires , continued to be delayed by strong winds .	2799	continue.v	145	Process_continue	MANUAL	6671544	73	81	CVa	continued
+246	25625	1	9	0	4165603	Some helicopters and airplanes , which were to drop water on the fires , continued to be delayed by strong winds .	7948	delay.v	480	Hindering	MANUAL	6671545	89	95	CVa	delayed
+246	25625	1	9	0	4165603	Some helicopters and airplanes , which were to drop water on the fires , continued to be delayed by strong winds .	17039	strong.a	2720	Judgment_of_intensity	MANUAL	6671546	100	105	CVa	strong

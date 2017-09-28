@@ -1,0 +1,16 @@
+filename	ANC__IntroOfDublin.xml
+docAnnotations	575
+docManual	494
+docUnannotated	81
+sentences	67
+paragraphs	20
+Overlapping	372
+Disambiguated	225
+TP	179
+TN	81
+FP	0
+FN	269
+P	1.0
+R	0.39955357142857145
+F	0.5709728867623605
+A	0.4914933837429111

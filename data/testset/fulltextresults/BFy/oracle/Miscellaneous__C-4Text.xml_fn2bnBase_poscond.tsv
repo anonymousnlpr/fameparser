@@ -1,0 +1,244 @@
+SILVER:175	23491	1	1	0	4096518	A 12-year-old boy reports seeing a man launch a rubber boat from a car parked at the harbor . 	1535	see.v	70	Perception_experience	MANUAL	6521675	26	31	Pam	seeing
+LINKED:[4	4	26	31	bn:00085647v		http://babelnet.org/rdf/s00085647v	1.0	0.18181819	0.0076045627	BABELFY]
+RANK:=== COUNTER  Counter 39202 ===
+	Categorization: -0.0025000000000000005
+	Regard: -0.04000000000000001
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	1	1	0	4096518	A 12-year-old boy reports seeing a man launch a rubber boat from a car parked at the harbor . 	7808	car.n	429	Vehicle	MANUAL	6521678	67	69	Pam	car
+LINKED:[13	13	67	69	bn:00015785n	http://dbpedia.org/resource/Railroad_car	http://babelnet.org/rdf/s00015785n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39208 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	2	1	0	4096519	FBI officials find what they believe may be explosives in the car . 	11227	find.v	792	Locating	MANUAL	6521681	14	17	Pam	find
+LINKED:[2	2	14	17	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39218 ===
+	Becoming_aware: -0.008264462809917356
+	Locating: -0.25
+
+SELECTED:[Locating]
+MATCH!
+SILVER:175	23491	2	1	0	4096519	FBI officials find what they believe may be explosives in the car . 	150	believe.v	19	Awareness	MANUAL	6521682	29	35	Pam	believe
+LINKED:[5	5	29	35	bn:00083371v		http://babelnet.org/rdf/s00083371v	1.0	0.25	0.083333336	BABELFY]
+RANK:=== COUNTER  Counter 39220 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	3	1	0	4096520	Yemeni police trace the car to a nearby house . 	7808	car.n	429	Vehicle	MANUAL	6521684	24	26	Pam	car
+LINKED:[4	4	24	26	bn:00015785n	http://dbpedia.org/resource/Railroad_car	http://babelnet.org/rdf/s00015785n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39226 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	4	1	0	4096521	The FBI finds traces of explosives on clothes found ; neighbors say they saw two men who they describe as `` Arab-looking '' living there for several weeks . 	11227	find.v	792	Locating	MANUAL	6521686	8	12	Pam	finds
+LINKED:[2	2	8	12	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39230 ===
+	Becoming_aware: -0.008264462809917356
+	Locating: -0.25
+
+SELECTED:[Locating]
+MATCH!
+SILVER:175	23491	4	1	0	4096521	The FBI finds traces of explosives on clothes found ; neighbors say they saw two men who they describe as `` Arab-looking '' living there for several weeks . 	751	say.v	43	Statement	MANUAL	6521689	64	66	Pam	say
+LINKED:[11	11	64	66	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39236 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:175	23491	4	1	0	4096521	The FBI finds traces of explosives on clothes found ; neighbors say they saw two men who they describe as `` Arab-looking '' living there for several weeks . 	2220	live.v	110	Residence	MANUAL	6521693	125	130	Pam	living
+LINKED:[22	22	125	130	bn:00087862v		http://babelnet.org/rdf/s00087862v	0.72727275	0.33333334	0.027567195	BABELFY]
+RANK:=== COUNTER  Counter 39244 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	4	1	0	4096521	The FBI finds traces of explosives on clothes found ; neighbors say they saw two men who they describe as `` Arab-looking '' living there for several weeks . 	3947	week.n	229	Calendric_unit	MANUAL	6521758	150	154	Pam	weeks
+LINKED:[26	26	150	154	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.8	0.083333336	0.0027567195	BABELFY]
+RANK:=== COUNTER  Counter 39248 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:175	23491	5	1	0	4096522	Police also find a second house where authorities believe two others may have assembled the bomb , possibly doing some welding . 	11227	find.v	792	Locating	MANUAL	6521695	12	15	Pam	find
+LINKED:[2	2	12	15	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39250 ===
+	Becoming_aware: -0.008264462809917356
+	Locating: -0.25
+
+SELECTED:[Locating]
+MATCH!
+SILVER:175	23491	5	1	0	4096522	Police also find a second house where authorities believe two others may have assembled the bomb , possibly doing some welding . 	150	believe.v	19	Awareness	MANUAL	6521697	50	56	Pam	believe
+LINKED:[8	8	50	56	bn:00083371v		http://babelnet.org/rdf/s00083371v	1.0	0.33333334	0.08955224	BABELFY]
+RANK:=== COUNTER  Counter 39254 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	5	1	0	4096522	Police also find a second house where authorities believe two others may have assembled the bomb , possibly doing some welding . 	4731	assemble.v	259	Building	MANUAL	6521698	78	86	Pam	assembled
+LINKED:[13	13	78	86	bn:00082846v		http://babelnet.org/rdf/s00082846v	1.0	0.33333334	0.05970149	BABELFY]
+RANK:=== COUNTER  Counter 39256 ===
+	Come_together: -0.02040816326530612
+	Gathering_up: -0.02040816326530612
+	Meet_specifications: -0.0625
+	Assemble: -0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	5	1	0	4096522	Police also find a second house where authorities believe two others may have assembled the bomb , possibly doing some welding . 	4739	weld.v	259	Building	MANUAL	6521701	119	125	Pam	welding
+LINKED:[20	20	119	125	bn:00095707v		http://babelnet.org/rdf/s00095707v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39260 ===
+	Attaching: -4.938271604938272E-4
+	Building: -0.012345679012345678
+
+SELECTED:[Building]
+MATCH!
+SILVER:175	23491	6	1	0	4096523	Passports found in one of the houses identify the men as from a privilege convenience province noted for lawless tribes . 	11227	find.v	792	Locating	MANUAL	6521703	10	14	Pam	found
+LINKED:[1	1	10	14	bn:00084231v		http://babelnet.org/rdf/s00084231v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39266 ===
+	Becoming_aware: -0.008264462809917356
+	Locating: -0.25
+
+SELECTED:[Locating]
+MATCH!
+SILVER:175	23491	6	1	0	4096523	Passports found in one of the houses identify the men as from a privilege convenience province noted for lawless tribes . 	11423	lawless.a	117	Compliance	MANUAL	6521749	105	111	Pam	lawless
+LINKED:[18	18	105	111	bn:00097054a		http://babelnet.org/rdf/s00097054a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39276 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	8	1	0	4096525	Meantime, analysts at the FBI crime lab try to discover what the bomb was made from . 	4281	analyst.n	31	Scrutiny	MANUAL	6521709	10	17	Pam	analysts
+LINKED:[2	2	10	17	bn:00003801n		http://babelnet.org/rdf/s00003801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39280 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	8	1	0	4096525	Meantime, analysts at the FBI crime lab try to discover what the bomb was made from . 	173	discover.v	20	Becoming_aware	MANUAL	6521711	47	54	Pam	discover
+LINKED:[10	10	47	54	bn:00086935v		http://babelnet.org/rdf/s00086935v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39282 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	8	1	0	4096525	Meantime, analysts at the FBI crime lab try to discover what the bomb was made from . 	2465	try.v	116	Attempt	MANUAL	6774318	40	42	MJE	try
+LINKED:[8	8	40	42	bn:00089278v		http://babelnet.org/rdf/s00089278v	1.0	0.16666667	0.01754386	BABELFY]
+RANK:=== COUNTER  Counter 39288 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	9	1	0	4096526	No conclusions yet , U.S. officials say , but a working theory , plastic explosive . 	751	say.v	43	Statement	MANUAL	6521716	36	38	Pam	say
+LINKED:[6	6	36	38	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39292 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:175	23491	9	1	0	4096526	No conclusions yet , U.S. officials say , but a working theory , plastic explosive . 	11425	plastic	426	Weapon	MANUAL	6521909	65	71	EGp	plastic
+LINKED:[13	13	65	71	bn:00062856n	http://dbpedia.org/resource/Plastic	http://babelnet.org/rdf/s00062856n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39294 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	1	2	0	4096527	But Yemen 's president says the FBI has told him the explosive material could only have come from the U.S. , Israel or two Arab countries . 	1599	president	73	Leadership	MANUAL	6521614	13	21	Pam	president
+LINKED:[3	3	13	21	bn:00064233n		http://babelnet.org/rdf/s00064233n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39298 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	1	2	0	4096527	But Yemen 's president says the FBI has told him the explosive material could only have come from the U.S. , Israel or two Arab countries . 	751	say.v	43	Statement	MANUAL	6521615	23	26	Pam	says
+LINKED:[4	4	23	26	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39300 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:175	23491	1	2	0	4096527	But Yemen 's president says the FBI has told him the explosive material could only have come from the U.S. , Israel or two Arab countries . 	9177	tell.v	750	Telling	MANUAL	6521616	40	43	Pam	told
+LINKED:[8	8	40	43	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39302 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	1	2	0	4096527	But Yemen 's president says the FBI has told him the explosive material could only have come from the U.S. , Israel or two Arab countries . 	11415	explosive.a	426	Weapon	MANUAL	6521755	53	61	Pam	explosive
+LINKED:[11	11	53	61	bn:00102595a		http://babelnet.org/rdf/s00102595a	1.0	0.16666667	0.0052576237	BABELFY]
+RANK:=== COUNTER  Counter 39308 ===
+	Weapon: -5.668934240362811E-4
+	Expansion: -0.006944444444444444
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:175	23491	2	2	0	4096528	And to a former federal bomb investigator , that description suggests a powerful military-style plastic explosive C-4 that can be cut or molded into different shapes . 	10234	federal.a	195	Political_locales	MANUAL	6521619	16	22	Pam	federal
+LINKED:[4	4	16	22	bn:00102870a		http://babelnet.org/rdf/s00102870a	1.0	0.2	0.017391304	BABELFY]
+RANK:=== COUNTER  Counter 39310 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	2	2	0	4096528	And to a former federal bomb investigator , that description suggests a powerful military-style plastic explosive C-4 that can be cut or molded into different shapes . 	7989	different.a	481	Similarity	MANUAL	6521624	149	157	Pam	different
+LINKED:[24	24	149	157	bn:00101347a		http://babelnet.org/rdf/s00101347a	1.0	0.1	0.004347826	BABELFY]
+RANK:=== COUNTER  Counter 39314 ===
+	Similarity: -0.0016
+	Identicality: -0.04000000000000001
+
+SELECTED:[Similarity]
+MATCH!
+SILVER:175	23491	2	2	0	4096528	And to a former federal bomb investigator , that description suggests a powerful military-style plastic explosive C-4 that can be cut or molded into different shapes . 	11417	shape.n	328	Shapes	MANUAL	6521757	159	164	Pam	shapes
+LINKED:[25	25	159	164	bn:00021751n		http://babelnet.org/rdf/s00021751n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39316 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	2	2	0	4096528	And to a former federal bomb investigator , that description suggests a powerful military-style plastic explosive C-4 that can be cut or molded into different shapes . 	11425	plastic	426	Weapon	MANUAL	6521894	96	102	EGp	plastic
+LINKED:[14	14	96	102	bn:00062856n	http://dbpedia.org/resource/Plastic	http://babelnet.org/rdf/s00062856n	0.95238096	0.4	0.08695652	BABELFY]
+RANK:=== COUNTER  Counter 39318 ===
+
+SELECTED:[]
+WRONG!
+SILVER:175	23491	2	2	0	4096528	And to a former federal bomb investigator , that description suggests a powerful military-style plastic explosive C-4 that can be cut or molded into different shapes . 	11425	plastic	426	Weapon	MANUAL	6521894	104	112	EGp	explosive
+LINKED:[15	15	104	112	bn:00102595a		http://babelnet.org/rdf/s00102595a	1.0	0.3	0.039130434	BABELFY]
+RANK:=== COUNTER  Counter 39320 ===
+	Weapon: -5.668934240362811E-4
+	Expansion: -0.006944444444444444
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:175	23491	2	2	0	4096528	And to a former federal bomb investigator , that description suggests a powerful military-style plastic explosive C-4 that can be cut or molded into different shapes . 	7614	mold.v	344	Reshaping	MANUAL	6521895	137	142	Pam	molded
+LINKED:[22	22	137	142	bn:00090877v		http://babelnet.org/rdf/s00090877v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 39322 ===
+
+SELECTED:[]
+WRONG!
+filename	Miscellaneous__C-4Text.xml
+docAnnotations	80
+docManual	65
+docUnannotated	15
+sentences	11
+paragraphs	2
+Overlapping	64
+Disambiguated	15
+TP	12
+TN	15
+FP	0
+FN	50
+P	1.0
+R	0.1935483870967742
+F	0.3243243243243243
+A	0.35064935064935066

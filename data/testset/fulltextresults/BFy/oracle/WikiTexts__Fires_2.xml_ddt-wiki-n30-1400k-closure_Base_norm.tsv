@@ -1,0 +1,378 @@
+SILVER:246	25617	1	1	0	4164987	California wildfire forces evacuation of thousands	17614	wildfire.n	2835	Emergency_fire	MANUAL	6669293	11	18	WMcQ	wildfire
+LINKED:[1	1	11	18	bn:00081216n	http://dbpedia.org/resource/Wildfire	http://babelnet.org/rdf/s00081216n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15987 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	1	0	4164987	California wildfire forces evacuation of thousands	15112	force.v	5	Causation	MANUAL	6669294	20	25	WMcQ	forces
+LINKED:[2	2	20	25	bn:00035767n		http://babelnet.org/rdf/s00035767n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15988 ===
+	Being_in_effect: 70.0
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	1	0	4164987	California wildfire forces evacuation of thousands	1130	evacuation.n	63	Removing	MANUAL	6669295	27	36	WMcQ	evacuation
+LINKED:[3	3	27	36	bn:00031970n		http://babelnet.org/rdf/s00031970n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15989 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	3	0	4164988	At least 400 homes have been evacuated in Sierra Madre near Los Angeles , California after a wildfire which started on Saturday , began to threaten their homes .	3012	home.n	173	Buildings	MANUAL	6669296	13	17	WMcQ	homes
+LINKED:[3	3	13	17	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15990 ===
+	Expected_location_of_person: 1150.0
+	Foreign_or_domestic_country: 191.66666666666666
+	Buildings: 13.855421686746988
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:246	25617	1	3	0	4164988	At least 400 homes have been evacuated in Sierra Madre near Los Angeles , California after a wildfire which started on Saturday , began to threaten their homes .	17614	wildfire.n	2835	Emergency_fire	MANUAL	6669298	93	100	WMcQ	wildfire
+LINKED:[17	17	93	100	bn:00081216n	http://dbpedia.org/resource/Wildfire	http://babelnet.org/rdf/s00081216n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15991 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	3	0	4164988	At least 400 homes have been evacuated in Sierra Madre near Los Angeles , California after a wildfire which started on Saturday , began to threaten their homes .	17491	start.v	2827	Catching_fire	MANUAL	6669299	108	114	WMcQ	started
+LINKED:[19	19	108	114	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15992 ===
+	Setting_out: 206.66666666666666
+	Process_start: 103.33333333333333
+	Activity_start: 77.5
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	3	0	4164988	At least 400 homes have been evacuated in Sierra Madre near Los Angeles , California after a wildfire which started on Saturday , began to threaten their homes .	3012	home.n	173	Buildings	MANUAL	6669301	154	158	WMcQ	homes
+LINKED:[27	27	154	158	bn:00000356n	http://dbpedia.org/resource/Home	http://babelnet.org/rdf/s00000356n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15993 ===
+	Expected_location_of_person: 1150.0
+	Foreign_or_domestic_country: 191.66666666666666
+	Buildings: 13.855421686746988
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:246	25617	1	3	0	4164988	At least 400 homes have been evacuated in Sierra Madre near Los Angeles , California after a wildfire which started on Saturday , began to threaten their homes .	5009	evacuate.v	273	Escaping	MANUAL	6670892	29	37	MJE	evacuated
+LINKED:[6	6	29	37	bn:00087757v		http://babelnet.org/rdf/s00087757v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15994 ===
+	Escaping: 17.5
+
+SELECTED:[Escaping]
+MATCH!
+SILVER:246	25617	1	3	0	4164988	At least 400 homes have been evacuated in Sierra Madre near Los Angeles , California after a wildfire which started on Saturday , began to threaten their homes .	2656	begin.v	133	Process_start	MANUAL	6670895	130	134	MJE	began
+LINKED:[23	23	130	134	bn:00083340v		http://babelnet.org/rdf/s00083340v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15995 ===
+	Setting_out: 206.66666666666666
+	Process_start: 103.33333333333333
+	Activity_start: 77.5
+
+SELECTED:[Process_start]
+MATCH!
+SILVER:246	25617	1	4	0	4164989	So far only five percent of the 350 acre fire is contained , with over 400 firefighters battling the blaze .	17455	fire.n	2824	Fire_burning	MANUAL	6669303	41	44	WMcQ	fire
+LINKED:[9	9	41	44	bn:00034623n		http://babelnet.org/rdf/s00034623n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15996 ===
+	Event: 9.523809523809524
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	4	0	4164989	So far only five percent of the 350 acre fire is contained , with over 400 firefighters battling the blaze .	2858	acre.n	156	Measure_area	MANUAL	6669304	36	39	WMcQ	acre
+LINKED:[8	8	36	39	bn:00001014n	http://dbpedia.org/resource/Acre	http://babelnet.org/rdf/s00001014n	1.0	0.2	0.05882353	BABELFY]
+RANK:=== COUNTER  Counter 15997 ===
+	Measure_area: 360.0
+
+SELECTED:[Measure_area]
+MATCH!
+SILVER:246	25617	1	4	0	4164989	So far only five percent of the 350 acre fire is contained , with over 400 firefighters battling the blaze .	18472	firefighter.n	1071	People_by_vocation	MANUAL	6669305	75	86	WMcQ	firefighters
+LINKED:[16	16	75	86	bn:00034631n	http://dbpedia.org/resource/Firefighter	http://babelnet.org/rdf/s00034631n	0.75	0.2	0.1764706	BABELFY]
+RANK:=== COUNTER  Counter 15998 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	4	0	4164989	So far only five percent of the 350 acre fire is contained , with over 400 firefighters battling the blaze .	17613	battle.v	2832	Firefighting	MANUAL	6669306	88	95	WMcQ	battling
+LINKED:[17	17	88	95	bn:00083173v		http://babelnet.org/rdf/s00083173v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 15999 ===
+	Hostile_encounter: 9.310344827586206
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	4	0	4164989	So far only five percent of the 350 acre fire is contained , with over 400 firefighters battling the blaze .	12555	so	1594	Continued_state_of_affairs	MANUAL	6671034	3	5	MJE	far
+LINKED:[1	1	3	5	bn:00115322r		http://babelnet.org/rdf/s00115322r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16000 ===
+	Degree: 3.9393939393939394
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	5	0	4164990	Authorities say that it has been over 40 years since some parts of the land have caught fire .	11420	authority.n	73	Leadership	MANUAL	6669307	0	10	WMcQ	Authorities
+LINKED:[0	0	0	10	bn:00007300n		http://babelnet.org/rdf/s00007300n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16001 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	5	0	4164990	Authorities say that it has been over 40 years since some parts of the land have caught fire .	751	say.v	43	Statement	MANUAL	6669308	12	14	WMcQ	say
+LINKED:[1	1	12	14	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16002 ===
+	Spelling_and_pronouncing: 40.0
+	Communication: 21.818181818181817
+	Becoming_aware: 21.818181818181817
+	Text_creation: 18.46153846153846
+	Speak_on_topic: 18.46153846153846
+	Statement: 3.75
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25617	1	5	0	4164990	Authorities say that it has been over 40 years since some parts of the land have caught fire .	3878	year.n	224	Measure_duration	MANUAL	6669309	41	45	WMcQ	years
+LINKED:[8	8	41	45	bn:00078738n	http://dbpedia.org/resource/Year	http://babelnet.org/rdf/s00078738n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16003 ===
+	Measure_duration: 50.76923076923077
+	Calendric_unit: 12.222222222222221
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:246	25617	1	5	0	4164990	Authorities say that it has been over 40 years since some parts of the land have caught fire .	17464	catch	2827	Catching_fire	MANUAL	6669310	81	86	WMcQ	caught
+LINKED:[16	16	81	86	bn:00084667v		http://babelnet.org/rdf/s00084667v	0.75	0.33333334	0.028436018	BABELFY]
+RANK:=== COUNTER  Counter 16004 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	5	0	4164990	Authorities say that it has been over 40 years since some parts of the land have caught fire .	17464	catch	2827	Catching_fire	MANUAL	6669310	88	91	WMcQ	fire
+LINKED:[17	17	88	91	bn:00034623n		http://babelnet.org/rdf/s00034623n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16005 ===
+	Event: 9.523809523809524
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	5	0	4164990	Authorities say that it has been over 40 years since some parts of the land have caught fire .	15465	land.n	191	Natural_features	MANUAL	6669311	71	74	WMcQ	land
+LINKED:[14	14	71	74	bn:00023236n	http://dbpedia.org/resource/State_(polity)	http://babelnet.org/rdf/s00023236n	0.8965517	0.8333333	0.6161137	BABELFY]
+RANK:=== COUNTER  Counter 16006 ===
+	Political_locales: 29.6875
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	6	0	4164991	The cause of the fire is not known .	16446	known.a	2593	Awareness_status	MANUAL	6669314	29	33	WMcQ	known
+LINKED:[7	7	29	33	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16007 ===
+	Certainty: 31.818181818181817
+	Awareness: 15.909090909090908
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	6	0	4164991	The cause of the fire is not known .	17455	fire.n	2824	Fire_burning	MANUAL	6671560	17	20	WMcQ	fire
+LINKED:[4	4	17	20	bn:00034623n		http://babelnet.org/rdf/s00034623n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16008 ===
+	Event: 9.523809523809524
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	7	0	4164992	Authorities say the investigation into how it started may take up to three days to finish .	11420	authority.n	73	Leadership	MANUAL	6669315	0	10	WMcQ	Authorities
+LINKED:[0	0	0	10	bn:00007293n	http://dbpedia.org/resource/Authorization	http://babelnet.org/rdf/s00007293n	1.0	0.2	0.01	BABELFY]
+RANK:=== COUNTER  Counter 16009 ===
+	Leadership: 6.575342465753424
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:246	25617	1	7	0	4164992	Authorities say the investigation into how it started may take up to three days to finish .	8046	investigation.n	500	Criminal_investigation	MANUAL	6669325	20	32	WMcQ	investigation
+LINKED:[3	3	20	32	bn:00047354n		http://babelnet.org/rdf/s00047354n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16010 ===
+	Criminal_investigation: 12.0
+	Scrutiny: 1.5789473684210527
+
+SELECTED:[Criminal_investigation]
+MATCH!
+SILVER:246	25617	1	7	0	4164992	Authorities say the investigation into how it started may take up to three days to finish .	2655	start.v	133	Process_start	MANUAL	6669326	46	52	WMcQ	started
+LINKED:[7	7	46	52	bn:00083342v		http://babelnet.org/rdf/s00083342v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16011 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	8	0	4164993	So far there have been no injuries and no homes have yet been damaged , but one building storing equipment used by firefighters was burned to the ground .	17511	injury.n	384	Experience_bodily_harm	MANUAL	6669316	26	33	WMcQ	injuries
+LINKED:[6	6	26	33	bn:00020861n		http://babelnet.org/rdf/s00020861n	1.0	0.33333334	0.055555556	BABELFY]
+RANK:=== COUNTER  Counter 16012 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	8	0	4164993	So far there have been no injuries and no homes have yet been damaged , but one building storing equipment used by firefighters was burned to the ground .	3012	home.n	173	Buildings	MANUAL	6669317	42	46	WMcQ	homes
+LINKED:[9	9	42	46	bn:00044994n	http://dbpedia.org/resource/House	http://babelnet.org/rdf/s00044994n	0.9375	0.5	0.20833333	BABELFY]
+RANK:=== COUNTER  Counter 16013 ===
+	Buildings: 5.421686746987952
+
+SELECTED:[Buildings]
+MATCH!
+SILVER:246	25617	1	8	0	4164993	So far there have been no injuries and no homes have yet been damaged , but one building storing equipment used by firefighters was burned to the ground .	7594	damage.v	415	Damaging	MANUAL	6669318	62	68	WMcQ	damaged
+LINKED:[13	13	62	68	bn:00086261v		http://babelnet.org/rdf/s00086261v	1.0	0.5	0.16666667	BABELFY]
+RANK:=== COUNTER  Counter 16014 ===
+	Damaging: 12.142857142857142
+
+SELECTED:[Damaging]
+MATCH!
+SILVER:246	25617	1	8	0	4164993	So far there have been no injuries and no homes have yet been damaged , but one building storing equipment used by firefighters was burned to the ground .	10869	building.n	173	Buildings	MANUAL	6669320	80	87	WMcQ	building
+LINKED:[17	17	80	87	bn:00084198v		http://babelnet.org/rdf/s00084198v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16015 ===
+	Building: 43.333333333333336
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	8	0	4164993	So far there have been no injuries and no homes have yet been damaged , but one building storing equipment used by firefighters was burned to the ground .	17450	burn.v	2824	Fire_burning	MANUAL	6669321	132	137	WMcQ	burned
+LINKED:[24	24	132	137	bn:00084270v		http://babelnet.org/rdf/s00084270v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16016 ===
+	Experience_bodily_harm: 4.444444444444445
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	8	0	4164993	So far there have been no injuries and no homes have yet been damaged , but one building storing equipment used by firefighters was burned to the ground .	18472	firefighter.n	1071	People_by_vocation	MANUAL	6669322	115	126	WMcQ	firefighters
+LINKED:[22	22	115	126	bn:00034631n	http://dbpedia.org/resource/Firefighter	http://babelnet.org/rdf/s00034631n	1.0	0.33333334	0.055555556	BABELFY]
+RANK:=== COUNTER  Counter 16017 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	8	0	4164993	So far there have been no injuries and no homes have yet been damaged , but one building storing equipment used by firefighters was burned to the ground .	10619	use.v	1141	Using	MANUAL	6669323	107	110	WMcQ	used
+LINKED:[20	20	107	110	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16018 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	8	0	4164993	So far there have been no injuries and no homes have yet been damaged , but one building storing equipment used by firefighters was burned to the ground .	12555	so	1594	Continued_state_of_affairs	MANUAL	6671426	3	5	MJE	far
+LINKED:[1	1	3	5	bn:00115322r		http://babelnet.org/rdf/s00115322r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16019 ===
+	Degree: 3.9393939393939394
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	8	0	4164993	So far there have been no injuries and no homes have yet been damaged , but one building storing equipment used by firefighters was burned to the ground .	17644	store.v	397	Containing	MANUAL	6671503	89	95	MJE	storing
+LINKED:[18	18	89	95	bn:00089368v		http://babelnet.org/rdf/s00089368v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16020 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	9	0	4164994	For a short time , at least 100 hikers were trapped in the mountains and a boy scout camp was also threatened by the blaze .	17509	hiker.n	64	Self_motion	MANUAL	6669327	32	37	WMcQ	hikers
+LINKED:[8	8	32	37	bn:00044137n	http://dbpedia.org/resource/Hiking	http://babelnet.org/rdf/s00044137n	0.969697	0.5	0.22695035	BABELFY]
+RANK:=== COUNTER  Counter 16021 ===
+	Self_motion: 3.8317757009345796
+
+SELECTED:[Self_motion]
+MATCH!
+SILVER:246	25617	1	9	0	4164994	For a short time , at least 100 hikers were trapped in the mountains and a boy scout camp was also threatened by the blaze .	2353	camp.n	110	Residence	MANUAL	6669328	85	88	WMcQ	camp
+LINKED:[18	18	85	88	bn:00010805n	http://dbpedia.org/resource/Cantonment	http://babelnet.org/rdf/s00010805n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16022 ===
+	Residence: 41.53846153846154
+
+SELECTED:[Residence]
+MATCH!
+SILVER:246	25617	1	9	0	4164994	For a short time , at least 100 hikers were trapped in the mountains and a boy scout camp was also threatened by the blaze .	17489	blaze.n	2824	Fire_burning	MANUAL	6669329	117	121	WMcQ	blaze
+LINKED:[24	24	117	121	bn:00287728n	http://dbpedia.org/resource/Blaze_(Herman's_Hermits_album)	http://babelnet.org/rdf/s00287728n	1.0	0.125	0.0070921984	BABELFY]
+RANK:=== COUNTER  Counter 16023 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	9	0	4164994	For a short time , at least 100 hikers were trapped in the mountains and a boy scout camp was also threatened by the blaze .	17498	threatened.a	1560	Being_at_risk	MANUAL	6669330	99	108	WMcQ	threatened
+LINKED:[21	21	99	108	bn:00087612v		http://babelnet.org/rdf/s00087612v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16024 ===
+	Endangering: 100.0
+	Commitment: 10.526315789473685
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	10	0	4164995	Several people celebrating a wedding have also been trapped by the fire but are not injured and authorities say they are in no danger from the blaze .	5511	people.n	304	People	MANUAL	6669331	8	13	WMcQ	people
+LINKED:[1	1	8	13	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	1.0	0.5714286	0.7058824	BABELFY]
+RANK:=== COUNTER  Counter 16025 ===
+	People: 37.857142857142854
+
+SELECTED:[People]
+MATCH!
+SILVER:246	25617	1	10	0	4164995	Several people celebrating a wedding have also been trapped by the fire but are not injured and authorities say they are in no danger from the blaze .	17455	fire.n	2824	Fire_burning	MANUAL	6669332	67	70	WMcQ	fire
+LINKED:[11	11	67	70	bn:00034625n	http://dbpedia.org/resource/Fire	http://babelnet.org/rdf/s00034625n	1.0	0.14285715	0.029411765	BABELFY]
+RANK:=== COUNTER  Counter 16026 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	10	0	4164995	Several people celebrating a wedding have also been trapped by the fire but are not injured and authorities say they are in no danger from the blaze .	11420	authority.n	73	Leadership	MANUAL	6669333	96	106	WMcQ	authorities
+LINKED:[17	17	96	106	bn:00007293n	http://dbpedia.org/resource/Authorization	http://babelnet.org/rdf/s00007293n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16027 ===
+	Leadership: 6.575342465753424
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:246	25617	1	10	0	4164995	Several people celebrating a wedding have also been trapped by the fire but are not injured and authorities say they are in no danger from the blaze .	751	say.v	43	Statement	MANUAL	6669334	108	110	WMcQ	say
+LINKED:[18	18	108	110	bn:00087644v		http://babelnet.org/rdf/s00087644v	1.0	0.14285715	0.029411765	BABELFY]
+RANK:=== COUNTER  Counter 16028 ===
+	Sentencing: 80.0
+	Request: 11.428571428571429
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	10	0	4164995	Several people celebrating a wedding have also been trapped by the fire but are not injured and authorities say they are in no danger from the blaze .	17489	blaze.n	2824	Fire_burning	MANUAL	6669335	143	147	WMcQ	blaze
+LINKED:[26	26	143	147	bn:00011171n		http://babelnet.org/rdf/s00011171n	1.0	0.14285715	0.029411765	BABELFY]
+RANK:=== COUNTER  Counter 16029 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	10	0	4164995	Several people celebrating a wedding have also been trapped by the fire but are not injured and authorities say they are in no danger from the blaze .	13506	danger.n	1560	Being_at_risk	MANUAL	6669336	127	132	WMcQ	danger
+LINKED:[23	23	127	132	bn:00025173n		http://babelnet.org/rdf/s00025173n	1.0	0.14285715	0.029411765	BABELFY]
+RANK:=== COUNTER  Counter 16030 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	11	0	4164996	However , there are currently around 1000 people under mandatory evacuations , and the city has been declared in a state of emergency .	5511	people.n	304	People	MANUAL	6669337	42	47	WMcQ	people
+LINKED:[7	7	42	47	bn:00061450n	http://dbpedia.org/resource/People	http://babelnet.org/rdf/s00061450n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16031 ===
+	People: 37.857142857142854
+
+SELECTED:[People]
+MATCH!
+SILVER:246	25617	1	11	0	4164996	However , there are currently around 1000 people under mandatory evacuations , and the city has been declared in a state of emergency .	3764	city.n	195	Political_locales	MANUAL	6669339	87	90	WMcQ	city
+LINKED:[14	14	87	90	bn:00019319n	http://dbpedia.org/resource/Metropolis	http://babelnet.org/rdf/s00019319n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16032 ===
+	Political_locales: 34.0625
+	Locale_by_use: 22.708333333333332
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:246	25617	1	11	0	4164996	However , there are currently around 1000 people under mandatory evacuations , and the city has been declared in a state of emergency .	1130	evacuation.n	63	Removing	MANUAL	6669340	65	75	WMcQ	evacuations
+LINKED:[10	10	65	75	bn:00030640n		http://babelnet.org/rdf/s00030640n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16033 ===
+	Emptying: 5.405405405405405
+	Removing: 4.878048780487805
+
+SELECTED:[Removing]
+MATCH!
+SILVER:246	25617	1	11	0	4164996	However , there are currently around 1000 people under mandatory evacuations , and the city has been declared in a state of emergency .	714	declare.v	43	Statement	MANUAL	6669341	101	108	WMcQ	declared
+LINKED:[17	17	101	108	bn:00086380v		http://babelnet.org/rdf/s00086380v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16034 ===
+	Statement: 2.1875
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25617	1	11	0	4164996	However , there are currently around 1000 people under mandatory evacuations , and the city has been declared in a state of emergency .	12596	state.n	1600	State_of_entity	MANUAL	6669342	115	119	WMcQ	state
+LINKED:[20	20	115	119	bn:00064914n	http://dbpedia.org/resource/Province	http://babelnet.org/rdf/s00064914n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16035 ===
+	Political_locales: 17.5
+
+SELECTED:[]
+WRONG!
+SILVER:246	25617	1	11	0	4164996	However , there are currently around 1000 people under mandatory evacuations , and the city has been declared in a state of emergency .	14085	currently.adv	1895	Temporal_collocation	MANUAL	6671504	20	28	MJE	currently
+LINKED:[4	4	20	28	bn:00114905r		http://babelnet.org/rdf/s00114905r	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16036 ===
+	Temporal_collocation: 7.5
+
+SELECTED:[Temporal_collocation]
+MATCH!
+SILVER:246	25617	1	12	0	4164997	It could take at least five days before the fire can be brought under full control .	17455	fire.n	2824	Fire_burning	MANUAL	6669344	44	47	WMcQ	fire
+LINKED:[9	9	44	47	bn:00034623n		http://babelnet.org/rdf/s00034623n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 16037 ===
+	Event: 9.523809523809524
+
+SELECTED:[]
+WRONG!
+filename	WikiTexts__Fires_2.xml
+docAnnotations	82
+docManual	71
+docUnannotated	11
+sentences	11
+paragraphs	11
+Overlapping	51
+Disambiguated	36
+TP	20
+TN	11
+FP	0
+FN	35
+P	1.0
+R	0.36363636363636365
+F	0.5333333333333333
+A	0.4696969696969697

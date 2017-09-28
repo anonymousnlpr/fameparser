@@ -1,0 +1,16 @@
+filename	ANC__EntrepreneurAsMadonna.xml
+docAnnotations	271
+docManual	236
+docUnannotated	35
+sentences	33
+paragraphs	10
+Overlapping	145
+Disambiguated	73
+TP	52
+TN	35
+FP	0
+FN	163
+P	1.0
+R	0.24186046511627907
+F	0.3895131086142322
+A	0.348

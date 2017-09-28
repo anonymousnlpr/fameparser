@@ -1,0 +1,16 @@
+filename	WikiTexts__boutique.n.xml
+docAnnotations	116
+docManual	19
+docUnannotated	97
+sentences	97
+paragraphs	10
+Overlapping	19
+Disambiguated	19
+TP	15
+TN	97
+FP	0
+FN	0
+P	1.0
+R	1.0
+F	1.0
+A	1.0

@@ -1,0 +1,254 @@
+SILVER:246	25618	1	1	0	4164998	California wildfires continue to spread	17614	wildfire.n	2835	Emergency_fire	MANUAL	6669454	11	19	WMcQ	wildfires
+LINKED:[1	1	11	19	bn:00081216n	http://dbpedia.org/resource/Wildfire	http://babelnet.org/rdf/s00081216n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13790 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	1	0	4164998	California wildfires continue to spread	17453	spread.v	725	Expansion	MANUAL	6671576	33	38	MJE	spread
+LINKED:[4	4	33	38	bn:00091347v		http://babelnet.org/rdf/s00091347v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13794 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	3	0	4164999	Wildfires in California continued to spread on Tuesday , having burned more than 140,000 acres of land throughout the state and caused an estimated US$13 million worth of damage .	17614	wildfire.n	2835	Emergency_fire	MANUAL	6669395	0	8	WMcQ	Wildfires
+LINKED:[0	0	0	8	bn:00081216n	http://dbpedia.org/resource/Wildfire	http://babelnet.org/rdf/s00081216n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13796 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	3	0	4164999	Wildfires in California continued to spread on Tuesday , having burned more than 140,000 acres of land throughout the state and caused an estimated US$13 million worth of damage .	17453	spread.v	725	Expansion	MANUAL	6669403	37	42	WMcQ	spread
+LINKED:[5	5	37	42	bn:00087063v		http://babelnet.org/rdf/s00087063v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13804 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	3	0	4164999	Wildfires in California continued to spread on Tuesday , having burned more than 140,000 acres of land throughout the state and caused an estimated US$13 million worth of damage .	2799	continue.v	145	Process_continue	MANUAL	6671577	24	32	MJE	continued
+LINKED:[3	3	24	32	bn:00085714v		http://babelnet.org/rdf/s00085714v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13806 ===
+	Activity_ongoing: -0.02040816326530612
+	Process_continue: -0.04000000000000001
+
+SELECTED:[Process_continue]
+MATCH!
+SILVER:246	25618	1	3	0	4164999	Wildfires in California continued to spread on Tuesday , having burned more than 140,000 acres of land throughout the state and caused an estimated US$13 million worth of damage .	14650	damage.n	415	Damaging	MANUAL	6671580	171	176	MJE	damage
+LINKED:[29	29	171	176	bn:00025080n		http://babelnet.org/rdf/s00025080n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13810 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	4	0	4165000	The blaze started burning last Wednesday north of Los Angeles .	17489	blaze.n	2824	Fire_burning	MANUAL	6669405	4	8	WMcQ	blaze
+LINKED:[1	1	4	8	bn:00011175n		http://babelnet.org/rdf/s00011175n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13812 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	4	0	4165000	The blaze started burning last Wednesday north of Los Angeles .	2655	start.v	133	Process_start	MANUAL	6671585	10	16	MJE	started
+LINKED:[2	2	10	16	bn:00083340v		http://babelnet.org/rdf/s00083340v	1.0	0.16666667	0.014084507	BABELFY]
+RANK:=== COUNTER  Counter 13818 ===
+	Activity_start: -0.015625
+	Process_start: -0.027777777777777776
+	Setting_out: -0.1111111111111111
+
+SELECTED:[Process_start]
+MATCH!
+SILVER:246	25618	1	5	0	4165001	Emergency crews said they were hopeful that they would be able to control the fire .	17457	crew.n	2828	Team	MANUAL	6669429	10	14	WMcQ	crews
+LINKED:[1	1	10	14	bn:00023774n		http://babelnet.org/rdf/s00023774n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13820 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	5	0	4165001	Emergency crews said they were hopeful that they would be able to control the fire .	751	say.v	43	Statement	MANUAL	6669430	16	19	WMcQ	said
+LINKED:[2	2	16	19	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13822 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25618	1	5	0	4165001	Emergency crews said they were hopeful that they would be able to control the fire .	17455	fire.n	2824	Fire_burning	MANUAL	6671561	78	81	WMcQ	fire
+LINKED:[14	14	78	81	bn:00034625n	http://dbpedia.org/resource/Fire	http://babelnet.org/rdf/s00034625n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 13826 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	5	0	4165001	Emergency crews said they were hopeful that they would be able to control the fire .	16991	hopeful.a	2713	Attitude_description	MANUAL	6671587	31	37	MJE	hopeful
+LINKED:[5	5	31	37	bn:00104320a		http://babelnet.org/rdf/s00104320a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13830 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	6	0	4165002	3,600 personnel are involved in containing the wildfire .	11685	personnel.n	323	Employing	MANUAL	6669457	6	14	WMcQ	personnel
+LINKED:[1	1	6	14	bn:00035770n		http://babelnet.org/rdf/s00035770n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13832 ===
+	Employing: -0.015625
+	Military: -0.02040816326530612
+
+SELECTED:[Employing]
+MATCH!
+SILVER:246	25618	1	6	0	4165002	3,600 personnel are involved in containing the wildfire .	10630	involved.a	1144	Participation	MANUAL	6669463	20	27	WMcQ	involved
+LINKED:[3	3	20	27	bn:00089894v		http://babelnet.org/rdf/s00089894v	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 13834 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	6	0	4165002	3,600 personnel are involved in containing the wildfire .	17614	wildfire.n	2835	Emergency_fire	MANUAL	6669466	47	54	WMcQ	wildfire
+LINKED:[7	7	47	54	bn:00081216n	http://dbpedia.org/resource/Wildfire	http://babelnet.org/rdf/s00081216n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13836 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	7	0	4165003	Currently , twenty-two percent of the blaze is contained , rising from only five percent as little as a day ago .	17489	blaze.n	2824	Fire_burning	MANUAL	6669468	38	42	WMcQ	blaze
+LINKED:[6	6	38	42	bn:00011171n		http://babelnet.org/rdf/s00011171n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13838 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	7	0	4165003	Currently , twenty-two percent of the blaze is contained , rising from only five percent as little as a day ago .	1874	rise.v	91	Change_position_on_a_scale	MANUAL	6671588	59	64	MJE	rising
+LINKED:[10	10	59	64	bn:00082761v		http://babelnet.org/rdf/s00082761v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13840 ===
+	Change_position_on_a_scale: -4.938271604938272E-4
+	Change_posture: -0.0034602076124567475
+	Motion_directional: -0.015625
+	Change_event_time: -0.027777777777777776
+
+SELECTED:[Change_position_on_a_scale]
+MATCH!
+SILVER:246	25618	1	8	0	4165004	Changing weather conditions also helped firefighting efforts , as temperature in the area fell to 90 degrees Fahrenheit , down from over a hundred degrees on Monday .	11313	temperature.n	1052	Ambient_temperature	MANUAL	6669488	66	76	WMcQ	temperature
+LINKED:[9	9	66	76	bn:00076457n	http://dbpedia.org/resource/Temperature	http://babelnet.org/rdf/s00076457n	0.9623431	0.8333333	0.24625267	BABELFY]
+RANK:=== COUNTER  Counter 13844 ===
+	Ambient_temperature: -0.02040816326530612
+	Temperature: -0.04000000000000001
+
+SELECTED:[Ambient_temperature]
+MATCH!
+SILVER:246	25618	1	9	0	4165005	'' I 'm feeling a lot more optimistic today than I did yesterday .	16989	optimistic.a	2713	Attitude_description	MANUAL	6672440	27	36	MJE	optimistic
+LINKED:[6	6	27	36	bn:00107938a		http://babelnet.org/rdf/s00107938a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13850 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	9	0	4165005	'' I 'm feeling a lot more optimistic today than I did yesterday .	17659	a	2001	Degree	MANUAL	6672443	18	20	MJE	lot
+LINKED:[4	4	18	20	bn:00052061n	http://dbpedia.org/resource/Land_lot	http://babelnet.org/rdf/s00052061n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13854 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	10	0	4165006	The crews are doing fabulous work out there on the ground , but the bottom line is that they 're fighting for every foot , '' Dietrich said on Tuesday .	17457	crew.n	2828	Team	MANUAL	6669508	4	8	WMcQ	crews
+LINKED:[1	1	4	8	bn:00023774n		http://babelnet.org/rdf/s00023774n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13856 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	10	0	4165006	The crews are doing fabulous work out there on the ground , but the bottom line is that they 're fighting for every foot , '' Dietrich said on Tuesday .	17470	fight.v	2832	Firefighting	MANUAL	6669511	97	104	WMcQ	fighting
+LINKED:[20	20	97	104	bn:00085711v		http://babelnet.org/rdf/s00085711v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13858 ===
+	Hostile_encounter: -0.0011890606420927466
+	Quarreling: -0.00510204081632653
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	10	0	4165006	The crews are doing fabulous work out there on the ground , but the bottom line is that they 're fighting for every foot , '' Dietrich said on Tuesday .	751	say.v	43	Statement	MANUAL	6669516	135	138	WMcQ	said
+LINKED:[26	26	135	138	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13860 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25618	1	11	0	4165007	In a statement , Californian governor Arnold Schwarzenegger said that `` [ his administration ] is working around the clock to ensure that our brave men and women working on the fires front lines have the resources needed to respond and beat back these fires as quickly as possible . ''	751	say.v	43	Statement	MANUAL	6669521	60	63	WMcQ	said
+LINKED:[8	8	60	63	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13866 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25618	1	11	0	4165007	In a statement , Californian governor Arnold Schwarzenegger said that `` [ his administration ] is working around the clock to ensure that our brave men and women working on the fires front lines have the resources needed to respond and beat back these fires as quickly as possible . ''	10709	needed.a	1157	Being_necessary	MANUAL	6672446	215	220	MJE	needed
+LINKED:[37	37	215	220	bn:00082822v		http://babelnet.org/rdf/s00082822v	0.8181818	0.11111111	0.0042755343	BABELFY]
+RANK:=== COUNTER  Counter 13876 ===
+	Imposing_obligation: -0.027777777777777776
+	Needing: -0.25
+	Have_as_requirement: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	12	0	4165008	'' We have the toughest and best-trained firefighters in the world fighting to protect public safety and property .	18472	firefighter.n	1071	People_by_vocation	MANUAL	6669549	41	52	WMcQ	firefighters
+LINKED:[6	6	41	52	bn:00034631n	http://dbpedia.org/resource/Firefighter	http://babelnet.org/rdf/s00034631n	1.0	0.2857143	0.031496063	BABELFY]
+RANK:=== COUNTER  Counter 13880 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	12	0	4165008	'' We have the toughest and best-trained firefighters in the world fighting to protect public safety and property .	17470	fight.v	2832	Firefighting	MANUAL	6669550	67	74	WMcQ	fighting
+LINKED:[10	10	67	74	bn:00085711v		http://babelnet.org/rdf/s00085711v	1.0	0.14285715	0.007874016	BABELFY]
+RANK:=== COUNTER  Counter 13882 ===
+	Hostile_encounter: -0.0011890606420927466
+	Quarreling: -0.00510204081632653
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	13	0	4165009	I am confident in the state 's response as these fires continue to burn throughout California , '' he said .	751	say.v	43	Statement	MANUAL	6669560	102	105	WMcQ	said
+LINKED:[18	18	102	105	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.72727275	0.2857143	0.031746034	BABELFY]
+RANK:=== COUNTER  Counter 13896 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:246	25618	1	13	0	4165009	I am confident in the state 's response as these fires continue to burn throughout California , '' he said .	2799	continue.v	145	Process_continue	MANUAL	6672451	55	62	MJE	continue
+LINKED:[11	11	55	62	bn:00085714v		http://babelnet.org/rdf/s00085714v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 13900 ===
+	Activity_ongoing: -0.02040816326530612
+	Process_continue: -0.04000000000000001
+
+SELECTED:[Process_continue]
+MATCH!
+SILVER:246	25618	1	14	0	4165010	Two firefighters were killed in the blaze on Sunday , after fires burnt their vehicle on front lines .	18472	firefighter.n	1071	People_by_vocation	MANUAL	6669563	4	15	WMcQ	firefighters
+LINKED:[1	1	4	15	bn:00034631n	http://dbpedia.org/resource/Firefighter	http://babelnet.org/rdf/s00034631n	0.9375	0.33333334	0.09803922	BABELFY]
+RANK:=== COUNTER  Counter 13902 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	14	0	4165010	Two firefighters were killed in the blaze on Sunday , after fires burnt their vehicle on front lines .	17489	blaze.n	2824	Fire_burning	MANUAL	6669564	36	40	WMcQ	blaze
+LINKED:[6	6	36	40	bn:00011171n		http://babelnet.org/rdf/s00011171n	0.85714287	0.22222222	0.039215688	BABELFY]
+RANK:=== COUNTER  Counter 13904 ===
+
+SELECTED:[]
+WRONG!
+SILVER:246	25618	1	15	0	4165011	Over 10,000 residents have evacuated areas threatened by the flames .	17483	flames.n	2824	Fire_burning	MANUAL	6669571	61	66	WMcQ	flames
+LINKED:[9	9	61	66	bn:00034625n	http://dbpedia.org/resource/Fire	http://babelnet.org/rdf/s00034625n	1.0	0.33333334	0.125	BABELFY]
+RANK:=== COUNTER  Counter 13918 ===
+
+SELECTED:[]
+WRONG!
+filename	WikiTexts__Fires_3.xml
+docAnnotations	92
+docManual	76
+docUnannotated	16
+sentences	14
+paragraphs	14
+Overlapping	65
+Disambiguated	13
+TP	10
+TN	16
+FP	0
+FN	63
+P	1.0
+R	0.136986301369863
+F	0.24096385542168672
+A	0.29213483146067415

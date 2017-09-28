@@ -1,0 +1,16 @@
+filename	NTI__NorthKorea_ChemicalOverview.xml
+docAnnotations	582
+docManual	478
+docUnannotated	104
+sentences	72
+paragraphs	20
+Overlapping	433
+Disambiguated	287
+TP	224
+TN	104
+FP	0
+FN	191
+P	1.0
+R	0.5397590361445783
+F	0.701095461658842
+A	0.6319845857418112

@@ -1,0 +1,1320 @@
+SILVER:135	23605	1	3	0	4099583	`` The General Assembly should set aside money for a new state health lab , millions of doses of antiviral drugs and a fund to help meet basic needs after a disaster , a legislative panel recommended Thursday .	13361	money.n	1761	Money	MANUAL	6536758	41	45	RLG	money
+LINKED:[7	7	41	45	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	0.9027778	0.2	0.03419253	BABELFY]
+RANK:=== COUNTER  Counter 33362 ===
+	Money: -0.027777777777777776
+	Commerce_pay: -0.04000000000000001
+
+SELECTED:[Money]
+MATCH!
+SILVER:135	23605	2	3	0	4099584	The General Assembly has worked to improve its response to potential terrorist attacks after the Sept. 11, 2001 , attacks and the ensuing anthrax scares .	13344	terrorist.n	1750	Terrorism	MANUAL	6536523	69	77	KmG	terrorist
+LINKED:[11	11	69	77	bn:13605240a		http://babelnet.org/rdf/s13605240a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33374 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	3	0	4099585	More than half of the money sought -- $89 million -- would go toward the construction of a state public health laboratory and Office of the Chief Medical Examiner . '' ( The News and Observer , 21Apr06 , AP )	5882	half.n	140	Part_whole	MANUAL	6535377	10	13	RLG	half
+LINKED:[2	2	10	13	bn:00042601n	http://dbpedia.org/resource/One_half	http://babelnet.org/rdf/s00042601n	1.0	0.055555556	7.930214E-4	BABELFY]
+RANK:=== COUNTER  Counter 33380 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	3	0	4099585	More than half of the money sought -- $89 million -- would go toward the construction of a state public health laboratory and Office of the Chief Medical Examiner . '' ( The News and Observer , 21Apr06 , AP )	12161	seek.v	1480	Seeking_to_achieve	MANUAL	6535411	28	33	RLG	sought
+LINKED:[6	6	28	33	bn:00093452v		http://babelnet.org/rdf/s00093452v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33386 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	3	0	4099585	More than half of the money sought -- $89 million -- would go toward the construction of a state public health laboratory and Office of the Chief Medical Examiner . '' ( The News and Observer , 21Apr06 , AP )	13361	money.n	1761	Money	MANUAL	6536759	22	26	RLG	money
+LINKED:[5	5	22	26	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	0.9322034	0.2777778	0.04361618	BABELFY]
+RANK:=== COUNTER  Counter 33388 ===
+	Money: -0.027777777777777776
+	Commerce_pay: -0.04000000000000001
+
+SELECTED:[Money]
+MATCH!
+SILVER:135	23605	1	5	0	4099587	`` Rhode Island is preparing itself for a major hurricane or other natural disaster , state and local officials testified at a field hearing of the Senate Homeland Security Committee Thursday , including establishing interoperable communications systems and community evacuation plans .	3997	Thursday.n	229	Calendric_unit	MANUAL	6535323	183	190	RLG	Thursday
+LINKED:[30	30	183	190	bn:16982223n	http://dbpedia.org/resource/Thursday_(song)	http://babelnet.org/rdf/s16982223n	1.0	0.030303031	2.2070183E-4	BABELFY]
+RANK:=== COUNTER  Counter 33402 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	5	0	4099587	`` Rhode Island is preparing itself for a major hurricane or other natural disaster , state and local officials testified at a field hearing of the Senate Homeland Security Committee Thursday , including establishing interoperable communications systems and community evacuation plans .	10687	include.v	1153	Inclusion	MANUAL	6535324	194	202	RLG	including
+LINKED:[32	32	194	202	bn:00082370v		http://babelnet.org/rdf/s00082370v	0.8	0.060606062	8.828073E-4	BABELFY]
+RANK:=== COUNTER  Counter 33404 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	5	0	4099587	`` Rhode Island is preparing itself for a major hurricane or other natural disaster , state and local officials testified at a field hearing of the Senate Homeland Security Committee Thursday , including establishing interoperable communications systems and community evacuation plans .	12637	system.n	1610	System	MANUAL	6535327	246	252	RLG	systems
+LINKED:[36	36	246	252	bn:15125301n	http://dbpedia.org/resource/System	http://babelnet.org/rdf/s15125301n	0.85714287	0.24242425	0.02648422	BABELFY]
+RANK:=== COUNTER  Counter 33408 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	5	0	4099587	`` Rhode Island is preparing itself for a major hurricane or other natural disaster , state and local officials testified at a field hearing of the Senate Homeland Security Committee Thursday , including establishing interoperable communications systems and community evacuation plans .	1130	evacuation.n	63	Removing	MANUAL	6535329	268	277	RLG	evacuation
+LINKED:[39	39	268	277	bn:00030640n		http://babelnet.org/rdf/s00030640n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33412 ===
+	Removing: -5.94883997620464E-4
+	Emptying: -7.304601899196495E-4
+
+SELECTED:[Removing]
+MATCH!
+SILVER:135	23605	1	5	0	4099587	`` Rhode Island is preparing itself for a major hurricane or other natural disaster , state and local officials testified at a field hearing of the Senate Homeland Security Committee Thursday , including establishing interoperable communications systems and community evacuation plans .	12294	plan.n	513	Purpose	MANUAL	6535330	279	283	RLG	plans
+LINKED:[40	40	279	283	bn:00062759n	http://dbpedia.org/resource/Program_management	http://babelnet.org/rdf/s00062759n	0.75757575	0.15151516	0.0055175456	BABELFY]
+RANK:=== COUNTER  Counter 33414 ===
+	Purpose: -0.012345679012345678
+	Project: -0.0625
+
+SELECTED:[Purpose]
+MATCH!
+SILVER:135	23605	1	5	0	4099587	`` Rhode Island is preparing itself for a major hurricane or other natural disaster , state and local officials testified at a field hearing of the Senate Homeland Security Committee Thursday , including establishing interoperable communications systems and community evacuation plans .	5507	prepare.v	170	Activity_prepare	MANUAL	6548132	19	27	KmG	preparing
+LINKED:[4	4	19	27	bn:00086753v		http://babelnet.org/rdf/s00086753v	0.8076923	0.18181819	0.009269477	BABELFY]
+RANK:=== COUNTER  Counter 33416 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	5	0	4099588	But , Gov . Donald Carcieri , Providence Mayor David Cicilline and others told Chairwoman Susan Collins of Maine and Rhode Island Sen . Lincoln Chafee , they need more federal money , they need it to come faster when disaster strikes and they need a steady stream they know they can rely on from year to year .	9177	tell.v	750	Telling	MANUAL	6535333	74	77	RLG	told
+LINKED:[13	13	74	77	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33428 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	5	0	4099588	But , Gov . Donald Carcieri , Providence Mayor David Cicilline and others told Chairwoman Susan Collins of Maine and Rhode Island Sen . Lincoln Chafee , they need more federal money , they need it to come faster when disaster strikes and they need a steady stream they know they can rely on from year to year .	11791	need.v	1375	Needing	MANUAL	6535334	158	161	RLG	need
+LINKED:[28	28	158	161	bn:00082822v		http://babelnet.org/rdf/s00082822v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33430 ===
+	Imposing_obligation: -0.027777777777777776
+	Needing: -0.25
+	Have_as_requirement: -1.0
+
+SELECTED:[Needing]
+MATCH!
+SILVER:135	23605	2	5	0	4099588	But , Gov . Donald Carcieri , Providence Mayor David Cicilline and others told Chairwoman Susan Collins of Maine and Rhode Island Sen . Lincoln Chafee , they need more federal money , they need it to come faster when disaster strikes and they need a steady stream they know they can rely on from year to year .	10234	federal.a	195	Political_locales	MANUAL	6535336	168	174	RLG	federal
+LINKED:[30	30	168	174	bn:00102870a		http://babelnet.org/rdf/s00102870a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33432 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	5	0	4099588	But , Gov . Donald Carcieri , Providence Mayor David Cicilline and others told Chairwoman Susan Collins of Maine and Rhode Island Sen . Lincoln Chafee , they need more federal money , they need it to come faster when disaster strikes and they need a steady stream they know they can rely on from year to year .	11791	need.v	1375	Needing	MANUAL	6535337	189	192	RLG	need
+LINKED:[34	34	189	192	bn:00082822v		http://babelnet.org/rdf/s00082822v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33434 ===
+	Imposing_obligation: -0.027777777777777776
+	Needing: -0.25
+	Have_as_requirement: -1.0
+
+SELECTED:[Needing]
+MATCH!
+SILVER:135	23605	2	5	0	4099588	But , Gov . Donald Carcieri , Providence Mayor David Cicilline and others told Chairwoman Susan Collins of Maine and Rhode Island Sen . Lincoln Chafee , they need more federal money , they need it to come faster when disaster strikes and they need a steady stream they know they can rely on from year to year .	11791	need.v	1375	Needing	MANUAL	6535339	243	246	RLG	need
+LINKED:[44	44	243	246	bn:00082822v		http://babelnet.org/rdf/s00082822v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33438 ===
+	Imposing_obligation: -0.027777777777777776
+	Needing: -0.25
+	Have_as_requirement: -1.0
+
+SELECTED:[Needing]
+MATCH!
+SILVER:135	23605	2	5	0	4099588	But , Gov . Donald Carcieri , Providence Mayor David Cicilline and others told Chairwoman Susan Collins of Maine and Rhode Island Sen . Lincoln Chafee , they need more federal money , they need it to come faster when disaster strikes and they need a steady stream they know they can rely on from year to year .	160	know.v	19	Awareness	MANUAL	6535340	269	272	RLG	know
+LINKED:[49	49	269	272	bn:00085261v		http://babelnet.org/rdf/s00085261v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33440 ===
+	Awareness: -0.002066115702479339
+	Certainty: -0.008264462809917356
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:135	23605	2	5	0	4099588	But , Gov . Donald Carcieri , Providence Mayor David Cicilline and others told Chairwoman Susan Collins of Maine and Rhode Island Sen . Lincoln Chafee , they need more federal money , they need it to come faster when disaster strikes and they need a steady stream they know they can rely on from year to year .	9940	rely.v	901	Reliance	MANUAL	6535342	283	286	RLG	rely
+LINKED:[52	52	283	286	bn:00083095v		http://babelnet.org/rdf/s00083095v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33442 ===
+	Certainty: -0.008264462809917356
+	Trust: -0.015625
+	Reliance: -0.04000000000000001
+
+SELECTED:[Reliance]
+MATCH!
+SILVER:135	23605	2	5	0	4099588	But , Gov . Donald Carcieri , Providence Mayor David Cicilline and others told Chairwoman Susan Collins of Maine and Rhode Island Sen . Lincoln Chafee , they need more federal money , they need it to come faster when disaster strikes and they need a steady stream they know they can rely on from year to year .	13361	money.n	1761	Money	MANUAL	6536760	176	180	RLG	money
+LINKED:[31	31	176	180	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	0.9818182	0.36363637	0.054271355	BABELFY]
+RANK:=== COUNTER  Counter 33444 ===
+	Money: -0.027777777777777776
+	Commerce_pay: -0.04000000000000001
+
+SELECTED:[Money]
+MATCH!
+SILVER:135	23605	3	5	0	4099589	Part of the answer , Chafee said , might be giving more flexibility with the money , rather than more funds , Chafee suggested after the hearing .	751	say.v	43	Statement	MANUAL	6535344	28	31	RLG	said
+LINKED:[6	6	28	31	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.85714287	0.4	0.3243243	BABELFY]
+RANK:=== COUNTER  Counter 33446 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:135	23605	3	5	0	4099589	Part of the answer , Chafee said , might be giving more flexibility with the money , rather than more funds , Chafee suggested after the hearing .	13361	money.n	1761	Money	MANUAL	6536761	77	81	RLG	money
+LINKED:[15	15	77	81	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	1.0	0.4	0.27027026	BABELFY]
+RANK:=== COUNTER  Counter 33450 ===
+	Money: -0.027777777777777776
+	Commerce_pay: -0.04000000000000001
+
+SELECTED:[Money]
+MATCH!
+SILVER:135	23605	4	5	0	4099590	The state and localities , Chafee said , sometimes get mandated to use federal homeland security funds for decontamination or preparation for bioterrorism , when the money might be better spent putting together a communications systems that would let first responders such as police , fire and rescue from different communities communicate with each other more easily. '' ( Pawtucket Times , 21Apr06 , Jim Baron ) ( Link )	751	say.v	43	Statement	MANUAL	6535352	34	37	RLG	said
+LINKED:[6	6	34	37	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33454 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:135	23605	4	5	0	4099590	The state and localities , Chafee said , sometimes get mandated to use federal homeland security funds for decontamination or preparation for bioterrorism , when the money might be better spent putting together a communications systems that would let first responders such as police , fire and rescue from different communities communicate with each other more easily. '' ( Pawtucket Times , 21Apr06 , Jim Baron ) ( Link )	10234	federal.a	195	Political_locales	MANUAL	6535354	71	77	RLG	federal
+LINKED:[13	13	71	77	bn:00102870a		http://babelnet.org/rdf/s00102870a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33456 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	4	5	0	4099590	The state and localities , Chafee said , sometimes get mandated to use federal homeland security funds for decontamination or preparation for bioterrorism , when the money might be better spent putting together a communications systems that would let first responders such as police , fire and rescue from different communities communicate with each other more easily. '' ( Pawtucket Times , 21Apr06 , Jim Baron ) ( Link )	13214	decontamination.n	58	Emptying	MANUAL	6535356	107	121	RLG	decontamination
+LINKED:[18	18	107	121	bn:15881361n	http://dbpedia.org/resource/Decontamination	http://babelnet.org/rdf/s15881361n	1.0	0.027777778	2.2133687E-4	BABELFY]
+RANK:=== COUNTER  Counter 33460 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	4	5	0	4099590	The state and localities , Chafee said , sometimes get mandated to use federal homeland security funds for decontamination or preparation for bioterrorism , when the money might be better spent putting together a communications systems that would let first responders such as police , fire and rescue from different communities communicate with each other more easily. '' ( Pawtucket Times , 21Apr06 , Jim Baron ) ( Link )	12637	system.n	1610	System	MANUAL	6535359	228	234	RLG	systems
+LINKED:[35	35	228	234	bn:15125301n	http://dbpedia.org/resource/System	http://babelnet.org/rdf/s15125301n	0.7398844	0.22222222	0.02833112	BABELFY]
+RANK:=== COUNTER  Counter 33464 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	4	5	0	4099590	The state and localities , Chafee said , sometimes get mandated to use federal homeland security funds for decontamination or preparation for bioterrorism , when the money might be better spent putting together a communications systems that would let first responders such as police , fire and rescue from different communities communicate with each other more easily. '' ( Pawtucket Times , 21Apr06 , Jim Baron ) ( Link )	10294	different.a	1029	Identicality	MANUAL	6535360	306	314	RLG	different
+LINKED:[49	49	306	314	bn:00101347a		http://babelnet.org/rdf/s00101347a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33466 ===
+	Similarity: -0.0016
+	Identicality: -0.04000000000000001
+
+SELECTED:[Identicality]
+MATCH!
+SILVER:135	23605	4	5	0	4099590	The state and localities , Chafee said , sometimes get mandated to use federal homeland security funds for decontamination or preparation for bioterrorism , when the money might be better spent putting together a communications systems that would let first responders such as police , fire and rescue from different communities communicate with each other more easily. '' ( Pawtucket Times , 21Apr06 , Jim Baron ) ( Link )	5	communicate.v	6	Communication	MANUAL	6535361	328	338	RLG	communicate
+LINKED:[51	51	328	338	bn:00085435v		http://babelnet.org/rdf/s00085435v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33468 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	4	5	0	4099590	The state and localities , Chafee said , sometimes get mandated to use federal homeland security funds for decontamination or preparation for bioterrorism , when the money might be better spent putting together a communications systems that would let first responders such as police , fire and rescue from different communities communicate with each other more easily. '' ( Pawtucket Times , 21Apr06 , Jim Baron ) ( Link )	13361	money.n	1761	Money	MANUAL	6536762	166	170	RLG	money
+LINKED:[26	26	166	170	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	0.9574468	0.25	0.03984064	BABELFY]
+RANK:=== COUNTER  Counter 33472 ===
+	Money: -0.027777777777777776
+	Commerce_pay: -0.04000000000000001
+
+SELECTED:[Money]
+MATCH!
+SILVER:135	23605	1	6	0	4099591	Mock drill readies Dublin [ Georgia ] district for terrorist threat	13344	terrorist.n	1750	Terrorism	MANUAL	6536524	51	59	KmG	terrorist
+LINKED:[9	9	51	59	bn:13605240a		http://babelnet.org/rdf/s13605240a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33476 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	6	0	4099591	Mock drill readies Dublin [ Georgia ] district for terrorist threat	13341	drill.n	962	Practice	MANUAL	6536596	5	9	KmG	drill
+LINKED:[1	1	5	9	bn:00028734n	http://dbpedia.org/resource/Drill	http://babelnet.org/rdf/s00028734n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33478 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	7	0	4099592	`` More than 300 people participated Wednesday in a mock drill to deal with the aftermath of an anthrax attack .	12318	deal.v	1523	Resolve_problem	MANUAL	6535285	66	69	RLG	deal
+LINKED:[12	12	66	69	bn:00082339v		http://babelnet.org/rdf/s00082339v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33486 ===
+	Speak_on_topic: -0.00591715976331361
+	Resolve_problem: -0.02040816326530612
+	Topic: -0.027777777777777776
+
+SELECTED:[Resolve_problem]
+MATCH!
+SILVER:135	23605	1	7	0	4099592	`` More than 300 people participated Wednesday in a mock drill to deal with the aftermath of an anthrax attack .	7745	attack.n	424	Attack	MANUAL	6535286	104	109	RLG	attack
+LINKED:[19	19	104	109	bn:00007000n		http://babelnet.org/rdf/s00007000n	1.0	0.25	0.05263158	BABELFY]
+RANK:=== COUNTER  Counter 33488 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	7	0	4099592	`` More than 300 people participated Wednesday in a mock drill to deal with the aftermath of an anthrax attack .	13341	drill.n	962	Practice	MANUAL	6536597	57	61	KmG	drill
+LINKED:[10	10	57	61	bn:00028734n	http://dbpedia.org/resource/Drill	http://babelnet.org/rdf/s00028734n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33490 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	7	0	4099593	The attack , medical personnel and volunteer `` patients '' were told , occurred at a mythical April Fool's Day parade in Dublin , said Laurice Bentley , risk communication specialist for the South Central Health District .	11685	personnel.n	323	Employing	MANUAL	6535288	21	29	RLG	personnel
+LINKED:[4	4	21	29	bn:00030616n	http://dbpedia.org/resource/Employment	http://babelnet.org/rdf/s00030616n	0.9411765	0.16666667	0.029795159	BABELFY]
+RANK:=== COUNTER  Counter 33494 ===
+	Being_employed: -0.00591715976331361
+	Employing: -0.015625
+
+SELECTED:[Employing]
+MATCH!
+SILVER:135	23605	2	7	0	4099593	The attack , medical personnel and volunteer `` patients '' were told , occurred at a mythical April Fool's Day parade in Dublin , said Laurice Bentley , risk communication specialist for the South Central Health District .	9177	tell.v	750	Telling	MANUAL	6535289	65	68	RLG	told
+LINKED:[10	10	65	68	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.82758623	0.16666667	0.044692736	BABELFY]
+RANK:=== COUNTER  Counter 33496 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	7	0	4099593	The attack , medical personnel and volunteer `` patients '' were told , occurred at a mythical April Fool's Day parade in Dublin , said Laurice Bentley , risk communication specialist for the South Central Health District .	4887	occur.v	187	Event	MANUAL	6535290	72	79	RLG	occurred
+LINKED:[12	12	72	79	bn:00085337v		http://babelnet.org/rdf/s00085337v	1.0	0.16666667	0.037243947	BABELFY]
+RANK:=== COUNTER  Counter 33498 ===
+	Event: -0.0022675736961451243
+	Coincidence: -0.02040816326530612
+	Take_place_of: -0.04000000000000001
+	Eventive_affecting: -0.25
+
+SELECTED:[Event]
+MATCH!
+SILVER:135	23605	2	7	0	4099593	The attack , medical personnel and volunteer `` patients '' were told , occurred at a mythical April Fool's Day parade in Dublin , said Laurice Bentley , risk communication specialist for the South Central Health District .	5147	April	261	Commemorative	MANUAL	6535291	108	110	EGp	Day
+LINKED:[19	19	108	110	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33502 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+	Timespan: -0.04000000000000001
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	7	0	4099593	The attack , medical personnel and volunteer `` patients '' were told , occurred at a mythical April Fool's Day parade in Dublin , said Laurice Bentley , risk communication specialist for the South Central Health District .	5147	April	261	Commemorative	MANUAL	6535291	101	104	PKe	Fool
+LINKED:[17	17	101	104	bn:00035672n		http://babelnet.org/rdf/s00035672n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33504 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	7	0	4099593	The attack , medical personnel and volunteer `` patients '' were told , occurred at a mythical April Fool's Day parade in Dublin , said Laurice Bentley , risk communication specialist for the South Central Health District .	751	say.v	43	Statement	MANUAL	6535292	131	134	RLG	said
+LINKED:[24	24	131	134	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33506 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:135	23605	2	7	0	4099593	The attack , medical personnel and volunteer `` patients '' were told , occurred at a mythical April Fool's Day parade in Dublin , said Laurice Bentley , risk communication specialist for the South Central Health District .	13210	specialist.n	136	Expertise	MANUAL	6535293	173	182	RLG	specialist
+LINKED:[30	30	173	182	bn:00054125n	http://dbpedia.org/resource/Specialist_degree	http://babelnet.org/rdf/s00054125n	0.9	0.125	0.016759777	BABELFY]
+RANK:=== COUNTER  Counter 33508 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	7	0	4099594	The attackers were environmental terrorists upset about a new industry coming to town .	13355	attacker.n	424	Attack	MANUAL	6548142	4	12	KmG	attackers
+LINKED:[1	1	4	12	bn:03264268n	http://dbpedia.org/resource/Attacker	http://babelnet.org/rdf/s03264268n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33516 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	7	0	4099594	The attackers were environmental terrorists upset about a new industry coming to town .	12563	new.a	972	Age	MANUAL	6548143	58	60	KmG	new
+LINKED:[8	8	58	60	bn:00107267a		http://babelnet.org/rdf/s00107267a	1.0	0.11111111	0.02631579	BABELFY]
+RANK:=== COUNTER  Counter 33518 ===
+	Age: -0.02040816326530612
+	Familiarity: -0.04000000000000001
+
+SELECTED:[Age]
+MATCH!
+SILVER:135	23605	3	7	0	4099594	The attackers were environmental terrorists upset about a new industry coming to town .	941	come.v	54	Arriving	MANUAL	6548144	71	76	KmG	coming
+LINKED:[10	10	71	76	bn:00085320v		http://babelnet.org/rdf/s00085320v	1.0	0.11111111	0.02631579	BABELFY]
+RANK:=== COUNTER  Counter 33520 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	4	7	0	4099595	The essence of the drill was to test how quickly a mass amount of medicine and treatment could be delivered to the public .	2200	test.v	107	Examination	MANUAL	6535296	32	35	RLG	test
+LINKED:[7	7	32	35	bn:00087731v		http://babelnet.org/rdf/s00087731v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33522 ===
+	Examination: -0.0625
+	Operational_testing: -0.1111111111111111
+	Trying_out: -0.25
+
+SELECTED:[Examination]
+MATCH!
+SILVER:135	23605	4	7	0	4099595	The essence of the drill was to test how quickly a mass amount of medicine and treatment could be delivered to the public .	11664	deliver.v	1344	Delivery	MANUAL	6535297	98	106	RLG	delivered
+LINKED:[19	19	98	106	bn:00086530v		http://babelnet.org/rdf/s00086530v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33524 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	4	7	0	4099595	The essence of the drill was to test how quickly a mass amount of medicine and treatment could be delivered to the public .	13341	drill.n	962	Practice	MANUAL	6536598	19	23	KmG	drill
+LINKED:[4	4	19	23	bn:00028734n	http://dbpedia.org/resource/Drill	http://babelnet.org/rdf/s00028734n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33526 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	5	7	0	4099596	' I think , overall , things went very well , ' said Lawton Davis , head of the South Central Health District .	169	think.v	19	Awareness	MANUAL	6535298	4	8	RLG	think
+LINKED:[1	1	4	8	bn:00083370v		http://babelnet.org/rdf/s00083370v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33528 ===
+	Awareness: -0.002066115702479339
+	Categorization: -0.0025000000000000005
+	Opinion: -0.010000000000000002
+	Regard: -0.04000000000000001
+
+SELECTED:[Awareness]
+MATCH!
+SILVER:135	23605	5	7	0	4099596	' I think , overall , things went very well , ' said Lawton Davis , head of the South Central Health District .	751	say.v	43	Statement	MANUAL	6535299	48	51	RLG	said
+LINKED:[10	10	48	51	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33530 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:135	23605	6	7	0	4099597	' There was excellent participation and cooperation .	6128	excellent.a	354	Desirability	MANUAL	6535302	12	20	RLG	excellent
+LINKED:[2	2	12	20	bn:00102496a		http://babelnet.org/rdf/s00102496a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33534 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	7	7	0	4099598	' Though about 350 people participated in the drill , about 500 patients were actually processed because many participants went through multiple times , with varying symptoms each time .	13341	drill.n	962	Practice	MANUAL	6536599	46	50	KmG	drill
+LINKED:[7	7	46	50	bn:00365928n	http://dbpedia.org/resource/Drill_(UK_band)	http://babelnet.org/rdf/s00365928n	0.8	0.18181819	0.008988764	BABELFY]
+RANK:=== COUNTER  Counter 33548 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	8	7	0	4099599	Jennifer McLeod , a registered nurse and instructor at HGTC , acted as a patient in the drill .	13341	drill.n	962	Practice	MANUAL	6536600	88	92	KmG	drill
+LINKED:[17	17	88	92	bn:00028734n	http://dbpedia.org/resource/Drill	http://babelnet.org/rdf/s00028734n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33556 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	9	7	0	4099600	Having worked as a nurse , she decided to throw the personnel a few curves .	7431	decide.v	363	Deciding	MANUAL	6535312	31	37	RLG	decided
+LINKED:[7	7	31	37	bn:00086372v		http://babelnet.org/rdf/s00086372v	1.0	0.25	0.028571429	BABELFY]
+RANK:=== COUNTER  Counter 33560 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	9	7	0	4099600	Having worked as a nurse , she decided to throw the personnel a few curves .	11685	personnel.n	323	Employing	MANUAL	6535313	52	60	RLG	personnel
+LINKED:[11	11	52	60	bn:00030616n	http://dbpedia.org/resource/Employment	http://babelnet.org/rdf/s00030616n	1.0	0.75	0.34285715	BABELFY]
+RANK:=== COUNTER  Counter 33562 ===
+	Being_employed: -0.00591715976331361
+	Employing: -0.015625
+
+SELECTED:[Employing]
+MATCH!
+SILVER:135	23605	9	7	0	4099600	Having worked as a nurse , she decided to throw the personnel a few curves .	13342	nurse.n	255	Medical_professionals	MANUAL	6536594	19	23	KmG	nurse
+LINKED:[4	4	19	23	bn:00056797n	http://dbpedia.org/resource/Nanny	http://babelnet.org/rdf/s00056797n	1.0	0.25	0.057142857	BABELFY]
+RANK:=== COUNTER  Counter 33564 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	10	7	0	4099601	She told them she was 12 weeks pregnant , had HIV and was hemorrhaging .	9177	tell.v	750	Telling	MANUAL	6535314	4	7	RLG	told
+LINKED:[1	1	4	7	bn:00093287v		http://babelnet.org/rdf/s00093287v	1.0	0.5	0.25	BABELFY]
+RANK:=== COUNTER  Counter 33566 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	10	7	0	4099601	She told them she was 12 weeks pregnant , had HIV and was hemorrhaging .	3876	week.n	224	Measure_duration	MANUAL	6535315	25	29	RLG	weeks
+LINKED:[6	6	25	29	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33568 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:135	23605	11	7	0	4099602	She thought the workers handled it all well. '' ( Macon.com , 20Apr06 , Wayne Crenshaw ) ( Link )	11959	think.v	1412	Opinion	MANUAL	6535317	4	10	RLG	thought
+LINKED:[1	1	4	10	bn:00083370v		http://babelnet.org/rdf/s00083370v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33570 ===
+	Awareness: -0.002066115702479339
+	Categorization: -0.0025000000000000005
+	Opinion: -0.010000000000000002
+	Regard: -0.04000000000000001
+
+SELECTED:[Opinion]
+MATCH!
+SILVER:135	23605	1	9	0	4099604	Reduction in beds puts city [ Sydney ] at risk : hospital official	1991	reduction.n	96	Cause_change_of_position_on_a_scale	MANUAL	6535278	0	8	RLG	Reduction
+LINKED:[0	0	0	8	bn:00025780n		http://babelnet.org/rdf/s00025780n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33574 ===
+	Cause_change_of_position_on_a_scale: -0.0027700831024930744
+	Cause_expansion: -0.0030864197530864196
+
+SELECTED:[Cause_change_of_position_on_a_scale]
+MATCH!
+SILVER:135	23605	1	9	0	4099604	Reduction in beds puts city [ Sydney ] at risk : hospital official	3764	city.n	195	Political_locales	MANUAL	6535279	23	26	RLG	city
+LINKED:[4	4	23	26	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.7105263	1.0	0.3253012	BABELFY]
+RANK:=== COUNTER  Counter 33576 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	9	0	4099604	Reduction in beds puts city [ Sydney ] at risk : hospital official	6667	risk.n	378	Run_risk	MANUAL	6535280	42	45	RLG	risk
+LINKED:[9	9	42	45	bn:00030747n	http://dbpedia.org/resource/Hazard	http://babelnet.org/rdf/s00030747n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33578 ===
+	Being_at_risk: -0.012345679012345678
+	Risky_situation: -0.02040816326530612
+	Run_risk: -0.1111111111111111
+	Endangering: -0.25
+
+SELECTED:[Run_risk]
+MATCH!
+SILVER:135	23605	1	9	0	4099604	Reduction in beds puts city [ Sydney ] at risk : hospital official	10204	city.n	196	Locale_by_use	MANUAL	6548152	23	26	KmG	city
+LINKED:[4	4	23	26	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.7105263	1.0	0.3253012	BABELFY]
+RANK:=== COUNTER  Counter 33582 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	10	0	4099605	`` Sydney Hospital 's capacity has been run down to the point where half - a - million people living and working in the city have been left far more exposed to the consequences of a terrorist attack or a bird flu outbreak , a hospital administrator has warned .	2220	live.v	110	Residence	MANUAL	6535259	94	99	RLG	living
+LINKED:[19	19	94	99	bn:00087441v		http://babelnet.org/rdf/s00087441v	0.9	0.125	0.012667136	BABELFY]
+RANK:=== COUNTER  Counter 33590 ===
+	Residence: -0.00591715976331361
+	Colonization: -0.027777777777777776
+
+SELECTED:[Residence]
+MATCH!
+SILVER:135	23605	1	10	0	4099605	`` Sydney Hospital 's capacity has been run down to the point where half - a - million people living and working in the city have been left far more exposed to the consequences of a terrorist attack or a bird flu outbreak , a hospital administrator has warned .	3764	city.n	195	Political_locales	MANUAL	6535261	120	123	RLG	city
+LINKED:[24	24	120	123	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.83383685	0.5	0.19422941	BABELFY]
+RANK:=== COUNTER  Counter 33594 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	10	0	4099605	`` Sydney Hospital 's capacity has been run down to the point where half - a - million people living and working in the city have been left far more exposed to the consequences of a terrorist attack or a bird flu outbreak , a hospital administrator has warned .	13344	terrorist.n	1750	Terrorism	MANUAL	6536525	182	190	KmG	terrorist
+LINKED:[36	36	182	190	bn:13605240a		http://babelnet.org/rdf/s13605240a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33602 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	10	0	4099605	`` Sydney Hospital 's capacity has been run down to the point where half - a - million people living and working in the city have been left far more exposed to the consequences of a terrorist attack or a bird flu outbreak , a hospital administrator has warned .	5882	half.n	140	Part_whole	MANUAL	6548156	68	71	KmG	half
+LINKED:[13	13	68	71	bn:00042601n	http://dbpedia.org/resource/One_half	http://babelnet.org/rdf/s00042601n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33604 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	10	0	4099606	The chairman of the Department of Medicine at Sydney Hospital , John Graham , told a biosecurity workshop last week that he had appealed to the Federal Government to remove the hospital from state control and declare it a ' national security hospital ' .	9177	tell.v	750	Telling	MANUAL	6535266	78	81	RLG	told
+LINKED:[14	14	78	81	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33608 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	10	0	4099606	The chairman of the Department of Medicine at Sydney Hospital , John Graham , told a biosecurity workshop last week that he had appealed to the Federal Government to remove the hospital from state control and declare it a ' national security hospital ' .	3947	week.n	229	Calendric_unit	MANUAL	6535267	111	114	RLG	week
+LINKED:[19	19	111	114	bn:00080813n	http://dbpedia.org/resource/Workweek_and_weekend	http://babelnet.org/rdf/s00080813n	1.0	0.04	3.1953986E-4	BABELFY]
+RANK:=== COUNTER  Counter 33610 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	10	0	4099606	The chairman of the Department of Medicine at Sydney Hospital , John Graham , told a biosecurity workshop last week that he had appealed to the Federal Government to remove the hospital from state control and declare it a ' national security hospital ' .	10243	national.a	195	Political_locales	MANUAL	6535272	224	231	RLG	national
+LINKED:[39	39	224	231	bn:00107136a		http://babelnet.org/rdf/s00107136a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33616 ===
+	Political_locales: -9.765625E-4
+	Origin: -0.0625
+
+SELECTED:[Political_locales]
+MATCH!
+SILVER:135	23605	2	10	0	4099606	The chairman of the Department of Medicine at Sydney Hospital , John Graham , told a biosecurity workshop last week that he had appealed to the Federal Government to remove the hospital from state control and declare it a ' national security hospital ' .	10234	federal.a	195	Political_locales	MANUAL	6548162	144	150	KmG	Federal
+LINKED:[26	26	144	150	bn:00033904n		http://babelnet.org/rdf/s00033904n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33626 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	10	0	4099607	The biosecurity workshop , which looked at threats from infectious diseases and bioterrorism , was sponsored by the University of Sydney . '' ( Sydney Morning Herald , 22Apr06 , Deborah Snow ) ( Link )	447	look.v	31	Scrutiny	MANUAL	6535275	33	38	RLG	looked
+LINKED:[5	5	33	38	bn:00090448v		http://babelnet.org/rdf/s00090448v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33636 ===
+	Scrutiny: -6.925207756232686E-4
+	Perception_active: -0.0011890606420927466
+	Seeking: -0.0044444444444444444
+
+SELECTED:[Scrutiny]
+MATCH!
+SILVER:135	23605	1	12	0	4099609	[ Mississippi ] National Guard Prepares For Hurricane Season [ and Chemical Terrorism ]	10243	national.a	195	Political_locales	MANUAL	6548166	16	23	KmG	National
+LINKED:[3	3	16	23	bn:00056915n		http://babelnet.org/rdf/s00056915n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33642 ===
+	Origin: -0.0625
+	People_by_jurisdiction: -0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	12	0	4099609	[ Mississippi ] National Guard Prepares For Hurricane Season [ and Chemical Terrorism ]	5507	prepare.v	170	Activity_prepare	MANUAL	6548167	31	38	KmG	Prepares
+LINKED:[5	5	31	38	bn:02681203n	http://dbpedia.org/resource/Prepared_statement	http://babelnet.org/rdf/s02681203n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33644 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	13	0	4099610	`` A deadly - chemical exercise sent nearly 100 national guardsmen and women into action Wednesday morning .	9097	deadly.a	590	Killing	MANUAL	6535233	5	10	RLG	deadly
+LINKED:[2	2	5	10	bn:00100973a		http://babelnet.org/rdf/s00100973a	1.0	0.16666667	0.02	BABELFY]
+RANK:=== COUNTER  Counter 33650 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	13	0	4099610	`` A deadly - chemical exercise sent nearly 100 national guardsmen and women into action Wednesday morning .	10916	send.v	5	Causation	MANUAL	6548170	32	35	KmG	sent
+LINKED:[6	6	32	35	bn:00093485v		http://babelnet.org/rdf/s00093485v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33660 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	13	0	4099610	`` A deadly - chemical exercise sent nearly 100 national guardsmen and women into action Wednesday morning .	10243	national.a	195	Political_locales	MANUAL	6548171	48	55	KmG	national
+LINKED:[9	9	48	55	bn:00107137a		http://babelnet.org/rdf/s00107137a	1.0	0.16666667	0.02	BABELFY]
+RANK:=== COUNTER  Counter 33662 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	13	0	4099611	It was an anti - terror test and a drill for the upcoming Hurricane season .	2185	test.n	107	Examination	MANUAL	6535241	24	27	RLG	test
+LINKED:[6	6	24	27	bn:00076647n		http://babelnet.org/rdf/s00076647n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33664 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	13	0	4099611	It was an anti - terror test and a drill for the upcoming Hurricane season .	13341	drill.n	962	Practice	MANUAL	6536601	35	39	KmG	drill
+LINKED:[9	9	35	39	bn:00028734n	http://dbpedia.org/resource/Drill	http://babelnet.org/rdf/s00028734n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33666 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	13	0	4099611	It was an anti - terror test and a drill for the upcoming Hurricane season .	11463	test.n	1301	Operational_testing	MANUAL	6548173	24	27	KmG	test
+LINKED:[6	6	24	27	bn:00076647n		http://babelnet.org/rdf/s00076647n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33668 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	13	0	4099612	The test is what to do when a deadly sarin gas has been released in a meeting room infecting dozens .	9097	deadly.a	590	Killing	MANUAL	6535244	30	35	RLG	deadly
+LINKED:[8	8	30	35	bn:00100969a		http://babelnet.org/rdf/s00100969a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33670 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	13	0	4099612	The test is what to do when a deadly sarin gas has been released in a meeting room infecting dozens .	11601	gas.n	1321	Substance	MANUAL	6535245	43	45	RLG	gas
+LINKED:[10	10	43	45	bn:00037382n	http://dbpedia.org/resource/Gas	http://babelnet.org/rdf/s00037382n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33672 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	13	0	4099612	The test is what to do when a deadly sarin gas has been released in a meeting room infecting dozens .	10227	meeting.n	125	Social_event	MANUAL	6535246	70	76	RLG	meeting
+LINKED:[16	16	70	76	bn:00082846v		http://babelnet.org/rdf/s00082846v	1.0	0.16666667	0.024390243	BABELFY]
+RANK:=== COUNTER  Counter 33674 ===
+	Come_together: -0.02040816326530612
+	Gathering_up: -0.02040816326530612
+	Meet_specifications: -0.0625
+	Assemble: -0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	13	0	4099612	The test is what to do when a deadly sarin gas has been released in a meeting room infecting dozens .	11463	test.n	1301	Operational_testing	MANUAL	6548172	4	7	KmG	test
+LINKED:[1	1	4	7	bn:00076647n		http://babelnet.org/rdf/s00076647n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33680 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	4	13	0	4099613	Soldiers wore chemical suits , scanned the area and eventually neutralized the threat. '' ( TheJacksonChannel.com , 20Apr06 , Greg Flynn ) ( Link )	450	scan.v	31	Scrutiny	MANUAL	6535253	31	37	RLG	scanned
+LINKED:[5	5	31	37	bn:00093318v		http://babelnet.org/rdf/s00093318v	1.0	0.1	0.035714287	BABELFY]
+RANK:=== COUNTER  Counter 33688 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	15	0	4099615	Toxic gas mishap at APG [ Aberdeen Proving Ground ]	10751	toxic.a	1163	Toxic_substance	MANUAL	6535230	0	4	RLG	Toxic
+LINKED:[0	0	0	4	bn:00077790n	http://dbpedia.org/resource/Toxicity	http://babelnet.org/rdf/s00077790n	1.0	0.375	0.19354838	BABELFY]
+RANK:=== COUNTER  Counter 33696 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	15	0	4099615	Toxic gas mishap at APG [ Aberdeen Proving Ground ]	11601	gas.n	1321	Substance	MANUAL	6535231	6	8	RLG	gas
+LINKED:[1	1	6	8	bn:00037382n	http://dbpedia.org/resource/Gas	http://babelnet.org/rdf/s00037382n	0.875	0.5	0.30107528	BABELFY]
+RANK:=== COUNTER  Counter 33698 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	16	0	4099616	`` Four Aberdeen Proving Ground employees were taken to a local hospital yesterday after a report of a chemical leak , the third incident in about a week during which workers were at risk of exposure to lethal substances at the Army base in Harford County .	8396	employee.n	323	Employing	MANUAL	6535203	32	40	RLG	employees
+LINKED:[5	5	32	40	bn:00030616n	http://dbpedia.org/resource/Employment	http://babelnet.org/rdf/s00030616n	0.71428573	0.08695652	0.013003902	BABELFY]
+RANK:=== COUNTER  Counter 33702 ===
+	Being_employed: -0.00591715976331361
+	Employing: -0.015625
+
+SELECTED:[Employing]
+MATCH!
+SILVER:135	23605	1	16	0	4099616	`` Four Aberdeen Proving Ground employees were taken to a local hospital yesterday after a report of a chemical leak , the third incident in about a week during which workers were at risk of exposure to lethal substances at the Army base in Harford County .	6667	risk.n	378	Run_risk	MANUAL	6535211	183	186	RLG	risk
+LINKED:[33	33	183	186	bn:00030747n	http://dbpedia.org/resource/Hazard	http://babelnet.org/rdf/s00030747n	0.90909094	0.2173913	0.039011702	BABELFY]
+RANK:=== COUNTER  Counter 33712 ===
+	Being_at_risk: -0.012345679012345678
+	Risky_situation: -0.02040816326530612
+	Run_risk: -0.1111111111111111
+	Endangering: -0.25
+
+SELECTED:[Run_risk]
+MATCH!
+SILVER:135	23605	1	16	0	4099616	`` Four Aberdeen Proving Ground employees were taken to a local hospital yesterday after a report of a chemical leak , the third incident in about a week during which workers were at risk of exposure to lethal substances at the Army base in Harford County .	8907	lethal.a	590	Killing	MANUAL	6535212	203	208	RLG	lethal
+LINKED:[37	37	203	208	bn:00100970a		http://babelnet.org/rdf/s00100970a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33714 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	16	0	4099616	`` Four Aberdeen Proving Ground employees were taken to a local hospital yesterday after a report of a chemical leak , the third incident in about a week during which workers were at risk of exposure to lethal substances at the Army base in Harford County .	12286	army.n	1514	Military	MANUAL	6535213	228	231	RLG	Army
+LINKED:[41	41	228	231	bn:00005803n	http://dbpedia.org/resource/Army	http://babelnet.org/rdf/s00005803n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33716 ===
+	Aggregate: -4.0E-4
+	Military: -0.02040816326530612
+
+SELECTED:[Military]
+MATCH!
+SILVER:135	23605	1	16	0	4099616	`` Four Aberdeen Proving Ground employees were taken to a local hospital yesterday after a report of a chemical leak , the third incident in about a week during which workers were at risk of exposure to lethal substances at the Army base in Harford County .	3947	week.n	229	Calendric_unit	MANUAL	6548178	149	152	KmG	week
+LINKED:[27	27	149	152	bn:00043484n	http://dbpedia.org/resource/Week	http://babelnet.org/rdf/s00043484n	1.0	0.04347826	0.0026007802	BABELFY]
+RANK:=== COUNTER  Counter 33724 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:135	23605	1	16	0	4099616	`` Four Aberdeen Proving Ground employees were taken to a local hospital yesterday after a report of a chemical leak , the third incident in about a week during which workers were at risk of exposure to lethal substances at the Army base in Harford County .	13351	worker.n	323	Employing	MANUAL	6548180	167	173	KmG	workers
+LINKED:[30	30	167	173	bn:00047795n	http://dbpedia.org/resource/Laborer	http://babelnet.org/rdf/s00047795n	0.84	0.13043478	0.027308192	BABELFY]
+RANK:=== COUNTER  Counter 33726 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	16	0	4099616	`` Four Aberdeen Proving Ground employees were taken to a local hospital yesterday after a report of a chemical leak , the third incident in about a week during which workers were at risk of exposure to lethal substances at the Army base in Harford County .	3687	county.n	195	Political_locales	MANUAL	6548183	249	254	KmG	County
+LINKED:[45	45	249	254	bn:00023251n	http://dbpedia.org/resource/Counties_of_England	http://babelnet.org/rdf/s00023251n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33728 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	16	0	4099617	None of the workers was injured in the incident , the second at the Edgewood Chemical Biological Center , a 1.5 million - square - foot research and engineering facility within APG for chemical and biological defense .	2330	injure.v	112	Cause_harm	MANUAL	6535215	24	30	RLG	injured
+LINKED:[5	5	24	30	bn:00089751v		http://babelnet.org/rdf/s00089751v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33730 ===
+	Cause_harm: -3.1887755102040814E-4
+	Experience_bodily_harm: -0.0030864197530864196
+
+SELECTED:[Cause_harm]
+MATCH!
+SILVER:135	23605	2	16	0	4099617	None of the workers was injured in the incident , the second at the Edgewood Chemical Biological Center , a 1.5 million - square - foot research and engineering facility within APG for chemical and biological defense .	11249	second.a	1147	Ordinal_numbers	MANUAL	6535789	54	59	RLG	second
+LINKED:[11	11	54	59	bn:00095974a		http://babelnet.org/rdf/s00095974a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33736 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	16	0	4099617	None of the workers was injured in the incident , the second at the Edgewood Chemical Biological Center , a 1.5 million - square - foot research and engineering facility within APG for chemical and biological defense .	13350	incident.n	115	Catastrophe	MANUAL	6536639	39	46	KmG	incident
+LINKED:[8	8	39	46	bn:02612327n	http://dbpedia.org/resource/Graph_(mathematics)	http://babelnet.org/rdf/s02612327n	0.9230769	0.2	0.03084833	BABELFY]
+RANK:=== COUNTER  Counter 33738 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	16	0	4099617	None of the workers was injured in the incident , the second at the Edgewood Chemical Biological Center , a 1.5 million - square - foot research and engineering facility within APG for chemical and biological defense .	13357	biological.a	426	Weapon	MANUAL	6536723	198	207	RLG	biological
+LINKED:[35	35	198	207	bn:00098417a		http://babelnet.org/rdf/s00098417a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33742 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	16	0	4099617	None of the workers was injured in the incident , the second at the Edgewood Chemical Biological Center , a 1.5 million - square - foot research and engineering facility within APG for chemical and biological defense .	11621	defense.n	1330	Defending	MANUAL	6548188	209	215	KmG	defense
+LINKED:[36	36	209	215	bn:00003403n	http://dbpedia.org/resource/American_football	http://babelnet.org/rdf/s00003403n	0.7894737	0.2	0.038560413	BABELFY]
+RANK:=== COUNTER  Counter 33746 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	16	0	4099618	The center 's director pledged a thorough review of safety procedures .	10661	center.n	196	Locale_by_use	MANUAL	6535220	4	9	RLG	center
+LINKED:[1	1	4	9	bn:15493557n	http://dbpedia.org/resource/Center_(American_and_Canadian_football)	http://babelnet.org/rdf/s15493557n	0.8	0.2	0.22222222	BABELFY]
+RANK:=== COUNTER  Counter 33748 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	16	0	4099618	The center 's director pledged a thorough review of safety procedures .	13560	procedure.n	1790	Means	MANUAL	6548191	59	68	KmG	procedures
+LINKED:[10	10	59	68	bn:00059130n		http://babelnet.org/rdf/s00059130n	1.0	0.2	0.055555556	BABELFY]
+RANK:=== COUNTER  Counter 33754 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	4	16	0	4099619	Yesterday 's incident involved phosgene , a toxic industrial chemical used as a choking agent in World War I and to make plastics and pesticides. '' ( Baltimore Sun , 21Apr06 , Justin Fenton ) ( Link )	4055	yesterday.n	229	Calendric_unit	MANUAL	6535223	0	8	RLG	Yesterday
+LINKED:[0	0	0	8	bn:15331884n	http://dbpedia.org/resource/Yesterday_(time)	http://babelnet.org/rdf/s15331884n	0.75	0.13636364	0.005319149	BABELFY]
+RANK:=== COUNTER  Counter 33756 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	4	16	0	4099619	Yesterday 's incident involved phosgene , a toxic industrial chemical used as a choking agent in World War I and to make plastics and pesticides. '' ( Baltimore Sun , 21Apr06 , Justin Fenton ) ( Link )	10619	use.v	1141	Using	MANUAL	6535227	70	73	RLG	used
+LINKED:[10	10	70	73	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33762 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	4	16	0	4099619	Yesterday 's incident involved phosgene , a toxic industrial chemical used as a choking agent in World War I and to make plastics and pesticides. '' ( Baltimore Sun , 21Apr06 , Justin Fenton ) ( Link )	1939	war.n	93	Hostile_encounter	MANUAL	6548193	103	105	KmG	War
+LINKED:[17	17	103	105	bn:00080439n	http://dbpedia.org/resource/Warfare	http://babelnet.org/rdf/s00080439n	0.971223	0.4090909	0.059840426	BABELFY]
+RANK:=== COUNTER  Counter 33768 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	18	0	4099621	United States Helps Uzbekistan Secure Dangerous Nuclear Materials : Energy agency announces completion of secret uranium transfer back to Russia	11726	material.n	1321	Substance	MANUAL	6535197	56	64	RLG	Materials
+LINKED:[7	7	56	64	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33774 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Substance]
+MATCH!
+SILVER:135	23605	1	18	0	4099621	United States Helps Uzbekistan Secure Dangerous Nuclear Materials : Energy agency announces completion of secret uranium transfer back to Russia	683	announce.v	43	Statement	MANUAL	6535198	82	90	RLG	announces
+LINKED:[11	11	82	90	bn:00082637v		http://babelnet.org/rdf/s00082637v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33776 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	18	0	4099621	United States Helps Uzbekistan Secure Dangerous Nuclear Materials : Energy agency announces completion of secret uranium transfer back to Russia	12162	completion.n	165	Activity_finish	MANUAL	6535199	92	101	RLG	completion
+LINKED:[12	12	92	101	bn:00021368n	http://dbpedia.org/resource/Complete_metric_space	http://babelnet.org/rdf/s00021368n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33778 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	18	0	4099621	United States Helps Uzbekistan Secure Dangerous Nuclear Materials : Energy agency announces completion of secret uranium transfer back to Russia	10644	secret.a	1145	Secrecy_status	MANUAL	6535200	106	111	RLG	secret
+LINKED:[14	14	106	111	bn:00110253a		http://babelnet.org/rdf/s00110253a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33780 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	18	0	4099621	United States Helps Uzbekistan Secure Dangerous Nuclear Materials : Energy agency announces completion of secret uranium transfer back to Russia	10813	transfer.n	178	Transfer	MANUAL	6535202	121	128	RLG	transfer
+LINKED:[16	16	121	128	bn:00022381n		http://babelnet.org/rdf/s00022381n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33784 ===
+	Bringing: -0.001736111111111111
+	Transfer: -0.25
+
+SELECTED:[Transfer]
+MATCH!
+SILVER:135	23605	1	18	0	4099621	United States Helps Uzbekistan Secure Dangerous Nuclear Materials : Energy agency announces completion of secret uranium transfer back to Russia	12170	nuclear.a	426	Weapon	MANUAL	6548196	48	54	KmG	Nuclear
+LINKED:[6	6	48	54	bn:02412572n	http://dbpedia.org/resource/Nuclear_(Ryan_Adams_song)	http://babelnet.org/rdf/s02412572n	1.0	0.125	5.7167356E-4	BABELFY]
+RANK:=== COUNTER  Counter 33786 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	19	0	4099622	`` Four secret transfers of 63 kilograms of highly enriched uranium from a research laboratory in Uzbekistan to a secure Russian reprocessing facility were completed April 19 by the U.S. Department of Energy 's National Nuclear Security Administration ( NNSA ) .	10644	secret.a	1145	Secrecy_status	MANUAL	6535165	8	13	RLG	secret
+LINKED:[2	2	8	13	bn:00110253a		http://babelnet.org/rdf/s00110253a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33788 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	19	0	4099622	`` Four secret transfers of 63 kilograms of highly enriched uranium from a research laboratory in Uzbekistan to a secure Russian reprocessing facility were completed April 19 by the U.S. Department of Energy 's National Nuclear Security Administration ( NNSA ) .	10813	transfer.n	178	Transfer	MANUAL	6535167	15	23	RLG	transfers
+LINKED:[3	3	15	23	bn:00022381n		http://babelnet.org/rdf/s00022381n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33790 ===
+	Bringing: -0.001736111111111111
+	Transfer: -0.25
+
+SELECTED:[Transfer]
+MATCH!
+SILVER:135	23605	1	19	0	4099622	`` Four secret transfers of 63 kilograms of highly enriched uranium from a research laboratory in Uzbekistan to a secure Russian reprocessing facility were completed April 19 by the U.S. Department of Energy 's National Nuclear Security Administration ( NNSA ) .	12707	russian.a	1103	Origin	MANUAL	6535792	121	127	RLG	Russian
+LINKED:[20	20	121	127	bn:00068624n		http://babelnet.org/rdf/s00068624n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33806 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	19	0	4099622	`` Four secret transfers of 63 kilograms of highly enriched uranium from a research laboratory in Uzbekistan to a secure Russian reprocessing facility were completed April 19 by the U.S. Department of Energy 's National Nuclear Security Administration ( NNSA ) .	10243	national.a	195	Political_locales	MANUAL	6548199	211	218	KmG	National
+LINKED:[34	34	211	218	bn:00056915n		http://babelnet.org/rdf/s00056915n	1.0	0.06896552	9.923097E-4	BABELFY]
+RANK:=== COUNTER  Counter 33810 ===
+	Origin: -0.0625
+	People_by_jurisdiction: -0.0625
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	19	0	4099622	`` Four secret transfers of 63 kilograms of highly enriched uranium from a research laboratory in Uzbekistan to a secure Russian reprocessing facility were completed April 19 by the U.S. Department of Energy 's National Nuclear Security Administration ( NNSA ) .	12170	nuclear.a	426	Weapon	MANUAL	6548200	220	226	KmG	Nuclear
+LINKED:[35	35	220	226	bn:02412572n	http://dbpedia.org/resource/Nuclear_(Ryan_Adams_song)	http://babelnet.org/rdf/s02412572n	1.0	0.03448276	2.480774E-4	BABELFY]
+RANK:=== COUNTER  Counter 33812 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	19	0	4099623	' These shipments of highly enriched uranium spent fuel are part of NNSA 's efforts to make sure this type of material does n't fall into the wrong hands , ' NNSA Administrator Linton F. Brooks said in an April 20 press release .	12164	shipment	243	Sending	MANUAL	6535176	8	16	RLG	shipments
+LINKED:[1	1	8	16	bn:00016047n	http://dbpedia.org/resource/Cargo	http://babelnet.org/rdf/s00016047n	1.0	0.04761905	0.0033670033	BABELFY]
+RANK:=== COUNTER  Counter 33816 ===
+	Store: -0.04000000000000001
+	Sent_items: -0.25
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	19	0	4099623	' These shipments of highly enriched uranium spent fuel are part of NNSA 's efforts to make sure this type of material does n't fall into the wrong hands , ' NNSA Administrator Linton F. Brooks said in an April 20 press release .	10187	effort.n	116	Attempt	MANUAL	6535181	76	82	RLG	efforts
+LINKED:[13	13	76	82	bn:00029899n	http://dbpedia.org/resource/Exertion	http://babelnet.org/rdf/s00029899n	0.8181818	0.14285715	0.030303031	BABELFY]
+RANK:=== COUNTER  Counter 33822 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	19	0	4099623	' These shipments of highly enriched uranium spent fuel are part of NNSA 's efforts to make sure this type of material does n't fall into the wrong hands , ' NNSA Administrator Linton F. Brooks said in an April 20 press release .	11726	material.n	1321	Substance	MANUAL	6535183	110	117	RLG	material
+LINKED:[20	20	110	117	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33826 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Substance]
+MATCH!
+SILVER:135	23605	2	19	0	4099623	' These shipments of highly enriched uranium spent fuel are part of NNSA 's efforts to make sure this type of material does n't fall into the wrong hands , ' NNSA Administrator Linton F. Brooks said in an April 20 press release .	751	say.v	43	Statement	MANUAL	6535186	194	197	RLG	said
+LINKED:[35	35	194	197	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33828 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:135	23605	3	19	0	4099624	The transfer - part of the Global Threat Reduction Initiative ( GTRI ) , a nonproliferation effort that secures high-risk nuclear and radiological materials and equipment around the world - resulted from a cooperative effort by the United States , Uzbekistan , Kazakhstan and Russia , as well as coordination through the International Atomic Energy Agency ( IAEA ) . '' ( News Blaze , 21Apr06 ) ( Link )	10813	transfer.n	178	Transfer	MANUAL	6535187	4	11	RLG	transfer
+LINKED:[1	1	4	11	bn:16033126n	http://dbpedia.org/resource/Transfer_(public_transit)	http://babelnet.org/rdf/s16033126n	1.0	0.121212125	0.001013993	BABELFY]
+RANK:=== COUNTER  Counter 33830 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	19	0	4099624	The transfer - part of the Global Threat Reduction Initiative ( GTRI ) , a nonproliferation effort that secures high-risk nuclear and radiological materials and equipment around the world - resulted from a cooperative effort by the United States , Uzbekistan , Kazakhstan and Russia , as well as coordination through the International Atomic Energy Agency ( IAEA ) . '' ( News Blaze , 21Apr06 ) ( Link )	1991	reduction.n	96	Cause_change_of_position_on_a_scale	MANUAL	6535190	41	49	RLG	Reduction
+LINKED:[8	8	41	49	bn:00025780n		http://babelnet.org/rdf/s00025780n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33832 ===
+	Cause_change_of_position_on_a_scale: -0.0027700831024930744
+	Cause_expansion: -0.0030864197530864196
+
+SELECTED:[Cause_change_of_position_on_a_scale]
+MATCH!
+SILVER:135	23605	3	19	0	4099624	The transfer - part of the Global Threat Reduction Initiative ( GTRI ) , a nonproliferation effort that secures high-risk nuclear and radiological materials and equipment around the world - resulted from a cooperative effort by the United States , Uzbekistan , Kazakhstan and Russia , as well as coordination through the International Atomic Energy Agency ( IAEA ) . '' ( News Blaze , 21Apr06 ) ( Link )	11726	material.n	1321	Substance	MANUAL	6535191	147	155	RLG	materials
+LINKED:[23	23	147	155	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33834 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Substance]
+MATCH!
+SILVER:135	23605	3	19	0	4099624	The transfer - part of the Global Threat Reduction Initiative ( GTRI ) , a nonproliferation effort that secures high-risk nuclear and radiological materials and equipment around the world - resulted from a cooperative effort by the United States , Uzbekistan , Kazakhstan and Russia , as well as coordination through the International Atomic Energy Agency ( IAEA ) . '' ( News Blaze , 21Apr06 ) ( Link )	2206	equipment.n	106	Gizmo	MANUAL	6535192	161	169	RLG	equipment
+LINKED:[25	25	161	169	bn:00031322n		http://babelnet.org/rdf/s00031322n	1.0	0.09090909	4.562969E-4	BABELFY]
+RANK:=== COUNTER  Counter 33836 ===
+	Gizmo: -0.0044444444444444444
+	Supply: -0.012345679012345678
+
+SELECTED:[Gizmo]
+MATCH!
+SILVER:135	23605	3	19	0	4099624	The transfer - part of the Global Threat Reduction Initiative ( GTRI ) , a nonproliferation effort that secures high-risk nuclear and radiological materials and equipment around the world - resulted from a cooperative effort by the United States , Uzbekistan , Kazakhstan and Russia , as well as coordination through the International Atomic Energy Agency ( IAEA ) . '' ( News Blaze , 21Apr06 ) ( Link )	10187	effort.n	116	Attempt	MANUAL	6535194	218	223	RLG	effort
+LINKED:[34	34	218	223	bn:00029899n	http://dbpedia.org/resource/Exertion	http://babelnet.org/rdf/s00029899n	0.7619048	0.24242425	0.006489556	BABELFY]
+RANK:=== COUNTER  Counter 33840 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	19	0	4099624	The transfer - part of the Global Threat Reduction Initiative ( GTRI ) , a nonproliferation effort that secures high-risk nuclear and radiological materials and equipment around the world - resulted from a cooperative effort by the United States , Uzbekistan , Kazakhstan and Russia , as well as coordination through the International Atomic Energy Agency ( IAEA ) . '' ( News Blaze , 21Apr06 ) ( Link )	7504	secure.v	179	Getting	MANUAL	6537508	104	110	KmG	secures
+LINKED:[18	18	104	110	bn:00092039v		http://babelnet.org/rdf/s00092039v	1.0	0.121212125	8.111945E-4	BABELFY]
+RANK:=== COUNTER  Counter 33842 ===
+	Protecting: -0.012345679012345678
+	Getting: -0.02040816326530612
+
+SELECTED:[Getting]
+MATCH!
+SILVER:135	23605	3	19	0	4099624	The transfer - part of the Global Threat Reduction Initiative ( GTRI ) , a nonproliferation effort that secures high-risk nuclear and radiological materials and equipment around the world - resulted from a cooperative effort by the United States , Uzbekistan , Kazakhstan and Russia , as well as coordination through the International Atomic Energy Agency ( IAEA ) . '' ( News Blaze , 21Apr06 ) ( Link )	10187	effort.n	116	Attempt	MANUAL	6548210	92	97	KmG	effort
+LINKED:[16	16	92	97	bn:00029899n	http://dbpedia.org/resource/Exertion	http://babelnet.org/rdf/s00029899n	0.7619048	0.24242425	0.006489556	BABELFY]
+RANK:=== COUNTER  Counter 33848 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	19	0	4099624	The transfer - part of the Global Threat Reduction Initiative ( GTRI ) , a nonproliferation effort that secures high-risk nuclear and radiological materials and equipment around the world - resulted from a cooperative effort by the United States , Uzbekistan , Kazakhstan and Russia , as well as coordination through the International Atomic Energy Agency ( IAEA ) . '' ( News Blaze , 21Apr06 ) ( Link )	10238	international.a	195	Political_locales	MANUAL	6548212	321	333	KmG	International
+LINKED:[52	52	321	333	bn:00047146n	http://dbpedia.org/resource/Political_international	http://babelnet.org/rdf/s00047146n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33850 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	22	0	4099628	The 2nd Cavalry Regiment [ at Fort Lewis ] recently received three vehicles that can detect radiation or biological and chemical hazards while keeping the soldiers safe inside .	11936	detect.v	20	Becoming_aware	MANUAL	6535138	85	90	RLG	detect
+LINKED:[15	15	85	90	bn:00086708v		http://babelnet.org/rdf/s00086708v	1.0	0.13333334	0.014669927	BABELFY]
+RANK:=== COUNTER  Counter 33866 ===
+	Perception_active: -0.0011890606420927466
+	Coming_to_believe: -0.0027700831024930744
+	Perception_experience: -0.00591715976331361
+	Becoming_aware: -0.008264462809917356
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:135	23605	2	22	0	4099628	The 2nd Cavalry Regiment [ at Fort Lewis ] recently received three vehicles that can detect radiation or biological and chemical hazards while keeping the soldiers safe inside .	10380	keep.v	1060	Cause_to_continue	MANUAL	6535140	143	149	RLG	keeping
+LINKED:[23	23	143	149	bn:00089384v		http://babelnet.org/rdf/s00089384v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33868 ===
+	Activity_ongoing: -0.02040816326530612
+	Cause_to_continue: -1.0
+
+SELECTED:[Cause_to_continue]
+MATCH!
+SILVER:135	23605	2	22	0	4099628	The 2nd Cavalry Regiment [ at Fort Lewis ] recently received three vehicles that can detect radiation or biological and chemical hazards while keeping the soldiers safe inside .	12444	safe.a	1560	Being_at_risk	MANUAL	6535142	164	167	RLG	safe
+LINKED:[26	26	164	167	bn:00110046a		http://babelnet.org/rdf/s00110046a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33870 ===
+	Being_at_risk: -0.012345679012345678
+	Risky_situation: -0.02040816326530612
+
+SELECTED:[Being_at_risk]
+MATCH!
+SILVER:135	23605	2	22	0	4099628	The 2nd Cavalry Regiment [ at Fort Lewis ] recently received three vehicles that can detect radiation or biological and chemical hazards while keeping the soldiers safe inside .	11249	second.a	1147	Ordinal_numbers	MANUAL	6548218	4	6	KmG	2nd
+LINKED:[1	1	4	6	bn:00095974a		http://babelnet.org/rdf/s00095974a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33872 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	22	0	4099629	Stryker vehicles share the same chassis but there are nine other variants that fulfill different missions .	10294	different.a	1029	Identicality	MANUAL	6535147	87	95	RLG	different
+LINKED:[14	14	87	95	bn:00101347a		http://babelnet.org/rdf/s00101347a	1.0	0.16666667	0.04761905	BABELFY]
+RANK:=== COUNTER  Counter 33878 ===
+	Similarity: -0.0016
+	Identicality: -0.04000000000000001
+
+SELECTED:[Identicality]
+MATCH!
+SILVER:135	23605	4	22	0	4099630	The nuclear , biological and chemical reconnaissance vehicle is the ninth variant .	12170	nuclear.a	426	Weapon	MANUAL	6548223	4	10	KmG	nuclear
+LINKED:[1	1	4	10	bn:00097697a		http://babelnet.org/rdf/s00097697a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33884 ===
+	Weapon: -5.668934240362811E-4
+	Bearing_arms: -0.027777777777777776
+
+SELECTED:[Weapon]
+MATCH!
+SILVER:135	23605	4	22	0	4099630	The nuclear , biological and chemical reconnaissance vehicle is the ninth variant .	13357	biological.a	426	Weapon	MANUAL	6548224	14	23	KmG	biological
+LINKED:[3	3	14	23	bn:00098418a		http://babelnet.org/rdf/s00098418a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33886 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	4	22	0	4099630	The nuclear , biological and chemical reconnaissance vehicle is the ninth variant .	13358	chemical.a	426	Weapon	MANUAL	6548225	29	36	KmG	chemical
+LINKED:[5	5	29	36	bn:00099577a		http://babelnet.org/rdf/s00099577a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33888 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	5	22	0	4099631	The eight - wheeled vehicles , developed to fill a gap between infantry soldiers driving Humvees and tanks , is the Army 's next step in becoming a future fighting force .	11731	develop.v	1349	Cause_to_make_progress	MANUAL	6535150	31	39	RLG	developed
+LINKED:[6	6	31	39	bn:00086733v		http://babelnet.org/rdf/s00086733v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33894 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	5	22	0	4099631	The eight - wheeled vehicles , developed to fill a gap between infantry soldiers driving Humvees and tanks , is the Army 's next step in becoming a future fighting force .	8863	drive.v	65	Operate_vehicle	MANUAL	6535152	81	87	RLG	driving
+LINKED:[14	14	81	87	bn:00087328v		http://babelnet.org/rdf/s00087328v	1.0	0.2	0.0052693207	BABELFY]
+RANK:=== COUNTER  Counter 33896 ===
+	Self_motion: -8.734387282732115E-5
+	Bringing: -0.001736111111111111
+	Operate_vehicle: -0.0022675736961451243
+
+SELECTED:[Operate_vehicle]
+MATCH!
+SILVER:135	23605	5	22	0	4099631	The eight - wheeled vehicles , developed to fill a gap between infantry soldiers driving Humvees and tanks , is the Army 's next step in becoming a future fighting force .	12286	army.n	1514	Military	MANUAL	6535154	116	119	RLG	Army
+LINKED:[21	21	116	119	bn:00005803n	http://dbpedia.org/resource/Army	http://babelnet.org/rdf/s00005803n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33900 ===
+	Aggregate: -4.0E-4
+	Military: -0.02040816326530612
+
+SELECTED:[Military]
+MATCH!
+SILVER:135	23605	6	22	0	4099632	' There 's a lot of smart sensors that take away the ( guesswork ) of the soldiers , ' said Bruce Baldwin , the U.S. Army Chemical School 's lead trainer for new systems. '' ( The Olympian Online , 20Apr06 , Christian Hill ) ( Link )	751	say.v	43	Statement	MANUAL	6535161	87	90	RLG	said
+LINKED:[18	18	87	90	bn:00093287v		http://babelnet.org/rdf/s00093287v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33908 ===
+	Statement: -2.44140625E-4
+	Text_creation: -0.00591715976331361
+	Speak_on_topic: -0.00591715976331361
+	Communication: -0.008264462809917356
+	Becoming_aware: -0.008264462809917356
+	Spelling_and_pronouncing: -0.027777777777777776
+
+SELECTED:[Statement]
+MATCH!
+SILVER:135	23605	6	22	0	4099632	' There 's a lot of smart sensors that take away the ( guesswork ) of the soldiers , ' said Bruce Baldwin , the U.S. Army Chemical School 's lead trainer for new systems. '' ( The Olympian Online , 20Apr06 , Christian Hill ) ( Link )	12286	army.n	1514	Military	MANUAL	6535162	117	120	RLG	Army
+LINKED:[24	24	117	120	bn:00005803n	http://dbpedia.org/resource/Army	http://babelnet.org/rdf/s00005803n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33910 ===
+	Aggregate: -4.0E-4
+	Military: -0.02040816326530612
+
+SELECTED:[Military]
+MATCH!
+SILVER:135	23605	6	22	0	4099632	' There 's a lot of smart sensors that take away the ( guesswork ) of the soldiers , ' said Bruce Baldwin , the U.S. Army Chemical School 's lead trainer for new systems. '' ( The Olympian Online , 20Apr06 , Christian Hill ) ( Link )	12563	new.a	972	Age	MANUAL	6535164	158	160	RLG	new
+LINKED:[31	31	158	160	bn:00107267a		http://babelnet.org/rdf/s00107267a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33914 ===
+	Age: -0.02040816326530612
+	Familiarity: -0.04000000000000001
+
+SELECTED:[Age]
+MATCH!
+SILVER:135	23605	6	22	0	4099632	' There 's a lot of smart sensors that take away the ( guesswork ) of the soldiers , ' said Bruce Baldwin , the U.S. Army Chemical School 's lead trainer for new systems. '' ( The Olympian Online , 20Apr06 , Christian Hill ) ( Link )	13232	a	189	Quantified_mass	MANUAL	6548229	13	15	KmG	lot
+LINKED:[3	3	13	15	bn:00008985n	http://dbpedia.org/resource/Slew_(spacecraft)	http://babelnet.org/rdf/s00008985n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33916 ===
+	Aggregate: -4.0E-4
+	Quantity: -8.163265306122448E-4
+	Sufficiency: -0.0034602076124567475
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	6	22	0	4099632	' There 's a lot of smart sensors that take away the ( guesswork ) of the soldiers , ' said Bruce Baldwin , the U.S. Army Chemical School 's lead trainer for new systems. '' ( The Olympian Online , 20Apr06 , Christian Hill ) ( Link )	421	smart.a	29	Mental_property	MANUAL	6548230	20	24	KmG	smart
+LINKED:[5	5	20	24	bn:00110789a		http://babelnet.org/rdf/s00110789a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33918 ===
+	Mental_property: -5.94883997620464E-4
+	Aesthetics: -0.04000000000000001
+
+SELECTED:[Mental_property]
+MATCH!
+SILVER:135	23605	6	22	0	4099632	' There 's a lot of smart sensors that take away the ( guesswork ) of the soldiers , ' said Bruce Baldwin , the U.S. Army Chemical School 's lead trainer for new systems. '' ( The Olympian Online , 20Apr06 , Christian Hill ) ( Link )	13253	lead.a	402	First_rank	MANUAL	6548231	141	144	KmG	lead
+LINKED:[28	28	141	144	bn:13753265a		http://babelnet.org/rdf/s13753265a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33920 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	24	0	4099634	India and US to advance cooperation to deal with terrorism	12318	deal.v	1523	Resolve_problem	MANUAL	6535130	39	42	RLG	deal
+LINKED:[7	7	39	42	bn:00086335v		http://babelnet.org/rdf/s00086335v	1.0	0.25	0.025	BABELFY]
+RANK:=== COUNTER  Counter 33926 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	25	0	4099635	`` India and the US have agreed to respond to counter - terrorism assistance requests expeditiously and collaborate to upgrade preparedness and capability to deal with terrorism .	11656	agree.v	1342	Make_agreement_on_action	MANUAL	6535107	25	30	RLG	agreed
+LINKED:[6	6	25	30	bn:00082475v		http://babelnet.org/rdf/s00082475v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33930 ===
+	Make_agreement_on_action: -0.0625
+	Be_in_agreement_on_assessment: -0.1111111111111111
+
+SELECTED:[Make_agreement_on_action]
+MATCH!
+SILVER:135	23605	1	25	0	4099635	`` India and the US have agreed to respond to counter - terrorism assistance requests expeditiously and collaborate to upgrade preparedness and capability to deal with terrorism .	11591	assistance.n	391	Assistance	MANUAL	6535109	66	75	RLG	assistance
+LINKED:[13	13	66	75	bn:00002154n		http://babelnet.org/rdf/s00002154n	1.0	0.083333336	0.003787879	BABELFY]
+RANK:=== COUNTER  Counter 33934 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	25	0	4099635	`` India and the US have agreed to respond to counter - terrorism assistance requests expeditiously and collaborate to upgrade preparedness and capability to deal with terrorism .	10702	capability.n	990	Capability	MANUAL	6535112	144	153	RLG	capability
+LINKED:[22	22	144	153	bn:00015410n		http://babelnet.org/rdf/s00015410n	1.0	0.083333336	0.003787879	BABELFY]
+RANK:=== COUNTER  Counter 33940 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	25	0	4099635	`` India and the US have agreed to respond to counter - terrorism assistance requests expeditiously and collaborate to upgrade preparedness and capability to deal with terrorism .	12318	deal.v	1523	Resolve_problem	MANUAL	6535113	158	161	RLG	deal
+LINKED:[24	24	158	161	bn:00082339v		http://babelnet.org/rdf/s00082339v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33942 ===
+	Speak_on_topic: -0.00591715976331361
+	Resolve_problem: -0.02040816326530612
+	Topic: -0.027777777777777776
+
+SELECTED:[Resolve_problem]
+MATCH!
+SILVER:135	23605	2	25	0	4099636	This was decided at the two - day meeting of the India - US Joint Working Group on Counterterrorim , which ended today .	7431	decide.v	363	Deciding	MANUAL	6535114	9	15	RLG	decided
+LINKED:[2	2	9	15	bn:00082354v		http://babelnet.org/rdf/s00082354v	0.8333333	0.11111111	0.027624309	BABELFY]
+RANK:=== COUNTER  Counter 33948 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	25	0	4099636	This was decided at the two - day meeting of the India - US Joint Working Group on Counterterrorim , which ended today .	3875	day.n	224	Measure_duration	MANUAL	6535116	30	32	RLG	day
+LINKED:[7	7	30	32	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33950 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+	Timespan: -0.04000000000000001
+
+SELECTED:[Measure_duration]
+MATCH!
+SILVER:135	23605	2	25	0	4099636	This was decided at the two - day meeting of the India - US Joint Working Group on Counterterrorim , which ended today .	514	meeting.n	34	Discussion	MANUAL	6535859	34	40	RLG	meeting
+LINKED:[8	8	34	40	bn:00085339v		http://babelnet.org/rdf/s00085339v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33956 ===
+	Response: -0.0625
+	Encounter: -0.25
+	Make_acquaintance: -1.0
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	25	0	4099636	This was decided at the two - day meeting of the India - US Joint Working Group on Counterterrorim , which ended today .	2112	group.n	103	Aggregate	MANUAL	6548233	74	78	KmG	Group
+LINKED:[16	16	74	78	bn:00041942n		http://babelnet.org/rdf/s00041942n	0.8	0.44444445	0.15469614	BABELFY]
+RANK:=== COUNTER  Counter 33958 ===
+	Aggregate: -4.0E-4
+	Organization: -0.00510204081632653
+
+SELECTED:[Aggregate]
+MATCH!
+SILVER:135	23605	3	25	0	4099637	The two countries decided to advance cooperation in the areas of bioterrorism , aviation security , biometrics , cyber - security and terrorism , WMD - terrorism , terrorist finance and money laundering and violent extremism , a release issued by the Embassy of India said .	7431	decide.v	363	Deciding	MANUAL	6535121	18	24	RLG	decided
+LINKED:[3	3	18	24	bn:00086370v		http://babelnet.org/rdf/s00086370v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33962 ===
+	Choosing: -0.015625
+	Eventive_cognizer_affecting: -0.25
+	Deciding: -0.25
+
+SELECTED:[Deciding]
+MATCH!
+SILVER:135	23605	3	25	0	4099637	The two countries decided to advance cooperation in the areas of bioterrorism , aviation security , biometrics , cyber - security and terrorism , WMD - terrorism , terrorist finance and money laundering and violent extremism , a release issued by the Embassy of India said .	751	say.v	43	Statement	MANUAL	6535127	268	271	RLG	said
+LINKED:[45	45	268	271	bn:00087644v		http://babelnet.org/rdf/s00087644v	0.9	0.11111111	0.0014088916	BABELFY]
+RANK:=== COUNTER  Counter 33968 ===
+	Request: -0.0022675736961451243
+	Sentencing: -0.1111111111111111
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	25	0	4099637	The two countries decided to advance cooperation in the areas of bioterrorism , aviation security , biometrics , cyber - security and terrorism , WMD - terrorism , terrorist finance and money laundering and violent extremism , a release issued by the Embassy of India said .	13361	money.n	1761	Money	MANUAL	6536763	186	190	RLG	money
+LINKED:[31	31	186	190	bn:00055644n	http://dbpedia.org/resource/Money	http://babelnet.org/rdf/s00055644n	0.81433225	0.37037036	0.03913588	BABELFY]
+RANK:=== COUNTER  Counter 33976 ===
+	Money: -0.027777777777777776
+	Commerce_pay: -0.04000000000000001
+
+SELECTED:[Money]
+MATCH!
+SILVER:135	23605	1	27	0	4099640	New evidence that Canadian trash is a security threat	11687	canadian.a	1103	Origin	MANUAL	6535105	18	25	RLG	Canadian
+LINKED:[3	3	18	25	bn:00015125n	http://dbpedia.org/resource/Canadians	http://babelnet.org/rdf/s00015125n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33982 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	1	28	0	4099641	`` Every day , about 350 trucks carrying trash from Canada come into Michigan to dump it in our landfills .	3946	day.n	229	Calendric_unit	MANUAL	6534990	9	11	RLG	day
+LINKED:[2	2	9	11	bn:00000086n	http://dbpedia.org/resource/Day	http://babelnet.org/rdf/s00000086n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33986 ===
+	Calendric_unit: -3.429355281207133E-4
+	Measure_duration: -0.00591715976331361
+	Timespan: -0.04000000000000001
+
+SELECTED:[Calendric_unit]
+MATCH!
+SILVER:135	23605	1	28	0	4099641	`` Every day , about 350 trucks carrying trash from Canada come into Michigan to dump it in our landfills .	4470	carry.v	240	Bringing	MANUAL	6534992	32	39	RLG	carrying
+LINKED:[7	7	32	39	bn:00084554v		http://babelnet.org/rdf/s00084554v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33990 ===
+	Bringing: -0.001736111111111111
+	Carry_goods: -0.25
+
+SELECTED:[Bringing]
+MATCH!
+SILVER:135	23605	1	28	0	4099641	`` Every day , about 350 trucks carrying trash from Canada come into Michigan to dump it in our landfills .	941	come.v	54	Arriving	MANUAL	6548237	59	62	KmG	come
+LINKED:[11	11	59	62	bn:00085328v		http://babelnet.org/rdf/s00085328v	1.0	0.125	0.003012048	BABELFY]
+RANK:=== COUNTER  Counter 33992 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	2	28	0	4099642	The U.S. Bureau of Customs and Border Protection has no effective way to screen or inspect these trash trucks as they enter Michigan , and the potential consequences of this security gap are immense .	942	enter.v	54	Arriving	MANUAL	6534997	118	122	RLG	enter
+LINKED:[21	21	118	122	bn:00085363v		http://babelnet.org/rdf/s00085363v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 33998 ===
+	Path_shape: -9.182736455463729E-4
+	Arriving: -0.0027700831024930744
+
+SELECTED:[Arriving]
+MATCH!
+SILVER:135	23605	2	28	0	4099642	The U.S. Bureau of Customs and Border Protection has no effective way to screen or inspect these trash trucks as they enter Michigan , and the potential consequences of this security gap are immense .	13557	way.n	1790	Means	MANUAL	6548245	66	68	KmG	way
+LINKED:[11	11	66	68	bn:00033729n	http://dbpedia.org/resource/Mode_(literature)	http://babelnet.org/rdf/s00033729n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34002 ===
+	Means: -0.015625
+	Possibilities: -0.027777777777777776
+
+SELECTED:[Means]
+MATCH!
+SILVER:135	23605	3	28	0	4099643	The Department of Homeland Security ( DHS ) recently completed a study , conducted in response to a request I [ Carl Levin ] made with Senator Debbie Stabenow and Rep . John Dingell that bluntly acknowledges the security risk these trucks pose .	11736	conduct.v	198	Intentionally_act	MANUAL	6535000	73	81	RLG	conducted
+LINKED:[13	13	73	81	bn:00084593v		http://babelnet.org/rdf/s00084593v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34006 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	3	28	0	4099643	The Department of Homeland Security ( DHS ) recently completed a study , conducted in response to a request I [ Carl Levin ] made with Senator Debbie Stabenow and Rep . John Dingell that bluntly acknowledges the security risk these trucks pose .	6667	risk.n	378	Run_risk	MANUAL	6535005	221	224	RLG	risk
+LINKED:[39	39	221	224	bn:00030747n	http://dbpedia.org/resource/Hazard	http://babelnet.org/rdf/s00030747n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34012 ===
+	Being_at_risk: -0.012345679012345678
+	Risky_situation: -0.02040816326530612
+	Run_risk: -0.1111111111111111
+	Endangering: -0.25
+
+SELECTED:[Run_risk]
+MATCH!
+SILVER:135	23605	4	28	0	4099644	The DHS report describes the three methods currently used by customs officials to inspect the trucks : a Radiation Portal Monitor to detect the presence of radiation , a Vehicle and Cargo Inspection System screening that creates an image similar to an X-ray , and physical inspections .	10619	use.v	1141	Using	MANUAL	6535009	53	56	RLG	used
+LINKED:[8	8	53	56	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34020 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	4	28	0	4099644	The DHS report describes the three methods currently used by customs officials to inspect the trucks : a Radiation Portal Monitor to detect the presence of radiation , a Vehicle and Cargo Inspection System screening that creates an image similar to an X-ray , and physical inspections .	11936	detect.v	20	Becoming_aware	MANUAL	6535013	133	138	RLG	detect
+LINKED:[22	22	133	138	bn:00086708v		http://babelnet.org/rdf/s00086708v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34028 ===
+	Perception_active: -0.0011890606420927466
+	Coming_to_believe: -0.0027700831024930744
+	Perception_experience: -0.00591715976331361
+	Becoming_aware: -0.008264462809917356
+
+SELECTED:[Becoming_aware]
+MATCH!
+SILVER:135	23605	4	28	0	4099644	The DHS report describes the three methods currently used by customs officials to inspect the trucks : a Radiation Portal Monitor to detect the presence of radiation , a Vehicle and Cargo Inspection System screening that creates an image similar to an X-ray , and physical inspections .	12637	system.n	1610	System	MANUAL	6535016	199	204	RLG	System
+LINKED:[33	33	199	204	bn:00075759n		http://babelnet.org/rdf/s00075759n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34034 ===
+	Gizmo: -0.0044444444444444444
+	System: -0.1111111111111111
+
+SELECTED:[System]
+MATCH!
+SILVER:135	23605	4	28	0	4099644	The DHS report describes the three methods currently used by customs officials to inspect the trucks : a Radiation Portal Monitor to detect the presence of radiation , a Vehicle and Cargo Inspection System screening that creates an image similar to an X-ray , and physical inspections .	11320	create.v	319	Creating	MANUAL	6535017	221	227	RLG	creates
+LINKED:[36	36	221	227	bn:00086008v		http://babelnet.org/rdf/s00086008v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34036 ===
+	Cause_to_start: -0.006944444444444444
+	Intentionally_create: -0.006944444444444444
+	Coming_up_with: -0.008264462809917356
+	Creating: -0.012345679012345678
+	Building: -0.012345679012345678
+
+SELECTED:[Creating]
+MATCH!
+SILVER:135	23605	5	28	0	4099645	The screening methods are nearly useless for screening trash , however , due to the density and lack of uniform content of trash shipments .	10694	shipment	243	Sending	MANUAL	6535090	129	137	RLG	shipments
+LINKED:[23	23	129	137	bn:00016047n	http://dbpedia.org/resource/Cargo	http://babelnet.org/rdf/s00016047n	1.0	0.22222222	0.02173913	BABELFY]
+RANK:=== COUNTER  Counter 34042 ===
+	Store: -0.04000000000000001
+	Sent_items: -0.25
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	6	28	0	4099646	The X-ray image produced is nothing more than a large amorphous black mass. I fear that for every trash truck caught carrying contraband into Michigan , many more get through undetected with drugs , medical waste or other illegal material .	7737	black.a	423	Color	MANUAL	6535093	64	68	RLG	black
+LINKED:[11	11	64	68	bn:00098490a		http://babelnet.org/rdf/s00098490a	1.0	0.09090909	0.009469697	BABELFY]
+RANK:=== COUNTER  Counter 34046 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	6	28	0	4099646	The X-ray image produced is nothing more than a large amorphous black mass. I fear that for every trash truck caught carrying contraband into Michigan , many more get through undetected with drugs , medical waste or other illegal material .	4470	carry.v	240	Bringing	MANUAL	6535096	117	124	RLG	carrying
+LINKED:[22	22	117	124	bn:00084554v		http://babelnet.org/rdf/s00084554v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34052 ===
+	Bringing: -0.001736111111111111
+	Carry_goods: -0.25
+
+SELECTED:[Bringing]
+MATCH!
+SILVER:135	23605	6	28	0	4099646	The X-ray image produced is nothing more than a large amorphous black mass. I fear that for every trash truck caught carrying contraband into Michigan , many more get through undetected with drugs , medical waste or other illegal material .	11726	material.n	1321	Substance	MANUAL	6535102	230	237	RLG	material
+LINKED:[40	40	230	237	bn:00053801n	http://dbpedia.org/resource/Stuff_(cloth)	http://babelnet.org/rdf/s00053801n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34060 ===
+	Substance: -0.0014792899408284025
+	Ingredients: -0.0625
+
+SELECTED:[Substance]
+MATCH!
+SILVER:135	23605	7	28	0	4099647	Ignoring the possibility that these trucks could be used by terrorists to transport biological or chemical weapons is irresponsible .	10619	use.v	1141	Using	MANUAL	6535781	52	55	RLG	used
+LINKED:[8	8	52	55	bn:13783090v		http://babelnet.org/rdf/s13783090v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34066 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	7	28	0	4099647	Ignoring the possibility that these trucks could be used by terrorists to transport biological or chemical weapons is irresponsible .	8731	transport.v	240	Bringing	MANUAL	6535782	74	82	RLG	transport
+LINKED:[12	12	74	82	bn:00095121v		http://babelnet.org/rdf/s00095121v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34068 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	7	28	0	4099647	Ignoring the possibility that these trucks could be used by terrorists to transport biological or chemical weapons is irresponsible .	10637	biological	426	Weapon	MANUAL	6535783	84	93	RLG	biological
+LINKED:[13	13	84	93	bn:00098417a		http://babelnet.org/rdf/s00098417a	1.0	0.16666667	0.023809524	BABELFY]
+RANK:=== COUNTER  Counter 34070 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	7	28	0	4099647	Ignoring the possibility that these trucks could be used by terrorists to transport biological or chemical weapons is irresponsible .	10635	chemical	426	Weapon	MANUAL	6535784	98	105	EGp	chemical
+LINKED:[15	15	98	105	bn:00099577a		http://babelnet.org/rdf/s00099577a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34074 ===
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	8	28	0	4099648	It is now unequivocally clear that these trash shipments are a weak link in our security. '' ( hometownlife.com ; 19Apr06 ; Carl Levin , U.S. Senator from Michigan ) ( Link )	12164	shipment	243	Sending	MANUAL	6535856	47	55	RLG	shipments
+LINKED:[8	8	47	55	bn:00016047n	http://dbpedia.org/resource/Cargo	http://babelnet.org/rdf/s00016047n	0.8	0.14285715	0.0044692736	BABELFY]
+RANK:=== COUNTER  Counter 34082 ===
+	Store: -0.04000000000000001
+	Sent_items: -0.25
+
+SELECTED:[]
+WRONG!
+SILVER:135	23605	8	28	0	4099648	It is now unequivocally clear that these trash shipments are a weak link in our security. '' ( hometownlife.com ; 19Apr06 ; Carl Levin , U.S. Senator from Michigan ) ( Link )	13666	link.n	419	Connectors	MANUAL	6548259	68	71	KmG	link
+LINKED:[12	12	68	71	bn:00051400n		http://babelnet.org/rdf/s00051400n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 34084 ===
+
+SELECTED:[]
+WRONG!
+filename	NTI__WMDNews_042106.xml
+docAnnotations	548
+docManual	450
+docUnannotated	98
+sentences	68
+paragraphs	28
+Overlapping	369
+Disambiguated	86
+TP	72
+TN	98
+FP	0
+FN	364
+P	1.0
+R	0.1651376146788991
+F	0.2834645669291339
+A	0.31835205992509363

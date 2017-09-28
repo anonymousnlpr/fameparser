@@ -1,0 +1,16 @@
+filename	NTI__Iran_Missile.xml
+docAnnotations	1122
+docManual	858
+docUnannotated	264
+sentences	180
+paragraphs	49
+Overlapping	807
+Disambiguated	692
+TP	437
+TN	264
+FP	0
+FN	166
+P	1.0
+R	0.724709784411277
+F	0.8403846153846154
+A	0.8085351787773933

@@ -1,0 +1,351 @@
+SILVER:205	23715	1	1	0	4101390	Inauguration of free zone in Dubai for e-commerce	3695	zone.n	192	Locale	MANUAL	6550760	21	24	KmG	zone
+LINKED:[3	3	21	24	bn:00082075n		http://babelnet.org/rdf/s00082075n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4089 ===
+	Locale: 9.18235294117647
+
+SELECTED:[Locale]
+MATCH!
+SILVER:205	23715	1	2	0	4101391	Dubai 10-28 ( FP ) - Dubai 's Crown Prince Sheikh Mohamed Bin Rashid Al Maktoum inaugurated a free zone for e-commerce today , called Dubai Internet City .	4110	sheik.n	73	Leadership	MANUAL	6550765	43	48	KmG	Sheikh
+LINKED:[10	10	43	48	bn:00005253n	http://dbpedia.org/resource/Sheikh	http://babelnet.org/rdf/s00005253n	0.9836066	0.2857143	0.016896648	BABELFY]
+RANK:=== COUNTER  Counter 4090 ===
+	Leadership: 0.7754716981132076
+
+SELECTED:[Leadership]
+MATCH!
+SILVER:205	23715	1	2	0	4101391	Dubai 10-28 ( FP ) - Dubai 's Crown Prince Sheikh Mohamed Bin Rashid Al Maktoum inaugurated a free zone for e-commerce today , called Dubai Internet City .	3695	zone.n	192	Locale	MANUAL	6550766	99	102	KmG	zone
+LINKED:[19	19	99	102	bn:15098302n		http://babelnet.org/rdf/s15098302n	1.0	0.0952381	0.0011264433	BABELFY]
+RANK:=== COUNTER  Counter 4091 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	2	0	4101391	Dubai 10-28 ( FP ) - Dubai 's Crown Prince Sheikh Mohamed Bin Rashid Al Maktoum inaugurated a free zone for e-commerce today , called Dubai Internet City .	4054	today.n	229	Calendric_unit	MANUAL	6550767	119	123	KmG	today
+LINKED:[22	22	119	123	bn:00077462n		http://babelnet.org/rdf/s00077462n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4092 ===
+	Temporal_collocation: 0.375
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	2	0	4101391	Dubai 10-28 ( FP ) - Dubai 's Crown Prince Sheikh Mohamed Bin Rashid Al Maktoum inaugurated a free zone for e-commerce today , called Dubai Internet City .	11195	call.v	1250	Labeling	MANUAL	6550768	127	132	KmG	called
+LINKED:[24	24	127	132	bn:00084385v		http://babelnet.org/rdf/s00084385v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4093 ===
+	Being_named: 0.28823529411764703
+	Referring_by_name: 0.25882352941176473
+	Claim_ownership: 0.13529411764705881
+	Labeling: 0.11764705882352941
+	Name_conferral: 0.09411764705882353
+	Simple_naming: 0.07647058823529412
+
+SELECTED:[Labeling]
+MATCH!
+SILVER:205	23715	1	2	0	4101391	Dubai 10-28 ( FP ) - Dubai 's Crown Prince Sheikh Mohamed Bin Rashid Al Maktoum inaugurated a free zone for e-commerce today , called Dubai Internet City .	3764	city.n	195	Political_locales	MANUAL	6550770	149	152	KmG	City
+LINKED:[27	27	149	152	bn:03335997n	http://dbpedia.org/resource/City	http://babelnet.org/rdf/s03335997n	0.9375	0.71428573	0.10982822	BABELFY]
+RANK:=== COUNTER  Counter 4094 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	3	0	4101392	The preliminary stages of the project , the only one of its kind according to its designers , are estimated at $200 million .	14346	preliminary.a	1928	Preliminaries	MANUAL	6550772	4	14	KmG	preliminary
+LINKED:[1	1	4	14	bn:00108949a		http://babelnet.org/rdf/s00108949a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4095 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	3	0	4101392	The preliminary stages of the project , the only one of its kind according to its designers , are estimated at $200 million .	10723	project.n	1158	Project	MANUAL	6550774	30	36	KmG	project
+LINKED:[5	5	30	36	bn:00049573n	http://dbpedia.org/resource/Project	http://babelnet.org/rdf/s00049573n	1.0	1.0	0.5	BABELFY]
+RANK:=== COUNTER  Counter 4096 ===
+	Being_employed: 0.26666666666666666
+	Commitment: 0.1625
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	3	0	4101392	The preliminary stages of the project , the only one of its kind according to its designers , are estimated at $200 million .	2557	kind.n	128	Type	MANUAL	6550776	60	63	KmG	kind
+LINKED:[12	12	60	63	bn:00035907n		http://babelnet.org/rdf/s00035907n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4097 ===
+	Differentiation: 0.62
+	Categorization: 0.36857142857142855
+	Type: 0.11714285714285715
+
+SELECTED:[Type]
+MATCH!
+SILVER:205	23715	1	3	0	4101392	The preliminary stages of the project , the only one of its kind according to its designers , are estimated at $200 million .	10677	according	1148	Attributed_information	MANUAL	6550779	65	73	KmG	according
+LINKED:[13	13	65	73	bn:00082227v		http://babelnet.org/rdf/s00082227v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4098 ===
+	Compatibility: 0.21
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	3	0	4101392	The preliminary stages of the project , the only one of its kind according to its designers , are estimated at $200 million .	12288	estimate.v	1513	Estimating	MANUAL	6550782	98	106	KmG	estimated
+LINKED:[19	19	98	106	bn:00082743v		http://babelnet.org/rdf/s00082743v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4099 ===
+	Estimating: 0.115
+	Estimated_value: 0.04
+
+SELECTED:[Estimating]
+MATCH!
+SILVER:205	23715	1	4	0	4101393	Sheikh Mohamed , who is also the Defense Minister of the United Arab Emirates , announced at the inauguration ceremony that `` we want to make Dubai a new trading center . ''	1595	minister.n	73	Leadership	MANUAL	6545118	41	48	KmG	Minister
+LINKED:[8	8	41	48	bn:00041200n	http://dbpedia.org/resource/Minister_(government)	http://babelnet.org/rdf/s00041200n	0.8	0.13333334	0.0067854114	BABELFY]
+RANK:=== COUNTER  Counter 4100 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	4	0	4101393	Sheikh Mohamed , who is also the Defense Minister of the United Arab Emirates , announced at the inauguration ceremony that `` we want to make Dubai a new trading center . ''	683	announce.v	43	Statement	MANUAL	6545119	80	88	KmG	announced
+LINKED:[15	15	80	88	bn:00082637v		http://babelnet.org/rdf/s00082637v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4101 ===
+	Telling: 0.2681818181818182
+	Reporting: 0.2590909090909091
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	4	0	4101393	Sheikh Mohamed , who is also the Defense Minister of the United Arab Emirates , announced at the inauguration ceremony that `` we want to make Dubai a new trading center . ''	6412	want.v	366	Desiring	MANUAL	6545122	130	133	KmG	want
+LINKED:[23	23	130	133	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4102 ===
+	Possession: 0.8846153846153846
+	Desiring: 0.5692307692307692
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:205	23715	1	4	0	4101393	Sheikh Mohamed , who is also the Defense Minister of the United Arab Emirates , announced at the inauguration ceremony that `` we want to make Dubai a new trading center . ''	10661	center.n	196	Locale_by_use	MANUAL	6545125	163	168	KmG	center
+LINKED:[30	30	163	168	bn:00017134n	http://dbpedia.org/resource/The_Mall_(Cleveland)	http://babelnet.org/rdf/s00017134n	1.0	0.26666668	0.02374894	BABELFY]
+RANK:=== COUNTER  Counter 4103 ===
+	Buildings: 0.3844262295081967
+	Locale_by_use: 0.32868852459016396
+
+SELECTED:[Locale_by_use]
+MATCH!
+SILVER:205	23715	1	5	0	4101394	The minister , who has his own website , also said : `` I want Dubai to be the best place in the world for state-of-the-art technology companies . ''	1595	minister.n	73	Leadership	MANUAL	6545126	4	11	KmG	minister
+LINKED:[1	1	4	11	bn:00001604n	http://dbpedia.org/resource/Counsel	http://babelnet.org/rdf/s00001604n	1.0	0.18181819	0.015873017	BABELFY]
+RANK:=== COUNTER  Counter 4104 ===
+	People_by_vocation: 0.6140625
+	Attempt_suasion: 0.1375
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	5	0	4101394	The minister , who has his own website , also said : `` I want Dubai to be the best place in the world for state-of-the-art technology companies . ''	751	say.v	43	Statement	MANUAL	6545128	46	49	KmG	said
+LINKED:[10	10	46	49	bn:00082527v		http://babelnet.org/rdf/s00082527v	1.0	0.09090909	0.003968254	BABELFY]
+RANK:=== COUNTER  Counter 4105 ===
+	Statement: 1.8115384615384615
+
+SELECTED:[Statement]
+MATCH!
+SILVER:205	23715	1	5	0	4101394	The minister , who has his own website , also said : `` I want Dubai to be the best place in the world for state-of-the-art technology companies . ''	6412	want.v	366	Desiring	MANUAL	6545129	58	61	KmG	want
+LINKED:[14	14	58	61	bn:00086682v		http://babelnet.org/rdf/s00086682v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4106 ===
+	Possession: 0.8846153846153846
+	Desiring: 0.5692307692307692
+
+SELECTED:[Desiring]
+MATCH!
+SILVER:205	23715	1	5	0	4101394	The minister , who has his own website , also said : `` I want Dubai to be the best place in the world for state-of-the-art technology companies . ''	9110	good.a	726	Usefulness	MANUAL	6545130	79	82	KmG	best
+LINKED:[19	19	79	82	bn:00098274a		http://babelnet.org/rdf/s00098274a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4107 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	5	0	4101394	The minister , who has his own website , also said : `` I want Dubai to be the best place in the world for state-of-the-art technology companies . ''	3697	place.n	192	Locale	MANUAL	6545131	84	88	KmG	place
+LINKED:[20	20	84	88	bn:00062699n	http://dbpedia.org/resource/Location_(geography)	http://babelnet.org/rdf/s00062699n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4108 ===
+	Locale: 1561.0
+
+SELECTED:[Locale]
+MATCH!
+SILVER:205	23715	1	5	0	4101394	The minister , who has his own website , also said : `` I want Dubai to be the best place in the world for state-of-the-art technology companies . ''	10179	world.n	195	Political_locales	MANUAL	6545133	97	101	KmG	world
+LINKED:[23	23	97	101	bn:00022991n	http://dbpedia.org/resource/Macrocosm_and_microcosm	http://babelnet.org/rdf/s00022991n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4109 ===
+	Locale: 2.477777777777778
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	5	0	4101394	The minister , who has his own website , also said : `` I want Dubai to be the best place in the world for state-of-the-art technology companies . ''	11113	company.n	365	Businesses	MANUAL	6545135	135	143	KmG	companies
+LINKED:[27	27	135	143	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4110 ===
+	Businesses: 0.49142857142857144
+	Institutions: 0.03428571428571429
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:205	23715	1	5	0	4101394	The minister , who has his own website , also said : `` I want Dubai to be the best place in the world for state-of-the-art technology companies . ''	11612	technology.n	106	Gizmo	MANUAL	6545136	124	133	KmG	technology
+LINKED:[26	26	124	133	bn:00005105n	http://dbpedia.org/resource/Engineering	http://babelnet.org/rdf/s00005105n	1.0	0.54545456	0.33333334	BABELFY]
+RANK:=== COUNTER  Counter 4111 ===
+	Artifact: 0.16792452830188678
+	Fields: 0.055345911949685536
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	6	0	4101395	He said companies engaged in e-commerce would be able to set up offices , employ staff and own equipment in the open zone , including fully-owned foreign companies .	751	say.v	43	Statement	MANUAL	6545145	3	6	KmG	said
+LINKED:[1	1	3	6	bn:00092425v		http://babelnet.org/rdf/s00092425v	1.0	0.071428575	0.0021413276	BABELFY]
+RANK:=== COUNTER  Counter 4112 ===
+	Reading: 18.0
+	Hear: 15.0
+	Categorization: 0.6142857142857143
+	Have_associated: 0.1
+	Reading_aloud: 0.05714285714285714
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	6	0	4101395	He said companies engaged in e-commerce would be able to set up offices , employ staff and own equipment in the open zone , including fully-owned foreign companies .	11113	company.n	365	Businesses	MANUAL	6545146	8	16	KmG	companies
+LINKED:[2	2	8	16	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4113 ===
+	Businesses: 0.49142857142857144
+	Institutions: 0.03428571428571429
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:205	23715	1	6	0	4101395	He said companies engaged in e-commerce would be able to set up offices , employ staff and own equipment in the open zone , including fully-owned foreign companies .	12777	engage.v	198	Intentionally_act	MANUAL	6545147	18	24	KmG	engaged
+LINKED:[3	3	18	24	bn:00087628v		http://babelnet.org/rdf/s00087628v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4114 ===
+	Intentionally_act: 2.8454545454545452
+
+SELECTED:[Intentionally_act]
+MATCH!
+SILVER:205	23715	1	6	0	4101395	He said companies engaged in e-commerce would be able to set up offices , employ staff and own equipment in the open zone , including fully-owned foreign companies .	10154	able.a	990	Capability	MANUAL	6545148	49	52	KmG	able
+LINKED:[8	8	49	52	bn:00096153a		http://babelnet.org/rdf/s00096153a	0.7894737	0.21428572	0.032119915	BABELFY]
+RANK:=== COUNTER  Counter 4115 ===
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	6	0	4101395	He said companies engaged in e-commerce would be able to set up offices , employ staff and own equipment in the open zone , including fully-owned foreign companies .	3196	office.n	188	Building_subparts	MANUAL	6545150	64	70	KmG	offices
+LINKED:[12	12	64	70	bn:00001961n	http://dbpedia.org/resource/Government_agency	http://babelnet.org/rdf/s00001961n	0.7777778	0.21428572	0.04496788	BABELFY]
+RANK:=== COUNTER  Counter 4116 ===
+	Organization: 0.17961783439490445
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	6	0	4101395	He said companies engaged in e-commerce would be able to set up offices , employ staff and own equipment in the open zone , including fully-owned foreign companies .	5786	employ.v	323	Employing	MANUAL	6545151	74	79	KmG	employ
+LINKED:[14	14	74	79	bn:00087576v		http://babelnet.org/rdf/s00087576v	0.96	0.2857143	0.051391862	BABELFY]
+RANK:=== COUNTER  Counter 4117 ===
+	Employing: 0.8333333333333334
+	Being_employed: 0.6095238095238096
+	Hiring: 0.14761904761904762
+
+SELECTED:[Employing]
+MATCH!
+SILVER:205	23715	1	6	0	4101395	He said companies engaged in e-commerce would be able to set up offices , employ staff and own equipment in the open zone , including fully-owned foreign companies .	13722	open.a	1872	Openness	MANUAL	6545153	112	115	KmG	open
+LINKED:[21	21	112	115	bn:00107879a		http://babelnet.org/rdf/s00107879a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4118 ===
+	Openness: 0.016666666666666666
+
+SELECTED:[Openness]
+MATCH!
+SILVER:205	23715	1	6	0	4101395	He said companies engaged in e-commerce would be able to set up offices , employ staff and own equipment in the open zone , including fully-owned foreign companies .	13340	including.prep	1153	Inclusion	MANUAL	6545154	124	132	KmG	including
+LINKED:[24	24	124	132	bn:00089660v		http://babelnet.org/rdf/s00089660v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4119 ===
+	Cause_to_be_included: 0.55
+	Inclusion: 0.5
+
+SELECTED:[Inclusion]
+MATCH!
+SILVER:205	23715	1	6	0	4101395	He said companies engaged in e-commerce would be able to set up offices , employ staff and own equipment in the open zone , including fully-owned foreign companies .	12180	foreign.a	1483	Foreign_or_domestic_country	MANUAL	6545155	146	152	KmG	foreign
+LINKED:[26	26	146	152	bn:00103205a		http://babelnet.org/rdf/s00103205a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4120 ===
+	Foreign_or_domestic_country: 0.09166666666666666
+
+SELECTED:[Foreign_or_domestic_country]
+MATCH!
+SILVER:205	23715	1	6	0	4101395	He said companies engaged in e-commerce would be able to set up offices , employ staff and own equipment in the open zone , including fully-owned foreign companies .	11113	company.n	365	Businesses	MANUAL	6545156	154	162	KmG	companies
+LINKED:[27	27	154	162	bn:00021286n	http://dbpedia.org/resource/Company	http://babelnet.org/rdf/s00021286n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4121 ===
+	Businesses: 0.49142857142857144
+	Institutions: 0.03428571428571429
+
+SELECTED:[Businesses]
+MATCH!
+SILVER:205	23715	1	6	0	4101395	He said companies engaged in e-commerce would be able to set up offices , employ staff and own equipment in the open zone , including fully-owned foreign companies .	11431	set	280	Intentionally_create	MANUAL	6547512	57	59	RLG	set
+LINKED:[10	10	57	59	bn:00090224v		http://babelnet.org/rdf/s00090224v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4122 ===
+	Placing: 0.503448275862069
+	Cause_motion: 0.4086206896551724
+	Causation: 0.30689655172413793
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	7	0	4101396	The e-commerce free zone is situated in north Dubai , near the industrial free zone in Jebel Ali , the top regional and tenth international leading area in container transit .	3695	zone.n	192	Locale	MANUAL	6545157	20	23	KmG	zone
+LINKED:[3	3	20	23	bn:00082075n		http://babelnet.org/rdf/s00082075n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4123 ===
+	Locale: 9.18235294117647
+
+SELECTED:[Locale]
+MATCH!
+SILVER:205	23715	1	7	0	4101396	The e-commerce free zone is situated in north Dubai , near the industrial free zone in Jebel Ali , the top regional and tenth international leading area in container transit .	10025	situated.a	960	Being_located	MANUAL	6545158	28	35	KmG	situated
+LINKED:[5	5	28	35	bn:00090424v		http://babelnet.org/rdf/s00090424v	1.0	0.13333334	0.013422819	BABELFY]
+RANK:=== COUNTER  Counter 4124 ===
+	Locale: 8.672222222222222
+	Coming_to_believe: 0.5388888888888889
+	Contingency: 0.4444444444444444
+	Control: 0.13333333333333333
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	7	0	4101396	The e-commerce free zone is situated in north Dubai , near the industrial free zone in Jebel Ali , the top regional and tenth international leading area in container transit .	3695	zone.n	192	Locale	MANUAL	6545163	79	82	KmG	zone
+LINKED:[14	14	79	82	bn:00082075n		http://babelnet.org/rdf/s00082075n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4125 ===
+	Locale: 9.18235294117647
+
+SELECTED:[Locale]
+MATCH!
+SILVER:205	23715	1	7	0	4101396	The e-commerce free zone is situated in north Dubai , near the industrial free zone in Jebel Ali , the top regional and tenth international leading area in container transit .	13360	regional.a	192	Locale	MANUAL	6545165	107	114	KmG	regional
+LINKED:[21	21	107	114	bn:00109623a		http://babelnet.org/rdf/s00109623a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4126 ===
+	Locale: 31.22
+
+SELECTED:[Locale]
+MATCH!
+SILVER:205	23715	1	7	0	4101396	The e-commerce free zone is situated in north Dubai , near the industrial free zone in Jebel Ali , the top regional and tenth international leading area in container transit .	12420	international.a	1483	Foreign_or_domestic_country	MANUAL	6545166	126	138	KmG	international
+LINKED:[24	24	126	138	bn:00105294a		http://babelnet.org/rdf/s00105294a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4127 ===
+	Political_locales: 12.992307692307692
+	Foreign_or_domestic_country: 0.08461538461538462
+
+SELECTED:[Foreign_or_domestic_country]
+MATCH!
+SILVER:205	23715	1	7	0	4101396	The e-commerce free zone is situated in north Dubai , near the industrial free zone in Jebel Ali , the top regional and tenth international leading area in container transit .	11718	leading.a	402	First_rank	MANUAL	6545167	140	146	KmG	leading
+LINKED:[25	25	140	146	bn:00085567v		http://babelnet.org/rdf/s00085567v	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4128 ===
+	Leadership: 1.002439024390244
+	Cotheme: 0.22439024390243903
+	First_rank: 0.12439024390243902
+
+SELECTED:[First_rank]
+MATCH!
+SILVER:205	23715	1	7	0	4101396	The e-commerce free zone is situated in north Dubai , near the industrial free zone in Jebel Ali , the top regional and tenth international leading area in container transit .	3694	area.n	192	Locale	MANUAL	6545168	148	151	KmG	area
+LINKED:[26	26	148	151	bn:00005513n	http://dbpedia.org/resource/Area	http://babelnet.org/rdf/s00005513n	0.84210527	0.53333336	0.32214764	BABELFY]
+RANK:=== COUNTER  Counter 4129 ===
+	Locale: 9.18235294117647
+
+SELECTED:[Locale]
+MATCH!
+SILVER:205	23715	1	7	0	4101396	The e-commerce free zone is situated in north Dubai , near the industrial free zone in Jebel Ali , the top regional and tenth international leading area in container transit .	4241	container.n	78	Containers	MANUAL	6545169	156	164	KmG	container
+LINKED:[28	28	156	164	bn:00022129n	http://dbpedia.org/resource/Container	http://babelnet.org/rdf/s00022129n	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4130 ===
+	Containers: 0.7175438596491228
+	Inherent_purpose: 0.06491228070175438
+
+SELECTED:[Containers]
+MATCH!
+SILVER:205	23715	1	8	0	4101397	The inauguration of Dubai Internet City coincides with the opening of an annual IT show in Dubai , the Gulf Information Technology Exhibition ( Gitex ) , the biggest in the Middle East .	14095	coincide.v	1897	Simultaneity	MANUAL	6549185	40	48	JKs	coincides
+LINKED:[6	6	40	48	bn:00085272v		http://babelnet.org/rdf/s00085272v	1.0	0.055555556	4.224757E-4	BABELFY]
+RANK:=== COUNTER  Counter 4131 ===
+	Compatibility: 1.575
+
+SELECTED:[]
+WRONG!
+SILVER:205	23715	1	8	0	4101397	The inauguration of Dubai Internet City coincides with the opening of an annual IT show in Dubai , the Gulf Information Technology Exhibition ( Gitex ) , the biggest in the Middle East .	1724	annual.a	80	Frequency	MANUAL	6549187	73	78	JKs	annual
+LINKED:[12	12	73	78	bn:00097148a		http://babelnet.org/rdf/s00097148a	0.0	0.0	0.0	MCS]
+RANK:=== COUNTER  Counter 4132 ===
+
+SELECTED:[]
+WRONG!
+filename	LUCorpus-v0.3__artb_004_A1_E1_NEW.xml
+docAnnotations	70
+docManual	58
+docUnannotated	12
+sentences	8
+paragraphs	8
+Overlapping	44
+Disambiguated	37
+TP	25
+TN	12
+FP	0
+FN	21
+P	1.0
+R	0.5434782608695652
+F	0.704225352112676
+A	0.6379310344827587

@@ -1,0 +1,1233 @@
+@prefix :        <http://www.ontologydesignpatterns.org/ont/wn/wn30/fn2bnBase.ttl/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix bn:	<http://babelnet.org/rdf/> .
+@prefix wn30instances: <http://www.ontologydesignpatterns.org/ont/wn/wn30/instances/> .
+@prefix wn30schema: <http://www.ontologydesignpatterns.org/ont/wn/wn30/schema/> .
+@prefix frame: <http://www.ontologydesignpatterns.org/ont/framenet/abox/frame/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+frame:Losing_track_of_theme skos:closeMatch bn:s00090485v:20.0 .
+frame:Membership skos:closeMatch bn:s00054281n:25.0,bn:s00054282n:8.0,bn:s00083390v:11.0,bn:s00021395n:39.0,bn:s00034004n:28.0 .
+frame:Repel skos:closeMatch bn:s00088121v:17.0,bn:s00083272v:21.0 .
+frame:Gradable_proximity skos:closeMatch .
+frame:Direction skos:closeMatch bn:s00116097r:15.0,bn:s00116373r:11.0,bn:s00115158r:12.0,bn:s00080894n:78.0,bn:s00029465n:84.0,bn:s00116499r:10.0,bn:s00072962n:87.0,bn:s00115431r:22.0,bn:s00115840r:11.0,bn:s00117522r:35.0,bn:s00115109r:41.0,bn:s00116860r:7.0 .
+frame:Detaching skos:closeMatch bn:s00095395v:6.0,bn:s00095394v:5.0,bn:s00095321v:9.0,bn:s00095387v:5.0,bn:s00086704v:8.0,bn:s00095313v:8.0 .
+frame:Visitor_and_host skos:closeMatch .
+frame:Severity_of_offense skos:closeMatch .
+frame:Accompaniment skos:closeMatch .
+frame:Sociability skos:closeMatch bn:s00032490n:11.0,bn:s00110840a:15.0,bn:s00103344a:19.0,bn:s00105355a:17.0,bn:s00051905n:40.0,bn:s00043842n:83.0,bn:s00101361a:34.0 .
+frame:Expend_resource skos:closeMatch .
+frame:Being_relevant skos:closeMatch .
+frame:Progression skos:closeMatch .
+frame:Categorization skos:closeMatch bn:s00084690v:15.0,bn:s00095296v:13.0,bn:s00083862v:4.0,bn:s00047198n:32.0,bn:s00086435v:19.0,bn:s00006555n:113.0,bn:s00085683v:11.0,bn:s00091540v:7.0,bn:s00091003v:10.0,bn:s00092424v:20.0,bn:s00089841v:11.0,bn:s00082871v:45.0,bn:s00089576v:8.0,bn:s00093430v:23.0,bn:s00089840v:38.0,bn:s00086466v:15.0,bn:s00085862v:10.0,bn:s00091623v:13.0,bn:s00083370v:51.0,bn:s00095375v:17.0,bn:s00085647v:16.0 .
+frame:Pre_transfer skos:closeMatch .
+frame:Emotions_of_mental_activity skos:closeMatch bn:s00089697v:8.0,bn:s00062972n:50.0,bn:s00026047n:14.0,bn:s00030916n:8.0,bn:s00083145v:38.0,bn:s00028232n:22.0,bn:s00086520v:7.0,bn:s00089062v:8.0 .
+frame:Cause_fluidic_motion skos:closeMatch bn:s00087325v:11.0,bn:s00091696v:14.0,bn:s00092163v:18.0,bn:s00087007v:21.0,bn:s00087506v:11.0,bn:s00094184v:8.0 .
+frame:Plants skos:closeMatch .
+frame:Operate_vehicle_scenario skos:closeMatch .
+frame:Vocalizations skos:closeMatch bn:s00014793n:89.0,bn:s00045075n:21.0,bn:s00073745n:21.0,bn:s00010608n:64.0 .
+frame:Negation skos:closeMatch .
+frame:Birth_scenario skos:closeMatch .
+frame:Taking_captive skos:closeMatch .
+frame:Cause_expansion skos:closeMatch bn:s00002002n:14.0,bn:s00083679v:6.0,bn:s00022239n:35.0,bn:s00030922n:21.0,bn:s00094442v:10.0,bn:s00026697n:105.0,bn:s00052753n:14.0,bn:s00086833v:25.0,bn:s00084121v:26.0,bn:s00089083v:12.0,bn:s00083681v:17.0,bn:s00087849v:9.0,bn:s00089872v:12.0,bn:s00025780n:31.0,bn:s00092592v:13.0,bn:s00090291v:9.0,bn:s00085730v:14.0,bn:s00007150n:8.0 .
+frame:Criminal_process skos:closeMatch .
+frame:Education_teaching skos:closeMatch bn:s00090266v:30.0,bn:s00085748v:8.0,bn:s00069637n:11.0,bn:s00082812v:18.0,bn:s00078716n:5.0,bn:s00095270v:7.0,bn:s00083767v:40.0,bn:s00041853n:41.0,bn:s00026980n:133.0,bn:s00085012v:19.0,bn:s00055352n:11.0,bn:s00043325n:46.0,bn:s00086736v:22.0,bn:s00089791v:19.0,bn:s00012135n:24.0,bn:s00046958n:59.0,bn:s00064853n:44.0,bn:s00020120n:61.0,bn:s00050491n:4.0,bn:s00064601n:55.0,bn:s00102029a:10.0,bn:s00003164n:70.0,bn:s00065253n:30.0,bn:s00085223v:22.0 .
+frame:Timespan skos:closeMatch bn:s00019848n:15.0,bn:s00000086n:81.0 .
+frame:Hunting_scenario skos:closeMatch .
+frame:Aggregate skos:closeMatch bn:s00073905n:28.0,bn:s00041942n:32.0,bn:s00028866n:6.0,bn:s00065732n:55.0,bn:s00019442n:34.0,bn:s00063729n:35.0,bn:s00013882n:33.0,bn:s00021290n:24.0,bn:s00056303n:8.0,bn:s00069625n:61.0,bn:s00021604n:15.0,bn:s00067164n:17.0,bn:s00078196n:14.0,bn:s00070693n:21.0,bn:s00000777n:14.0,bn:s00073699n:40.0,bn:s00013873n:31.0,bn:s00035354n:30.0,bn:s00022821n:7.0,bn:s00013333n:38.0,bn:s00045118n:9.0,bn:s00020719n:16.0,bn:s00008279n:31.0,bn:s00019429n:88.0,bn:s00043803n:16.0,bn:s00008986n:17.0,bn:s00006487n:45.0,bn:s00063598n:28.0,bn:s00023933n:16.0,bn:s00011745n:17.0,bn:s00070696n:25.0,bn:s00037016n:16.0,bn:s00069619n:48.0,bn:s00015038n:65.0,bn:s00067163n:18.0,bn:s00021248n:50.0,bn:s00065519n:10.0,bn:s00010187n:15.0,bn:s00006554n:28.0,bn:s00013874n:33.0,bn:s00020479n:41.0,bn:s00055408n:29.0,bn:s00005803n:82.0,bn:s00024065n:25.0,bn:s00044758n:10.0,bn:s00008985n:70.0,bn:s00042994n:82.0,bn:s00016733n:32.0,bn:s00023378n:5.0 .
+frame:Residence skos:closeMatch bn:s00083709v:9.0,bn:s00090436v:11.0,bn:s00087441v:40.0,bn:s00015076n:7.0,bn:s00094221v:11.0,bn:s00085262v:26.0,bn:s00010805n:55.0,bn:s00044559n:76.0,bn:s00082137v:12.0,bn:s00090437v:16.0,bn:s00058564n:22.0,bn:s00083524v:30.0,bn:s00026239n:72.0 .
+frame:Create_representation skos:closeMatch bn:s00091585v:13.0,bn:s00084755v:6.0,bn:s00091389v:16.0,bn:s00084632v:9.0,bn:s00084606v:7.0,bn:s00087238v:12.0 .
+frame:Discussion skos:closeMatch bn:s00091037v:24.0,bn:s00021221n:51.0,bn:s00007099n:12.0,bn:s00086942v:15.0,bn:s00021721n:11.0,bn:s00075965n:9.0,bn:s00005601n:73.0,bn:s00020931n:12.0,bn:s00027544n:20.0,bn:s00027543n:15.0,bn:s00022352n:11.0,bn:s00060707n:17.0,bn:s00032126n:16.0,bn:s00091441v:4.0,bn:s00085436v:9.0,bn:s00085651v:21.0,bn:s00026838n:72.0,bn:s00085570v:20.0 .
+frame:Seeking_to_achieve skos:closeMatch bn:s00017920n:50.0,bn:s00088933v:9.0,bn:s00090460v:34.0 .
+frame:Beat_opponent skos:closeMatch bn:s00086448v:22.0,bn:s00086564v:9.0,bn:s00095452v:7.0,bn:s00083247v:45.0,bn:s00068414n:4.0,bn:s00093138v:6.0,bn:s00087151v:31.0,bn:s00025855n:25.0 .
+frame:Mental_stimulus_stimulus_focus skos:closeMatch bn:s00105276a:13.0 .
+frame:Inherent_purpose skos:closeMatch .
+frame:Change_accessibility skos:closeMatch .
+frame:Being_included skos:closeMatch .
+frame:Activity_stop skos:closeMatch bn:s00087608v:22.0,bn:s00082787v:18.0,bn:s00082119v:17.0,bn:s00084710v:33.0 .
+frame:Container_focused_removing skos:closeMatch .
+frame:Sensation skos:closeMatch bn:s00065138n:16.0,bn:s00001714n:26.0,bn:s00046268n:10.0,bn:s00071507n:19.0,bn:s00034177n:45.0,bn:s00061505n:5.0,bn:s00005846n:70.0,bn:s00012433n:51.0,bn:s00007134n:10.0,bn:s00042275n:67.0,bn:s00058653n:104.0,bn:s00062275n:15.0,bn:s00045772n:111.0,bn:s00070494n:110.0,bn:s00033960n:37.0,bn:s00035137n:114.0,bn:s00057863n:30.0 .
+frame:Change_post-state skos:closeMatch .
+frame:Coming_to_believe skos:closeMatch bn:s00086708v:45.0,bn:s00088162v:48.0,bn:s00082811v:30.0,bn:s00036707n:10.0,bn:s00021584n:33.0,bn:s00082813v:42.0,bn:s00094104v:18.0,bn:s00082281v:43.0,bn:s00092443v:34.0,bn:s00045936n:76.0,bn:s00085528v:22.0,bn:s00021870n:54.0,bn:s00025800n:61.0,bn:s00089105v:39.0,bn:s00094624v:5.0,bn:s00086430v:17.0 .
+frame:Complaining skos:closeMatch bn:s00083316v:21.0,bn:s00089067v:15.0,bn:s00009545n:11.0,bn:s00083397v:19.0,bn:s00085471v:33.0,bn:s00021348n:22.0,bn:s00089056v:12.0,bn:s00089058v:23.0 .
+frame:Transportation_status skos:closeMatch .
+frame:Surrendering skos:closeMatch bn:s00084713v:36.0,bn:s00067320n:5.0,bn:s00086532v:20.0 .
+frame:Ambient_temperature skos:closeMatch bn:s00099981a:35.0,bn:s00100441a:35.0,bn:s00069748n:8.0,bn:s00113698a:28.0,bn:s00104348a:42.0,bn:s00020535n:52.0,bn:s00076457n:81.0 .
+frame:Lending skos:closeMatch .
+frame:Biological_urge skos:closeMatch bn:s00032221n:5.0,bn:s00065543n:11.0,bn:s00111951a:15.0,bn:s00045230n:13.0,bn:s00104407a:21.0,bn:s00005853n:34.0,bn:s00028869n:48.0,bn:s00033794n:137.0,bn:s00057034n:42.0 .
+frame:Kinship skos:closeMatch bn:s00041351n:8.0,bn:s00069692n:13.0,bn:s00032893n:75.0,bn:s00018346n:22.0,bn:s00035761n:6.0,bn:s00071843n:32.0,bn:s00034027n:104.0,bn:s00025365n:11.0,bn:s00078951n:47.0,bn:s00041310n:25.0,bn:s00019429n:88.0,bn:s00042606n:38.0,bn:s00003890n:76.0,bn:s00026487n:27.0,bn:s00047692n:46.0,bn:s00072787n:8.0,bn:s00052511n:32.0,bn:s00009616n:52.0,bn:s00041364n:7.0,bn:s00042621n:165.0,bn:s00033782n:31.0,bn:s00046214n:13.0,bn:s00074206n:154.0,bn:s00102957a:8.0,bn:s00013375n:37.0,bn:s00074202n:17.0,bn:s00007182n:49.0,bn:s00032895n:11.0,bn:s00033776n:9.0,bn:s00057287n:71.0,bn:s00066996n:33.0,bn:s00071400n:57.0,bn:s00049206n:7.0,bn:s00023333n:118.0,bn:s00012571n:23.0,bn:s00106486a:16.0,bn:s00057650n:80.0,bn:s00032894n:49.0,bn:s00097064a:13.0,bn:s00074201n:9.0,bn:s00060643n:53.0,bn:s00041313n:31.0,bn:s00074214n:10.0,bn:s00071838n:21.0,bn:s00025364n:32.0,bn:s00056010n:31.0,bn:s00011357n:18.0,bn:s00049205n:7.0,bn:s00024989n:34.0 .
+frame:Craft skos:closeMatch bn:s00005926n:73.0,bn:s00069670n:91.0,bn:s00023499n:12.0 .
+frame:Memorization skos:closeMatch bn:s00085506v:18.0,bn:s00021038n:28.0 .
+frame:Boundary skos:closeMatch bn:s00012417n:39.0,bn:s00051291n:67.0,bn:s00012213n:19.0 .
+frame:Praiseworthiness skos:closeMatch bn:s00101521a:15.0,bn:s00102407a:6.0 .
+frame:Predicting skos:closeMatch bn:s00084375v:5.0,bn:s00092087v:14.0,bn:s00082668v:53.0,bn:s00085016v:11.0,bn:s00004638n:64.0,bn:s00064645n:33.0 .
+frame:Roadways skos:closeMatch bn:s00013077n:94.0,bn:s00075016n:61.0,bn:s00061006n:9.0,bn:s00049900n:16.0,bn:s00066021n:31.0,bn:s00027352n:13.0,bn:s00009834n:98.0,bn:s00035535n:61.0,bn:s00028779n:58.0,bn:s00077010n:24.0,bn:s00067975n:85.0,bn:s00074595n:41.0,bn:s00044128n:65.0,bn:s00077904n:12.0,bn:s00066010n:17.0,bn:s00061084n:66.0,bn:s00023288n:54.0,bn:s00006067n:7.0,bn:s00014056n:41.0,bn:s00024006n:51.0,bn:s00007326n:31.0,bn:s00066020n:105.0,bn:s00014359n:18.0,bn:s00067998n:12.0,bn:s00032402n:229.0,bn:s00035738n:13.0,bn:s00007448n:92.0,bn:s00028786n:37.0,bn:s00051295n:9.0 .
+frame:Sign_agreement skos:closeMatch bn:s00071546n:9.0,bn:s00093731v:54.0,bn:s00071547n:30.0,bn:s00082192v:26.0 .
+frame:Chatting skos:closeMatch bn:s00017937n:44.0,bn:s00094089v:16.0,bn:s00089961v:16.0,bn:s00007905n:11.0,bn:s00085760v:14.0,bn:s00020685n:8.0,bn:s00022349n:54.0,bn:s00088652v:8.0,bn:s00084747v:27.0,bn:s00007770n:15.0,bn:s00016855n:69.0 .
+frame:Public_services skos:closeMatch bn:s00070651n:34.0,bn:s00021257n:8.0 .
+frame:Body_movement skos:closeMatch bn:s00088153v:6.0,bn:s00089967v:15.0,bn:s00085240v:7.0,bn:s00085906v:27.0,bn:s00082750v:11.0,bn:s00089181v:8.0,bn:s00088311v:7.0,bn:s00083719v:13.0,bn:s00094678v:16.0,bn:s00086004v:23.0,bn:s00094234v:21.0,bn:s00088271v:19.0,bn:s00087413v:25.0,bn:s00087364v:15.0,bn:s00090910v:16.0,bn:s00094270v:10.0,bn:s00024545n:44.0,bn:s00093698v:22.0,bn:s00092197v:15.0,bn:s00083155v:7.0,bn:s00085162v:34.0,bn:s00091165v:13.0,bn:s00088910v:7.0,bn:s00085032v:8.0,bn:s00083407v:9.0,bn:s00089025v:17.0,bn:s00084110v:68.0,bn:s00088317v:21.0,bn:s00093702v:10.0,bn:s00082470v:20.0,bn:s00085245v:18.0,bn:s00091074v:11.0,bn:s00087909v:30.0,bn:s00095591v:16.0,bn:s00095868v:21.0,bn:s00090946v:21.0,bn:s00085965v:15.0,bn:s00094689v:16.0,bn:s00093639v:19.0,bn:s00088316v:8.0,bn:s00089959v:10.0,bn:s00094934v:18.0,bn:s00083610v:12.0,bn:s00093640v:8.0,bn:s00093921v:8.0,bn:s00083402v:19.0,bn:s00090123v:20.0 .
+frame:Documents skos:closeMatch bn:s00076666n:61.0,bn:s00060925n:55.0,bn:s00027280n:47.0,bn:s00007295n:52.0,bn:s00050444n:61.0,bn:s00064540n:46.0,bn:s00017367n:57.0,bn:s00100391a:13.0,bn:s00074959n:77.0,bn:s00050986n:53.0,bn:s00048511n:39.0,bn:s00013102n:33.0,bn:s00059171n:14.0,bn:s00000726n:42.0,bn:s00076677n:26.0,bn:s00026375n:42.0,bn:s00000728n:110.0,bn:s00022227n:93.0,bn:s00021758n:39.0,bn:s00028015n:17.0,bn:s00001752n:47.0,bn:s00026650n:33.0,bn:s00080504n:45.0,bn:s00080087n:63.0,bn:s00025804n:95.0,bn:s00017906n:49.0 .
+frame:Accuracy skos:closeMatch bn:s00115854r:8.0,bn:s00000782n:31.0,bn:s00114108r:12.0,bn:s00104757a:11.0,bn:s00046220n:11.0,bn:s00102487a:27.0,bn:s00064093n:18.0,bn:s00096292a:18.0 .
+frame:Manner skos:closeMatch .
+frame:Studying skos:closeMatch bn:s00082596v:44.0 .
+frame:Obscurity skos:closeMatch .
+frame:Pardon skos:closeMatch bn:s00035898n:10.0,bn:s00087817v:8.0 .
+frame:Temporary_stay skos:closeMatch bn:s00082218v:9.0,bn:s00083709v:9.0,bn:s00092756v:40.0,bn:s00093863v:11.0,bn:s00074076n:16.0,bn:s00083489v:25.0 .
+frame:Being_contained_within skos:closeMatch .
+frame:Left_to_do skos:closeMatch bn:s00092756v:40.0,bn:s00067064n:39.0 .
+frame:Locale_by_characteristic_entity skos:closeMatch .
+frame:Meet_specifications skos:closeMatch bn:s00088614v:20.0,bn:s00082846v:26.0,bn:s00088241v:9.0,bn:s00085592v:5.0 .
+frame:Performers_and_roles skos:closeMatch bn:s00094294v:18.0,bn:s00017749n:40.0,bn:s00083181v:24.0,bn:s00050346n:12.0,bn:s00020117n:9.0,bn:s00082287v:32.0,bn:s00088078v:9.0,bn:s00085220v:5.0 .
+frame:Path_traveled skos:closeMatch bn:s00047741n:16.0,bn:s00023288n:54.0,bn:s00017014n:70.0,bn:s00019182n:23.0 .
+frame:Causation skos:closeMatch bn:s00086868v:14.0,bn:s00082770v:26.0,bn:s00088724v:31.0,bn:s00016845n:19.0,bn:s00021961n:72.0,bn:s00084093v:6.0,bn:s00090272v:12.0,bn:s00084060v:30.0,bn:s00016851n:17.0,bn:s00091928v:13.0,bn:s00084699v:15.0,bn:s00093430v:23.0,bn:s00099397a:8.0,bn:s00084069v:30.0,bn:s00084067v:9.0,bn:s00087672v:22.0,bn:s00090243v:15.0,bn:s00090224v:59.0,bn:s00088736v:14.0,bn:s00090245v:8.0,bn:s00088455v:9.0,bn:s00084700v:30.0 .
+frame:Cause_to_resume skos:closeMatch bn:s00092713v:11.0,bn:s00092923v:17.0,bn:s00092412v:8.0 .
+frame:Deception_success skos:closeMatch .
+frame:Speak_on_topic skos:closeMatch bn:s00084594v:42.0,bn:s00001304n:57.0,bn:s00086932v:15.0,bn:s00082339v:32.0,bn:s00093287v:25.0,bn:s00090914v:14.0,bn:s00089978v:19.0,bn:s00091922v:14.0,bn:s00086931v:17.0,bn:s00086833v:25.0,bn:s00091834v:5.0,bn:s00090283v:12.0,bn:s00050486n:25.0 .
+frame:Difficulty skos:closeMatch bn:s00101973a:37.0,bn:s00104687a:13.0,bn:s00017557n:10.0,bn:s00101358a:47.0 .
+frame:Renting skos:closeMatch bn:s00084828v:32.0,bn:s00084830v:29.0 .
+frame:Trust skos:closeMatch bn:s00000648n:60.0,bn:s00032769n:24.0,bn:s00083095v:47.0,bn:s00101186a:11.0,bn:s00112161a:15.0,bn:s00100631a:14.0,bn:s00083369v:27.0,bn:s00026350n:30.0 .
+frame:Precariousness skos:closeMatch .
+frame:Reserving skos:closeMatch .
+frame:Relative_time skos:closeMatch bn:s00064712n:35.0,bn:s00116441r:10.0,bn:s00114354r:38.0,bn:s00116681r:22.0,bn:s00109231a:28.0,bn:s00115142r:13.0,bn:s00111392a:13.0,bn:s00114165r:49.0,bn:s00108320a:22.0,bn:s00101935a:40.0,bn:s00082660v:22.0,bn:s00114185r:16.0,bn:s00108909a:4.0,bn:s00114514r:12.0,bn:s00088422v:8.0,bn:s00097181a:9.0,bn:s00114428r:11.0 .
+frame:Firing_point skos:closeMatch .
+frame:Commutative_process skos:closeMatch bn:s00090977v:11.0,bn:s00037681n:26.0,bn:s00001276n:15.0,bn:s00082317v:56.0 .
+frame:Visiting_scenario skos:closeMatch .
+frame:Recovery skos:closeMatch bn:s00084071v:27.0,bn:s00022315n:41.0,bn:s00085750v:16.0,bn:s00088661v:11.0 .
+frame:Conduct skos:closeMatch bn:s00001544n:41.0,bn:s00082302v:12.0,bn:s00090816v:9.0,bn:s00053238n:10.0,bn:s00009656n:108.0,bn:s00082284v:21.0,bn:s00082286v:45.0,bn:s00009379n:12.0,bn:s00055274n:41.0 .
+frame:Annoyance skos:closeMatch .
+frame:Post_receiving skos:closeMatch .
+frame:Cardinal_numbers skos:closeMatch bn:s00000024n:51.0,bn:s00069751n:7.0,bn:s00012596n:32.0 .
+frame:Intentional_traversing skos:closeMatch bn:s00085906v:27.0,bn:s00085120v:13.0,bn:s00088465v:11.0,bn:s00086178v:13.0,bn:s00082803v:18.0 .
+frame:Conditional_scenario skos:closeMatch .
+frame:Thermodynamic_phase skos:closeMatch .
+frame:Representing skos:closeMatch bn:s00092837v:16.0 .
+frame:Use_firearm skos:closeMatch bn:s00086913v:7.0,bn:s00083567v:36.0 .
+frame:Luck skos:closeMatch bn:s00114363r:29.0,bn:s00103248a:15.0,bn:s00017622n:33.0,bn:s00019222n:123.0 .
+frame:Intentionally_affect skos:closeMatch bn:s00087106v:13.0 .
+frame:Intentionally_act skos:closeMatch bn:s00001177n:20.0,bn:s00001973n:24.0,bn:s00001127n:11.0,bn:s00001172n:10.0,bn:s00082225v:34.0,bn:s00054018n:20.0,bn:s00087106v:13.0,bn:s00087107v:35.0,bn:s00085566v:39.0,bn:s00087628v:12.0,bn:s00056154n:17.0,bn:s00082285v:33.0,bn:s00001077n:43.0 .
+frame:Similarity skos:closeMatch bn:s00096782a:38.0,bn:s00101350a:11.0,bn:s00092876v:21.0,bn:s00067290n:14.0,bn:s00027022n:11.0,bn:s00045931n:23.0,bn:s00028343n:75.0,bn:s00027723n:5.0,bn:s00027533n:7.0,bn:s00027645n:9.0,bn:s00105977a:35.0,bn:s00071670n:30.0,bn:s00086797v:6.0,bn:s00073460n:8.0,bn:s00101347a:23.0,bn:s00027036n:40.0,bn:s00086601v:7.0,bn:s00094747v:6.0,bn:s00003780n:54.0,bn:s00110647a:15.0,bn:s00019912n:6.0 .
+frame:Part_orientational skos:closeMatch bn:s00023758n:86.0,bn:s00113808a:11.0,bn:s00043386n:25.0,bn:s00067808n:61.0,bn:s00029466n:10.0,bn:s00101959a:11.0,bn:s00032604n:28.0,bn:s00008796n:16.0,bn:s00058033n:10.0,bn:s00078978n:6.0,bn:s00058103n:7.0,bn:s00050521n:63.0,bn:s00035679n:60.0,bn:s00098731a:14.0,bn:s00035855n:15.0,bn:s00072961n:10.0,bn:s00007747n:14.0,bn:s00107598a:16.0,bn:s00012365n:6.0,bn:s00000943n:60.0,bn:s00105834a:28.0,bn:s00109848a:27.0,bn:s00007728n:31.0,bn:s00111992a:6.0,bn:s00097938a:9.0,bn:s00058540n:18.0 .
+frame:Scrutiny skos:closeMatch bn:s00082596v:44.0,bn:s00090448v:22.0,bn:s00061758n:9.0,bn:s00003802n:15.0,bn:s00087881v:21.0,bn:s00084848v:21.0,bn:s00093720v:11.0,bn:s00003793n:15.0,bn:s00082721v:10.0,bn:s00093359v:8.0,bn:s00089885v:9.0,bn:s00090897v:24.0,bn:s00087788v:11.0,bn:s00088585v:13.0,bn:s00092527v:14.0,bn:s00075427n:42.0,bn:s00085310v:21.0,bn:s00087175v:9.0,bn:s00093412v:11.0,bn:s00087940v:7.0,bn:s00032277n:7.0,bn:s00074790n:23.0,bn:s00051970n:14.0,bn:s00075433n:19.0,bn:s00091568v:8.0,bn:s00032093n:10.0,bn:s00093168v:11.0,bn:s00047354n:7.0,bn:s00082924v:33.0,bn:s00088871v:15.0,bn:s00055682n:41.0,bn:s00032098n:9.0,bn:s00086067v:28.0,bn:s00097040a:35.0,bn:s00082843v:12.0,bn:s00089474v:21.0,bn:s00088928v:12.0,bn:s00088912v:46.0,bn:s00045243n:14.0 .
+frame:Justifying skos:closeMatch bn:s00025875n:11.0,bn:s00086452v:10.0,bn:s00082234v:11.0,bn:s00090026v:19.0,bn:s00087819v:35.0,bn:s00082678v:29.0,bn:s00048675n:42.0 .
+frame:Breaking_off skos:closeMatch bn:s00085941v:9.0,bn:s00083959v:10.0,bn:s00083901v:30.0 .
+frame:Possibility skos:closeMatch bn:s00084450v:24.0 .
+frame:Existence skos:closeMatch bn:s00092756v:40.0,bn:s00102543a:32.0,bn:s00083184v:13.0,bn:s00009676n:142.0 .
+frame:Accoutrements skos:closeMatch bn:s00043303n:14.0,bn:s00009389n:84.0,bn:s00005710n:24.0,bn:s00081177n:59.0,bn:s00077156n:18.0,bn:s00024320n:52.0,bn:s00018680n:38.0,bn:s00053269n:10.0,bn:s00040909n:49.0,bn:s00012503n:82.0,bn:s00007896n:60.0,bn:s00077172n:39.0,bn:s00019179n:7.0,bn:s00004295n:41.0,bn:s00008351n:101.0,bn:s00043283n:15.0,bn:s00043306n:51.0,bn:s00012961n:44.0,bn:s00012035n:45.0,bn:s00008298n:20.0,bn:s00048188n:61.0,bn:s00015398n:26.0,bn:s00017718n:60.0,bn:s00042555n:42.0,bn:s00022802n:20.0,bn:s00057698n:40.0,bn:s00051784n:33.0,bn:s00072015n:8.0,bn:s00032547n:78.0,bn:s00010065n:43.0,bn:s00014362n:35.0,bn:s00043621n:9.0,bn:s00073567n:24.0,bn:s00005727n:7.0,bn:s00057144n:42.0,bn:s00008287n:66.0,bn:s00010003n:55.0,bn:s00077742n:42.0,bn:s00029423n:62.0,bn:s00053637n:50.0,bn:s00043624n:29.0,bn:s00061344n:41.0,bn:s00042556n:28.0,bn:s00011687n:86.0,bn:s00043330n:10.0,bn:s00041135n:25.0,bn:s00023484n:35.0,bn:s00008028n:46.0,bn:s00072782n:41.0,bn:s00066864n:39.0,bn:s00020484n:22.0,bn:s00025766n:100.0,bn:s00019120n:70.0,bn:s00032846n:49.0,bn:s00009823n:54.0,bn:s00078617n:46.0,bn:s00033938n:95.0,bn:s00011716n:42.0,bn:s00034200n:60.0,bn:s00072439n:42.0,bn:s00024072n:41.0,bn:s00055360n:60.0,bn:s00000677n:16.0,bn:s00017489n:25.0,bn:s00008350n:21.0 .
+frame:Artifact skos:closeMatch bn:s00080972n:55.0,bn:s00010525n:132.0,bn:s00005956n:38.0,bn:s00005105n:160.0 .
+frame:Adjusting skos:closeMatch bn:s00062464n:5.0,bn:s00084378v:27.0,bn:s00014732n:66.0,bn:s00001411n:8.0,bn:s00082357v:27.0,bn:s00088214v:11.0 .
+frame:Relational_natural_features skos:closeMatch bn:s00023758n:86.0,bn:s00035730n:28.0,bn:s00008363n:49.0,bn:s00026081n:126.0,bn:s00070006n:14.0,bn:s00071240n:12.0,bn:s00031676n:77.0,bn:s00020164n:45.0,bn:s00056135n:61.0,bn:s00009635n:45.0,bn:s00071235n:36.0 .
+frame:Labeling skos:closeMatch bn:s00094878v:5.0,bn:s00090150v:10.0,bn:s00084385v:18.0,bn:s00083882v:26.0 .
+frame:Passing skos:closeMatch bn:s00088825v:32.0 .
+frame:Travel skos:closeMatch bn:s00019181n:20.0,bn:s00089993v:16.0,bn:s00058579n:10.0,bn:s00078085n:40.0,bn:s00048463n:26.0,bn:s00091023v:18.0,bn:s00040341n:10.0,bn:s00062395n:36.0,bn:s00078318n:14.0,bn:s00032163n:60.0,bn:s00095049v:7.0,bn:s00061538n:11.0,bn:s00085444v:20.0,bn:s00089951v:6.0,bn:s00015053n:32.0,bn:s00078093n:40.0,bn:s00058656n:6.0 .
+frame:Cause_temperature_change skos:closeMatch bn:s00092700v:6.0,bn:s00095637v:9.0,bn:s00095639v:10.0,bn:s00091308v:11.0,bn:s00089282v:24.0,bn:s00084893v:12.0,bn:s00092655v:7.0 .
+frame:Part_edge skos:closeMatch bn:s00029748n:19.0 .
+frame:Removing_scenario skos:closeMatch .
+frame:Ceasing_to_be skos:closeMatch bn:s00027726n:7.0,bn:s00027428n:6.0,bn:s00083993v:22.0,bn:s00087040v:7.0,bn:s00086879v:11.0,bn:s00087959v:9.0 .
+frame:Change_resistance skos:closeMatch bn:s00084226v:4.0,bn:s00083855v:15.0,bn:s00084329v:6.0 .
+frame:Cause_to_amalgamate skos:closeMatch bn:s00090746v:15.0,bn:s00085662v:15.0,bn:s00082565v:12.0,bn:s00088013v:20.0,bn:s00084962v:6.0,bn:s00090009v:13.0,bn:s00083597v:52.0,bn:s00090008v:7.0,bn:s00082374v:8.0,bn:s00085315v:14.0,bn:s00085892v:11.0,bn:s00083595v:13.0 .
+frame:Frugality skos:closeMatch bn:s00093386v:9.0,bn:s00113719a:11.0,bn:s00069538n:52.0,bn:s00083055v:55.0,bn:s00083657v:24.0,bn:s00029684n:10.0,bn:s00032484n:7.0,bn:s00111890a:16.0,bn:s00006263n:43.0,bn:s00036685n:40.0,bn:s00085645v:15.0,bn:s00060754n:31.0 .
+frame:Dynamic_situation_scenario skos:closeMatch .
+frame:Appeal skos:closeMatch bn:s00005019n:101.0,bn:s00082686v:32.0,bn:s00091741v:7.0,bn:s00005031n:22.0,bn:s00097358a:15.0 .
+frame:Candidness skos:closeMatch bn:s00110658a:12.0,bn:s00011612n:7.0,bn:s00104302a:26.0,bn:s00111085a:10.0,bn:s00112148a:18.0,bn:s00101520a:9.0,bn:s00097554a:11.0,bn:s00029412n:6.0,bn:s00044620n:40.0,bn:s00097536a:32.0,bn:s00102589a:21.0,bn:s00015207n:19.0 .
+frame:Size skos:closeMatch bn:s00106058a:16.0,bn:s00098342a:40.0 .
+frame:Being_located skos:closeMatch bn:s00090321v:9.0,bn:s00094275v:8.0,bn:s00093776v:16.0 .
+frame:Renting_out skos:closeMatch bn:s00090267v:13.0,bn:s00090268v:23.0 .
+frame:Sleep_wake_cycle skos:closeMatch .
+frame:Dominate_competitor skos:closeMatch bn:s00101687a:20.0,bn:s00074738n:32.0,bn:s00028175n:16.0,bn:s00087152v:9.0 .
+frame:Terms_of_agreement skos:closeMatch bn:s00060586n:8.0,bn:s00021644n:19.0,bn:s00006123n:19.0,bn:s00021649n:45.0,bn:s00021645n:18.0,bn:s00064921n:12.0 .
+frame:Reshaping skos:closeMatch bn:s00088490v:16.0,bn:s00025950n:37.0,bn:s00084779v:13.0,bn:s00084181v:12.0,bn:s00092158v:8.0,bn:s00085245v:18.0,bn:s00086115v:49.0,bn:s00086004v:23.0,bn:s00093083v:12.0,bn:s00086161v:12.0,bn:s00093900v:13.0,bn:s00084630v:41.0,bn:s00088411v:22.0,bn:s00088285v:15.0,bn:s00083402v:19.0,bn:s00086590v:7.0,bn:s00090218v:6.0 .
+frame:Friendly_or_hostile skos:closeMatch .
+frame:Taking_sides skos:closeMatch bn:s00111492a:12.0,bn:s00082983v:38.0,bn:s00030815n:39.0,bn:s00001456n:16.0,bn:s00007799n:15.0,bn:s00071432n:12.0,bn:s00116704r:5.0,bn:s00093715v:9.0,bn:s00091180v:7.0,bn:s00083369v:27.0,bn:s00059186n:13.0,bn:s00082981v:14.0 .
+frame:Punctual_perception skos:closeMatch bn:s00023260n:10.0,bn:s00088889v:9.0 .
+frame:Hostile_encounter skos:closeMatch bn:s00085595v:21.0,bn:s00028074n:15.0,bn:s00012450n:10.0,bn:s00021783n:15.0,bn:s00028625n:57.0,bn:s00020858n:37.0,bn:s00034887n:12.0,bn:s00010243n:42.0,bn:s00087415v:11.0,bn:s00074667n:7.0,bn:s00004467n:8.0,bn:s00080440n:13.0,bn:s00042505n:10.0,bn:s00013493n:17.0,bn:s00083173v:28.0,bn:s00085711v:22.0,bn:s00042241n:25.0,bn:s00085047v:13.0,bn:s00021782n:19.0,bn:s00001789n:26.0,bn:s00001737n:52.0,bn:s00093400v:19.0,bn:s00093823v:9.0,bn:s00083891v:18.0,bn:s00095633v:10.0,bn:s00010514n:56.0,bn:s00009080n:21.0,bn:s00012843n:12.0,bn:s00025510n:65.0,bn:s00029212n:19.0 .
+frame:Rebellion skos:closeMatch .
+frame:People_by_morality skos:closeMatch bn:s00026055n:10.0,bn:s00023815n:48.0,bn:s00055283n:6.0,bn:s00058677n:23.0,bn:s00025959n:27.0,bn:s00032053n:14.0,bn:s00069789n:58.0,bn:s00015163n:43.0,bn:s00068856n:51.0 .
+frame:Waiting skos:closeMatch bn:s00095593v:10.0 .
+frame:Exercising skos:closeMatch bn:s00087831v:8.0,bn:s00087830v:17.0,bn:s00032203n:99.0 .
+frame:Relation_between_individuals skos:closeMatch .
+frame:Linguistic_meaning skos:closeMatch bn:s00086587v:12.0,bn:s00089805v:16.0,bn:s00047196n:23.0,bn:s00026251n:68.0,bn:s00086585v:5.0,bn:s00096935a:14.0,bn:s00112563a:23.0,bn:s00046139n:31.0,bn:s00070498n:66.0,bn:s00021927n:60.0 .
+frame:Convoy skos:closeMatch .
+frame:Project skos:closeMatch bn:s00062759n:71.0,bn:s00059783n:35.0,bn:s00064665n:5.0 .
+frame:Criminal_investigation skos:closeMatch bn:s00019749n:26.0,bn:s00087788v:11.0,bn:s00030952n:26.0,bn:s00047354n:7.0,bn:s00047355n:33.0,bn:s00087655v:26.0,bn:s00050341n:29.0 .
+frame:Social_event_individuals skos:closeMatch .
+frame:Fields skos:closeMatch bn:s00053823n:79.0,bn:s00007985n:66.0,bn:s00046575n:15.0,bn:s00104995a:16.0,bn:s00051538n:52.0,bn:s00028609n:106.0,bn:s00005927n:96.0,bn:s00097552a:18.0,bn:s00044267n:15.0,bn:s00005513n:18.0,bn:s00070206n:11.0 .
+frame:Organization skos:closeMatch bn:s00059480n:45.0,bn:s00021019n:16.0,bn:s00047026n:76.0,bn:s00041942n:32.0,bn:s00050409n:13.0,bn:s00007299n:64.0,bn:s00021015n:77.0,bn:s00001961n:158.0,bn:s00013379n:156.0,bn:s00006539n:52.0,bn:s00016300n:103.0,bn:s00079093n:22.0,bn:s00020039n:122.0 .
+frame:Locating skos:closeMatch bn:s00084231v:28.0,bn:s00090423v:15.0 .
+frame:People_by_vocation skos:closeMatch bn:s00048461n:70.0,bn:s00058776n:7.0,bn:s00073243n:6.0,bn:s00016191n:21.0,bn:s00007051n:106.0,bn:s00058698n:57.0,bn:s00014175n:24.0,bn:s00079883n:88.0,bn:s00019735n:50.0,bn:s00077792n:13.0,bn:s00047356n:30.0,bn:s00059139n:82.0,bn:s00064601n:55.0,bn:s00073685n:81.0,bn:s00069680n:49.0,bn:s00067423n:74.0,bn:s00001598n:61.0,bn:s00007312n:53.0,bn:s00048488n:44.0,bn:s00007018n:22.0,bn:s00001973n:24.0,bn:s00003200n:41.0,bn:s00033687n:52.0,bn:s00076338n:25.0,bn:s00052701n:50.0,bn:s00080344n:53.0,bn:s00023221n:45.0,bn:s00072698n:53.0,bn:s00001181n:19.0,bn:s00066513n:18.0,bn:s00005390n:20.0,bn:s00012135n:24.0,bn:s00005435n:66.0,bn:s00027366n:20.0,bn:s00068933n:12.0,bn:s00109067a:34.0,bn:s00005106n:36.0,bn:s00057562n:31.0,bn:s00008572n:50.0,bn:s00054972n:63.0,bn:s00042081n:118.0,bn:s00063277n:47.0,bn:s00028360n:48.0,bn:s00070648n:73.0,bn:s00037329n:11.0 .
+frame:Soaking_up skos:closeMatch bn:s00094159v:9.0,bn:s00082172v:26.0 .
+frame:Interrupt_process skos:closeMatch bn:s00100385a:42.0,bn:s00083995v:10.0,bn:s00012907n:19.0 .
+frame:Temporary_transfer_scenario skos:closeMatch .
+frame:Ride_vehicle skos:closeMatch bn:s00024122n:14.0,bn:s00084351v:5.0,bn:s00094732v:23.0,bn:s00084304v:4.0,bn:s00086103v:16.0,bn:s00035207n:42.0,bn:s00085233v:5.0,bn:s00088378v:30.0,bn:s00089963v:5.0,bn:s00093231v:23.0,bn:s00028783n:15.0,bn:s00089363v:9.0,bn:s00093014v:17.0 .
+frame:Hiring skos:closeMatch bn:s00087576v:22.0,bn:s00085424v:11.0,bn:s00092928v:13.0,bn:s00085726v:12.0,bn:s00085725v:9.0,bn:s00021017n:8.0,bn:s00044230n:8.0,bn:s00082277v:36.0,bn:s00088043v:7.0 .
+frame:Optical_image skos:closeMatch bn:s00071583n:7.0,bn:s00028343n:75.0,bn:s00025235n:8.0 .
+frame:Treating_and_mistreating skos:closeMatch .
+frame:Apply_heat skos:closeMatch bn:s00083737v:12.0,bn:s00093762v:8.0,bn:s00083535v:27.0,bn:s00089045v:6.0,bn:s00093277v:8.0,bn:s00094321v:12.0,bn:s00083875v:6.0,bn:s00085249v:8.0,bn:s00083549v:28.0,bn:s00083044v:16.0,bn:s00086042v:22.0,bn:s00085785v:10.0,bn:s00093069v:31.0,bn:s00094350v:16.0,bn:s00091785v:7.0,bn:s00090769v:33.0,bn:s00093298v:7.0,bn:s00084141v:12.0,bn:s00088607v:17.0,bn:s00091690v:9.0,bn:s00089729v:15.0,bn:s00083110v:18.0,bn:s00093752v:10.0 .
+frame:Typicality skos:closeMatch bn:s00113495a:9.0,bn:s00111281a:32.0,bn:s00107963a:25.0,bn:s00107587a:34.0 .
+frame:Concessive skos:closeMatch bn:s00114216r:50.0 .
+frame:Working_a_post skos:closeMatch .
+frame:Reason skos:closeMatch bn:s00041881n:12.0,bn:s00008786n:28.0,bn:s00056037n:86.0,bn:s00080992n:14.0 .
+frame:Forgoing skos:closeMatch bn:s00086186v:14.0,bn:s00082178v:11.0,bn:s00088453v:14.0,bn:s00000486n:7.0,bn:s00082660v:22.0,bn:s00035763n:23.0 .
+frame:Setting_back_burn skos:closeMatch .
+frame:Negative_conditional skos:closeMatch .
+frame:Halt skos:closeMatch bn:s00089154v:20.0 .
+frame:Intoxication skos:closeMatch bn:s00078319n:15.0,bn:s00110837a:10.0,bn:s00101836a:40.0 .
+frame:Replacing skos:closeMatch bn:s00087802v:28.0,bn:s00084773v:11.0,bn:s00021264n:23.0,bn:s00067169n:24.0,bn:s00082553v:27.0,bn:s00094650v:14.0 .
+frame:Calendric_unit skos:closeMatch bn:s00035996n:31.0,bn:s00007406n:62.0,bn:s00055094n:40.0,bn:s00080815n:17.0,bn:s00043484n:37.0,bn:s00068672n:61.0,bn:s00053941n:49.0,bn:s00047960n:39.0,bn:s00001875n:39.0,bn:s00054897n:59.0,bn:s00044982n:15.0,bn:s00065579n:11.0,bn:s00025646n:24.0,bn:s00077463n:22.0,bn:s00028190n:77.0,bn:s00007205n:117.0,bn:s00078738n:67.0,bn:s00068614n:20.0,bn:s00080822n:6.0,bn:s00080816n:72.0,bn:s00014710n:9.0,bn:s00025645n:38.0,bn:s00058192n:54.0,bn:s00035851n:72.0,bn:s00077549n:14.0,bn:s00081909n:15.0,bn:s00005169n:54.0,bn:s00048548n:48.0,bn:s00055609n:51.0,bn:s00025236n:55.0,bn:s00001937n:16.0,bn:s00031998n:52.0,bn:s00023747n:197.0,bn:s00017234n:52.0,bn:s00075151n:112.0,bn:s00068696n:72.0,bn:s00000086n:81.0,bn:s00076744n:55.0,bn:s00033882n:54.0,bn:s00053318n:43.0,bn:s00031261n:55.0,bn:s00007140n:54.0,bn:s00055031n:44.0,bn:s00070537n:62.0,bn:s00036512n:69.0,bn:s00054884n:48.0,bn:s00044075n:81.0,bn:s00073636n:59.0,bn:s00014712n:37.0,bn:s00048592n:52.0,bn:s00058593n:52.0,bn:s00077575n:12.0,bn:s00078546n:58.0,bn:s00081370n:94.0 .
+frame:Resolve_problem skos:closeMatch bn:s00084527v:24.0,bn:s00088249v:9.0,bn:s00088162v:48.0,bn:s00082339v:32.0,bn:s00092897v:13.0,bn:s00085042v:15.0,bn:s00088968v:9.0 .
+frame:Deserving skos:closeMatch bn:s00086670v:12.0,bn:s00090025v:18.0,bn:s00090024v:21.0,bn:s00080504n:45.0,bn:s00084385v:18.0,bn:s00032045n:15.0 .
+frame:Citing skos:closeMatch .
+frame:Remembering_to_do skos:closeMatch bn:s00084413v:50.0,bn:s00084302v:20.0 .
+frame:Commemorative skos:closeMatch bn:s00012562n:39.0,bn:s00049575n:35.0,bn:s00010678n:15.0,bn:s00018836n:104.0 .
+frame:Containing skos:closeMatch bn:s00082217v:26.0,bn:s00085499v:23.0,bn:s00089489v:11.0 .
+frame:Disaster_scenario skos:closeMatch .
+frame:Certainty skos:closeMatch bn:s00085261v:36.0,bn:s00017362n:28.0,bn:s00104809a:29.0,bn:s00099475a:30.0,bn:s00083095v:47.0,bn:s00087190v:18.0,bn:s00027448n:15.0,bn:s00028425n:58.0,bn:s00028427n:36.0,bn:s00006565n:60.0,bn:s00083369v:27.0 .
+frame:Make_agreement_on_action skos:closeMatch bn:s00082475v:20.0,bn:s00008568n:17.0,bn:s00000728n:110.0,bn:s00002088n:10.0 .
+frame:Preliminaries skos:closeMatch bn:s00064147n:8.0,bn:s00008786n:28.0,bn:s00102594a:20.0 .
+frame:Suasion skos:closeMatch bn:s00086710v:10.0,bn:s00082313v:16.0,bn:s00084573v:12.0,bn:s00085767v:31.0 .
+frame:Piracy skos:closeMatch bn:s00044115n:11.0,bn:s00016091n:29.0,bn:s00044114n:41.0,bn:s00084537v:11.0,bn:s00013561n:17.0,bn:s00085405v:26.0 .
+frame:Preventing_or_letting skos:closeMatch .
+frame:Imposing_obligation skos:closeMatch bn:s00083496v:14.0,bn:s00017794n:16.0,bn:s00082822v:41.0,bn:s00084808v:7.0,bn:s00085428v:22.0,bn:s00091752v:7.0 .
+frame:Correctness skos:closeMatch bn:s00022853n:14.0,bn:s00104880a:27.0,bn:s00096292a:18.0,bn:s00100490a:32.0 .
+frame:Being_dry skos:closeMatch bn:s00101839a:35.0 .
+frame:Body_decoration skos:closeMatch bn:s00008782n:87.0,bn:s00076204n:25.0,bn:s00011619n:25.0,bn:s00032553n:35.0,bn:s00052907n:70.0,bn:s00032557n:32.0,bn:s00049394n:11.0,bn:s00053619n:29.0,bn:s00051447n:34.0 .
+frame:Execution skos:closeMatch bn:s00087820v:23.0,bn:s00032178n:50.0,bn:s00089114v:21.0,bn:s00042857n:53.0,bn:s00082225v:34.0,bn:s00034724n:58.0,bn:s00043324n:8.0,bn:s00015656n:114.0,bn:s00042863n:16.0,bn:s00089180v:12.0 .
+frame:Forgiveness skos:closeMatch bn:s00085564v:14.0,bn:s00035898n:10.0,bn:s00088483v:30.0,bn:s00087817v:8.0 .
+frame:Emergency skos:closeMatch .
+frame:Shaped_part skos:closeMatch bn:s00067867n:18.0,bn:s00041820n:54.0,bn:s00005702n:48.0,bn:s00013135n:12.0,bn:s00050541n:56.0,bn:s00056135n:61.0 .
+frame:Getting_vehicle_underway skos:closeMatch bn:s00087732v:15.0,bn:s00090338v:6.0,bn:s00092783v:30.0,bn:s00084631v:16.0,bn:s00087237v:18.0,bn:s00095702v:7.0 .
+frame:Hair_configuration skos:closeMatch bn:s00098578a:22.0,bn:s00042548n:15.0,bn:s00024493n:25.0,bn:s00100787a:13.0,bn:s00024608n:24.0,bn:s00012673n:42.0,bn:s00100817a:9.0,bn:s00042526n:92.0,bn:s00080689n:6.0,bn:s00077635n:13.0,bn:s00020483n:64.0,bn:s00063531n:61.0,bn:s00062371n:22.0,bn:s00086162v:12.0 .
+frame:Rest skos:closeMatch bn:s00085474v:14.0,bn:s00008047n:36.0,bn:s00021354n:47.0 .
+frame:Notification_of_charges skos:closeMatch bn:s00017790n:12.0,bn:s00082250v:15.0,bn:s00089683v:9.0,bn:s00010411n:42.0 .
+frame:Social_connection skos:closeMatch bn:s00100287a:4.0,bn:s00021902n:21.0,bn:s00011973n:46.0,bn:s00051401n:17.0,bn:s00099858a:22.0,bn:s00019946n:22.0 .
+frame:Choosing skos:closeMatch bn:s00018661n:68.0,bn:s00091590v:16.0,bn:s00087517v:13.0,bn:s00088254v:11.0,bn:s00018660n:15.0,bn:s00084932v:23.0,bn:s00084931v:39.0,bn:s00086370v:28.0 .
+frame:Level_of_force_resistance skos:closeMatch .
+frame:Commerce_collect skos:closeMatch bn:s00085288v:21.0,bn:s00083486v:18.0 .
+frame:Means skos:closeMatch bn:s00064536n:25.0,bn:s00005141n:26.0,bn:s00076341n:15.0,bn:s00023287n:17.0,bn:s00058360n:17.0,bn:s00001965n:24.0,bn:s00033729n:50.0,bn:s00035960n:14.0,bn:s00055504n:14.0,bn:s00053172n:54.0,bn:s00018115n:36.0,bn:s00054625n:48.0 .
+frame:Having_or_lacking_access skos:closeMatch bn:s00096255a:10.0,bn:s00000661n:35.0 .
+frame:Fire_going_out skos:closeMatch .
+frame:Part_whole skos:closeMatch bn:s00036165n:15.0,bn:s00058989n:15.0,bn:s00027912n:25.0,bn:s00045220n:24.0,bn:s00042602n:15.0,bn:s00065577n:11.0,bn:s00029987n:12.0,bn:s00034353n:7.0,bn:s00058990n:32.0,bn:s00060764n:42.0,bn:s00070193n:86.0 .
+frame:Misdeed skos:closeMatch bn:s00071708n:10.0,bn:s00093756v:18.0,bn:s00046512n:8.0,bn:s00032054n:35.0,bn:s00083897v:49.0,bn:s00055274n:41.0 .
+frame:Attempt_obtain_food_scenario skos:closeMatch .
+frame:Funding skos:closeMatch .
+frame:Animals skos:closeMatch .
+frame:Food_gathering skos:closeMatch bn:s00085289v:13.0,bn:s00086141v:32.0,bn:s00088884v:21.0,bn:s00084088v:17.0 .
+frame:Openness skos:closeMatch bn:s00107880a:19.0,bn:s00099876a:14.0 .
+frame:Experimentation skos:closeMatch .
+frame:Bungling skos:closeMatch bn:s00083055v:55.0,bn:s00088518v:7.0,bn:s00036805n:26.0,bn:s00011608n:23.0,bn:s00093892v:7.0,bn:s00088343v:9.0,bn:s00086699v:18.0,bn:s00008209n:12.0,bn:s00025613n:14.0 .
+frame:Transition_to_a_situation skos:closeMatch .
+frame:Win_prize skos:closeMatch bn:s00095777v:25.0 .
+frame:Triggering skos:closeMatch .
+frame:Fire_burning skos:closeMatch .
+frame:Aiming skos:closeMatch bn:s00082485v:38.0,bn:s00002179n:57.0,bn:s00032742n:54.0,bn:s00082489v:17.0 .
+frame:Emotions skos:closeMatch .
+frame:Alternatives skos:closeMatch .
+frame:Employment_scenario skos:closeMatch .
+frame:Basis_for_attribute skos:closeMatch .
+frame:Response_scenario skos:closeMatch .
+frame:Launch_process skos:closeMatch bn:s00090216v:11.0 .
+frame:Cause_change_of_strength skos:closeMatch bn:s00083317v:32.0,bn:s00095682v:9.0,bn:s00092613v:11.0 .
+frame:Frequency skos:closeMatch bn:s00061605n:27.0,bn:s00036471n:73.0,bn:s00114250r:21.0,bn:s00108458a:15.0,bn:s00114251r:26.0,bn:s00103324a:10.0,bn:s00105097a:14.0,bn:s00116326r:21.0,bn:s00111059a:17.0,bn:s00116424r:13.0,bn:s00115452r:31.0,bn:s00114917r:10.0,bn:s00116787r:13.0,bn:s00117070r:15.0,bn:s00114431r:41.0,bn:s00047229n:20.0,bn:s00066236n:37.0,bn:s00115929r:18.0 .
+frame:Gathering_up skos:closeMatch bn:s00082246v:28.0,bn:s00085752v:11.0,bn:s00086090v:15.0,bn:s00090726v:9.0,bn:s00082247v:29.0,bn:s00082846v:26.0 .
+frame:Inspecting skos:closeMatch bn:s00046920n:47.0,bn:s00082596v:44.0,bn:s00084848v:21.0,bn:s00088585v:13.0,bn:s00032093n:10.0,bn:s00092527v:14.0,bn:s00089776v:11.0,bn:s00087175v:9.0 .
+frame:Responsibility skos:closeMatch .
+frame:Visiting_scenario_departing skos:closeMatch .
+frame:Cause_change_of_consistency skos:closeMatch bn:s00086156v:8.0,bn:s00089207v:12.0,bn:s00085604v:9.0,bn:s00089782v:13.0,bn:s00094019v:9.0,bn:s00094902v:7.0,bn:s00085188v:10.0,bn:s00089783v:12.0,bn:s00089208v:8.0 .
+frame:Becoming_dry skos:closeMatch bn:s00087401v:17.0,bn:s00086509v:11.0 .
+frame:Soaking skos:closeMatch bn:s00093998v:8.0,bn:s00090658v:19.0 .
+frame:Temporal_pattern skos:closeMatch bn:s00109827a:14.0,bn:s00019848n:15.0,bn:s00009396n:85.0,bn:s00116859r:8.0 .
+frame:Volubility skos:closeMatch bn:s00104840a:8.0,bn:s00109713a:16.0,bn:s00067297n:16.0,bn:s00109359a:31.0,bn:s00113666a:13.0,bn:s00011624n:8.0,bn:s00017957n:37.0,bn:s00111613a:5.0,bn:s00037371n:20.0 .
+frame:Summarizing skos:closeMatch bn:s00083741v:9.0,bn:s00000489n:68.0,bn:s00082392v:32.0,bn:s00092916v:14.0 .
+frame:Experiencer_focus skos:closeMatch bn:s00092683v:17.0,bn:s00087646v:11.0,bn:s00087571v:11.0,bn:s00092877v:8.0,bn:s00085458v:8.0,bn:s00000298n:63.0,bn:s00083145v:38.0,bn:s00030916n:8.0,bn:s00001497n:22.0,bn:s00085702v:31.0,bn:s00004710n:25.0,bn:s00089044v:10.0,bn:s00022000n:20.0,bn:s00086983v:12.0,bn:s00082385v:12.0,bn:s00105275a:30.0,bn:s00036761n:8.0,bn:s00066917n:34.0,bn:s00021319n:17.0,bn:s00030588n:39.0,bn:s00096625a:23.0,bn:s00026577n:45.0,bn:s00086519v:26.0,bn:s00114585r:20.0,bn:s00042286n:18.0,bn:s00027620n:17.0,bn:s00086688v:18.0,bn:s00115362r:10.0,bn:s00090940v:7.0,bn:s00062972n:50.0,bn:s00010788n:60.0,bn:s00087703v:13.0,bn:s00031073n:68.0,bn:s00020913n:9.0,bn:s00005133n:25.0,bn:s00087284v:29.0,bn:s00082136v:27.0,bn:s00090362v:23.0,bn:s00089697v:8.0,bn:s00086717v:28.0,bn:s00069327n:17.0,bn:s00100444a:24.0,bn:s00043140n:60.0 .
+frame:Emotions_by_possibility skos:closeMatch .
+frame:Sidereal_appearance skos:closeMatch bn:s00082757v:28.0,bn:s00082809v:18.0,bn:s00006253n:10.0 .
+frame:Make_compromise skos:closeMatch .
+frame:Ingest_substance skos:closeMatch bn:s00088459v:14.0,bn:s00077502n:13.0,bn:s00085689v:25.0,bn:s00089503v:13.0,bn:s00082705v:58.0,bn:s00087106v:13.0,bn:s00093939v:24.0,bn:s00089748v:11.0,bn:s00088192v:9.0,bn:s00087216v:11.0,bn:s00087234v:52.0,bn:s00028572n:28.0,bn:s00091847v:12.0,bn:s00093978v:8.0 .
+frame:Contacting skos:closeMatch bn:s00085630v:11.0,bn:s00091387v:8.0,bn:s00022114n:13.0,bn:s00085489v:27.0,bn:s00084393v:18.0,bn:s00014791n:58.0,bn:s00093047v:12.0,bn:s00094861v:8.0,bn:s00092306v:8.0,bn:s00088773v:15.0,bn:s00087450v:10.0,bn:s00084422v:6.0,bn:s00084387v:48.0,bn:s00087952v:26.0,bn:s00084354v:18.0,bn:s00082790v:31.0,bn:s00085696v:29.0 .
+frame:Short_selling skos:closeMatch .
+frame:Amounting_to skos:closeMatch bn:s00003604n:20.0,bn:s00085859v:27.0,bn:s00082327v:21.0,bn:s00068547n:29.0 .
+frame:Causation_scenario skos:closeMatch .
+frame:Completeness skos:closeMatch bn:s00100144a:21.0,bn:s00021366n:37.0,bn:s00104851a:27.0 .
+frame:Thriving skos:closeMatch bn:s00083781v:19.0,bn:s00090185v:14.0,bn:s00088347v:19.0,bn:s00028834n:20.0,bn:s00064820n:14.0,bn:s00085334v:17.0,bn:s00087106v:13.0 .
+frame:Occupy_rank skos:closeMatch bn:s00094275v:8.0,bn:s00092364v:9.0,bn:s00111992a:6.0 .
+frame:Identity_scenario skos:closeMatch .
+frame:Process_end skos:closeMatch bn:s00084711v:51.0,bn:s00085529v:7.0,bn:s00019918n:23.0,bn:s00087905v:32.0,bn:s00030719n:11.0 .
+frame:Judicial_body skos:closeMatch bn:s00048503n:73.0,bn:s00023301n:59.0 .
+frame:Wealthiness skos:closeMatch bn:s00112592a:19.0,bn:s00109833a:13.0,bn:s00046157n:66.0,bn:s00109029a:9.0,bn:s00108798a:21.0 .
+frame:Expansion skos:closeMatch bn:s00089083v:12.0,bn:s00087849v:9.0,bn:s00083681v:17.0,bn:s00089872v:12.0,bn:s00030922n:21.0,bn:s00085728v:18.0,bn:s00021440n:12.0,bn:s00087535v:18.0,bn:s00092592v:13.0,bn:s00090291v:9.0,bn:s00102595a:18.0,bn:s00086833v:25.0 .
+frame:Locale_by_use skos:closeMatch bn:s00015795n:61.0,bn:s00113439a:16.0,bn:s00014155n:78.0,bn:s00071215n:46.0,bn:s00040492n:69.0,bn:s00005940n:64.0,bn:s00071616n:23.0,bn:s00020643n:33.0,bn:s00049551n:62.0,bn:s00043507n:75.0,bn:s00019319n:110.0,bn:s00008781n:26.0,bn:s00079152n:78.0,bn:s00015097n:51.0,bn:s00063640n:59.0,bn:s00017134n:123.0,bn:s00042918n:91.0,bn:s00037300n:59.0,bn:s00046952n:28.0,bn:s00049847n:10.0,bn:s00109998a:11.0,bn:s00036107n:61.0,bn:s00054316n:83.0,bn:s00023301n:59.0,bn:s00055114n:24.0,bn:s00032675n:63.0,bn:s00042729n:30.0,bn:s00058245n:74.0,bn:s00013729n:15.0,bn:s00023248n:13.0,bn:s00017185n:17.0,bn:s00081570n:12.0,bn:s00021051n:98.0,bn:s00023310n:61.0,bn:s00069619n:48.0,bn:s00013984n:76.0,bn:s00005513n:18.0,bn:s00046568n:49.0,bn:s00070724n:71.0,bn:s00029545n:57.0,bn:s00056426n:73.0,bn:s00002286n:30.0,bn:s00032645n:44.0,bn:s00016808n:66.0,bn:s00045002n:41.0,bn:s00015145n:35.0,bn:s00033676n:67.0,bn:s00026388n:32.0,bn:s00063147n:33.0 .
+frame:Confronting_problem skos:closeMatch bn:s00085596v:20.0 .
+frame:Being_named skos:closeMatch bn:s00012758n:94.0,bn:s00056758n:49.0,bn:s00061052n:43.0,bn:s00002713n:15.0,bn:s00014355n:120.0,bn:s00052805n:29.0,bn:s00063995n:19.0,bn:s00002054n:22.0,bn:s00045585n:47.0,bn:s00031265n:22.0,bn:s00105645a:20.0,bn:s00054859n:25.0,bn:s00020465n:80.0,bn:s00055306n:4.0,bn:s00057874n:40.0,bn:s00084385v:18.0,bn:s00053864n:32.0,bn:s00073827n:24.0,bn:s00034788n:67.0,bn:s00088912v:46.0,bn:s00008457n:13.0,bn:s00004414n:69.0 .
+frame:Arithmetic skos:closeMatch .
+frame:Prank skos:closeMatch .
+frame:Disembarking skos:closeMatch bn:s00082517v:6.0,bn:s00086340v:16.0,bn:s00086725v:4.0,bn:s00086615v:6.0,bn:s00086995v:8.0,bn:s00025616n:42.0,bn:s00082276v:42.0 .
+frame:Detaining skos:closeMatch bn:s00089829v:26.0,bn:s00046183n:7.0,bn:s00085582v:29.0,bn:s00024587n:6.0,bn:s00089384v:63.0,bn:s00085581v:6.0 .
+frame:Visit_host_departure skos:closeMatch .
+frame:Attitude_description skos:closeMatch .
+frame:Be_in_agreement_on_assessment skos:closeMatch bn:s00002090n:5.0,bn:s00093440v:7.0,bn:s00082475v:20.0 .
+frame:Change_of_phase skos:closeMatch bn:s00082422v:9.0,bn:s00094034v:9.0,bn:s00086318v:10.0,bn:s00086718v:40.0,bn:s00031987n:67.0,bn:s00088559v:26.0,bn:s00021632n:34.0,bn:s00094527v:36.0,bn:s00024485n:45.0,bn:s00088377v:16.0,bn:s00074915n:42.0,bn:s00085552v:10.0,bn:s00087766v:16.0 .
+frame:Shapes skos:closeMatch bn:s00011310n:18.0,bn:s00020491n:35.0,bn:s00074254n:83.0,bn:s00030406n:106.0,bn:s00027749n:46.0,bn:s00019169n:78.0,bn:s00051291n:67.0,bn:s00067704n:24.0,bn:s00032278n:23.0,bn:s00074639n:10.0,bn:s00062766n:51.0,bn:s00099702a:23.0,bn:s00078208n:69.0,bn:s00073714n:16.0,bn:s00024549n:20.0,bn:s00068424n:39.0,bn:s00074702n:10.0,bn:s00079432n:23.0,bn:s00024400n:8.0,bn:s00035909n:50.0,bn:s00008122n:50.0 .
+frame:Opportunity skos:closeMatch bn:s00012896n:15.0,bn:s00017621n:27.0,bn:s00107924a:14.0 .
+frame:Perception_active skos:closeMatch bn:s00073980n:7.0,bn:s00093929v:21.0,bn:s00095665v:12.0,bn:s00093282v:12.0,bn:s00091515v:7.0,bn:s00051968n:25.0,bn:s00090448v:22.0,bn:s00094232v:14.0,bn:s00091519v:11.0,bn:s00037551n:23.0,bn:s00058494n:9.0,bn:s00093726v:13.0,bn:s00082907v:31.0,bn:s00088103v:13.0,bn:s00023260n:10.0,bn:s00072424n:7.0,bn:s00087940v:7.0,bn:s00086708v:45.0,bn:s00061256n:11.0,bn:s00084662v:21.0,bn:s00090400v:12.0,bn:s00087864v:42.0,bn:s00088869v:13.0,bn:s00042275n:67.0,bn:s00088674v:9.0,bn:s00082368v:4.0,bn:s00088705v:17.0,bn:s00093978v:8.0,bn:s00087469v:15.0 .
+frame:Subsisting skos:closeMatch .
+frame:Locale_closure skos:closeMatch .
+frame:Medical_interaction_scenario skos:closeMatch .
+frame:Post_transfer skos:closeMatch .
+frame:Change_of_consistency skos:closeMatch bn:s00089207v:12.0,bn:s00086156v:8.0,bn:s00085604v:9.0,bn:s00094019v:9.0,bn:s00019998n:62.0,bn:s00085188v:10.0,bn:s00089783v:12.0,bn:s00089208v:8.0 .
+frame:Prevent_or_allow_possession skos:closeMatch .
+frame:Communication skos:closeMatch bn:s00083436v:20.0,bn:s00022119n:14.0,bn:s00049914n:17.0,bn:s00093287v:25.0,bn:s00021221n:51.0,bn:s00085436v:9.0,bn:s00085769v:12.0,bn:s00023218n:103.0,bn:s00093733v:22.0 .
+frame:Becoming_a_member skos:closeMatch bn:s00088013v:20.0,bn:s00087211v:8.0,bn:s00093738v:16.0,bn:s00087662v:26.0 .
+frame:Process_stopped_state skos:closeMatch .
+frame:Contingency skos:closeMatch bn:s00026351n:19.0,bn:s00089341v:8.0,bn:s00032661n:16.0,bn:s00082811v:30.0,bn:s00095233v:65.0,bn:s00089187v:10.0,bn:s00104928a:19.0,bn:s00101192a:15.0,bn:s00086606v:5.0,bn:s00036821n:141.0,bn:s00079580n:13.0,bn:s00046406n:24.0 .
+frame:Execute_plan skos:closeMatch bn:s00085671v:26.0,bn:s00029881n:11.0,bn:s00021961n:72.0,bn:s00089621v:8.0,bn:s00035767n:22.0 .
+frame:Change_of_temperature skos:closeMatch .
+frame:Attempt_action_scenario skos:closeMatch .
+frame:Event_endstate skos:closeMatch .
+frame:Friction skos:closeMatch bn:s00089025v:17.0,bn:s00086109v:9.0,bn:s00085998v:19.0,bn:s00091155v:8.0,bn:s00092370v:7.0,bn:s00089026v:8.0 .
+frame:Achieving_first skos:closeMatch bn:s00041927n:55.0,bn:s00091175v:18.0,bn:s00086934v:15.0,bn:s00021533n:12.0,bn:s00089743v:10.0,bn:s00047330n:7.0,bn:s00085743v:38.0,bn:s00020508n:78.0,bn:s00085269v:14.0,bn:s00027529n:30.0,bn:s00006156n:50.0 .
+frame:Being_awake skos:closeMatch bn:s00095665v:12.0,bn:s00100302a:38.0,bn:s00097875a:18.0 .
+frame:Prohibiting_or_licensing skos:closeMatch .
+frame:Committing_crime skos:closeMatch bn:s00023807n:134.0,bn:s00021021n:38.0,bn:s00085426v:27.0 .
+frame:Mental_stimulus_exp_focus skos:closeMatch bn:s00105275a:30.0 .
+frame:Sleep skos:closeMatch bn:s00072101n:77.0,bn:s00084677v:9.0,bn:s00097589a:15.0,bn:s00016628n:87.0,bn:s00112497a:17.0,bn:s00043984n:45.0,bn:s00028514n:6.0,bn:s00049210n:5.0,bn:s00087209v:19.0,bn:s00084684v:12.0,bn:s00089329v:11.0,bn:s00056811n:27.0 .
+frame:Locative_relation skos:closeMatch bn:s00052858n:38.0,bn:s00115639r:15.0,bn:s00091040v:9.0,bn:s00114427r:18.0,bn:s00105126a:7.0,bn:s00082348v:20.0,bn:s00107776a:8.0,bn:s00114212r:25.0,bn:s00115192r:10.0,bn:s00117424r:8.0,bn:s00083860v:6.0,bn:s00082188v:47.0 .
+frame:Path_shape skos:closeMatch bn:s00026499n:7.0,bn:s00086043v:5.0,bn:s00085356v:53.0,bn:s00086173v:26.0,bn:s00085906v:27.0,bn:s00088465v:11.0,bn:s00088932v:13.0,bn:s00088939v:27.0,bn:s00088271v:19.0,bn:s00093824v:7.0,bn:s00085391v:7.0,bn:s00000703n:28.0,bn:s00085966v:17.0,bn:s00082790v:31.0,bn:s00087087v:9.0,bn:s00085363v:19.0,bn:s00086174v:13.0,bn:s00093962v:7.0,bn:s00082613v:21.0,bn:s00083222v:20.0,bn:s00087845v:45.0,bn:s00087563v:9.0,bn:s00085688v:12.0,bn:s00094679v:18.0,bn:s00082803v:18.0,bn:s00087480v:8.0,bn:s00030524n:5.0,bn:s00084486v:9.0,bn:s00093134v:11.0,bn:s00086856v:7.0,bn:s00087365v:14.0,bn:s00090713v:20.0,bn:s00083402v:19.0 .
+frame:Member_of_military skos:closeMatch .
+frame:Quitting skos:closeMatch bn:s00092940v:18.0,bn:s00090280v:16.0,bn:s00067456n:10.0,bn:s00067322n:11.0,bn:s00084451v:65.0,bn:s00088939v:27.0 .
+frame:Jury_deliberation skos:closeMatch bn:s00026037n:23.0,bn:s00085651v:21.0 .
+frame:Commerce_scenario skos:closeMatch bn:s00020982n:49.0,bn:s00014332n:31.0,bn:s00067419n:13.0,bn:s00053479n:21.0,bn:s00022996n:44.0 .
+frame:Change_tool skos:closeMatch bn:s00084773v:11.0,bn:s00084790v:25.0,bn:s00094650v:14.0 .
+frame:Sharpness skos:closeMatch bn:s00101878a:14.0,bn:s00110518a:21.0 .
+frame:Foreign_or_domestic_country skos:closeMatch bn:s00101680a:35.0,bn:s00023241n:79.0,bn:s00000356n:116.0,bn:s00105294a:14.0,bn:s00103205a:13.0 .
+frame:Measure_volume skos:closeMatch bn:s00062919n:13.0,bn:s00013882n:33.0,bn:s00013591n:13.0,bn:s00012493n:10.0,bn:s00056230n:39.0,bn:s00024415n:8.0,bn:s00068241n:13.0,bn:s00014125n:19.0,bn:s00015103n:75.0,bn:s00014179n:9.0,bn:s00011691n:17.0,bn:s00073547n:52.0,bn:s00007922n:25.0,bn:s00007926n:9.0,bn:s00075829n:15.0,bn:s00028756n:21.0,bn:s00024266n:113.0,bn:s00068731n:39.0,bn:s00078102n:18.0,bn:s00065574n:13.0,bn:s00012524n:37.0,bn:s00048516n:36.0,bn:s00012339n:54.0,bn:s00012526n:12.0,bn:s00076326n:48.0,bn:s00069731n:16.0,bn:s00073548n:20.0,bn:s00076046n:5.0,bn:s00062543n:45.0,bn:s00008694n:94.0,bn:s00077929n:28.0,bn:s00009055n:41.0,bn:s00037040n:41.0 .
+frame:Mental_property skos:closeMatch bn:s00105427a:9.0,bn:s00115094r:12.0,bn:s00006672n:17.0,bn:s00116559r:7.0,bn:s00011174n:31.0,bn:s00005134n:86.0,bn:s00099273a:43.0,bn:s00104543a:18.0,bn:s00104786a:10.0,bn:s00110789a:13.0,bn:s00108433a:12.0,bn:s00114673r:12.0,bn:s00114671r:12.0,bn:s00016031n:7.0,bn:s00109507a:33.0,bn:s00030926n:18.0,bn:s00116318r:15.0,bn:s00105243a:18.0,bn:s00107098a:37.0,bn:s00103179a:25.0,bn:s00113905a:17.0,bn:s00035632n:39.0,bn:s00111342a:7.0,bn:s00102261a:9.0,bn:s00107120a:13.0,bn:s00000506n:12.0,bn:s00113121a:8.0,bn:s00012680n:25.0,bn:s00098897a:8.0,bn:s00100784a:31.0,bn:s00096352a:19.0 .
+frame:Bearing_arms skos:closeMatch bn:s00112328a:18.0,bn:s00084554v:22.0,bn:s00097496a:15.0,bn:s00042223n:120.0,bn:s00087237v:18.0,bn:s00097697a:33.0,bn:s00091376v:6.0 .
+frame:Distant_operated_IED skos:closeMatch .
+frame:Dunking skos:closeMatch bn:s00086849v:33.0 .
+frame:Cause_to_burn skos:closeMatch .
+frame:Mining skos:closeMatch .
+frame:Just_found_out skos:closeMatch bn:s00111523a:25.0,bn:s00075413n:20.0,bn:s00011444n:10.0 .
+frame:Becoming_separated skos:closeMatch bn:s00084611v:29.0 .
+frame:Temporal_subregion skos:closeMatch bn:s00062933n:15.0,bn:s00054844n:12.0,bn:s00105755a:32.0,bn:s00101935a:40.0,bn:s00007205n:117.0,bn:s00009633n:32.0,bn:s00030722n:15.0,bn:s00106703a:10.0 .
+frame:Downing skos:closeMatch .
+frame:Performers skos:closeMatch bn:s00001176n:67.0,bn:s00046975n:87.0,bn:s00001181n:19.0 .
+frame:Required_event skos:closeMatch bn:s00083441v:17.0,bn:s00091028v:20.0,bn:s00083461v:18.0 .
+frame:Verification skos:closeMatch bn:s00095516v:13.0,bn:s00089574v:16.0,bn:s00082913v:30.0,bn:s00082434v:32.0,bn:s00017984n:31.0,bn:s00090585v:8.0,bn:s00021757n:5.0 .
+frame:Attempting_and_resolving_scenario skos:closeMatch .
+frame:Be_subset_of skos:closeMatch bn:s00085862v:10.0,bn:s00074971n:74.0 .
+frame:Word_relations skos:closeMatch bn:s00111591a:9.0,bn:s00022257n:23.0,bn:s00045523n:21.0,bn:s00085297v:11.0,bn:s00004785n:58.0,bn:s00045604n:16.0,bn:s00044602n:51.0,bn:s00044593n:41.0,bn:s00031339n:43.0,bn:s00054467n:15.0,bn:s00044598n:45.0,bn:s00104296a:13.0,bn:s00044457n:11.0 .
+frame:Evading skos:closeMatch bn:s00083978v:17.0,bn:s00088291v:14.0,bn:s00083485v:17.0,bn:s00085002v:49.0,bn:s00031992n:11.0 .
+frame:Memory skos:closeMatch bn:s00054300n:54.0,bn:s00084413v:50.0,bn:s00092929v:10.0,bn:s00066478n:51.0 .
+frame:Be_on_alert skos:closeMatch .
+frame:Cause_impact skos:closeMatch bn:s00093211v:11.0,bn:s00094946v:8.0,bn:s00094453v:25.0,bn:s00091810v:17.0,bn:s00085112v:10.0,bn:s00085046v:10.0,bn:s00091757v:16.0,bn:s00085028v:7.0,bn:s00083888v:11.0,bn:s00093919v:10.0,bn:s00085977v:14.0,bn:s00092387v:5.0,bn:s00085135v:10.0,bn:s00093170v:60.0,bn:s00090119v:11.0,bn:s00084145v:31.0,bn:s00089347v:12.0,bn:s00093846v:20.0,bn:s00083077v:7.0,bn:s00089931v:11.0 .
+frame:Taking_time skos:closeMatch bn:s00102802a:26.0,bn:s00114568r:20.0,bn:s00091131v:15.0,bn:s00115161r:23.0,bn:s00110767a:34.0 .
+frame:Importing skos:closeMatch bn:s00089626v:4.0,bn:s00046137n:36.0 .
+frame:Pre_lose_possession skos:closeMatch .
+frame:Entity skos:closeMatch bn:s00031027n:35.0,bn:s00047731n:15.0 .
+frame:Namesake skos:closeMatch bn:s00102333a:9.0,bn:s00056770n:24.0 .
+frame:History skos:closeMatch bn:s00000738n:86.0 .
+frame:Board_vehicle skos:closeMatch bn:s00087549v:14.0,bn:s00087692v:4.0,bn:s00083708v:23.0,bn:s00011660n:25.0,bn:s00087575v:5.0,bn:s00085120v:13.0,bn:s00089465v:9.0,bn:s00082276v:42.0 .
+frame:Change_of_phase_scenario skos:closeMatch .
+frame:Visiting_scenario_arrival skos:closeMatch .
+frame:Non-commutative_statement skos:closeMatch bn:s00065765n:5.0,bn:s00027024n:29.0 .
+frame:Have_visitor_over skos:closeMatch .
+frame:Others_situation_as_stimulus skos:closeMatch bn:s00021319n:17.0,bn:s00087571v:11.0,bn:s00085458v:8.0,bn:s00087864v:42.0,bn:s00094700v:7.0 .
+frame:Legality skos:closeMatch bn:s00113959a:17.0,bn:s00102719a:32.0,bn:s00105848a:12.0,bn:s00104562a:22.0,bn:s00096858a:13.0,bn:s00115879r:20.0,bn:s00112930a:20.0 .
+frame:Manipulate_into_shape skos:closeMatch bn:s00095288v:22.0,bn:s00093081v:16.0,bn:s00085268v:7.0 .
+frame:Commerce_buy skos:closeMatch bn:s00065266n:5.0,bn:s00084331v:38.0 .
+frame:Protecting skos:closeMatch bn:s00093226v:7.0,bn:s00092039v:9.0,bn:s00042049n:39.0,bn:s00089799v:22.0,bn:s00071055n:5.0,bn:s00092103v:11.0,bn:s00093378v:18.0,bn:s00089103v:22.0,bn:s00013848n:43.0,bn:s00064838n:21.0 .
+frame:Revolution skos:closeMatch .
+frame:Presence skos:closeMatch bn:s00108978a:16.0,bn:s00064201n:19.0 .
+frame:Law skos:closeMatch bn:s00066930n:14.0,bn:s00020352n:100.0,bn:s00050588n:52.0,bn:s00063329n:38.0,bn:s00007299n:64.0,bn:s00021227n:64.0,bn:s00048655n:96.0,bn:s00001076n:37.0 .
+frame:Inhibit_movement skos:closeMatch bn:s00083834v:27.0,bn:s00088673v:36.0,bn:s00085582v:29.0,bn:s00085581v:6.0,bn:s00089384v:63.0,bn:s00089819v:17.0,bn:s00085675v:6.0,bn:s00094955v:9.0,bn:s00021754n:6.0 .
+frame:Run_risk skos:closeMatch bn:s00030747n:116.0,bn:s00083450v:19.0,bn:s00090231v:24.0 .
+frame:Simultaneity skos:closeMatch bn:s00021615n:6.0,bn:s00071704n:27.0,bn:s00020110n:40.0,bn:s00085212v:9.0,bn:s00114428r:11.0 .
+frame:Destiny skos:closeMatch bn:s00025436n:23.0,bn:s00019222n:123.0,bn:s00026603n:60.0,bn:s00049229n:5.0 .
+frame:Imprisonment skos:closeMatch bn:s00088673v:36.0,bn:s00015771n:56.0 .
+frame:Deciding skos:closeMatch bn:s00021584n:33.0,bn:s00086370v:28.0 .
+frame:Finish_competition skos:closeMatch bn:s00081253n:12.0,bn:s00079944n:13.0,bn:s00028625n:57.0,bn:s00095777v:25.0,bn:s00052052n:12.0,bn:s00087257v:12.0,bn:s00090485v:20.0,bn:s00086557v:28.0,bn:s00078365n:71.0 .
+frame:Purpose skos:closeMatch bn:s00089804v:21.0,bn:s00062759n:71.0,bn:s00030627n:26.0,bn:s00002179n:57.0,bn:s00002178n:74.0,bn:s00030721n:19.0,bn:s00082486v:13.0,bn:s00005092n:25.0,bn:s00083196v:19.0 .
+frame:Transitive_action skos:closeMatch .
+frame:Access_scenario skos:closeMatch .
+frame:Businesses skos:closeMatch bn:s00014136n:25.0,bn:s00014160n:19.0,bn:s00031641n:7.0,bn:s00032675n:63.0,bn:s00061054n:27.0,bn:s00021286n:36.0,bn:s00071215n:46.0,bn:s00059126n:21.0,bn:s00022811n:63.0,bn:s00017490n:17.0 .
+frame:Reading_aloud skos:closeMatch bn:s00092424v:20.0 .
+frame:Successfully_communicate_message skos:closeMatch bn:s00088749v:8.0,bn:s00085381v:18.0,bn:s00085769v:12.0 .
+frame:Activity_abandoned_state skos:closeMatch .
+frame:Prison skos:closeMatch bn:s00061317n:14.0,bn:s00064468n:89.0,bn:s00013113n:7.0,bn:s00006137n:57.0,bn:s00022847n:6.0,bn:s00019832n:27.0,bn:s00074364n:28.0 .
+frame:Economy skos:closeMatch bn:s00029678n:113.0,bn:s00102001a:21.0 .
+frame:Vehicle_landing skos:closeMatch .
+frame:Dying skos:closeMatch bn:s00101916a:20.0 .
+frame:Stinginess skos:closeMatch bn:s00111226a:12.0,bn:s00055293n:10.0,bn:s00055291n:34.0,bn:s00019949n:12.0,bn:s00103519a:17.0,bn:s00084356v:28.0,bn:s00090223v:10.0 .
+frame:Change_event_duration skos:closeMatch bn:s00082127v:34.0,bn:s00087274v:16.0,bn:s00087221v:11.0,bn:s00085142v:17.0 .
+frame:Besieging skos:closeMatch bn:s00009696n:78.0,bn:s00083366v:46.0,bn:s00085429v:21.0,bn:s00047358n:42.0 .
+frame:Simple_naming skos:closeMatch bn:s00094878v:5.0,bn:s00084385v:18.0 .
+frame:Duplication skos:closeMatch bn:s00085806v:14.0,bn:s00087174v:12.0,bn:s00092850v:6.0,bn:s00091584v:10.0,bn:s00022526n:16.0,bn:s00067175n:15.0,bn:s00062072n:13.0,bn:s00029156n:14.0,bn:s00019913n:39.0 .
+frame:Awareness_status skos:closeMatch .
+frame:Process_pause skos:closeMatch .
+frame:Inclination skos:closeMatch bn:s00104822a:20.0,bn:s00027686n:63.0,bn:s00064117n:43.0,bn:s00061333n:66.0,bn:s00050427n:19.0 .
+frame:Event skos:closeMatch bn:s00085337v:37.0,bn:s00095118v:9.0,bn:s00026698n:12.0,bn:s00032021n:9.0 .
+frame:Measure_by_action skos:closeMatch bn:s00073161n:11.0,bn:s00010750n:8.0,bn:s00057757n:14.0 .
+frame:Desiring skos:closeMatch bn:s00085989v:12.0,bn:s00042872n:9.0,bn:s00044737n:38.0,bn:s00086683v:18.0,bn:s00105275a:30.0,bn:s00088107v:13.0,bn:s00082263v:15.0,bn:s00080216n:59.0,bn:s00082491v:28.0,bn:s00088035v:14.0,bn:s00050478n:37.0,bn:s00089927v:11.0,bn:s00089198v:18.0,bn:s00045230n:13.0,bn:s00104407a:21.0,bn:s00101238a:27.0,bn:s00023605n:30.0,bn:s00080435n:27.0,bn:s00086682v:14.0,bn:s00095775v:7.0,bn:s00047726n:15.0,bn:s00003269n:8.0,bn:s00095802v:6.0,bn:s00101930a:45.0,bn:s00045234n:19.0,bn:s00085924v:11.0,bn:s00026550n:21.0 .
+frame:Influencing_potential skos:closeMatch .
+frame:People_by_age skos:closeMatch bn:s00018345n:122.0,bn:s00007630n:93.0,bn:s00001525n:46.0,bn:s00073643n:40.0,bn:s00012569n:49.0,bn:s00037584n:16.0,bn:s00018346n:22.0,bn:s00001480n:27.0,bn:s00022469n:30.0,bn:s00057262n:19.0,bn:s00001952n:16.0 .
+frame:Installing skos:closeMatch bn:s00089785v:11.0,bn:s00046934n:34.0 .
+frame:Being_in_category skos:closeMatch bn:s00082585v:9.0,bn:s00085859v:27.0,bn:s00083187v:28.0 .
+frame:Arithmetic_commutative skos:closeMatch .
+frame:Proportion skos:closeMatch .
+frame:Turning_out skos:closeMatch bn:s00087611v:25.0,bn:s00092109v:15.0,bn:s00095259v:12.0 .
+frame:Burying skos:closeMatch .
+frame:Entourage skos:closeMatch .
+frame:Intoxicants skos:closeMatch bn:s00054489n:45.0,bn:s00004622n:49.0,bn:s00002519n:86.0,bn:s00026400n:85.0,bn:s00000902n:46.0,bn:s00042682n:98.0,bn:s00043099n:60.0,bn:s00008547n:63.0,bn:s00020357n:64.0,bn:s00015287n:149.0,bn:s00020230n:83.0,bn:s00059175n:65.0,bn:s00046758n:33.0,bn:s00029691n:75.0,bn:s00017549n:174.0,bn:s00057642n:86.0,bn:s00023466n:65.0,bn:s00052223n:79.0,bn:s00003615n:135.0,bn:s00072485n:36.0,bn:s00048968n:58.0,bn:s00011445n:47.0,bn:s00007699n:27.0,bn:s00055920n:112.0,bn:s00028270n:25.0,bn:s00026798n:81.0,bn:s00028872n:57.0 .
+frame:Daring skos:closeMatch bn:s00017621n:27.0,bn:s00082408v:21.0,bn:s00025171n:46.0,bn:s00086279v:10.0,bn:s00082409v:10.0,bn:s00090231v:24.0 .
+frame:Activity_resume skos:closeMatch bn:s00092663v:21.0,bn:s00092413v:8.0 .
+frame:Activity_finish skos:closeMatch bn:s00083501v:5.0,bn:s00085529v:7.0,bn:s00085475v:43.0,bn:s00019966n:8.0 .
+frame:Translating skos:closeMatch bn:s00089840v:38.0,bn:s00078016n:59.0 .
+frame:Cause_motion skos:closeMatch bn:s00084649v:9.0,bn:s00090128v:12.0,bn:s00095214v:11.0,bn:s00087338v:7.0,bn:s00088311v:7.0,bn:s00089958v:25.0,bn:s00093076v:11.0,bn:s00091986v:18.0,bn:s00082920v:60.0,bn:s00088456v:16.0,bn:s00084955v:7.0,bn:s00093876v:12.0,bn:s00088459v:14.0,bn:s00093680v:19.0,bn:s00086287v:24.0,bn:s00084601v:19.0,bn:s00088317v:21.0,bn:s00087012v:32.0,bn:s00093170v:60.0,bn:s00087234v:52.0,bn:s00089614v:13.0,bn:s00091816v:24.0,bn:s00084627v:11.0,bn:s00090214v:9.0,bn:s00094359v:13.0,bn:s00094934v:18.0,bn:s00091101v:20.0 .
+frame:Cognitive_impact skos:closeMatch .
+frame:Quitting_a_place skos:closeMatch bn:s00086356v:16.0,bn:s00086450v:16.0,bn:s00031557n:7.0,bn:s00088858v:35.0,bn:s00030545n:19.0,bn:s00087564v:24.0,bn:s00030546n:73.0,bn:s00090280v:16.0,bn:s00082122v:37.0,bn:s00067464n:17.0,bn:s00081434n:24.0,bn:s00087267v:37.0,bn:s00082120v:9.0,bn:s00000213n:54.0,bn:s00093800v:5.0,bn:s00082164v:20.0,bn:s00084611v:29.0 .
+frame:People skos:closeMatch bn:s00021149n:55.0,bn:s00037769n:47.0,bn:s00061450n:54.0,bn:s00001530n:56.0,bn:s00014190n:31.0,bn:s00046516n:85.0,bn:s00034453n:58.0,bn:s00049666n:9.0,bn:s00001533n:45.0,bn:s00011241n:56.0,bn:s00044576n:132.0,bn:s00012592n:24.0 .
+frame:Strictness skos:closeMatch .
+frame:Getting_scenario skos:closeMatch .
+frame:Silencing skos:closeMatch bn:s00093705v:5.0,bn:s00089538v:12.0,bn:s00089539v:22.0 .
+frame:Stage_of_progress skos:closeMatch bn:s00106234a:5.0,bn:s00037678n:23.0,bn:s00104149a:9.0,bn:s00101286a:15.0,bn:s00106831a:17.0 .
+frame:Attempt_obtain_mineral_scenario skos:closeMatch .
+frame:Smuggling skos:closeMatch bn:s00022222n:32.0,bn:s00072364n:11.0,bn:s00022223n:50.0,bn:s00093949v:30.0 .
+frame:Isolated_places skos:closeMatch bn:s00007751n:10.0,bn:s00007743n:21.0,bn:s00059754n:33.0,bn:s00007844n:10.0 .
+frame:Extreme_value skos:closeMatch bn:s00052194n:9.0,bn:s00106517a:19.0,bn:s00000942n:67.0,bn:s00106755a:20.0,bn:s00052148n:11.0,bn:s00053933n:9.0,bn:s00044024n:11.0 .
+frame:Hunting skos:closeMatch bn:s00089521v:26.0,bn:s00093410v:4.0,bn:s00082614v:10.0 .
+frame:Transition_to_a_quality skos:closeMatch .
+frame:Image_schema skos:closeMatch .
+frame:Entering_of_plea skos:closeMatch bn:s00062967n:40.0,bn:s00091743v:8.0 .
+frame:Receiving_scenario skos:closeMatch .
+frame:Being_obligatory skos:closeMatch bn:s00083357v:10.0,bn:s00107676a:18.0 .
+frame:Cognitive_connection skos:closeMatch bn:s00045161n:50.0,bn:s00109650a:22.0 .
+frame:Employment_start skos:closeMatch .
+frame:Containment_scenario skos:closeMatch .
+frame:Process_start skos:closeMatch bn:s00083985v:10.0,bn:s00031494n:12.0,bn:s00009633n:32.0,bn:s00107131a:8.0,bn:s00058967n:22.0,bn:s00083340v:63.0 .
+frame:Measure_mass skos:closeMatch bn:s00050327n:54.0,bn:s00057373n:34.0,bn:s00059739n:21.0,bn:s00054701n:234.0,bn:s00049021n:128.0,bn:s00036957n:52.0,bn:s00054662n:75.0 .
+frame:Dynamism skos:closeMatch .
+frame:Arraignment skos:closeMatch bn:s00005861n:8.0,bn:s00082775v:15.0 .
+frame:Change_direction skos:closeMatch bn:s00078656n:15.0,bn:s00050525n:11.0,bn:s00067812n:11.0,bn:s00095233v:65.0,bn:s00086173v:26.0,bn:s00083221v:9.0,bn:s00094679v:18.0 .
+frame:Color_qualities skos:closeMatch bn:s00101873a:14.0,bn:s00113698a:28.0,bn:s00105938a:25.0 .
+frame:Appointing skos:closeMatch bn:s00090560v:12.0,bn:s00082239v:19.0,bn:s00090130v:13.0,bn:s00082716v:23.0,bn:s00082857v:22.0,bn:s00088218v:9.0 .
+frame:Judgment_of_intensity skos:closeMatch .
+frame:Set_of_interrelated_entities skos:closeMatch bn:s00069580n:52.0 .
+frame:Use_vehicle skos:closeMatch .
+frame:Indigenous_origin skos:closeMatch bn:s00107144a:16.0,bn:s00074539n:11.0,bn:s00051745n:15.0 .
+frame:Hit_or_miss skos:closeMatch bn:s00044275n:14.0,bn:s00114394r:24.0,bn:s00089352v:38.0,bn:s00090854v:6.0 .
+frame:Chaos skos:closeMatch .
+frame:Regard skos:closeMatch bn:s00082724v:16.0,bn:s00009717n:34.0,bn:s00031653n:15.0,bn:s00083370v:51.0,bn:s00085647v:16.0 .
+frame:Serving_in_capacity skos:closeMatch .
+frame:Physical_entity skos:closeMatch .
+frame:Corroding_caused skos:closeMatch bn:s00085841v:33.0,bn:s00091364v:12.0,bn:s00086463v:22.0 .
+frame:Change_operational_state skos:closeMatch bn:s00086201v:32.0,bn:s00086323v:8.0,bn:s00083789v:27.0,bn:s00094692v:24.0,bn:s00083995v:10.0,bn:s00086178v:13.0,bn:s00082307v:7.0 .
+frame:Body_description_part skos:closeMatch bn:s00002470n:44.0,bn:s00016277n:41.0,bn:s00013475n:30.0,bn:s00100690a:5.0,bn:s00011342n:51.0 .
+frame:Trial skos:closeMatch bn:s00078198n:79.0,bn:s00016403n:173.0 .
+frame:Visit_host_arrival skos:closeMatch .
+frame:People_along_political_spectrum skos:closeMatch bn:s00021975n:9.0,bn:s00020635n:58.0,bn:s00050521n:63.0 .
+frame:Cogitation skos:closeMatch bn:s00021989n:12.0,bn:s00084733v:37.0,bn:s00084133v:10.0,bn:s00022140n:23.0,bn:s00085651v:21.0,bn:s00001597n:11.0,bn:s00045800n:51.0,bn:s00085648v:8.0,bn:s00084889v:46.0,bn:s00054144n:29.0,bn:s00092265v:13.0 .
+frame:Patrolling skos:closeMatch .
+frame:frame.xsl skos:closeMatch .
+frame:Aesthetics skos:closeMatch bn:s00111670a:7.0,bn:s00110789a:13.0,bn:s00102103a:23.0,bn:s00098171a:29.0,bn:s00112223a:13.0 .
+frame:Time_period_of_action skos:closeMatch bn:s00081289n:29.0 .
+frame:Forging skos:closeMatch bn:s00085880v:40.0,bn:s00032776n:11.0,bn:s00085786v:41.0,bn:s00023193n:36.0 .
+frame:Rewards_and_punishments skos:closeMatch bn:s00109237a:13.0,bn:s00061325n:85.0,bn:s00085462v:18.0,bn:s00085832v:19.0,bn:s00061123n:14.0,bn:s00091527v:24.0,bn:s00091499v:10.0,bn:s00101465a:17.0 .
+frame:Emergency_fire skos:closeMatch .
+frame:Planned_trajectory skos:closeMatch .
+frame:Level_of_light skos:closeMatch .
+frame:Sex skos:closeMatch .
+frame:Change_posture skos:closeMatch bn:s00090321v:9.0,bn:s00094275v:8.0,bn:s00089517v:11.0,bn:s00086086v:55.0,bn:s00082613v:21.0,bn:s00093776v:16.0,bn:s00090326v:22.0,bn:s00083405v:29.0,bn:s00093906v:7.0,bn:s00091683v:9.0,bn:s00094182v:10.0,bn:s00087364v:15.0,bn:s00093790v:8.0,bn:s00085926v:26.0,bn:s00083402v:19.0,bn:s00082761v:18.0,bn:s00090123v:20.0 .
+frame:Sacrificing_for skos:closeMatch .
+frame:Fullness skos:closeMatch bn:s00102176a:17.0,bn:s00036789n:5.0,bn:s00030633n:21.0,bn:s00103391a:25.0 .
+frame:Text_creation skos:closeMatch bn:s00095295v:15.0,bn:s00089639v:10.0,bn:s00087210v:18.0,bn:s00089992v:13.0,bn:s00093731v:54.0,bn:s00082936v:5.0,bn:s00085489v:27.0,bn:s00087894v:15.0,bn:s00093287v:25.0,bn:s00090943v:27.0,bn:s00086294v:18.0,bn:s00088760v:9.0,bn:s00084953v:7.0 .
+frame:Proximity_image_schema skos:closeMatch .
+frame:Emanating skos:closeMatch bn:s00085360v:24.0,bn:s00087937v:18.0,bn:s00092304v:15.0,bn:s00087541v:19.0 .
+frame:Historic_event skos:closeMatch .
+frame:Success_or_failure skos:closeMatch bn:s00113290a:8.0,bn:s00111409a:26.0,bn:s00032719n:15.0,bn:s00084092v:38.0,bn:s00090853v:11.0,bn:s00075023n:22.0,bn:s00084086v:41.0,bn:s00087966v:17.0,bn:s00032721n:7.0 .
+frame:Proliferating_in_number skos:closeMatch bn:s00057899n:138.0,bn:s00092062v:8.0,bn:s00090631v:12.0,bn:s00064685n:27.0,bn:s00087445v:9.0 .
+frame:Conquering skos:closeMatch bn:s00087976v:20.0,bn:s00082739v:33.0,bn:s00091131v:15.0 .
+frame:Rape skos:closeMatch bn:s00006469n:65.0,bn:s00066180n:15.0,bn:s00082842v:34.0 .
+frame:Setting_fire skos:closeMatch bn:s00085587v:20.0,bn:s00095033v:8.0,bn:s00084273v:16.0,bn:s00082306v:16.0,bn:s00089581v:26.0 .
+frame:Popularity skos:closeMatch bn:s00100441a:35.0 .
+frame:Reforming_a_system skos:closeMatch bn:s00092532v:21.0,bn:s00059879n:30.0,bn:s00092647v:11.0,bn:s00066830n:27.0,bn:s00090883v:21.0 .
+frame:Cycle_of_life_and_death skos:closeMatch .
+frame:Detonate_explosive skos:closeMatch .
+frame:Imitating skos:closeMatch bn:s00082675v:11.0,bn:s00090787v:26.0,bn:s00085805v:24.0 .
+frame:Eventive_cognizer_affecting skos:closeMatch bn:s00086370v:28.0,bn:s00085767v:31.0 .
+frame:Type skos:closeMatch bn:s00065801n:64.0,bn:s00035907n:36.0,bn:s00012759n:21.0,bn:s00078798n:13.0,bn:s00070821n:74.0,bn:s00045931n:23.0,bn:s00029773n:34.0,bn:s00012986n:72.0,bn:s00016733n:32.0 .
+frame:Shooting_scenario skos:closeMatch .
+frame:Duration_scenario skos:closeMatch .
+frame:Perception skos:closeMatch .
+frame:Bond_maturation skos:closeMatch bn:s00053885n:11.0,bn:s00087577v:26.0,bn:s00089086v:14.0 .
+frame:Fire_emergency_scenario skos:closeMatch .
+frame:Respond_to_proposal skos:closeMatch bn:s00000648n:60.0,bn:s00066465n:8.0,bn:s00092470v:9.0,bn:s00086390v:25.0,bn:s00066989n:8.0,bn:s00082198v:29.0 .
+frame:Locale_by_ownership skos:closeMatch bn:s00001019n:121.0,bn:s00009815n:67.0 .
+frame:Revenge skos:closeMatch bn:s00061113n:66.0,bn:s00082950v:11.0,bn:s00007443n:30.0,bn:s00023152n:32.0,bn:s00067427n:48.0,bn:s00088755v:8.0 .
+frame:Fighting_activity skos:closeMatch bn:s00012843n:12.0,bn:s00001789n:26.0,bn:s00001790n:14.0,bn:s00009180n:55.0 .
+frame:Continued_state_of_affairs skos:closeMatch bn:s00117311r:12.0,bn:s00114369r:49.0,bn:s00117138r:19.0 .
+frame:Source_path_goal skos:closeMatch .
+frame:Preserving skos:closeMatch bn:s00021965n:10.0,bn:s00086157v:15.0,bn:s00090980v:13.0,bn:s00093241v:9.0,bn:s00091610v:5.0,bn:s00087545v:12.0,bn:s00087401v:17.0,bn:s00090047v:23.0,bn:s00084450v:24.0,bn:s00056322n:15.0 .
+frame:Point_of_dispute skos:closeMatch bn:s00047688n:32.0,bn:s00043267n:25.0,bn:s00021556n:18.0 .
+frame:Store skos:closeMatch bn:s00016047n:91.0,bn:s00075322n:3.0,bn:s00036840n:11.0,bn:s00007805n:29.0,bn:s00047332n:17.0 .
+frame:Representative skos:closeMatch .
+frame:Notability skos:closeMatch .
+frame:Fairness_evaluation skos:closeMatch bn:s00117466r:10.0,bn:s00102719a:32.0,bn:s00114529r:10.0,bn:s00115250r:14.0,bn:s00112727a:19.0,bn:s00105016a:14.0 .
+frame:Abusing skos:closeMatch bn:s00083171v:9.0,bn:s00028163n:100.0,bn:s00082184v:18.0,bn:s00000520n:65.0 .
+frame:Becoming_silent skos:closeMatch .
+frame:Separating skos:closeMatch bn:s00093423v:10.0,bn:s00027886n:15.0,bn:s00093463v:10.0,bn:s00087100v:14.0,bn:s00091453v:19.0,bn:s00093465v:16.0,bn:s00083514v:11.0,bn:s00083998v:11.0,bn:s00084611v:29.0 .
+frame:Relational_quantity skos:closeMatch bn:s00107732a:9.0,bn:s00115266r:24.0,bn:s00052194n:9.0,bn:s00114421r:6.0,bn:s00114406r:20.0,bn:s00114504r:43.0,bn:s00117261r:14.0,bn:s00114073r:82.0,bn:s00099858a:22.0,bn:s00114079r:61.0 .
+frame:Deception_end skos:closeMatch .
+frame:Requirement_scenario skos:closeMatch .
+frame:Withdraw_from_participation skos:closeMatch bn:s00082991v:26.0,bn:s00081434n:24.0,bn:s00083335v:7.0,bn:s00087237v:18.0 .
+frame:Evoking skos:closeMatch bn:s00082770v:26.0,bn:s00032058n:53.0,bn:s00084413v:50.0,bn:s00092770v:12.0,bn:s00067074n:8.0 .
+frame:Losing_track_of_perceiver skos:closeMatch bn:s00090485v:20.0 .
+frame:Sound_movement skos:closeMatch bn:s00083557v:9.0,bn:s00093080v:13.0,bn:s00087475v:15.0 .
+frame:Compatibility skos:closeMatch bn:s00085047v:13.0,bn:s00021322n:18.0,bn:s00085588v:5.0,bn:s00087197v:8.0,bn:s00046323n:14.0,bn:s00100270a:10.0,bn:s00082344v:35.0,bn:s00021598n:13.0,bn:s00082227v:31.0,bn:s00082477v:42.0,bn:s00100126a:16.0,bn:s00094217v:5.0,bn:s00093003v:11.0,bn:s00100318a:27.0,bn:s00104844a:7.0,bn:s00088912v:46.0,bn:s00083354v:12.0,bn:s00088243v:12.0 .
+frame:Goal skos:closeMatch .
+frame:Addiction skos:closeMatch bn:s00042403n:20.0,bn:s00026165n:51.0,bn:s00002526n:55.0,bn:s00096430a:20.0,bn:s00001287n:89.0,bn:s00002523n:167.0,bn:s00001285n:23.0 .
+frame:Architectural_part skos:closeMatch bn:s00008782n:87.0,bn:s00015404n:28.0,bn:s00068220n:25.0,bn:s00035208n:75.0,bn:s00035304n:39.0,bn:s00034702n:62.0,bn:s00080386n:62.0,bn:s00018418n:57.0,bn:s00049862n:12.0,bn:s00032598n:39.0,bn:s00066008n:34.0,bn:s00023154n:23.0 .
+frame:Attention skos:closeMatch bn:s00114748r:12.0,bn:s00082907v:31.0,bn:s00096755a:25.0,bn:s00097725a:22.0,bn:s00007020n:21.0 .
+frame:Fragmentation_scenario skos:closeMatch .
+frame:Cause_to_end skos:closeMatch bn:s00087608v:22.0,bn:s00082785v:41.0,bn:s00090346v:8.0 .
+frame:Probability skos:closeMatch bn:s00017624n:60.0,bn:s00071554n:12.0,bn:s00051182n:15.0,bn:s00058635n:11.0 .
+frame:Submitting_documents skos:closeMatch bn:s00031063n:22.0,bn:s00086532v:20.0,bn:s00094523v:20.0,bn:s00088164v:12.0 .
+frame:Searching_scenario skos:closeMatch .
+frame:Being_employed skos:closeMatch bn:s00081570n:12.0,bn:s00081568n:17.0,bn:s00014138n:52.0,bn:s00088040v:8.0,bn:s00074311n:9.0,bn:s00087128v:27.0,bn:s00085110v:6.0,bn:s00030616n:67.0,bn:s00112675a:9.0,bn:s00102173a:13.0,bn:s00079045n:48.0,bn:s00030625n:63.0,bn:s00088043v:7.0 .
+frame:Emotions_by_stimulus skos:closeMatch bn:s00103601a:25.0 .
+frame:Product_delivery skos:closeMatch .
+frame:Infrastructure skos:closeMatch bn:s00008794n:69.0,bn:s00008791n:51.0 .
+frame:Claim_ownership skos:closeMatch bn:s00085016v:11.0,bn:s00019403n:14.0,bn:s00084385v:18.0,bn:s00026915n:38.0 .
+frame:Identicality skos:closeMatch bn:s00045825n:31.0,bn:s00101347a:23.0,bn:s00110075a:16.0 .
+frame:Vehicle_subpart skos:closeMatch .
+frame:Name_conferral skos:closeMatch bn:s00092787v:9.0,bn:s00084385v:18.0,bn:s00083101v:21.0,bn:s00087410v:4.0,bn:s00087691v:10.0 .
+frame:Preferred_alternative_scenario skos:closeMatch .
+frame:Exclude_member skos:closeMatch bn:s00030014n:27.0,bn:s00087857v:18.0,bn:s00017096n:29.0,bn:s00087814v:11.0 .
+frame:Breaking_apart skos:closeMatch bn:s00085941v:9.0,bn:s00084003v:20.0,bn:s00093584v:7.0,bn:s00083958v:11.0,bn:s00093895v:14.0,bn:s00083965v:15.0,bn:s00083901v:30.0 .
+frame:Specific_individual skos:closeMatch .
+frame:Cause_to_rot skos:closeMatch bn:s00092228v:9.0,bn:s00086400v:13.0 .
+frame:Come_into_effect skos:closeMatch .
+frame:Measure_scenario skos:closeMatch .
+frame:Being_in_control skos:closeMatch .
+frame:Growing_food skos:closeMatch bn:s00089083v:12.0,bn:s00088042v:26.0 .
+frame:Thwarting skos:closeMatch bn:s00083622v:25.0,bn:s00082666v:22.0,bn:s00083024v:47.0,bn:s00083623v:20.0,bn:s00089162v:9.0,bn:s00086643v:10.0,bn:s00088454v:31.0 .
+frame:Measurable_attributes skos:closeMatch bn:s00111630a:47.0,bn:s00104162a:26.0,bn:s00106125a:35.0,bn:s00101043a:47.0,bn:s00111824a:40.0 .
+frame:Part_inner_outer skos:closeMatch bn:s00102622a:14.0,bn:s00105131a:18.0,bn:s00012213n:19.0,bn:s00061258n:35.0,bn:s00108049a:14.0,bn:s00105281a:19.0,bn:s00017120n:30.0,bn:s00051366n:12.0,bn:s00075374n:25.0,bn:s00099441a:14.0,bn:s00015831n:60.0,bn:s00032430n:10.0,bn:s00046891n:12.0,bn:s00108027a:35.0,bn:s00046892n:54.0 .
+frame:Infecting skos:closeMatch .
+frame:Spatial_co-location skos:closeMatch .
+frame:Process_stop skos:closeMatch bn:s00027507n:22.0,bn:s00084710v:33.0,bn:s00017405n:6.0,bn:s00042697n:8.0,bn:s00082179v:20.0 .
+frame:Statement skos:closeMatch bn:s00020977n:43.0,bn:s00022154n:15.0,bn:s00082332v:8.0,bn:s00022159n:5.0,bn:s00085415v:20.0,bn:s00021527n:12.0,bn:s00093287v:25.0,bn:s00090943v:27.0,bn:s00092473v:11.0,bn:s00019404n:65.0,bn:s00090740v:19.0,bn:s00087811v:20.0,bn:s00082409v:10.0,bn:s00067181n:64.0,bn:s00000938n:27.0,bn:s00000741n:49.0,bn:s00064713n:44.0,bn:s00085016v:11.0,bn:s00064779n:13.0,bn:s00001768n:51.0,bn:s00086706v:6.0,bn:s00082376v:7.0,bn:s00082435v:38.0,bn:s00026230n:12.0,bn:s00082638v:13.0,bn:s00086380v:15.0,bn:s00085612v:50.0,bn:s00021870n:54.0,bn:s00082233v:29.0,bn:s00082267v:40.0,bn:s00091922v:14.0,bn:s00054390n:24.0,bn:s00006496n:14.0,bn:s00001767n:8.0,bn:s00085708v:8.0,bn:s00094089v:16.0,bn:s00086087v:6.0,bn:s00089731v:18.0,bn:s00085489v:27.0,bn:s00025732n:17.0,bn:s00064776n:25.0,bn:s00002813n:10.0,bn:s00092733v:6.0,bn:s00091011v:41.0,bn:s00074033n:20.0,bn:s00093754v:6.0,bn:s00001461n:26.0,bn:s00086591v:12.0,bn:s00082318v:21.0,bn:s00082848v:12.0,bn:s00026971n:6.0,bn:s00085583v:22.0,bn:s00092439v:8.0,bn:s00090910v:16.0,bn:s00004352n:33.0,bn:s00082537v:38.0,bn:s00032149n:10.0,bn:s00082527v:27.0,bn:s00085511v:9.0,bn:s00082417v:20.0,bn:s00082914v:24.0,bn:s00046094n:18.0,bn:s00089773v:13.0,bn:s00089106v:18.0,bn:s00087869v:13.0 .
+frame:State skos:closeMatch .
+frame:Process_continue skos:closeMatch bn:s00061702n:15.0,bn:s00086793v:17.0,bn:s00087221v:11.0,bn:s00085715v:21.0,bn:s00085714v:31.0 .
+frame:Presentation_of_mitigation skos:closeMatch .
+frame:Wagering skos:closeMatch bn:s00010112n:27.0,bn:s00083450v:19.0 .
+frame:Feigning skos:closeMatch bn:s00084217v:14.0,bn:s00082429v:39.0,bn:s00085880v:40.0,bn:s00082874v:12.0,bn:s00091979v:16.0 .
+frame:Emitting skos:closeMatch bn:s00087580v:7.0,bn:s00087937v:18.0,bn:s00087499v:21.0,bn:s00086911v:18.0,bn:s00087542v:9.0,bn:s00092742v:28.0,bn:s00092300v:8.0,bn:s00087565v:20.0 .
+frame:Reparation skos:closeMatch bn:s00003334n:32.0,bn:s00067386n:6.0,bn:s00083187v:28.0 .
+frame:Remembering_information skos:closeMatch bn:s00084413v:50.0,bn:s00084302v:20.0 .
+frame:Breathing skos:closeMatch bn:s00088689v:30.0,bn:s00083652v:14.0,bn:s00071505n:38.0,bn:s00084018v:29.0,bn:s00093724v:15.0,bn:s00089503v:13.0,bn:s00006430n:54.0,bn:s00012966n:18.0,bn:s00012975n:48.0,bn:s00089797v:16.0,bn:s00084028v:14.0,bn:s00084027v:25.0 .
+frame:Political_locales skos:closeMatch bn:s00054198n:41.0,bn:s00034263n:59.0,bn:s00105294a:14.0,bn:s00115991r:8.0,bn:s00012257n:8.0,bn:s00051758n:73.0,bn:s00023236n:96.0,bn:s00064414n:45.0,bn:s00077773n:47.0,bn:s00049169n:52.0,bn:s00027810n:36.0,bn:s00029009n:42.0,bn:s00030601n:45.0,bn:s00019319n:110.0,bn:s00049167n:15.0,bn:s00064914n:57.0,bn:s00106108a:24.0,bn:s00060681n:48.0,bn:s00056337n:35.0,bn:s00023252n:52.0,bn:s00072653n:13.0,bn:s00028141n:18.0,bn:s00070724n:71.0,bn:s00048653n:83.0,bn:s00019322n:57.0,bn:s00008667n:18.0,bn:s00010714n:60.0,bn:s00107136a:12.0,bn:s00026129n:27.0,bn:s00080095n:13.0,bn:s00107043a:14.0 .
+frame:Tasting skos:closeMatch bn:s00082844v:40.0,bn:s00093251v:19.0 .
+frame:Product_development_scenario skos:closeMatch .
+frame:Arrest skos:closeMatch bn:s00083773v:14.0,bn:s00005136n:17.0,bn:s00083903v:7.0,bn:s00082728v:19.0,bn:s00014183n:13.0,bn:s00085009v:15.0 .
+frame:Undressing skos:closeMatch bn:s00094768v:8.0,bn:s00087141v:13.0,bn:s00087266v:16.0,bn:s00086693v:8.0,bn:s00089646v:5.0,bn:s00092783v:30.0,bn:s00084631v:16.0,bn:s00086979v:20.0,bn:s00093882v:15.0 .
+frame:Region_with_portal skos:closeMatch .
+frame:System_complexity skos:closeMatch .
+frame:Function skos:closeMatch .
+frame:Ingredients skos:closeMatch bn:s00021394n:42.0,bn:s00064101n:32.0,bn:s00046750n:5.0,bn:s00053801n:35.0 .
+frame:Transfer skos:closeMatch bn:s00022381n:41.0,bn:s00095085v:10.0 .
+frame:Stimulus_focus skos:closeMatch bn:s00108685a:11.0,bn:s00102509a:17.0,bn:s00102176a:17.0,bn:s00104701a:27.0,bn:s00101487a:11.0,bn:s00109658a:12.0,bn:s00109512a:13.0,bn:s00112081a:7.0,bn:s00102197a:15.0,bn:s00103394a:14.0,bn:s00101445a:5.0,bn:s00113057a:14.0,bn:s00100443a:30.0,bn:s00004357n:14.0,bn:s00020727n:14.0,bn:s00104404a:20.0,bn:s00002004n:6.0,bn:s00096688a:27.0,bn:s00112707a:4.0,bn:s00029457n:30.0,bn:s00026047n:14.0,bn:s00101561a:7.0,bn:s00111223a:8.0,bn:s00111524a:26.0,bn:s00020728n:24.0,bn:s00105276a:13.0,bn:s00108680a:18.0,bn:s00005018n:10.0,bn:s00105381a:13.0,bn:s00107292a:31.0,bn:s00066600n:28.0,bn:s00099567a:19.0,bn:s00107768a:8.0,bn:s00096736a:11.0 .
+frame:Capacity skos:closeMatch bn:s00086962v:26.0,bn:s00082214v:13.0,bn:s00085689v:25.0,bn:s00093414v:7.0,bn:s00088084v:14.0,bn:s00084684v:12.0 .
+frame:Cure skos:closeMatch bn:s00024461n:56.0,bn:s00002847n:12.0,bn:s00100776a:7.0,bn:s00002849n:24.0,bn:s00082530v:33.0,bn:s00084071v:27.0,bn:s00060300n:55.0,bn:s00085399v:15.0,bn:s00043356n:18.0,bn:s00076843n:79.0,bn:s00066949n:48.0,bn:s00047235n:25.0,bn:s00109646a:11.0,bn:s00091105v:16.0,bn:s00092694v:22.0,bn:s00104899a:17.0,bn:s00084532v:31.0,bn:s00092747v:11.0,bn:s00092923v:17.0 .
+frame:Take_place_of skos:closeMatch bn:s00087802v:28.0,bn:s00085337v:37.0,bn:s00092817v:36.0,bn:s00003129n:7.0,bn:s00085343v:11.0 .
+frame:Distributed_abundance skos:closeMatch .
+frame:Medium skos:closeMatch .
+frame:Mathematical_relationship skos:closeMatch .
+frame:Setting_out skos:closeMatch bn:s00083963v:8.0,bn:s00093532v:10.0,bn:s00083340v:63.0 .
+frame:Abandonment skos:closeMatch bn:s00000212n:22.0,bn:s00082120v:9.0,bn:s00084302v:20.0,bn:s00088939v:27.0 .
+frame:Trendiness skos:closeMatch bn:s00033729n:50.0,bn:s00102798a:14.0,bn:s00098342a:40.0 .
+frame:People_by_jurisdiction skos:closeMatch bn:s00060682n:8.0,bn:s00019283n:31.0,bn:s00056915n:13.0,bn:s00019281n:33.0 .
+frame:Undergoing_scenario skos:closeMatch .
+frame:People_by_religion skos:closeMatch bn:s00055894n:15.0,bn:s00037763n:73.0,bn:s00032773n:5.0,bn:s00013632n:11.0,bn:s00055975n:69.0,bn:s00018818n:50.0,bn:s00008458n:8.0,bn:s00043492n:70.0,bn:s00028905n:31.0,bn:s00060157n:23.0 .
+frame:Sufficiency skos:closeMatch bn:s00115975r:8.0,bn:s00115274r:14.0,bn:s00114135r:11.0,bn:s00104767a:25.0,bn:s00030949n:12.0,bn:s00111418a:17.0,bn:s00101084a:12.0,bn:s00097000a:25.0,bn:s00001354n:15.0,bn:s00082652v:30.0,bn:s00117043r:16.0,bn:s00115216r:13.0,bn:s00046226n:13.0,bn:s00025914n:14.0,bn:s00008985n:70.0,bn:s00115855r:13.0,bn:s00117174r:10.0 .
+frame:Within_distance skos:closeMatch .
+frame:Cause_to_be_sharp skos:closeMatch bn:s00083418v:10.0,bn:s00093578v:11.0 .
+frame:Get_a_job skos:closeMatch bn:s00085726v:12.0 .
+frame:Being_necessary skos:closeMatch bn:s00031631n:33.0,bn:s00098100a:26.0,bn:s00107182a:7.0 .
+frame:Firing skos:closeMatch bn:s00027476n:39.0,bn:s00088641v:12.0,bn:s00087207v:13.0,bn:s00021588n:8.0,bn:s00084451v:65.0,bn:s00090297v:29.0 .
+frame:Degree_of_processing skos:closeMatch bn:s00113082a:8.0,bn:s00109051a:16.0 .
+frame:Assemble skos:closeMatch bn:s00085752v:11.0,bn:s00090726v:9.0,bn:s00082846v:26.0 .
+frame:Shoot_projectiles skos:closeMatch bn:s00087732v:15.0,bn:s00086913v:7.0,bn:s00083567v:36.0,bn:s00050208n:9.0 .
+frame:Warning skos:closeMatch .
+frame:Building skos:closeMatch bn:s00084198v:40.0,bn:s00013723n:77.0,bn:s00082845v:24.0,bn:s00006485n:14.0,bn:s00087714v:15.0,bn:s00088905v:18.0,bn:s00088048v:10.0,bn:s00095707v:17.0,bn:s00086008v:24.0 .
+frame:Electricity skos:closeMatch bn:s00030820n:127.0,bn:s00024510n:55.0,bn:s00045374n:187.0,bn:s00062074n:12.0,bn:s00104428a:19.0,bn:s00063940n:84.0,bn:s00030160n:53.0,bn:s00108550a:20.0,bn:s00048533n:7.0,bn:s00030192n:71.0,bn:s00102083a:32.0 .
+frame:Hiding_objects skos:closeMatch bn:s00086960v:12.0,bn:s00084444v:13.0,bn:s00085509v:28.0,bn:s00085918v:17.0 .
+frame:Go_into_shape skos:closeMatch bn:s00095288v:22.0,bn:s00085268v:7.0,bn:s00086162v:12.0 .
+frame:Request skos:closeMatch bn:s00083437v:20.0,bn:s00084389v:17.0,bn:s00006362n:7.0,bn:s00083132v:31.0,bn:s00075094n:10.0,bn:s00005017n:33.0,bn:s00083331v:13.0,bn:s00085009v:15.0,bn:s00026103n:11.0,bn:s00014794n:7.0,bn:s00010260n:15.0,bn:s00086546v:18.0,bn:s00091741v:7.0,bn:s00082828v:16.0,bn:s00062966n:12.0,bn:s00082355v:15.0,bn:s00085401v:3.0,bn:s00061826n:45.0,bn:s00087644v:25.0,bn:s00082819v:7.0,bn:s00059311n:38.0 .
+frame:Contrary_circumstances skos:closeMatch .
+frame:Network skos:closeMatch bn:s00057379n:48.0 .
+frame:Location_in_time skos:closeMatch bn:s00019848n:15.0,bn:s00025341n:24.0 .
+frame:Offering skos:closeMatch bn:s00091136v:29.0,bn:s00087906v:13.0 .
+frame:Surviving skos:closeMatch bn:s00083889v:10.0,bn:s00087617v:47.0,bn:s00090204v:13.0,bn:s00030811n:21.0 .
+frame:Estimated_value skos:closeMatch bn:s00005164n:79.0 .
+frame:Elusive_goal skos:closeMatch bn:s00083978v:17.0,bn:s00083485v:17.0 .
+frame:Willingness skos:closeMatch bn:s00047382n:18.0,bn:s00081239n:10.0,bn:s00101752a:15.0,bn:s00113391a:9.0,bn:s00113877a:14.0 .
+frame:Communication_manner skos:closeMatch bn:s00082974v:12.0,bn:s00083706v:11.0,bn:s00087283v:7.0,bn:s00093676v:47.0,bn:s00084747v:27.0,bn:s00093758v:20.0,bn:s00084229v:19.0,bn:s00095747v:31.0,bn:s00093754v:6.0,bn:s00090943v:27.0,bn:s00089933v:12.0,bn:s00083525v:27.0,bn:s00093917v:8.0,bn:s00084795v:19.0,bn:s00090707v:31.0,bn:s00090396v:4.0 .
+frame:Guilt_or_innocence skos:closeMatch bn:s00046829n:35.0,bn:s00042128n:29.0,bn:s00099796a:29.0 .
+frame:Being_operational skos:closeMatch bn:s00088629v:49.0 .
+frame:Becoming_attached skos:closeMatch .
+frame:Erasing skos:closeMatch .
+frame:Earnings_and_losses skos:closeMatch bn:s00026416n:13.0,bn:s00029415n:132.0,bn:s00021961n:72.0,bn:s00090492v:15.0,bn:s00046315n:56.0,bn:s00090491v:18.0,bn:s00041868n:17.0,bn:s00085426v:27.0,bn:s00084089v:68.0,bn:s00087106v:13.0,bn:s00085088v:14.0 .
+frame:Contact_image_schema skos:closeMatch .
+frame:Encounter skos:closeMatch bn:s00089350v:10.0,bn:s00085339v:20.0 .
+frame:Duration_relation skos:closeMatch bn:s00086793v:17.0,bn:s00087620v:20.0 .
+frame:Degree skos:closeMatch bn:s00115322r:14.0,bn:s00116789r:24.0,bn:s00115474r:29.0,bn:s00115624r:9.0,bn:s00114044r:16.0,bn:s00117043r:16.0,bn:s00116286r:29.0,bn:s00114203r:71.0 .
+frame:Objective_influence skos:closeMatch bn:s00046693n:38.0,bn:s00082304v:34.0,bn:s00046065n:19.0,bn:s00082426v:12.0,bn:s00021961n:72.0 .
+frame:Capital_stock skos:closeMatch .
+frame:Asymmetric_reciprocality skos:closeMatch .
+frame:Food skos:closeMatch bn:s00079666n:18.0,bn:s00078585n:23.0,bn:s00010067n:11.0,bn:s00049760n:46.0,bn:s00054243n:62.0,bn:s00016271n:69.0,bn:s00013870n:29.0,bn:s00033761n:55.0,bn:s00074241n:39.0,bn:s00050065n:57.0,bn:s00005281n:58.0,bn:s00047481n:99.0,bn:s00012873n:61.0,bn:s00069350n:45.0,bn:s00021707n:38.0,bn:s00002967n:69.0,bn:s00008124n:129.0,bn:s00072921n:66.0,bn:s00008268n:97.0,bn:s00017325n:9.0,bn:s00016796n:60.0,bn:s00075568n:81.0,bn:s00036686n:52.0,bn:s00008849n:73.0,bn:s00029914n:70.0,bn:s00071018n:50.0,bn:s00048532n:48.0,bn:s00000849n:73.0,bn:s00028694n:15.0,bn:s00009589n:58.0,bn:s00042379n:51.0,bn:s00018266n:56.0,bn:s00018038n:48.0,bn:s00051730n:4.0,bn:s00076266n:87.0,bn:s00053954n:60.0,bn:s00063907n:48.0,bn:s00014249n:47.0,bn:s00010697n:69.0,bn:s00058734n:63.0,bn:s00023474n:34.0,bn:s00044622n:63.0,bn:s00036437n:77.0,bn:s00009061n:75.0,bn:s00020414n:95.0,bn:s00064034n:32.0,bn:s00018051n:46.0,bn:s00014609n:54.0,bn:s00061463n:28.0,bn:s00018639n:49.0,bn:s00034817n:49.0,bn:s00057980n:42.0,bn:s00023751n:36.0,bn:s00068966n:40.0,bn:s00054996n:110.0,bn:s00043776n:72.0,bn:s00061138n:7.0,bn:s00009544n:21.0,bn:s00035650n:57.0,bn:s00079649n:24.0,bn:s00002747n:66.0,bn:s00060957n:7.0,bn:s00073330n:72.0,bn:s00005054n:83.0,bn:s00054026n:40.0,bn:s00012054n:54.0 .
+frame:Individual_history skos:closeMatch bn:s00060927n:32.0,bn:s00044267n:15.0 .
+frame:Information skos:closeMatch bn:s00032155n:29.0,bn:s00046698n:6.0,bn:s00025314n:24.0,bn:s00071995n:11.0,bn:s00047027n:46.0,bn:s00027386n:73.0,bn:s00028271n:11.0,bn:s00026628n:10.0 .
+frame:Change_event_time skos:closeMatch bn:s00082394v:16.0,bn:s00026014n:38.0,bn:s00087267v:37.0,bn:s00086515v:14.0,bn:s00086459v:33.0,bn:s00082761v:18.0 .
+frame:Render_nonfunctional skos:closeMatch bn:s00086871v:14.0,bn:s00083912v:64.0,bn:s00090135v:7.0,bn:s00082327v:21.0,bn:s00089482v:7.0 .
+frame:Verdict skos:closeMatch bn:s00082283v:31.0,bn:s00006128n:17.0,bn:s00059171n:14.0,bn:s00090001v:14.0,bn:s00103831a:17.0,bn:s00084231v:28.0,bn:s00026650n:33.0,bn:s00001010n:14.0,bn:s00085771v:30.0,bn:s00034552n:43.0 .
+frame:Conferring_benefit skos:closeMatch .
+frame:Import_export_scenario skos:closeMatch .
+frame:Self_control skos:closeMatch .
+frame:Measure_duration skos:closeMatch bn:s00043484n:37.0,bn:s00035996n:31.0,bn:s00068672n:61.0,bn:s00056802n:37.0,bn:s00055794n:80.0,bn:s00077268n:18.0,bn:s00017234n:52.0,bn:s00000127n:46.0,bn:s00055094n:40.0,bn:s00055031n:44.0,bn:s00025646n:24.0,bn:s00078738n:67.0,bn:s00000086n:81.0 .
+frame:Dispersal skos:closeMatch bn:s00084986v:18.0,bn:s00027735n:26.0,bn:s00084987v:17.0,bn:s00087007v:21.0,bn:s00094431v:10.0,bn:s00027056n:34.0,bn:s00084119v:39.0,bn:s00087044v:14.0,bn:s00027661n:35.0 .
+frame:Grinding skos:closeMatch bn:s00089025v:17.0,bn:s00090784v:8.0,bn:s00086112v:22.0,bn:s00093055v:13.0,bn:s00088263v:7.0,bn:s00091905v:26.0,bn:s00086115v:49.0,bn:s00083966v:13.0,bn:s00083893v:40.0,bn:s00018237n:47.0,bn:s00084888v:51.0 .
+frame:Personal_success skos:closeMatch .
+frame:Measure_area skos:closeMatch bn:s00001014n:73.0,bn:s00043500n:87.0 .
+frame:Biological_area skos:closeMatch bn:s00075499n:32.0,bn:s00041543n:45.0,bn:s00073401n:5.0,bn:s00041455n:42.0,bn:s00069381n:43.0,bn:s00035869n:62.0,bn:s00041737n:8.0,bn:s00058412n:48.0,bn:s00055258n:25.0,bn:s00013488n:105.0,bn:s00035868n:70.0,bn:s00066041n:69.0,bn:s00064010n:49.0,bn:s00048606n:47.0,bn:s00081468n:8.0,bn:s00026519n:42.0,bn:s00019668n:40.0,bn:s00017609n:75.0,bn:s00034046n:107.0,bn:s00043448n:80.0,bn:s00079688n:36.0,bn:s00055828n:75.0,bn:s00078589n:10.0,bn:s00053985n:45.0,bn:s00011792n:62.0,bn:s00014097n:36.0 .
+frame:Remainder skos:closeMatch bn:s00092756v:40.0,bn:s00067065n:14.0,bn:s00050539n:13.0 .
+frame:Cause_to_wake skos:closeMatch bn:s00082763v:13.0,bn:s00082772v:24.0,bn:s00082769v:36.0 .
+frame:Collaboration skos:closeMatch bn:s00020128n:9.0,bn:s00094840v:8.0,bn:s00091455v:4.0,bn:s00020592n:19.0,bn:s00116044r:7.0,bn:s00020591n:7.0,bn:s00022452n:31.0,bn:s00117321r:12.0,bn:s00021713n:31.0,bn:s00085299v:14.0,bn:s00006531n:22.0,bn:s00020688n:4.0,bn:s00085279v:33.0 .
+frame:Unattributed_information skos:closeMatch bn:s00109161a:11.0,bn:s00114224r:11.0,bn:s00116829r:8.0,bn:s00114318r:36.0,bn:s00084152v:10.0,bn:s00043378n:98.0,bn:s00116753r:10.0 .
+frame:Process_initial_state skos:closeMatch .
+frame:Motion_scenario skos:closeMatch .
+frame:Being_incarcerated skos:closeMatch .
+frame:Hospitality skos:closeMatch bn:s00022606n:15.0,bn:s00066650n:38.0,bn:s00104341a:19.0 .
+frame:Violence skos:closeMatch .
+frame:Fugitive skos:closeMatch .
+frame:Commerce_sell skos:closeMatch bn:s00089254v:37.0,bn:s00093472v:28.0,bn:s00067419n:13.0,bn:s00082923v:16.0,bn:s00092926v:9.0,bn:s00007085n:68.0,bn:s00053479n:21.0,bn:s00068916n:12.0 .
+frame:Cause_to_make_progress skos:closeMatch bn:s00055475n:36.0,bn:s00089086v:14.0,bn:s00084211v:17.0,bn:s00089443v:12.0,bn:s00082573v:13.0,bn:s00026695n:21.0 .
+frame:Margin_of_resolution skos:closeMatch .
+frame:Ammunition skos:closeMatch bn:s00059000n:13.0,bn:s00003543n:60.0,bn:s00056340n:6.0,bn:s00013807n:53.0 .
+frame:Cause_change_of_position_on_a_scale skos:closeMatch bn:s00086418v:7.0,bn:s00065342n:32.0,bn:s00089667v:12.0,bn:s00087641v:9.0,bn:s00086417v:23.0,bn:s00090503v:15.0,bn:s00026697n:105.0,bn:s00085142v:17.0,bn:s00092332v:9.0,bn:s00025780n:31.0,bn:s00087721v:20.0,bn:s00094668v:10.0,bn:s00024615n:11.0,bn:s00082317v:56.0,bn:s00082397v:20.0,bn:s00084079v:44.0,bn:s00086221v:19.0,bn:s00088912v:46.0,bn:s00088456v:16.0 .
+frame:Employer_scenario skos:closeMatch .
+frame:Coming_up_with skos:closeMatch bn:s00085742v:36.0,bn:s00085788v:15.0,bn:s00085514v:21.0,bn:s00022277n:10.0,bn:s00085743v:38.0,bn:s00021595n:12.0,bn:s00085269v:14.0,bn:s00021551n:79.0,bn:s00085535v:17.0,bn:s00082315v:27.0,bn:s00086008v:24.0 .
+frame:Perception_experience skos:closeMatch bn:s00093929v:21.0,bn:s00093430v:23.0,bn:s00086708v:45.0,bn:s00032308n:15.0,bn:s00094832v:7.0,bn:s00093492v:16.0,bn:s00089277v:22.0,bn:s00088205v:23.0,bn:s00087864v:42.0,bn:s00061505n:5.0,bn:s00085496v:17.0,bn:s00084661v:11.0 .
+frame:Weapon skos:closeMatch bn:s00008179n:38.0,bn:s00057323n:13.0,bn:s00010513n:49.0,bn:s00011081n:60.0,bn:s00045703n:45.0,bn:s00015303n:15.0,bn:s00051676n:49.0,bn:s00049823n:62.0,bn:s00018125n:62.0,bn:s00042808n:43.0,bn:s00005704n:71.0,bn:s00080295n:109.0,bn:s00023989n:55.0,bn:s00071003n:65.0,bn:s00005789n:75.0,bn:s00055322n:42.0,bn:s00097697a:33.0,bn:s00067785n:47.0,bn:s00011917n:49.0,bn:s00005793n:35.0,bn:s00020040n:51.0,bn:s00006172n:24.0,bn:s00042221n:37.0,bn:s00032349n:74.0,bn:s00067576n:55.0,bn:s00041757n:36.0,bn:s00098418a:14.0,bn:s00071204n:50.0,bn:s00011296n:111.0,bn:s00111285a:15.0,bn:s00000003n:57.0,bn:s00102595a:18.0,bn:s00000149n:71.0,bn:s00049322n:77.0,bn:s00010514n:56.0,bn:s00037485n:11.0,bn:s00006938n:109.0,bn:s00012468n:42.0,bn:s00037366n:51.0,bn:s00029300n:50.0,bn:s00062860n:29.0,bn:s00069539n:61.0,bn:s00034676n:49.0,bn:s00055115n:23.0,bn:s00099577a:16.0 .
+frame:Work skos:closeMatch .
+frame:Chemical-sense_description skos:closeMatch bn:s00093929v:21.0,bn:s00113030a:15.0,bn:s00104556a:15.0,bn:s00034177n:45.0,bn:s00005845n:50.0,bn:s00103284a:3.0,bn:s00110068a:17.0,bn:s00111670a:7.0,bn:s00012433n:51.0,bn:s00092606v:13.0,bn:s00111668a:4.0,bn:s00058653n:104.0,bn:s00108180a:11.0,bn:s00111540a:17.0,bn:s00110947a:18.0 .
+frame:Condition_symptom_relation skos:closeMatch .
+frame:Suitability skos:closeMatch bn:s00103023a:19.0,bn:s00082214v:13.0,bn:s00075107n:16.0,bn:s00109114a:11.0,bn:s00088244v:7.0,bn:s00046587n:9.0,bn:s00100490a:32.0 .
+frame:People_by_origin skos:closeMatch bn:s00040292n:17.0,bn:s00002725n:54.0,bn:s00013170n:20.0,bn:s00033707n:115.0,bn:s00054679n:10.0,bn:s00030862n:94.0,bn:s00047448n:61.0,bn:s00047475n:32.0,bn:s00059645n:35.0,bn:s00041635n:53.0,bn:s00047706n:40.0,bn:s00011727n:38.0,bn:s00003343n:64.0,bn:s00014780n:9.0,bn:s00036456n:23.0,bn:s00028996n:24.0,bn:s00078635n:20.0,bn:s00057516n:32.0 .
+frame:Heat_potential skos:closeMatch bn:s00113698a:28.0 .
+frame:Attention_getting skos:closeMatch bn:s00018345n:122.0,bn:s00025097n:83.0,bn:s00012569n:49.0,bn:s00013372n:53.0,bn:s00054972n:63.0,bn:s00014190n:31.0,bn:s00034453n:58.0,bn:s00012592n:24.0,bn:s00071803n:15.0 .
+frame:Grasp skos:closeMatch bn:s00093430v:23.0,bn:s00082727v:44.0,bn:s00104854a:13.0,bn:s00100161a:23.0,bn:s00005125n:23.0,bn:s00082276v:42.0,bn:s00083821v:6.0,bn:s00095375v:17.0 .
+frame:Being_born skos:closeMatch .
+frame:Attack skos:closeMatch bn:s00035759n:55.0,bn:s00006994n:35.0,bn:s00085356v:53.0,bn:s00002021n:20.0,bn:s00003300n:57.0,bn:s00094403v:7.0,bn:s00083234v:11.0,bn:s00089352v:38.0,bn:s00058674n:45.0,bn:s00011929n:7.0,bn:s00082571v:32.0,bn:s00093525v:20.0,bn:s00074669n:36.0,bn:s00084313v:12.0,bn:s00089874v:23.0,bn:s00090011v:10.0,bn:s00089715v:8.0,bn:s00107765a:6.0,bn:s00046661n:48.0,bn:s00017789n:39.0,bn:s00090224v:59.0,bn:s00083756v:27.0,bn:s00006466n:32.0,bn:s00030706n:12.0,bn:s00082838v:35.0,bn:s00082837v:31.0,bn:s00046376n:24.0 .
+frame:Lose_possession skos:closeMatch .
+frame:Mention skos:closeMatch bn:s00082412v:23.0 .
+frame:Deny_or_grant_permission skos:closeMatch .
+frame:Participation skos:closeMatch bn:s00060799n:35.0,bn:s00030844n:70.0,bn:s00091451v:11.0,bn:s00060798n:6.0,bn:s00030977n:8.0,bn:s00105394a:25.0,bn:s00060837n:37.0,bn:s00087677v:17.0 .
+frame:Product_line skos:closeMatch .
+frame:Instance skos:closeMatch bn:s00016401n:29.0,bn:s00073222n:9.0,bn:s00032099n:48.0 .
+frame:Subjective_temperature skos:closeMatch bn:s00099981a:35.0,bn:s00100441a:35.0,bn:s00113698a:28.0,bn:s00104348a:42.0,bn:s00083579v:17.0 .
+frame:Product_development skos:closeMatch .
+frame:Avoiding skos:closeMatch bn:s00083978v:17.0,bn:s00087728v:14.0,bn:s00090048v:10.0,bn:s00087005v:20.0,bn:s00090059v:16.0,bn:s00082958v:23.0,bn:s00085002v:49.0,bn:s00071477n:9.0,bn:s00031992n:11.0,bn:s00082179v:20.0,bn:s00007485n:27.0,bn:s00088146v:12.0 .
+frame:Ingestion skos:closeMatch bn:s00085689v:25.0,bn:s00089769v:10.0,bn:s00089115v:19.0,bn:s00087460v:30.0,bn:s00083753v:10.0,bn:s00093773v:11.0,bn:s00083099v:7.0,bn:s00087321v:28.0,bn:s00071797n:6.0,bn:s00086843v:13.0,bn:s00089136v:10.0,bn:s00094593v:10.0,bn:s00091057v:18.0,bn:s00084015v:22.0,bn:s00089240v:30.0,bn:s00091091v:18.0,bn:s00086112v:22.0,bn:s00090189v:16.0,bn:s00084009v:12.0,bn:s00088085v:12.0,bn:s00085688v:12.0,bn:s00092210v:13.0,bn:s00028552n:14.0,bn:s00092211v:13.0,bn:s00090519v:9.0,bn:s00093918v:10.0,bn:s00094674v:9.0 .
+frame:Deception_scenario skos:closeMatch .
+frame:Topic skos:closeMatch bn:s00084133v:10.0,bn:s00082339v:32.0,bn:s00083240v:29.0,bn:s00066865n:9.0,bn:s00074900n:80.0,bn:s00082428v:11.0,bn:s00086931v:17.0 .
+frame:Eclipse skos:closeMatch bn:s00100577a:19.0,bn:s00113525a:15.0,bn:s00011317n:55.0,bn:s00083630v:41.0,bn:s00086960v:12.0,bn:s00085144v:13.0,bn:s00087154v:10.0,bn:s00083292v:27.0,bn:s00029648n:98.0,bn:s00083627v:20.0,bn:s00095503v:9.0,bn:s00085918v:17.0,bn:s00085509v:28.0,bn:s00100182a:10.0,bn:s00083639v:12.0,bn:s00083649v:14.0 .
+frame:Reference_text skos:closeMatch bn:s00093430v:23.0 .
+frame:Distributed_position skos:closeMatch .
+frame:Attempt_suasion skos:closeMatch bn:s00087689v:27.0,bn:s00082375v:17.0,bn:s00083332v:25.0,bn:s00085252v:42.0,bn:s00092007v:7.0,bn:s00089546v:5.0,bn:s00083559v:16.0,bn:s00087600v:13.0,bn:s00087843v:20.0,bn:s00082415v:14.0,bn:s00035778n:69.0,bn:s00088973v:5.0,bn:s00084327v:11.0,bn:s00083021v:20.0,bn:s00082418v:16.0 .
+frame:Abounding_with skos:closeMatch bn:s00100577a:19.0,bn:s00092154v:16.0,bn:s00085993v:6.0,bn:s00099939a:21.0,bn:s00091898v:13.0,bn:s00108172a:8.0,bn:s00108358a:9.0,bn:s00089941v:28.0,bn:s00100709a:18.0,bn:s00096498a:8.0,bn:s00103391a:25.0 .
+frame:Cause_to_land skos:closeMatch .
+frame:Research skos:closeMatch bn:s00089885v:9.0,bn:s00067280n:144.0,bn:s00092869v:14.0 .
+frame:Lose_possession_scenario skos:closeMatch .
+frame:Ordinal_numbers skos:closeMatch bn:s00103006a:19.0 .
+frame:Communication_response skos:closeMatch bn:s00085869v:12.0,bn:s00067180n:29.0,bn:s00066344n:28.0,bn:s00004451n:47.0,bn:s00020897n:45.0,bn:s00082646v:44.0,bn:s00085351v:11.0 .
+frame:Fire_break skos:closeMatch .
+frame:Eventive_affecting skos:closeMatch bn:s00085337v:37.0,bn:s00087980v:29.0 .
+frame:Reliance skos:closeMatch bn:s00026351n:19.0,bn:s00083095v:47.0,bn:s00067032n:8.0,bn:s00083451v:39.0 .
+frame:Physical_artworks skos:closeMatch bn:s00060202n:18.0,bn:s00074064n:60.0,bn:s00028562n:60.0,bn:s00026817n:49.0,bn:s00013327n:9.0,bn:s00045970n:39.0,bn:s00034406n:31.0,bn:s00069924n:56.0,bn:s00010417n:9.0,bn:s00032381n:87.0 .
+frame:Cycle_of_existence_scenario skos:closeMatch .
+frame:Cooking_creation skos:closeMatch bn:s00085533v:18.0,bn:s00083041v:16.0,bn:s00085784v:34.0,bn:s00095737v:7.0,bn:s00087106v:13.0 .
+frame:Obviousness skos:closeMatch bn:s00107706a:15.0,bn:s00097752a:15.0,bn:s00114319r:57.0,bn:s00086557v:28.0,bn:s00110277a:27.0,bn:s00019459n:27.0,bn:s00099802a:25.0,bn:s00093683v:12.0,bn:s00114740r:14.0,bn:s00112446a:16.0 .
+frame:Evidence skos:closeMatch bn:s00000648n:60.0,bn:s00095516v:13.0,bn:s00083436v:20.0,bn:s00005600n:25.0,bn:s00083912v:64.0,bn:s00085736v:7.0,bn:s00089586v:13.0,bn:s00082434v:32.0,bn:s00032045n:15.0,bn:s00094862v:15.0,bn:s00082754v:16.0,bn:s00085601v:25.0,bn:s00082913v:30.0,bn:s00087672v:22.0,bn:s00020446n:12.0,bn:s00087778v:12.0,bn:s00089623v:10.0,bn:s00083245v:20.0,bn:s00087782v:8.0,bn:s00086567v:51.0 .
+frame:Wearing skos:closeMatch bn:s00112452a:12.0,bn:s00089252v:7.0,bn:s00099736a:20.0,bn:s00083713v:12.0,bn:s00056748n:74.0,bn:s00079033n:7.0,bn:s00083113v:11.0,bn:s00103998a:10.0,bn:s00103635a:6.0,bn:s00103634a:11.0,bn:s00103999a:21.0,bn:s00113237a:7.0 .
+frame:Being_rotted skos:closeMatch bn:s00109284a:7.0 .
+frame:Communication_noise skos:closeMatch bn:s00085781v:10.0,bn:s00095864v:17.0,bn:s00085015v:10.0,bn:s00092254v:10.0,bn:s00094949v:13.0,bn:s00086087v:6.0,bn:s00089496v:26.0,bn:s00082975v:14.0,bn:s00084878v:20.0,bn:s00093371v:10.0,bn:s00084359v:13.0,bn:s00089097v:10.0,bn:s00083892v:9.0,bn:s00086057v:10.0,bn:s00090604v:14.0,bn:s00086050v:13.0,bn:s00084910v:10.0,bn:s00007627n:76.0,bn:s00083380v:24.0,bn:s00093963v:16.0,bn:s00090119v:11.0,bn:s00084388v:39.0,bn:s00089124v:11.0,bn:s00084947v:15.0,bn:s00090767v:10.0,bn:s00095196v:15.0,bn:s00083585v:7.0,bn:s00089025v:17.0,bn:s00089462v:17.0,bn:s00083126v:34.0,bn:s00091155v:8.0,bn:s00093987v:9.0,bn:s00090983v:17.0,bn:s00095727v:4.0,bn:s00089343v:18.0,bn:s00087357v:8.0,bn:s00089096v:20.0,bn:s00089058v:23.0,bn:s00092387v:5.0,bn:s00088689v:30.0,bn:s00094155v:7.0,bn:s00088805v:11.0,bn:s00095763v:10.0,bn:s00085998v:19.0,bn:s00092370v:7.0,bn:s00091653v:25.0,bn:s00083174v:10.0,bn:s00089090v:16.0 .
+frame:Being_active skos:closeMatch .
+frame:Motion_directional skos:closeMatch bn:s00085356v:53.0,bn:s00086856v:7.0,bn:s00095032v:12.0,bn:s00087365v:14.0,bn:s00091773v:8.0,bn:s00082613v:21.0,bn:s00082761v:18.0,bn:s00087087v:9.0 .
+frame:Giving_scenario skos:closeMatch .
+frame:Chemical_potency skos:closeMatch .
+frame:Nuclear_process skos:closeMatch bn:s00025674n:10.0,bn:s00036931n:16.0,bn:s00034878n:30.0,bn:s00086362v:15.0,bn:s00083597v:52.0,bn:s00065877n:24.0,bn:s00103018a:22.0,bn:s00109397a:17.0,bn:s00097697a:33.0 .
+frame:Carry_goods skos:closeMatch bn:s00084554v:22.0,bn:s00084564v:8.0 .
+frame:Sequence skos:closeMatch bn:s00070575n:13.0,bn:s00070574n:45.0,bn:s00059313n:12.0,bn:s00070609n:15.0 .
+frame:Have_as_requirement skos:closeMatch bn:s00082822v:41.0 .
+frame:Contrition skos:closeMatch bn:s00092683v:17.0,bn:s00007070n:23.0,bn:s00042129n:42.0,bn:s00061330n:51.0,bn:s00108405a:23.0,bn:s00097970a:26.0,bn:s00021461n:58.0 .
+frame:Law_enforcement_agency skos:closeMatch .
+frame:Ranked_expectation skos:closeMatch bn:s00113852a:22.0 .
+frame:Extradition skos:closeMatch bn:s00086534v:18.0,bn:s00032474n:61.0 .
+frame:Being_detached skos:closeMatch bn:s00106169a:15.0,bn:s00101476a:18.0 .
+frame:Court_examination skos:closeMatch bn:s00023955n:54.0,bn:s00087788v:11.0,bn:s00032094n:80.0,bn:s00023946n:22.0 .
+frame:Exporting skos:closeMatch bn:s00087885v:15.0,bn:s00032363n:39.0 .
+frame:Intentional_deception skos:closeMatch .
+frame:Operational_testing skos:closeMatch bn:s00087731v:41.0,bn:s00054378n:17.0,bn:s00076680n:14.0 .
+frame:Social_interaction_evaluation skos:closeMatch bn:s00101575a:15.0,bn:s00112776a:8.0,bn:s00113699a:12.0,bn:s00108756a:7.0,bn:s00104677a:10.0,bn:s00108680a:18.0,bn:s00111861a:17.0,bn:s00099728a:22.0,bn:s00109738a:14.0,bn:s00105617a:29.0,bn:s00109977a:13.0,bn:s00110840a:15.0,bn:s00100316a:14.0,bn:s00103344a:19.0,bn:s00111863a:10.0,bn:s00104863a:9.0,bn:s00105177a:7.0,bn:s00103687a:15.0,bn:s00112919a:9.0,bn:s00111540a:17.0,bn:s00101406a:21.0,bn:s00100125a:20.0,bn:s00103672a:41.0 .
+frame:Fluidic_motion skos:closeMatch bn:s00087325v:11.0,bn:s00090257v:17.0,bn:s00091157v:13.0,bn:s00082975v:14.0,bn:s00089344v:10.0,bn:s00087305v:24.0,bn:s00089128v:16.0,bn:s00090241v:9.0,bn:s00094436v:9.0,bn:s00093197v:13.0,bn:s00094235v:14.0,bn:s00093998v:8.0,bn:s00087479v:10.0,bn:s00093203v:5.0,bn:s00087718v:24.0,bn:s00085894v:24.0,bn:s00094141v:10.0,bn:s00089126v:24.0,bn:s00084612v:7.0 .
+frame:Spelling_and_pronouncing skos:closeMatch bn:s00090857v:7.0,bn:s00093287v:25.0,bn:s00090848v:14.0,bn:s00085489v:27.0,bn:s00094109v:46.0,bn:s00082800v:48.0 .
+frame:Cache skos:closeMatch .
+frame:Temporary_leave skos:closeMatch .
+frame:Estimating skos:closeMatch bn:s00005164n:79.0,bn:s00082743v:21.0,bn:s00089105v:39.0 .
+frame:Post_lose_possession skos:closeMatch .
+frame:Dressing skos:closeMatch bn:s00088750v:8.0,bn:s00087291v:27.0,bn:s00082876v:24.0,bn:s00093891v:9.0,bn:s00082917v:47.0 .
+frame:Recording skos:closeMatch bn:s00087679v:11.0,bn:s00092674v:12.0,bn:s00084953v:7.0,bn:s00087137v:11.0 .
+frame:Domination skos:closeMatch .
+frame:Bounded_region skos:closeMatch .
+frame:Reliance_on_expectation skos:closeMatch bn:s00083095v:47.0,bn:s00083451v:39.0 .
+frame:Noncombatant skos:closeMatch .
+frame:Commerce_money-transfer skos:closeMatch .
+frame:Ratification skos:closeMatch bn:s00092379v:27.0,bn:s00021758n:39.0 .
+frame:Exemplariness skos:closeMatch .
+frame:Transfer_scenario skos:closeMatch .
+frame:Rate_quantification skos:closeMatch .
+frame:Medical_specialties skos:closeMatch bn:s00067619n:53.0,bn:s00057297n:34.0,bn:s00002924n:59.0,bn:s00059590n:22.0,bn:s00044256n:50.0,bn:s00076843n:79.0,bn:s00026460n:47.0,bn:s00065945n:10.0,bn:s00058966n:45.0,bn:s00044543n:117.0,bn:s00057263n:41.0,bn:s00042468n:56.0,bn:s00054899n:68.0,bn:s00003798n:91.0,bn:s00015982n:31.0,bn:s00018539n:52.0,bn:s00026275n:93.0,bn:s00037467n:44.0,bn:s00065042n:67.0,bn:s00018538n:79.0,bn:s00042344n:67.0,bn:s00031159n:66.0,bn:s00030768n:67.0,bn:s00054126n:66.0,bn:s00060151n:54.0,bn:s00046058n:51.0,bn:s00019824n:49.0 .
+frame:Intentionally_create skos:closeMatch bn:s00087732v:15.0,bn:s00023652n:9.0,bn:s00088724v:31.0,bn:s00037681n:26.0,bn:s00075742n:49.0,bn:s00086013v:39.0,bn:s00064584n:16.0,bn:s00029598n:10.0,bn:s00087106v:13.0,bn:s00087733v:38.0,bn:s00094713v:27.0,bn:s00086008v:24.0 .
+frame:Connecting_architecture skos:closeMatch bn:s00073853n:7.0,bn:s00042663n:31.0,bn:s00022867n:17.0,bn:s00073851n:56.0,bn:s00030333n:64.0,bn:s00028247n:56.0,bn:s00031540n:57.0,bn:s00035736n:61.0,bn:s00081285n:69.0 .
+frame:Activity_ongoing skos:closeMatch bn:s00084594v:42.0,bn:s00090070v:19.0,bn:s00052867n:6.0,bn:s00083242v:42.0,bn:s00089384v:63.0,bn:s00085714v:31.0,bn:s00085716v:36.0 .
+frame:Team skos:closeMatch .
+frame:Prominence skos:closeMatch bn:s00109358a:26.0,bn:s00100329a:15.0 .
+frame:Being_questionable skos:closeMatch .
+frame:Connectors skos:closeMatch bn:s00071177n:49.0,bn:s00001366n:37.0,bn:s00028650n:47.0,bn:s00061272n:23.0,bn:s00077028n:105.0,bn:s00011975n:14.0,bn:s00049602n:40.0,bn:s00069865n:83.0,bn:s00073960n:40.0,bn:s00052672n:81.0,bn:s00058343n:34.0,bn:s00074544n:29.0,bn:s00081386n:9.0,bn:s00022589n:47.0,bn:s00051401n:17.0,bn:s00056728n:76.0,bn:s00068266n:50.0,bn:s00067703n:32.0,bn:s00011902n:29.0,bn:s00040758n:44.0,bn:s00081445n:34.0,bn:s00017489n:25.0,bn:s00021903n:51.0,bn:s00077211n:10.0,bn:s00052861n:78.0 .
+frame:Undergoing skos:closeMatch bn:s00095355v:13.0,bn:s00016592n:57.0,bn:s00079940n:18.0 .
+frame:Attributes skos:closeMatch .
+frame:Social_event skos:closeMatch bn:s00066281n:54.0,bn:s00071089n:15.0,bn:s00008123n:12.0,bn:s00034151n:25.0,bn:s00016987n:6.0,bn:s00072661n:14.0,bn:s00025145n:5.0,bn:s00066507n:45.0,bn:s00008523n:13.0,bn:s00062261n:44.0,bn:s00020931n:12.0,bn:s00008828n:11.0,bn:s00011467n:11.0,bn:s00008433n:7.0,bn:s00027207n:11.0,bn:s00032732n:16.0,bn:s00033859n:7.0,bn:s00055393n:11.0,bn:s00060835n:17.0,bn:s00089484v:7.0,bn:s00022389n:8.0 .
+frame:Firefighting skos:closeMatch .
+frame:Perception_body skos:closeMatch bn:s00089925v:8.0,bn:s00094951v:34.0,bn:s00082484v:8.0,bn:s00084346v:12.0,bn:s00082264v:16.0,bn:s00083516v:11.0,bn:s00089137v:14.0,bn:s00092015v:11.0,bn:s00045286n:59.0,bn:s00041102n:141.0 .
+frame:Money skos:closeMatch bn:s00016448n:50.0,bn:s00016459n:11.0,bn:s00055644n:54.0,bn:s00015497n:13.0,bn:s00013194n:135.0,bn:s00012054n:54.0 .
+frame:Actually_occurring_entity skos:closeMatch bn:s00096397a:22.0 .
+frame:Simple_name skos:closeMatch bn:s00081546n:66.0,bn:s00076587n:58.0 .
+frame:Assistance skos:closeMatch bn:s00082867v:39.0,bn:s00089312v:9.0,bn:s00002155n:62.0,bn:s00082135v:13.0,bn:s00094563v:13.0,bn:s00084692v:32.0,bn:s00104094a:13.0,bn:s00082481v:24.0 .
+frame:Opinion skos:closeMatch bn:s00082665v:10.0,bn:s00084374v:9.0,bn:s00047691n:55.0,bn:s00009716n:42.0,bn:s00059169n:19.0,bn:s00087864v:42.0,bn:s00088818v:21.0,bn:s00083370v:51.0,bn:s00089105v:39.0,bn:s00045216n:28.0 .
+frame:Reading_activity skos:closeMatch .
+frame:Measures skos:closeMatch .
+frame:Convey_importance skos:closeMatch bn:s00087572v:16.0,bn:s00082195v:48.0 .
+frame:Fire_stopping_scenario skos:closeMatch .
+frame:Awareness skos:closeMatch bn:s00085261v:36.0,bn:s00020452n:67.0,bn:s00100302a:38.0,bn:s00045800n:51.0,bn:s00021432n:49.0,bn:s00094633v:25.0,bn:s00005134n:86.0,bn:s00097879a:40.0,bn:s00045216n:28.0,bn:s00082872v:38.0,bn:s00021547n:116.0,bn:s00064278n:16.0,bn:s00082727v:44.0,bn:s00006559n:23.0,bn:s00045892n:21.0,bn:s00007498n:83.0,bn:s00083370v:51.0,bn:s00085516v:28.0,bn:s00112923a:14.0,bn:s00089105v:39.0,bn:s00095375v:17.0 .
+frame:Placing skos:closeMatch bn:s00091885v:6.0,bn:s00094404v:7.0,bn:s00087554v:32.0,bn:s00086627v:17.0,bn:s00083814v:6.0,bn:s00083493v:4.0,bn:s00083029v:4.0,bn:s00089748v:11.0,bn:s00092906v:9.0,bn:s00086304v:22.0,bn:s00084356v:28.0,bn:s00087231v:8.0,bn:s00083849v:6.0,bn:s00088164v:12.0,bn:s00087593v:21.0,bn:s00093144v:27.0,bn:s00093447v:16.0,bn:s00087574v:11.0,bn:s00095635v:7.0,bn:s00089274v:29.0,bn:s00082777v:17.0,bn:s00091631v:19.0,bn:s00091542v:7.0,bn:s00089941v:28.0,bn:s00085958v:24.0,bn:s00083030v:7.0,bn:s00087594v:10.0,bn:s00089187v:10.0,bn:s00083445v:28.0,bn:s00090224v:59.0,bn:s00093413v:12.0,bn:s00086248v:11.0,bn:s00089596v:14.0,bn:s00089769v:10.0,bn:s00083489v:25.0,bn:s00084154v:12.0,bn:s00090223v:10.0,bn:s00030615n:50.0,bn:s00094239v:6.0,bn:s00091677v:12.0,bn:s00094502v:8.0,bn:s00093672v:6.0,bn:s00091683v:9.0,bn:s00091692v:21.0,bn:s00082753v:6.0,bn:s00087437v:14.0,bn:s00090417v:7.0,bn:s00085988v:8.0,bn:s00086626v:18.0,bn:s00090259v:7.0,bn:s00091439v:13.0,bn:s00093609v:12.0,bn:s00088676v:11.0,bn:s00084364v:7.0,bn:s00046886n:22.0,bn:s00091374v:25.0,bn:s00087355v:21.0,bn:s00093595v:9.0 .
+frame:Employing skos:closeMatch bn:s00085424v:11.0,bn:s00035770n:29.0,bn:s00030618n:13.0,bn:s00082705v:58.0,bn:s00081593n:19.0,bn:s00030616n:67.0,bn:s00030624n:17.0,bn:s00073801n:60.0 .
+frame:Crime_scenario skos:closeMatch .
+frame:Cause_to_move_in_place skos:closeMatch bn:s00095233v:65.0,bn:s00094689v:16.0,bn:s00082470v:20.0,bn:s00094655v:11.0,bn:s00086115v:49.0,bn:s00083512v:10.0,bn:s00088938v:18.0,bn:s00095533v:14.0,bn:s00093459v:8.0 .
+frame:Clemency skos:closeMatch bn:s00019708n:60.0 .
+frame:Counterattack skos:closeMatch .
+frame:Receive_visitor_scenario skos:closeMatch .
+frame:Idiosyncrasy skos:closeMatch bn:s00035577n:50.0,bn:s00024486n:55.0,bn:s00027769n:8.0 .
+frame:Risky_situation skos:closeMatch bn:s00100895a:20.0,bn:s00110046a:23.0,bn:s00030747n:116.0,bn:s00025172n:9.0,bn:s00116894r:12.0,bn:s00116872r:9.0,bn:s00054311n:21.0 .
+frame:Redirecting skos:closeMatch bn:s00086749v:11.0,bn:s00082505v:15.0,bn:s00086721v:4.0 .
+frame:Renunciation skos:closeMatch bn:s00082129v:15.0,bn:s00035900n:14.0 .
+frame:Wholes_and_parts skos:closeMatch .
+frame:Buildings skos:closeMatch bn:s00041586n:63.0,bn:s00019329n:52.0,bn:s00008462n:87.0,bn:s00021667n:16.0,bn:s00080000n:18.0,bn:s00022071n:66.0,bn:s00040492n:69.0,bn:s00002281n:42.0,bn:s00071019n:34.0,bn:s00013899n:16.0,bn:s00017942n:47.0,bn:s00011337n:29.0,bn:s00051813n:11.0,bn:s00044896n:60.0,bn:s00037552n:36.0,bn:s00035991n:63.0,bn:s00052872n:15.0,bn:s00012180n:37.0,bn:s00050970n:7.0,bn:s00021986n:15.0,bn:s00014438n:40.0,bn:s00007078n:50.0,bn:s00042421n:15.0,bn:s00044994n:46.0,bn:s00070964n:39.0,bn:s00076095n:54.0,bn:s00020602n:99.0,bn:s00059757n:16.0,bn:s00000356n:116.0,bn:s00028288n:90.0,bn:s00009288n:93.0,bn:s00045874n:43.0,bn:s00061435n:15.0,bn:s00045064n:59.0,bn:s00055995n:38.0,bn:s00044967n:63.0,bn:s00013888n:30.0,bn:s00072030n:43.0,bn:s00055976n:41.0,bn:s00018995n:48.0,bn:s00027491n:22.0,bn:s00017134n:123.0,bn:s00081183n:43.0,bn:s00017544n:54.0,bn:s00076511n:35.0,bn:s00070961n:8.0,bn:s00009702n:27.0,bn:s00001676n:92.0,bn:s00075688n:90.0,bn:s00065134n:9.0,bn:s00035975n:33.0,bn:s00008614n:53.0,bn:s00042667n:38.0,bn:s00040620n:113.0,bn:s00055629n:13.0,bn:s00005532n:114.0,bn:s00053510n:16.0,bn:s00026387n:28.0,bn:s00045028n:30.0,bn:s00077766n:40.0,bn:s00075277n:69.0,bn:s00044225n:27.0,bn:s00013722n:90.0,bn:s00044557n:10.0,bn:s00045052n:29.0,bn:s00015841n:55.0,bn:s00033693n:23.0,bn:s00060171n:54.0,bn:s00008971n:35.0,bn:s00016569n:10.0,bn:s00007124n:34.0,bn:s00028057n:43.0,bn:s00074453n:48.0,bn:s00061406n:87.0,bn:s00044825n:60.0,bn:s00008857n:47.0,bn:s00029432n:43.0,bn:s00037283n:43.0,bn:s00068351n:27.0,bn:s00001061n:49.0,bn:s00045002n:41.0,bn:s00053246n:51.0,bn:s00024959n:34.0,bn:s00015840n:7.0,bn:s00076362n:47.0 .
+frame:Manufacturing skos:closeMatch bn:s00052910n:11.0,bn:s00053285n:21.0,bn:s00104995a:16.0,bn:s00085678v:31.0,bn:s00087106v:13.0,bn:s00084082v:17.0,bn:s00064590n:21.0,bn:s00032594n:88.0 .
+frame:Arithmetic_non-commutative skos:closeMatch .
+frame:Rejuvenation skos:closeMatch bn:s00066993n:10.0,bn:s00092463v:3.0,bn:s00092665v:15.0,bn:s00067410n:18.0,bn:s00088570v:20.0,bn:s00089888v:20.0,bn:s00092663v:21.0,bn:s00067414n:17.0,bn:s00092670v:15.0,bn:s00089887v:11.0,bn:s00092923v:17.0 .
+frame:Fire_end_scenario skos:closeMatch .
+frame:Armor skos:closeMatch .
+frame:Sending skos:closeMatch bn:s00086689v:12.0,bn:s00093486v:13.0,bn:s00087885v:15.0,bn:s00087898v:11.0,bn:s00083120v:6.0,bn:s00026581n:31.0,bn:s00088506v:12.0,bn:s00087952v:26.0,bn:s00093140v:7.0,bn:s00090548v:19.0,bn:s00084354v:18.0,bn:s00094861v:8.0 .
+frame:Institutionalization skos:closeMatch bn:s00084807v:14.0,bn:s00021036n:12.0,bn:s00089483v:16.0,bn:s00044900n:8.0 .
+frame:Sharing skos:closeMatch .
+frame:Alternativity skos:closeMatch .
+frame:Intercepting skos:closeMatch bn:s00047057n:15.0,bn:s00089810v:16.0 .
+frame:Disgraceful_situation skos:closeMatch .
+frame:Activity_pause skos:closeMatch bn:s00055864n:5.0,bn:s00088557v:12.0,bn:s00061075n:4.0,bn:s00036411n:17.0 .
+frame:Terrorism skos:closeMatch bn:s00010544n:41.0,bn:s00076628n:24.0,bn:s00076630n:56.0,bn:s00001082n:76.0,bn:s00029652n:11.0 .
+frame:Make_noise skos:closeMatch bn:s00083318v:11.0,bn:s00093211v:11.0,bn:s00085046v:10.0,bn:s00091038v:22.0,bn:s00085028v:7.0,bn:s00085949v:15.0,bn:s00082975v:14.0,bn:s00091505v:12.0,bn:s00089097v:10.0,bn:s00082971v:18.0,bn:s00083892v:9.0,bn:s00087901v:31.0,bn:s00086057v:10.0,bn:s00084910v:10.0,bn:s00083380v:24.0,bn:s00093970v:9.0,bn:s00084388v:39.0,bn:s00090767v:10.0,bn:s00085782v:10.0,bn:s00090032v:18.0,bn:s00089508v:7.0,bn:s00084709v:14.0,bn:s00086659v:23.0,bn:s00091155v:8.0,bn:s00095009v:11.0,bn:s00093987v:9.0,bn:s00085948v:13.0,bn:s00089109v:8.0,bn:s00087357v:8.0,bn:s00089058v:23.0,bn:s00092387v:5.0,bn:s00088689v:30.0,bn:s00086109v:9.0,bn:s00084839v:14.0,bn:s00095198v:7.0,bn:s00085015v:10.0,bn:s00095864v:17.0,bn:s00092238v:15.0,bn:s00090506v:7.0,bn:s00089463v:9.0,bn:s00094949v:13.0,bn:s00083250v:8.0,bn:s00089496v:26.0,bn:s00083888v:11.0,bn:s00084878v:20.0,bn:s00093371v:10.0,bn:s00088255v:13.0,bn:s00083753v:10.0,bn:s00089315v:12.0,bn:s00094005v:10.0,bn:s00086049v:14.0,bn:s00089026v:8.0,bn:s00083778v:11.0,bn:s00095748v:7.0,bn:s00091754v:15.0,bn:s00091487v:10.0,bn:s00085856v:17.0,bn:s00084898v:23.0,bn:s00089124v:11.0,bn:s00084694v:6.0,bn:s00088919v:10.0,bn:s00084947v:15.0,bn:s00095280v:15.0,bn:s00093977v:5.0,bn:s00091696v:14.0,bn:s00083126v:34.0,bn:s00084360v:15.0,bn:s00090742v:11.0,bn:s00089497v:20.0,bn:s00089343v:18.0,bn:s00092188v:18.0,bn:s00083557v:9.0,bn:s00095747v:31.0,bn:s00088805v:11.0,bn:s00093794v:6.0,bn:s00088362v:17.0,bn:s00085998v:19.0,bn:s00093286v:20.0,bn:s00092370v:7.0,bn:s00083513v:19.0,bn:s00090125v:19.0,bn:s00089090v:16.0,bn:s00085102v:14.0 .
+frame:Range skos:closeMatch bn:s00105269a:18.0,bn:s00048900n:10.0,bn:s00066138n:18.0,bn:s00027747n:10.0,bn:s00074669n:36.0,bn:s00061746n:16.0,bn:s00029422n:21.0 .
+frame:Weather skos:closeMatch bn:s00042524n:9.0,bn:s00075171n:74.0,bn:s00111256a:16.0,bn:s00102719a:32.0,bn:s00006808n:81.0,bn:s00066057n:11.0,bn:s00092315v:22.0,bn:s00011301n:98.0,bn:s00030169n:95.0,bn:s00019780n:98.0,bn:s00074458n:79.0 .
+frame:Rate_description skos:closeMatch .
+frame:Improvised_explosive_device skos:closeMatch .
+frame:Emotions_success_or_failure skos:closeMatch .
+frame:Identity skos:closeMatch .
+frame:Destroying skos:closeMatch bn:s00083679v:6.0,bn:s00082422v:9.0,bn:s00086685v:44.0,bn:s00086988v:13.0,bn:s00004336n:22.0,bn:s00082634v:42.0,bn:s00026610n:12.0,bn:s00086563v:23.0,bn:s00101259a:14.0,bn:s00086698v:18.0,bn:s00090107v:12.0,bn:s00090108v:8.0,bn:s00027439n:16.0,bn:s00095379v:9.0,bn:s00026163n:13.0 .
+frame:Make_cognitive_connection skos:closeMatch bn:s00082868v:48.0,bn:s00021901n:67.0,bn:s00051401n:17.0,bn:s00085623v:34.0 .
+frame:Subjective_influence skos:closeMatch bn:s00088666v:15.0,bn:s00046926n:21.0,bn:s00083272v:21.0,bn:s00082426v:12.0,bn:s00046065n:19.0,bn:s00082304v:34.0,bn:s00021961n:72.0,bn:s00089778v:10.0,bn:s00046694n:6.0,bn:s00082313v:16.0,bn:s00105083a:15.0,bn:s00088456v:16.0 .
+frame:Scrutinizing_for skos:closeMatch .
+frame:Becoming_aware skos:closeMatch bn:s00086708v:45.0,bn:s00086904v:29.0,bn:s00086933v:23.0,bn:s00085329v:17.0,bn:s00085496v:17.0,bn:s00027529n:30.0,bn:s00086664v:11.0,bn:s00085319v:24.0,bn:s00084683v:14.0,bn:s00085337v:37.0,bn:s00084231v:28.0,bn:s00092674v:12.0,bn:s00093287v:25.0,bn:s00090740v:19.0,bn:s00090423v:15.0 .
+frame:Irregular_combatants skos:closeMatch .
+frame:Undergo_transformation skos:closeMatch .
+frame:Activity_ready_state skos:closeMatch bn:s00108965a:9.0,bn:s00109485a:33.0 .
+frame:Social_desirability skos:closeMatch .
+frame:Legal_rulings skos:closeMatch .
+frame:Surrendering_possession skos:closeMatch bn:s00084713v:36.0,bn:s00088546v:21.0,bn:s00084712v:22.0,bn:s00088859v:17.0 .
+frame:Suspicion skos:closeMatch bn:s00075447n:3.0,bn:s00087071v:19.0 .
+frame:Waking_up skos:closeMatch bn:s00085385v:13.0,bn:s00082769v:36.0,bn:s00088793v:13.0 .
+frame:System skos:closeMatch bn:s00021369n:15.0,bn:s00016389n:25.0,bn:s00075759n:19.0 .
+frame:Endeavor_failure skos:closeMatch .
+frame:Rashness skos:closeMatch bn:s00104632a:19.0,bn:s00108344a:23.0 .
+frame:Familiarity skos:closeMatch bn:s00085261v:36.0,bn:s00048900n:10.0,bn:s00102758a:13.0,bn:s00112731a:10.0,bn:s00107267a:26.0 .
+frame:Sexual_reproduction_scenario skos:closeMatch .
+frame:Judgment skos:closeMatch bn:s00086943v:15.0,bn:s00005150n:4.0,bn:s00083882v:26.0,bn:s00087786v:17.0,bn:s00082367v:9.0,bn:s00083398v:14.0,bn:s00031654n:47.0,bn:s00012762n:17.0,bn:s00007503n:51.0,bn:s00027434n:10.0,bn:s00086512v:8.0,bn:s00027524n:18.0,bn:s00074187n:46.0,bn:s00029691n:75.0,bn:s00088068v:27.0,bn:s00083545v:5.0,bn:s00107406a:22.0,bn:s00067209n:12.0,bn:s00083771v:7.0,bn:s00100672a:24.0,bn:s00025114n:53.0,bn:s00012898n:106.0,bn:s00001455n:8.0,bn:s00000704n:71.0,bn:s00082724v:16.0,bn:s00082250v:15.0,bn:s00087736v:32.0,bn:s00011096n:12.0,bn:s00000521n:51.0,bn:s00086884v:14.0,bn:s00086616v:10.0,bn:s00082212v:35.0,bn:s00022146n:72.0,bn:s00048092n:23.0 .
+frame:Ineffability skos:closeMatch bn:s00048071n:3.0,bn:s00052688n:91.0 .
+frame:Cause_to_be_wet skos:closeMatch bn:s00089514v:11.0,bn:s00089549v:8.0,bn:s00089634v:12.0,bn:s00087196v:15.0,bn:s00095714v:9.0,bn:s00086268v:16.0 .
+frame:Surrounding skos:closeMatch .
+frame:Trying_out skos:closeMatch bn:s00082844v:40.0,bn:s00087731v:41.0 .
+frame:Medical_professionals skos:closeMatch bn:s00003755n:54.0,bn:s00027976n:93.0,bn:s00002844n:13.0,bn:s00032530n:34.0,bn:s00012693n:30.0,bn:s00079355n:8.0,bn:s00000736n:19.0,bn:s00007663n:30.0,bn:s00042343n:13.0,bn:s00030767n:16.0,bn:s00067618n:7.0,bn:s00019825n:15.0,bn:s00018540n:6.0,bn:s00046057n:14.0,bn:s00064564n:42.0,bn:s00003803n:17.0,bn:s00073254n:46.0,bn:s00043356n:18.0,bn:s00059591n:13.0,bn:s00026459n:16.0,bn:s00040282n:14.0,bn:s00065944n:17.0,bn:s00037466n:11.0,bn:s00058325n:23.0,bn:s00000737n:26.0,bn:s00058965n:10.0,bn:s00065028n:5.0,bn:s00015981n:65.0,bn:s00064347n:27.0,bn:s00059122n:37.0,bn:s00043277n:35.0 .
+frame:Age skos:closeMatch bn:s00001544n:41.0,bn:s00107786a:37.0,bn:s00001936n:12.0,bn:s00104589a:25.0,bn:s00107267a:26.0,bn:s00103326a:21.0 .
+frame:Colonization skos:closeMatch bn:s00087441v:40.0,bn:s00091535v:7.0,bn:s00020714n:46.0,bn:s00020718n:32.0,bn:s00085301v:37.0,bn:s00090426v:8.0 .
+frame:Quarreling skos:closeMatch bn:s00001789n:26.0,bn:s00083470v:18.0,bn:s00093143v:20.0,bn:s00021769n:29.0,bn:s00027423n:8.0,bn:s00010243n:42.0,bn:s00005599n:85.0,bn:s00083891v:18.0,bn:s00082755v:9.0,bn:s00042505n:10.0,bn:s00029212n:19.0,bn:s00034378n:10.0,bn:s00082558v:18.0,bn:s00085711v:22.0 .
+frame:Closure skos:closeMatch bn:s00095425v:10.0,bn:s00093405v:13.0,bn:s00090157v:11.0,bn:s00095879v:9.0,bn:s00095332v:18.0,bn:s00095447v:10.0,bn:s00095318v:7.0,bn:s00095387v:5.0,bn:s00084179v:10.0,bn:s00084486v:9.0,bn:s00088052v:22.0,bn:s00084326v:6.0,bn:s00085162v:34.0,bn:s00091165v:13.0,bn:s00083498v:17.0 .
+frame:Mental_activity skos:closeMatch .
+frame:Pre_getting skos:closeMatch .
+frame:Social_event_collective skos:closeMatch bn:s00005111n:20.0 .
+frame:Dead_or_alive skos:closeMatch bn:s00002761n:33.0,bn:s00104777a:11.0,bn:s00025500n:9.0,bn:s00096787a:36.0,bn:s00100948a:18.0 .
+frame:Commitment skos:closeMatch bn:s00064699n:45.0,bn:s00058421n:61.0,bn:s00091137v:15.0,bn:s00089100v:8.0,bn:s00091749v:12.0,bn:s00049573n:49.0,bn:s00095582v:10.0,bn:s00082881v:5.0,bn:s00085427v:41.0,bn:s00006566n:13.0,bn:s00077033n:35.0,bn:s00085902v:20.0,bn:s00082199v:28.0,bn:s00021035n:6.0,bn:s00094656v:5.0,bn:s00080266n:33.0,bn:s00023345n:38.0,bn:s00087612v:21.0 .
+frame:Exemplar skos:closeMatch bn:s00032100n:26.0,bn:s00032101n:24.0,bn:s00031258n:38.0 .
+frame:Repayment skos:closeMatch bn:s00092811v:5.0,bn:s00066859n:8.0,bn:s00091499v:10.0 .
+frame:Releasing_from_custody skos:closeMatch .
+frame:Meet_with_response skos:closeMatch bn:s00082348v:20.0,bn:s00087598v:9.0 .
+frame:Light_movement skos:closeMatch bn:s00040637n:18.0,bn:s00035201n:15.0,bn:s00085847v:10.0,bn:s00029903n:70.0,bn:s00022922n:10.0,bn:s00088882v:8.0,bn:s00088267v:11.0,bn:s00040636n:9.0,bn:s00088299v:15.0,bn:s00052373n:59.0,bn:s00083216v:34.0,bn:s00093345v:15.0,bn:s00088881v:10.0,bn:s00040677n:24.0,bn:s00069687n:10.0,bn:s00035052n:7.0,bn:s00083218v:15.0,bn:s00083612v:20.0,bn:s00093622v:5.0 .
+frame:Controller_object skos:closeMatch .
+frame:Using skos:closeMatch bn:s00030627n:26.0,bn:s00082705v:58.0,bn:s00036838n:25.0,bn:s00091177v:17.0,bn:s00005092n:25.0 .
+frame:Planting skos:closeMatch bn:s00093447v:16.0,bn:s00091692v:21.0 .
+frame:Drop_in_on skos:closeMatch bn:s00091850v:6.0,bn:s00085353v:17.0 .
+frame:Protest skos:closeMatch .
+frame:Knot_creation skos:closeMatch bn:s00094956v:13.0 .
+frame:Preference skos:closeMatch bn:s00084932v:23.0,bn:s00088060v:8.0 .
+frame:Activity_prepare skos:closeMatch bn:s00088250v:41.0,bn:s00085784v:34.0,bn:s00085395v:14.0,bn:s00064168n:38.0 .
+frame:Emotion_directed skos:closeMatch bn:s00109711a:18.0,bn:s00046491n:34.0,bn:s00047077n:25.0,bn:s00036910n:36.0,bn:s00027430n:44.0,bn:s00027640n:9.0,bn:s00041463n:18.0,bn:s00004188n:11.0,bn:s00021558n:18.0,bn:s00040645n:26.0,bn:s00044817n:21.0,bn:s00004085n:33.0,bn:s00097107a:19.0,bn:s00012232n:55.0,bn:s00030089n:17.0,bn:s00034003n:30.0,bn:s00030466n:60.0,bn:s00113222a:8.0,bn:s00002071n:36.0,bn:s00061693n:12.0,bn:s00109657a:16.0,bn:s00103933a:34.0,bn:s00040703n:10.0,bn:s00026591n:56.0,bn:s00007921n:92.0,bn:s00003242n:24.0,bn:s00026022n:22.0,bn:s00110928a:32.0,bn:s00100364a:13.0,bn:s00074821n:5.0,bn:s00068783n:13.0,bn:s00017483n:19.0,bn:s00003692n:5.0,bn:s00108683a:8.0,bn:s00101560a:6.0,bn:s00027678n:11.0,bn:s00096666a:8.0,bn:s00072854n:18.0,bn:s00085422v:19.0,bn:s00026578n:13.0,bn:s00013281n:45.0,bn:s00101114a:10.0,bn:s00004357n:14.0,bn:s00025999n:88.0,bn:s00100196a:26.0,bn:s00027498n:10.0,bn:s00004808n:11.0,bn:s00102508a:8.0,bn:s00102071a:12.0,bn:s00032108n:6.0,bn:s00010002n:22.0,bn:s00027518n:43.0,bn:s00111567a:22.0,bn:s00097581a:22.0,bn:s00002029n:7.0,bn:s00110036a:33.0,bn:s00027786n:28.0,bn:s00032148n:17.0,bn:s00027568n:17.0,bn:s00108484a:13.0,bn:s00101479a:11.0 .
+frame:Being_wet skos:closeMatch bn:s00113818a:23.0,bn:s00100190a:17.0 .
+frame:Inclusion skos:closeMatch bn:s00104825a:22.0,bn:s00085499v:23.0,bn:s00089660v:7.0,bn:s00087798v:25.0,bn:s00089240v:30.0 .
+frame:Time_vector skos:closeMatch bn:s00114297r:22.0,bn:s00115252r:14.0,bn:s00114422r:57.0,bn:s00114245r:23.0,bn:s00117254r:7.0,bn:s00114165r:49.0,bn:s00114423r:20.0,bn:s00114185r:16.0 .
+frame:Absorb_heat skos:closeMatch bn:s00083041v:16.0,bn:s00094350v:16.0,bn:s00083737v:12.0,bn:s00083535v:27.0,bn:s00088607v:17.0,bn:s00093796v:9.0,bn:s00093352v:10.0,bn:s00093752v:10.0,bn:s00085785v:10.0 .
+frame:Extreme_point skos:closeMatch bn:s00082021n:43.0,bn:s00056707n:52.0,bn:s00044076n:10.0,bn:s00044050n:7.0 .
+frame:Assessing skos:closeMatch bn:s00092449v:11.0,bn:s00090319v:16.0,bn:s00066433n:8.0,bn:s00005120n:9.0,bn:s00087763v:33.0,bn:s00031973n:54.0,bn:s00089002v:17.0,bn:s00082720v:52.0,bn:s00089004v:16.0 .
+frame:Referring_by_name skos:closeMatch bn:s00082337v:11.0,bn:s00092623v:9.0,bn:s00056758n:49.0,bn:s00084385v:18.0,bn:s00005032n:45.0 .
+frame:Artificiality skos:closeMatch bn:s00097548a:16.0,bn:s00027709n:130.0,bn:s00100554a:31.0,bn:s00101997a:35.0 .
+frame:Collocation_image_schema skos:closeMatch .
+frame:Encoding skos:closeMatch bn:s00032394n:12.0,bn:s00087778v:12.0,bn:s00084633v:30.0,bn:s00018663n:33.0,bn:s00082799v:12.0 .
+frame:Posing_as skos:closeMatch bn:s00089618v:10.0,bn:s00016074n:41.0,bn:s00090689v:11.0,bn:s00032777n:77.0 .
+frame:Affirm_or_deny skos:closeMatch .
+frame:Cause_to_be_dry skos:closeMatch bn:s00087401v:17.0,bn:s00086506v:8.0,bn:s00025984n:32.0,bn:s00086508v:13.0,bn:s00086509v:11.0 .
+frame:Key skos:closeMatch .
+frame:Commerce_pay skos:closeMatch bn:s00025954n:10.0,bn:s00082364v:51.0,bn:s00091493v:23.0,bn:s00027452n:18.0,bn:s00086901v:16.0 .
+frame:Indicating skos:closeMatch bn:s00089575v:17.0 .
+frame:Ontogeny skos:closeMatch .
+frame:Differentiation skos:closeMatch bn:s00082871v:45.0,bn:s00027539n:18.0,bn:s00085261v:36.0,bn:s00086939v:6.0,bn:s00101604a:22.0,bn:s00086799v:34.0 .
+frame:Political_actions skos:closeMatch .
+frame:Defending skos:closeMatch .
+frame:Business_closure skos:closeMatch .
+frame:Diversity skos:closeMatch bn:s00104286a:17.0,bn:s00054166n:41.0,bn:s00056303n:8.0,bn:s00005870n:12.0,bn:s00066141n:16.0,bn:s00104134a:24.0,bn:s00098887a:36.0,bn:s00044588n:6.0,bn:s00012892n:18.0,bn:s00006554n:28.0,bn:s00043924n:52.0,bn:s00079082n:22.0,bn:s00027862n:27.0,bn:s00113509a:12.0,bn:s00079052n:7.0,bn:s00003268n:69.0 .
+frame:Dimension skos:closeMatch bn:s00106058a:16.0,bn:s00104050a:25.0,bn:s00019208n:43.0,bn:s00043545n:46.0,bn:s00111630a:47.0,bn:s00107118a:23.0,bn:s00104162a:26.0,bn:s00114075r:12.0,bn:s00025827n:13.0,bn:s00062309n:71.0,bn:s00050662n:43.0,bn:s00106124a:37.0,bn:s00114112r:8.0,bn:s00005513n:18.0,bn:s00098342a:40.0,bn:s00080831n:55.0,bn:s00012893n:17.0,bn:s00100902a:31.0,bn:s00098887a:36.0,bn:s00111843a:20.0,bn:s00110561a:23.0,bn:s00090715v:30.0,bn:s00095701v:7.0,bn:s00111824a:40.0 .
+frame:Attempt_means skos:closeMatch bn:s00082844v:40.0 .
+frame:Tolerating skos:closeMatch bn:s00094275v:8.0,bn:s00082138v:81.0,bn:s00000653n:14.0 .
+frame:Medical_intervention skos:closeMatch .
+frame:People_by_military_specialty skos:closeMatch .
+frame:Hindering skos:closeMatch bn:s00083834v:27.0,bn:s00008108n:14.0,bn:s00086514v:15.0,bn:s00085675v:6.0,bn:s00083815v:15.0,bn:s00089161v:9.0,bn:s00089340v:14.0,bn:s00030713n:17.0,bn:s00006399n:15.0,bn:s00045274n:10.0,bn:s00046086n:10.0,bn:s00083630v:41.0,bn:s00089816v:8.0,bn:s00084853v:17.0 .
+frame:Gusto skos:closeMatch .
+frame:Manipulation skos:closeMatch bn:s00085207v:31.0,bn:s00095214v:11.0,bn:s00088622v:19.0,bn:s00089385v:25.0,bn:s00084654v:52.0,bn:s00085050v:7.0,bn:s00086782v:20.0,bn:s00089958v:25.0,bn:s00089053v:12.0,bn:s00065158n:29.0,bn:s00087925v:22.0,bn:s00088456v:16.0,bn:s00094484v:10.0,bn:s00095277v:5.0,bn:s00088216v:9.0,bn:s00093144v:27.0,bn:s00088459v:14.0,bn:s00090187v:11.0,bn:s00089017v:18.0,bn:s00089172v:27.0,bn:s00091064v:20.0,bn:s00084536v:35.0,bn:s00074725n:9.0,bn:s00094952v:8.0,bn:s00090121v:15.0,bn:s00084312v:41.0,bn:s00087234v:52.0,bn:s00085055v:6.0,bn:s00095040v:82.0,bn:s00016035n:16.0,bn:s00091492v:7.0,bn:s00089064v:17.0,bn:s00091101v:20.0 .
+frame:Waver_between_options skos:closeMatch bn:s00087082v:8.0,bn:s00082562v:12.0,bn:s00089492v:16.0,bn:s00089323v:22.0 .
+frame:Adducing skos:closeMatch bn:s00082130v:6.0,bn:s00082412v:23.0,bn:s00086679v:30.0 .
+frame:Coming_to_be skos:closeMatch bn:s00082757v:28.0,bn:s00085361v:6.0,bn:s00082690v:30.0,bn:s00086734v:15.0,bn:s00089200v:9.0,bn:s00083597v:52.0,bn:s00088489v:11.0 .
+frame:Social_behavior_evaluation skos:closeMatch .
+frame:Distinctiveness skos:closeMatch bn:s00006382n:28.0,bn:s00029406n:8.0,bn:s00017762n:7.0,bn:s00099532a:23.0,bn:s00071549n:58.0,bn:s00084801v:23.0 .
+frame:Employee_scenario skos:closeMatch .
+frame:Freeing_from_confinement skos:closeMatch .
+frame:Being_pregnant skos:closeMatch .
+frame:Practice skos:closeMatch bn:s00093170v:60.0,bn:s00028948n:50.0,bn:s00028736n:61.0,bn:s00068559n:11.0,bn:s00091912v:18.0 .
+frame:Sentencing skos:closeMatch bn:s00085548v:12.0,bn:s00087644v:25.0,bn:s00021628n:75.0 .
+frame:Finish_game skos:closeMatch bn:s00095777v:25.0,bn:s00090485v:20.0 .
+frame:Invading skos:closeMatch bn:s00089709v:9.0,bn:s00047325n:84.0,bn:s00030706n:12.0,bn:s00089874v:23.0 .
+frame:Offenses skos:closeMatch bn:s00068014n:38.0,bn:s00006469n:65.0,bn:s00036292n:75.0,bn:s00006470n:29.0,bn:s00013967n:72.0,bn:s00032175n:59.0,bn:s00050004n:111.0,bn:s00044565n:32.0,bn:s00044115n:11.0,bn:s00034010n:28.0,bn:s00070802n:37.0,bn:s00070782n:94.0,bn:s00005924n:56.0,bn:s00022537n:96.0,bn:s00021712n:9.0,bn:s00016032n:65.0,bn:s00006467n:51.0,bn:s00059958n:59.0,bn:s00068710n:53.0,bn:s00018352n:54.0,bn:s00044095n:78.0,bn:s00053255n:35.0,bn:s00016123n:44.0,bn:s00049082n:67.0 .
+frame:Location_on_path skos:closeMatch .
+frame:Agree_or_refuse_to_act skos:closeMatch bn:s00066862n:6.0,bn:s00086390v:25.0,bn:s00082476v:15.0 .
+frame:Commercial_transaction skos:closeMatch bn:s00025567n:26.0 .
+frame:Having_commercial_agreement skos:closeMatch .
+frame:Pre_receiving skos:closeMatch .
+frame:Co-association skos:closeMatch .
+frame:Fleeing skos:closeMatch bn:s00083961v:37.0,bn:s00088291v:14.0,bn:s00082164v:20.0 .
+frame:Employment_continue skos:closeMatch .
+frame:Come_together skos:closeMatch bn:s00090726v:9.0,bn:s00082247v:29.0,bn:s00082846v:26.0,bn:s00085611v:24.0,bn:s00083070v:8.0,bn:s00089941v:28.0 .
+frame:Corporal_punishment skos:closeMatch bn:s00050079n:14.0,bn:s00090198v:7.0,bn:s00034981n:45.0,bn:s00084461v:13.0,bn:s00088260v:7.0,bn:s00015263n:39.0,bn:s00088333v:30.0 .
+frame:First_rank skos:closeMatch bn:s00050371n:20.0,bn:s00050342n:17.0 .
+frame:Obligation_scenario skos:closeMatch .
+frame:Compliance skos:closeMatch bn:s00082345v:12.0,bn:s00000300n:39.0,bn:s00082140v:10.0,bn:s00082139v:42.0,bn:s00001360n:27.0,bn:s00044665n:21.0,bn:s00082137v:12.0,bn:s00012864n:16.0,bn:s00091112v:10.0,bn:s00088348v:8.0,bn:s00032054n:35.0,bn:s00083897v:49.0,bn:s00082316v:24.0,bn:s00090034v:19.0,bn:s00085589v:13.0,bn:s00086996v:9.0,bn:s00027632n:13.0,bn:s00022267n:5.0,bn:s00091468v:30.0,bn:s00051299n:9.0,bn:s00100149a:17.0,bn:s00083366v:46.0,bn:s00107668a:28.0,bn:s00089384v:63.0,bn:s00046730n:12.0 .
+frame:Socially_significant_history_scenario skos:closeMatch .
+frame:Unemployment_rate skos:closeMatch bn:s00030616n:67.0,bn:s00079045n:48.0 .
+frame:Commerce_goods-transfer skos:closeMatch .
+frame:Emphasizing skos:closeMatch .
+frame:Activity_done_state skos:closeMatch bn:s00102987a:9.0 .
+frame:Reveal_secret skos:closeMatch bn:s00085362v:16.0,bn:s00021733n:48.0,bn:s00083912v:64.0,bn:s00027944n:7.0,bn:s00027489n:22.0,bn:s00090255v:7.0,bn:s00082267v:40.0,bn:s00085511v:9.0,bn:s00088132v:14.0,bn:s00085577v:6.0 .
+frame:Getting_underway skos:closeMatch bn:s00083444v:12.0 .
+frame:Temperature skos:closeMatch bn:s00099981a:35.0,bn:s00100441a:35.0,bn:s00104348a:42.0,bn:s00113698a:28.0,bn:s00076457n:81.0 .
+frame:Spatial_contact skos:closeMatch .
+frame:Expressing_publicly skos:closeMatch bn:s00006386n:25.0,bn:s00087778v:12.0,bn:s00082496v:34.0,bn:s00082799v:12.0,bn:s00095561v:5.0,bn:s00088861v:17.0 .
+frame:Resurrection skos:closeMatch bn:s00067411n:13.0,bn:s00092969v:19.0,bn:s00085348v:7.0,bn:s00092922v:10.0 .
+frame:Getting_up skos:closeMatch bn:s00082763v:13.0 .
+frame:Using_resource skos:closeMatch .
+frame:Departing skos:closeMatch bn:s00027426n:16.0,bn:s00083978v:17.0,bn:s00086356v:16.0,bn:s00032243n:11.0,bn:s00086600v:18.0,bn:s00086879v:11.0,bn:s00087845v:45.0,bn:s00088939v:27.0,bn:s00085360v:24.0,bn:s00032253n:9.0,bn:s00086602v:20.0,bn:s00026343n:14.0,bn:s00031545n:32.0,bn:s00093800v:5.0 .
+frame:Duration_description skos:closeMatch .
+frame:Death skos:closeMatch bn:s00031355n:75.0,bn:s00025585n:12.0,bn:s00033596n:12.0,bn:s00084343v:77.0,bn:s00025602n:104.0,bn:s00087395v:25.0,bn:s00088030v:18.0,bn:s00025582n:75.0,bn:s00006417n:10.0,bn:s00082833v:22.0 .
+frame:Questioning skos:closeMatch bn:s00092261v:15.0,bn:s00082818v:11.0,bn:s00030951n:17.0,bn:s00089045v:6.0,bn:s00087656v:13.0,bn:s00082817v:27.0,bn:s00046855n:5.0,bn:s00092274v:14.0,bn:s00089845v:13.0 .
+frame:Religious_belief skos:closeMatch bn:s00094545v:15.0,bn:s00030792n:8.0,bn:s00083369v:27.0 .
+frame:Activity skos:closeMatch .
+frame:Traversing skos:closeMatch bn:s00085122v:10.0,bn:s00085356v:53.0,bn:s00026499n:7.0,bn:s00086043v:5.0,bn:s00083833v:31.0,bn:s00085906v:27.0,bn:s00089465v:9.0,bn:s00084977v:5.0,bn:s00088932v:13.0,bn:s00082806v:16.0,bn:s00085688v:12.0,bn:s00093824v:7.0,bn:s00006253n:10.0 .
+frame:Fall_asleep skos:closeMatch bn:s00083532v:13.0,bn:s00085620v:35.0,bn:s00095880v:13.0,bn:s00087162v:38.0 .
+frame:Bounded_entity skos:closeMatch .
+frame:Standing_by skos:closeMatch .
+frame:Locale skos:closeMatch bn:s00082076n:17.0,bn:s00029425n:34.0,bn:s00049847n:10.0,bn:s00063214n:11.0,bn:s00002232n:49.0,bn:s00051760n:37.0,bn:s00109623a:6.0,bn:s00005513n:18.0,bn:s00032045n:15.0,bn:s00060767n:42.0,bn:s00051754n:34.0 .
+frame:Cause_to_be_included skos:closeMatch bn:s00089660v:7.0,bn:s00082317v:56.0 .
+frame:Part_piece skos:closeMatch bn:s00045236n:13.0,bn:s00010727n:50.0,bn:s00036165n:15.0,bn:s00062300n:38.0,bn:s00036166n:17.0,bn:s00010732n:56.0,bn:s00060765n:12.0,bn:s00072428n:11.0,bn:s00072194n:42.0,bn:s00008127n:27.0,bn:s00047426n:56.0 .
+frame:Lively_place skos:closeMatch bn:s00106080a:14.0,bn:s00084346v:12.0,bn:s00084316v:10.0 .
+frame:Reasoning skos:closeMatch bn:s00082754v:16.0,bn:s00005600n:25.0,bn:s00085601v:25.0,bn:s00016409n:11.0,bn:s00026176n:12.0,bn:s00086557v:28.0,bn:s00063309n:9.0,bn:s00086567v:51.0 .
+frame:Temporary_group skos:closeMatch .
+frame:Offshoot skos:closeMatch .
+frame:Evaluative_comparison skos:closeMatch bn:s00100117a:9.0,bn:s00090717v:15.0,bn:s00085450v:36.0,bn:s00089276v:19.0,bn:s00087706v:19.0,bn:s00021326n:26.0 .
+frame:Remembering_experience skos:closeMatch bn:s00054300n:54.0,bn:s00084413v:50.0,bn:s00084302v:20.0,bn:s00092771v:15.0,bn:s00090457v:7.0 .
+frame:Killing skos:closeMatch bn:s00014211n:55.0,bn:s00087920v:17.0,bn:s00087118v:16.0,bn:s00053844n:5.0,bn:s00009662n:6.0,bn:s00082840v:28.0,bn:s00087115v:31.0,bn:s00102827a:9.0,bn:s00046030n:5.0,bn:s00051488n:14.0,bn:s00032435n:8.0,bn:s00063208n:8.0,bn:s00044445n:12.0,bn:s00030362n:5.0,bn:s00046614n:31.0,bn:s00090529v:20.0,bn:s00006465n:69.0,bn:s00006417n:10.0,bn:s00024106n:66.0,bn:s00083355v:22.0,bn:s00090692v:16.0,bn:s00084318v:27.0,bn:s00037735n:57.0,bn:s00088683v:18.0,bn:s00004337n:13.0,bn:s00061032n:5.0,bn:s00006461n:41.0,bn:s00032175n:59.0,bn:s00044565n:32.0,bn:s00036288n:10.0,bn:s00082634v:42.0,bn:s00088029v:10.0,bn:s00033773n:16.0,bn:s00086698v:18.0,bn:s00066878n:26.0,bn:s00087608v:22.0,bn:s00087394v:12.0,bn:s00014221n:141.0,bn:s00084236v:45.0,bn:s00082831v:28.0,bn:s00031962n:72.0,bn:s00071207n:8.0,bn:s00049103n:48.0,bn:s00090098v:26.0,bn:s00089538v:12.0,bn:s00034007n:32.0,bn:s00086098v:20.0,bn:s00082833v:22.0 .
+frame:Storing skos:closeMatch bn:s00089384v:63.0,bn:s00094400v:19.0,bn:s00095635v:7.0,bn:s00084356v:28.0,bn:s00026388n:32.0,bn:s00084564v:8.0 .
+frame:Judgment_direct_address skos:closeMatch bn:s00076768n:7.0,bn:s00021391n:17.0,bn:s00085485v:9.0,bn:s00018318n:8.0,bn:s00084638v:11.0,bn:s00009211n:16.0,bn:s00083133v:27.0,bn:s00088854v:15.0,bn:s00084161v:14.0,bn:s00082377v:8.0,bn:s00092847v:10.0,bn:s00066467n:41.0,bn:s00083177v:65.0,bn:s00089201v:11.0,bn:s00001468n:42.0,bn:s00017934n:9.0,bn:s00048092n:23.0 .
+frame:See_through skos:closeMatch .
+frame:Provide_lodging skos:closeMatch bn:s00082218v:9.0,bn:s00087150v:25.0,bn:s00089484v:7.0 .
+frame:Attempt skos:closeMatch bn:s00082844v:40.0,bn:s00087615v:33.0,bn:s00007011n:49.0,bn:s00065332n:21.0,bn:s00082906v:13.0,bn:s00071287n:13.0,bn:s00023467n:19.0 .
+frame:Medical_instruments skos:closeMatch bn:s00035462n:13.0,bn:s00073244n:8.0,bn:s00000822n:41.0,bn:s00007202n:40.0,bn:s00030794n:23.0,bn:s00059164n:21.0,bn:s00020716n:20.0,bn:s00035193n:17.0,bn:s00049971n:22.0,bn:s00037479n:7.0,bn:s00016773n:78.0,bn:s00035782n:27.0,bn:s00069487n:42.0,bn:s00016768n:71.0,bn:s00075757n:49.0,bn:s00074236n:39.0,bn:s00013315n:33.0 .
+frame:Scouring skos:closeMatch bn:s00032277n:7.0,bn:s00086067v:28.0,bn:s00086690v:23.0,bn:s00093168v:11.0,bn:s00085310v:21.0,bn:s00093720v:11.0,bn:s00093359v:8.0 .
+frame:Appellations skos:closeMatch bn:s00015749n:43.0,bn:s00036772n:29.0,bn:s00058698n:57.0 .
+frame:Successful_action skos:closeMatch bn:s00085346v:12.0,bn:s00075025n:16.0,bn:s00113290a:8.0,bn:s00111409a:26.0,bn:s00084092v:38.0,bn:s00084086v:41.0,bn:s00087967v:23.0,bn:s00087966v:17.0,bn:s00083081v:87.0 .
+frame:Used_up skos:closeMatch bn:s00102530a:23.0 .
+frame:Cutting skos:closeMatch bn:s00093868v:11.0,bn:s00090792v:15.0,bn:s00084608v:8.0,bn:s00084935v:15.0,bn:s00091437v:25.0,bn:s00088171v:7.0,bn:s00086132v:13.0,bn:s00086178v:13.0 .
+frame:Attending skos:closeMatch bn:s00007013n:7.0,bn:s00082907v:31.0,bn:s00088912v:46.0 .
+frame:Risk_scenario skos:closeMatch .
+frame:Come_down_with skos:closeMatch .
+frame:Emotion_active skos:closeMatch bn:s00021457n:13.0,bn:s00091120v:5.0,bn:s00082473v:4.0,bn:s00095829v:9.0,bn:s00088575v:15.0 .
+frame:Gradable_attributes skos:closeMatch .
+frame:Emptying skos:closeMatch bn:s00086318v:10.0,bn:s00083768v:21.0,bn:s00027435n:42.0,bn:s00094257v:4.0,bn:s00085076v:11.0,bn:s00083843v:36.0,bn:s00091436v:22.0,bn:s00086732v:7.0,bn:s00086348v:10.0,bn:s00089129v:8.0,bn:s00087780v:11.0,bn:s00086406v:9.0,bn:s00088368v:15.0,bn:s00091664v:15.0,bn:s00086541v:8.0,bn:s00025763n:43.0,bn:s00085816v:12.0,bn:s00087803v:21.0,bn:s00087228v:12.0,bn:s00086499v:12.0,bn:s00085079v:9.0,bn:s00086657v:14.0,bn:s00087580v:7.0,bn:s00030640n:21.0,bn:s00095699v:6.0,bn:s00086944v:8.0,bn:s00086887v:18.0,bn:s00083114v:21.0,bn:s00086946v:18.0,bn:s00092186v:11.0,bn:s00094476v:6.0,bn:s00093451v:6.0,bn:s00086636v:10.0,bn:s00086483v:10.0,bn:s00087578v:15.0,bn:s00093314v:15.0,bn:s00091148v:18.0 .
+frame:Locative_scenario skos:closeMatch .
+frame:Cotheme skos:closeMatch bn:s00089239v:21.0,bn:s00103827a:12.0,bn:s00088433v:16.0,bn:s00017924n:11.0,bn:s00084831v:19.0,bn:s00085567v:42.0,bn:s00095597v:46.0,bn:s00017920n:50.0,bn:s00087729v:9.0,bn:s00093685v:9.0,bn:s00093610v:10.0,bn:s00082222v:7.0,bn:s00089488v:15.0,bn:s00093556v:15.0,bn:s00094727v:8.0 .
+frame:Body_mark skos:closeMatch bn:s00051629n:55.0,bn:s00009520n:83.0,bn:s00011197n:23.0,bn:s00020556n:45.0,bn:s00011438n:11.0,bn:s00010685n:90.0,bn:s00011026n:42.0,bn:s00055553n:6.0,bn:s00011187n:168.0,bn:s00079819n:68.0,bn:s00019056n:62.0,bn:s00000944n:45.0,bn:s00036309n:51.0,bn:s00029895n:41.0,bn:s00014876n:8.0,bn:s00072845n:12.0,bn:s00011823n:48.0,bn:s00065361n:103.0,bn:s00043992n:42.0,bn:s00043993n:59.0 .
+frame:Examination skos:closeMatch bn:s00087731v:41.0,bn:s00032089n:96.0,bn:s00005120n:9.0,bn:s00087789v:4.0 .
+frame:Create_physical_artwork skos:closeMatch bn:s00006182n:44.0,bn:s00091390v:12.0,bn:s00093402v:17.0,bn:s00086525v:37.0,bn:s00092783v:30.0,bn:s00084631v:16.0 .
+frame:Process_uncompleted_state skos:closeMatch .
+frame:Hearsay skos:closeMatch .
+frame:Taking skos:closeMatch bn:s00085207v:31.0,bn:s00094730v:6.0,bn:s00045792n:51.0,bn:s00088995v:13.0 .
+frame:Surpassing skos:closeMatch bn:s00087795v:22.0,bn:s00087154v:10.0,bn:s00083548v:7.0,bn:s00091254v:8.0,bn:s00083461v:18.0 .
+frame:Arranging skos:closeMatch bn:s00086617v:14.0,bn:s00082784v:14.0,bn:s00082780v:11.0,bn:s00082777v:17.0,bn:s00026366n:19.0,bn:s00005862n:22.0,bn:s00082783v:22.0 .
+frame:Ground_up skos:closeMatch .
+frame:Process skos:closeMatch bn:s00062167n:62.0 .
+frame:Relational_political_locales skos:closeMatch bn:s00023254n:41.0,bn:s00070252n:31.0,bn:s00015498n:67.0 .
+frame:Fall_for skos:closeMatch .
+frame:Fear skos:closeMatch bn:s00096625a:23.0,bn:s00005133n:25.0,bn:s00001793n:53.0,bn:s00033854n:87.0 .
+frame:Delimited_state_scenario skos:closeMatch .
+frame:Sole_instance skos:closeMatch bn:s00110667a:22.0 .
+frame:Omen skos:closeMatch bn:s00064699n:45.0,bn:s00082929v:20.0,bn:s00001546n:38.0,bn:s00035860n:14.0,bn:s00082668v:53.0,bn:s00007153n:40.0,bn:s00094928v:13.0,bn:s00082640v:11.0,bn:s00058935n:56.0 .
+frame:Relating_concepts skos:closeMatch bn:s00082868v:48.0,bn:s00085623v:34.0 .
+frame:Heralding skos:closeMatch bn:s00082640v:11.0 .
+frame:Judgment_communication skos:closeMatch bn:s00021626n:66.0,bn:s00091634v:13.0,bn:s00009723n:5.0,bn:s00089127v:8.0,bn:s00023864n:75.0,bn:s00083133v:27.0,bn:s00026438n:7.0,bn:s00083398v:14.0,bn:s00082602v:22.0,bn:s00066467n:41.0,bn:s00085410v:7.0,bn:s00082412v:23.0,bn:s00004221n:11.0,bn:s00083568v:18.0,bn:s00095051v:16.0,bn:s00032159n:4.0,bn:s00026235n:7.0,bn:s00005161n:12.0,bn:s00023867n:28.0,bn:s00046161n:28.0,bn:s00084638v:11.0,bn:s00083545v:5.0,bn:s00086651v:28.0,bn:s00086046v:30.0,bn:s00066603n:26.0,bn:s00085544v:25.0,bn:s00100678a:30.0,bn:s00083536v:39.0,bn:s00017790n:12.0,bn:s00089201v:11.0,bn:s00083375v:13.0,bn:s00086629v:11.0,bn:s00027643n:6.0,bn:s00092547v:9.0,bn:s00093051v:7.0,bn:s00086588v:5.0,bn:s00000701n:37.0,bn:s00083177v:65.0,bn:s00000784n:15.0,bn:s00023856n:17.0,bn:s00032373n:20.0,bn:s00091913v:11.0,bn:s00083376v:10.0,bn:s00082211v:12.0,bn:s00026255n:22.0,bn:s00086048v:14.0,bn:s00082136v:27.0,bn:s00087785v:27.0,bn:s00021834n:24.0,bn:s00083079v:8.0,bn:s00087422v:7.0,bn:s00082250v:15.0,bn:s00092836v:5.0,bn:s00084723v:6.0,bn:s00042911n:19.0 .
+frame:Feeling skos:closeMatch bn:s00033968n:13.0,bn:s00087861v:18.0,bn:s00030581n:78.0,bn:s00087864v:42.0,bn:s00103391a:25.0 .
+frame:Sound_level skos:closeMatch bn:s00109358a:26.0,bn:s00106192a:19.0 .
+frame:Dough_rising skos:closeMatch bn:s00092111v:10.0 .
+frame:Artifact_subpart skos:closeMatch .
+frame:Post_getting skos:closeMatch .
+frame:Rank skos:closeMatch bn:s00066152n:18.0,bn:s00025965n:26.0 .
+frame:Employment_end skos:closeMatch .
+frame:Process_completed_state skos:closeMatch bn:s00102987a:9.0 .
+frame:Medical_conditions skos:closeMatch bn:s00045784n:123.0,bn:s00045520n:35.0,bn:s00046624n:61.0,bn:s00020588n:47.0,bn:s00052263n:134.0,bn:s00042889n:87.0,bn:s00000996n:31.0,bn:s00006617n:79.0,bn:s00078879n:99.0,bn:s00004425n:36.0,bn:s00043848n:39.0,bn:s00027546n:116.0,bn:s00104538a:15.0,bn:s00044056n:62.0,bn:s00003193n:118.0,bn:s00031156n:52.0,bn:s00021888n:51.0,bn:s00027871n:31.0,bn:s00051787n:85.0,bn:s00074187n:46.0,bn:s00043358n:71.0,bn:s00065004n:71.0,bn:s00052944n:80.0,bn:s00001783n:7.0,bn:s00065391n:37.0,bn:s00001053n:56.0,bn:s00057267n:72.0,bn:s00053027n:8.0,bn:s00043754n:63.0,bn:s00000945n:36.0,bn:s00018686n:32.0,bn:s00104025a:31.0,bn:s00026120n:91.0,bn:s00026402n:11.0,bn:s00006073n:55.0,bn:s00020534n:112.0,bn:s00026886n:100.0,bn:s00045952n:28.0,bn:s00031157n:56.0,bn:s00035412n:80.0,bn:s00075796n:127.0,bn:s00045597n:48.0,bn:s00053028n:99.0,bn:s00026454n:28.0,bn:s00069668n:41.0,bn:s00001208n:83.0,bn:s00054336n:84.0,bn:s00003565n:51.0,bn:s00002171n:28.0,bn:s00021648n:15.0,bn:s00050776n:48.0,bn:s00015180n:84.0,bn:s00029715n:76.0,bn:s00016680n:49.0,bn:s00027634n:26.0,bn:s00019237n:94.0,bn:s00013313n:32.0,bn:s00006415n:84.0,bn:s00074633n:64.0,bn:s00071162n:54.0,bn:s00054016n:85.0,bn:s00061778n:98.0,bn:s00015191n:116.0,bn:s00075719n:47.0,bn:s00027267n:71.0,bn:s00015203n:15.0,bn:s00018688n:21.0,bn:s00026788n:44.0,bn:s00006345n:54.0 .
+frame:Dominate_situation skos:closeMatch bn:s00101687a:20.0,bn:s00028175n:16.0,bn:s00087151v:31.0 .
+frame:Becoming skos:closeMatch bn:s00087611v:25.0,bn:s00089082v:14.0,bn:s00084787v:16.0,bn:s00083293v:33.0,bn:s00088912v:46.0,bn:s00088489v:11.0 .
+frame:Visitor_departure skos:closeMatch .
+frame:Releasing skos:closeMatch bn:s00090318v:10.0,bn:s00088544v:29.0,bn:s00067024n:12.0,bn:s00090297v:29.0 .
+frame:Origin skos:closeMatch bn:s00102440a:11.0,bn:s00099614a:18.0,bn:s00103321a:21.0,bn:s00105412a:31.0,bn:s00102059a:18.0,bn:s00110004a:19.0,bn:s00009635n:45.0,bn:s00110121a:12.0,bn:s00082757v:28.0,bn:s00099173a:8.0,bn:s00100023a:17.0,bn:s00103785a:38.0,bn:s00102993a:18.0,bn:s00105493a:15.0,bn:s00108017a:7.0,bn:s00113606a:24.0,bn:s00112187a:22.0,bn:s00100750a:20.0,bn:s00106270a:22.0,bn:s00104941a:20.0,bn:s00105411a:19.0,bn:s00109913a:15.0,bn:s00105510a:19.0,bn:s00105419a:19.0,bn:s00096963a:31.0,bn:s00105546a:9.0,bn:s00056915n:13.0,bn:s00107136a:12.0,bn:s00101908a:24.0,bn:s00111603a:20.0,bn:s00111553a:21.0,bn:s00105516a:24.0 .
+frame:Substance skos:closeMatch bn:s00006924n:63.0,bn:s00051471n:7.0,bn:s00006926n:70.0,bn:s00018096n:27.0,bn:s00006982n:93.0,bn:s00058732n:37.0,bn:s00040605n:70.0,bn:s00078852n:45.0,bn:s00054616n:53.0,bn:s00048532n:48.0,bn:s00069126n:84.0,bn:s00053801n:35.0,bn:s00072720n:75.0,bn:s00037383n:33.0,bn:s00059451n:86.0,bn:s00002355n:82.0,bn:s00042379n:51.0,bn:s00024112n:135.0,bn:s00006856n:98.0,bn:s00054550n:100.0 .
+frame:Precipitation skos:closeMatch bn:s00042519n:36.0,bn:s00093989v:10.0,bn:s00066043n:14.0,bn:s00112007a:13.0,bn:s00028809n:47.0,bn:s00028483n:78.0,bn:s00092330v:12.0,bn:s00020012n:42.0,bn:s00072455n:80.0,bn:s00089150v:7.0,bn:s00093690v:9.0,bn:s00087355v:21.0,bn:s00066032n:76.0,bn:s00094141v:10.0,bn:s00093865v:11.0,bn:s00072128n:12.0 .
+frame:Forming_relationships skos:closeMatch bn:s00027937n:49.0,bn:s00053518n:68.0,bn:s00053107n:96.0,bn:s00082431v:9.0,bn:s00070544n:32.0,bn:s00010152n:80.0,bn:s00083329v:13.0,bn:s00087104v:11.0,bn:s00085614v:18.0,bn:s00085897v:18.0,bn:s00088939v:27.0,bn:s00053519n:26.0,bn:s00083928v:24.0 .
+frame:Mass_motion skos:closeMatch bn:s00089150v:7.0,bn:s00093077v:14.0,bn:s00086092v:16.0,bn:s00088332v:11.0,bn:s00093690v:9.0,bn:s00091419v:12.0,bn:s00091526v:30.0,bn:s00091898v:13.0,bn:s00089941v:28.0,bn:s00092330v:12.0,bn:s00088336v:8.0 .
+frame:Desirable_event skos:closeMatch .
+frame:Cause_proliferation_in_number skos:closeMatch bn:s00037681n:26.0,bn:s00064685n:27.0 .
+frame:Facial_expression skos:closeMatch bn:s00067754n:7.0,bn:s00032607n:26.0,bn:s00006386n:25.0,bn:s00050514n:42.0,bn:s00072408n:14.0,bn:s00036672n:51.0,bn:s00056062n:6.0,bn:s00032600n:46.0,bn:s00041807n:78.0,bn:s00072312n:16.0 .
+frame:Motion skos:closeMatch bn:s00093875v:17.0,bn:s00086173v:26.0,bn:s00088885v:8.0,bn:s00084977v:5.0,bn:s00093962v:7.0,bn:s00094679v:18.0,bn:s00083195v:51.0,bn:s00088271v:19.0,bn:s00085233v:5.0,bn:s00084629v:53.0,bn:s00085966v:17.0,bn:s00088378v:30.0,bn:s00085266v:23.0,bn:s00093232v:11.0,bn:s00088912v:46.0,bn:s00090713v:20.0 .
+frame:Passing_off skos:closeMatch bn:s00088400v:9.0,bn:s00091466v:13.0 .
+frame:Graph_shape skos:closeMatch .
+frame:Change_position_on_a_scale skos:closeMatch bn:s00093875v:17.0,bn:s00089666v:6.0,bn:s00088356v:12.0,bn:s00085356v:53.0,bn:s00031538n:22.0,bn:s00025779n:4.0,bn:s00026697n:105.0,bn:s00082405v:12.0,bn:s00091773v:8.0,bn:s00032348n:10.0,bn:s00090988v:7.0,bn:s00001294n:24.0,bn:s00094669v:13.0,bn:s00025746n:6.0,bn:s00093074v:9.0,bn:s00103818a:11.0,bn:s00086855v:41.0,bn:s00046356n:9.0,bn:s00032804n:18.0,bn:s00082761v:18.0,bn:s00082790v:31.0,bn:s00115880r:11.0,bn:s00085122v:10.0,bn:s00027260n:27.0,bn:s00087876v:14.0,bn:s00086417v:23.0,bn:s00035413n:6.0,bn:s00083057v:12.0,bn:s00090012v:8.0,bn:s00094004v:8.0,bn:s00095220v:12.0,bn:s00087445v:9.0,bn:s00012158n:21.0,bn:s00094679v:18.0,bn:s00087169v:9.0,bn:s00089083v:12.0,bn:s00087480v:8.0,bn:s00095143v:14.0,bn:s00086392v:8.0,bn:s00087365v:14.0,bn:s00071059n:13.0,bn:s00088912v:46.0,bn:s00086987v:15.0,bn:s00006253n:10.0 .
+frame:Delimitation_of_diversity skos:closeMatch bn:s00092360v:26.0 .
+frame:Procreative_sex skos:closeMatch .
+frame:Change_of_leadership skos:closeMatch bn:s00087517v:13.0,bn:s00059916n:15.0,bn:s00084075v:15.0,bn:s00086625v:6.0,bn:s00047003n:70.0,bn:s00082716v:23.0,bn:s00086719v:9.0,bn:s00046406n:24.0,bn:s00092993v:12.0,bn:s00087685v:11.0,bn:s00030113n:72.0,bn:s00087686v:9.0,bn:s00082793v:47.0,bn:s00089786v:10.0,bn:s00083790v:17.0,bn:s00095032v:12.0,bn:s00090992v:5.0,bn:s00085827v:15.0,bn:s00067569n:37.0,bn:s00023258n:126.0,bn:s00067568n:62.0,bn:s00056541n:46.0 .
+frame:Level_of_force_exertion skos:closeMatch .
+frame:Experience_bodily_harm skos:closeMatch bn:s00091350v:13.0,bn:s00082157v:14.0,bn:s00093369v:20.0,bn:s00093919v:10.0,bn:s00084270v:9.0,bn:s00089751v:25.0,bn:s00083901v:30.0,bn:s00086118v:7.0,bn:s00084314v:12.0,bn:s00084281v:10.0,bn:s00084280v:8.0,bn:s00094497v:11.0,bn:s00089347v:12.0,bn:s00093007v:39.0,bn:s00089036v:9.0,bn:s00094415v:19.0,bn:s00084149v:21.0,bn:s00084148v:10.0 .
+frame:Beyond_compare skos:closeMatch bn:s00104843a:26.0 .
+frame:Predicament skos:closeMatch bn:s00064527n:24.0,bn:s00062462n:7.0,bn:s00048242n:27.0,bn:s00007886n:13.0,bn:s00069819n:56.0,bn:s00034917n:33.0,bn:s00063036n:28.0,bn:s00010482n:4.0 .
+frame:Breaking_out_captive skos:closeMatch .
+frame:Pattern skos:closeMatch bn:s00035908n:40.0,bn:s00035940n:39.0 .
+frame:Creating skos:closeMatch bn:s00047687n:41.0,bn:s00059480n:45.0,bn:s00088724v:31.0,bn:s00082845v:24.0,bn:s00088488v:16.0,bn:s00086013v:39.0,bn:s00064584n:16.0,bn:s00086184v:18.0,bn:s00086008v:24.0 .
+frame:Performing_arts skos:closeMatch bn:s00056443n:74.0,bn:s00061560n:22.0,bn:s00028604n:58.0 .
+frame:Commutation skos:closeMatch bn:s00085443v:9.0,bn:s00021261n:30.0 .
+frame:Losing_it skos:closeMatch bn:s00083673v:33.0,bn:s00088320v:16.0,bn:s00083965v:15.0,bn:s00088541v:33.0 .
+frame:Experiencer_obj skos:closeMatch bn:s00082566v:11.0,bn:s00093569v:7.0,bn:s00086685v:44.0,bn:s00095834v:7.0,bn:s00093646v:14.0,bn:s00089857v:16.0,bn:s00083308v:13.0,bn:s00086699v:18.0,bn:s00084635v:24.0,bn:s00078424n:15.0,bn:s00086930v:23.0,bn:s00091575v:12.0,bn:s00086961v:13.0,bn:s00092388v:10.0,bn:s00082657v:14.0,bn:s00087600v:13.0,bn:s00086966v:5.0,bn:s00087015v:3.0,bn:s00086883v:12.0,bn:s00088373v:12.0,bn:s00083309v:23.0,bn:s00082567v:31.0,bn:s00094930v:13.0,bn:s00075413n:20.0,bn:s00094246v:12.0,bn:s00084968v:13.0,bn:s00083426v:37.0,bn:s00082123v:14.0,bn:s00087682v:9.0,bn:s00088865v:7.0,bn:s00082124v:6.0,bn:s00089814v:21.0,bn:s00093222v:9.0,bn:s00094006v:5.0,bn:s00086521v:27.0,bn:s00082464v:12.0,bn:s00090543v:6.0,bn:s00071167n:5.0,bn:s00082641v:74.0,bn:s00082177v:26.0,bn:s00083054v:14.0,bn:s00082256v:13.0,bn:s00084879v:6.0,bn:s00083735v:8.0,bn:s00082473v:4.0,bn:s00087623v:7.0,bn:s00082768v:23.0,bn:s00083278v:18.0,bn:s00082506v:18.0,bn:s00083288v:43.0,bn:s00082430v:22.0,bn:s00082687v:13.0,bn:s00082459v:19.0,bn:s00082610v:5.0,bn:s00095531v:26.0,bn:s00088614v:20.0,bn:s00004357n:14.0,bn:s00094166v:13.0,bn:s00086519v:26.0,bn:s00084149v:21.0,bn:s00082697v:18.0,bn:s00088666v:15.0,bn:s00084438v:17.0,bn:s00082447v:28.0,bn:s00082683v:21.0,bn:s00087809v:28.0,bn:s00094881v:22.0,bn:s00084538v:29.0,bn:s00082880v:12.0,bn:s00087657v:5.0,bn:s00094510v:8.0,bn:s00086311v:15.0,bn:s00085398v:8.0,bn:s00087072v:9.0,bn:s00089027v:15.0,bn:s00087062v:9.0,bn:s00083801v:8.0,bn:s00087790v:14.0,bn:s00094366v:7.0,bn:s00086117v:13.0,bn:s00087467v:12.0,bn:s00094627v:11.0,bn:s00088046v:9.0,bn:s00086922v:8.0,bn:s00088662v:14.0 .
+frame:Meet_with skos:closeMatch .
+frame:Clothing_parts skos:closeMatch bn:s00049602n:40.0,bn:s00074544n:29.0,bn:s00020603n:43.0,bn:s00050541n:56.0,bn:s00070030n:46.0,bn:s00012036n:88.0,bn:s00030081n:51.0,bn:s00001628n:92.0,bn:s00017395n:73.0,bn:s00072703n:10.0,bn:s00014305n:43.0,bn:s00019474n:13.0,bn:s00025752n:44.0,bn:s00046825n:15.0,bn:s00055715n:33.0,bn:s00080339n:52.0,bn:s00044672n:18.0,bn:s00050078n:8.0,bn:s00071177n:49.0,bn:s00062735n:16.0,bn:s00072152n:48.0,bn:s00043647n:54.0,bn:s00019120n:70.0,bn:s00076188n:34.0,bn:s00036572n:30.0,bn:s00012185n:32.0,bn:s00005707n:37.0,bn:s00012673n:42.0,bn:s00013600n:35.0,bn:s00063155n:58.0,bn:s00013135n:12.0,bn:s00072003n:12.0,bn:s00070071n:20.0,bn:s00024318n:34.0 .
+frame:Making_faces skos:closeMatch bn:s00093754v:6.0,bn:s00089048v:15.0,bn:s00093934v:12.0,bn:s00089047v:25.0,bn:s00090910v:16.0,bn:s00088599v:12.0,bn:s00093362v:4.0 .
+frame:Reporting skos:closeMatch bn:s00094862v:15.0,bn:s00088216v:9.0,bn:s00010150n:19.0,bn:s00083459v:31.0,bn:s00083539v:8.0,bn:s00082233v:29.0,bn:s00073747n:4.0,bn:s00022494n:11.0,bn:s00082976v:18.0,bn:s00015163n:43.0,bn:s00089724v:10.0 .
+frame:Post_giving skos:closeMatch .
+frame:Artistic_style skos:closeMatch .
+frame:Make_acquaintance skos:closeMatch bn:s00085339v:20.0 .
+frame:Race_descriptor skos:closeMatch bn:s00098480a:26.0,bn:s00097584a:19.0,bn:s00113830a:35.0,bn:s00020726n:81.0,bn:s00104217a:24.0,bn:s00020730n:54.0 .
+frame:Set_relation skos:closeMatch .
+frame:Agriculture skos:closeMatch bn:s00086147v:9.0,bn:s00088042v:26.0,bn:s00002096n:120.0 .
+frame:Hedging skos:closeMatch .
+frame:Being_up_to_it skos:closeMatch bn:s00096446a:33.0,bn:s00111418a:17.0 .
+frame:Assigned_location skos:closeMatch .
+frame:Likelihood skos:closeMatch bn:s00017624n:60.0,bn:s00063739n:15.0,bn:s00112939a:14.0,bn:s00114694r:58.0,bn:s00017621n:27.0,bn:s00106124a:37.0,bn:s00051182n:15.0,bn:s00116211r:29.0,bn:s00105981a:33.0,bn:s00017362n:28.0,bn:s00046184n:16.0,bn:s00105982a:20.0,bn:s00104687a:13.0,bn:s00108829a:16.0,bn:s00099475a:30.0,bn:s00084450v:24.0,bn:s00114523r:16.0,bn:s00083202v:16.0 .
+frame:Expectation skos:closeMatch bn:s00082667v:6.0,bn:s00082665v:10.0,bn:s00113067a:4.0,bn:s00082668v:53.0,bn:s00108931a:7.0,bn:s00011737n:36.0,bn:s00004638n:64.0,bn:s00082963v:59.0,bn:s00032286n:11.0,bn:s00112714a:16.0 .
+frame:Attributed_information skos:closeMatch bn:s00046702n:59.0,bn:s00063237n:48.0 .
+frame:Competition skos:closeMatch bn:s00060799n:35.0,bn:s00100136a:11.0,bn:s00021339n:16.0,bn:s00017562n:36.0,bn:s00017557n:10.0,bn:s00085468v:31.0,bn:s00091708v:22.0 .
+frame:Cause_to_start skos:closeMatch bn:s00089779v:11.0,bn:s00082770v:26.0,bn:s00084069v:30.0,bn:s00088724v:31.0,bn:s00094080v:13.0,bn:s00087809v:28.0,bn:s00082313v:16.0,bn:s00082768v:23.0,bn:s00089655v:13.0,bn:s00086008v:24.0,bn:s00083336v:18.0 .
+frame:Losing_track_of skos:closeMatch .
+frame:Arson skos:closeMatch bn:s00005925n:27.0,bn:s00005924n:56.0 .
+frame:Improvement_or_decline skos:closeMatch .
+frame:Visit_host_stay skos:closeMatch .
+frame:Awareness_situation skos:closeMatch .
+frame:Tool_purpose skos:closeMatch .
+frame:Moving_in_place skos:closeMatch bn:s00029448n:117.0,bn:s00095233v:65.0,bn:s00091400v:19.0,bn:s00082470v:20.0,bn:s00088938v:18.0,bn:s00095533v:14.0,bn:s00075592n:19.0,bn:s00065749n:11.0,bn:s00088271v:19.0,bn:s00089999v:10.0,bn:s00094689v:16.0,bn:s00093072v:14.0,bn:s00094655v:11.0,bn:s00093076v:11.0,bn:s00083512v:10.0,bn:s00088339v:6.0 .
+frame:Institutions skos:closeMatch bn:s00031641n:7.0,bn:s00105209a:8.0 .
+frame:Front_for skos:closeMatch bn:s00034404n:19.0,bn:s00087942v:25.0,bn:s00011247n:37.0 .
+frame:Attempt_distant_interaction_scenario skos:closeMatch .
+frame:Bragging skos:closeMatch bn:s00083316v:21.0,bn:s00011672n:143.0,bn:s00011459n:23.0,bn:s00011623n:38.0,bn:s00085610v:7.0,bn:s00083668v:35.0,bn:s00083667v:11.0 .
+frame:Reading_perception skos:closeMatch .
+frame:Communication_means skos:closeMatch bn:s00087952v:26.0,bn:s00084387v:48.0,bn:s00093482v:5.0,bn:s00084354v:18.0,bn:s00092306v:8.0,bn:s00094861v:8.0 .
+frame:Authority skos:closeMatch .
+frame:Quantified_mass skos:closeMatch .
+frame:Have_as_translation_equivalent skos:closeMatch bn:s00095110v:14.0 .
+frame:Operating_a_system skos:closeMatch bn:s00093170v:60.0,bn:s00084092v:38.0,bn:s00091177v:17.0 .
+frame:Partitive skos:closeMatch .
+frame:Amassing skos:closeMatch bn:s00082246v:28.0,bn:s00084564v:8.0 .
+frame:Damaging skos:closeMatch bn:s00085873v:40.0,bn:s00084900v:5.0,bn:s00086261v:18.0,bn:s00025082n:7.0,bn:s00089351v:39.0,bn:s00092142v:14.0,bn:s00093368v:21.0,bn:s00084314v:12.0,bn:s00044710n:34.0,bn:s00083592v:34.0,bn:s00086480v:9.0,bn:s00090078v:19.0,bn:s00095486v:13.0,bn:s00086590v:7.0 .
+frame:Putting_out_fire skos:closeMatch .
+frame:Increment skos:closeMatch bn:s00106935a:23.0,bn:s00108011a:32.0,bn:s00055878n:60.0 .
+frame:Cause_emotion skos:closeMatch bn:s00001794n:60.0,bn:s00083240v:29.0,bn:s00082448v:27.0,bn:s00084149v:21.0,bn:s00027526n:12.0 .
+frame:Process_resume skos:closeMatch bn:s00092413v:8.0 .
+frame:Being_at_risk skos:closeMatch bn:s00113677a:14.0,bn:s00110046a:23.0,bn:s00068799n:59.0,bn:s00070219n:27.0,bn:s00030747n:116.0,bn:s00110270a:21.0,bn:s00032379n:15.0,bn:s00105170a:11.0,bn:s00025170n:19.0 .
+frame:Visit_host skos:closeMatch .
+frame:Visiting_scenario_stay skos:closeMatch .
+frame:Expertise skos:closeMatch bn:s00064500n:34.0,bn:s00064625n:11.0,bn:s00058210n:10.0,bn:s00080081n:14.0,bn:s00042264n:35.0,bn:s00049376n:25.0,bn:s00007505n:18.0,bn:s00032322n:56.0,bn:s00020466n:38.0,bn:s00104849a:10.0,bn:s00100133a:9.0,bn:s00052664n:31.0,bn:s00021335n:41.0,bn:s00053742n:6.0,bn:s00013648n:12.0,bn:s00032324n:14.0,bn:s00103672a:41.0,bn:s00073206n:16.0,bn:s00000990n:8.0,bn:s00046324n:14.0,bn:s00087796v:17.0,bn:s00104891a:21.0,bn:s00001353n:19.0,bn:s00005928n:47.0,bn:s00105033a:13.0,bn:s00000790n:48.0,bn:s00097966a:42.0,bn:s00110711a:27.0,bn:s00003232n:22.0,bn:s00102577a:15.0,bn:s00069671n:14.0,bn:s00032306n:53.0,bn:s00107267a:26.0 .
+frame:Response skos:closeMatch bn:s00067367n:8.0,bn:s00066344n:28.0,bn:s00085339v:20.0,bn:s00092421v:16.0 .
+frame:Rising_to_a_challenge skos:closeMatch bn:s00093059v:41.0 .
+frame:Endangering skos:closeMatch bn:s00030747n:116.0,bn:s00087612v:21.0 .
+frame:Getting_triggered skos:closeMatch .
+frame:Rotting skos:closeMatch bn:s00088943v:8.0,bn:s00086363v:10.0,bn:s00084343v:77.0,bn:s00092228v:9.0,bn:s00088133v:12.0,bn:s00025677n:16.0,bn:s00086400v:13.0,bn:s00025756n:63.0 .
+frame:Satisfying skos:closeMatch bn:s00088614v:20.0 .
+frame:Body_description_holistic skos:closeMatch bn:s00105821a:25.0,bn:s00097113a:24.0,bn:s00102820a:8.0,bn:s00111630a:47.0,bn:s00106062a:20.0 .
+frame:Bringing skos:closeMatch bn:s00089238v:14.0,bn:s00090514v:9.0,bn:s00083471v:23.0,bn:s00084602v:4.0,bn:s00093143v:20.0,bn:s00088129v:8.0,bn:s00084058v:20.0,bn:s00084061v:25.0,bn:s00084303v:7.0,bn:s00095725v:5.0,bn:s00082276v:42.0,bn:s00083223v:13.0,bn:s00091382v:12.0,bn:s00095201v:6.0,bn:s00092146v:16.0,bn:s00084554v:22.0,bn:s00022381n:41.0,bn:s00088380v:9.0,bn:s00089963v:5.0,bn:s00087328v:17.0,bn:s00108815a:13.0,bn:s00087327v:21.0,bn:s00106817a:19.0,bn:s00093707v:8.0,bn:s00083081v:87.0,bn:s00095191v:9.0 .
+frame:Self_motion skos:closeMatch bn:s00093875v:17.0,bn:s00084533v:38.0,bn:s00082569v:10.0,bn:s00083283v:5.0,bn:s00089528v:14.0,bn:s00084316v:10.0,bn:s00083119v:9.0,bn:s00033729n:50.0,bn:s00088808v:20.0,bn:s00089337v:17.0,bn:s00088342v:4.0,bn:s00093268v:7.0,bn:s00085159v:5.0,bn:s00090517v:9.0,bn:s00094721v:11.0,bn:s00080358n:7.0,bn:s00052902n:38.0,bn:s00025286n:39.0,bn:s00053352n:53.0,bn:s00086103v:16.0,bn:s00093673v:7.0,bn:s00088378v:30.0,bn:s00094987v:6.0,bn:s00074192n:11.0,bn:s00093810v:9.0,bn:s00095622v:12.0,bn:s00083833v:31.0,bn:s00091419v:12.0,bn:s00085258v:19.0,bn:s00092808v:13.0,bn:s00084492v:4.0,bn:s00085021v:30.0,bn:s00095147v:10.0,bn:s00094234v:21.0,bn:s00095201v:6.0,bn:s00088166v:7.0,bn:s00086605v:9.0,bn:s00089363v:9.0,bn:s00094451v:8.0,bn:s00093830v:13.0,bn:s00093641v:5.0,bn:s00094675v:23.0,bn:s00089259v:6.0,bn:s00084286v:6.0,bn:s00090483v:10.0,bn:s00087106v:13.0,bn:s00032163n:60.0,bn:s00087480v:8.0,bn:s00011900n:9.0,bn:s00094314v:28.0,bn:s00044137n:42.0,bn:s00092119v:17.0,bn:s00085242v:19.0,bn:s00094257v:4.0,bn:s00084708v:27.0,bn:s00091892v:11.0,bn:s00086272v:15.0,bn:s00089465v:9.0,bn:s00069490n:8.0,bn:s00093231v:23.0,bn:s00003273n:35.0,bn:s00094264v:11.0,bn:s00094199v:13.0,bn:s00094507v:18.0,bn:s00085991v:26.0,bn:s00085233v:5.0,bn:s00093170v:60.0,bn:s00089951v:6.0,bn:s00095588v:16.0,bn:s00094838v:7.0,bn:s00093864v:5.0,bn:s00085121v:4.0,bn:s00086286v:12.0,bn:s00083395v:33.0,bn:s00085139v:8.0,bn:s00093840v:5.0,bn:s00084477v:4.0,bn:s00093907v:4.0,bn:s00093051v:7.0,bn:s00093276v:14.0,bn:s00095597v:46.0,bn:s00082982v:12.0,bn:s00091315v:6.0,bn:s00088653v:8.0,bn:s00087328v:17.0,bn:s00075579n:48.0,bn:s00093882v:15.0,bn:s00094338v:27.0,bn:s00087551v:13.0,bn:s00093399v:27.0,bn:s00086287v:24.0,bn:s00085715v:21.0,bn:s00088447v:31.0,bn:s00094679v:18.0,bn:s00090653v:8.0,bn:s00082394v:16.0,bn:s00095624v:9.0,bn:s00084629v:53.0,bn:s00093900v:13.0,bn:s00092315v:22.0,bn:s00093316v:14.0,bn:s00089531v:14.0,bn:s00086020v:38.0,bn:s00090713v:20.0,bn:s00023613n:27.0,bn:s00090791v:6.0,bn:s00091370v:5.0,bn:s00093881v:11.0 .
+frame:Speed_description skos:closeMatch .
+frame:Rope_manipulation skos:closeMatch bn:s00083866v:18.0,bn:s00090139v:13.0,bn:s00087676v:40.0,bn:s00094956v:13.0 .
+frame:Interior_profile_relation skos:closeMatch .
+frame:Telling skos:closeMatch bn:s00094862v:15.0,bn:s00006567n:18.0,bn:s00082416v:11.0,bn:s00082878v:10.0,bn:s00005139n:6.0,bn:s00089724v:10.0,bn:s00085577v:6.0 .
+frame:Talking_into skos:closeMatch bn:s00089779v:11.0,bn:s00094089v:16.0,bn:s00090245v:8.0,bn:s00084824v:18.0,bn:s00089655v:13.0,bn:s00084700v:30.0 .
+frame:Excreting skos:closeMatch bn:s00061748n:55.0,bn:s00087580v:7.0,bn:s00084007v:38.0,bn:s00084350v:32.0,bn:s00091564v:24.0,bn:s00083115v:73.0,bn:s00090583v:39.0,bn:s00085857v:15.0,bn:s00083364v:19.0 .
+frame:First_experience skos:closeMatch bn:s00115377r:9.0 .
+frame:Color skos:closeMatch bn:s00098480a:26.0,bn:s00113830a:35.0,bn:s00065118n:29.0,bn:s00041648n:79.0,bn:s00020726n:81.0,bn:s00046494n:49.0,bn:s00020730n:54.0 .
+frame:Holding_off_on skos:closeMatch bn:s00089401v:19.0,bn:s00089386v:17.0,bn:s00095593v:10.0 .
+frame:Being_in_effect skos:closeMatch bn:s00021961n:72.0,bn:s00113486a:18.0,bn:s00035767n:22.0 .
+frame:Importance skos:closeMatch bn:s00046143n:19.0,bn:s00106332a:12.0,bn:s00100716a:24.0,bn:s00049881n:44.0,bn:s00104681a:25.0,bn:s00114485r:20.0,bn:s00071554n:12.0,bn:s00085860v:17.0,bn:s00100315a:19.0,bn:s00104680a:16.0,bn:s00046139n:31.0,bn:s00100677a:14.0 .
+frame:Publishing skos:closeMatch .
+frame:Impact skos:closeMatch bn:s00086006v:8.0,bn:s00085046v:10.0,bn:s00085028v:7.0,bn:s00091757v:16.0,bn:s00085949v:15.0,bn:s00083888v:11.0,bn:s00093919v:10.0,bn:s00046064n:31.0,bn:s00085977v:14.0,bn:s00044275n:14.0,bn:s00085293v:22.0,bn:s00082426v:12.0,bn:s00091754v:15.0,bn:s00091487v:10.0,bn:s00090119v:11.0,bn:s00084898v:23.0,bn:s00093846v:20.0,bn:s00020671n:16.0,bn:s00023572n:11.0,bn:s00091696v:14.0,bn:s00094946v:8.0,bn:s00091810v:17.0,bn:s00084155v:8.0,bn:s00093924v:10.0,bn:s00089343v:18.0,bn:s00092387v:5.0,bn:s00084230v:9.0,bn:s00085135v:10.0,bn:s00093170v:60.0,bn:s00095040v:82.0,bn:s00084839v:14.0,bn:s00083077v:7.0,bn:s00085161v:10.0 .
+frame:Making_arrangements skos:closeMatch .
+frame:Bail_decision skos:closeMatch bn:s00086714v:11.0,bn:s00007974n:43.0,bn:s00086468v:14.0,bn:s00011974n:90.0,bn:s00082783v:22.0 .
+frame:Biological_mechanisms skos:closeMatch .
+frame:Knot_creation_scenario skos:closeMatch .
+frame:Being_attached skos:closeMatch bn:s00111329a:6.0,bn:s00001361n:40.0,bn:s00102817a:9.0,bn:s00100287a:4.0,bn:s00082344v:35.0,bn:s00098752a:7.0,bn:s00082347v:34.0,bn:s00096608a:6.0 .
+frame:Personal_relationship skos:closeMatch bn:s00007702n:27.0,bn:s00033624n:70.0,bn:s00095771v:7.0,bn:s00028157n:102.0,bn:s00086298v:20.0,bn:s00001734n:36.0,bn:s00001543n:82.0,bn:s00075084n:13.0,bn:s00009419n:61.0,bn:s00023268n:16.0,bn:s00081170n:21.0,bn:s00085896v:10.0,bn:s00075063n:10.0,bn:s00083329v:13.0,bn:s00013372n:53.0,bn:s00021613n:28.0,bn:s00106427a:13.0,bn:s00040542n:11.0,bn:s00045106n:38.0,bn:s00084684v:12.0,bn:s00052130n:23.0,bn:s00020469n:72.0,bn:s00053518n:68.0,bn:s00110668a:26.0,bn:s00098851a:24.0,bn:s00085262v:26.0,bn:s00036538n:31.0,bn:s00053531n:37.0,bn:s00046231n:6.0,bn:s00005111n:20.0,bn:s00081167n:40.0,bn:s00010161n:39.0,bn:s00037257n:39.0,bn:s00058824n:22.0,bn:s00006532n:45.0,bn:s00020209n:5.0,bn:s00010154n:9.0,bn:s00052143n:16.0,bn:s00027941n:14.0,bn:s00014726n:50.0,bn:s00003520n:6.0,bn:s00036545n:37.0 .
+frame:Desirability skos:closeMatch bn:s00097891a:23.0,bn:s00105056a:15.0,bn:s00104891a:21.0,bn:s00101236a:17.0,bn:s00094565v:37.0,bn:s00112770a:22.0,bn:s00097966a:42.0,bn:s00110403a:6.0,bn:s00100441a:35.0,bn:s00093072v:14.0,bn:s00111540a:17.0,bn:s00102649a:32.0,bn:s00103672a:41.0,bn:s00032114n:32.0 .
+frame:Temporal_collocation skos:closeMatch bn:s00114417r:23.0,bn:s00114905r:19.0,bn:s00103449a:6.0,bn:s00100790a:30.0,bn:s00115453r:29.0,bn:s00114281r:27.0,bn:s00114424r:29.0,bn:s00116085r:39.0,bn:s00101935a:40.0,bn:s00058218n:47.0,bn:s00077462n:9.0,bn:s00116382r:30.0,bn:s00106831a:17.0 .
+frame:Reciprocality skos:closeMatch .
+frame:Cause_to_make_noise skos:closeMatch bn:s00083557v:9.0,bn:s00083318v:11.0,bn:s00085028v:7.0,bn:s00009757n:41.0,bn:s00084878v:20.0,bn:s00085998v:19.0,bn:s00084898v:23.0,bn:s00091713v:22.0,bn:s00090125v:19.0 .
+frame:Be_translation_equivalent skos:closeMatch bn:s00089840v:38.0 .
+frame:Visiting skos:closeMatch bn:s00080111n:22.0,bn:s00080115n:12.0,bn:s00014795n:25.0,bn:s00092989v:7.0,bn:s00084390v:25.0 .
+frame:Limitation skos:closeMatch .
+frame:Expected_location_of_person skos:closeMatch bn:s00000356n:116.0 .
+frame:Text skos:closeMatch bn:s00042518n:61.0,bn:s00012133n:55.0,bn:s00102303a:13.0,bn:s00050802n:49.0,bn:s00060467n:44.0,bn:s00053279n:5.0,bn:s00063195n:70.0,bn:s00078291n:44.0,bn:s00041806n:27.0,bn:s00009892n:46.0,bn:s00007328n:39.0,bn:s00072807n:55.0,bn:s00053801n:35.0,bn:s00031194n:28.0,bn:s00051508n:61.0,bn:s00052473n:25.0,bn:s00027522n:39.0,bn:s00072794n:44.0,bn:s00034155n:36.0,bn:s00000738n:86.0,bn:s00076706n:39.0,bn:s00061617n:36.0,bn:s00056659n:40.0,bn:s00046161n:28.0,bn:s00031238n:12.0,bn:s00031134n:63.0,bn:s00077064n:55.0,bn:s00044453n:57.0,bn:s00057152n:64.0,bn:s00029770n:15.0,bn:s00020904n:53.0,bn:s00030689n:51.0,bn:s00051242n:48.0,bn:s00012062n:44.0,bn:s00000739n:23.0,bn:s00055716n:52.0,bn:s00042510n:34.0,bn:s00031828n:8.0,bn:s00001304n:57.0,bn:s00006121n:15.0,bn:s00052671n:66.0,bn:s00058203n:78.0,bn:s00010534n:63.0,bn:s00063193n:22.0,bn:s00030298n:33.0,bn:s00047689n:23.0,bn:s00031177n:34.0,bn:s00002822n:77.0,bn:s00031622n:38.0,bn:s00067680n:14.0,bn:s00077899n:72.0,bn:s00013812n:20.0,bn:s00057563n:68.0,bn:s00048454n:6.0,bn:s00026887n:52.0,bn:s00028606n:67.0,bn:s00058636n:34.0,bn:s00012059n:77.0,bn:s00020825n:80.0,bn:s00077546n:8.0,bn:s00012060n:12.0,bn:s00068819n:60.0,bn:s00060333n:31.0,bn:s00051538n:52.0,bn:s00042508n:29.0,bn:s00032590n:17.0,bn:s00069862n:47.0,bn:s00078126n:37.0,bn:s00008153n:44.0,bn:s00058201n:69.0,bn:s00021410n:13.0,bn:s00042956n:39.0,bn:s00054144n:29.0,bn:s00054292n:36.0 .
+frame:Filling skos:closeMatch bn:s00082830v:7.0,bn:s00093332v:19.0,bn:s00092163v:18.0,bn:s00086248v:11.0,bn:s00095836v:12.0,bn:s00091689v:7.0,bn:s00083339v:16.0,bn:s00087007v:21.0,bn:s00094966v:11.0,bn:s00082645v:18.0,bn:s00084916v:12.0,bn:s00094502v:8.0,bn:s00095873v:4.0,bn:s00094235v:14.0,bn:s00087356v:15.0,bn:s00087233v:12.0,bn:s00085234v:11.0,bn:s00090165v:25.0,bn:s00091692v:21.0,bn:s00086304v:22.0,bn:s00091410v:7.0,bn:s00088880v:10.0,bn:s00086849v:33.0,bn:s00095681v:15.0,bn:s00093409v:8.0,bn:s00087297v:16.0,bn:s00084159v:11.0,bn:s00089186v:7.0,bn:s00084321v:9.0,bn:s00093688v:8.0,bn:s00091696v:14.0,bn:s00086092v:16.0,bn:s00091554v:11.0,bn:s00093447v:16.0,bn:s00082386v:28.0,bn:s00089274v:29.0,bn:s00095649v:6.0,bn:s00089941v:28.0,bn:s00086302v:7.0,bn:s00085903v:14.0,bn:s00088175v:16.0,bn:s00086542v:15.0,bn:s00089747v:14.0,bn:s00091390v:12.0,bn:s00091490v:16.0,bn:s00094431v:10.0,bn:s00091417v:13.0,bn:s00094185v:11.0 .
+frame:Scarcity skos:closeMatch bn:s00110149a:17.0,bn:s00069520n:30.0,bn:s00063002n:17.0 .
+frame:Body_parts skos:closeMatch .
+frame:Going_back_on_a_commitment skos:closeMatch bn:s00082991v:26.0,bn:s00088942v:11.0,bn:s00086301v:11.0 .
+frame:Dodging skos:closeMatch bn:s00022278n:25.0,bn:s00085002v:49.0,bn:s00071477n:9.0 .
+frame:Want_suspect skos:closeMatch bn:s00113696a:18.0 .
+frame:Victim_operated_IED skos:closeMatch .
+frame:Gesture skos:closeMatch bn:s00091072v:12.0,bn:s00083289v:16.0,bn:s00088732v:25.0,bn:s00071525n:49.0,bn:s00093733v:22.0 .
+frame:Accomplishment skos:closeMatch bn:s00084068v:9.0,bn:s00082225v:34.0,bn:s00082226v:41.0,bn:s00000724n:27.0 .
+frame:Visitor_arrival skos:closeMatch .
+frame:Aging skos:closeMatch bn:s00082450v:31.0 .
+frame:Lodging_scenario skos:closeMatch .
+frame:Fastener skos:closeMatch bn:s00072152n:48.0,bn:s00014305n:43.0,bn:s00070013n:55.0,bn:s00013600n:35.0 .
+frame:Timetable skos:closeMatch .
+frame:Needing skos:closeMatch bn:s00026107n:35.0,bn:s00082822v:41.0 .
+frame:Borrowing skos:closeMatch .
+frame:Theft skos:closeMatch bn:s00093663v:11.0,bn:s00086444v:36.0,bn:s00050004n:111.0,bn:s00072413n:7.0,bn:s00024656n:60.0,bn:s00090342v:6.0,bn:s00082131v:46.0,bn:s00043564n:5.0,bn:s00074094n:22.0,bn:s00049292n:12.0,bn:s00025847n:15.0,bn:s00062391n:14.0,bn:s00094314v:28.0,bn:s00091058v:10.0,bn:s00025846n:94.0,bn:s00082181v:21.0,bn:s00085797v:17.0,bn:s00062390n:11.0,bn:s00012161n:14.0,bn:s00071226n:61.0,bn:s00088333v:30.0,bn:s00049082n:67.0 .
+frame:Sign skos:closeMatch bn:s00083436v:20.0,bn:s00053450n:106.0,bn:s00090659v:7.0,bn:s00089648v:12.0,bn:s00075684n:8.0,bn:s00093741v:10.0,bn:s00046473n:31.0,bn:s00101019a:16.0 .
+frame:Have_associated skos:closeMatch bn:s00089240v:30.0 .
+frame:Invasion_scenario skos:closeMatch .
+frame:Vehicle_departure_initial_stage skos:closeMatch .
+frame:Giving_in skos:closeMatch bn:s00082190v:24.0,bn:s00087459v:16.0,bn:s00082192v:26.0,bn:s00092743v:6.0,bn:s00083932v:26.0,bn:s00084499v:12.0 .
+frame:Inhibit_motion_scenario skos:closeMatch .
+frame:Location_of_light skos:closeMatch bn:s00040637n:18.0,bn:s00035201n:15.0,bn:s00085847v:10.0,bn:s00029903n:70.0,bn:s00022922n:10.0,bn:s00088882v:8.0,bn:s00051116n:25.0,bn:s00088267v:11.0,bn:s00098857a:21.0,bn:s00040636n:9.0,bn:s00088299v:15.0,bn:s00052373n:59.0,bn:s00083216v:34.0,bn:s00040677n:24.0,bn:s00093345v:15.0,bn:s00088881v:10.0,bn:s00035052n:7.0,bn:s00083218v:15.0,bn:s00083612v:20.0,bn:s00051108n:65.0,bn:s00093622v:5.0 .
+frame:Seeking skos:closeMatch bn:s00095665v:12.0,bn:s00090448v:22.0,bn:s00088622v:19.0,bn:s00093168v:11.0,bn:s00089280v:20.0,bn:s00088448v:6.0,bn:s00091403v:10.0,bn:s00088103v:13.0,bn:s00087788v:11.0,bn:s00090460v:34.0,bn:s00089474v:21.0,bn:s00088101v:7.0,bn:s00089525v:9.0,bn:s00093978v:8.0,bn:s00090450v:22.0 .
+frame:Capability skos:closeMatch bn:s00015409n:12.0,bn:s00000317n:27.0,bn:s00099215a:16.0,bn:s00084450v:24.0,bn:s00015423n:50.0,bn:s00108830a:20.0,bn:s00112254a:16.0,bn:s00063864n:18.0 .
+frame:Escaping skos:closeMatch bn:s00083961v:37.0,bn:s00083978v:17.0,bn:s00087724v:24.0,bn:s00087757v:8.0 .
+frame:Morality_evaluation skos:closeMatch bn:s00104706a:16.0,bn:s00106205a:9.0,bn:s00101001a:12.0,bn:s00106928a:34.0,bn:s00113857a:6.0,bn:s00104604a:8.0,bn:s00100510a:14.0,bn:s00109866a:15.0,bn:s00097966a:42.0,bn:s00112697a:17.0,bn:s00113959a:17.0,bn:s00113200a:16.0,bn:s00101520a:9.0,bn:s00109849a:8.0,bn:s00113633a:10.0,bn:s00103673a:17.0,bn:s00022884n:91.0,bn:s00102474a:14.0 .
+frame:Partiality skos:closeMatch bn:s00083467v:8.0,bn:s00060796n:20.0,bn:s00010210n:80.0,bn:s00057443n:20.0,bn:s00104628a:9.0,bn:s00084932v:23.0,bn:s00091957v:6.0,bn:s00046077n:31.0,bn:s00088060v:8.0,bn:s00108291a:15.0 .
+frame:Catching_fire skos:closeMatch .
+frame:Change_of_quantity_of_possession skos:closeMatch bn:s00090485v:20.0,bn:s00088659v:12.0 .
+frame:Military skos:closeMatch bn:s00035770n:29.0,bn:s00106725a:13.0,bn:s00005732n:141.0,bn:s00107165a:15.0,bn:s00002224n:53.0,bn:s00057052n:59.0,bn:s00005803n:82.0 .
+frame:Catastrophe skos:closeMatch bn:s00014640n:143.0,bn:s00046282n:8.0,bn:s00007886n:13.0,bn:s00023844n:38.0,bn:s00055265n:6.0,bn:s00083285v:9.0,bn:s00004927n:13.0,bn:s00016592n:57.0,bn:s00087618v:13.0,bn:s00025613n:14.0 .
+frame:Secrecy_status skos:closeMatch bn:s00115822r:21.0,bn:s00115820r:18.0,bn:s00112443a:5.0,bn:s00109211a:33.0,bn:s00100578a:15.0,bn:s00100182a:10.0 .
+frame:Government_institution skos:closeMatch .
+frame:Substance_by_phase skos:closeMatch .
+frame:Inclusion_scenario skos:closeMatch .
+frame:Immobilization skos:closeMatch bn:s00083501v:5.0,bn:s00088138v:9.0,bn:s00086139v:15.0 .
+frame:Visitor_scenario skos:closeMatch .
+frame:Delivery skos:closeMatch bn:s00013142n:40.0,bn:s00086531v:20.0 .
+frame:Symmetrical_collective_reciprocality skos:closeMatch .
+frame:Robbery skos:closeMatch bn:s00068014n:38.0,bn:s00056237n:14.0,bn:s00086690v:23.0,bn:s00090973v:11.0,bn:s00056235n:26.0,bn:s00093070v:12.0,bn:s00068012n:9.0,bn:s00089420v:13.0 .
+frame:Clothing skos:closeMatch bn:s00075535n:22.0,bn:s00006125n:69.0,bn:s00079878n:34.0,bn:s00079864n:64.0,bn:s00078599n:33.0,bn:s00051633n:45.0,bn:s00030964n:11.0,bn:s00047823n:37.0,bn:s00000228n:38.0,bn:s00042622n:36.0,bn:s00048144n:77.0,bn:s00037266n:28.0,bn:s00015958n:42.0,bn:s00012983n:17.0,bn:s00075103n:78.0,bn:s00057143n:11.0,bn:s00049123n:35.0,bn:s00069143n:63.0,bn:s00028418n:32.0,bn:s00034562n:15.0,bn:s00048570n:74.0,bn:s00023029n:14.0,bn:s00069286n:35.0,bn:s00040347n:15.0,bn:s00047249n:27.0,bn:s00014178n:58.0,bn:s00035729n:23.0,bn:s00066051n:45.0,bn:s00014572n:37.0,bn:s00007046n:29.0,bn:s00079079n:46.0,bn:s00041606n:30.0,bn:s00057700n:36.0,bn:s00005180n:44.0,bn:s00077370n:32.0,bn:s00069289n:60.0,bn:s00079003n:79.0,bn:s00004422n:84.0,bn:s00047958n:56.0,bn:s00075527n:49.0,bn:s00018128n:89.0,bn:s00015025n:33.0,bn:s00074286n:37.0,bn:s00048137n:37.0,bn:s00008813n:49.0,bn:s00072576n:44.0,bn:s00048566n:27.0,bn:s00019880n:48.0,bn:s00071142n:46.0,bn:s00041210n:70.0,bn:s00048268n:51.0,bn:s00024388n:40.0,bn:s00011832n:14.0,bn:s00037374n:39.0,bn:s00029045n:19.0,bn:s00011441n:50.0,bn:s00071172n:72.0,bn:s00060447n:27.0,bn:s00068017n:26.0,bn:s00071255n:80.0,bn:s00069523n:47.0,bn:s00070943n:36.0,bn:s00043912n:104.0,bn:s00040736n:45.0,bn:s00036611n:12.0,bn:s00002435n:40.0,bn:s00017936n:51.0,bn:s00016214n:49.0,bn:s00020184n:34.0,bn:s00012166n:28.0,bn:s00019902n:75.0,bn:s00056222n:18.0,bn:s00063388n:56.0,bn:s00023413n:26.0,bn:s00023602n:23.0,bn:s00049120n:60.0,bn:s00008172n:34.0,bn:s00072004n:67.0,bn:s00037352n:16.0,bn:s00048574n:43.0,bn:s00022892n:58.0,bn:s00005007n:24.0,bn:s00075207n:23.0,bn:s00023363n:14.0,bn:s00055146n:51.0,bn:s00012473n:39.0,bn:s00009019n:36.0,bn:s00008300n:57.0,bn:s00036963n:89.0,bn:s00005462n:62.0,bn:s00029197n:43.0,bn:s00074398n:26.0,bn:s00052107n:13.0,bn:s00028682n:70.0,bn:s00078986n:19.0,bn:s00050722n:51.0,bn:s00071604n:8.0,bn:s00060301n:31.0,bn:s00042319n:110.0,bn:s00011176n:75.0,bn:s00074376n:59.0,bn:s00063506n:54.0,bn:s00023839n:10.0,bn:s00055380n:18.0,bn:s00057149n:79.0,bn:s00013109n:38.0,bn:s00081674n:7.0,bn:s00079027n:7.0,bn:s00011732n:27.0,bn:s00044887n:41.0,bn:s00010363n:40.0,bn:s00065171n:14.0,bn:s00009013n:95.0,bn:s00056039n:20.0,bn:s00005871n:14.0,bn:s00034869n:28.0,bn:s00011431n:107.0,bn:s00075410n:44.0,bn:s00015428n:49.0,bn:s00005769n:8.0,bn:s00057150n:22.0,bn:s00021666n:99.0,bn:s00022476n:34.0 .
+frame:Military_operation skos:closeMatch .
+frame:Being_in_operation skos:closeMatch bn:s00088629v:49.0 .
+frame:Touring skos:closeMatch bn:s00077747n:67.0,bn:s00019181n:20.0,bn:s00095049v:7.0,bn:s00093430v:23.0,bn:s00071517n:31.0,bn:s00044419n:15.0,bn:s00087106v:13.0 .
+frame:Communicate_categorization skos:closeMatch bn:s00017758n:29.0,bn:s00086612v:16.0,bn:s00092568v:7.0,bn:s00084624v:21.0,bn:s00066711n:19.0,bn:s00084801v:23.0,bn:s00089839v:11.0,bn:s00047140n:52.0,bn:s00025928n:65.0,bn:s00091391v:6.0,bn:s00095141v:18.0,bn:s00086465v:18.0,bn:s00026501n:45.0,bn:s00086613v:11.0 .
+frame:Event_instance skos:closeMatch bn:s00019848n:15.0,bn:s00115811r:6.0,bn:s00117358r:9.0 .
+frame:Result_of_attempt_scenario skos:closeMatch .
+frame:Records skos:closeMatch .
+frame:Usefulness skos:closeMatch bn:s00079372n:41.0,bn:s00113489a:11.0,bn:s00088629v:49.0,bn:s00105004a:16.0,bn:s00102038a:48.0,bn:s00108442a:22.0,bn:s00079508n:27.0,bn:s00103672a:41.0,bn:s00113455a:19.0 .
+frame:Sent_items skos:closeMatch bn:s00016047n:91.0,bn:s00052817n:13.0 .
+frame:Commutative_statement skos:closeMatch bn:s00003604n:20.0,bn:s00056300n:89.0,bn:s00054416n:34.0 .
+frame:Grooming skos:closeMatch bn:s00089061v:7.0,bn:s00090627v:11.0,bn:s00093689v:9.0,bn:s00090210v:14.0,bn:s00091597v:15.0,bn:s00093571v:8.0,bn:s00083166v:7.0,bn:s00090221v:7.0,bn:s00085062v:13.0,bn:s00084154v:12.0,bn:s00061243n:38.0,bn:s00032633n:38.0,bn:s00089514v:11.0,bn:s00083864v:8.0,bn:s00088341v:14.0,bn:s00000339n:56.0,bn:s00093587v:24.0,bn:s00053209n:42.0,bn:s00095681v:15.0,bn:s00085311v:18.0,bn:s00088164v:12.0 .
+frame:People_by_residence skos:closeMatch bn:s00045044n:7.0,bn:s00068242n:36.0,bn:s00057219n:31.0 .
+frame:Container_focused_placing skos:closeMatch .
+frame:Losing_someone skos:closeMatch bn:s00090485v:20.0 .
+frame:Cause_to_perceive skos:closeMatch bn:s00086557v:28.0,bn:s00086611v:22.0,bn:s00089839v:11.0,bn:s00086679v:30.0 .
+frame:Gizmo skos:closeMatch bn:s00106539a:19.0,bn:s00026716n:17.0,bn:s00046961n:10.0,bn:s00046127n:13.0,bn:s00075759n:19.0,bn:s00005168n:27.0,bn:s00030858n:8.0,bn:s00022631n:19.0,bn:s00005004n:16.0,bn:s00017210n:94.0,bn:s00052556n:32.0,bn:s00077585n:49.0,bn:s00046975n:87.0,bn:s00005088n:97.0,bn:s00079388n:15.0,bn:s00031322n:15.0 .
+frame:Living_conditions skos:closeMatch .
+frame:Alignment_image_schema skos:closeMatch .
+frame:State_of_entity skos:closeMatch bn:s00021644n:19.0,bn:s00064914n:57.0 .
+frame:Exchange_currency skos:closeMatch bn:s00082553v:27.0,bn:s00084772v:28.0 .
+frame:Fining skos:closeMatch bn:s00077175n:36.0,bn:s00003340n:59.0,bn:s00082578v:8.0,bn:s00090975v:10.0,bn:s00003333n:126.0,bn:s00088213v:19.0 .
+frame:Proper_reference skos:closeMatch bn:s00070325n:23.0,bn:s00109114a:11.0 .
+frame:Coincidence skos:closeMatch bn:s00085337v:37.0,bn:s00114328r:32.0,bn:s00017622n:33.0,bn:s00020509n:19.0,bn:s00109425a:30.0,bn:s00084767v:9.0,bn:s00000691n:23.0 .
+frame:Give_impression skos:closeMatch .
+frame:Kidnapping skos:closeMatch bn:s00089640v:11.0,bn:s00000266n:17.0,bn:s00090998v:5.0,bn:s00082131v:46.0,bn:s00000264n:23.0,bn:s00049082n:67.0 .
+frame:Be_in_agreement_on_action skos:closeMatch bn:s00022335n:43.0,bn:s00008568n:17.0,bn:s00000728n:110.0,bn:s00002086n:26.0 .
+frame:Scope skos:closeMatch bn:s00003268n:69.0 .
+frame:Fame skos:closeMatch bn:s00016991n:27.0,bn:s00102303a:13.0,bn:s00045933n:8.0,bn:s00074066n:17.0,bn:s00067253n:32.0 .
+frame:Biological_classification skos:closeMatch .
+frame:Cause_change_of_phase skos:closeMatch bn:s00094034v:9.0,bn:s00086318v:10.0,bn:s00086718v:40.0,bn:s00083738v:25.0,bn:s00088377v:16.0,bn:s00088554v:7.0,bn:s00086882v:16.0 .
+frame:Source_of_getting skos:closeMatch bn:s00072943n:16.0 .
+frame:Version_sequence skos:closeMatch bn:s00028548n:23.0 .
+frame:Motion_noise skos:closeMatch bn:s00090188v:14.0,bn:s00093211v:11.0,bn:s00094945v:12.0,bn:s00085015v:10.0,bn:s00094949v:13.0,bn:s00091889v:9.0,bn:s00085028v:7.0,bn:s00083888v:11.0,bn:s00085949v:15.0,bn:s00089498v:14.0,bn:s00091642v:15.0,bn:s00091487v:10.0,bn:s00089124v:11.0,bn:s00083762v:28.0,bn:s00087494v:17.0,bn:s00085030v:6.0,bn:s00095727v:4.0,bn:s00085976v:8.0,bn:s00089343v:18.0,bn:s00089096v:20.0,bn:s00086109v:9.0,bn:s00094155v:7.0,bn:s00085135v:10.0,bn:s00093900v:13.0,bn:s00085998v:19.0,bn:s00083513v:19.0,bn:s00083080v:10.0,bn:s00084960v:12.0,bn:s00085161v:10.0 .
+frame:Amalgamation skos:closeMatch bn:s00090746v:15.0,bn:s00082565v:12.0,bn:s00090731v:13.0,bn:s00083070v:8.0,bn:s00003203n:44.0,bn:s00083597v:52.0,bn:s00083595v:13.0 .
+frame:Custom skos:closeMatch bn:s00042403n:20.0,bn:s00063991n:9.0,bn:s00112043a:29.0,bn:s00067937n:6.0,bn:s00024591n:58.0,bn:s00117332r:17.0,bn:s00024592n:74.0,bn:s00022334n:21.0,bn:s00109893a:11.0 .
+frame:Control skos:closeMatch bn:s00082812v:18.0,bn:s00082811v:30.0,bn:s00085747v:9.0 .
+frame:Reassuring skos:closeMatch bn:s00066451n:12.0,bn:s00082880v:12.0 .
+frame:Becoming_visible skos:closeMatch .
+frame:Sports_jargon skos:closeMatch .
+frame:Non-commutative_process skos:closeMatch bn:s00027913n:9.0,bn:s00087098v:25.0,bn:s00055233n:117.0,bn:s00083231v:36.0,bn:s00086432v:20.0 .
+frame:Relational_location skos:closeMatch .
+frame:Being_in_captivity skos:closeMatch .
+frame:Arriving skos:closeMatch bn:s00046692n:22.0,bn:s00085363v:19.0,bn:s00082732v:26.0,bn:s00093433v:18.0,bn:s00085333v:24.0,bn:s00087106v:13.0,bn:s00082276v:42.0,bn:s00085319v:24.0,bn:s00082788v:27.0,bn:s00092969v:19.0,bn:s00082901v:19.0,bn:s00082789v:21.0,bn:s00080111n:22.0,bn:s00084486v:9.0,bn:s00000663n:39.0,bn:s00030989n:14.0,bn:s00044531n:16.0,bn:s00005886n:15.0 .
+frame:Hunting_success_or_failure skos:closeMatch bn:s00084511v:17.0,bn:s00083026v:7.0 .
+frame:Information_display skos:closeMatch .
+frame:Gradable_artistic_quality skos:closeMatch .
+frame:History_scenario skos:closeMatch .
+frame:Cause_harm skos:closeMatch bn:s00089481v:6.0,bn:s00094453v:25.0,bn:s00087568v:25.0,bn:s00083248v:28.0,bn:s00090550v:12.0,bn:s00093919v:10.0,bn:s00083393v:6.0,bn:s00030200n:14.0,bn:s00088688v:19.0,bn:s00083171v:9.0,bn:s00083953v:26.0,bn:s00090648v:8.0,bn:s00090191v:33.0,bn:s00085056v:11.0,bn:s00083760v:13.0,bn:s00085199v:12.0,bn:s00089347v:12.0,bn:s00093846v:20.0,bn:s00083144v:9.0,bn:s00083736v:27.0,bn:s00083247v:45.0,bn:s00047259n:39.0,bn:s00084255v:18.0,bn:s00089751v:25.0,bn:s00086289v:12.0,bn:s00087816v:11.0,bn:s00084940v:4.0,bn:s00086138v:13.0,bn:s00084461v:13.0,bn:s00089159v:7.0,bn:s00086115v:49.0,bn:s00087515v:10.0,bn:s00086178v:13.0,bn:s00094688v:5.0,bn:s00083516v:11.0,bn:s00084188v:8.0,bn:s00091808v:8.0,bn:s00084149v:21.0,bn:s00090126v:18.0,bn:s00091762v:13.0,bn:s00090623v:6.0,bn:s00083180v:5.0,bn:s00088260v:7.0,bn:s00083901v:30.0,bn:s00084230v:9.0,bn:s00093871v:6.0,bn:s00086136v:5.0,bn:s00083686v:6.0,bn:s00090086v:24.0,bn:s00086813v:31.0,bn:s00094366v:7.0,bn:s00083477v:15.0,bn:s00094096v:19.0,bn:s00087523v:11.0,bn:s00083950v:11.0,bn:s00088333v:30.0 .
+frame:Emotion_heat skos:closeMatch bn:s00083737v:12.0,bn:s00084741v:14.0,bn:s00093942v:17.0,bn:s00084272v:16.0,bn:s00084136v:7.0,bn:s00083740v:9.0,bn:s00093752v:10.0,bn:s00088625v:5.0 .
+frame:Hit_target skos:closeMatch bn:s00083567v:36.0,bn:s00089352v:38.0,bn:s00091596v:3.0 .
+frame:Being_obligated skos:closeMatch bn:s00029239n:91.0,bn:s00006513n:17.0,bn:s00048239n:6.0,bn:s00017793n:27.0,bn:s00022227n:93.0,bn:s00018756n:61.0,bn:s00107674a:15.0,bn:s00029240n:10.0 .
+frame:Exchange skos:closeMatch bn:s00084773v:11.0,bn:s00008735n:72.0,bn:s00094650v:14.0,bn:s00032131n:27.0 .
+frame:Active_substance skos:closeMatch bn:s00047566n:41.0,bn:s00001972n:38.0,bn:s00096387a:14.0 .
+frame:Suicide_attack skos:closeMatch .
+frame:Pre_giving skos:closeMatch .
+frame:Building_subparts skos:closeMatch bn:s00019956n:8.0,bn:s00074450n:27.0,bn:s00004493n:153.0,bn:s00007037n:78.0,bn:s00053721n:10.0,bn:s00006185n:44.0,bn:s00017629n:11.0,bn:s00049248n:30.0,bn:s00016639n:52.0,bn:s00014301n:87.0,bn:s00074791n:30.0,bn:s00030333n:64.0,bn:s00026379n:45.0,bn:s00014169n:31.0,bn:s00033374n:16.0,bn:s00063608n:49.0,bn:s00074788n:22.0,bn:s00009495n:50.0,bn:s00066786n:24.0,bn:s00022867n:17.0,bn:s00019883n:45.0,bn:s00007652n:6.0,bn:s00017030n:14.0,bn:s00028702n:25.0,bn:s00037199n:23.0,bn:s00027195n:48.0,bn:s00009842n:13.0,bn:s00009020n:99.0,bn:s00074390n:30.0,bn:s00037100n:29.0,bn:s00068233n:38.0,bn:s00069918n:37.0,bn:s00008206n:46.0,bn:s00042663n:31.0,bn:s00018019n:7.0,bn:s00072693n:57.0,bn:s00004331n:21.0,bn:s00081613n:9.0,bn:s00009703n:27.0,bn:s00077766n:40.0,bn:s00017719n:39.0,bn:s00068980n:15.0,bn:s00017041n:42.0,bn:s00044906n:18.0,bn:s00071216n:53.0,bn:s00049258n:13.0,bn:s00049658n:9.0,bn:s00004836n:49.0,bn:s00026202n:20.0,bn:s00012390n:28.0,bn:s00068759n:68.0,bn:s00008824n:47.0,bn:s00003117n:62.0,bn:s00076430n:8.0,bn:s00036640n:85.0,bn:s00050217n:17.0 .
+frame:Transition_to_state skos:closeMatch .
+frame:Commonality skos:closeMatch .
+frame:Getting skos:closeMatch bn:s00001005n:49.0,bn:s00092039v:9.0,bn:s00089351v:39.0,bn:s00064570n:17.0,bn:s00091124v:22.0,bn:s00082280v:28.0,bn:s00082276v:42.0 .
+frame:Losing skos:closeMatch bn:s00090485v:20.0,bn:s00090488v:12.0,bn:s00090489v:28.0 .
+frame:Proportional_quantity skos:closeMatch .
+frame:Attaching skos:closeMatch bn:s00094894v:6.0,bn:s00082700v:11.0,bn:s00085508v:12.0,bn:s00091634v:13.0,bn:s00082893v:8.0,bn:s00006992n:6.0,bn:s00094720v:7.0,bn:s00089117v:10.0,bn:s00086704v:8.0,bn:s00082347v:34.0,bn:s00095707v:17.0,bn:s00089454v:9.0,bn:s00093062v:11.0,bn:s00051106n:46.0,bn:s00088138v:9.0,bn:s00090384v:7.0,bn:s00085613v:7.0,bn:s00094820v:9.0,bn:s00082455v:7.0,bn:s00083498v:17.0,bn:s00090201v:18.0,bn:s00091698v:7.0,bn:s00082344v:35.0,bn:s00094424v:6.0,bn:s00084972v:7.0,bn:s00094293v:11.0,bn:s00084720v:5.0,bn:s00090934v:7.0,bn:s00082437v:6.0,bn:s00084749v:10.0,bn:s00086139v:15.0,bn:s00091002v:14.0,bn:s00093200v:17.0,bn:s00088905v:18.0,bn:s00085623v:34.0,bn:s00082605v:17.0,bn:s00095202v:11.0,bn:s00095797v:8.0,bn:s00088052v:22.0,bn:s00083597v:52.0,bn:s00095313v:8.0,bn:s00090908v:7.0,bn:s00083860v:6.0,bn:s00089364v:11.0,bn:s00094026v:10.0 .
+frame:Operate_vehicle skos:closeMatch bn:s00083471v:23.0,bn:s00084351v:5.0,bn:s00093143v:20.0,bn:s00083057v:12.0,bn:s00092309v:7.0,bn:s00093856v:13.0,bn:s00084970v:8.0,bn:s00094721v:11.0,bn:s00082957v:15.0,bn:s00083714v:8.0,bn:s00090515v:10.0,bn:s00086103v:16.0,bn:s00091382v:12.0,bn:s00084470v:10.0,bn:s00084515v:4.0,bn:s00093798v:7.0,bn:s00093231v:23.0,bn:s00087328v:17.0,bn:s00087327v:21.0,bn:s00093014v:17.0,bn:s00092178v:10.0 .
+frame:Biological_entity skos:closeMatch .
+frame:Enforcing skos:closeMatch bn:s00082712v:21.0,bn:s00030839n:11.0 .
+frame:Activity_start skos:closeMatch bn:s00094301v:13.0,bn:s00089743v:10.0,bn:s00090216v:11.0,bn:s00031048n:133.0,bn:s00094681v:12.0,bn:s00009630n:51.0,bn:s00087550v:13.0,bn:s00083340v:63.0 .
+frame:Possession skos:closeMatch bn:s00090161v:12.0,bn:s00029880n:16.0,bn:s00024588n:24.0,bn:s00009815n:67.0,bn:s00006505n:19.0,bn:s00059954n:16.0,bn:s00063731n:4.0,bn:s00086682v:14.0,bn:s00089241v:35.0,bn:s00059957n:9.0,bn:s00089240v:30.0,bn:s00083386v:6.0,bn:s00025913n:41.0 .
+frame:Event_initial_state skos:closeMatch .
+frame:Cause_to_experience skos:closeMatch bn:s00087682v:9.0,bn:s00082591v:26.0,bn:s00094881v:22.0,bn:s00083308v:13.0 .
+frame:Rescuing skos:closeMatch .
+frame:Labor_product skos:closeMatch bn:s00062309n:71.0 .
+frame:Undergo_change skos:closeMatch bn:s00054575n:10.0,bn:s00003125n:35.0,bn:s00095233v:65.0,bn:s00086173v:26.0,bn:s00084784v:9.0,bn:s00077992n:24.0,bn:s00099513a:20.0,bn:s00071059n:13.0,bn:s00017678n:13.0,bn:s00091773v:8.0,bn:s00094679v:18.0,bn:s00084769v:24.0 .
+frame:Alliance skos:closeMatch bn:s00002740n:59.0,bn:s00002859n:9.0 .
+frame:Cause_change skos:closeMatch bn:s00095089v:12.0,bn:s00022359n:18.0,bn:s00003125n:35.0,bn:s00095233v:65.0,bn:s00092777v:6.0,bn:s00035414n:17.0,bn:s00088736v:14.0,bn:s00084785v:16.0,bn:s00071059n:13.0,bn:s00082554v:23.0,bn:s00082553v:27.0 .
+frame:Price_per_unit skos:closeMatch .
+frame:Leaving_traces skos:closeMatch .
+frame:Becoming_detached skos:closeMatch bn:s00095395v:6.0,bn:s00086412v:7.0,bn:s00095393v:9.0,bn:s00086704v:8.0 .
+frame:Manipulate_into_doing skos:closeMatch bn:s00087689v:27.0,bn:s00084845v:18.0,bn:s00084240v:39.0,bn:s00083426v:37.0,bn:s00085931v:14.0,bn:s00088310v:22.0,bn:s00083537v:28.0,bn:s00084140v:10.0,bn:s00083559v:16.0,bn:s00083550v:11.0,bn:s00090632v:12.0,bn:s00083021v:20.0,bn:s00083327v:19.0 .
+frame:Impression skos:closeMatch bn:s00045973n:24.0,bn:s00045971n:58.0 .
+frame:Manner_of_life skos:closeMatch .
+frame:Health_response skos:closeMatch bn:s00002842n:57.0,bn:s00111525a:12.0,bn:s00070513n:28.0,bn:s00110409a:18.0,bn:s00075444n:11.0 .
+frame:Supporting skos:closeMatch bn:s00089387v:22.0,bn:s00084329v:6.0,bn:s00083747v:7.0 .
+frame:Receiving skos:closeMatch bn:s00066489n:17.0,bn:s00089246v:17.0,bn:s00082198v:29.0 .
+frame:Rite skos:closeMatch bn:s00032009n:28.0,bn:s00084994v:17.0,bn:s00089693v:15.0,bn:s00067939n:7.0,bn:s00082609v:29.0,bn:s00027898n:22.0,bn:s00083602v:19.0,bn:s00009892n:46.0,bn:s00091921v:18.0,bn:s00064038n:33.0,bn:s00085641v:10.0,bn:s00081651n:31.0,bn:s00068745n:73.0,bn:s00018815n:13.0,bn:s00053664n:71.0,bn:s00079858n:7.0,bn:s00079989n:31.0,bn:s00047314n:17.0,bn:s00067938n:49.0,bn:s00032204n:10.0,bn:s00083101v:21.0,bn:s00067050n:54.0,bn:s00031788n:142.0,bn:s00067941n:106.0,bn:s00059438n:41.0,bn:s00021733n:48.0,bn:s00021955n:46.0,bn:s00019204n:18.0,bn:s00085586v:13.0,bn:s00046545n:69.0,bn:s00008486n:62.0,bn:s00008455n:55.0,bn:s00088824v:25.0,bn:s00021233n:33.0,bn:s00021760n:28.0 .
+frame:Cause_bodily_experience skos:closeMatch bn:s00094951v:34.0,bn:s00090121v:15.0,bn:s00089924v:25.0,bn:s00084744v:9.0 .
+frame:Noise_makers skos:closeMatch bn:s00002412n:66.0,bn:s00042150n:71.0,bn:s00053421n:87.0,bn:s00017047n:57.0,bn:s00066269n:44.0,bn:s00009727n:52.0,bn:s00071830n:32.0,bn:s00069426n:55.0,bn:s00028891n:96.0,bn:s00035986n:100.0 .
+frame:Measure_linear_extent skos:closeMatch bn:s00017163n:45.0,bn:s00060066n:76.0,bn:s00036893n:57.0,bn:s00011309n:61.0,bn:s00055052n:53.0,bn:s00035680n:79.0,bn:s00052501n:104.0,bn:s00046209n:49.0,bn:s00047159n:67.0,bn:s00049112n:49.0,bn:s00051120n:85.0 .
+frame:Atonement skos:closeMatch bn:s00102583a:14.0,bn:s00082189v:18.0,bn:s00006945n:85.0 .
+frame:Request_entity skos:closeMatch .
+frame:Locale_by_event skos:closeMatch bn:s00034270n:73.0,bn:s00049847n:10.0,bn:s00009183n:36.0,bn:s00069550n:14.0,bn:s00051754n:34.0 .
+frame:Limiting skos:closeMatch .
+frame:Shopping skos:closeMatch bn:s00071229n:24.0,bn:s00093662v:13.0 .
+frame:Placing_scenario skos:closeMatch .
+frame:Position_on_a_scale skos:closeMatch bn:s00109833a:13.0,bn:s00106205a:9.0,bn:s00104162a:26.0 .
+frame:Retaining skos:closeMatch .
+frame:Adding_up skos:closeMatch bn:s00082321v:25.0 .
+frame:State_continue skos:closeMatch bn:s00092756v:40.0 .
+frame:Giving skos:closeMatch bn:s00017819n:6.0,bn:s00086532v:20.0,bn:s00087156v:17.0,bn:s00084904v:10.0,bn:s00087065v:12.0,bn:s00087198v:9.0,bn:s00095139v:13.0,bn:s00082394v:16.0,bn:s00040437n:38.0,bn:s00088803v:11.0,bn:s00088400v:9.0,bn:s00095569v:6.0,bn:s00088825v:32.0,bn:s00083420v:16.0,bn:s00022271n:27.0,bn:s00088409v:5.0,bn:s00010110n:10.0 .
+frame:Adjacency skos:closeMatch .
+frame:Non-gradable_proximity skos:closeMatch .
+frame:Conditional_occurrence skos:closeMatch .
+frame:Scheduling skos:closeMatch .
+frame:Directional_locative_relation skos:closeMatch .
+frame:Activity_paused_state skos:closeMatch .
+frame:Relation skos:closeMatch bn:s00066996n:33.0 .
+frame:Vehicle skos:closeMatch bn:s00079862n:54.0,bn:s00074613n:87.0,bn:s00010248n:74.0,bn:s00051265n:48.0,bn:s00056059n:70.0,bn:s00054976n:38.0,bn:s00016240n:52.0,bn:s00078268n:60.0,bn:s00076047n:40.0,bn:s00048857n:43.0,bn:s00016292n:79.0,bn:s00069649n:39.0,bn:s00079533n:10.0,bn:s00066028n:76.0,bn:s00014407n:61.0,bn:s00005778n:104.0,bn:s00045742n:48.0,bn:s00007309n:108.0,bn:s00079675n:61.0,bn:s00015316n:67.0,bn:s00065835n:75.0,bn:s00015022n:21.0,bn:s00016241n:33.0,bn:s00034131n:58.0,bn:s00013710n:8.0,bn:s00068982n:44.0,bn:s00001697n:80.0,bn:s00018734n:87.0,bn:s00071103n:38.0,bn:s00007329n:179.0,bn:s00077450n:40.0,bn:s00011674n:48.0,bn:s00051368n:43.0,bn:s00062349n:38.0,bn:s00022369n:60.0 .
+frame:Leadership skos:closeMatch bn:s00030632n:15.0,bn:s00030591n:35.0,bn:s00028876n:50.0,bn:s00049031n:61.0,bn:s00049141n:30.0,bn:s00041348n:49.0,bn:s00007299n:64.0,bn:s00025573n:23.0,bn:s00019333n:98.0,bn:s00010706n:21.0,bn:s00082362v:29.0,bn:s00075475n:12.0,bn:s00069333n:28.0,bn:s00036837n:72.0,bn:s00008639n:72.0,bn:s00018319n:47.0,bn:s00079929n:43.0,bn:s00020941n:7.0,bn:s00049142n:11.0,bn:s00094098v:8.0,bn:s00063940n:84.0,bn:s00052780n:43.0,bn:s00001436n:13.0,bn:s00021678n:63.0,bn:s00001426n:44.0,bn:s00014743n:86.0,bn:s00093170v:60.0,bn:s00044077n:13.0,bn:s00080167n:41.0,bn:s00017235n:102.0,bn:s00043259n:64.0,bn:s00026965n:50.0,bn:s00045987n:42.0,bn:s00050281n:9.0,bn:s00050371n:20.0,bn:s00050591n:42.0,bn:s00028513n:13.0,bn:s00052017n:13.0,bn:s00070458n:32.0,bn:s00055175n:6.0,bn:s00024097n:50.0,bn:s00007293n:49.0,bn:s00049037n:44.0,bn:s00050375n:7.0,bn:s00028191n:16.0,bn:s00037647n:26.0,bn:s00020955n:47.0,bn:s00089260v:27.0,bn:s00018320n:48.0,bn:s00060072n:83.0,bn:s00070168n:68.0,bn:s00005253n:54.0,bn:s00068528n:17.0,bn:s00092703v:15.0,bn:s00088992v:40.0,bn:s00024459n:190.0,bn:s00041204n:58.0,bn:s00017796n:13.0,bn:s00027283n:45.0,bn:s00029007n:15.0,bn:s00063133n:65.0,bn:s00043325n:46.0,bn:s00024091n:62.0,bn:s00012293n:24.0,bn:s00064405n:62.0,bn:s00108985a:12.0,bn:s00037655n:62.0,bn:s00048716n:45.0,bn:s00085404v:35.0,bn:s00017517n:100.0,bn:s00054972n:63.0,bn:s00024922n:53.0,bn:s00091985v:7.0,bn:s00070853n:40.0,bn:s00024926n:48.0,bn:s00015750n:54.0,bn:s00021852n:46.0 .
+frame:Expensiveness skos:closeMatch bn:s00099557a:28.0,bn:s00102576a:11.0,bn:s00022995n:76.0,bn:s00027451n:34.0,bn:s00085851v:14.0 .
+frame:Prevarication skos:closeMatch bn:s00090324v:13.0,bn:s00031340n:43.0,bn:s00088142v:10.0,bn:s00032880n:25.0,bn:s00083368v:13.0,bn:s00083460v:28.0,bn:s00025681n:65.0,bn:s00084217v:14.0,bn:s00089961v:16.0,bn:s00027709n:130.0,bn:s00083459v:31.0,bn:s00093287v:25.0,bn:s00082429v:39.0,bn:s00051016n:46.0,bn:s00083062v:41.0,bn:s00090836v:12.0,bn:s00034203n:20.0,bn:s00083327v:19.0,bn:s00090097v:9.0,bn:s00083271v:35.0 .
+frame:Billing skos:closeMatch .
+frame:Guest_and_host skos:closeMatch bn:s00042090n:13.0,bn:s00044910n:22.0 .
+frame:Quantity skos:closeMatch bn:s00057373n:34.0,bn:s00030469n:10.0,bn:s00024511n:51.0,bn:s00102719a:32.0,bn:s00003602n:9.0,bn:s00028710n:13.0,bn:s00034197n:6.0,bn:s00004989n:34.0,bn:s00026093n:15.0,bn:s00107028a:28.0,bn:s00051672n:19.0,bn:s00000016n:24.0,bn:s00056632n:7.0,bn:s00025965n:26.0,bn:s00003603n:61.0,bn:s00107314a:25.0,bn:s00000517n:10.0,bn:s00106408a:27.0,bn:s00044195n:27.0,bn:s00028320n:54.0,bn:s00080687n:14.0,bn:s00042807n:17.0,bn:s00096798a:18.0,bn:s00102920a:22.0,bn:s00034394n:29.0,bn:s00008985n:70.0,bn:s00028515n:31.0,bn:s00007428n:72.0,bn:s00055484n:11.0 .
+frame:Part_ordered_segments skos:closeMatch bn:s00001078n:21.0,bn:s00017730n:13.0,bn:s00036184n:10.0,bn:s00012059n:77.0 .
+frame:Processing_materials skos:closeMatch bn:s00095685v:12.0,bn:s00087446v:9.0,bn:s00088667v:14.0,bn:s00087740v:6.0,bn:s00092034v:20.0,bn:s00094128v:13.0,bn:s00030956n:7.0,bn:s00087658v:13.0,bn:s00092558v:13.0,bn:s00094250v:19.0,bn:s00092032v:24.0 .
+frame:Circumscribed_existence skos:closeMatch .
+frame:Sounds skos:closeMatch bn:s00037439n:30.0,bn:s00078733n:13.0,bn:s00009804n:15.0,bn:s00077418n:10.0,bn:s00009787n:68.0,bn:s00019390n:9.0,bn:s00077352n:21.0,bn:s00007627n:76.0,bn:s00072514n:7.0,bn:s00024135n:9.0,bn:s00073744n:27.0,bn:s00069842n:18.0,bn:s00042259n:12.0,bn:s00011127n:32.0,bn:s00081893n:13.0,bn:s00022750n:108.0,bn:s00072055n:16.0,bn:s00018030n:50.0,bn:s00072408n:14.0,bn:s00014611n:28.0,bn:s00020060n:21.0,bn:s00018780n:12.0,bn:s00061178n:66.0,bn:s00009729n:18.0,bn:s00041834n:14.0,bn:s00068649n:30.0,bn:s00018542n:29.0,bn:s00018493n:42.0,bn:s00072423n:16.0,bn:s00045151n:28.0,bn:s00054399n:46.0,bn:s00014495n:14.0,bn:s00057218n:11.0,bn:s00019432n:27.0,bn:s00019594n:17.0,bn:s00065322n:25.0,bn:s00063048n:8.0,bn:s00011943n:10.0,bn:s00008250n:28.0,bn:s00008597n:31.0,bn:s00022406n:9.0,bn:s00072894n:8.0,bn:s00023631n:14.0,bn:s00081005n:8.0,bn:s00069819n:56.0,bn:s00062837n:27.0,bn:s00028821n:42.0,bn:s00040448n:18.0,bn:s00072056n:57.0,bn:s00069901n:7.0,bn:s00010608n:64.0,bn:s00011186n:13.0,bn:s00073747n:4.0,bn:s00042002n:9.0,bn:s00057863n:30.0,bn:s00066207n:6.0,bn:s00081922n:11.0,bn:s00071894n:4.0,bn:s00072446n:77.0,bn:s00049786n:32.0,bn:s00012847n:8.0,bn:s00017953n:12.0,bn:s00065486n:12.0,bn:s00012146n:47.0,bn:s00060963n:11.0,bn:s00018544n:16.0,bn:s00023108n:69.0,bn:s00063100n:5.0,bn:s00016901n:9.0,bn:s00081041n:9.0,bn:s00077123n:11.0,bn:s00045076n:17.0,bn:s00041974n:29.0,bn:s00061053n:12.0,bn:s00009587n:33.0,bn:s00073745n:21.0 .
+frame:Domain skos:closeMatch bn:s00114935r:18.0,bn:s00115196r:11.0,bn:s00115505r:11.0,bn:s00115674r:10.0,bn:s00116743r:16.0,bn:s00115369r:14.0,bn:s00114899r:6.0,bn:s00115168r:15.0,bn:s00117053r:7.0 .
+frame:Explaining_the_facts skos:closeMatch bn:s00000741n:49.0,bn:s00082231v:16.0,bn:s00087869v:13.0 .
+frame:Containers skos:closeMatch bn:s00016261n:64.0,bn:s00041277n:42.0,bn:s00008872n:57.0,bn:s00024099n:59.0,bn:s00027656n:13.0,bn:s00015344n:29.0,bn:s00067439n:13.0,bn:s00023889n:25.0,bn:s00016292n:79.0,bn:s00003657n:42.0,bn:s00078629n:47.0,bn:s00073547n:52.0,bn:s00016282n:43.0,bn:s00079499n:14.0,bn:s00030637n:7.0,bn:s00023638n:24.0,bn:s00063904n:8.0,bn:s00048516n:36.0,bn:s00016478n:40.0,bn:s00012339n:54.0,bn:s00013104n:51.0,bn:s00007752n:96.0,bn:s00031067n:8.0,bn:s00078515n:27.0,bn:s00010469n:14.0,bn:s00060407n:40.0,bn:s00008864n:12.0,bn:s00012771n:40.0,bn:s00067304n:9.0,bn:s00008691n:63.0,bn:s00010429n:62.0,bn:s00044751n:8.0,bn:s00016327n:41.0,bn:s00016405n:11.0,bn:s00049663n:45.0,bn:s00076327n:10.0,bn:s00016494n:29.0,bn:s00059895n:11.0,bn:s00007922n:25.0,bn:s00027573n:18.0,bn:s00020438n:25.0,bn:s00048023n:40.0,bn:s00069037n:34.0,bn:s00066106n:19.0,bn:s00013590n:73.0,bn:s00003672n:78.0,bn:s00014447n:55.0,bn:s00048889n:22.0,bn:s00052832n:4.0,bn:s00052769n:6.0,bn:s00062588n:49.0,bn:s00029062n:40.0,bn:s00068790n:41.0,bn:s00023781n:30.0,bn:s00079628n:36.0,bn:s00028636n:42.0,bn:s00012499n:8.0,bn:s00012133n:55.0,bn:s00065214n:15.0,bn:s00022129n:58.0,bn:s00056230n:39.0,bn:s00015103n:75.0,bn:s00048209n:36.0,bn:s00023594n:29.0,bn:s00015275n:47.0,bn:s00069073n:73.0,bn:s00024576n:23.0,bn:s00024780n:14.0,bn:s00016334n:25.0,bn:s00028756n:21.0,bn:s00017545n:50.0,bn:s00018208n:29.0,bn:s00077330n:9.0,bn:s00015743n:3.0,bn:s00017091n:77.0,bn:s00028355n:8.0,bn:s00024410n:24.0,bn:s00012524n:37.0,bn:s00069314n:23.0,bn:s00035077n:5.0,bn:s00008692n:14.0,bn:s00007925n:83.0,bn:s00009598n:23.0,bn:s00079345n:12.0,bn:s00080160n:45.0,bn:s00063820n:34.0,bn:s00022433n:6.0,bn:s00009311n:31.0,bn:s00062827n:13.0,bn:s00074452n:37.0,bn:s00042748n:30.0,bn:s00015834n:59.0,bn:s00078572n:27.0,bn:s00069270n:36.0,bn:s00034988n:35.0,bn:s00076884n:23.0,bn:s00078583n:25.0,bn:s00031756n:6.0,bn:s00014699n:35.0,bn:s00007927n:47.0,bn:s00009055n:41.0,bn:s00015815n:62.0 .
+frame:Subversion skos:closeMatch bn:s00085873v:40.0,bn:s00095343v:6.0,bn:s00075013n:38.0 .
+frame:Adopt_selection skos:closeMatch bn:s00082379v:28.0,bn:s00082384v:13.0,bn:s00082872v:38.0 .
+frame:Trap skos:closeMatch .
+frame:Cause_to_continue skos:closeMatch bn:s00089384v:63.0 .
+frame:Subordinates_and_superiors skos:closeMatch bn:s00019901n:39.0,bn:s00105570a:9.0,bn:s00035700n:16.0,bn:s00055173n:14.0,bn:s00110401a:11.0,bn:s00006523n:32.0,bn:s00035445n:8.0,bn:s00044233n:6.0,bn:s00035444n:41.0,bn:s00053713n:8.0,bn:s00020591n:7.0,bn:s00067423n:74.0 .
+frame:Locale_by_collocation skos:closeMatch .
+frame:Abundance skos:closeMatch bn:s00096219a:21.0,bn:s00092154v:16.0,bn:s00082152v:17.0 .
+frame:Out_of_existence skos:closeMatch bn:s00077433n:39.0,bn:s00044267n:15.0 .
+frame:Explosion skos:closeMatch .
+frame:Supply skos:closeMatch bn:s00092117v:5.0,bn:s00089921v:13.0,bn:s00088611v:14.0,bn:s00088251v:10.0,bn:s00088643v:17.0,bn:s00064922n:9.0,bn:s00064912n:10.0,bn:s00087710v:18.0,bn:s00031322n:15.0 .
+frame:Giving_birth skos:closeMatch .
+frame:Cause_to_fragment skos:closeMatch bn:s00083959v:10.0,bn:s00093584v:7.0,bn:s00083958v:11.0,bn:s00092142v:14.0,bn:s00086289v:12.0,bn:s00083965v:15.0,bn:s00083901v:30.0,bn:s00084314v:12.0,bn:s00084003v:20.0,bn:s00093055v:13.0,bn:s00093639v:19.0,bn:s00087042v:12.0,bn:s00093895v:14.0,bn:s00087030v:26.0,bn:s00088528v:8.0,bn:s00082598v:21.0,bn:s00085106v:19.0 .
+frame:Try_defendant skos:closeMatch bn:s00082844v:40.0 .
+frame:Behind_the_scenes skos:closeMatch bn:s00093281v:11.0,bn:s00088192v:9.0,bn:s00064581n:44.0,bn:s00084624v:21.0,bn:s00027369n:61.0,bn:s00085488v:8.0,bn:s00072920n:73.0,bn:s00056470n:38.0,bn:s00084082v:17.0,bn:s00086866v:10.0,bn:s00091979v:16.0 .
+frame:Posture skos:closeMatch bn:s00090321v:9.0,bn:s00062704n:16.0,bn:s00094275v:8.0,bn:s00089517v:11.0,bn:s00086086v:55.0,bn:s00082613v:21.0,bn:s00093776v:16.0,bn:s00083405v:29.0,bn:s00093906v:7.0,bn:s00094182v:10.0,bn:s00110238a:17.0,bn:s00085926v:26.0,bn:s00083402v:19.0,bn:s00063708n:17.0,bn:s00090123v:20.0,bn:s00007048n:40.0 .
+frame:Corroding skos:closeMatch bn:s00085841v:33.0,bn:s00085842v:25.0 .
+frame:Toxic_substance skos:closeMatch bn:s00112032a:22.0,bn:s00079743n:83.0,bn:s00063256n:74.0,bn:s00077794n:49.0 .
+frame:Removing skos:closeMatch bn:s00065287n:12.0,bn:s00030014n:27.0,bn:s00087499v:21.0,bn:s00083115v:73.0,bn:s00083843v:36.0,bn:s00092783v:30.0,bn:s00086178v:13.0,bn:s00088368v:15.0,bn:s00067087n:16.0,bn:s00086619v:17.0,bn:s00083790v:17.0,bn:s00095650v:38.0,bn:s00086986v:19.0,bn:s00087803v:21.0,bn:s00088164v:12.0,bn:s00087228v:12.0,bn:s00085079v:9.0,bn:s00087580v:7.0,bn:s00095699v:6.0,bn:s00030640n:21.0,bn:s00093048v:12.0,bn:s00093368v:21.0,bn:s00084634v:23.0,bn:s00092142v:14.0,bn:s00030359n:59.0,bn:s00082131v:46.0,bn:s00094476v:6.0,bn:s00081434n:24.0,bn:s00086001v:15.0,bn:s00032471n:14.0,bn:s00082181v:21.0,bn:s00093587v:24.0,bn:s00087578v:15.0,bn:s00082897v:42.0,bn:s00089969v:32.0,bn:s00087277v:40.0,bn:s00087436v:9.0,bn:s00022077n:36.0,bn:s00091148v:18.0,bn:s00087775v:21.0,bn:s00083791v:13.0 .
+frame:Natural_features skos:closeMatch bn:s00056098n:55.0,bn:s00026071n:5.0,bn:s00061370n:43.0,bn:s00074534n:10.0,bn:s00047618n:17.0,bn:s00017684n:56.0,bn:s00062891n:61.0,bn:s00069946n:48.0,bn:s00022173n:51.0,bn:s00034616n:65.0,bn:s00009263n:57.0,bn:s00016887n:8.0,bn:s00044425n:11.0,bn:s00063508n:66.0,bn:s00006813n:66.0,bn:s00047696n:32.0,bn:s00020518n:28.0,bn:s00074588n:106.0,bn:s00033994n:27.0,bn:s00042312n:24.0,bn:s00054482n:45.0,bn:s00040579n:56.0,bn:s00049709n:58.0,bn:s00040649n:26.0,bn:s00103443a:18.0,bn:s00023506n:6.0,bn:s00032830n:64.0,bn:s00010004n:53.0,bn:s00069149n:11.0,bn:s00067948n:63.0,bn:s00042191n:26.0,bn:s00056068n:29.0,bn:s00005434n:52.0,bn:s00055846n:14.0,bn:s00073638n:6.0,bn:s00067761n:7.0,bn:s00009212n:47.0,bn:s00047612n:48.0,bn:s00023598n:15.0,bn:s00013340n:54.0,bn:s00035841n:54.0,bn:s00015322n:74.0,bn:s00066763n:51.0,bn:s00050497n:14.0,bn:s00066290n:30.0,bn:s00019236n:68.0,bn:s00028934n:66.0,bn:s00014247n:35.0,bn:s00016681n:12.0,bn:s00011766n:162.0,bn:s00070032n:30.0,bn:s00071161n:70.0,bn:s00058574n:45.0,bn:s00023758n:86.0,bn:s00016903n:31.0,bn:s00049696n:64.0,bn:s00025055n:12.0,bn:s00029124n:89.0,bn:s00035291n:52.0,bn:s00079748n:27.0,bn:s00072224n:14.0,bn:s00044141n:41.0,bn:s00046812n:42.0,bn:s00042160n:19.0,bn:s00077654n:7.0,bn:s00025921n:22.0,bn:s00023773n:24.0,bn:s00014010n:7.0,bn:s00000942n:67.0,bn:s00069127n:14.0,bn:s00009251n:42.0,bn:s00067860n:26.0,bn:s00035439n:16.0,bn:s00025742n:23.0,bn:s00028953n:21.0,bn:s00019767n:51.0,bn:s00100376a:23.0,bn:s00053704n:35.0,bn:s00051763n:33.0,bn:s00008469n:14.0,bn:s00023343n:34.0,bn:s00076155n:24.0,bn:s00072895n:64.0,bn:s00016878n:61.0,bn:s00099937a:13.0,bn:s00017494n:77.0,bn:s00016388n:10.0,bn:s00027878n:46.0,bn:s00079476n:69.0,bn:s00059760n:29.0,bn:s00042745n:56.0,bn:s00009463n:4.0,bn:s00026404n:34.0,
